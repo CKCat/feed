@@ -37,10 +37,16 @@
 ### [mrexodia](https://github.com/mrexodia)
 - ✨ 👤 [mrexodia](https://github.com/mrexodia) Created new repo [mrexodia/service-manager](https://github.com/mrexodia/service-manager)
   > Dumb service manager with a simple web UI and stdout tracing.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [scabench-org/hound](https://github.com/scabench-org/hound)
+  > Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep...
 
 ### [mustime](https://github.com/mustime)
 - 🍴 👤 [mustime](https://github.com/mustime) Forked [Nelarius/imnodes](https://github.com/Nelarius/imnodes) to [mustime/imnodes](https://github.com/mustime/imnodes)
   > A small, dependency-free node editor for dear imgui
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+  > An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/todo-rs](https://github.com/pinwhell/todo-rs)
@@ -64,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-10-11 21:18:21 UTC*
+*最后更新于 2025-10-11 21:38:43 UTC*
 *历史记录保存在 `archive` 目录中。*
