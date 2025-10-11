@@ -49,6 +49,10 @@
 - 🍴 👤 [mustime](https://github.com/mustime) Forked [Nelarius/imnodes](https://github.com/Nelarius/imnodes) to [mustime/imnodes](https://github.com/mustime/imnodes)
   > A small, dependency-free node editor for dear imgui
 
+### [mytechnotalent](https://github.com/mytechnotalent)
+- ✨ 👤 [mytechnotalent](https://github.com/mytechnotalent) Created new repo [mytechnotalent/C-Robot](https://github.com/mytechnotalent/C-Robot)
+  > Robot firmware for Waveshare Pico2Go (RP2350-Plus) in Embedded C; leverages RP2350 for reliable moto...
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
   > An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-10-11 23:20:18 UTC*
+*最后更新于 2025-10-11 23:39:29 UTC*
 *历史记录保存在 `archive` 目录中。*
