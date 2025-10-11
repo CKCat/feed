@@ -20,6 +20,10 @@
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
   > An even funnier way to disable windows defender. (through WSC api)
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [jingguanzhang/gift-book](https://github.com/jingguanzhang/gift-book)
+  > 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。专为红白喜事设计，提供高效录入、Excel/PDF 专业报表导出一站式礼金管理解决方案。
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [LukeFZ/AssetStudio](https://github.com/LukeFZ/AssetStudio)
   > AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
@@ -36,5 +40,5 @@
 
 
 ---
-*最后更新于 2025-10-11 19:38:16 UTC*
+*最后更新于 2025-10-11 20:22:13 UTC*
 *历史记录保存在 `archive` 目录中。*
