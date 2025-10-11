@@ -29,7 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        run: python daily_digest_high_freq.py
+        run: python feed.py
 
       - name: Commit and push changes
         run: |
@@ -43,4 +43,5 @@ jobs:
             COMMIT_DATE=$(date -u +'%Y-%m-%d %H:%M')
             git commit -m "docs(activity): 刷新动态 @ ${COMMIT_DATE} UTC"
             git push
+
           fi
