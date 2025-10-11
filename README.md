@@ -28,6 +28,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [jingguanzhang/gift-book](https://github.com/jingguanzhang/gift-book)
   > 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。专为红白喜事设计，提供高效录入、Excel/PDF 专业报表导出一站式礼金管理解决方案。
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+  > A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as ...
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [LukeFZ/AssetStudio](https://github.com/LukeFZ/AssetStudio)
   > AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
@@ -39,6 +43,7 @@
   > Dumb service manager with a simple web UI and stdout tracing.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [scabench-org/hound](https://github.com/scabench-org/hound)
   > Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
 ### [mustime](https://github.com/mustime)
 - 🍴 👤 [mustime](https://github.com/mustime) Forked [Nelarius/imnodes](https://github.com/Nelarius/imnodes) to [mustime/imnodes](https://github.com/mustime/imnodes)
@@ -59,6 +64,8 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
   > 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activ...
+- 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) to [sonyps5201314/ILSpy](https://github.com/sonyps5201314/ILSpy)
+  > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 ### [ylcangel](https://github.com/ylcangel)
 - 🚀 👤 [ylcangel](https://github.com/ylcangel) Made [ylcangel/binary_vulnerability](https://github.com/ylcangel/binary_vulnerability) public
@@ -70,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-10-11 22:39:52 UTC*
+*最后更新于 2025-10-11 23:20:18 UTC*
 *历史记录保存在 `archive` 目录中。*
