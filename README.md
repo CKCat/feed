@@ -8,6 +8,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
   > JoySafety
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [Wu-Yijun/Mathematica-Keygen-Mechanism](https://github.com/Wu-Yijun/Mathematica-Keygen-Mechanism) to [JingMatrix/Mathematica-Keygen-Mechanism](https://github.com/JingMatrix/Mathematica-Keygen-Mechanism)
+  > Mathematica 14.3 Keygen
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
   > A simple, decentralized mesh VPN with WireGuard support.
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-10-11 19:15:53 UTC*
+*最后更新于 2025-10-11 19:38:16 UTC*
 *历史记录保存在 `archive` 目录中。*
