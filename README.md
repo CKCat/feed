@@ -20,6 +20,10 @@
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
   > An even funnier way to disable windows defender. (through WSC api)
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mackron/miniaudio](https://github.com/mackron/miniaudio)
+  > Audio playback and capture library written in C, in a single source file.
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [jingguanzhang/gift-book](https://github.com/jingguanzhang/gift-book)
   > 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。专为红白喜事设计，提供高效录入、Excel/PDF 专业报表导出一站式礼金管理解决方案。
@@ -29,6 +33,10 @@
   > AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio)
   > AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and so...
+
+### [mrexodia](https://github.com/mrexodia)
+- ✨ 👤 [mrexodia](https://github.com/mrexodia) Created new repo [mrexodia/service-manager](https://github.com/mrexodia/service-manager)
+  > Dumb service manager with a simple web UI and stdout tracing.
 
 ### [mustime](https://github.com/mustime)
 - 🍴 👤 [mustime](https://github.com/mustime) Forked [Nelarius/imnodes](https://github.com/Nelarius/imnodes) to [mustime/imnodes](https://github.com/mustime/imnodes)
@@ -50,7 +58,11 @@
 - 🚀 👤 [ylcangel](https://github.com/ylcangel) Made [ylcangel/binary_vulnerability](https://github.com/ylcangel/binary_vulnerability) public
   > 二进制漏洞之栈溢出原理和利用技术、绕过安全保护技术(绕过 NX、 ASLR、PIE、Canary、RELRO 等)、格式化字符串漏洞原理是利用技术、整数溢出漏 洞原理和利用技术、glibc2.30 内...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso)
+  > A search-focused Android launcher
+
 
 ---
-*最后更新于 2025-10-11 20:39:13 UTC*
+*最后更新于 2025-10-11 21:18:21 UTC*
 *历史记录保存在 `archive` 目录中。*
