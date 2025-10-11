@@ -16,6 +16,12 @@
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
   > An even funnier way to disable windows defender. (through WSC api)
 
+### [lxraa](https://github.com/lxraa)
+- 🌟 👤 [lxraa](https://github.com/lxraa) Starred [LukeFZ/AssetStudio](https://github.com/LukeFZ/AssetStudio)
+  > AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
+- 🌟 👤 [lxraa](https://github.com/lxraa) Starred [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio)
+  > AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and so...
+
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/todo-rs](https://github.com/pinwhell/todo-rs)
   > Rust CLI Task Manager with JSON Persistence
@@ -26,5 +32,5 @@
 
 
 ---
-*最后更新于 2025-10-11 18:44:17 UTC*
+*最后更新于 2025-10-11 19:15:53 UTC*
 *历史记录保存在 `archive` 目录中。*
