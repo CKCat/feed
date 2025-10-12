@@ -25,6 +25,10 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [TryExceptElseFinally/WITRN_binary](https://github.com/TryExceptElseFinally/WITRN_binary)
   > Reverse Engineering for WITRN products binary firmware
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+  > A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as ...
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [orzice/DeltaForcePrice](https://github.com/orzice/DeltaForcePrice)
   > 三角洲行动API-真实游戏内交易行实时价格
@@ -51,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-10-12 17:38:51 UTC*
+*最后更新于 2025-10-12 18:30:13 UTC*
 *历史记录保存在 `archive` 目录中。*
