@@ -12,6 +12,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [fuqiuluo/kernel-hook-syscalls](https://github.com/fuqiuluo/kernel-hook-syscalls)
   > A Kernel module to break the kernel read-only to modify the syscall_table purpose (only in the Linux...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [yang-zhongtian/KProtect](https://github.com/yang-zhongtian/KProtect)
+  > Stack-based JavaScript virtual machine
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2025-10-12 16:26:12 UTC*
+*最后更新于 2025-10-12 16:43:32 UTC*
 *历史记录保存在 `archive` 目录中。*
