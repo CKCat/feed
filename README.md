@@ -8,7 +8,12 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [anrui2032/ims-patches](https://github.com/anrui2032/ims-patches)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [TryExceptElseFinally/WITRN_binary](https://github.com/TryExceptElseFinally/WITRN_binary)
+  > Reverse Engineering for WITRN products binary firmware
+
 
 ---
-*最后更新于 2025-10-12 10:21:39 UTC*
+*最后更新于 2025-10-12 10:40:37 UTC*
 *历史记录保存在 `archive` 目录中。*
