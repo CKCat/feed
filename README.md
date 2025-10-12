@@ -38,6 +38,9 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [kjiwa/x86-boot-sector-c](https://github.com/kjiwa/x86-boot-sector-c) to [mrexodia/x86-boot-sector-c](https://github.com/mrexodia/x86-boot-sector-c)
   > A DOS boot sector written in C
 
+### [vvb2060](https://github.com/vvb2060)
+- ✨ 👤 [vvb2060](https://github.com/vvb2060) Created new repo [vvb2060/Ims](https://github.com/vvb2060/Ims)
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
   > Python wrapper for TA-Lib (http://ta-lib.org/).
@@ -48,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-10-12 16:43:32 UTC*
+*最后更新于 2025-10-12 17:17:55 UTC*
 *历史记录保存在 `archive` 目录中。*
