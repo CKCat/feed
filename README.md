@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [3intermute/arm64_silent_syscall_hook](https://github.com/3intermute/arm64_silent_syscall_hook)
+  > silent syscall hooking without modifying sys_call_table/handlers via patching exception handler
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [fuqiuluo/ovo](https://github.com/fuqiuluo/ovo)
+  > Android aarch64 kernel driver module providing efficient memory operations, touch simulation and IPC...
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [fuqiuluo/kernel-hook-syscalls](https://github.com/fuqiuluo/kernel-hook-syscalls)
+  > A Kernel module to break the kernel read-only to modify the syscall_table purpose (only in the Linux...
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
@@ -19,6 +27,12 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dominikh/go-tools](https://github.com/dominikh/go-tools)
+  > Staticcheck - The advanced Go linter
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)
+  > A collection of commands and tools used for conducting enumeration during my OSCP journey
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [kjiwa/x86-boot-sector-c](https://github.com/kjiwa/x86-boot-sector-c) to [mrexodia/x86-boot-sector-c](https://github.com/mrexodia/x86-boot-sector-c)
+  > A DOS boot sector written in C
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
@@ -30,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-10-12 15:39:01 UTC*
+*最后更新于 2025-10-12 16:26:12 UTC*
 *历史记录保存在 `archive` 目录中。*
