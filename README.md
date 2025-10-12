@@ -12,6 +12,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [fuqiuluo/kernel-hook-syscalls](https://github.com/fuqiuluo/kernel-hook-syscalls)
   > A Kernel module to break the kernel read-only to modify the syscall_table purpose (only in the Linux...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+  > Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [yang-zhongtian/KProtect](https://github.com/yang-zhongtian/KProtect)
   > Stack-based JavaScript virtual machine
@@ -47,6 +51,14 @@
   > A collection of commands and tools used for conducting enumeration during my OSCP journey
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [kjiwa/x86-boot-sector-c](https://github.com/kjiwa/x86-boot-sector-c) to [mrexodia/x86-boot-sector-c](https://github.com/mrexodia/x86-boot-sector-c)
   > A DOS boot sector written in C
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
+  > PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io)
+  > GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions i...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)
+  > Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
+  > Monitor linux processes without root permissions
 
 ### [vvb2060](https://github.com/vvb2060)
 - ✨ 👤 [vvb2060](https://github.com/vvb2060) Created new repo [vvb2060/Ims](https://github.com/vvb2060/Ims)
@@ -54,6 +66,8 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
   > Python wrapper for TA-Lib (http://ta-lib.org/).
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Micro-sheep/efinance](https://github.com/Micro-sheep/efinance)
+  > efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀
 
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [pgsty/pigsty](https://github.com/pgsty/pigsty) to [zu1kbackup/pigsty](https://github.com/zu1kbackup/pigsty)
@@ -61,5 +75,5 @@
 
 
 ---
-*最后更新于 2025-10-12 19:38:53 UTC*
+*最后更新于 2025-10-12 20:23:54 UTC*
 *历史记录保存在 `archive` 目录中。*
