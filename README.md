@@ -12,6 +12,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [fuqiuluo/kernel-hook-syscalls](https://github.com/fuqiuluo/kernel-hook-syscalls)
   > A Kernel module to break the kernel read-only to modify the syscall_table purpose (only in the Linux...
 
+### [Fare9](https://github.com/Fare9)
+- 🍴 👤 [Fare9](https://github.com/Fare9) Forked [Nalen98/GhidraEmu](https://github.com/Nalen98/GhidraEmu) to [Fare9/GhidraEmu](https://github.com/Fare9/GhidraEmu)
+  > Native Pcode emulator
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
   > Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
@@ -75,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-10-12 23:19:56 UTC*
+*最后更新于 2025-10-12 23:39:07 UTC*
 *历史记录保存在 `archive` 目录中。*
