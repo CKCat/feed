@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-今天还没有新的公开动态。
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
+  > Run command with specific selinux context for Android
+
 
 ---
-*最后更新于 2025-10-12 09:21:06 UTC*
+*最后更新于 2025-10-12 09:39:06 UTC*
 *历史记录保存在 `archive` 目录中。*
