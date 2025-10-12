@@ -13,11 +13,18 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [TryExceptElseFinally/WITRN_binary](https://github.com/TryExceptElseFinally/WITRN_binary)
   > Reverse Engineering for WITRN products binary firmware
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
+  > Python wrapper for TA-Lib (http://ta-lib.org/).
+
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [pgsty/pigsty](https://github.com/pgsty/pigsty) to [zu1kbackup/pigsty](https://github.com/zu1kbackup/pigsty)
   > Free RDS for PostgreSQL — Pigsty
 
 
 ---
-*最后更新于 2025-10-12 13:39:05 UTC*
+*最后更新于 2025-10-12 14:19:02 UTC*
 *历史记录保存在 `archive` 目录中。*
