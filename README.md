@@ -33,6 +33,12 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [orzice/DeltaForcePrice](https://github.com/orzice/DeltaForcePrice)
   > 三角洲行动API-真实游戏内交易行实时价格
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [0xflux/Sanctum](https://github.com/0xflux/Sanctum)
+  > Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above...
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [PaperDebugger/paperdebugger](https://github.com/PaperDebugger/paperdebugger)
+  > Paper Debugger is the best overleaf companion
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dominikh/go-tools](https://github.com/dominikh/go-tools)
@@ -55,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-10-12 19:17:01 UTC*
+*最后更新于 2025-10-12 19:38:53 UTC*
 *历史记录保存在 `archive` 目录中。*
