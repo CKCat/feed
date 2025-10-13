@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [0999312/SlashBlade_Resharped](https://github.com/0999312/SlashBlade_Resharped)
+  > Slashblade on Modern Minecraft
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp)
   > C++ websocket client/server library
@@ -14,6 +18,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [swananan/ghostscope](https://github.com/swananan/ghostscope)
   > A DWARF-aware eBPF tracer with cgdb-like TUI - explore live processes at runtime
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [evilsocket/cake](https://github.com/evilsocket/cake)
+  > Distributed LLM and StableDiffusion inference for mobile, desktop and server.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Mati365/ts-c-compiler](https://github.com/Mati365/ts-c-compiler)
@@ -31,5 +39,5 @@
 
 
 ---
-*最后更新于 2025-10-13 13:33:35 UTC*
+*最后更新于 2025-10-13 14:25:27 UTC*
 *历史记录保存在 `archive` 目录中。*
