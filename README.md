@@ -19,11 +19,17 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Mati365/ts-c-compiler](https://github.com/Mati365/ts-c-compiler)
   > ⚙️ C99-compatible multipass compiler written in TypeScript with GCC extensions support. Features a h...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [swananan/ghostscope](https://github.com/swananan/ghostscope)
+  > A DWARF-aware eBPF tracer with cgdb-like TUI - explore live processes at runtime
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [fuqiuluo/kernel-hook-syscalls](https://github.com/fuqiuluo/kernel-hook-syscalls)
+  > A Kernel module to break the kernel read-only to modify the syscall_table purpose (only in the Linux...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)
   > Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents. 
 
 
 ---
-*最后更新于 2025-10-13 12:50:58 UTC*
+*最后更新于 2025-10-13 13:33:35 UTC*
 *历史记录保存在 `archive` 目录中。*
