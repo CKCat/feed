@@ -4,6 +4,11 @@
 
 ## 今日动态
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp)
+  > C++ websocket client/server library
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [eclipse-paho/paho.mqtt.cpp](https://github.com/eclipse-paho/paho.mqtt.cpp)
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [swananan/ghostscope](https://github.com/swananan/ghostscope)
   > A DWARF-aware eBPF tracer with cgdb-like TUI - explore live processes at runtime
@@ -14,5 +19,5 @@
 
 
 ---
-*最后更新于 2025-10-13 07:24:44 UTC*
+*最后更新于 2025-10-13 07:41:06 UTC*
 *历史记录保存在 `archive` 目录中。*
