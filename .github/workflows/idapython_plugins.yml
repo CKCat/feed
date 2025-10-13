@@ -8,8 +8,11 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
+  update-idapython_plugins:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
       # 1. Checkout a copy of your repository
       - name: Checkout repository
