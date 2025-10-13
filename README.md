@@ -19,7 +19,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Mati365/ts-c-compiler](https://github.com/Mati365/ts-c-compiler)
   > ⚙️ C99-compatible multipass compiler written in TypeScript with GCC extensions support. Features a h...
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)
+  > Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents. 
+
 
 ---
-*最后更新于 2025-10-13 11:39:44 UTC*
+*最后更新于 2025-10-13 12:50:58 UTC*
 *历史记录保存在 `archive` 目录中。*
