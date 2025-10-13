@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-今天还没有新的公开动态。
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [swananan/ghostscope](https://github.com/swananan/ghostscope)
+  > A DWARF-aware eBPF tracer with cgdb-like TUI - explore live processes at runtime
+
 
 ---
-*最后更新于 2025-10-13 05:42:42 UTC*
+*最后更新于 2025-10-13 06:37:18 UTC*
 *历史记录保存在 `archive` 目录中。*
