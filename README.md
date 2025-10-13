@@ -40,6 +40,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)
   > Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents. 
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [wshobson/agents](https://github.com/wshobson/agents)
+  > Intelligent automation and multi-agent orchestration for Claude Code
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) to [sonyps5201314/dnSpy](https://github.com/sonyps5201314/dnSpy)
@@ -47,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-10-13 21:20:39 UTC*
+*最后更新于 2025-10-13 21:38:10 UTC*
 *历史记录保存在 `archive` 目录中。*
