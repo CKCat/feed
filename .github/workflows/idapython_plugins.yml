@@ -1,66 +1,64 @@
-name: Update README with IDA Pro Plugins
+name: Update idapython_plugins with IDA Pro Python Plugins
 
 on:
-  # 允许手动触发
   workflow_dispatch:
-  # 设置定时任务，例如每天的 0 点执行一次
   schedule:
     - cron: '0 0 * * *'
 
 jobs:
-  update-idapython_plugins:
+  update-idapython-plugins:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
-      # 1. Checkout a copy of your repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Search for repositories
-      - name: Search for repositories
+      - name: Search for Python plugin repositories
         id: search
         run: |
-          # 使用 GitHub CLI 进行代码搜索，并格式化输出
-          # 我们搜索包含 "def PLUGIN_ENTRY()" 的 Python 文件
-          # --limit 100 可以根据你的需要调整搜索结果的数量
-          gh search code '"def PLUGIN_ENTRY()" language:Python' --limit 100 --json repository --jq '[.[] | .repository.owner.login + "/" + .repository.name] | unique | .[]' > repos.txt
-          echo "Found $(wc -l < repos.txt) unique repositories."
+          # 1. 将 --limit 提高到 1000
+          # 2. 简化 jq 过滤器，直接使用 .repository.fullName
+          gh search code '"def PLUGIN_ENTRY()" language:Python' --limit 1000 --json repository --jq '[.[] | .repository.fullName] | unique | .[]' > repos_python.txt
+
+          # 增加一个调试输出，方便观察结果
+          echo "Found $(wc -l < repos_python.txt) unique Python plugin repositories. See list below:"
+          cat repos_python.txt
         env:
-          # GITHUB_TOKEN 是由 GitHub Actions 自动提供的
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Update idapython_plugins.md
-      - name: Update idapython_plugins.md
+      # 后续的 "Update idapython_plugins.md" 和 "Commit and push" 步骤保持不变
+      - name: Update idapython_plugins.md with Python plugin list
         run: |
-          # 创建一个新的 README 文件，包含原始 README 的内容和新的仓库列表
-          {
-            cat idapython_plugins.md;
-            echo "";
-            echo "## IDA Pro Plugin Repositories";
-            echo "";
-            while IFS= read -r repo; do
-              echo "- [$repo](https://github.com/$repo)"
-            done < repos.txt;
-          } > NEW_idapython_plugins.md
-
-          # 替换旧的 README
-          mv NEW_idapython_plugins.md idapython_plugins.md
-
-      # 4. Commit and push if there are changes
+          python -c "
+          import re
+          with open('repos_python.txt', 'r') as f:
+              repos = [line.strip() for line in f.readlines() if line.strip()]
+          markdown_list = []
+          for repo in repos:
+              markdown_list.append(f'- [{repo}](https://github.com/{repo})')
+          list_content = '\n'.join(markdown_list)
+          new_content = f'<!-- IDA_PYTHON_PLUGINS_START -->\n{list_content}\n<!-- IDA_PYTHON_PLUGINS_END -->'
+          with open('idapython_plugins.md', 'r') as f:
+              idapython_plugins_content = f.read()
+          updated_idapython_plugins = re.sub(
+              r'<!-- IDA_PYTHON_PLUGINS_START -->(.|\n)*<!-- IDA_PYTHON_PLUGINS_END -->',
+              new_content,
+              idapython_plugins_content
+          )
+          with open('idapython_plugins.md', 'w') as f:
+              f.write(updated_idapython_plugins)
+          "
       - name: Commit and push if changed
         run: |
-          # 配置 git 用户
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-          # 检查是否有文件变动
           if ! git diff --quiet idapython_plugins.md; then
             git add idapython_plugins.md
-            git commit -m "docs: update README with latest IDA Pro plugins"
+            git commit -m "docs: update Python plugin list"
             git push
-            echo "idapython_plugins.md updated and pushed."
+            echo "idapython_plugins.md updated for Python plugins."
           else
-            echo "No changes to idapython_plugins.md."
+            echo "No changes for Python plugins."
           fi
