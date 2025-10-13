@@ -8,6 +8,8 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp)
   > C++ websocket client/server library
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [eclipse-paho/paho.mqtt.cpp](https://github.com/eclipse-paho/paho.mqtt.cpp)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)
+  > Eclipse Mosquitto - An open source MQTT broker
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [swananan/ghostscope](https://github.com/swananan/ghostscope)
@@ -19,5 +21,5 @@
 
 
 ---
-*最后更新于 2025-10-13 08:34:22 UTC*
+*最后更新于 2025-10-13 09:28:55 UTC*
 *历史记录保存在 `archive` 目录中。*
