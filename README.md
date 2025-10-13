@@ -47,7 +47,11 @@
 - 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) to [sonyps5201314/dnSpy](https://github.com/sonyps5201314/dnSpy)
   > Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop)
+  > A Progressive Web App for local file sharing 
+
 
 ---
-*最后更新于 2025-10-13 22:40:56 UTC*
+*最后更新于 2025-10-13 23:20:13 UTC*
 *历史记录保存在 `archive` 目录中。*
