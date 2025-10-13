@@ -37,7 +37,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)
   > Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents. 
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) to [sonyps5201314/dnSpy](https://github.com/sonyps5201314/dnSpy)
+  > Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+
 
 ---
-*最后更新于 2025-10-13 16:30:07 UTC*
+*最后更新于 2025-10-13 16:49:07 UTC*
 *历史记录保存在 `archive` 目录中。*
