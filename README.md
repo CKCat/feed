@@ -19,6 +19,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [swananan/ghostscope](https://github.com/swananan/ghostscope)
   > A DWARF-aware eBPF tracer with cgdb-like TUI - explore live processes at runtime
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [Ylarod/ddk](https://github.com/Ylarod/ddk) to [fuqiuluo/ddk](https://github.com/fuqiuluo/ddk)
+  > 内核驱动开发工具包 (Kernel Driver Development Kit)
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [evilsocket/cake](https://github.com/evilsocket/cake)
   > Distributed LLM and StableDiffusion inference for mobile, desktop and server.
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-10-13 16:49:07 UTC*
+*最后更新于 2025-10-13 17:20:15 UTC*
 *历史记录保存在 `archive` 目录中。*
