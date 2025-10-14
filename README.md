@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-今天还没有符合筛选条件的公开动态。
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mrexodia/x86-real-mode-bootloader](https://github.com/mrexodia/x86-real-mode-bootloader)
+  > Boot loader for real mode written in C.
+
 
 ---
-*最后更新于 2025-10-14 07:23:55 UTC*
+*最后更新于 2025-10-14 07:40:15 UTC*
 *历史记录保存在 `archive` 目录中。*
