@@ -8,6 +8,9 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mrexodia/x86-real-mode-bootloader](https://github.com/mrexodia/x86-real-mode-bootloader)
   > Boot loader for real mode written in C.
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Dinolek/mt6785-mainline](https://github.com/Dinolek/mt6785-mainline)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - ✨ 👤 [crazyguitar](https://github.com/crazyguitar) Created new repo [crazyguitar/aws-gpu-communication-benchmark](https://github.com/crazyguitar/aws-gpu-communication-benchmark)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
@@ -30,5 +33,5 @@
 
 
 ---
-*最后更新于 2025-10-14 11:39:42 UTC*
+*最后更新于 2025-10-14 12:52:43 UTC*
 *历史记录保存在 `archive` 目录中。*
