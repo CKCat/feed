@@ -10,6 +10,8 @@
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - ✨ 👤 [crazyguitar](https://github.com/crazyguitar) Created new repo [crazyguitar/aws-gpu-communication-benchmark](https://github.com/crazyguitar/aws-gpu-communication-benchmark)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [JetBrains/koog](https://github.com/JetBrains/koog)
@@ -28,5 +30,5 @@
 
 
 ---
-*最后更新于 2025-10-14 11:19:29 UTC*
+*最后更新于 2025-10-14 11:39:42 UTC*
 *历史记录保存在 `archive` 目录中。*
