@@ -16,6 +16,8 @@
   > Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready ...
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [JetBrains/fleet-plugin-template](https://github.com/JetBrains/fleet-plugin-template)
   > Template repository for creating plugins for JetBrains Fleet
+- ✨ 👤 [phodal](https://github.com/phodal) Created new repo [phodal/autodev-code-poc](https://github.com/phodal/autodev-code-poc)
+  > A sample using the Fleet library to test a mini CLI in Kotlin.
 
 ### [w296488320](https://github.com/w296488320)
 - 🌟 👤 [w296488320](https://github.com/w296488320) Starred [w296488320/HunterUpdate](https://github.com/w296488320/HunterUpdate)
@@ -26,5 +28,5 @@
 
 
 ---
-*最后更新于 2025-10-14 10:45:37 UTC*
+*最后更新于 2025-10-14 11:19:29 UTC*
 *历史记录保存在 `archive` 目录中。*
