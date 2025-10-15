@@ -4,49 +4,85 @@
 
 ## 今日动态
 
-### [0eu](https://github.com/0eu)
-- 🌟 👤 [0eu](https://github.com/0eu) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-  > Frontier Open-Source Text-to-Speech
-- 🌟 👤 [0eu](https://github.com/0eu) Starred [microsoft/lsif-java](https://github.com/microsoft/lsif-java)
-  > Language Server Indexing Format implementation for Java
+### [Acemampz](https://github.com/Acemampz)
+- 🌟 👤 [Acemampz](https://github.com/Acemampz) Starred [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer)
+  > RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through...
 
-### [0xWesleyS](https://github.com/0xWesleyS)
-- 🌟 👤 [0xWesleyS](https://github.com/0xWesleyS) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [BeaNoodle](https://github.com/BeaNoodle)
+- 🌟 👤 [BeaNoodle](https://github.com/BeaNoodle) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [Tea-4-Two](https://github.com/Tea-4-Two)
-- 🌟 👤 [Tea-4-Two](https://github.com/Tea-4-Two) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- 🍴 👤 [Tea-4-Two](https://github.com/Tea-4-Two) Forked [Tea-4-Two/Web-Dev-For-Beginners](https://github.com/Tea-4-Two/Web-Dev-For-Beginners) to [Tea-4-Two/Web-Dev-For-Beginners](https://github.com/Tea-4-Two/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+### [CZakarya](https://github.com/CZakarya)
+- 🌟 👤 [CZakarya](https://github.com/CZakarya) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
-### [alejandraarreola0822-eng](https://github.com/alejandraarreola0822-eng)
-- 🍴 👤 [alejandraarreola0822-eng](https://github.com/alejandraarreola0822-eng) Forked [alejandraarreola0822-eng/vscode-js-debug](https://github.com/alejandraarreola0822-eng/vscode-js-debug) to [alejandraarreola0822-eng/vscode-js-debug](https://github.com/alejandraarreola0822-eng/vscode-js-debug)
-  > A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
+### [Dr9](https://github.com/Dr9)
+- 🌟 👤 [Dr9](https://github.com/Dr9) Starred [microsoft/Olive](https://github.com/microsoft/Olive)
+  > Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and N...
 
-### [balajirajput96](https://github.com/balajirajput96)
-- 🌟 👤 [balajirajput96](https://github.com/balajirajput96) Starred [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
-  > Copilot Chat extension for VS Code
+### [Im2rnado](https://github.com/Im2rnado)
+- 🌟 👤 [Im2rnado](https://github.com/Im2rnado) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-### [denalitherrien](https://github.com/denalitherrien)
-- 🌟 👤 [denalitherrien](https://github.com/denalitherrien) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+### [ademkanat](https://github.com/ademkanat)
+- 🌟 👤 [ademkanat](https://github.com/ademkanat) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [aqn96](https://github.com/aqn96)
+- 🌟 👤 [aqn96](https://github.com/aqn96) Starred [microsoft/SecRL](https://github.com/microsoft/SecRL)
+  > Benchmarking LLM agents on Cyber Threat Investigation.
+
+### [bapho-bush](https://github.com/bapho-bush)
+- 🌟 👤 [bapho-bush](https://github.com/bapho-bush) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+
+### [elasmae](https://github.com/elasmae)
+- 🌟 👤 [elasmae](https://github.com/elasmae) Starred [microsoft/unilm](https://github.com/microsoft/unilm)
+  > Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+
+### [florelis](https://github.com/florelis)
+- 🍴 👤 [florelis](https://github.com/florelis) Forked [florelis/WSL](https://github.com/florelis/WSL) to [florelis/WSL](https://github.com/florelis/WSL)
+  > Windows Subsystem for Linux
+
+### [freshprincekeem](https://github.com/freshprincekeem)
+- 🌟 👤 [freshprincekeem](https://github.com/freshprincekeem) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
 
-### [erizzle42](https://github.com/erizzle42)
-- 🌟 👤 [erizzle42](https://github.com/erizzle42) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [georgethefrog](https://github.com/georgethefrog)
+- 🍴 👤 [georgethefrog](https://github.com/georgethefrog) Forked [georgethefrog/qlib](https://github.com/georgethefrog/qlib) to [georgethefrog/qlib](https://github.com/georgethefrog/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [gmoreno-bmc](https://github.com/gmoreno-bmc)
+- 🍴 👤 [gmoreno-bmc](https://github.com/gmoreno-bmc) Forked [gmoreno-bmc/generative-ai-for-beginners](https://github.com/gmoreno-bmc/generative-ai-for-beginners) to [gmoreno-bmc/generative-ai-for-beginners](https://github.com/gmoreno-bmc/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [lumamontes](https://github.com/lumamontes)
-- 🌟 👤 [lumamontes](https://github.com/lumamontes) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [hannahbellesheart](https://github.com/hannahbellesheart)
+- 🍴 👤 [hannahbellesheart](https://github.com/hannahbellesheart) Forked [hannahbellesheart/monaco-editor](https://github.com/hannahbellesheart/monaco-editor) to [hannahbellesheart/monaco-editor](https://github.com/hannahbellesheart/monaco-editor)
+  > A browser based code editor
 
-### [szarnyasg](https://github.com/szarnyasg)
-- 🌟 👤 [szarnyasg](https://github.com/szarnyasg) Starred [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
-- 🍴 👤 [szarnyasg](https://github.com/szarnyasg) Forked [szarnyasg/winget-pkgs](https://github.com/szarnyasg/winget-pkgs) to [szarnyasg/winget-pkgs](https://github.com/szarnyasg/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
+### [nklc](https://github.com/nklc)
+- 🌟 👤 [nklc](https://github.com/nklc) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+
+### [pilardi](https://github.com/pilardi)
+- 🌟 👤 [pilardi](https://github.com/pilardi) Starred [microsoft/msccl](https://github.com/microsoft/msccl)
+  > Microsoft Collective Communication Library
+
+### [refikburak](https://github.com/refikburak)
+- 🌟 👤 [refikburak](https://github.com/refikburak) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [shailendrahegde](https://github.com/shailendrahegde)
+- 🌟 👤 [shailendrahegde](https://github.com/shailendrahegde) Starred [microsoft/PAX](https://github.com/microsoft/PAX)
+  > Portable Audit eXporter (PAX): Enterprise PowerShell tool for Microsoft audit log export and analysi...
+
+### [twilwa](https://github.com/twilwa)
+- 🌟 👤 [twilwa](https://github.com/twilwa) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+
+### [yozx](https://github.com/yozx)
+- 🌟 👤 [yozx](https://github.com/yozx) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
 
 
 ---
-*最后更新于 2025-10-15 20:44:02 UTC*
+*最后更新于 2025-10-15 21:20:39 UTC*
 *历史记录保存在 `archive` 目录中。*
