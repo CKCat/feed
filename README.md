@@ -4,11 +4,14 @@
 
 ## 今日动态
 
-### [lfmreinhard](https://github.com/lfmreinhard)
-- 🌟 👤 [lfmreinhard](https://github.com/lfmreinhard) Starred [microsoft/agent-academy](https://github.com/microsoft/agent-academy)
-  > Curated lessons on getting started building agents with Copilot Studio
+### [chaudharynidhi](https://github.com/chaudharynidhi)
+- 🍴 👤 [chaudharynidhi](https://github.com/chaudharynidhi) Forked [chaudharynidhi/generative-ai-for-beginners](https://github.com/chaudharynidhi/generative-ai-for-beginners) to [chaudharynidhi/generative-ai-for-beginners](https://github.com/chaudharynidhi/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [ouor](https://github.com/ouor)
+- 🌟 👤 [ouor](https://github.com/ouor) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
 
 
 ---
-*最后更新于 2025-10-15 10:47:14 UTC*
+*最后更新于 2025-10-15 11:20:03 UTC*
 *历史记录保存在 `archive` 目录中。*
