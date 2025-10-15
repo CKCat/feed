@@ -4,45 +4,30 @@
 
 ## 今日动态
 
-### [Pengchangcheng](https://github.com/Pengchangcheng)
-- 🌟 👤 [Pengchangcheng](https://github.com/Pengchangcheng) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [Dandelight](https://github.com/Dandelight)
+- 🌟 👤 [Dandelight](https://github.com/Dandelight) Starred [microsoft/BIPIA](https://github.com/microsoft/BIPIA)
+  > A benchmark for evaluating the robustness of LLMs and defenses to indirect prompt injection attacks.
 
-### [SimpleEve](https://github.com/SimpleEve)
-- 🌟 👤 [SimpleEve](https://github.com/SimpleEve) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [Noobdeptrai](https://github.com/Noobdeptrai)
+- 🌟 👤 [Noobdeptrai](https://github.com/Noobdeptrai) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
 
-### [dampers](https://github.com/dampers)
-- 🌟 👤 [dampers](https://github.com/dampers) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
+### [bearsdotzone](https://github.com/bearsdotzone)
+- 🍴 👤 [bearsdotzone](https://github.com/bearsdotzone) Forked [bearsdotzone/Pride-flag](https://github.com/bearsdotzone/Pride-flag) to [bearsdotzone/Pride-flag](https://github.com/bearsdotzone/Pride-flag)
+  > Pride flag featuring 74 individual LGBTQIA+ flags
 
-### [dbrown33177](https://github.com/dbrown33177)
-- 🌟 👤 [dbrown33177](https://github.com/dbrown33177) Starred [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
-  > A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer ...
+### [glycogen94](https://github.com/glycogen94)
+- 🌟 👤 [glycogen94](https://github.com/glycogen94) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
 
-### [kshitij-g](https://github.com/kshitij-g)
-- 🌟 👤 [kshitij-g](https://github.com/kshitij-g) Starred [microsoft/multilspy](https://github.com/microsoft/multilspy)
-  > multilspy is a lsp client library in Python intended to be used to build applications around languag...
+### [ngernest](https://github.com/ngernest)
+- 🌟 👤 [ngernest](https://github.com/ngernest) Starred [microsoft/kanagawa](https://github.com/microsoft/kanagawa)
+  > High level synthesis language for hardware design
 
-### [pawanpharma79](https://github.com/pawanpharma79)
-- 🌟 👤 [pawanpharma79](https://github.com/pawanpharma79) Starred [microsoft/TamGen](https://github.com/microsoft/TamGen)
-
-### [rand-tech](https://github.com/rand-tech)
-- 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [rand-tech/mlflow](https://github.com/rand-tech/mlflow) to [rand-tech/mlflow](https://github.com/rand-tech/mlflow)
-  > The open source developer platform to build AI/LLM applications and models with confidence. Enhance ...
-
-### [rociobessio](https://github.com/rociobessio)
-- 🌟 👤 [rociobessio](https://github.com/rociobessio) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [ryube](https://github.com/ryube)
-- 🌟 👤 [ryube](https://github.com/ryube) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [shaq-gm](https://github.com/shaq-gm)
-- 🍴 👤 [shaq-gm](https://github.com/shaq-gm) Forked [shaq-gm/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/shaq-gm/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) to [shaq-gm/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/shaq-gm/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
-  > The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a ...
+### [thanhnx-vnit](https://github.com/thanhnx-vnit)
+- 🍴 👤 [thanhnx-vnit](https://github.com/thanhnx-vnit) Forked [thanhnx-vnit/markitdown](https://github.com/thanhnx-vnit/markitdown) to [thanhnx-vnit/markitdown](https://github.com/thanhnx-vnit/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
 
 ---
-*最后更新于 2025-10-15 01:52:26 UTC*
+*最后更新于 2025-10-15 03:08:14 UTC*
 *历史记录保存在 `archive` 目录中。*
