@@ -4,30 +4,46 @@
 
 ## 今日动态
 
-### [Dandelight](https://github.com/Dandelight)
-- 🌟 👤 [Dandelight](https://github.com/Dandelight) Starred [microsoft/BIPIA](https://github.com/microsoft/BIPIA)
-  > A benchmark for evaluating the robustness of LLMs and defenses to indirect prompt injection attacks.
+### [Adchanger](https://github.com/Adchanger)
+- 🌟 👤 [Adchanger](https://github.com/Adchanger) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
-### [Noobdeptrai](https://github.com/Noobdeptrai)
-- 🌟 👤 [Noobdeptrai](https://github.com/Noobdeptrai) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
+### [ChnJiYuan](https://github.com/ChnJiYuan)
+- 🍴 👤 [ChnJiYuan](https://github.com/ChnJiYuan) Forked [ChnJiYuan/ai-agents-for-beginners](https://github.com/ChnJiYuan/ai-agents-for-beginners) to [ChnJiYuan/ai-agents-for-beginners](https://github.com/ChnJiYuan/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
-### [bearsdotzone](https://github.com/bearsdotzone)
-- 🍴 👤 [bearsdotzone](https://github.com/bearsdotzone) Forked [bearsdotzone/Pride-flag](https://github.com/bearsdotzone/Pride-flag) to [bearsdotzone/Pride-flag](https://github.com/bearsdotzone/Pride-flag)
-  > Pride flag featuring 74 individual LGBTQIA+ flags
+### [GaoPengGit](https://github.com/GaoPengGit)
+- 🌟 👤 [GaoPengGit](https://github.com/GaoPengGit) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
 
-### [glycogen94](https://github.com/glycogen94)
-- 🌟 👤 [glycogen94](https://github.com/glycogen94) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+### [Sayemhaque](https://github.com/Sayemhaque)
+- 🌟 👤 [Sayemhaque](https://github.com/Sayemhaque) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
+  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
 
-### [ngernest](https://github.com/ngernest)
-- 🌟 👤 [ngernest](https://github.com/ngernest) Starred [microsoft/kanagawa](https://github.com/microsoft/kanagawa)
-  > High level synthesis language for hardware design
+### [cksdnfas](https://github.com/cksdnfas)
+- 🌟 👤 [cksdnfas](https://github.com/cksdnfas) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
 
-### [thanhnx-vnit](https://github.com/thanhnx-vnit)
-- 🍴 👤 [thanhnx-vnit](https://github.com/thanhnx-vnit) Forked [thanhnx-vnit/markitdown](https://github.com/thanhnx-vnit/markitdown) to [thanhnx-vnit/markitdown](https://github.com/thanhnx-vnit/markitdown)
+### [harshit7962](https://github.com/harshit7962)
+- 🍴 👤 [harshit7962](https://github.com/harshit7962) Forked [harshit7962/referencesource](https://github.com/harshit7962/referencesource) to [harshit7962/referencesource](https://github.com/harshit7962/referencesource)
+  > Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
+
+### [iam-tnecula](https://github.com/iam-tnecula)
+- 🌟 👤 [iam-tnecula](https://github.com/iam-tnecula) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
+  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
+
+### [rileydev](https://github.com/rileydev)
+- 🌟 👤 [rileydev](https://github.com/rileydev) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
+
+### [wxyv](https://github.com/wxyv)
+- 🌟 👤 [wxyv](https://github.com/wxyv) Starred [microsoft/semantic-kernel-java](https://github.com/microsoft/semantic-kernel-java)
+  > Semantic Kernel for Java. Integrate cutting-edge LLM technology quickly and easily into your Java ba...
+
+### [zhaolan0322](https://github.com/zhaolan0322)
+- 🌟 👤 [zhaolan0322](https://github.com/zhaolan0322) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
 
 ---
-*最后更新于 2025-10-15 03:08:14 UTC*
+*最后更新于 2025-10-15 03:51:15 UTC*
 *历史记录保存在 `archive` 目录中。*
