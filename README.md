@@ -4,56 +4,46 @@
 
 ## 今日动态
 
-### [AndreuCodina](https://github.com/AndreuCodina)
-- 🌟 👤 [AndreuCodina](https://github.com/AndreuCodina) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [DevakiTechData](https://github.com/DevakiTechData)
+- 🍴 👤 [DevakiTechData](https://github.com/DevakiTechData) Forked [DevakiTechData/playwright](https://github.com/DevakiTechData/playwright) to [DevakiTechData/playwright](https://github.com/DevakiTechData/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [Fisherman6a](https://github.com/Fisherman6a)
-- 🌟 👤 [Fisherman6a](https://github.com/Fisherman6a) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [GeederX](https://github.com/GeederX)
+- 🌟 👤 [GeederX](https://github.com/GeederX) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-### [Pupupuuuu](https://github.com/Pupupuuuu)
-- 🌟 👤 [Pupupuuuu](https://github.com/Pupupuuuu) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [Malika-code666](https://github.com/Malika-code666)
+- 🌟 👤 [Malika-code666](https://github.com/Malika-code666) Starred [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+  > This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shif...
 
-### [Vigneshwar94](https://github.com/Vigneshwar94)
-- 🍴 👤 [Vigneshwar94](https://github.com/Vigneshwar94) Forked [Vigneshwar94/generative-ai-for-beginners](https://github.com/Vigneshwar94/generative-ai-for-beginners) to [Vigneshwar94/generative-ai-for-beginners](https://github.com/Vigneshwar94/generative-ai-for-beginners)
+### [OldLouis](https://github.com/OldLouis)
+- 🌟 👤 [OldLouis](https://github.com/OldLouis) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [akashtalole](https://github.com/akashtalole)
-- 🌟 👤 [akashtalole](https://github.com/akashtalole) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+### [jackboyla](https://github.com/jackboyla)
+- 🌟 👤 [jackboyla](https://github.com/jackboyla) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+
+### [jihyenurie](https://github.com/jihyenurie)
+- 🌟 👤 [jihyenurie](https://github.com/jihyenurie) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
+  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
+
+### [qinglix](https://github.com/qinglix)
+- 🌟 👤 [qinglix](https://github.com/qinglix) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+
+### [sarvagyakrcs](https://github.com/sarvagyakrcs)
+- 🌟 👤 [sarvagyakrcs](https://github.com/sarvagyakrcs) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
+
+### [yangfan-zz](https://github.com/yangfan-zz)
+- 🌟 👤 [yangfan-zz](https://github.com/yangfan-zz) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-- 🍴 👤 [akashtalole](https://github.com/akashtalole) Forked [akashtalole/agent-framework](https://github.com/akashtalole/agent-framework) to [akashtalole/agent-framework](https://github.com/akashtalole/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [hoonn9](https://github.com/hoonn9)
-- 🌟 👤 [hoonn9](https://github.com/hoonn9) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
-  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
-
-### [jackzzz](https://github.com/jackzzz)
-- 🍴 👤 [jackzzz](https://github.com/jackzzz) Forked [jackzzz/generative-ai-for-beginners](https://github.com/jackzzz/generative-ai-for-beginners) to [jackzzz/generative-ai-for-beginners](https://github.com/jackzzz/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [jojoonearth-maker](https://github.com/jojoonearth-maker)
-- 🍴 👤 [jojoonearth-maker](https://github.com/jojoonearth-maker) Forked [jojoonearth-maker/generative-ai-for-beginners](https://github.com/jojoonearth-maker/generative-ai-for-beginners) to [jojoonearth-maker/generative-ai-for-beginners](https://github.com/jojoonearth-maker/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [nahlalo](https://github.com/nahlalo)
-- 🍴 👤 [nahlalo](https://github.com/nahlalo) Forked [nahlalo/Windows-driver-samples](https://github.com/nahlalo/Windows-driver-samples) to [nahlalo/Windows-driver-samples](https://github.com/nahlalo/Windows-driver-samples)
-  > This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driv...
-
-### [robbdi](https://github.com/robbdi)
-- 🌟 👤 [robbdi](https://github.com/robbdi) Starred [microsoft/azurechat](https://github.com/microsoft/azurechat)
-  > 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
-
-### [sekar3s](https://github.com/sekar3s)
-- 🍴 👤 [sekar3s](https://github.com/sekar3s) Forked [sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming) to [sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming)
-  > A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer ...
-
-### [sneagers](https://github.com/sneagers)
-- 🌟 👤 [sneagers](https://github.com/sneagers) Starred [microsoft/Solution-Accelerators](https://github.com/microsoft/Solution-Accelerators)
+### [zaramzamzam](https://github.com/zaramzamzam)
+- 🌟 👤 [zaramzamzam](https://github.com/zaramzamzam) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
 
 ---
-*最后更新于 2025-10-16 05:23:33 UTC*
+*最后更新于 2025-10-16 05:41:36 UTC*
 *历史记录保存在 `archive` 目录中。*
