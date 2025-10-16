@@ -4,18 +4,15 @@
 
 ## 今日动态
 
-### [davidarenas](https://github.com/davidarenas)
-- 🌟 👤 [davidarenas](https://github.com/davidarenas) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+### [Activ8-AI](https://github.com/Activ8-AI)
+- 🍴 👤 [Activ8-AI](https://github.com/Activ8-AI) Forked [Activ8-AI/LLaVA-Med](https://github.com/Activ8-AI/LLaVA-Med) to [Activ8-AI/LLaVA-Med](https://github.com/Activ8-AI/LLaVA-Med)
+  > Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabiliti...
 
-### [lcantillo84](https://github.com/lcantillo84)
-- 🌟 👤 [lcantillo84](https://github.com/lcantillo84) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [mamamamamamamama55981-ctrl](https://github.com/mamamamamamamama55981-ctrl)
-- 🌟 👤 [mamamamamamamama55981-ctrl](https://github.com/mamamamamamamama55981-ctrl) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
-  > The new Windows Terminal and the original Windows console host, all in the same place!
+### [inajmudinov](https://github.com/inajmudinov)
+- 🍴 👤 [inajmudinov](https://github.com/inajmudinov) Forked [inajmudinov/generative-ai-for-beginners](https://github.com/inajmudinov/generative-ai-for-beginners) to [inajmudinov/generative-ai-for-beginners](https://github.com/inajmudinov/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
 
 ---
-*最后更新于 2025-10-16 21:39:26 UTC*
+*最后更新于 2025-10-16 22:18:49 UTC*
 *历史记录保存在 `archive` 目录中。*
