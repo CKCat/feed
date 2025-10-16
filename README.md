@@ -4,35 +4,31 @@
 
 ## 今日动态
 
-### [deepgame2000](https://github.com/deepgame2000)
-- 🍴 👤 [deepgame2000](https://github.com/deepgame2000) Forked [deepgame2000/machnet](https://github.com/deepgame2000/machnet) to [deepgame2000/machnet](https://github.com/deepgame2000/machnet)
-  > Machnet provides applications like databases and finance an easy way to access low-latency DPDK-base...
-- 🍴 👤 [deepgame2000](https://github.com/deepgame2000) Forked [deepgame2000/qlib-server](https://github.com/deepgame2000/qlib-server) to [deepgame2000/qlib-server](https://github.com/deepgame2000/qlib-server)
-  > Qlib-Server is the data server system for Qlib. It enable Qlib to run in online mode. Under online m...
+### [PuttTim](https://github.com/PuttTim)
+- 🌟 👤 [PuttTim](https://github.com/PuttTim) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
 
-### [gmonarque](https://github.com/gmonarque)
-- 🌟 👤 [gmonarque](https://github.com/gmonarque) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [TeplrGuy](https://github.com/TeplrGuy)
+- 🌟 👤 [TeplrGuy](https://github.com/TeplrGuy) Starred [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement)
+  > Azure Analytics and AI Engagement
 
-### [hizack](https://github.com/hizack)
-- 🌟 👤 [hizack](https://github.com/hizack) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-- 🌟 👤 [hizack](https://github.com/hizack) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
-- 🌟 👤 [hizack](https://github.com/hizack) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [anandmudgerikar](https://github.com/anandmudgerikar)
+- 🌟 👤 [anandmudgerikar](https://github.com/anandmudgerikar) Starred [microsoft/SecRL](https://github.com/microsoft/SecRL)
+  > Benchmarking LLM agents on Cyber Threat Investigation.
+
+### [art-vish](https://github.com/art-vish)
+- 🌟 👤 [art-vish](https://github.com/art-vish) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [devdbzemusic](https://github.com/devdbzemusic)
+- 🍴 👤 [devdbzemusic](https://github.com/devdbzemusic) Forked [devdbzemusic/dbzs-dev-wsl-wslg](https://github.com/devdbzemusic/dbzs-dev-wsl-wslg) to [devdbzemusic/dbzs-dev-wsl-wslg](https://github.com/devdbzemusic/dbzs-dev-wsl-wslg)
+  > Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenari...
+
+### [lylali](https://github.com/lylali)
+- 🍴 👤 [lylali](https://github.com/lylali) Forked [lylali/microsoft-ai-agents](https://github.com/lylali/microsoft-ai-agents) to [lylali/microsoft-ai-agents](https://github.com/lylali/microsoft-ai-agents)
   > 12 Lessons to Get Started Building AI Agents
-- 🌟 👤 [hizack](https://github.com/hizack) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-  > 10 Weeks, 20 Lessons, Data Science for All!
-- 🌟 👤 [hizack](https://github.com/hizack) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- 🌟 👤 [hizack](https://github.com/hizack) Starred [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-  > 12 Weeks, 24 Lessons, IoT for All!
-
-### [mrmign](https://github.com/mrmign)
-- 🌟 👤 [mrmign](https://github.com/mrmign) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
 
 
 ---
-*最后更新于 2025-10-16 16:31:07 UTC*
+*最后更新于 2025-10-16 17:21:36 UTC*
 *历史记录保存在 `archive` 目录中。*
