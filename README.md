@@ -4,63 +4,56 @@
 
 ## 今日动态
 
-### [Arxeno](https://github.com/Arxeno)
-- 🌟 👤 [Arxeno](https://github.com/Arxeno) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [AndreuCodina](https://github.com/AndreuCodina)
+- 🌟 👤 [AndreuCodina](https://github.com/AndreuCodina) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
 
-### [Rizrock](https://github.com/Rizrock)
-- 🌟 👤 [Rizrock](https://github.com/Rizrock) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+### [Fisherman6a](https://github.com/Fisherman6a)
+- 🌟 👤 [Fisherman6a](https://github.com/Fisherman6a) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [Pupupuuuu](https://github.com/Pupupuuuu)
+- 🌟 👤 [Pupupuuuu](https://github.com/Pupupuuuu) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [Vigneshwar94](https://github.com/Vigneshwar94)
+- 🍴 👤 [Vigneshwar94](https://github.com/Vigneshwar94) Forked [Vigneshwar94/generative-ai-for-beginners](https://github.com/Vigneshwar94/generative-ai-for-beginners) to [Vigneshwar94/generative-ai-for-beginners](https://github.com/Vigneshwar94/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [akashtalole](https://github.com/akashtalole)
+- 🌟 👤 [akashtalole](https://github.com/akashtalole) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+- 🍴 👤 [akashtalole](https://github.com/akashtalole) Forked [akashtalole/agent-framework](https://github.com/akashtalole/agent-framework) to [akashtalole/agent-framework](https://github.com/akashtalole/agent-framework)
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [ShivamQmr](https://github.com/ShivamQmr)
-- 🌟 👤 [ShivamQmr](https://github.com/ShivamQmr) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [hoonn9](https://github.com/hoonn9)
+- 🌟 👤 [hoonn9](https://github.com/hoonn9) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
 
-### [anupam99jain](https://github.com/anupam99jain)
-- 🌟 👤 [anupam99jain](https://github.com/anupam99jain) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-- 🌟 👤 [anupam99jain](https://github.com/anupam99jain) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [jackzzz](https://github.com/jackzzz)
+- 🍴 👤 [jackzzz](https://github.com/jackzzz) Forked [jackzzz/generative-ai-for-beginners](https://github.com/jackzzz/generative-ai-for-beginners) to [jackzzz/generative-ai-for-beginners](https://github.com/jackzzz/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [beemfx](https://github.com/beemfx)
-- 🌟 👤 [beemfx](https://github.com/beemfx) Starred [microsoft/DirectXTex](https://github.com/microsoft/DirectXTex)
-  > DirectXTex texture processing library
-- 🌟 👤 [beemfx](https://github.com/beemfx) Starred [microsoft/DirectXTK](https://github.com/microsoft/DirectXTK)
-  > The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code...
-
-### [doroudi](https://github.com/doroudi)
-- 🌟 👤 [doroudi](https://github.com/doroudi) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
-  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
-
-### [dsubiros](https://github.com/dsubiros)
-- 🍴 👤 [dsubiros](https://github.com/dsubiros) Forked [dsubiros/vscode](https://github.com/dsubiros/vscode) to [dsubiros/vscode](https://github.com/dsubiros/vscode)
-  > Visual Studio Code
-
-### [killerjian007](https://github.com/killerjian007)
-- 🌟 👤 [killerjian007](https://github.com/killerjian007) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [libao3128](https://github.com/libao3128)
-- 🌟 👤 [libao3128](https://github.com/libao3128) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [misa8starwars-afk](https://github.com/misa8starwars-afk)
-- 🍴 👤 [misa8starwars-afk](https://github.com/misa8starwars-afk) Forked [misa8starwars-afk/microsoft-generative-ai-for-beginners](https://github.com/misa8starwars-afk/microsoft-generative-ai-for-beginners) to [misa8starwars-afk/microsoft-generative-ai-for-beginners](https://github.com/misa8starwars-afk/microsoft-generative-ai-for-beginners)
+### [jojoonearth-maker](https://github.com/jojoonearth-maker)
+- 🍴 👤 [jojoonearth-maker](https://github.com/jojoonearth-maker) Forked [jojoonearth-maker/generative-ai-for-beginners](https://github.com/jojoonearth-maker/generative-ai-for-beginners) to [jojoonearth-maker/generative-ai-for-beginners](https://github.com/jojoonearth-maker/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [mktpgw](https://github.com/mktpgw)
-- 🌟 👤 [mktpgw](https://github.com/mktpgw) Starred [microsoft/FeatureManagement-Dotnet](https://github.com/microsoft/FeatureManagement-Dotnet)
-  > Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within application...
+### [nahlalo](https://github.com/nahlalo)
+- 🍴 👤 [nahlalo](https://github.com/nahlalo) Forked [nahlalo/Windows-driver-samples](https://github.com/nahlalo/Windows-driver-samples) to [nahlalo/Windows-driver-samples](https://github.com/nahlalo/Windows-driver-samples)
+  > This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driv...
 
-### [theianmay](https://github.com/theianmay)
-- 🌟 👤 [theianmay](https://github.com/theianmay) Starred [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows)
-  > A framework for building native Windows apps with React.
+### [robbdi](https://github.com/robbdi)
+- 🌟 👤 [robbdi](https://github.com/robbdi) Starred [microsoft/azurechat](https://github.com/microsoft/azurechat)
+  > 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 
-### [tyc5](https://github.com/tyc5)
-- 🌟 👤 [tyc5](https://github.com/tyc5) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [sekar3s](https://github.com/sekar3s)
+- 🍴 👤 [sekar3s](https://github.com/sekar3s) Forked [sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming) to [sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/sekar3s/Mastering-GitHub-Copilot-for-Paired-Programming)
+  > A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer ...
+
+### [sneagers](https://github.com/sneagers)
+- 🌟 👤 [sneagers](https://github.com/sneagers) Starred [microsoft/Solution-Accelerators](https://github.com/microsoft/Solution-Accelerators)
 
 
 ---
-*最后更新于 2025-10-16 04:45:22 UTC*
+*最后更新于 2025-10-16 05:23:33 UTC*
 *历史记录保存在 `archive` 目录中。*
