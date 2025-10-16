@@ -4,57 +4,58 @@
 
 ## 今日动态
 
-### [Carlz10](https://github.com/Carlz10)
-- 🌟 👤 [Carlz10](https://github.com/Carlz10) Starred [microsoft/terraform-provider-power-platform](https://github.com/microsoft/terraform-provider-power-platform)
-  > Power Platform Terraform Provider
+### [CatTail](https://github.com/CatTail)
+- 🌟 👤 [CatTail](https://github.com/CatTail) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
 
-### [Chtholly-NS](https://github.com/Chtholly-NS)
-- 🌟 👤 [Chtholly-NS](https://github.com/Chtholly-NS) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
-  > The new Windows Terminal and the original Windows console host, all in the same place!
+### [beyourbestself-spec](https://github.com/beyourbestself-spec)
+- 🌟 👤 [beyourbestself-spec](https://github.com/beyourbestself-spec) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
 
-### [JerrySiRi](https://github.com/JerrySiRi)
-- 🌟 👤 [JerrySiRi](https://github.com/JerrySiRi) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [cihan-atas](https://github.com/cihan-atas)
+- 🌟 👤 [cihan-atas](https://github.com/cihan-atas) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
-### [Monster060508](https://github.com/Monster060508)
-- 🌟 👤 [Monster060508](https://github.com/Monster060508) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+### [foogaz](https://github.com/foogaz)
+- 🌟 👤 [foogaz](https://github.com/foogaz) Starred [microsoft/python-sample-vscode-flask-tutorial](https://github.com/microsoft/python-sample-vscode-flask-tutorial)
+  > Sample code for the Flask tutorial in the VS Code documentation
 
-### [akashtalole](https://github.com/akashtalole)
-- 🌟 👤 [akashtalole](https://github.com/akashtalole) Starred [microsoft/Modernize-your-code-solution-accelerator](https://github.com/microsoft/Modernize-your-code-solution-accelerator)
-  > Designed to help customers transition their SQL queries to new environments quickly and efficiently....
-- 🍴 👤 [akashtalole](https://github.com/akashtalole) Forked [akashtalole/Modernize-your-code-solution-accelerator](https://github.com/akashtalole/Modernize-your-code-solution-accelerator) to [akashtalole/Modernize-your-code-solution-accelerator](https://github.com/akashtalole/Modernize-your-code-solution-accelerator)
-  > Designed to help customers transition their SQL queries to new environments quickly and efficiently....
+### [gcf1243690236](https://github.com/gcf1243690236)
+- 🌟 👤 [gcf1243690236](https://github.com/gcf1243690236) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+- 🍴 👤 [gcf1243690236](https://github.com/gcf1243690236) Forked [gcf1243690236/RD-Agent](https://github.com/gcf1243690236/RD-Agent) to [gcf1243690236/RD-Agent](https://github.com/gcf1243690236/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
 
-### [etopzone](https://github.com/etopzone)
-- 🌟 👤 [etopzone](https://github.com/etopzone) Starred [microsoft/OnnxRuntime-UnrealEngine](https://github.com/microsoft/OnnxRuntime-UnrealEngine)
-  > Apply a Style Transfer Neural Network in real time with Unreal Engine 5 leveraging ONNX Runtime.
+### [loveyouer](https://github.com/loveyouer)
+- 🌟 👤 [loveyouer](https://github.com/loveyouer) Starred [microsoft/FlexCAD](https://github.com/microsoft/FlexCAD)
 
-### [francisrafal](https://github.com/francisrafal)
-- 🌟 👤 [francisrafal](https://github.com/francisrafal) Starred [microsoft/TUTA_table_understanding](https://github.com/microsoft/TUTA_table_understanding)
-  > TUTA and ForTaP for Structure-Aware and Numerical-Reasoning-Aware Table Pre-Training
+### [magician7](https://github.com/magician7)
+- 🌟 👤 [magician7](https://github.com/magician7) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [krkrs](https://github.com/krkrs)
-- 🌟 👤 [krkrs](https://github.com/krkrs) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
-  > Official inference framework for 1-bit LLMs
+### [philmaas](https://github.com/philmaas)
+- 🌟 👤 [philmaas](https://github.com/philmaas) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+  > A browser based code editor
 
-### [liuqian1127](https://github.com/liuqian1127)
-- 🌟 👤 [liuqian1127](https://github.com/liuqian1127) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [pilot2254](https://github.com/pilot2254)
+- 🌟 👤 [pilot2254](https://github.com/pilot2254) Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
+  > The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 
-### [nitianchi](https://github.com/nitianchi)
-- 🌟 👤 [nitianchi](https://github.com/nitianchi) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
+### [seanxuu](https://github.com/seanxuu)
+- 🌟 👤 [seanxuu](https://github.com/seanxuu) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
 
-### [oyl1998](https://github.com/oyl1998)
-- 🌟 👤 [oyl1998](https://github.com/oyl1998) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [wubin28](https://github.com/wubin28)
+- 🌟 👤 [wubin28](https://github.com/wubin28) Starred [microsoft/SmartKG](https://github.com/microsoft/SmartKG)
+  > This project accepts excel files as input which contains the description of a Knowledge Graph (Verte...
+- 🍴 👤 [wubin28](https://github.com/wubin28) Forked [wubin28/SmartKG](https://github.com/wubin28/SmartKG) to [wubin28/SmartKG](https://github.com/wubin28/SmartKG)
+  > This project accepts excel files as input which contains the description of a Knowledge Graph (Verte...
 
-### [rubenuxo](https://github.com/rubenuxo)
-- 🌟 👤 [rubenuxo](https://github.com/rubenuxo) Starred [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos)
-  > A framework for building native macOS apps with React.
+### [zazolabs](https://github.com/zazolabs)
+- 🌟 👤 [zazolabs](https://github.com/zazolabs) Starred [microsoft/rust-guidelines](https://github.com/microsoft/rust-guidelines)
+  > Write idiomatic Rust that scales.
 
 
 ---
-*最后更新于 2025-10-16 09:26:59 UTC*
+*最后更新于 2025-10-16 09:44:31 UTC*
 *历史记录保存在 `archive` 目录中。*
