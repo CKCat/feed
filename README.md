@@ -4,46 +4,63 @@
 
 ## 今日动态
 
-### [BunnyNabbit](https://github.com/BunnyNabbit)
-- 🌟 👤 [BunnyNabbit](https://github.com/BunnyNabbit) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
-  > The new Windows Terminal and the original Windows console host, all in the same place!
-
-### [JackieDo](https://github.com/JackieDo)
-- 🌟 👤 [JackieDo](https://github.com/JackieDo) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [Oaklight](https://github.com/Oaklight)
-- 🌟 👤 [Oaklight](https://github.com/Oaklight) Starred [microsoft/competeai](https://github.com/microsoft/competeai)
-  > [ICML 2024 Oral] A framework for society simulation that supports complex simulation, for example: m...
-
-### [boticello](https://github.com/boticello)
-- 🌟 👤 [boticello](https://github.com/boticello) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-
-### [carmenlup](https://github.com/carmenlup)
-- 🌟 👤 [carmenlup](https://github.com/carmenlup) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [cchitse](https://github.com/cchitse)
-- 🌟 👤 [cchitse](https://github.com/cchitse) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [Arxeno](https://github.com/Arxeno)
+- 🌟 👤 [Arxeno](https://github.com/Arxeno) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
 
-### [dinhthienan33](https://github.com/dinhthienan33)
-- 🍴 👤 [dinhthienan33](https://github.com/dinhthienan33) Forked [dinhthienan33/markitdown](https://github.com/dinhthienan33/markitdown) to [dinhthienan33/markitdown](https://github.com/dinhthienan33/markitdown)
-  > Python tool for converting files and office documents to Markdown.
+### [Rizrock](https://github.com/Rizrock)
+- 🌟 👤 [Rizrock](https://github.com/Rizrock) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [ikun-lsw](https://github.com/ikun-lsw)
-- 🌟 👤 [ikun-lsw](https://github.com/ikun-lsw) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
+### [ShivamQmr](https://github.com/ShivamQmr)
+- 🌟 👤 [ShivamQmr](https://github.com/ShivamQmr) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [jarqvi](https://github.com/jarqvi)
-- 🌟 👤 [jarqvi](https://github.com/jarqvi) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+### [anupam99jain](https://github.com/anupam99jain)
+- 🌟 👤 [anupam99jain](https://github.com/anupam99jain) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+- 🌟 👤 [anupam99jain](https://github.com/anupam99jain) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [kos3nz](https://github.com/kos3nz)
-- 🌟 👤 [kos3nz](https://github.com/kos3nz) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [beemfx](https://github.com/beemfx)
+- 🌟 👤 [beemfx](https://github.com/beemfx) Starred [microsoft/DirectXTex](https://github.com/microsoft/DirectXTex)
+  > DirectXTex texture processing library
+- 🌟 👤 [beemfx](https://github.com/beemfx) Starred [microsoft/DirectXTK](https://github.com/microsoft/DirectXTK)
+  > The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code...
+
+### [doroudi](https://github.com/doroudi)
+- 🌟 👤 [doroudi](https://github.com/doroudi) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
+  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
+
+### [dsubiros](https://github.com/dsubiros)
+- 🍴 👤 [dsubiros](https://github.com/dsubiros) Forked [dsubiros/vscode](https://github.com/dsubiros/vscode) to [dsubiros/vscode](https://github.com/dsubiros/vscode)
+  > Visual Studio Code
+
+### [killerjian007](https://github.com/killerjian007)
+- 🌟 👤 [killerjian007](https://github.com/killerjian007) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [libao3128](https://github.com/libao3128)
+- 🌟 👤 [libao3128](https://github.com/libao3128) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [misa8starwars-afk](https://github.com/misa8starwars-afk)
+- 🍴 👤 [misa8starwars-afk](https://github.com/misa8starwars-afk) Forked [misa8starwars-afk/microsoft-generative-ai-for-beginners](https://github.com/misa8starwars-afk/microsoft-generative-ai-for-beginners) to [misa8starwars-afk/microsoft-generative-ai-for-beginners](https://github.com/misa8starwars-afk/microsoft-generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [mktpgw](https://github.com/mktpgw)
+- 🌟 👤 [mktpgw](https://github.com/mktpgw) Starred [microsoft/FeatureManagement-Dotnet](https://github.com/microsoft/FeatureManagement-Dotnet)
+  > Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within application...
+
+### [theianmay](https://github.com/theianmay)
+- 🌟 👤 [theianmay](https://github.com/theianmay) Starred [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows)
+  > A framework for building native Windows apps with React.
+
+### [tyc5](https://github.com/tyc5)
+- 🌟 👤 [tyc5](https://github.com/tyc5) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
 
 ---
-*最后更新于 2025-10-16 04:27:41 UTC*
+*最后更新于 2025-10-16 04:45:22 UTC*
 *历史记录保存在 `archive` 目录中。*
