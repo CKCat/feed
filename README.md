@@ -4,58 +4,43 @@
 
 ## 今日动态
 
-### [Alchemyst0x](https://github.com/Alchemyst0x)
-- 🌟 👤 [Alchemyst0x](https://github.com/Alchemyst0x) Starred [microsoft/poml](https://github.com/microsoft/poml)
-  > Prompt Orchestration Markup Language
+### [GnepSr](https://github.com/GnepSr)
+- 🌟 👤 [GnepSr](https://github.com/GnepSr) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
 
-### [AsihanBit](https://github.com/AsihanBit)
-- 🌟 👤 [AsihanBit](https://github.com/AsihanBit) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+### [Nichxta](https://github.com/Nichxta)
+- 🌟 👤 [Nichxta](https://github.com/Nichxta) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+  > 10 Weeks, 20 Lessons, Data Science for All!
 
-### [Chasing-Star](https://github.com/Chasing-Star)
-- 🌟 👤 [Chasing-Star](https://github.com/Chasing-Star) Starred [microsoft/perfview](https://github.com/microsoft/perfview)
-  > PerfView is a CPU and memory performance-analysis tool
+### [ToriShackleford](https://github.com/ToriShackleford)
+- 🌟 👤 [ToriShackleford](https://github.com/ToriShackleford) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
 
-### [MiddleAgedBanana](https://github.com/MiddleAgedBanana)
-- 🌟 👤 [MiddleAgedBanana](https://github.com/MiddleAgedBanana) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+### [XiaTongo](https://github.com/XiaTongo)
+- 🍴 👤 [XiaTongo](https://github.com/XiaTongo) Forked [XiaTongo/Trace](https://github.com/XiaTongo/Trace) to [XiaTongo/Trace](https://github.com/XiaTongo/Trace)
+  > End-to-end Generative Optimization for AI Agents
 
-### [S-MingJun](https://github.com/S-MingJun)
-- 🍴 👤 [S-MingJun](https://github.com/S-MingJun) Forked [S-MingJun/Generative-AI-for-beginners-dotnet](https://github.com/S-MingJun/Generative-AI-for-beginners-dotnet) to [S-MingJun/Generative-AI-for-beginners-dotnet](https://github.com/S-MingJun/Generative-AI-for-beginners-dotnet)
-  > Five lessons, learn how to really apply AI to your .NET Applications
+### [easy-hoons](https://github.com/easy-hoons)
+- 🍴 👤 [easy-hoons](https://github.com/easy-hoons) Forked [easy-hoons/playwright-java](https://github.com/easy-hoons/playwright-java) to [easy-hoons/playwright-java](https://github.com/easy-hoons/playwright-java)
+  > Java version of the Playwright testing and automation library
 
-### [WiMank](https://github.com/WiMank)
-- 🌟 👤 [WiMank](https://github.com/WiMank) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [mbogaerts](https://github.com/mbogaerts)
+- 🍴 👤 [mbogaerts](https://github.com/mbogaerts) Forked [mbogaerts/AzureDevOps-WSJF-Extension](https://github.com/mbogaerts/AzureDevOps-WSJF-Extension) to [mbogaerts/AzureDevOps-WSJF-Extension](https://github.com/mbogaerts/AzureDevOps-WSJF-Extension)
+  > Sample work item form extension that auto calculates WSJF (weighted shortest job first) per work ite...
 
-### [Zortran](https://github.com/Zortran)
-- 🌟 👤 [Zortran](https://github.com/Zortran) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
+### [rmagur1203](https://github.com/rmagur1203)
+- 🌟 👤 [rmagur1203](https://github.com/rmagur1203) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+  > A browser based code editor
 
-### [immunity39](https://github.com/immunity39)
-- 🌟 👤 [immunity39](https://github.com/immunity39) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
-  > Official inference framework for 1-bit LLMs
+### [simbel](https://github.com/simbel)
+- 🌟 👤 [simbel](https://github.com/simbel) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
-### [jnp3](https://github.com/jnp3)
-- 🌟 👤 [jnp3](https://github.com/jnp3) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [meetanthony](https://github.com/meetanthony)
-- 🌟 👤 [meetanthony](https://github.com/meetanthony) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
-
-### [mikawagu](https://github.com/mikawagu)
-- 🍴 👤 [mikawagu](https://github.com/mikawagu) Forked [mikawagu/vscode](https://github.com/mikawagu/vscode) to [mikawagu/vscode](https://github.com/mikawagu/vscode)
-  > Visual Studio Code
-
-### [paruki](https://github.com/paruki)
-- 🌟 👤 [paruki](https://github.com/paruki) Starred [microsoft/typespec](https://github.com/microsoft/typespec)
-
-### [spb512](https://github.com/spb512)
-- 🌟 👤 [spb512](https://github.com/spb512) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [ullahsamee](https://github.com/ullahsamee)
+- 🌟 👤 [ullahsamee](https://github.com/ullahsamee) Starred [microsoft/Mu-Protein](https://github.com/microsoft/Mu-Protein)
+  > Official implementation of μProtein -- Accelerating protein engineering with fitness landscape model...
 
 
 ---
-*最后更新于 2025-10-17 07:23:39 UTC*
+*最后更新于 2025-10-17 07:40:34 UTC*
 *历史记录保存在 `archive` 目录中。*
