@@ -26,7 +26,7 @@ jobs:
           echo "Found $(wc -l < repos_python.txt) unique Python plugin repositories. See list below:"
           cat repos_python.txt
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CK_TOKEN }}
 
       # 后续的 "Update idapython_plugins.md" 和 "Commit and push" 步骤保持不变
       - name: Update idapython_plugins.md with Python plugin list
