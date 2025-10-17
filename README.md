@@ -4,19 +4,10 @@
 
 ## 今日动态
 
-### [Best-Calli](https://github.com/Best-Calli)
-- 🌟 👤 [Best-Calli](https://github.com/Best-Calli) Starred [microsoft/kanagawa](https://github.com/microsoft/kanagawa)
-  > High level synthesis language for hardware design
-
-### [denjuanes](https://github.com/denjuanes)
-- 🌟 👤 [denjuanes](https://github.com/denjuanes) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [nhtlongcs](https://github.com/nhtlongcs)
-- 🌟 👤 [nhtlongcs](https://github.com/nhtlongcs) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [rodrigomideac](https://github.com/rodrigomideac)
+- 🌟 👤 [rodrigomideac](https://github.com/rodrigomideac) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
 
 
 ---
-*最后更新于 2025-10-17 19:39:12 UTC*
+*最后更新于 2025-10-17 20:26:20 UTC*
 *历史记录保存在 `archive` 目录中。*
