@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-今天还没有符合筛选条件的公开动态。
+### [f-koehnke](https://github.com/f-koehnke)
+- 🌟 👤 [f-koehnke](https://github.com/f-koehnke) Starred [microsoft/wassette](https://github.com/microsoft/wassette)
+  > Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
+
 
 ---
-*最后更新于 2025-10-17 23:20:30 UTC*
+*最后更新于 2025-10-17 23:39:04 UTC*
 *历史记录保存在 `archive` 目录中。*
