@@ -20,13 +20,13 @@ jobs:
         run: |
           # 1. 将 --limit 提高到 1000
           # 2. 简化 jq 过滤器，直接使用 .repository.fullName
-          gh search code '"def PLUGIN_ENTRY()" language:Python' --limit 1000 --json repository --jq '[.[] | .repository.fullName] | unique | .[]' > repos_python.txt
+          gh search code '"def PLUGIN_ENTRY()" language:Python' --limit 100 --json repository --jq '[.[] | .repository.fullName] | unique | .[]' > repos_python.txt
 
           # 增加一个调试输出，方便观察结果
           echo "Found $(wc -l < repos_python.txt) unique Python plugin repositories. See list below:"
           cat repos_python.txt
         env:
-          GITHUB_TOKEN: ${{ secrets.CK_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # 后续的 "Update idapython_plugins.md" 和 "Commit and push" 步骤保持不变
       - name: Update idapython_plugins.md with Python plugin list
