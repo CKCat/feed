@@ -4,21 +4,47 @@
 
 ## 今日动态
 
-### [Pranav-Bhatlapenumarthi](https://github.com/Pranav-Bhatlapenumarthi)
-- 🌟 👤 [Pranav-Bhatlapenumarthi](https://github.com/Pranav-Bhatlapenumarthi) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [InnovativeMahuka](https://github.com/InnovativeMahuka)
+- 🌟 👤 [InnovativeMahuka](https://github.com/InnovativeMahuka) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [Sohibaki](https://github.com/Sohibaki)
-- 🌟 👤 [Sohibaki](https://github.com/Sohibaki) Starred [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
-  > Five lessons, learn how to really apply AI to your .NET Applications
+### [Kudostoy0u](https://github.com/Kudostoy0u)
+- 🌟 👤 [Kudostoy0u](https://github.com/Kudostoy0u) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
 
-### [svngrhms](https://github.com/svngrhms)
-- 🌟 👤 [svngrhms](https://github.com/svngrhms) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+### [chenpan0211](https://github.com/chenpan0211)
+- 🌟 👤 [chenpan0211](https://github.com/chenpan0211) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+
+### [hammaal](https://github.com/hammaal)
+- 🌟 👤 [hammaal](https://github.com/hammaal) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [jamin3000](https://github.com/jamin3000)
+- 🌟 👤 [jamin3000](https://github.com/jamin3000) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+### [jatinharibhakti-cmd](https://github.com/jatinharibhakti-cmd)
+- 🌟 👤 [jatinharibhakti-cmd](https://github.com/jatinharibhakti-cmd) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+
+### [kpyopark](https://github.com/kpyopark)
+- 🍴 👤 [kpyopark](https://github.com/kpyopark) Forked [kpyopark/evodiff](https://github.com/kpyopark/evodiff) to [kpyopark/evodiff](https://github.com/kpyopark/evodiff)
+  > Generation of protein sequences and evolutionary alignments via discrete diffusion models
+
+### [laihs](https://github.com/laihs)
+- 🌟 👤 [laihs](https://github.com/laihs) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
   > Playwright MCP server
-- 🌟 👤 [svngrhms](https://github.com/svngrhms) Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
+
+### [skipperZL](https://github.com/skipperZL)
+- 🌟 👤 [skipperZL](https://github.com/skipperZL) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [squareq1](https://github.com/squareq1)
+- 🌟 👤 [squareq1](https://github.com/squareq1) Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
   > A research prototype of a human-centered web agent
 
 
 ---
-*最后更新于 2025-10-18 01:45:11 UTC*
+*最后更新于 2025-10-18 02:58:19 UTC*
 *历史记录保存在 `archive` 目录中。*
