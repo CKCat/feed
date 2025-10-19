@@ -1,360 +1,348 @@
-# 每日 GitHub 动态 (2025-10-18)
+# 每日 GitHub 动态 (2025-10-19)
 
 我关注用户的今日公开动态 (每20分钟更新)。
 
 ## 今日动态
 
-### [0xDemonCall](https://github.com/0xDemonCall)
-- 🌟 👤 [0xDemonCall](https://github.com/0xDemonCall) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [AaronZhou-THU](https://github.com/AaronZhou-THU)
-- 🌟 👤 [AaronZhou-THU](https://github.com/AaronZhou-THU) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+### [5277GMQ](https://github.com/5277GMQ)
+- 🌟 👤 [5277GMQ](https://github.com/5277GMQ) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
   > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [Abder6221](https://github.com/Abder6221)
-- 🍴 👤 [Abder6221](https://github.com/Abder6221) Forked [Abder6221/vscode-docs](https://github.com/Abder6221/vscode-docs) to [Abder6221/vscode-docs](https://github.com/Abder6221/vscode-docs)
-  > Public documentation for Visual Studio Code
+### [Alpha-hub1](https://github.com/Alpha-hub1)
+- 🌟 👤 [Alpha-hub1](https://github.com/Alpha-hub1) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
 
-### [AgentStacks-io](https://github.com/AgentStacks-io)
-- 🌟 👤 [AgentStacks-io](https://github.com/AgentStacks-io) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [Alberto-Mancini](https://github.com/Alberto-Mancini)
-- 🍴 👤 [Alberto-Mancini](https://github.com/Alberto-Mancini) Forked [Alberto-Mancini/PowerToys](https://github.com/Alberto-Mancini/PowerToys) to [Alberto-Mancini/PowerToys](https://github.com/Alberto-Mancini/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [AustinsJo](https://github.com/AustinsJo)
-- 🌟 👤 [AustinsJo](https://github.com/AustinsJo) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-- 🌟 👤 [AustinsJo](https://github.com/AustinsJo) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-
-### [Bielicos](https://github.com/Bielicos)
-- 🍴 👤 [Bielicos](https://github.com/Bielicos) Forked [Bielicos/generative-ai-for-beginners](https://github.com/Bielicos/generative-ai-for-beginners) to [Bielicos/generative-ai-for-beginners](https://github.com/Bielicos/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [CSS-MB](https://github.com/CSS-MB)
-- 🍴 👤 [CSS-MB](https://github.com/CSS-MB) Forked [Accel-MB/azure-devops-mcp](https://github.com/Accel-MB/azure-devops-mcp) to [Accel-MB/azure-devops-mcp](https://github.com/Accel-MB/azure-devops-mcp)
-  > The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
-
-### [CarlosYazid](https://github.com/CarlosYazid)
-- 🌟 👤 [CarlosYazid](https://github.com/CarlosYazid) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-### [DamianvdB](https://github.com/DamianvdB)
-- 🌟 👤 [DamianvdB](https://github.com/DamianvdB) Starred [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
-  > Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-
-### [Ekkanit](https://github.com/Ekkanit)
-- 🌟 👤 [Ekkanit](https://github.com/Ekkanit) Starred [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools)
-  > Infrastructure for DefinitelyTyped
-
-### [Eslam-Radwan](https://github.com/Eslam-Radwan)
-- 🌟 👤 [Eslam-Radwan](https://github.com/Eslam-Radwan) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+### [Azfar-Ali0](https://github.com/Azfar-Ali0)
+- 🍴 👤 [Azfar-Ali0](https://github.com/Azfar-Ali0) Forked [Azfar-Ali0/AI-For-Beginners](https://github.com/Azfar-Ali0/AI-For-Beginners) to [Azfar-Ali0/AI-For-Beginners](https://github.com/Azfar-Ali0/AI-For-Beginners)
   > 12 Weeks, 24 Lessons, AI for All!
 
-### [FireConsulting](https://github.com/FireConsulting)
-- 🌟 👤 [FireConsulting](https://github.com/FireConsulting) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [FireCubeStudios](https://github.com/FireCubeStudios)
-- 🌟 👤 [FireCubeStudios](https://github.com/FireCubeStudios) Starred [microsoft/Recognizers-Text](https://github.com/microsoft/Recognizers-Text)
-  > Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, date/time, etc. in...
-
-### [Martin5578](https://github.com/Martin5578)
-- 🌟 👤 [Martin5578](https://github.com/Martin5578) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
-
-### [NahueFernandez751](https://github.com/NahueFernandez751)
-- 🍴 👤 [NahueFernandez751](https://github.com/NahueFernandez751) Forked [NahueFernandez751/DirectX-Graphics-Samples](https://github.com/NahueFernandez751/DirectX-Graphics-Samples) to [NahueFernandez751/DirectX-Graphics-Samples](https://github.com/NahueFernandez751/DirectX-Graphics-Samples)
-  > This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive app...
-
-### [RomulusMirauta](https://github.com/RomulusMirauta)
-- 🌟 👤 [RomulusMirauta](https://github.com/RomulusMirauta) Starred [microsoft/sudo](https://github.com/microsoft/sudo)
-  > It's sudo, for Windows
-
-### [RorschachXR](https://github.com/RorschachXR)
-- 🌟 👤 [RorschachXR](https://github.com/RorschachXR) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [TFSThiagoBR98](https://github.com/TFSThiagoBR98)
-- 🌟 👤 [TFSThiagoBR98](https://github.com/TFSThiagoBR98) Starred [microsoft/edit](https://github.com/microsoft/edit)
-  > We all edit.
-
-### [Tomiz3](https://github.com/Tomiz3)
-- 🌟 👤 [Tomiz3](https://github.com/Tomiz3) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [Xcution3r](https://github.com/Xcution3r)
-- 🌟 👤 [Xcution3r](https://github.com/Xcution3r) Starred [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
-  > This is a fun, new monospaced font that includes programming ligatures and is designed to enhance th...
-
-### [aculich](https://github.com/aculich)
-- 🌟 👤 [aculich](https://github.com/aculich) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [aleesilval](https://github.com/aleesilval)
-- 🍴 👤 [aleesilval](https://github.com/aleesilval) Forked [aleesilval/mcp-for-beginners](https://github.com/aleesilval/mcp-for-beginners) to [aleesilval/mcp-for-beginners](https://github.com/aleesilval/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [alexramsey92](https://github.com/alexramsey92)
-- 🌟 👤 [alexramsey92](https://github.com/alexramsey92) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [algzerzx55-dev](https://github.com/algzerzx55-dev)
-- 🌟 👤 [algzerzx55-dev](https://github.com/algzerzx55-dev) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [amartucci](https://github.com/amartucci)
-- 🍴 👤 [amartucci](https://github.com/amartucci) Forked [amartucci/edgeai-for-beginners](https://github.com/amartucci/edgeai-for-beginners) to [amartucci/edgeai-for-beginners](https://github.com/amartucci/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
-
-### [anglinb](https://github.com/anglinb)
-- 🌟 👤 [anglinb](https://github.com/anglinb) Starred [microsoft/wassette](https://github.com/microsoft/wassette)
-  > Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
-
-### [aydanpb](https://github.com/aydanpb)
-- 🌟 👤 [aydanpb](https://github.com/aydanpb) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [bkbncn](https://github.com/bkbncn)
-- 🌟 👤 [bkbncn](https://github.com/bkbncn) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-### [blacksheep-git](https://github.com/blacksheep-git)
-- 🌟 👤 [blacksheep-git](https://github.com/blacksheep-git) Starred [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
-  > Copilot Chat extension for VS Code
-
-### [christianumb](https://github.com/christianumb)
-- 🍴 👤 [christianumb](https://github.com/christianumb) Forked [christianumb/generative-ai-for-beginners](https://github.com/christianumb/generative-ai-for-beginners) to [christianumb/generative-ai-for-beginners](https://github.com/christianumb/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [cobysy](https://github.com/cobysy)
-- 🌟 👤 [cobysy](https://github.com/cobysy) Starred [microsoft/Tokenizer](https://github.com/microsoft/Tokenizer)
-  > Typescript and .NET implementation of BPE tokenizer for OpenAI LLMs.
-
-### [cogenuous](https://github.com/cogenuous)
-- 🌟 👤 [cogenuous](https://github.com/cogenuous) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [cricketthomas](https://github.com/cricketthomas)
-- 🌟 👤 [cricketthomas](https://github.com/cricketthomas) Starred [microsoft/Recognizers-Text](https://github.com/microsoft/Recognizers-Text)
-  > Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, date/time, etc. in...
-
-### [dammsafetydefc4-eng](https://github.com/dammsafetydefc4-eng)
-- 🍴 👤 [dammsafetydefc4-eng](https://github.com/dammsafetydefc4-eng) Forked [dammsafetydefc4-eng/vscode](https://github.com/dammsafetydefc4-eng/vscode) to [dammsafetydefc4-eng/vscode](https://github.com/dammsafetydefc4-eng/vscode)
-  > Visual Studio Code
-
-### [dkapt](https://github.com/dkapt)
-- 🌟 👤 [dkapt](https://github.com/dkapt) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [ecolem](https://github.com/ecolem)
-- 🌟 👤 [ecolem](https://github.com/ecolem) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [epic-flux](https://github.com/epic-flux)
-- 🌟 👤 [epic-flux](https://github.com/epic-flux) Starred [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox)
-  > Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user ...
-
-### [err931](https://github.com/err931)
-- 🌟 👤 [err931](https://github.com/err931) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
-  > mimalloc is a compact general purpose allocator with excellent performance.
-
-### [fbrg141](https://github.com/fbrg141)
-- 🌟 👤 [fbrg141](https://github.com/fbrg141) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [febkor](https://github.com/febkor)
-- 🌟 👤 [febkor](https://github.com/febkor) Starred [microsoft/Zen](https://github.com/microsoft/Zen)
-  > Zen is a constraint solving library for .NET
-
-### [gamisn](https://github.com/gamisn)
-- 🌟 👤 [gamisn](https://github.com/gamisn) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [githubhh31](https://github.com/githubhh31)
-- 🌟 👤 [githubhh31](https://github.com/githubhh31) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [Bahatiii](https://github.com/Bahatiii)
+- 🌟 👤 [Bahatiii](https://github.com/Bahatiii) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+- 🍴 👤 [Bahatiii](https://github.com/Bahatiii) Forked [Bahatiii/ai-agents-for-beginners](https://github.com/Bahatiii/ai-agents-for-beginners) to [Bahatiii/ai-agents-for-beginners](https://github.com/Bahatiii/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
 
-### [gloriouslegacy](https://github.com/gloriouslegacy)
-- 🌟 👤 [gloriouslegacy](https://github.com/gloriouslegacy) Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-  > WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerSh...
-- 🌟 👤 [gloriouslegacy](https://github.com/gloriouslegacy) Starred [microsoft/edit](https://github.com/microsoft/edit)
-  > We all edit.
+### [CT88HamptonsLight](https://github.com/CT88HamptonsLight)
+- 🌟 👤 [CT88HamptonsLight](https://github.com/CT88HamptonsLight) Starred [microsoft/PIKE-RAG](https://github.com/microsoft/PIKE-RAG)
+  > PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
 
-### [grosskur](https://github.com/grosskur)
-- 🌟 👤 [grosskur](https://github.com/grosskur) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
-  > Message passing based allocator
-
-### [guys-bilibili](https://github.com/guys-bilibili)
-- 🌟 👤 [guys-bilibili](https://github.com/guys-bilibili) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [hakim-bouazzaoui](https://github.com/hakim-bouazzaoui)
-- 🌟 👤 [hakim-bouazzaoui](https://github.com/hakim-bouazzaoui) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [hele211](https://github.com/hele211)
-- 🍴 👤 [hele211](https://github.com/hele211) Forked [hele211/generative-ai-for-beginners](https://github.com/hele211/generative-ai-for-beginners) to [hele211/generative-ai-for-beginners](https://github.com/hele211/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [iamtejanb](https://github.com/iamtejanb)
-- 🌟 👤 [iamtejanb](https://github.com/iamtejanb) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
-
-### [jayinmt](https://github.com/jayinmt)
-- 🌟 👤 [jayinmt](https://github.com/jayinmt) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- 🌟 👤 [jayinmt](https://github.com/jayinmt) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-- 🌟 👤 [jayinmt](https://github.com/jayinmt) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+### [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
+- 🌟 👤 [CharlesCreativeContent](https://github.com/CharlesCreativeContent) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
   > The new Windows Terminal and the original Windows console host, all in the same place!
 
-### [jesseryansmith](https://github.com/jesseryansmith)
-- 🌟 👤 [jesseryansmith](https://github.com/jesseryansmith) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
+### [Damilary](https://github.com/Damilary)
+- 🌟 👤 [Damilary](https://github.com/Damilary) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+- 🍴 👤 [Damilary](https://github.com/Damilary) Forked [Damilary/generative-ai-for-beginners](https://github.com/Damilary/generative-ai-for-beginners) to [Damilary/generative-ai-for-beginners](https://github.com/Damilary/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [kaffein](https://github.com/kaffein)
-- 🌟 👤 [kaffein](https://github.com/kaffein) Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
-  > Microsoft REST API Guidelines
+### [DinLemon](https://github.com/DinLemon)
+- 🌟 👤 [DinLemon](https://github.com/DinLemon) Starred [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
+  > Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Sp...
 
-### [khanimehdi117-rgb](https://github.com/khanimehdi117-rgb)
-- 🍴 👤 [khanimehdi117-rgb](https://github.com/khanimehdi117-rgb) Forked [khanimehdi117-rgb/language-server-protocol](https://github.com/khanimehdi117-rgb/language-server-protocol) to [khanimehdi117-rgb/language-server-protocol](https://github.com/khanimehdi117-rgb/language-server-protocol)
-  > Defines a common protocol for language servers.
-- 🌟 👤 [khanimehdi117-rgb](https://github.com/khanimehdi117-rgb) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [lindelwekabini](https://github.com/lindelwekabini)
-- 🌟 👤 [lindelwekabini](https://github.com/lindelwekabini) Starred [microsoft/beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node)
-  > Beginner's Series: Introduction to JavaScript (Node.js)
-
-### [lkimura-dot](https://github.com/lkimura-dot)
-- 🌟 👤 [lkimura-dot](https://github.com/lkimura-dot) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
-
-### [lukapmoran](https://github.com/lukapmoran)
-- 🌟 👤 [lukapmoran](https://github.com/lukapmoran) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [DynamicEndpoints](https://github.com/DynamicEndpoints)
+- 🌟 👤 [DynamicEndpoints](https://github.com/DynamicEndpoints) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-- 🌟 👤 [lukapmoran](https://github.com/lukapmoran) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+
+### [Ekkanit](https://github.com/Ekkanit)
+- 🌟 👤 [Ekkanit](https://github.com/Ekkanit) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
   > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- 🌟 👤 [Ekkanit](https://github.com/Ekkanit) Starred [microsoft/TypeScript-wiki](https://github.com/microsoft/TypeScript-wiki)
+  > A repository to make changes to the TypeScript Wiki on GitHub
+- 🍴 👤 [Ekkanit](https://github.com/Ekkanit) Forked [Ekkanit/TypeScript-wiki](https://github.com/Ekkanit/TypeScript-wiki) to [Ekkanit/TypeScript-wiki](https://github.com/Ekkanit/TypeScript-wiki)
+  > A repository to make changes to the TypeScript Wiki on GitHub
 
-### [luxelist-app](https://github.com/luxelist-app)
-- 🌟 👤 [luxelist-app](https://github.com/luxelist-app) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-  > C++ Library Manager for Windows, Linux, and MacOS
-
-### [magikmw](https://github.com/magikmw)
-- 🌟 👤 [magikmw](https://github.com/magikmw) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [malekbadrr](https://github.com/malekbadrr)
-- 🌟 👤 [malekbadrr](https://github.com/malekbadrr) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [martinrieder](https://github.com/martinrieder)
-- 🌟 👤 [martinrieder](https://github.com/martinrieder) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+### [Euheimr](https://github.com/Euheimr)
+- 🌟 👤 [Euheimr](https://github.com/Euheimr) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
   > The new Windows Terminal and the original Windows console host, all in the same place!
 
-### [martznegaspartunde-source](https://github.com/martznegaspartunde-source)
-- 🌟 👤 [martznegaspartunde-source](https://github.com/martznegaspartunde-source) Starred [microsoft/Olive](https://github.com/microsoft/Olive)
-  > Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and N...
-
-### [mbaneshi](https://github.com/mbaneshi)
-- 🌟 👤 [mbaneshi](https://github.com/mbaneshi) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-  > C++ Library Manager for Windows, Linux, and MacOS
-- 🍴 👤 [mbaneshi](https://github.com/mbaneshi) Forked [mbaneshi/vcpkg](https://github.com/mbaneshi/vcpkg) to [mbaneshi/vcpkg](https://github.com/mbaneshi/vcpkg)
-  > C++ Library Manager for Windows, Linux, and MacOS
-
-### [mohamedatallah908-boop](https://github.com/mohamedatallah908-boop)
-- 🌟 👤 [mohamedatallah908-boop](https://github.com/mohamedatallah908-boop) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [FallenGodfather](https://github.com/FallenGodfather)
+- 🌟 👤 [FallenGodfather](https://github.com/FallenGodfather) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [mpaulosky](https://github.com/mpaulosky)
-- 🌟 👤 [mpaulosky](https://github.com/mpaulosky) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
+### [JeffCarpenter](https://github.com/JeffCarpenter)
+- 🌟 👤 [JeffCarpenter](https://github.com/JeffCarpenter) Starred [microsoft/dion](https://github.com/microsoft/dion)
+  > Dion optimizer algorithm
 
-### [msraihan](https://github.com/msraihan)
-- 🌟 👤 [msraihan](https://github.com/msraihan) Starred [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
-  > A simple screen parsing tool towards pure vision based GUI agent
+### [Krovyne](https://github.com/Krovyne)
+- 🌟 👤 [Krovyne](https://github.com/Krovyne) Starred [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started)
+  > Sample code for Channel 9 Python for Beginners course
 
-### [n1crack](https://github.com/n1crack)
-- 🌟 👤 [n1crack](https://github.com/n1crack) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [KyleGrande](https://github.com/KyleGrande)
+- 🌟 👤 [KyleGrande](https://github.com/KyleGrande) Starred [microsoft/hermes-windows](https://github.com/microsoft/hermes-windows)
+  > Hermes is a small and lightweight JavaScript engine optimized for running React Native apps..
+
+### [Lilian-nan](https://github.com/Lilian-nan)
+- 🌟 👤 [Lilian-nan](https://github.com/Lilian-nan) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [LuisMiSan](https://github.com/LuisMiSan)
+- 🌟 👤 [LuisMiSan](https://github.com/LuisMiSan) Starred [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+  > Sample code illustrating the VS Code extension API.
+
+### [Maisie-Liu](https://github.com/Maisie-Liu)
+- 🌟 👤 [Maisie-Liu](https://github.com/Maisie-Liu) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
+
+### [Monkeyberries](https://github.com/Monkeyberries)
+- 🌟 👤 [Monkeyberries](https://github.com/Monkeyberries) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [nichoth](https://github.com/nichoth)
-- 🌟 👤 [nichoth](https://github.com/nichoth) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+### [PavvelProDev](https://github.com/PavvelProDev)
+- 🌟 👤 [PavvelProDev](https://github.com/PavvelProDev) Starred [microsoft/windows-rs](https://github.com/microsoft/windows-rs)
+  > Rust for Windows
 
-### [oneisis33-oss](https://github.com/oneisis33-oss)
-- 🌟 👤 [oneisis33-oss](https://github.com/oneisis33-oss) Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
-  > The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+### [afractal](https://github.com/afractal)
+- 🌟 👤 [afractal](https://github.com/afractal) Starred [microsoft/DxCapsViewer](https://github.com/microsoft/DxCapsViewer)
+  > DirectX Capabilities Viewer utility (dxcapsviewer.exe)
 
-### [raman1236](https://github.com/raman1236)
-- 🍴 👤 [raman1236](https://github.com/raman1236) Forked [raman1236/vscode](https://github.com/raman1236/vscode) to [raman1236/vscode](https://github.com/raman1236/vscode)
-  > Visual Studio Code
+### [alagonterie](https://github.com/alagonterie)
+- 🌟 👤 [alagonterie](https://github.com/alagonterie) Starred [microsoft/SharePoint-Embedded-Samples](https://github.com/microsoft/SharePoint-Embedded-Samples)
+  > Welcome to the SharePoint Embedded samples repository. Here you will find client-side and server-sid...
 
-### [rob-bru](https://github.com/rob-bru)
-- 🌟 👤 [rob-bru](https://github.com/rob-bru) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [alexbit-codemod](https://github.com/alexbit-codemod)
+- 🌟 👤 [alexbit-codemod](https://github.com/alexbit-codemod) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
+
+### [arisng](https://github.com/arisng)
+- 🌟 👤 [arisng](https://github.com/arisng) Starred [microsoft/mcp-dotnet-samples](https://github.com/microsoft/mcp-dotnet-samples)
+  > A comprehensive set of samples of creating and using MCP servers and clients with .NET
+
+### [ashah1002](https://github.com/ashah1002)
+- 🍴 👤 [ashah1002](https://github.com/ashah1002) Forked [Stanford-SkyRunners/airsim-arm](https://github.com/Stanford-SkyRunners/airsim-arm) to [Stanford-SkyRunners/airsim-arm](https://github.com/Stanford-SkyRunners/airsim-arm)
+  > AirSim fork — macOS support & Apple Silicon fixes
+
+### [augustopdesouza97-hue](https://github.com/augustopdesouza97-hue)
+- 🌟 👤 [augustopdesouza97-hue](https://github.com/augustopdesouza97-hue) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [rosskarchner](https://github.com/rosskarchner)
-- 🌟 👤 [rosskarchner](https://github.com/rosskarchner) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [sandboxcode](https://github.com/sandboxcode)
-- 🌟 👤 [sandboxcode](https://github.com/sandboxcode) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [sekkaisofiane](https://github.com/sekkaisofiane)
-- 🌟 👤 [sekkaisofiane](https://github.com/sekkaisofiane) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [spliichx](https://github.com/spliichx)
-- 🌟 👤 [spliichx](https://github.com/spliichx) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [bashoori](https://github.com/bashoori)
+- 🍴 👤 [bashoori](https://github.com/bashoori) Forked [bashoori/ai-agents-for-beginners](https://github.com/bashoori/ai-agents-for-beginners) to [bashoori/ai-agents-for-beginners](https://github.com/bashoori/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
 
-### [straddleu2](https://github.com/straddleu2)
-- 🌟 👤 [straddleu2](https://github.com/straddleu2) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [syzygial](https://github.com/syzygial)
-- 🌟 👤 [syzygial](https://github.com/syzygial) Starred [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples)
-  > This repo contains samples that demonstrate the API used in Windows classic desktop applications.
-
-### [talmagew](https://github.com/talmagew)
-- 🍴 👤 [talmagew](https://github.com/talmagew) Forked [talmagew/vscompositor](https://github.com/talmagew/vscompositor) to [talmagew/vscompositor](https://github.com/talmagew/vscompositor)
-  > Visual Studio Compositor
-
-### [tiagoto](https://github.com/tiagoto)
-- 🌟 👤 [tiagoto](https://github.com/tiagoto) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-  > Frontier Open-Source Text-to-Speech
-
-### [tristan-derez](https://github.com/tristan-derez)
-- 🌟 👤 [tristan-derez](https://github.com/tristan-derez) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [vesharma-dev](https://github.com/vesharma-dev)
-- 🌟 👤 [vesharma-dev](https://github.com/vesharma-dev) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [wleuro](https://github.com/wleuro)
-- 🌟 👤 [wleuro](https://github.com/wleuro) Starred [microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
-  > The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a ...
-
-### [xhectorcr](https://github.com/xhectorcr)
-- 🌟 👤 [xhectorcr](https://github.com/xhectorcr) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+### [boqigangren](https://github.com/boqigangren)
+- 🌟 👤 [boqigangren](https://github.com/boqigangren) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
   > Playwright MCP server
 
-### [yousseferrahmouni24-eng](https://github.com/yousseferrahmouni24-eng)
-- 🌟 👤 [yousseferrahmouni24-eng](https://github.com/yousseferrahmouni24-eng) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [boyuanqian](https://github.com/boyuanqian)
+- 🍴 👤 [boyuanqian](https://github.com/boyuanqian) Forked [qai-lab/playwright](https://github.com/qai-lab/playwright) to [qai-lab/playwright](https://github.com/qai-lab/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+
+### [btxl](https://github.com/btxl)
+- 🌟 👤 [btxl](https://github.com/btxl) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+
+### [cherrychon](https://github.com/cherrychon)
+- 🌟 👤 [cherrychon](https://github.com/cherrychon) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🌟 👤 [cherrychon](https://github.com/cherrychon) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [cnyahia](https://github.com/cnyahia)
+- 🌟 👤 [cnyahia](https://github.com/cnyahia) Starred [microsoft/TypeAgent](https://github.com/microsoft/TypeAgent)
+  > Sample code that explores an architecture for using language models to build a personal agent that c...
+
+### [cp90-pixel](https://github.com/cp90-pixel)
+- 🍴 👤 [cp90-pixel](https://github.com/cp90-pixel) Forked [cp90-pixel/monaco-editor](https://github.com/cp90-pixel/monaco-editor) to [cp90-pixel/monaco-editor](https://github.com/cp90-pixel/monaco-editor)
+  > A browser based code editor
+
+### [dan2468](https://github.com/dan2468)
+- 🌟 👤 [dan2468](https://github.com/dan2468) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [yutannihilation](https://github.com/yutannihilation)
-- 🌟 👤 [yutannihilation](https://github.com/yutannihilation) Starred [microsoft/wassette](https://github.com/microsoft/wassette)
-  > Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
+### [derdes0230-sys](https://github.com/derdes0230-sys)
+- 🌟 👤 [derdes0230-sys](https://github.com/derdes0230-sys) Starred [microsoft/Olive](https://github.com/microsoft/Olive)
+  > Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and N...
 
-### [zarifbinhasnat](https://github.com/zarifbinhasnat)
-- 🌟 👤 [zarifbinhasnat](https://github.com/zarifbinhasnat) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [dmitrifaleev](https://github.com/dmitrifaleev)
+- 🌟 👤 [dmitrifaleev](https://github.com/dmitrifaleev) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+
+### [duyngaongo160907-gif](https://github.com/duyngaongo160907-gif)
+- 🌟 👤 [duyngaongo160907-gif](https://github.com/duyngaongo160907-gif) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🌟 👤 [duyngaongo160907-gif](https://github.com/duyngaongo160907-gif) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [edius1987](https://github.com/edius1987)
+- 🌟 👤 [edius1987](https://github.com/edius1987) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+
+### [element824](https://github.com/element824)
+- 🍴 👤 [element824](https://github.com/element824) Forked [element824/TechWorkshop-L300-AI-Apps-and-agents](https://github.com/element824/TechWorkshop-L300-AI-Apps-and-agents) to [element824/TechWorkshop-L300-AI-Apps-and-agents](https://github.com/element824/TechWorkshop-L300-AI-Apps-and-agents)
+
+### [ericchencth](https://github.com/ericchencth)
+- 🌟 👤 [ericchencth](https://github.com/ericchencth) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
+
+### [erickarobinson92](https://github.com/erickarobinson92)
+- 🌟 👤 [erickarobinson92](https://github.com/erickarobinson92) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
+- 🌟 👤 [erickarobinson92](https://github.com/erickarobinson92) Starred [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+  > Integrate cutting-edge LLM technology quickly and easily into your apps
+
+### [fhlaimiao](https://github.com/fhlaimiao)
+- 🌟 👤 [fhlaimiao](https://github.com/fhlaimiao) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Frontier Open-Source Text-to-Speech
+- 🌟 👤 [fhlaimiao](https://github.com/fhlaimiao) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [goamania](https://github.com/goamania)
+- 🍴 👤 [goamania](https://github.com/goamania) Forked [goamania/generative-ai-for-beginners](https://github.com/goamania/generative-ai-for-beginners) to [goamania/generative-ai-for-beginners](https://github.com/goamania/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [granjadenbelg02](https://github.com/granjadenbelg02)
+- 🍴 👤 [granjadenbelg02](https://github.com/granjadenbelg02) Forked [granjadenbelg02/markitdown](https://github.com/granjadenbelg02/markitdown) to [granjadenbelg02/markitdown](https://github.com/granjadenbelg02/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+- 🌟 👤 [granjadenbelg02](https://github.com/granjadenbelg02) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [hkammermeyer](https://github.com/hkammermeyer)
+- 🌟 👤 [hkammermeyer](https://github.com/hkammermeyer) Starred [microsoft/BotFramework-Emulator](https://github.com/microsoft/BotFramework-Emulator)
+  > A desktop application that allows users to locally test and debug chat bots built with the Bot Frame...
+
+### [hulongji](https://github.com/hulongji)
+- 🌟 👤 [hulongji](https://github.com/hulongji) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
+- 🍴 👤 [hulongji](https://github.com/hulongji) Forked [hulongji/LightGBM](https://github.com/hulongji/LightGBM) to [hulongji/LightGBM](https://github.com/hulongji/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
+
+### [iliyi](https://github.com/iliyi)
+- 🌟 👤 [iliyi](https://github.com/iliyi) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [iloveck](https://github.com/iloveck)
+- 🍴 👤 [iloveck](https://github.com/iloveck) Forked [iloveck/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/iloveck/Mastering-GitHub-Copilot-for-Paired-Programming) to [iloveck/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/iloveck/Mastering-GitHub-Copilot-for-Paired-Programming)
+  > A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer ...
+
+### [j-xzy](https://github.com/j-xzy)
+- 🌟 👤 [j-xzy](https://github.com/j-xzy) Starred [microsoft/tsyringe](https://github.com/microsoft/tsyringe)
+  > Lightweight dependency injection container for JavaScript/TypeScript
+
+### [jacklusch](https://github.com/jacklusch)
+- 🌟 👤 [jacklusch](https://github.com/jacklusch) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
+
+### [jakbb](https://github.com/jakbb)
+- 🌟 👤 [jakbb](https://github.com/jakbb) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [jeslynedrechselss-max](https://github.com/jeslynedrechselss-max)
+- 🌟 👤 [jeslynedrechselss-max](https://github.com/jeslynedrechselss-max) Starred [microsoft/aka](https://github.com/microsoft/aka)
+  > Doc page listing all public aka.ms links for Microsoft admin portals
+
+### [kingw0](https://github.com/kingw0)
+- 🌟 👤 [kingw0](https://github.com/kingw0) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [m88833020-star](https://github.com/m88833020-star)
+- 🍴 👤 [m88833020-star](https://github.com/m88833020-star) Forked [m88833020-star/vscode](https://github.com/m88833020-star/vscode) to [m88833020-star/vscode](https://github.com/m88833020-star/vscode)
+  > Visual Studio Code
+
+### [mhm1likae](https://github.com/mhm1likae)
+- 🌟 👤 [mhm1likae](https://github.com/mhm1likae) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [mizhm](https://github.com/mizhm)
+- 🌟 👤 [mizhm](https://github.com/mizhm) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [msventurini](https://github.com/msventurini)
+- 🌟 👤 [msventurini](https://github.com/msventurini) Starred [microsoft/semantic-kernel-java](https://github.com/microsoft/semantic-kernel-java)
+  > Semantic Kernel for Java. Integrate cutting-edge LLM technology quickly and easily into your Java ba...
+
+### [newdee](https://github.com/newdee)
+- 🌟 👤 [newdee](https://github.com/newdee) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [nzagler](https://github.com/nzagler)
+- 🌟 👤 [nzagler](https://github.com/nzagler) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [pabloveintimilla](https://github.com/pabloveintimilla)
+- 🌟 👤 [pabloveintimilla](https://github.com/pabloveintimilla) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+
+### [potatoes2003](https://github.com/potatoes2003)
+- 🌟 👤 [potatoes2003](https://github.com/potatoes2003) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [pratheek-j](https://github.com/pratheek-j)
+- 🌟 👤 [pratheek-j](https://github.com/pratheek-j) Starred [microsoft/promptflow](https://github.com/microsoft/promptflow)
+  > Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- 🌟 👤 [pratheek-j](https://github.com/pratheek-j) Starred [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+  > Integrate cutting-edge LLM technology quickly and easily into your apps
+
+### [priyanshuTh](https://github.com/priyanshuTh)
+- 🌟 👤 [priyanshuTh](https://github.com/priyanshuTh) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [rninverseC](https://github.com/rninverseC)
+- 🌟 👤 [rninverseC](https://github.com/rninverseC) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [seigneurcui](https://github.com/seigneurcui)
+- 🌟 👤 [seigneurcui](https://github.com/seigneurcui) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+- 🍴 👤 [seigneurcui](https://github.com/seigneurcui) Forked [seigneurcui/vcpkg-c--manager](https://github.com/seigneurcui/vcpkg-c--manager) to [seigneurcui/vcpkg-c--manager](https://github.com/seigneurcui/vcpkg-c--manager)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [seiten](https://github.com/seiten)
+- 🌟 👤 [seiten](https://github.com/seiten) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+
+### [shalakhasardana](https://github.com/shalakhasardana)
+- 🍴 👤 [shalakhasardana](https://github.com/shalakhasardana) Forked [shalakhasardana/ai-agents-for-beginners](https://github.com/shalakhasardana/ai-agents-for-beginners) to [shalakhasardana/ai-agents-for-beginners](https://github.com/shalakhasardana/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
+
+### [shapefuture](https://github.com/shapefuture)
+- 🌟 👤 [shapefuture](https://github.com/shapefuture) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+
+### [simakhan55667788-max](https://github.com/simakhan55667788-max)
+- 🌟 👤 [simakhan55667788-max](https://github.com/simakhan55667788-max) Starred [microsoft/Olive](https://github.com/microsoft/Olive)
+  > Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and N...
+
+### [sirredbeard](https://github.com/sirredbeard)
+- 🌟 👤 [sirredbeard](https://github.com/sirredbeard) Starred [microsoft/WindowsAdvancedSettings](https://github.com/microsoft/WindowsAdvancedSettings)
+
+### [stacktasec](https://github.com/stacktasec)
+- 🌟 👤 [stacktasec](https://github.com/stacktasec) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+
+### [struce2](https://github.com/struce2)
+- 🌟 👤 [struce2](https://github.com/struce2) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+
+### [xqmmcqs](https://github.com/xqmmcqs)
+- 🌟 👤 [xqmmcqs](https://github.com/xqmmcqs) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [xxx555123](https://github.com/xxx555123)
+- 🌟 👤 [xxx555123](https://github.com/xxx555123) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [ylin0052](https://github.com/ylin0052)
+- 🌟 👤 [ylin0052](https://github.com/ylin0052) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [yosipy](https://github.com/yosipy)
+- 🌟 👤 [yosipy](https://github.com/yosipy) Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
+  > Microsoft REST API Guidelines
+
+### [yousongsun](https://github.com/yousongsun)
+- 🌟 👤 [yousongsun](https://github.com/yousongsun) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [zhanghaoda](https://github.com/zhanghaoda)
+- 🌟 👤 [zhanghaoda](https://github.com/zhanghaoda) Starred [microsoft/demikernel](https://github.com/microsoft/demikernel)
+  > Kernel-Bypass LibOS Architecture
+
+### [zshn-dev](https://github.com/zshn-dev)
+- 🌟 👤 [zshn-dev](https://github.com/zshn-dev) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
 
 ---
-*最后更新于 2025-10-18 23:39:27 UTC*
+*最后更新于 2025-10-19 02:02:25 UTC*
 *历史记录保存在 `archive` 目录中。*
