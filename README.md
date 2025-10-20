@@ -4,87 +4,83 @@
 
 ## 今日动态
 
-### [ArshiaPazoki](https://github.com/ArshiaPazoki)
-- 🌟 👤 [ArshiaPazoki](https://github.com/ArshiaPazoki) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [Bio-12345](https://github.com/Bio-12345)
+- 🌟 👤 [Bio-12345](https://github.com/Bio-12345) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
+- 🌟 👤 [Bio-12345](https://github.com/Bio-12345) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
 
-### [Elkikitos](https://github.com/Elkikitos)
-- 🌟 👤 [Elkikitos](https://github.com/Elkikitos) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-- 🌟 👤 [Elkikitos](https://github.com/Elkikitos) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+### [Cyberforker](https://github.com/Cyberforker)
+- 🌟 👤 [Cyberforker](https://github.com/Cyberforker) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [LeeFely](https://github.com/LeeFely)
-- 🌟 👤 [LeeFely](https://github.com/LeeFely) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [NeonDeity](https://github.com/NeonDeity)
-- 🌟 👤 [NeonDeity](https://github.com/NeonDeity) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [ScheuNZ](https://github.com/ScheuNZ)
-- 🌟 👤 [ScheuNZ](https://github.com/ScheuNZ) Starred [microsoft/artifacts-credprovider](https://github.com/microsoft/artifacts-credprovider)
-  > The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acqu...
-
-### [ScorIsAFox](https://github.com/ScorIsAFox)
-- 🌟 👤 [ScorIsAFox](https://github.com/ScorIsAFox) Starred [microsoft/K-Adapter](https://github.com/microsoft/K-Adapter)
-
-### [SiANDYou](https://github.com/SiANDYou)
-- 🌟 👤 [SiANDYou](https://github.com/SiANDYou) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [VICTORROKR](https://github.com/VICTORROKR)
-- 🌟 👤 [VICTORROKR](https://github.com/VICTORROKR) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
-
-### [WenJing95](https://github.com/WenJing95)
-- 🌟 👤 [WenJing95](https://github.com/WenJing95) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [YonatanHarel](https://github.com/YonatanHarel)
-- 🍴 👤 [YonatanHarel](https://github.com/YonatanHarel) Forked [YonatanHarel/generative-ai-for-beginners](https://github.com/YonatanHarel/generative-ai-for-beginners) to [YonatanHarel/generative-ai-for-beginners](https://github.com/YonatanHarel/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [axlem1036](https://github.com/axlem1036)
-- 🌟 👤 [axlem1036](https://github.com/axlem1036) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [gerrardLT](https://github.com/gerrardLT)
-- 🌟 👤 [gerrardLT](https://github.com/gerrardLT) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [hatemadi15](https://github.com/hatemadi15)
-- 🍴 👤 [hatemadi15](https://github.com/hatemadi15) Forked [hatemadi15/ML-For-Beginners](https://github.com/hatemadi15/ML-For-Beginners) to [hatemadi15/ML-For-Beginners](https://github.com/hatemadi15/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-### [heyeast](https://github.com/heyeast)
-- 🌟 👤 [heyeast](https://github.com/heyeast) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-
-### [j8267643](https://github.com/j8267643)
-- 🌟 👤 [j8267643](https://github.com/j8267643) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-- 🍴 👤 [j8267643](https://github.com/j8267643) Forked [j8267643/markitdown](https://github.com/j8267643/markitdown) to [j8267643/markitdown](https://github.com/j8267643/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [miraclebakelaser](https://github.com/miraclebakelaser)
-- 🌟 👤 [miraclebakelaser](https://github.com/miraclebakelaser) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [nsuregrowth1](https://github.com/nsuregrowth1)
-- 🌟 👤 [nsuregrowth1](https://github.com/nsuregrowth1) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+### [GirinMan](https://github.com/GirinMan)
+- 🌟 👤 [GirinMan](https://github.com/GirinMan) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
   > A programming framework for agentic AI
 
-### [tarini-py](https://github.com/tarini-py)
-- 🍴 👤 [tarini-py](https://github.com/tarini-py) Forked [tarini-py/ai-agents-for-beginners](https://github.com/tarini-py/ai-agents-for-beginners) to [tarini-py/ai-agents-for-beginners](https://github.com/tarini-py/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-- 🍴 👤 [tarini-py](https://github.com/tarini-py) Forked [tarini-py/ML-For-Beginners](https://github.com/tarini-py/ML-For-Beginners) to [tarini-py/ML-For-Beginners](https://github.com/tarini-py/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+### [NtUserFillWindow](https://github.com/NtUserFillWindow)
+- 🍴 👤 [NtUserFillWindow](https://github.com/NtUserFillWindow) Forked [NtUserFillWindow/terminal](https://github.com/NtUserFillWindow/terminal) to [NtUserFillWindow/terminal](https://github.com/NtUserFillWindow/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
 
-### [xrcdev](https://github.com/xrcdev)
-- 🌟 👤 [xrcdev](https://github.com/xrcdev) Starred [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
-  > Visual Studio Code SQL Server extension.
+### [ShanSimu](https://github.com/ShanSimu)
+- 🌟 👤 [ShanSimu](https://github.com/ShanSimu) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+
+### [T-Raytheon](https://github.com/T-Raytheon)
+- 🌟 👤 [T-Raytheon](https://github.com/T-Raytheon) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [akashtalole](https://github.com/akashtalole)
+- 🌟 👤 [akashtalole](https://github.com/akashtalole) Starred [microsoft/aitour26-WRK570-improving-ops-with-copilot-in-azure-and-github-copilot](https://github.com/microsoft/aitour26-WRK570-improving-ops-with-copilot-in-azure-and-github-copilot)
+
+### [ankitdalalx](https://github.com/ankitdalalx)
+- 🌟 👤 [ankitdalalx](https://github.com/ankitdalalx) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
+  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
+
+### [arkadiusz-s](https://github.com/arkadiusz-s)
+- 🌟 👤 [arkadiusz-s](https://github.com/arkadiusz-s) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+  > 🪄 Create rich visualizations with AI 
+
+### [ashawkey](https://github.com/ashawkey)
+- 🌟 👤 [ashawkey](https://github.com/ashawkey) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+
+### [flyingbearHK](https://github.com/flyingbearHK)
+- 🌟 👤 [flyingbearHK](https://github.com/flyingbearHK) Starred [microsoft/fabric-toolbox](https://github.com/microsoft/fabric-toolbox)
+  > Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your succe...
+
+### [gribanskij](https://github.com/gribanskij)
+- 🌟 👤 [gribanskij](https://github.com/gribanskij) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
+
+### [hongren2003](https://github.com/hongren2003)
+- 🌟 👤 [hongren2003](https://github.com/hongren2003) Starred [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started)
+  > Sample code for Channel 9 Python for Beginners course
+
+### [jimthedev](https://github.com/jimthedev)
+- 🍴 👤 [jimthedev](https://github.com/jimthedev) Forked [jimthedev/vscode](https://github.com/jimthedev/vscode) to [jimthedev/vscode](https://github.com/jimthedev/vscode)
+  > Visual Studio Code
+
+### [kkofu](https://github.com/kkofu)
+- 🌟 👤 [kkofu](https://github.com/kkofu) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+
+### [lightman2](https://github.com/lightman2)
+- 🌟 👤 [lightman2](https://github.com/lightman2) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
+
+### [meterglost](https://github.com/meterglost)
+- 🌟 👤 [meterglost](https://github.com/meterglost) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+
+### [nitesh-nsuregrowth](https://github.com/nitesh-nsuregrowth)
+- 🌟 👤 [nitesh-nsuregrowth](https://github.com/nitesh-nsuregrowth) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+
+### [yangyanglamb](https://github.com/yangyanglamb)
+- 🌟 👤 [yangyanglamb](https://github.com/yangyanglamb) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
 
 
 ---
-*最后更新于 2025-10-20 05:24:47 UTC*
+*最后更新于 2025-10-20 05:42:23 UTC*
 *历史记录保存在 `archive` 目录中。*
