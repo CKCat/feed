@@ -4,30 +4,42 @@
 
 ## 今日动态
 
-### [RobotPeak](https://github.com/RobotPeak)
-- 🌟 👤 [RobotPeak](https://github.com/RobotPeak) Starred [microsoft/MoGe](https://github.com/microsoft/MoGe)
-  > [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Op...
+### [Chisomprince](https://github.com/Chisomprince)
+- 🌟 👤 [Chisomprince](https://github.com/Chisomprince) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+  > 🪄 Create rich visualizations with AI 
 
-### [demenlee](https://github.com/demenlee)
-- 🌟 👤 [demenlee](https://github.com/demenlee) Starred [microsoft/fides](https://github.com/microsoft/fides)
-  > Flow Integrity Deterministic Enforcement System. Mechanisms for securing AI agents with information-...
+### [David2222-debug](https://github.com/David2222-debug)
+- 🍴 👤 [David2222-debug](https://github.com/David2222-debug) Forked [David2222-debug/vscode](https://github.com/David2222-debug/vscode) to [David2222-debug/vscode](https://github.com/David2222-debug/vscode)
+  > Visual Studio Code
 
-### [lday0321](https://github.com/lday0321)
-- 🌟 👤 [lday0321](https://github.com/lday0321) Starred [microsoft/FASTER](https://github.com/microsoft/FASTER)
-  > Fast persistent recoverable log and key-value store + cache, in C# and C++.
+### [Justrebl](https://github.com/Justrebl)
+- 🌟 👤 [Justrebl](https://github.com/Justrebl) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [malevy](https://github.com/malevy)
-- 🌟 👤 [malevy](https://github.com/malevy) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+### [RJTPP](https://github.com/RJTPP)
+- 🌟 👤 [RJTPP](https://github.com/RJTPP) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
-### [mbarzeev](https://github.com/mbarzeev)
-- 🍴 👤 [mbarzeev](https://github.com/mbarzeev) Forked [mbarzeev/mcp-for-beginners](https://github.com/mbarzeev/mcp-for-beginners) to [mbarzeev/mcp-for-beginners](https://github.com/mbarzeev/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+### [frankyuen](https://github.com/frankyuen)
+- 🍴 👤 [frankyuen](https://github.com/frankyuen) Forked [frankyuen/generative-ai-for-beginners](https://github.com/frankyuen/generative-ai-for-beginners) to [frankyuen/generative-ai-for-beginners](https://github.com/frankyuen/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [quangkhai5122](https://github.com/quangkhai5122)
-- 🌟 👤 [quangkhai5122](https://github.com/quangkhai5122) Starred [microsoft/ASL-citizen-code](https://github.com/microsoft/ASL-citizen-code)
-  > Code and baselines for ASL Citizen dataset
+### [lishuaitong16](https://github.com/lishuaitong16)
+- 🌟 👤 [lishuaitong16](https://github.com/lishuaitong16) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
+
+### [macdogiahuy](https://github.com/macdogiahuy)
+- 🍴 👤 [macdogiahuy](https://github.com/macdogiahuy) Forked [macdogiahuy/adaptive-testing](https://github.com/macdogiahuy/adaptive-testing) to [macdogiahuy/adaptive-testing](https://github.com/macdogiahuy/adaptive-testing)
+  > Find and fix bugs in natural language machine learning models using adaptive testing.
+
+### [mervyxxx](https://github.com/mervyxxx)
+- 🍴 👤 [mervyxxx](https://github.com/mervyxxx) Forked [mervyxxx/libimobiledevice](https://github.com/mervyxxx/libimobiledevice) to [mervyxxx/libimobiledevice](https://github.com/mervyxxx/libimobiledevice)
+  > A cross-platform protocol library to communicate with iOS devices
+
+### [trungthaihieu93-dev](https://github.com/trungthaihieu93-dev)
+- 🌟 👤 [trungthaihieu93-dev](https://github.com/trungthaihieu93-dev) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
 
 
 ---
-*最后更新于 2025-10-20 11:21:00 UTC*
+*最后更新于 2025-10-20 11:39:37 UTC*
 *历史记录保存在 `archive` 目录中。*
