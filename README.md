@@ -4,47 +4,47 @@
 
 ## 今日动态
 
-### [3025169211gao](https://github.com/3025169211gao)
-- 🍴 👤 [3025169211gao](https://github.com/3025169211gao) Forked [3025169211gao/VisualStudioUninstaller](https://github.com/3025169211gao/VisualStudioUninstaller) to [3025169211gao/VisualStudioUninstaller](https://github.com/3025169211gao/VisualStudioUninstaller)
-  > Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artif...
+### [66hh](https://github.com/66hh)
+- 🌟 👤 [66hh](https://github.com/66hh) Starred [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
+  > A lightning fast Finite State machine and REgular expression manipulation library.
+- 🍴 👤 [66hh](https://github.com/66hh) Forked [66hh/BlingFire](https://github.com/66hh/BlingFire) to [66hh/BlingFire](https://github.com/66hh/BlingFire)
+  > A lightning fast Finite State machine and REgular expression manipulation library.
 
-### [DURUII](https://github.com/DURUII)
-- 🌟 👤 [DURUII](https://github.com/DURUII) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+### [AmirZhou](https://github.com/AmirZhou)
+- 🌟 👤 [AmirZhou](https://github.com/AmirZhou) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+### [AzBaz](https://github.com/AzBaz)
+- 🌟 👤 [AzBaz](https://github.com/AzBaz) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+
+### [GoodSergiy](https://github.com/GoodSergiy)
+- 🌟 👤 [GoodSergiy](https://github.com/GoodSergiy) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
   > Playwright MCP server
 
-### [MikuX-Dev](https://github.com/MikuX-Dev)
-- 🌟 👤 [MikuX-Dev](https://github.com/MikuX-Dev) Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
-  > JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+### [KKeebler](https://github.com/KKeebler)
+- 🌟 👤 [KKeebler](https://github.com/KKeebler) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- 🌟 👤 [KKeebler](https://github.com/KKeebler) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+  > 10 Weeks, 20 Lessons, Data Science for All!
 
-### [SHIMURA0](https://github.com/SHIMURA0)
-- 🌟 👤 [SHIMURA0](https://github.com/SHIMURA0) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+### [danielstgt](https://github.com/danielstgt)
+- 🌟 👤 [danielstgt](https://github.com/danielstgt) Starred [microsoft/chronos](https://github.com/microsoft/chronos)
+  > Thread orchestration and monitoring frameworks for Android apps for scale
+
+### [inkoff](https://github.com/inkoff)
+- 🌟 👤 [inkoff](https://github.com/inkoff) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+
+### [lokitoth](https://github.com/lokitoth)
+- 🍴 👤 [lokitoth](https://github.com/lokitoth) Forked [lokitoth/agent-framework](https://github.com/lokitoth/agent-framework) to [lokitoth/agent-framework](https://github.com/lokitoth/agent-framework)
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [dlynch90](https://github.com/dlynch90)
-- 🌟 👤 [dlynch90](https://github.com/dlynch90) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [gabekus-carbonarc](https://github.com/gabekus-carbonarc)
-- 🌟 👤 [gabekus-carbonarc](https://github.com/gabekus-carbonarc) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
-  > Static Type Checker for Python
-
-### [holynuts](https://github.com/holynuts)
-- 🌟 👤 [holynuts](https://github.com/holynuts) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
-
-### [jfr4nc0](https://github.com/jfr4nc0)
-- 🌟 👤 [jfr4nc0](https://github.com/jfr4nc0) Starred [microsoft/mcp](https://github.com/microsoft/mcp)
-  > Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered dat...
-
-### [salvovitale](https://github.com/salvovitale)
-- 🌟 👤 [salvovitale](https://github.com/salvovitale) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [shansun123](https://github.com/shansun123)
-- 🌟 👤 [shansun123](https://github.com/shansun123) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
+### [sullivansellers](https://github.com/sullivansellers)
+- 🌟 👤 [sullivansellers](https://github.com/sullivansellers) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
 
 
 ---
-*最后更新于 2025-10-20 14:44:50 UTC*
+*最后更新于 2025-10-20 15:25:09 UTC*
 *历史记录保存在 `archive` 目录中。*
