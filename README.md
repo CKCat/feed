@@ -4,26 +4,27 @@
 
 ## 今日动态
 
-### [Benzerk](https://github.com/Benzerk)
-- 🌟 👤 [Benzerk](https://github.com/Benzerk) Starred [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-  > Public documentation for Visual Studio Code
-- 🌟 👤 [Benzerk](https://github.com/Benzerk) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [aloutfi](https://github.com/aloutfi)
-- 🌟 👤 [aloutfi](https://github.com/aloutfi) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [liquescentremedies](https://github.com/liquescentremedies)
-- 🌟 👤 [liquescentremedies](https://github.com/liquescentremedies) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [Zilirabbit](https://github.com/Zilirabbit)
+- 🌟 👤 [Zilirabbit](https://github.com/Zilirabbit) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [swiderdnb](https://github.com/swiderdnb)
-- 🌟 👤 [swiderdnb](https://github.com/swiderdnb) Starred [microsoft/BCApps](https://github.com/microsoft/BCApps)
-  > Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
-- 🌟 👤 [swiderdnb](https://github.com/swiderdnb) Starred [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-  > The plug-and-play DevOps solution for Business Central app development on GitHub
+### [demihoo6013-ops](https://github.com/demihoo6013-ops)
+- 🌟 👤 [demihoo6013-ops](https://github.com/demihoo6013-ops) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
+
+### [kazumichi-aoki-heservice](https://github.com/kazumichi-aoki-heservice)
+- 🌟 👤 [kazumichi-aoki-heservice](https://github.com/kazumichi-aoki-heservice) Starred [microsoft/NVIDIA-Omniverse-Azure-Operations-Twin](https://github.com/microsoft/NVIDIA-Omniverse-Azure-Operations-Twin)
+  > NVIDIA Omniverse | Microsoft Azure - Operations Twin
+
+### [michelkro](https://github.com/michelkro)
+- 🌟 👤 [michelkro](https://github.com/michelkro) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
+
+### [netptl39](https://github.com/netptl39)
+- 🌟 👤 [netptl39](https://github.com/netptl39) Starred [microsoft/agent-academy](https://github.com/microsoft/agent-academy)
+  > Curated lessons on getting started building agents with Copilot Studio
 
 
 ---
-*最后更新于 2025-10-21 04:28:17 UTC*
+*最后更新于 2025-10-21 04:45:45 UTC*
 *历史记录保存在 `archive` 目录中。*
