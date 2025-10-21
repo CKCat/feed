@@ -4,40 +4,78 @@
 
 ## 今日动态
 
-### [JackManwaring](https://github.com/JackManwaring)
-- 🌟 👤 [JackManwaring](https://github.com/JackManwaring) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [AlkaiDynamics](https://github.com/AlkaiDynamics)
+- 🌟 👤 [AlkaiDynamics](https://github.com/AlkaiDynamics) Starred [microsoft/prompty](https://github.com/microsoft/prompty)
+  > Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  ...
 
-### [Luke-Guan-FirstPrinciples](https://github.com/Luke-Guan-FirstPrinciples)
-- 🌟 👤 [Luke-Guan-FirstPrinciples](https://github.com/Luke-Guan-FirstPrinciples) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
-  > Official inference framework for 1-bit LLMs
+### [EngAbdalrhman](https://github.com/EngAbdalrhman)
+- 🌟 👤 [EngAbdalrhman](https://github.com/EngAbdalrhman) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+  > 🪄 Create rich visualizations with AI 
 
-### [TB-RGB](https://github.com/TB-RGB)
-- 🌟 👤 [TB-RGB](https://github.com/TB-RGB) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+### [Evemarketing1](https://github.com/Evemarketing1)
+- 🍴 👤 [Evemarketing1](https://github.com/Evemarketing1) Forked [Evemarketing1/vscode-remote-release](https://github.com/Evemarketing1/vscode-remote-release) to [Evemarketing1/vscode-remote-release](https://github.com/Evemarketing1/vscode-remote-release)
+  > Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote...
+- 🍴 👤 [Evemarketing1](https://github.com/Evemarketing1) Forked [Evemarketing1/pylance-release](https://github.com/Evemarketing1/pylance-release) to [Evemarketing1/pylance-release](https://github.com/Evemarketing1/pylance-release)
+  > Documentation and issues for Pylance
 
-### [Trancendos](https://github.com/Trancendos)
-- 🌟 👤 [Trancendos](https://github.com/Trancendos) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-- 🌟 👤 [Trancendos](https://github.com/Trancendos) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+### [Frostfire25](https://github.com/Frostfire25)
+- 🌟 👤 [Frostfire25](https://github.com/Frostfire25) Starred [microsoft/vsts-open-in-excel](https://github.com/microsoft/vsts-open-in-excel)
+  > Open in Excel extension for Azure DevOps
 
-### [Yufeng-Diao](https://github.com/Yufeng-Diao)
-- 🌟 👤 [Yufeng-Diao](https://github.com/Yufeng-Diao) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+### [Kaze52](https://github.com/Kaze52)
+- 🌟 👤 [Kaze52](https://github.com/Kaze52) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [Luis-Rodriguez-34](https://github.com/Luis-Rodriguez-34)
+- 🌟 👤 [Luis-Rodriguez-34](https://github.com/Luis-Rodriguez-34) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [QianC95](https://github.com/QianC95)
+- 🌟 👤 [QianC95](https://github.com/QianC95) Starred [microsoft/Earth-Copilot](https://github.com/microsoft/Earth-Copilot)
+  > An AI powered geospatial application that allows you to explore and visualize Earth science data usi...
+
+### [Wwoodyy1](https://github.com/Wwoodyy1)
+- 🌟 👤 [Wwoodyy1](https://github.com/Wwoodyy1) Starred [microsoft/woodgrove-auth-api](https://github.com/microsoft/woodgrove-auth-api)
+  > Woodgrove groceries custom authentication extension REST API demo
+- 🍴 👤 [Wwoodyy1](https://github.com/Wwoodyy1) Forked [Wwoodyy1/woodgrove-auth-api](https://github.com/Wwoodyy1/woodgrove-auth-api) to [Wwoodyy1/woodgrove-auth-api](https://github.com/Wwoodyy1/woodgrove-auth-api)
+  > Woodgrove groceries custom authentication extension REST API demo
+
+### [ajmata28](https://github.com/ajmata28)
+- 🍴 👤 [ajmata28](https://github.com/ajmata28) Forked [ajmata28/workbench](https://github.com/ajmata28/workbench) to [ajmata28/workbench](https://github.com/ajmata28/workbench)
+  > Visual Studio Code
+
+### [mabessghaier](https://github.com/mabessghaier)
+- 🍴 👤 [mabessghaier](https://github.com/mabessghaier) Forked [mabessghaier/azure-devops-mcp](https://github.com/mabessghaier/azure-devops-mcp) to [mabessghaier/azure-devops-mcp](https://github.com/mabessghaier/azure-devops-mcp)
+  > The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+
+### [melid404](https://github.com/melid404)
+- 🌟 👤 [melid404](https://github.com/melid404) Starred [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs)
+  > AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.
+
+### [nlen](https://github.com/nlen)
+- 🍴 👤 [nlen](https://github.com/nlen) Forked [nlen/generative-ai-for-beginners](https://github.com/nlen/generative-ai-for-beginners) to [nlen/generative-ai-for-beginners](https://github.com/nlen/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [pmzcnmb1](https://github.com/pmzcnmb1)
+- 🌟 👤 [pmzcnmb1](https://github.com/pmzcnmb1) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
   > A programming framework for agentic AI
 
-### [farshadnassiri](https://github.com/farshadnassiri)
-- 🌟 👤 [farshadnassiri](https://github.com/farshadnassiri) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-  > 10 Weeks, 20 Lessons, Data Science for All!
+### [radhgupta](https://github.com/radhgupta)
+- 🍴 👤 [radhgupta](https://github.com/radhgupta) Forked [radhgupta/typespec](https://github.com/radhgupta/typespec) to [radhgupta/typespec](https://github.com/radhgupta/typespec)
 
-### [moretti995](https://github.com/moretti995)
-- 🌟 👤 [moretti995](https://github.com/moretti995) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
+### [talos](https://github.com/talos)
+- 🌟 👤 [talos](https://github.com/talos) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
 
 ### [tec-works](https://github.com/tec-works)
-- 🌟 👤 [tec-works](https://github.com/tec-works) Starred [microsoft/tokenweave](https://github.com/microsoft/tokenweave)
-  > Efficient Compute-Communication Overlap for Distributed LLM Inference
+- 🌟 👤 [tec-works](https://github.com/tec-works) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
+
+### [timlinde](https://github.com/timlinde)
+- 🌟 👤 [timlinde](https://github.com/timlinde) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
 
 
 ---
-*最后更新于 2025-10-21 18:34:22 UTC*
+*最后更新于 2025-10-21 19:20:28 UTC*
 *历史记录保存在 `archive` 目录中。*
