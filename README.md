@@ -4,74 +4,39 @@
 
 ## 今日动态
 
-### [9jS2PL5T](https://github.com/9jS2PL5T)
-- 🌟 👤 [9jS2PL5T](https://github.com/9jS2PL5T) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-
-### [Bing-su](https://github.com/Bing-su)
-- 🌟 👤 [Bing-su](https://github.com/Bing-su) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+### [AgentStacks-io](https://github.com/AgentStacks-io)
+- 🌟 👤 [AgentStacks-io](https://github.com/AgentStacks-io) Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
+  > A research prototype of a human-centered web agent
+- 🌟 👤 [AgentStacks-io](https://github.com/AgentStacks-io) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
   > Playwright MCP server
 
-### [BokkaPig](https://github.com/BokkaPig)
-- 🌟 👤 [BokkaPig](https://github.com/BokkaPig) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [bidyashish](https://github.com/bidyashish)
-- 🌟 👤 [bidyashish](https://github.com/bidyashish) Starred [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
-  > Copilot Chat extension for VS Code
-
-### [drzo](https://github.com/drzo)
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [Zone-Enterprise/BotFramework-WeChat](https://github.com/Zone-Enterprise/BotFramework-WeChat) to [Zone-Enterprise/BotFramework-WeChat](https://github.com/Zone-Enterprise/BotFramework-WeChat)
-  > WeChat Adapter for BotFramework
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [Zone-Enterprise/BotFramework-FunctionalTests](https://github.com/Zone-Enterprise/BotFramework-FunctionalTests) to [Zone-Enterprise/BotFramework-FunctionalTests](https://github.com/Zone-Enterprise/BotFramework-FunctionalTests)
-  > Functional Tests, run nightly, to drive quality of the Microsoft Bot Framework
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [cogpy/CogBotFramework-FunctionalTests](https://github.com/cogpy/CogBotFramework-FunctionalTests) to [cogpy/CogBotFramework-FunctionalTests](https://github.com/cogpy/CogBotFramework-FunctionalTests)
-  > Functional Tests, run nightly, to drive quality of the Microsoft CogBot Framework
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [Zone-Enterprise/BotFramework-DirectLine-DotNet](https://github.com/Zone-Enterprise/BotFramework-DirectLine-DotNet) to [Zone-Enterprise/BotFramework-DirectLine-DotNet](https://github.com/Zone-Enterprise/BotFramework-DirectLine-DotNet)
-  > C# client library for Microsoft Bot Framework's Direct Line protocol
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [cogpy/cogbotbuilder-js](https://github.com/cogpy/cogbotbuilder-js) to [cogpy/cogbotbuilder-js](https://github.com/cogpy/cogbotbuilder-js)
-  > Welcome to the CogBot Framework SDK for JavaScript repository, which is the home for the libraries a...
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [cogpy/cogbotbuilder-python](https://github.com/cogpy/cogbotbuilder-python) to [cogpy/cogbotbuilder-python](https://github.com/cogpy/cogbotbuilder-python)
-  > The Microsoft CogBot Framework provides what you need to build and connect intelligent bots that int...
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [Zone-Enterprise/BotBuilder-V3](https://github.com/Zone-Enterprise/BotBuilder-V3) to [Zone-Enterprise/BotBuilder-V3](https://github.com/Zone-Enterprise/BotBuilder-V3)
-  > Microsoft Bot Builder V3 SDK for Microsoft Bot Framework
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [cogpy/CogBotBuilder-V3](https://github.com/cogpy/CogBotBuilder-V3) to [cogpy/CogBotBuilder-V3](https://github.com/cogpy/CogBotBuilder-V3)
-  > Microsoft CogBot Builder V3 SDK for Microsoft Bot Framework
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [Zone-Enterprise/botbuilder-java](https://github.com/Zone-Enterprise/botbuilder-java) to [Zone-Enterprise/botbuilder-java](https://github.com/Zone-Enterprise/botbuilder-java)
-  > The Microsoft Bot Framework provides what you need to build and connect intelligent bots that intera...
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [Zone-Enterprise/AzureBotServices-scenarios](https://github.com/Zone-Enterprise/AzureBotServices-scenarios) to [Zone-Enterprise/AzureBotServices-scenarios](https://github.com/Zone-Enterprise/AzureBotServices-scenarios)
-  > Samples for Common Bot Framework Scenarios
-- 🍴 👤 [drzo](https://github.com/drzo) Forked [cogpy/AzureCogBotServices-scenarios](https://github.com/cogpy/AzureCogBotServices-scenarios) to [cogpy/AzureCogBotServices-scenarios](https://github.com/cogpy/AzureCogBotServices-scenarios)
-  > Samples for Common CogBot Framework Scenarios
-
-### [dusigan](https://github.com/dusigan)
-- 🌟 👤 [dusigan](https://github.com/dusigan) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
-
-### [kijiware](https://github.com/kijiware)
-- 🌟 👤 [kijiware](https://github.com/kijiware) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [liyaowei-stu](https://github.com/liyaowei-stu)
-- 🌟 👤 [liyaowei-stu](https://github.com/liyaowei-stu) Starred [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
-  > Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Sp...
-
-### [sande253](https://github.com/sande253)
-- 🌟 👤 [sande253](https://github.com/sande253) Starred [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit)
-  > A component library for building webview-based extensions in Visual Studio Code.
-
-### [tridha643](https://github.com/tridha643)
-- 🌟 👤 [tridha643](https://github.com/tridha643) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
-
-### [yyoukaii](https://github.com/yyoukaii)
-- 🍴 👤 [yyoukaii](https://github.com/yyoukaii) Forked [yyoukaii/generative-ai-for-beginners](https://github.com/yyoukaii/generative-ai-for-beginners) to [yyoukaii/generative-ai-for-beginners](https://github.com/yyoukaii/generative-ai-for-beginners)
+### [Tejassveer08](https://github.com/Tejassveer08)
+- 🌟 👤 [Tejassveer08](https://github.com/Tejassveer08) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [zjin73](https://github.com/zjin73)
-- 🌟 👤 [zjin73](https://github.com/zjin73) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+### [dialogueeeeee](https://github.com/dialogueeeeee)
+- 🌟 👤 [dialogueeeeee](https://github.com/dialogueeeeee) Starred [microsoft/rStar](https://github.com/microsoft/rStar)
+
+### [harshal89c51](https://github.com/harshal89c51)
+- 🍴 👤 [harshal89c51](https://github.com/harshal89c51) Forked [harshal89c51/azureml-terraform-examples](https://github.com/harshal89c51/azureml-terraform-examples) to [harshal89c51/azureml-terraform-examples](https://github.com/harshal89c51/azureml-terraform-examples)
+  > Terraform examples for provisioning Azure Machine Learning
+
+### [ifitzpat](https://github.com/ifitzpat)
+- 🌟 👤 [ifitzpat](https://github.com/ifitzpat) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+
+### [pipimuzi](https://github.com/pipimuzi)
+- 🌟 👤 [pipimuzi](https://github.com/pipimuzi) Starred [microsoft/VRL3](https://github.com/microsoft/VRL3)
+
+### [sparkzky](https://github.com/sparkzky)
+- 🌟 👤 [sparkzky](https://github.com/sparkzky) Starred [microsoft/proxy](https://github.com/microsoft/proxy)
+  > Proxy: Next Generation Polymorphism in C++
+
+### [swiftinitdotcom](https://github.com/swiftinitdotcom)
+- 🌟 👤 [swiftinitdotcom](https://github.com/swiftinitdotcom) Starred [microsoft/teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates)
+  > Sample Teams app built by Power Apps
 
 
 ---
-*最后更新于 2025-10-22 05:24:22 UTC*
+*最后更新于 2025-10-22 05:43:59 UTC*
 *历史记录保存在 `archive` 目录中。*
