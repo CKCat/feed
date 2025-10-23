@@ -4,33 +4,35 @@
 
 ## 今日动态
 
-### [KrimUp](https://github.com/KrimUp)
-- 🌟 👤 [KrimUp](https://github.com/KrimUp) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [DevineLiu](https://github.com/DevineLiu)
+- 🌟 👤 [DevineLiu](https://github.com/DevineLiu) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [SkyTianA](https://github.com/SkyTianA)
-- 🌟 👤 [SkyTianA](https://github.com/SkyTianA) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [Worldboi](https://github.com/Worldboi)
+- 🌟 👤 [Worldboi](https://github.com/Worldboi) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
 
-### [dragos-seculin](https://github.com/dragos-seculin)
-- 🌟 👤 [dragos-seculin](https://github.com/dragos-seculin) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
+### [baisechundu](https://github.com/baisechundu)
+- 🌟 👤 [baisechundu](https://github.com/baisechundu) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
-### [educhou](https://github.com/educhou)
-- 🍴 👤 [educhou](https://github.com/educhou) Forked [educhou/autogen](https://github.com/educhou/autogen) to [educhou/autogen](https://github.com/educhou/autogen)
-  > A programming framework for agentic AI
-- 🌟 👤 [educhou](https://github.com/educhou) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [chamsi-web-dev](https://github.com/chamsi-web-dev)
+- 🌟 👤 [chamsi-web-dev](https://github.com/chamsi-web-dev) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [moonorin](https://github.com/moonorin)
-- 🌟 👤 [moonorin](https://github.com/moonorin) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [darkli](https://github.com/darkli)
+- 🌟 👤 [darkli](https://github.com/darkli) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [wzl-bxg](https://github.com/wzl-bxg)
-- 🌟 👤 [wzl-bxg](https://github.com/wzl-bxg) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+### [shoaibalikhan](https://github.com/shoaibalikhan)
+- 🍴 👤 [shoaibalikhan](https://github.com/shoaibalikhan) Forked [shoaibalikhan/Data-Science-For-Beginners](https://github.com/shoaibalikhan/Data-Science-For-Beginners) to [shoaibalikhan/Data-Science-For-Beginners](https://github.com/shoaibalikhan/Data-Science-For-Beginners)
+  > 10 Weeks, 20 Lessons, Data Science for All!
+
+### [ynlayton](https://github.com/ynlayton)
+- 🌟 👤 [ynlayton](https://github.com/ynlayton) Starred [microsoft/Agents](https://github.com/microsoft/Agents)
+  > The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platfor...
 
 
 ---
-*最后更新于 2025-10-23 11:20:39 UTC*
+*最后更新于 2025-10-23 11:40:34 UTC*
 *历史记录保存在 `archive` 目录中。*
