@@ -4,19 +4,29 @@
 
 ## 今日动态
 
-### [DRtishev](https://github.com/DRtishev)
-- 🌟 👤 [DRtishev](https://github.com/DRtishev) Starred [microsoft/aici](https://github.com/microsoft/aici)
-  > AICI: Prompts as (Wasm) Programs
+### [ArronAI007](https://github.com/ArronAI007)
+- 🌟 👤 [ArronAI007](https://github.com/ArronAI007) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
 
-### [StrikerLynx](https://github.com/StrikerLynx)
-- 🍴 👤 [StrikerLynx](https://github.com/StrikerLynx) Forked [StrikerLynx/Edit](https://github.com/StrikerLynx/Edit) to [StrikerLynx/Edit](https://github.com/StrikerLynx/Edit)
-  > We all edit.
+### [Edward-Li](https://github.com/Edward-Li)
+- 🌟 👤 [Edward-Li](https://github.com/Edward-Li) Starred [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples)
+  > Test repo for staging for Agent for beginner samples using Microsoft Agent Framework
 
-### [ncadsxhvs](https://github.com/ncadsxhvs)
-- 🌟 👤 [ncadsxhvs](https://github.com/ncadsxhvs) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [hlzeal](https://github.com/hlzeal)
+- 🌟 👤 [hlzeal](https://github.com/hlzeal) Starred [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples)
+  > Test repo for staging for Agent for beginner samples using Microsoft Agent Framework
+- 🍴 👤 [hlzeal](https://github.com/hlzeal) Forked [hlzeal/Agent-Framework-Samples](https://github.com/hlzeal/Agent-Framework-Samples) to [hlzeal/Agent-Framework-Samples](https://github.com/hlzeal/Agent-Framework-Samples)
+  > Test repo for staging for Agent for beginner samples using Microsoft Agent Framework
+
+### [poiraudauguillaume140-prog](https://github.com/poiraudauguillaume140-prog)
+- 🍴 👤 [poiraudauguillaume140-prog](https://github.com/poiraudauguillaume140-prog) Forked [poiraudauguillaume140-prog/vscode-docs](https://github.com/poiraudauguillaume140-prog/vscode-docs) to [poiraudauguillaume140-prog/vscode-docs](https://github.com/poiraudauguillaume140-prog/vscode-docs)
+  > Public documentation for Visual Studio Code
+
+### [yuanyuan19](https://github.com/yuanyuan19)
+- 🍴 👤 [yuanyuan19](https://github.com/yuanyuan19) Forked [yuanyuan19/vscode-extension-samples](https://github.com/yuanyuan19/vscode-extension-samples) to [yuanyuan19/vscode-extension-samples](https://github.com/yuanyuan19/vscode-extension-samples)
+  > Sample code illustrating the VS Code extension API.
 
 
 ---
-*最后更新于 2025-10-23 01:52:04 UTC*
+*最后更新于 2025-10-23 03:07:19 UTC*
 *历史记录保存在 `archive` 目录中。*
