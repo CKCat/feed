@@ -4,41 +4,45 @@
 
 ## 今日动态
 
-### [989139835182](https://github.com/989139835182)
-- 🌟 👤 [989139835182](https://github.com/989139835182) Starred [microsoft/azurelinux](https://github.com/microsoft/azurelinux)
-  > Linux OS for Azure 1P services and edge appliances
-- 🌟 👤 [989139835182](https://github.com/989139835182) Starred [microsoft/pxt-arcade](https://github.com/microsoft/pxt-arcade)
-  > Arcade game editor based on Microsoft MakeCode
+### [LECOQQ](https://github.com/LECOQQ)
+- 🌟 👤 [LECOQQ](https://github.com/LECOQQ) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [BOBeirne](https://github.com/BOBeirne)
-- 🌟 👤 [BOBeirne](https://github.com/BOBeirne) Starred [microsoft/Security-101](https://github.com/microsoft/Security-101)
-  > 8 Lessons, Kick-start Your Cybersecurity Learning.
+### [MuradIsazade777](https://github.com/MuradIsazade777)
+- 🌟 👤 [MuradIsazade777](https://github.com/MuradIsazade777) Starred [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
+  > Copilot Chat extension for VS Code
 
-### [GodOfHeaven10](https://github.com/GodOfHeaven10)
-- 🍴 👤 [GodOfHeaven10](https://github.com/GodOfHeaven10) Forked [GodOfHeaven10/minecraft-samples](https://github.com/GodOfHeaven10/minecraft-samples) to [GodOfHeaven10/minecraft-samples](https://github.com/GodOfHeaven10/minecraft-samples)
-  > Contains custom add-on samples for Minecraft Bedrock Edition.
+### [Omarkam3l](https://github.com/Omarkam3l)
+- 🌟 👤 [Omarkam3l](https://github.com/Omarkam3l) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
-### [KantamoniManoj](https://github.com/KantamoniManoj)
-- 🍴 👤 [KantamoniManoj](https://github.com/KantamoniManoj) Forked [KantamoniManoj/Web-Dev-For-Beginners](https://github.com/KantamoniManoj/Web-Dev-For-Beginners) to [KantamoniManoj/Web-Dev-For-Beginners](https://github.com/KantamoniManoj/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [frame-fF](https://github.com/frame-fF)
-- 🌟 👤 [frame-fF](https://github.com/frame-fF) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [nocnob](https://github.com/nocnob)
-- 🌟 👤 [nocnob](https://github.com/nocnob) Starred [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
-  > This is a fun, new monospaced font that includes programming ligatures and is designed to enhance th...
-
-### [pensoul](https://github.com/pensoul)
-- 🌟 👤 [pensoul](https://github.com/pensoul) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [RenanZampier](https://github.com/RenanZampier)
+- 🌟 👤 [RenanZampier](https://github.com/RenanZampier) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🍴 👤 [RenanZampier](https://github.com/RenanZampier) Forked [RenanZampier/PowerToys](https://github.com/RenanZampier/PowerToys) to [RenanZampier/PowerToys](https://github.com/RenanZampier/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [ss-369](https://github.com/ss-369)
-- 🌟 👤 [ss-369](https://github.com/ss-369) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [Saadorj](https://github.com/Saadorj)
+- 🌟 👤 [Saadorj](https://github.com/Saadorj) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [VendaCino](https://github.com/VendaCino)
+- 🍴 👤 [VendaCino](https://github.com/VendaCino) Forked [VendaCino/OpenRCA](https://github.com/VendaCino/OpenRCA) to [VendaCino/OpenRCA](https://github.com/VendaCino/OpenRCA)
+  > [ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?
+
+### [przemyslawolszewski77-tech](https://github.com/przemyslawolszewski77-tech)
+- 🍴 👤 [przemyslawolszewski77-tech](https://github.com/przemyslawolszewski77-tech) Forked [przemyslawolszewski77-tech/vscode-copilot-chat](https://github.com/przemyslawolszewski77-tech/vscode-copilot-chat) to [przemyslawolszewski77-tech/vscode-copilot-chat](https://github.com/przemyslawolszewski77-tech/vscode-copilot-chat)
+  > Copilot Chat extension for VS Code
+
+### [syl932650852](https://github.com/syl932650852)
+- 🌟 👤 [syl932650852](https://github.com/syl932650852) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
+
+### [traum96](https://github.com/traum96)
+- 🌟 👤 [traum96](https://github.com/traum96) Starred [microsoft/Fabric-Readiness](https://github.com/microsoft/Fabric-Readiness)
+  > A collection of useful materials for presenters interested in topics related to Microsoft Fabric 
 
 
 ---
-*最后更新于 2025-10-24 14:24:53 UTC*
+*最后更新于 2025-10-24 14:46:09 UTC*
 *历史记录保存在 `archive` 目录中。*
