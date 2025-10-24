@@ -4,45 +4,35 @@
 
 ## 今日动态
 
-### [LECOQQ](https://github.com/LECOQQ)
-- 🌟 👤 [LECOQQ](https://github.com/LECOQQ) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [MuradIsazade777](https://github.com/MuradIsazade777)
-- 🌟 👤 [MuradIsazade777](https://github.com/MuradIsazade777) Starred [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
-  > Copilot Chat extension for VS Code
-
-### [Omarkam3l](https://github.com/Omarkam3l)
-- 🌟 👤 [Omarkam3l](https://github.com/Omarkam3l) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+### [Ahmed-Elgohary1](https://github.com/Ahmed-Elgohary1)
+- 🌟 👤 [Ahmed-Elgohary1](https://github.com/Ahmed-Elgohary1) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
   > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
-### [RenanZampier](https://github.com/RenanZampier)
-- 🌟 👤 [RenanZampier](https://github.com/RenanZampier) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-- 🍴 👤 [RenanZampier](https://github.com/RenanZampier) Forked [RenanZampier/PowerToys](https://github.com/RenanZampier/PowerToys) to [RenanZampier/PowerToys](https://github.com/RenanZampier/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [aglaze68-cmd](https://github.com/aglaze68-cmd)
+- 🍴 👤 [aglaze68-cmd](https://github.com/aglaze68-cmd) Forked [aglaze68-cmd/clarity-mcp-server](https://github.com/aglaze68-cmd/clarity-mcp-server) to [aglaze68-cmd/clarity-mcp-server](https://github.com/aglaze68-cmd/clarity-mcp-server)
+  > A Model Context Protocol server for Microsoft Clarity data export API
 
-### [Saadorj](https://github.com/Saadorj)
-- 🌟 👤 [Saadorj](https://github.com/Saadorj) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+### [dwhiteddsoft](https://github.com/dwhiteddsoft)
+- 🌟 👤 [dwhiteddsoft](https://github.com/dwhiteddsoft) Starred [microsoft/trident](https://github.com/microsoft/trident)
+  > Azure Linux servicing agent - security focused install, provisioning, and update 
 
-### [VendaCino](https://github.com/VendaCino)
-- 🍴 👤 [VendaCino](https://github.com/VendaCino) Forked [VendaCino/OpenRCA](https://github.com/VendaCino/OpenRCA) to [VendaCino/OpenRCA](https://github.com/VendaCino/OpenRCA)
-  > [ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?
-
-### [przemyslawolszewski77-tech](https://github.com/przemyslawolszewski77-tech)
-- 🍴 👤 [przemyslawolszewski77-tech](https://github.com/przemyslawolszewski77-tech) Forked [przemyslawolszewski77-tech/vscode-copilot-chat](https://github.com/przemyslawolszewski77-tech/vscode-copilot-chat) to [przemyslawolszewski77-tech/vscode-copilot-chat](https://github.com/przemyslawolszewski77-tech/vscode-copilot-chat)
-  > Copilot Chat extension for VS Code
-
-### [syl932650852](https://github.com/syl932650852)
-- 🌟 👤 [syl932650852](https://github.com/syl932650852) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [ikram2525-design](https://github.com/ikram2525-design)
+- 🌟 👤 [ikram2525-design](https://github.com/ikram2525-design) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [traum96](https://github.com/traum96)
-- 🌟 👤 [traum96](https://github.com/traum96) Starred [microsoft/Fabric-Readiness](https://github.com/microsoft/Fabric-Readiness)
-  > A collection of useful materials for presenters interested in topics related to Microsoft Fabric 
+### [le-dawg](https://github.com/le-dawg)
+- 🍴 👤 [le-dawg](https://github.com/le-dawg) Forked [le-dawg/broen-lab-ui](https://github.com/le-dawg/broen-lab-ui) to [le-dawg/broen-lab-ui](https://github.com/le-dawg/broen-lab-ui)
+  > web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
+
+### [ledsonvanini](https://github.com/ledsonvanini)
+- 🌟 👤 [ledsonvanini](https://github.com/ledsonvanini) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [vididvidid](https://github.com/vididvidid)
+- 🌟 👤 [vididvidid](https://github.com/vididvidid) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
 
 ---
-*最后更新于 2025-10-24 14:46:09 UTC*
+*最后更新于 2025-10-24 15:25:42 UTC*
 *历史记录保存在 `archive` 目录中。*
