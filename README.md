@@ -4,224 +4,314 @@
 
 ## 今日动态
 
-### [AmeerHamza202](https://github.com/AmeerHamza202)
-- 🍴 👤 [AmeerHamza202](https://github.com/AmeerHamza202) Forked [AmeerHamza202/vscode](https://github.com/AmeerHamza202/vscode) to [AmeerHamza202/vscode](https://github.com/AmeerHamza202/vscode)
+### [24p61a3204-jpg](https://github.com/24p61a3204-jpg)
+- 🍴 👤 [24p61a3204-jpg](https://github.com/24p61a3204-jpg) Forked [24p61a3204-jpg/vscode](https://github.com/24p61a3204-jpg/vscode) to [24p61a3204-jpg/vscode](https://github.com/24p61a3204-jpg/vscode)
   > Visual Studio Code
 
-### [EAtalay8](https://github.com/EAtalay8)
-- 🌟 👤 [EAtalay8](https://github.com/EAtalay8) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-  > 10 Weeks, 20 Lessons, Data Science for All!
+### [24p61a3236-arch](https://github.com/24p61a3236-arch)
+- 🍴 👤 [24p61a3236-arch](https://github.com/24p61a3236-arch) Forked [24p61a3236-arch/vscode](https://github.com/24p61a3236-arch/vscode) to [24p61a3236-arch/vscode](https://github.com/24p61a3236-arch/vscode)
+  > Visual Studio Code
 
-### [FFengIll](https://github.com/FFengIll)
-- 🌟 👤 [FFengIll](https://github.com/FFengIll) Starred [microsoft/OpenRCA](https://github.com/microsoft/OpenRCA)
-  > [ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?
+### [24p61a67g5-alt](https://github.com/24p61a67g5-alt)
+- 🍴 👤 [24p61a67g5-alt](https://github.com/24p61a67g5-alt) Forked [24p61a67g5-alt/vscode](https://github.com/24p61a67g5-alt/vscode) to [24p61a67g5-alt/vscode](https://github.com/24p61a67g5-alt/vscode)
+  > Visual Studio Code
 
-### [Hammer-888](https://github.com/Hammer-888)
-- 🌟 👤 [Hammer-888](https://github.com/Hammer-888) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [25p65a0506-os](https://github.com/25p65a0506-os)
+- 🍴 👤 [25p65a0506-os](https://github.com/25p65a0506-os) Forked [25p65a0506-os/vscode](https://github.com/25p65a0506-os/vscode) to [25p65a0506-os/vscode](https://github.com/25p65a0506-os/vscode)
+  > Visual Studio Code
 
-### [JeffreySu](https://github.com/JeffreySu)
-- 🌟 👤 [JeffreySu](https://github.com/JeffreySu) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-- 🌟 👤 [JeffreySu](https://github.com/JeffreySu) Starred [microsoft/Agent-Framework-Samples](https://github.com/microsoft/Agent-Framework-Samples)
-  > Test repo for staging for Agent for beginner samples using Microsoft Agent Framework
-
-### [LostSoulDivision68](https://github.com/LostSoulDivision68)
-- 🍴 👤 [LostSoulDivision68](https://github.com/LostSoulDivision68) Forked [LostSoulDivision68/ARI](https://github.com/LostSoulDivision68/ARI) to [LostSoulDivision68/ARI](https://github.com/LostSoulDivision68/ARI)
-  > Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with ...
-
-### [MasterLeeeeeeeee33887](https://github.com/MasterLeeeeeeeee33887)
-- 🌟 👤 [MasterLeeeeeeeee33887](https://github.com/MasterLeeeeeeeee33887) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
-  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
-
-### [Michael-Xing](https://github.com/Michael-Xing)
-- 🌟 👤 [Michael-Xing](https://github.com/Michael-Xing) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [Null-bin](https://github.com/Null-bin)
-- 🌟 👤 [Null-bin](https://github.com/Null-bin) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-- 🍴 👤 [Null-bin](https://github.com/Null-bin) Forked [Null-bin/agent-framework](https://github.com/Null-bin/agent-framework) to [Null-bin/agent-framework](https://github.com/Null-bin/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-
-### [PatrickDdx](https://github.com/PatrickDdx)
-- 🌟 👤 [PatrickDdx](https://github.com/PatrickDdx) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-### [Phantomn](https://github.com/Phantomn)
-- 🌟 👤 [Phantomn](https://github.com/Phantomn) Starred [microsoft/poml](https://github.com/microsoft/poml)
-  > Prompt Orchestration Markup Language
-
-### [Roelzz](https://github.com/Roelzz)
-- 🍴 👤 [Roelzz](https://github.com/Roelzz) Forked [Roelzz/mcs-labs](https://github.com/Roelzz/mcs-labs) to [Roelzz/mcs-labs](https://github.com/Roelzz/mcs-labs)
-
-### [StanislawCap](https://github.com/StanislawCap)
-- 🍴 👤 [StanislawCap](https://github.com/StanislawCap) Forked [StanislawCap/generative-ai-for-beginners](https://github.com/StanislawCap/generative-ai-for-beginners) to [StanislawCap/generative-ai-for-beginners](https://github.com/StanislawCap/generative-ai-for-beginners)
+### [AdAshok](https://github.com/AdAshok)
+- 🌟 👤 [AdAshok](https://github.com/AdAshok) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [Zamiell](https://github.com/Zamiell)
-- 🍴 👤 [Zamiell](https://github.com/Zamiell) Forked [Zamiell/vscode-eslint](https://github.com/Zamiell/vscode-eslint) to [Zamiell/vscode-eslint](https://github.com/Zamiell/vscode-eslint)
-  > VSCode extension to integrate eslint into VSCode
+### [Adam-Robson](https://github.com/Adam-Robson)
+- 🌟 👤 [Adam-Robson](https://github.com/Adam-Robson) Starred [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+  > Sample code illustrating the VS Code extension API.
 
-### [ZmN5](https://github.com/ZmN5)
-- 🌟 👤 [ZmN5](https://github.com/ZmN5) Starred [microsoft/lida](https://github.com/microsoft/lida)
-  > Automatic Generation of Visualizations and Infographics using Large Language Models
-- 🌟 👤 [ZmN5](https://github.com/ZmN5) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
+### [Bajahaw](https://github.com/Bajahaw)
+- 🌟 👤 [Bajahaw](https://github.com/Bajahaw) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
 
-### [aaronespasa](https://github.com/aaronespasa)
-- 🌟 👤 [aaronespasa](https://github.com/aaronespasa) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+### [Carlos0503](https://github.com/Carlos0503)
+- 🍴 👤 [Carlos0503](https://github.com/Carlos0503) Forked [Carlos0503/p2gps](https://github.com/Carlos0503/p2gps) to [Carlos0503/p2gps](https://github.com/Carlos0503/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
 
-### [akiraxtwo](https://github.com/akiraxtwo)
-- 🌟 👤 [akiraxtwo](https://github.com/akiraxtwo) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
+### [Craken401](https://github.com/Craken401)
+- 🍴 👤 [Craken401](https://github.com/Craken401) Forked [Craken401/p2gps](https://github.com/Craken401/p2gps) to [Craken401/p2gps](https://github.com/Craken401/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
 
-### [ayoubzulfiqar](https://github.com/ayoubzulfiqar)
-- 🌟 👤 [ayoubzulfiqar](https://github.com/ayoubzulfiqar) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+### [Dany0424](https://github.com/Dany0424)
+- 🍴 👤 [Dany0424](https://github.com/Dany0424) Forked [Dany0424/p2gps](https://github.com/Dany0424/p2gps) to [Dany0424/p2gps](https://github.com/Dany0424/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
 
-### [bayramarslan](https://github.com/bayramarslan)
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-  > C++ Library Manager for Windows, Linux, and MacOS
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/AirSim](https://github.com/microsoft/AirSim)
-  > Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Re...
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
-  > mimalloc is a compact general purpose allocator with excellent performance.
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/STL](https://github.com/microsoft/STL)
-  > MSVC's implementation of the C++ Standard Library.
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk)
-  > The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code u...
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit)
-  > Virtual File System for Git: Enable Git at Enterprise Scale
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
-  > Message passing based allocator
-- 🌟 👤 [bayramarslan](https://github.com/bayramarslan) Starred [microsoft/FFmpegInterop](https://github.com/microsoft/FFmpegInterop)
-  >  This is a code sample to make it easier to use FFmpeg in Windows applications.
+### [ElectroNafta](https://github.com/ElectroNafta)
+- 🍴 👤 [ElectroNafta](https://github.com/ElectroNafta) Forked [ElectroNafta/playwright](https://github.com/ElectroNafta/playwright) to [ElectroNafta/playwright](https://github.com/ElectroNafta/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [cdeil](https://github.com/cdeil)
-- 🌟 👤 [cdeil](https://github.com/cdeil) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
+### [EstherCarrilero](https://github.com/EstherCarrilero)
+- 🍴 👤 [EstherCarrilero](https://github.com/EstherCarrilero) Forked [EstherCarrilero/p2gps](https://github.com/EstherCarrilero/p2gps) to [EstherCarrilero/p2gps](https://github.com/EstherCarrilero/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
 
-### [cevheri](https://github.com/cevheri)
-- 🍴 👤 [cevheri](https://github.com/cevheri) Forked [cevheri/markitdown](https://github.com/cevheri/markitdown) to [cevheri/markitdown](https://github.com/cevheri/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [cheng315ncu](https://github.com/cheng315ncu)
-- 🌟 👤 [cheng315ncu](https://github.com/cheng315ncu) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
-
-### [deep56736435](https://github.com/deep56736435)
-- 🌟 👤 [deep56736435](https://github.com/deep56736435) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-### [eusru](https://github.com/eusru)
-- 🌟 👤 [eusru](https://github.com/eusru) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [GageShan](https://github.com/GageShan)
+- 🌟 👤 [GageShan](https://github.com/GageShan) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [incognoscibilium](https://github.com/incognoscibilium)
-- 🌟 👤 [incognoscibilium](https://github.com/incognoscibilium) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [HyunKN](https://github.com/HyunKN)
+- 🌟 👤 [HyunKN](https://github.com/HyunKN) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [jihosky](https://github.com/jihosky)
-- 🍴 👤 [jihosky](https://github.com/jihosky) Forked [jihosky/mcp-for-beginners](https://github.com/jihosky/mcp-for-beginners) to [jihosky/mcp-for-beginners](https://github.com/jihosky/mcp-for-beginners)
+### [ImAlex28](https://github.com/ImAlex28)
+- 🍴 👤 [ImAlex28](https://github.com/ImAlex28) Forked [ImAlex28/P2GPS](https://github.com/ImAlex28/P2GPS) to [ImAlex28/P2GPS](https://github.com/ImAlex28/P2GPS)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [InexhaustibleSnake](https://github.com/InexhaustibleSnake)
+- 🌟 👤 [InexhaustibleSnake](https://github.com/InexhaustibleSnake) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [JanuszBalawejder](https://github.com/JanuszBalawejder)
+- 🌟 👤 [JanuszBalawejder](https://github.com/JanuszBalawejder) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+### [Laalinibh](https://github.com/Laalinibh)
+- 🍴 👤 [Laalinibh](https://github.com/Laalinibh) Forked [Laalinibh/mcp-for-beginners](https://github.com/Laalinibh/mcp-for-beginners) to [Laalinibh/mcp-for-beginners](https://github.com/Laalinibh/mcp-for-beginners)
   > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-- 🍴 👤 [jihosky](https://github.com/jihosky) Forked [jihosky/ML-For-Beginners](https://github.com/jihosky/ML-For-Beginners) to [jihosky/ML-For-Beginners](https://github.com/jihosky/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- 🍴 👤 [jihosky](https://github.com/jihosky) Forked [jihosky/ai-agents-for-beginners](https://github.com/jihosky/ai-agents-for-beginners) to [jihosky/ai-agents-for-beginners](https://github.com/jihosky/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
 
-### [joshi98kishan](https://github.com/joshi98kishan)
-- 🌟 👤 [joshi98kishan](https://github.com/joshi98kishan) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+### [Lalatenduswain](https://github.com/Lalatenduswain)
+- 🌟 👤 [Lalatenduswain](https://github.com/Lalatenduswain) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [kido1022-dotcom](https://github.com/kido1022-dotcom)
-- 🌟 👤 [kido1022-dotcom](https://github.com/kido1022-dotcom) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [Lazyb0y](https://github.com/Lazyb0y)
+- 🍴 👤 [Lazyb0y](https://github.com/Lazyb0y) Forked [Lazyb0y/WPF-Samples](https://github.com/Lazyb0y/WPF-Samples) to [Lazyb0y/WPF-Samples](https://github.com/Lazyb0y/WPF-Samples)
+  > Repository for WPF related samples
 
-### [l4npl](https://github.com/l4npl)
-- 🌟 👤 [l4npl](https://github.com/l4npl) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [MarioNC04](https://github.com/MarioNC04)
+- 🍴 👤 [MarioNC04](https://github.com/MarioNC04) Forked [MarioNC04/p2gps](https://github.com/MarioNC04/p2gps) to [MarioNC04/p2gps](https://github.com/MarioNC04/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
 
-### [lepistsa-uni](https://github.com/lepistsa-uni)
-- 🌟 👤 [lepistsa-uni](https://github.com/lepistsa-uni) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
+### [MaxDNG](https://github.com/MaxDNG)
+- 🌟 👤 [MaxDNG](https://github.com/MaxDNG) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
 
-### [luismarquez-tc](https://github.com/luismarquez-tc)
-- 🌟 👤 [luismarquez-tc](https://github.com/luismarquez-tc) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [MounikaGolusula](https://github.com/MounikaGolusula)
+- 🍴 👤 [MounikaGolusula](https://github.com/MounikaGolusula) Forked [MounikaGolusula/vscode](https://github.com/MounikaGolusula/vscode) to [MounikaGolusula/vscode](https://github.com/MounikaGolusula/vscode)
+  > Visual Studio Code
+
+### [NandoLozano](https://github.com/NandoLozano)
+- 🍴 👤 [NandoLozano](https://github.com/NandoLozano) Forked [NandoLozano/p2gps](https://github.com/NandoLozano/p2gps) to [NandoLozano/p2gps](https://github.com/NandoLozano/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [NanoTechnolog3000](https://github.com/NanoTechnolog3000)
+- 🍴 👤 [NanoTechnolog3000](https://github.com/NanoTechnolog3000) Forked [NanoTechnolog3000/playwright-boilerplate](https://github.com/NanoTechnolog3000/playwright-boilerplate) to [NanoTechnolog3000/playwright-boilerplate](https://github.com/NanoTechnolog3000/playwright-boilerplate)
+
+### [PVBCharan](https://github.com/PVBCharan)
+- 🍴 👤 [PVBCharan](https://github.com/PVBCharan) Forked [PVBCharan/vscode](https://github.com/PVBCharan/vscode) to [PVBCharan/vscode](https://github.com/PVBCharan/vscode)
+  > Visual Studio Code
+
+### [Ralextero](https://github.com/Ralextero)
+- 🍴 👤 [Ralextero](https://github.com/Ralextero) Forked [Ralextero/p2gps](https://github.com/Ralextero/p2gps) to [Ralextero/p2gps](https://github.com/Ralextero/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [RamonUCLM](https://github.com/RamonUCLM)
+- 🍴 👤 [RamonUCLM](https://github.com/RamonUCLM) Forked [RamonUCLM/p2gps](https://github.com/RamonUCLM/p2gps) to [RamonUCLM/p2gps](https://github.com/RamonUCLM/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [Ridhima0512](https://github.com/Ridhima0512)
+- 🍴 👤 [Ridhima0512](https://github.com/Ridhima0512) Forked [Ridhima0512/vscode](https://github.com/Ridhima0512/vscode) to [Ridhima0512/vscode](https://github.com/Ridhima0512/vscode)
+  > Visual Studio Code
+
+### [RogerCCUK](https://github.com/RogerCCUK)
+- 🌟 👤 [RogerCCUK](https://github.com/RogerCCUK) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
-- 🍴 👤 [luismarquez-tc](https://github.com/luismarquez-tc) Forked [luismarquez-tc/generative-ai-for-beginners](https://github.com/luismarquez-tc/generative-ai-for-beginners) to [luismarquez-tc/generative-ai-for-beginners](https://github.com/luismarquez-tc/generative-ai-for-beginners)
+- 🍴 👤 [RogerCCUK](https://github.com/RogerCCUK) Forked [RogerCCUK/generative-ai-for-beginners](https://github.com/RogerCCUK/generative-ai-for-beginners) to [RogerCCUK/generative-ai-for-beginners](https://github.com/RogerCCUK/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [luketou](https://github.com/luketou)
-- 🌟 👤 [luketou](https://github.com/luketou) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
+### [Xubqpanda](https://github.com/Xubqpanda)
+- 🌟 👤 [Xubqpanda](https://github.com/Xubqpanda) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
+- 🍴 👤 [Xubqpanda](https://github.com/Xubqpanda) Forked [Xubqpanda/graphrag](https://github.com/Xubqpanda/graphrag) to [Xubqpanda/graphrag](https://github.com/Xubqpanda/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-### [me9rez](https://github.com/me9rez)
-- 🌟 👤 [me9rez](https://github.com/me9rez) Starred [microsoft/onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai)
-  > Generative AI extensions for onnxruntime
+### [Yavanosta](https://github.com/Yavanosta)
+- 🍴 👤 [Yavanosta](https://github.com/Yavanosta) Forked [Yavanosta/vscode](https://github.com/Yavanosta/vscode) to [Yavanosta/vscode](https://github.com/Yavanosta/vscode)
+  > Visual Studio Code
 
-### [merulify](https://github.com/merulify)
-- 🌟 👤 [merulify](https://github.com/merulify) Starred [microsoft/agent-academy](https://github.com/microsoft/agent-academy)
-  > Curated lessons on getting started building agents with Copilot Studio
+### [ZORfree](https://github.com/ZORfree)
+- 🌟 👤 [ZORfree](https://github.com/ZORfree) Starred [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+  > The Microsoft community Windows Package Manager manifest repository
 
-### [moreWax](https://github.com/moreWax)
-- 🌟 👤 [moreWax](https://github.com/moreWax) Starred [microsoft/wassette](https://github.com/microsoft/wassette)
-  > Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
+### [alakuntlavaishnavi1](https://github.com/alakuntlavaishnavi1)
+- 🍴 👤 [alakuntlavaishnavi1](https://github.com/alakuntlavaishnavi1) Forked [alakuntlavaishnavi1/vscode](https://github.com/alakuntlavaishnavi1/vscode) to [alakuntlavaishnavi1/vscode](https://github.com/alakuntlavaishnavi1/vscode)
+  > Visual Studio Code
 
-### [nvimts](https://github.com/nvimts)
-- 🌟 👤 [nvimts](https://github.com/nvimts) Starred [microsoft/playwright-python](https://github.com/microsoft/playwright-python)
+### [alexgc04](https://github.com/alexgc04)
+- 🍴 👤 [alexgc04](https://github.com/alexgc04) Forked [alexgc04/ps2gps](https://github.com/alexgc04/ps2gps) to [alexgc04/ps2gps](https://github.com/alexgc04/ps2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [angalirishikeshawa050-ui](https://github.com/angalirishikeshawa050-ui)
+- 🍴 👤 [angalirishikeshawa050-ui](https://github.com/angalirishikeshawa050-ui) Forked [angalirishikeshawa050-ui/vscode](https://github.com/angalirishikeshawa050-ui/vscode) to [angalirishikeshawa050-ui/vscode](https://github.com/angalirishikeshawa050-ui/vscode)
+  > Visual Studio Code
+
+### [battulaaashritha-gif](https://github.com/battulaaashritha-gif)
+- 🍴 👤 [battulaaashritha-gif](https://github.com/battulaaashritha-gif) Forked [battulaaashritha-gif/vscode](https://github.com/battulaaashritha-gif/vscode) to [battulaaashritha-gif/vscode](https://github.com/battulaaashritha-gif/vscode)
+  > Visual Studio Code
+
+### [duongthaiha](https://github.com/duongthaiha)
+- 🌟 👤 [duongthaiha](https://github.com/duongthaiha) Starred [microsoft/CAIRA](https://github.com/microsoft/CAIRA)
+  > Composable AI Reference Architecture (CAIRA)
+
+### [enricd](https://github.com/enricd)
+- 🌟 👤 [enricd](https://github.com/enricd) Starred [microsoft/playwright-python](https://github.com/microsoft/playwright-python)
   > Python version of the Playwright testing and automation library.
 
-### [oznurkarahasan](https://github.com/oznurkarahasan)
-- 🌟 👤 [oznurkarahasan](https://github.com/oznurkarahasan) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [erealt](https://github.com/erealt)
+- 🍴 👤 [erealt](https://github.com/erealt) Forked [erealt/p2gps](https://github.com/erealt/p2gps) to [erealt/p2gps](https://github.com/erealt/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
 
-### [puppy0cam](https://github.com/puppy0cam)
-- 🍴 👤 [puppy0cam](https://github.com/puppy0cam) Forked [puppy0cam/TypeScript](https://github.com/puppy0cam/TypeScript) to [puppy0cam/TypeScript](https://github.com/puppy0cam/TypeScript)
+### [frafiorenza](https://github.com/frafiorenza)
+- 🌟 👤 [frafiorenza](https://github.com/frafiorenza) Starred [microsoft/fabric-toolbox](https://github.com/microsoft/fabric-toolbox)
+  > Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your succe...
+
+### [gauravjuvekar](https://github.com/gauravjuvekar)
+- 🌟 👤 [gauravjuvekar](https://github.com/gauravjuvekar) Starred [microsoft/uf2](https://github.com/microsoft/uf2)
+  > UF2 file format specification
+
+### [gorenhou](https://github.com/gorenhou)
+- 🌟 👤 [gorenhou](https://github.com/gorenhou) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [hansika-B](https://github.com/hansika-B)
+- 🍴 👤 [hansika-B](https://github.com/hansika-B) Forked [hansika-B/vscode](https://github.com/hansika-B/vscode) to [hansika-B/vscode](https://github.com/hansika-B/vscode)
+  > Visual Studio Code
+
+### [harsspartan118](https://github.com/harsspartan118)
+- 🍴 👤 [harsspartan118](https://github.com/harsspartan118) Forked [harsspartan118/generative-ai-for-beginners](https://github.com/harsspartan118/generative-ai-for-beginners) to [harsspartan118/generative-ai-for-beginners](https://github.com/harsspartan118/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [hoapham1404](https://github.com/hoapham1404)
+- 🌟 👤 [hoapham1404](https://github.com/hoapham1404) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
+
+### [josejutb](https://github.com/josejutb)
+- 🍴 👤 [josejutb](https://github.com/josejutb) Forked [josejutb/p2gps](https://github.com/josejutb/p2gps) to [josejutb/p2gps](https://github.com/josejutb/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [krishbattula4](https://github.com/krishbattula4)
+- 🍴 👤 [krishbattula4](https://github.com/krishbattula4) Forked [krishbattula4/vscode](https://github.com/krishbattula4/vscode) to [krishbattula4/vscode](https://github.com/krishbattula4/vscode)
+  > Visual Studio Code
+
+### [leodutra](https://github.com/leodutra)
+- 🌟 👤 [leodutra](https://github.com/leodutra) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+- 🌟 👤 [leodutra](https://github.com/leodutra) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+
+### [llIIIllllIll](https://github.com/llIIIllllIll)
+- 🌟 👤 [llIIIllllIll](https://github.com/llIIIllllIll) Starred [microsoft/rag-time](https://github.com/microsoft/rag-time)
+  > RAG Time: A 5-week Learning Journey to Mastering RAG
+
+### [mandp9](https://github.com/mandp9)
+- 🍴 👤 [mandp9](https://github.com/mandp9) Forked [mandp9/p2gps](https://github.com/mandp9/p2gps) to [mandp9/p2gps](https://github.com/mandp9/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [mrutvika30-lang](https://github.com/mrutvika30-lang)
+- 🍴 👤 [mrutvika30-lang](https://github.com/mrutvika30-lang) Forked [mrutvika30-lang/vscode](https://github.com/mrutvika30-lang/vscode) to [mrutvika30-lang/vscode](https://github.com/mrutvika30-lang/vscode)
+  > Visual Studio Code
+
+### [mudasthuhasini7-oss](https://github.com/mudasthuhasini7-oss)
+- 🍴 👤 [mudasthuhasini7-oss](https://github.com/mudasthuhasini7-oss) Forked [mudasthuhasini7-oss/vscode](https://github.com/mudasthuhasini7-oss/vscode) to [mudasthuhasini7-oss/vscode](https://github.com/mudasthuhasini7-oss/vscode)
+  > Visual Studio Code
+
+### [nandiniboini959-tech](https://github.com/nandiniboini959-tech)
+- 🍴 👤 [nandiniboini959-tech](https://github.com/nandiniboini959-tech) Forked [nandiniboini959-tech/vscode](https://github.com/nandiniboini959-tech/vscode) to [nandiniboini959-tech/vscode](https://github.com/nandiniboini959-tech/vscode)
+  > Visual Studio Code
+
+### [nikhilmarupeddi-cyber](https://github.com/nikhilmarupeddi-cyber)
+- 🍴 👤 [nikhilmarupeddi-cyber](https://github.com/nikhilmarupeddi-cyber) Forked [nikhilmarupeddi-cyber/vscode](https://github.com/nikhilmarupeddi-cyber/vscode) to [nikhilmarupeddi-cyber/vscode](https://github.com/nikhilmarupeddi-cyber/vscode)
+  > Visual Studio Code
+
+### [nocturnalny](https://github.com/nocturnalny)
+- 🌟 👤 [nocturnalny](https://github.com/nocturnalny) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [norazmie8699](https://github.com/norazmie8699)
+- 🌟 👤 [norazmie8699](https://github.com/norazmie8699) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
+- 🌟 👤 [norazmie8699](https://github.com/norazmie8699) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
   > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
-### [renbaoshuo](https://github.com/renbaoshuo)
-- 🌟 👤 [renbaoshuo](https://github.com/renbaoshuo) Starred [microsoft/inshellisense](https://github.com/microsoft/inshellisense)
-  > IDE style command line auto complete
+### [nurtext](https://github.com/nurtext)
+- 🌟 👤 [nurtext](https://github.com/nurtext) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
+  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
 
-### [rodrigofurlandeassis-rgb](https://github.com/rodrigofurlandeassis-rgb)
-- 🍴 👤 [rodrigofurlandeassis-rgb](https://github.com/rodrigofurlandeassis-rgb) Forked [rodrigofurlandeassis-rgb/ai-agents-for-beginners](https://github.com/rodrigofurlandeassis-rgb/ai-agents-for-beginners) to [rodrigofurlandeassis-rgb/ai-agents-for-beginners](https://github.com/rodrigofurlandeassis-rgb/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [palemkevishal-hue](https://github.com/palemkevishal-hue)
+- 🍴 👤 [palemkevishal-hue](https://github.com/palemkevishal-hue) Forked [palemkevishal-hue/vscode](https://github.com/palemkevishal-hue/vscode) to [palemkevishal-hue/vscode](https://github.com/palemkevishal-hue/vscode)
+  > Visual Studio Code
 
-### [rogozhko](https://github.com/rogozhko)
-- 🌟 👤 [rogozhko](https://github.com/rogozhko) Starred [microsoft/ptvsd](https://github.com/microsoft/ptvsd)
-  > Python debugger package for use with Visual Studio and Visual Studio Code.
+### [phasedistorter](https://github.com/phasedistorter)
+- 🌟 👤 [phasedistorter](https://github.com/phasedistorter) Starred [microsoft/playwright-python](https://github.com/microsoft/playwright-python)
+  > Python version of the Playwright testing and automation library.
 
-### [saadazghour](https://github.com/saadazghour)
-- 🌟 👤 [saadazghour](https://github.com/saadazghour) Starred [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
-  > Copilot Chat extension for VS Code
+### [pujithamotupally0-blip](https://github.com/pujithamotupally0-blip)
+- 🍴 👤 [pujithamotupally0-blip](https://github.com/pujithamotupally0-blip) Forked [pujithamotupally0-blip/vscode](https://github.com/pujithamotupally0-blip/vscode) to [pujithamotupally0-blip/vscode](https://github.com/pujithamotupally0-blip/vscode)
+  > Visual Studio Code
 
-### [thamonwan1990r-cmyk](https://github.com/thamonwan1990r-cmyk)
-- 🌟 👤 [thamonwan1990r-cmyk](https://github.com/thamonwan1990r-cmyk) Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
-  > JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-
-### [wang971](https://github.com/wang971)
-- 🌟 👤 [wang971](https://github.com/wang971) Starred [microsoft/AirSim](https://github.com/microsoft/AirSim)
-  > Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Re...
-
-### [wangwensheng2018-Ammon](https://github.com/wangwensheng2018-Ammon)
-- 🌟 👤 [wangwensheng2018-Ammon](https://github.com/wangwensheng2018-Ammon) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [wilson37wu](https://github.com/wilson37wu)
-- 🌟 👤 [wilson37wu](https://github.com/wilson37wu) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+### [r5libs](https://github.com/r5libs)
+- 🌟 👤 [r5libs](https://github.com/r5libs) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
   > 🪄 Create rich visualizations with AI 
 
-### [yousiki](https://github.com/yousiki)
-- 🌟 👤 [yousiki](https://github.com/yousiki) Starred [microsoft/inshellisense](https://github.com/microsoft/inshellisense)
-  > IDE style command line auto complete
+### [rucksa91742](https://github.com/rucksa91742)
+- 🌟 👤 [rucksa91742](https://github.com/rucksa91742) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [ywu010321-jpg](https://github.com/ywu010321-jpg)
-- 🍴 👤 [ywu010321-jpg](https://github.com/ywu010321-jpg) Forked [ywu010321-jpg/generative-ai-for-beginners](https://github.com/ywu010321-jpg/generative-ai-for-beginners) to [ywu010321-jpg/generative-ai-for-beginners](https://github.com/ywu010321-jpg/generative-ai-for-beginners)
+### [sahasra1502](https://github.com/sahasra1502)
+- 🍴 👤 [sahasra1502](https://github.com/sahasra1502) Forked [sahasra1502/vscodetrial](https://github.com/sahasra1502/vscodetrial) to [sahasra1502/vscodetrial](https://github.com/sahasra1502/vscodetrial)
+  > Visual Studio Code
+
+### [saiveer33](https://github.com/saiveer33)
+- 🍴 👤 [saiveer33](https://github.com/saiveer33) Forked [saiveer33/OHCL-Linux-Kernel](https://github.com/saiveer33/OHCL-Linux-Kernel) to [saiveer33/OHCL-Linux-Kernel](https://github.com/saiveer33/OHCL-Linux-Kernel)
+  > OpenHCL Linux Kernel
+
+### [sanjanaakuthota-cell](https://github.com/sanjanaakuthota-cell)
+- 🍴 👤 [sanjanaakuthota-cell](https://github.com/sanjanaakuthota-cell) Forked [sanjanaakuthota-cell/vscode](https://github.com/sanjanaakuthota-cell/vscode) to [sanjanaakuthota-cell/vscode](https://github.com/sanjanaakuthota-cell/vscode)
+  > Visual Studio Code
+
+### [sezuidin](https://github.com/sezuidin)
+- 🍴 👤 [sezuidin](https://github.com/sezuidin) Forked [sezuidin/generative-ai-for-beginners](https://github.com/sezuidin/generative-ai-for-beginners) to [sezuidin/generative-ai-for-beginners](https://github.com/sezuidin/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
+
+### [simuhunluo](https://github.com/simuhunluo)
+- 🍴 👤 [simuhunluo](https://github.com/simuhunluo) Forked [simuhunluo/Trace](https://github.com/simuhunluo/Trace) to [simuhunluo/Trace](https://github.com/simuhunluo/Trace)
+  > End-to-end Generative Optimization for AI Agents
+
+### [smoufid](https://github.com/smoufid)
+- 🍴 👤 [smoufid](https://github.com/smoufid) Forked [smoufid/generative-ai-for-beginners](https://github.com/smoufid/generative-ai-for-beginners) to [smoufid/generative-ai-for-beginners](https://github.com/smoufid/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [swathiborra142-cell](https://github.com/swathiborra142-cell)
+- 🍴 👤 [swathiborra142-cell](https://github.com/swathiborra142-cell) Forked [swathiborra142-cell/vscode](https://github.com/swathiborra142-cell/vscode) to [swathiborra142-cell/vscode](https://github.com/swathiborra142-cell/vscode)
+  > Visual Studio Code
+
+### [xElNotariete](https://github.com/xElNotariete)
+- 🍴 👤 [xElNotariete](https://github.com/xElNotariete) Forked [xElNotariete/p2gps](https://github.com/xElNotariete/p2gps) to [xElNotariete/p2gps](https://github.com/xElNotariete/p2gps)
+  > This application uses entirely open source software including Linux, Java, Apache, and MongoDB which...
+
+### [xiewu](https://github.com/xiewu)
+- 🍴 👤 [xiewu](https://github.com/xiewu) Forked [xde-mcp/playwright-mcp](https://github.com/xde-mcp/playwright-mcp) to [xde-mcp/playwright-mcp](https://github.com/xde-mcp/playwright-mcp)
+  > Playwright MCP server
+
+### [yashaswinichunchu-hash](https://github.com/yashaswinichunchu-hash)
+- 🍴 👤 [yashaswinichunchu-hash](https://github.com/yashaswinichunchu-hash) Forked [yashaswinichunchu-hash/vscode](https://github.com/yashaswinichunchu-hash/vscode) to [yashaswinichunchu-hash/vscode](https://github.com/yashaswinichunchu-hash/vscode)
+  > Visual Studio Code
+
+### [ybaddam8-png](https://github.com/ybaddam8-png)
+- 🍴 👤 [ybaddam8-png](https://github.com/ybaddam8-png) Forked [ybaddam8-png/vscode](https://github.com/ybaddam8-png/vscode) to [ybaddam8-png/vscode](https://github.com/ybaddam8-png/vscode)
+  > Visual Studio Code
+
+### [ztetony](https://github.com/ztetony)
+- 🌟 👤 [ztetony](https://github.com/ztetony) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
 
 ---
-*最后更新于 2025-10-24 09:42:49 UTC*
+*最后更新于 2025-10-24 10:27:18 UTC*
 *历史记录保存在 `archive` 目录中。*
