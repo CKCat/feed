@@ -4,15 +4,15 @@
 
 ## 今日动态
 
-### [new1333](https://github.com/new1333)
-- 🌟 👤 [new1333](https://github.com/new1333) Starred [microsoft/vscode-textmate](https://github.com/microsoft/vscode-textmate)
-  > A library that helps tokenize text using Text Mate grammars.
+### [H6](https://github.com/H6)
+- 🌟 👤 [H6](https://github.com/H6) Starred [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml)
+  > WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-perfor...
 
-### [skwh54](https://github.com/skwh54)
-- 🌟 👤 [skwh54](https://github.com/skwh54) Starred [microsoft/SWE-bench-Live](https://github.com/microsoft/SWE-bench-Live)
-  > [NeurIPS 2025 D&B] 🚀 SWE-bench Goes Live!
+### [vcdiff](https://github.com/vcdiff)
+- 🌟 👤 [vcdiff](https://github.com/vcdiff) Starred [microsoft/wil](https://github.com/microsoft/wil)
+  > Windows Implementation Library
 
 
 ---
-*最后更新于 2025-10-24 04:27:46 UTC*
+*最后更新于 2025-10-24 04:44:39 UTC*
 *历史记录保存在 `archive` 目录中。*
