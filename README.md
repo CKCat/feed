@@ -4,63 +4,65 @@
 
 ## 今日动态
 
-### [JustVal-su](https://github.com/JustVal-su)
-- 🌟 👤 [JustVal-su](https://github.com/JustVal-su) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [3lial7osani](https://github.com/3lial7osani)
+- 🌟 👤 [3lial7osani](https://github.com/3lial7osani) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [Marq6174](https://github.com/Marq6174)
-- 🍴 👤 [Marq6174](https://github.com/Marq6174) Forked [Marq6174/Web-Dev-For-Beginners](https://github.com/Marq6174/Web-Dev-For-Beginners) to [Marq6174/Web-Dev-For-Beginners](https://github.com/Marq6174/Web-Dev-For-Beginners)
+### [D1ll4nT](https://github.com/D1ll4nT)
+- 🌟 👤 [D1ll4nT](https://github.com/D1ll4nT) Starred [quarkslab/samsung-trustzone-research](https://github.com/quarkslab/samsung-trustzone-research)
+  > Reverse-engineering tools and exploits for Samsung's implementation of TrustZone
+
+### [Fsanchezan](https://github.com/Fsanchezan)
+- 🌟 👤 [Fsanchezan](https://github.com/Fsanchezan) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+### [Klayand](https://github.com/Klayand)
+- 🌟 👤 [Klayand](https://github.com/Klayand) Starred [microsoft/RAS](https://github.com/microsoft/RAS)
+  > An open-source implementation of Regional Adaptive Sampling (RAS), a novel diffusion model sampling ...
+
+### [LEEI1337](https://github.com/LEEI1337)
+- 🌟 👤 [LEEI1337](https://github.com/LEEI1337) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+
+### [LeiYangGH](https://github.com/LeiYangGH)
+- 🌟 👤 [LeiYangGH](https://github.com/LeiYangGH) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
+
+### [MerrtAri](https://github.com/MerrtAri)
+- 🍴 👤 [MerrtAri](https://github.com/MerrtAri) Forked [MerrtAri/ai-agents-for-beginners](https://github.com/MerrtAri/ai-agents-for-beginners) to [MerrtAri/ai-agents-for-beginners](https://github.com/MerrtAri/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+
+### [TarikSogukpinar](https://github.com/TarikSogukpinar)
+- 🌟 👤 [TarikSogukpinar](https://github.com/TarikSogukpinar) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
+
+### [Trentavs](https://github.com/Trentavs)
+- 🍴 👤 [Trentavs](https://github.com/Trentavs) Forked [Trentavs/Web-Dev-For-Beginners](https://github.com/Trentavs/Web-Dev-For-Beginners) to [Trentavs/Web-Dev-For-Beginners](https://github.com/Trentavs/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [Raalsky](https://github.com/Raalsky)
-- 🌟 👤 [Raalsky](https://github.com/Raalsky) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-
-### [arebs23](https://github.com/arebs23)
-- 🌟 👤 [arebs23](https://github.com/arebs23) Starred [microsoft/MoGe](https://github.com/microsoft/MoGe)
-  > [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Op...
-
-### [chenan6664](https://github.com/chenan6664)
-- 🌟 👤 [chenan6664](https://github.com/chenan6664) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
-
-### [gachong](https://github.com/gachong)
-- 🍴 👤 [gachong](https://github.com/gachong) Forked [gachong/graphrag](https://github.com/gachong/graphrag) to [gachong/graphrag](https://github.com/gachong/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-### [jcytext](https://github.com/jcytext)
-- 🌟 👤 [jcytext](https://github.com/jcytext) Starred [microsoft/clarity](https://github.com/microsoft/clarity)
-  > A behavioral analytics library that uses dom mutations and user interactions to generate aggregated ...
-
-### [liqimore](https://github.com/liqimore)
-- 🌟 👤 [liqimore](https://github.com/liqimore) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-### [luchuqian](https://github.com/luchuqian)
-- 🌟 👤 [luchuqian](https://github.com/luchuqian) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
-
-### [nhaaothuat](https://github.com/nhaaothuat)
-- 🍴 👤 [nhaaothuat](https://github.com/nhaaothuat) Forked [nhaaothuat/vscode](https://github.com/nhaaothuat/vscode) to [nhaaothuat/vscode](https://github.com/nhaaothuat/vscode)
+### [datascikhan](https://github.com/datascikhan)
+- 🌟 👤 [datascikhan](https://github.com/datascikhan) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+- 🌟 👤 [datascikhan](https://github.com/datascikhan) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
   > Visual Studio Code
 
-### [qianlongloves](https://github.com/qianlongloves)
-- 🌟 👤 [qianlongloves](https://github.com/qianlongloves) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [mynvb0404](https://github.com/mynvb0404)
+- 🍴 👤 [mynvb0404](https://github.com/mynvb0404) Forked [mynvb0404/generative-ai-for-beginners](https://github.com/mynvb0404/generative-ai-for-beginners) to [mynvb0404/generative-ai-for-beginners](https://github.com/mynvb0404/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [reveny](https://github.com/reveny)
-- 🌟 👤 [reveny](https://github.com/reveny) Starred [VisionR1/KeyAttestation](https://github.com/VisionR1/KeyAttestation)
-  > This fork have all the feature from original (Thanks @vvb2060).  Plus, have extra features added by ...
+### [nagpalvipin](https://github.com/nagpalvipin)
+- 🌟 👤 [nagpalvipin](https://github.com/nagpalvipin) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
-### [yeha-777](https://github.com/yeha-777)
-- 🌟 👤 [yeha-777](https://github.com/yeha-777) Starred [microsoft/Earth-Copilot](https://github.com/microsoft/Earth-Copilot)
-  > An AI powered geospatial application that allows you to explore and visualize Earth science data usi...
+### [potatojuicer](https://github.com/potatojuicer)
+- 🌟 👤 [potatojuicer](https://github.com/potatojuicer) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
 
-### [youzeFix](https://github.com/youzeFix)
-- 🌟 👤 [youzeFix](https://github.com/youzeFix) Starred [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
-  > Copilot Chat extension for VS Code
+### [trickycodes](https://github.com/trickycodes)
+- 🌟 👤 [trickycodes](https://github.com/trickycodes) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
 
 
 ---
-*最后更新于 2025-10-25 08:45:20 UTC*
+*最后更新于 2025-10-25 09:21:22 UTC*
 *历史记录保存在 `archive` 目录中。*
