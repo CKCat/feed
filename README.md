@@ -4,69 +4,59 @@
 
 ## 今日动态
 
-### [6armyflag6](https://github.com/6armyflag6)
-- 🌟 👤 [6armyflag6](https://github.com/6armyflag6) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+### [989139835182](https://github.com/989139835182)
+- 🌟 👤 [989139835182](https://github.com/989139835182) Starred [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+  > Documentation and issues for Pylance
+- 🌟 👤 [989139835182](https://github.com/989139835182) Starred [microsoft/react-native-gallery](https://github.com/microsoft/react-native-gallery)
+  > This repo contains the react-native Gallery app created by Microsoft
+
+### [Afpia](https://github.com/Afpia)
+- 🌟 👤 [Afpia](https://github.com/Afpia) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
+
+### [BaiLongSZ](https://github.com/BaiLongSZ)
+- 🌟 👤 [BaiLongSZ](https://github.com/BaiLongSZ) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
   > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [77yingwuzhou](https://github.com/77yingwuzhou)
-- 🌟 👤 [77yingwuzhou](https://github.com/77yingwuzhou) Starred [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
-  > This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shif...
-
-### [8580](https://github.com/8580)
-- 🌟 👤 [8580](https://github.com/8580) Starred [microsoft/protein-frame-flow](https://github.com/microsoft/protein-frame-flow)
-  > Fast protein backbone generation with SE(3) flow matching.
-
-### [AdityaKumar3594](https://github.com/AdityaKumar3594)
-- 🌟 👤 [AdityaKumar3594](https://github.com/AdityaKumar3594) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [AkianZhou](https://github.com/AkianZhou)
-- 🌟 👤 [AkianZhou](https://github.com/AkianZhou) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [AlexisTabin](https://github.com/AlexisTabin)
-- 🌟 👤 [AlexisTabin](https://github.com/AlexisTabin) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [AndreasKong](https://github.com/AndreasKong)
-- 🌟 👤 [AndreasKong](https://github.com/AndreasKong) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [AzureHound](https://github.com/AzureHound)
-- 🌟 👤 [AzureHound](https://github.com/AzureHound) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+### [Code-Near](https://github.com/Code-Near)
+- 🌟 👤 [Code-Near](https://github.com/Code-Near) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [CandidKilsborne](https://github.com/CandidKilsborne)
-- 🍴 👤 [CandidKilsborne](https://github.com/CandidKilsborne) Forked [CandidKilsborne/edgeai-for-beginners](https://github.com/CandidKilsborne/edgeai-for-beginners) to [CandidKilsborne/edgeai-for-beginners](https://github.com/CandidKilsborne/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
+### [CoderMayhem](https://github.com/CoderMayhem)
+- 🌟 👤 [CoderMayhem](https://github.com/CoderMayhem) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
+  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
 
-### [Captain-Tom-CL](https://github.com/Captain-Tom-CL)
-- 🍴 👤 [Captain-Tom-CL](https://github.com/Captain-Tom-CL) Forked [Captain-Tom-CL/markitdown](https://github.com/Captain-Tom-CL/markitdown) to [Captain-Tom-CL/markitdown](https://github.com/Captain-Tom-CL/markitdown)
-  > Python tool for converting files and office documents to Markdown.
+### [DjentlemenH](https://github.com/DjentlemenH)
+- 🌟 👤 [DjentlemenH](https://github.com/DjentlemenH) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
-### [Celina-love-sweet](https://github.com/Celina-love-sweet)
-- 🌟 👤 [Celina-love-sweet](https://github.com/Celina-love-sweet) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [Faisal-Alsrheed](https://github.com/Faisal-Alsrheed)
+- 🍴 👤 [Faisal-Alsrheed](https://github.com/Faisal-Alsrheed) Forked [Faisal-Alsrheed/mcsmcp](https://github.com/Faisal-Alsrheed/mcsmcp) to [Faisal-Alsrheed/mcsmcp](https://github.com/Faisal-Alsrheed/mcsmcp)
+  > Lab for creating an MCP Server and using it in Microsoft Copilot Studio.
 
-### [DieracDelta](https://github.com/DieracDelta)
-- 🌟 👤 [DieracDelta](https://github.com/DieracDelta) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
-  > Message passing based allocator
+### [GAry45v](https://github.com/GAry45v)
+- 🌟 👤 [GAry45v](https://github.com/GAry45v) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
-### [Dolittle3](https://github.com/Dolittle3)
-- 🍴 👤 [Dolittle3](https://github.com/Dolittle3) Forked [Dolittle3/vscode-python](https://github.com/Dolittle3/vscode-python) to [Dolittle3/vscode-python](https://github.com/Dolittle3/vscode-python)
-  > Python extension for Visual Studio Code
+### [Galaeci](https://github.com/Galaeci)
+- 🌟 👤 [Galaeci](https://github.com/Galaeci) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [GeYinji-2003](https://github.com/GeYinji-2003)
-- 🌟 👤 [GeYinji-2003](https://github.com/GeYinji-2003) Starred [microsoft/AirSim](https://github.com/microsoft/AirSim)
-  > Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Re...
+### [GeorgeD615](https://github.com/GeorgeD615)
+- 🌟 👤 [GeorgeD615](https://github.com/GeorgeD615) Starred [microsoft/MPI.NET](https://github.com/microsoft/MPI.NET)
+  > MPI.NET updated for .NET Standard
 
-### [Giovanni-falsegeek](https://github.com/Giovanni-falsegeek)
-- 🌟 👤 [Giovanni-falsegeek](https://github.com/Giovanni-falsegeek) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [Globberiano](https://github.com/Globberiano)
+- 🍴 👤 [Globberiano](https://github.com/Globberiano) Forked [Globberiano/ai-agents-for-beginners](https://github.com/Globberiano/ai-agents-for-beginners) to [Globberiano/ai-agents-for-beginners](https://github.com/Globberiano/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
-### [JJrexWang](https://github.com/JJrexWang)
-- 🌟 👤 [JJrexWang](https://github.com/JJrexWang) Starred [microsoft/UFO](https://github.com/microsoft/UFO)
-  > The Desktop AgentOS.
+### [Golden-forest](https://github.com/Golden-forest)
+- 🌟 👤 [Golden-forest](https://github.com/Golden-forest) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [IN03X](https://github.com/IN03X)
+- 🌟 👤 [IN03X](https://github.com/IN03X) Starred [microsoft/renderformer](https://github.com/microsoft/renderformer)
+  > Official Code Release for [SIGGRAPH 2025] RenderFormer: Transformer-based Neural Rendering of Triang...
 
 ### [Jamjbolt](https://github.com/Jamjbolt)
 - 🌟 👤 [Jamjbolt](https://github.com/Jamjbolt) Starred [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
@@ -74,182 +64,264 @@
 - 🌟 👤 [Jamjbolt](https://github.com/Jamjbolt) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [KDB017](https://github.com/KDB017)
-- 🌟 👤 [KDB017](https://github.com/KDB017) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+### [KooroshRZ](https://github.com/KooroshRZ)
+- 🌟 👤 [KooroshRZ](https://github.com/KooroshRZ) Starred [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller)
+  > Manage apps of iOS devices
 
 ### [Magic-Abracadabra](https://github.com/Magic-Abracadabra)
 - 🌟 👤 [Magic-Abracadabra](https://github.com/Magic-Abracadabra) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
   > The new Windows Terminal and the original Windows console host, all in the same place!
-
-### [MdFoyez-0](https://github.com/MdFoyez-0)
-- 🌟 👤 [MdFoyez-0](https://github.com/MdFoyez-0) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+- 🍴 👤 [Magic-Abracadabra](https://github.com/Magic-Abracadabra) Forked [Magic-Abracadabra/terminal](https://github.com/Magic-Abracadabra/terminal) to [Magic-Abracadabra/terminal](https://github.com/Magic-Abracadabra/terminal)
   > The new Windows Terminal and the original Windows console host, all in the same place!
+
+### [Mahmoud1205](https://github.com/Mahmoud1205)
+- 🌟 👤 [Mahmoud1205](https://github.com/Mahmoud1205) Starred [microsoft/AirSim](https://github.com/microsoft/AirSim)
+  > Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Re...
+
+### [MartyYano](https://github.com/MartyYano)
+- 🍴 👤 [MartyYano](https://github.com/MartyYano) Forked [MartyYano/autogen](https://github.com/MartyYano/autogen) to [MartyYano/autogen](https://github.com/MartyYano/autogen)
+  > A programming framework for agentic AI
+
+### [Odaimoko](https://github.com/Odaimoko)
+- 🌟 👤 [Odaimoko](https://github.com/Odaimoko) Starred [microsoft/slngen](https://github.com/microsoft/slngen)
+  > Visual Studio solution generator
+
+### [PentaoG](https://github.com/PentaoG)
+- 🍴 👤 [PentaoG](https://github.com/PentaoG) Forked [PentaoG/generative-ai-for-beginners](https://github.com/PentaoG/generative-ai-for-beginners) to [PentaoG/generative-ai-for-beginners](https://github.com/PentaoG/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [QIANBIMAX](https://github.com/QIANBIMAX)
+- 🌟 👤 [QIANBIMAX](https://github.com/QIANBIMAX) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [Ragingbul470](https://github.com/Ragingbul470)
+- 🍴 👤 [Ragingbul470](https://github.com/Ragingbul470) Forked [Ragingbul470/vscode](https://github.com/Ragingbul470/vscode) to [Ragingbul470/vscode](https://github.com/Ragingbul470/vscode)
+  > Visual Studio Code
 
 ### [SaaranshDx](https://github.com/SaaranshDx)
 - 🌟 👤 [SaaranshDx](https://github.com/SaaranshDx) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
   > Visual Studio Code
 
-### [TNTyep520](https://github.com/TNTyep520)
-- 🌟 👤 [TNTyep520](https://github.com/TNTyep520) Starred [microsoft/fast](https://github.com/microsoft/fast)
-  > The adaptive interface system for modern web experiences.
+### [SabilaWorks](https://github.com/SabilaWorks)
+- 🌟 👤 [SabilaWorks](https://github.com/SabilaWorks) Starred [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+  > 12 Weeks, 24 Lessons, IoT for All!
 
-### [TRL-Official](https://github.com/TRL-Official)
-- 🌟 👤 [TRL-Official](https://github.com/TRL-Official) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [Sharawey74](https://github.com/Sharawey74)
+- 🌟 👤 [Sharawey74](https://github.com/Sharawey74) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [T-REX-XP](https://github.com/T-REX-XP)
+- 🌟 👤 [T-REX-XP](https://github.com/T-REX-XP) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
 
 ### [Ta1ly](https://github.com/Ta1ly)
 - 🌟 👤 [Ta1ly](https://github.com/Ta1ly) Starred [microsoft/aurora](https://github.com/microsoft/aurora)
   > Implementation of the Aurora model for Earth system forecasting
 
-### [USTC0320](https://github.com/USTC0320)
-- 🌟 👤 [USTC0320](https://github.com/USTC0320) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
+### [TalEliyahu](https://github.com/TalEliyahu)
+- 🌟 👤 [TalEliyahu](https://github.com/TalEliyahu) Starred [microsoft/CAIRA](https://github.com/microsoft/CAIRA)
+  > Composable AI Reference Architecture (CAIRA)
 
-### [VimHax](https://github.com/VimHax)
-- 🌟 👤 [VimHax](https://github.com/VimHax) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-  > Staging repo for development of native port of TypeScript
-
-### [bdtbr](https://github.com/bdtbr)
-- 🌟 👤 [bdtbr](https://github.com/bdtbr) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-- 🌟 👤 [bdtbr](https://github.com/bdtbr) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+### [UnfZZX](https://github.com/UnfZZX)
+- 🌟 👤 [UnfZZX](https://github.com/UnfZZX) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
   > The new Windows Terminal and the original Windows console host, all in the same place!
-- 🌟 👤 [bdtbr](https://github.com/bdtbr) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
+### [WANGKANG1717](https://github.com/WANGKANG1717)
+- 🌟 👤 [WANGKANG1717](https://github.com/WANGKANG1717) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+### [WatchAndyTW](https://github.com/WatchAndyTW)
+- 🌟 👤 [WatchAndyTW](https://github.com/WatchAndyTW) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+
+### [admirandu](https://github.com/admirandu)
+- 🌟 👤 [admirandu](https://github.com/admirandu) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [ahgnsdi](https://github.com/ahgnsdi)
+- 🌟 👤 [ahgnsdi](https://github.com/ahgnsdi) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
+
+### [akhilannan](https://github.com/akhilannan)
+- 🍴 👤 [akhilannan](https://github.com/akhilannan) Forked [akhilannan/fabric-cli](https://github.com/akhilannan/fabric-cli) to [akhilannan/fabric-cli](https://github.com/akhilannan/fabric-cli)
+  > ⚡ Microsoft Fabric CLI
+
+### [angus564335](https://github.com/angus564335)
+- 🌟 👤 [angus564335](https://github.com/angus564335) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 
-### [biancabeetech](https://github.com/biancabeetech)
-- 🍴 👤 [biancabeetech](https://github.com/biancabeetech) Forked [biancabeetech/generative-ai-for-beginners](https://github.com/biancabeetech/generative-ai-for-beginners) to [biancabeetech/generative-ai-for-beginners](https://github.com/biancabeetech/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
+### [bendchao](https://github.com/bendchao)
+- 🌟 👤 [bendchao](https://github.com/bendchao) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
 
 ### [biehuarong-ai](https://github.com/biehuarong-ai)
 - 🍴 👤 [biehuarong-ai](https://github.com/biehuarong-ai) Forked [biehuarong-ai/qlib](https://github.com/biehuarong-ai/qlib) to [biehuarong-ai/qlib](https://github.com/biehuarong-ai/qlib)
   > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [bmmojo](https://github.com/bmmojo)
-- 🌟 👤 [bmmojo](https://github.com/bmmojo) Starred [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries)
-  > Sample queries for Advanced hunting in Microsoft 365 Defender
+### [claude89757](https://github.com/claude89757)
+- 🌟 👤 [claude89757](https://github.com/claude89757) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [dletterio1](https://github.com/dletterio1)
-- 🍴 👤 [dletterio1](https://github.com/dletterio1) Forked [dletterio1/graphrag](https://github.com/dletterio1/graphrag) to [dletterio1/graphrag](https://github.com/dletterio1/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
+### [cstwd](https://github.com/cstwd)
+- 🌟 👤 [cstwd](https://github.com/cstwd) Starred [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+  > This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shif...
 
 ### [dysfwhq](https://github.com/dysfwhq)
 - 🍴 👤 [dysfwhq](https://github.com/dysfwhq) Forked [dysfwhq/playwright](https://github.com/dysfwhq/playwright) to [dysfwhq/playwright](https://github.com/dysfwhq/playwright)
   > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [e06084](https://github.com/e06084)
-- 🌟 👤 [e06084](https://github.com/e06084) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
-
 ### [echonnet](https://github.com/echonnet)
 - 🌟 👤 [echonnet](https://github.com/echonnet) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
   > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
-### [geekwise-donald-hess](https://github.com/geekwise-donald-hess)
-- 🌟 👤 [geekwise-donald-hess](https://github.com/geekwise-donald-hess) Starred [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)
-  > A cross-platform protocol library to communicate with iOS devices
+### [fancive](https://github.com/fancive)
+- 🌟 👤 [fancive](https://github.com/fancive) Starred [microsoft/OpenRCA](https://github.com/microsoft/OpenRCA)
+  > [ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?
 
 ### [gururajai](https://github.com/gururajai)
 - 🍴 👤 [gururajai](https://github.com/gururajai) Forked [gururajai/ai-agents-for-beginners](https://github.com/gururajai/ai-agents-for-beginners) to [gururajai/ai-agents-for-beginners](https://github.com/gururajai/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
 
-### [handzinc](https://github.com/handzinc)
-- 🌟 👤 [handzinc](https://github.com/handzinc) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
-
 ### [hardlyhuman](https://github.com/hardlyhuman)
 - 🍴 👤 [hardlyhuman](https://github.com/hardlyhuman) Forked [hardlyhuman/ai-agents-for-beginners](https://github.com/hardlyhuman/ai-agents-for-beginners) to [hardlyhuman/ai-agents-for-beginners](https://github.com/hardlyhuman/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
 
-### [hugobarona](https://github.com/hugobarona)
-- 🌟 👤 [hugobarona](https://github.com/hugobarona) Starred [microsoft/CAIRA](https://github.com/microsoft/CAIRA)
-  > Composable AI Reference Architecture (CAIRA)
-
-### [iamgururaj](https://github.com/iamgururaj)
-- 🍴 👤 [iamgururaj](https://github.com/iamgururaj) Forked [iamgururaj/ai-agents-for-beginners](https://github.com/iamgururaj/ai-agents-for-beginners) to [iamgururaj/ai-agents-for-beginners](https://github.com/iamgururaj/ai-agents-for-beginners)
+### [harryabraham11](https://github.com/harryabraham11)
+- 🌟 👤 [harryabraham11](https://github.com/harryabraham11) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
+
+### [htggit](https://github.com/htggit)
+- 🍴 👤 [htggit](https://github.com/htggit) Forked [htggit/amplifier](https://github.com/htggit/amplifier) to [htggit/amplifier](https://github.com/htggit/amplifier)
 
 ### [irvan-putra](https://github.com/irvan-putra)
 - 🌟 👤 [irvan-putra](https://github.com/irvan-putra) Starred [microsoft/SEAL](https://github.com/microsoft/SEAL)
   > Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 
-### [jeremydumais](https://github.com/jeremydumais)
-- 🍴 👤 [jeremydumais](https://github.com/jeremydumais) Forked [jeremydumais/vcpkg](https://github.com/jeremydumais/vcpkg) to [jeremydumais/vcpkg](https://github.com/jeremydumais/vcpkg)
-  > C++ Library Manager for Windows, Linux, and MacOS
-
-### [jialeli1511](https://github.com/jialeli1511)
-- 🌟 👤 [jialeli1511](https://github.com/jialeli1511) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [jikuja](https://github.com/jikuja)
-- 🌟 👤 [jikuja](https://github.com/jikuja) Starred [microsoft/azure-pipelines-tasks-common-packages](https://github.com/microsoft/azure-pipelines-tasks-common-packages)
-- 🌟 👤 [jikuja](https://github.com/jikuja) Starred [microsoft/azure-pipelines-task-lib](https://github.com/microsoft/azure-pipelines-task-lib)
-  > Libraries for writing VSTS and TFS build tasks
-
 ### [john-streamflow](https://github.com/john-streamflow)
 - 🍴 👤 [john-streamflow](https://github.com/john-streamflow) Forked [john-streamflow/powercat-creator-kit](https://github.com/john-streamflow/powercat-creator-kit) to [john-streamflow/powercat-creator-kit](https://github.com/john-streamflow/powercat-creator-kit)
   > This toolkit helps create well-designed Power App experiences on the web & mobile. It contains a com...
+
+### [kakuyo1](https://github.com/kakuyo1)
+- 🌟 👤 [kakuyo1](https://github.com/kakuyo1) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
+
+### [lh-171](https://github.com/lh-171)
+- 🌟 👤 [lh-171](https://github.com/lh-171) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
 
 ### [lupulus-taha](https://github.com/lupulus-taha)
 - 🌟 👤 [lupulus-taha](https://github.com/lupulus-taha) Starred [microsoft/vscode-go](https://github.com/microsoft/vscode-go)
   > An extension for VS Code which provides support for the Go language. We have moved to https://github...
 
-### [marwinvdijke](https://github.com/marwinvdijke)
-- 🌟 👤 [marwinvdijke](https://github.com/marwinvdijke) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+### [mahata](https://github.com/mahata)
+- 🌟 👤 [mahata](https://github.com/mahata) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [mjeison78](https://github.com/mjeison78)
+- 🌟 👤 [mjeison78](https://github.com/mjeison78) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
 ### [mlangcode](https://github.com/mlangcode)
 - 🌟 👤 [mlangcode](https://github.com/mlangcode) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [parotikov](https://github.com/parotikov)
-- 🌟 👤 [parotikov](https://github.com/parotikov) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [moccalatte](https://github.com/moccalatte)
+- 🌟 👤 [moccalatte](https://github.com/moccalatte) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-### [podolyakivanna-samwash](https://github.com/podolyakivanna-samwash)
-- 🍴 👤 [podolyakivanna-samwash](https://github.com/podolyakivanna-samwash) Forked [podolyakivanna-samwash/vscode](https://github.com/podolyakivanna-samwash/vscode) to [podolyakivanna-samwash/vscode](https://github.com/podolyakivanna-samwash/vscode)
-  > Visual Studio Code
+### [mohmed111777](https://github.com/mohmed111777)
+- 🍴 👤 [mohmed111777](https://github.com/mohmed111777) Forked [mohmed111777/generative-ai-for-beginners](https://github.com/mohmed111777/generative-ai-for-beginners) to [mohmed111777/generative-ai-for-beginners](https://github.com/mohmed111777/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [polas80](https://github.com/polas80)
-- 🍴 👤 [polas80](https://github.com/polas80) Forked [polas80/Data-Science-For-Beginners](https://github.com/polas80/Data-Science-For-Beginners) to [polas80/Data-Science-For-Beginners](https://github.com/polas80/Data-Science-For-Beginners)
-  > 10 Weeks, 20 Lessons, Data Science for All!
+### [namnkahn1607](https://github.com/namnkahn1607)
+- 🌟 👤 [namnkahn1607](https://github.com/namnkahn1607) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
+
+### [nayounsang](https://github.com/nayounsang)
+- 🌟 👤 [nayounsang](https://github.com/nayounsang) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+### [noxifoxi](https://github.com/noxifoxi)
+- 🌟 👤 [noxifoxi](https://github.com/noxifoxi) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
+
+### [paulmonk](https://github.com/paulmonk)
+- 🌟 👤 [paulmonk](https://github.com/paulmonk) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
+  > Python port of part of the TypeAgent repo
+
+### [phijung](https://github.com/phijung)
+- 🌟 👤 [phijung](https://github.com/phijung) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 ### [proinsights](https://github.com/proinsights)
 - 🍴 👤 [proinsights](https://github.com/proinsights) Forked [proinsights/agent-framework](https://github.com/proinsights/agent-framework) to [proinsights/agent-framework](https://github.com/proinsights/agent-framework)
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [puyingjie79-ui](https://github.com/puyingjie79-ui)
-- 🍴 👤 [puyingjie79-ui](https://github.com/puyingjie79-ui) Forked [puyingjie79-ui/nlp-recipes](https://github.com/puyingjie79-ui/nlp-recipes) to [puyingjie79-ui/nlp-recipes](https://github.com/puyingjie79-ui/nlp-recipes)
-  > Natural Language Processing Best Practices & Examples
+### [qiubytes](https://github.com/qiubytes)
+- 🌟 👤 [qiubytes](https://github.com/qiubytes) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
 ### [rickb3n](https://github.com/rickb3n)
-- 🌟 👤 [rickb3n](https://github.com/rickb3n) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
 - 🌟 👤 [rickb3n](https://github.com/rickb3n) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
   > Visual Studio Code
 
-### [thepointer1982](https://github.com/thepointer1982)
-- 🌟 👤 [thepointer1982](https://github.com/thepointer1982) Starred [microsoft/Windows-Sandbox](https://github.com/microsoft/Windows-Sandbox)
-  > Disposable, secure and lightweight Windows Desktop Environment
+### [rickywu-posh](https://github.com/rickywu-posh)
+- 🌟 👤 [rickywu-posh](https://github.com/rickywu-posh) Starred [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)
+  > A code-first agent framework for seamlessly planning and executing data analytics tasks. 
 
-### [tigerwingxys](https://github.com/tigerwingxys)
-- 🌟 👤 [tigerwingxys](https://github.com/tigerwingxys) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+### [rutu45120](https://github.com/rutu45120)
+- 🍴 👤 [rutu45120](https://github.com/rutu45120) Forked [rutu45120/terminal](https://github.com/rutu45120/terminal) to [rutu45120/terminal](https://github.com/rutu45120/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
+
+### [sadeq-sardari](https://github.com/sadeq-sardari)
+- 🌟 👤 [sadeq-sardari](https://github.com/sadeq-sardari) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
   > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
+### [sc1511](https://github.com/sc1511)
+- 🍴 👤 [sc1511](https://github.com/sc1511) Forked [sc1511/generative-ai-for-beginners](https://github.com/sc1511/generative-ai-for-beginners) to [sc1511/generative-ai-for-beginners](https://github.com/sc1511/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [sebama](https://github.com/sebama)
+- 🌟 👤 [sebama](https://github.com/sebama) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
+- 🌟 👤 [sebama](https://github.com/sebama) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+### [skvorn](https://github.com/skvorn)
+- 🌟 👤 [skvorn](https://github.com/skvorn) Starred [microsoft/LoRA](https://github.com/microsoft/LoRA)
+  > Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+
+### [slc14211421](https://github.com/slc14211421)
+- 🌟 👤 [slc14211421](https://github.com/slc14211421) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+
+### [totoluo](https://github.com/totoluo)
+- 🍴 👤 [totoluo](https://github.com/totoluo) Forked [totoluo/agent-lightning](https://github.com/totoluo/agent-lightning) to [totoluo/agent-lightning](https://github.com/totoluo/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
 ### [userMocius](https://github.com/userMocius)
 - 🍴 👤 [userMocius](https://github.com/userMocius) Forked [userMocius/rDSN](https://github.com/userMocius/rDSN) to [userMocius/rDSN](https://github.com/userMocius/rDSN)
   > Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high...
 
-### [yanky80](https://github.com/yanky80)
-- 🌟 👤 [yanky80](https://github.com/yanky80) Starred [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery)
-  > An open-source project for Windows developers to learn how to add AI with local models and APIs to W...
+### [weiguo-li](https://github.com/weiguo-li)
+- 🌟 👤 [weiguo-li](https://github.com/weiguo-li) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
-### [yogkin](https://github.com/yogkin)
-- 🌟 👤 [yogkin](https://github.com/yogkin) Starred [microsoft/clarity](https://github.com/microsoft/clarity)
-  > A behavioral analytics library that uses dom mutations and user interactions to generate aggregated ...
+### [wesamatif71-hash](https://github.com/wesamatif71-hash)
+- 🌟 👤 [wesamatif71-hash](https://github.com/wesamatif71-hash) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [wpintegrate](https://github.com/wpintegrate)
+- 🌟 👤 [wpintegrate](https://github.com/wpintegrate) Starred [microsoft/CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples)
+
+### [yousef-showman](https://github.com/yousef-showman)
+- 🌟 👤 [yousef-showman](https://github.com/yousef-showman) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [zhouniandi](https://github.com/zhouniandi)
+- 🌟 👤 [zhouniandi](https://github.com/zhouniandi) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
 
 ---
-*最后更新于 2025-10-25 11:39:26 UTC*
+*最后更新于 2025-10-25 12:43:44 UTC*
 *历史记录保存在 `archive` 目录中。*
