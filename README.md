@@ -1,14 +1,18 @@
-# 每日 GitHub 动态 (2025-10-24)
+# 每日 GitHub 动态 (2025-10-25)
 
 我关注用户的今日公开动态 (每20分钟更新)。
 
 ## 今日动态
 
-### [dimensional-difficulties](https://github.com/dimensional-difficulties)
-- 🍴 👤 [dimensional-difficulties](https://github.com/dimensional-difficulties) Forked [dimensional-difficulties/DirectStorage](https://github.com/dimensional-difficulties/DirectStorage) to [dimensional-difficulties/DirectStorage](https://github.com/dimensional-difficulties/DirectStorage)
-  > DirectStorage for Windows is an API that allows game developers to unlock the full potential of high...
+### [AppleLamps](https://github.com/AppleLamps)
+- 🍴 👤 [AppleLamps](https://github.com/AppleLamps) Forked [AppleLamps/vscode](https://github.com/AppleLamps/vscode) to [AppleLamps/vscode](https://github.com/AppleLamps/vscode)
+  > Visual Studio Code
+
+### [Gi-gigi](https://github.com/Gi-gigi)
+- 🌟 👤 [Gi-gigi](https://github.com/Gi-gigi) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
 
 ---
-*最后更新于 2025-10-24 23:39:22 UTC*
+*最后更新于 2025-10-25 01:49:34 UTC*
 *历史记录保存在 `archive` 目录中。*
