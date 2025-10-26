@@ -4,85 +4,57 @@
 
 ## 今日动态
 
-### [Aaradhaya21](https://github.com/Aaradhaya21)
-- 🌟 👤 [Aaradhaya21](https://github.com/Aaradhaya21) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
-  > The new Windows Terminal and the original Windows console host, all in the same place!
+### [Aiden2512](https://github.com/Aiden2512)
+- 🍴 👤 [Aiden2512](https://github.com/Aiden2512) Forked [Aiden2512/ML-For-Beginners](https://github.com/Aiden2512/ML-For-Beginners) to [Aiden2512/ML-For-Beginners](https://github.com/Aiden2512/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- 🍴 👤 [Aiden2512](https://github.com/Aiden2512) Forked [Aiden2512/Web-Dev-For-Beginners](https://github.com/Aiden2512/Web-Dev-For-Beginners) to [Aiden2512/Web-Dev-For-Beginners](https://github.com/Aiden2512/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [K0IN](https://github.com/K0IN)
-- 🌟 👤 [K0IN](https://github.com/K0IN) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+### [FStefanovv](https://github.com/FStefanovv)
+- 🍴 👤 [FStefanovv](https://github.com/FStefanovv) Forked [FStefanovv/python-sample-vscode-flask-tutorial](https://github.com/FStefanovv/python-sample-vscode-flask-tutorial) to [FStefanovv/python-sample-vscode-flask-tutorial](https://github.com/FStefanovv/python-sample-vscode-flask-tutorial)
+  > Sample code for the Flask tutorial in the VS Code documentation
 
-### [Matulr](https://github.com/Matulr)
-- 🍴 👤 [Matulr](https://github.com/Matulr) Forked [Matulr/Data-Science-For-Beginners](https://github.com/Matulr/Data-Science-For-Beginners) to [Matulr/Data-Science-For-Beginners](https://github.com/Matulr/Data-Science-For-Beginners)
-  > 10 Weeks, 20 Lessons, Data Science for All!
-
-### [SlamTGK](https://github.com/SlamTGK)
-- 🌟 👤 [SlamTGK](https://github.com/SlamTGK) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-  > Frontier Open-Source Text-to-Speech
-
-### [amaozhao](https://github.com/amaozhao)
-- 🌟 👤 [amaozhao](https://github.com/amaozhao) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-
-### [bcs169888-cpu](https://github.com/bcs169888-cpu)
-- 🌟 👤 [bcs169888-cpu](https://github.com/bcs169888-cpu) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [braieralves](https://github.com/braieralves)
-- 🍴 👤 [braieralves](https://github.com/braieralves) Forked [braieralves/amelabs](https://github.com/braieralves/amelabs) to [braieralves/amelabs](https://github.com/braieralves/amelabs)
-  > A repository for storing content related to lab deployments for CSS team Azure Monitoring Enterprise...
-
-### [easton05](https://github.com/easton05)
-- 🌟 👤 [easton05](https://github.com/easton05) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [firetop0011](https://github.com/firetop0011)
-- 🌟 👤 [firetop0011](https://github.com/firetop0011) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
-
-### [iayra3637-coder](https://github.com/iayra3637-coder)
-- 🌟 👤 [iayra3637-coder](https://github.com/iayra3637-coder) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [ibraelmahallawy](https://github.com/ibraelmahallawy)
-- 🌟 👤 [ibraelmahallawy](https://github.com/ibraelmahallawy) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-  > Frontier Open-Source Text-to-Speech
-
-### [lemrm](https://github.com/lemrm)
-- 🌟 👤 [lemrm](https://github.com/lemrm) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [martzb](https://github.com/martzb)
-- 🌟 👤 [martzb](https://github.com/martzb) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [newdee](https://github.com/newdee)
-- 🌟 👤 [newdee](https://github.com/newdee) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [prasadgr8](https://github.com/prasadgr8)
-- 🍴 👤 [prasadgr8](https://github.com/prasadgr8) Forked [prasadgr8/generative-ai-for-beginners](https://github.com/prasadgr8/generative-ai-for-beginners) to [prasadgr8/generative-ai-for-beginners](https://github.com/prasadgr8/generative-ai-for-beginners)
+### [KesMath](https://github.com/KesMath)
+- 🌟 👤 [KesMath](https://github.com/KesMath) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
   > 21 Lessons, Get Started Building with Generative AI 
 
-### [qianqicom](https://github.com/qianqicom)
-- 🌟 👤 [qianqicom](https://github.com/qianqicom) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [Sohel-Gnrl](https://github.com/Sohel-Gnrl)
+- 🌟 👤 [Sohel-Gnrl](https://github.com/Sohel-Gnrl) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+- 🍴 👤 [Sohel-Gnrl](https://github.com/Sohel-Gnrl) Forked [Sohel-Gnrl/vscode](https://github.com/Sohel-Gnrl/vscode) to [Sohel-Gnrl/vscode](https://github.com/Sohel-Gnrl/vscode)
+  > Visual Studio Code
+- 🌟 👤 [Sohel-Gnrl](https://github.com/Sohel-Gnrl) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🍴 👤 [Sohel-Gnrl](https://github.com/Sohel-Gnrl) Forked [Sohel-Gnrl/PowerToys](https://github.com/Sohel-Gnrl/PowerToys) to [Sohel-Gnrl/PowerToys](https://github.com/Sohel-Gnrl/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [TonyAbell](https://github.com/TonyAbell)
+- 🌟 👤 [TonyAbell](https://github.com/TonyAbell) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [sdnrkyncu](https://github.com/sdnrkyncu)
-- 🌟 👤 [sdnrkyncu](https://github.com/sdnrkyncu) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
+### [julz411](https://github.com/julz411)
+- 🍴 👤 [julz411](https://github.com/julz411) Forked [julz411/generative-ai-for-beginners](https://github.com/julz411/generative-ai-for-beginners) to [julz411/generative-ai-for-beginners](https://github.com/julz411/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [zaksiu12s](https://github.com/zaksiu12s)
-- 🌟 👤 [zaksiu12s](https://github.com/zaksiu12s) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-- 🌟 👤 [zaksiu12s](https://github.com/zaksiu12s) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+### [lakeuk](https://github.com/lakeuk)
+- 🌟 👤 [lakeuk](https://github.com/lakeuk) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
-### [zz0x](https://github.com/zz0x)
-- 🌟 👤 [zz0x](https://github.com/zz0x) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-  > 10 Weeks, 20 Lessons, Data Science for All!
+### [moeinghaeini](https://github.com/moeinghaeini)
+- 🌟 👤 [moeinghaeini](https://github.com/moeinghaeini) Starred [microsoft/GDK](https://github.com/microsoft/GDK)
+  > Microsoft Public GDK
+- 🍴 👤 [moeinghaeini](https://github.com/moeinghaeini) Forked [moeinghaeini/GDK](https://github.com/moeinghaeini/GDK) to [moeinghaeini/GDK](https://github.com/moeinghaeini/GDK)
+  > Microsoft Public GDK
+
+### [tensorchen](https://github.com/tensorchen)
+- 🌟 👤 [tensorchen](https://github.com/tensorchen) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [yonootz321](https://github.com/yonootz321)
+- 🌟 👤 [yonootz321](https://github.com/yonootz321) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
 
 ---
-*最后更新于 2025-10-26 16:45:50 UTC*
+*最后更新于 2025-10-26 17:19:00 UTC*
 *历史记录保存在 `archive` 目录中。*
