@@ -4,61 +4,73 @@
 
 ## 今日动态
 
-### [IndieMinimalist](https://github.com/IndieMinimalist)
-- 🌟 👤 [IndieMinimalist](https://github.com/IndieMinimalist) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [10113009](https://github.com/10113009)
+- 🌟 👤 [10113009](https://github.com/10113009) Starred [microsoft/CAIRA](https://github.com/microsoft/CAIRA)
+  > Composable AI Reference Architecture (CAIRA)
+
+### [AliAmjad](https://github.com/AliAmjad)
+- 🌟 👤 [AliAmjad](https://github.com/AliAmjad) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [Kbediako](https://github.com/Kbediako)
-- 🌟 👤 [Kbediako](https://github.com/Kbediako) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [Ishaan-Datta](https://github.com/Ishaan-Datta)
+- 🌟 👤 [Ishaan-Datta](https://github.com/Ishaan-Datta) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [ReverseZoom2151](https://github.com/ReverseZoom2151)
+- 🌟 👤 [ReverseZoom2151](https://github.com/ReverseZoom2151) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [Knucklessg1](https://github.com/Knucklessg1)
-- 🌟 👤 [Knucklessg1](https://github.com/Knucklessg1) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [VespianRex](https://github.com/VespianRex)
+- 🌟 👤 [VespianRex](https://github.com/VespianRex) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [MoritzStieber](https://github.com/MoritzStieber)
-- 🍴 👤 [MoritzStieber](https://github.com/MoritzStieber) Forked [MoritzStieber/generative-ai-for-beginners](https://github.com/MoritzStieber/generative-ai-for-beginners) to [MoritzStieber/generative-ai-for-beginners](https://github.com/MoritzStieber/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
+### [abiodundotdev](https://github.com/abiodundotdev)
+- 🌟 👤 [abiodundotdev](https://github.com/abiodundotdev) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
 
-### [PersonForever](https://github.com/PersonForever)
-- 🌟 👤 [PersonForever](https://github.com/PersonForever) Starred [microsoft/testfx](https://github.com/microsoft/testfx)
-  > This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative...
-
-### [alexravenna](https://github.com/alexravenna)
-- 🍴 👤 [alexravenna](https://github.com/alexravenna) Forked [DevTuuls/theme-converter-for-vs](https://github.com/DevTuuls/theme-converter-for-vs) to [DevTuuls/theme-converter-for-vs](https://github.com/DevTuuls/theme-converter-for-vs)
-  > CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
-
-### [brwilkinson](https://github.com/brwilkinson)
-- 🍴 👤 [brwilkinson](https://github.com/brwilkinson) Forked [brwilkinson/Generative-AI-for-beginners-dotnet](https://github.com/brwilkinson/Generative-AI-for-beginners-dotnet) to [brwilkinson/Generative-AI-for-beginners-dotnet](https://github.com/brwilkinson/Generative-AI-for-beginners-dotnet)
-  > Five lessons, learn how to really apply AI to your .NET Applications
-
-### [diegaccio](https://github.com/diegaccio)
-- 🌟 👤 [diegaccio](https://github.com/diegaccio) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
-- 🍴 👤 [diegaccio](https://github.com/diegaccio) Forked [diegaccio/edgeai-for-beginners](https://github.com/diegaccio/edgeai-for-beginners) to [diegaccio/edgeai-for-beginners](https://github.com/diegaccio/edgeai-for-beginners)
-  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
-
-### [dsaad68](https://github.com/dsaad68)
-- 🌟 👤 [dsaad68](https://github.com/dsaad68) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [fluxthemux](https://github.com/fluxthemux)
-- 🌟 👤 [fluxthemux](https://github.com/fluxthemux) Starred [microsoft/muzic](https://github.com/microsoft/muzic)
-  > Muzic: Music Understanding and Generation with Artificial Intelligence
-
-### [mahmoudkandeel](https://github.com/mahmoudkandeel)
-- 🌟 👤 [mahmoudkandeel](https://github.com/mahmoudkandeel) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [mchonofsky](https://github.com/mchonofsky)
-- 🍴 👤 [mchonofsky](https://github.com/mchonofsky) Forked [mchonofsky/AirSim](https://github.com/mchonofsky/AirSim) to [mchonofsky/AirSim](https://github.com/mchonofsky/AirSim)
-  > Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Re...
-
-### [mo7hamd2003](https://github.com/mo7hamd2003)
-- 🌟 👤 [mo7hamd2003](https://github.com/mo7hamd2003) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [kingvish](https://github.com/kingvish)
+- 🌟 👤 [kingvish](https://github.com/kingvish) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
   > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- 🌟 👤 [kingvish](https://github.com/kingvish) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+
+### [koushik80](https://github.com/koushik80)
+- 🍴 👤 [koushik80](https://github.com/koushik80) Forked [koushik80/learn-declarative-agent-api-plugin-typescript](https://github.com/koushik80/learn-declarative-agent-api-plugin-typescript) to [koushik80/learn-declarative-agent-api-plugin-typescript](https://github.com/koushik80/learn-declarative-agent-api-plugin-typescript)
+  > Starter project for the Build your first action for declarative agents with API plugin by using Visu...
+
+### [leonardoisfake](https://github.com/leonardoisfake)
+- 🌟 👤 [leonardoisfake](https://github.com/leonardoisfake) Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
+  > The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+
+### [mccoylim](https://github.com/mccoylim)
+- 🍴 👤 [mccoylim](https://github.com/mccoylim) Forked [mccoylim/ML-For-Beginners](https://github.com/mccoylim/ML-For-Beginners) to [mccoylim/ML-For-Beginners](https://github.com/mccoylim/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+### [muhtehwuush](https://github.com/muhtehwuush)
+- 🌟 👤 [muhtehwuush](https://github.com/muhtehwuush) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [nChieeF](https://github.com/nChieeF)
+- 🌟 👤 [nChieeF](https://github.com/nChieeF) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [nhantienden2-beep](https://github.com/nhantienden2-beep)
+- 🍴 👤 [nhantienden2-beep](https://github.com/nhantienden2-beep) Forked [nhantienden2-beep/vscode-python](https://github.com/nhantienden2-beep/vscode-python) to [nhantienden2-beep/vscode-python](https://github.com/nhantienden2-beep/vscode-python)
+  > Python extension for Visual Studio Code
+
+### [sdh100shaun](https://github.com/sdh100shaun)
+- 🌟 👤 [sdh100shaun](https://github.com/sdh100shaun) Starred [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+  > A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer ...
+
+### [simonholm](https://github.com/simonholm)
+- 🌟 👤 [simonholm](https://github.com/simonholm) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [wbeuil](https://github.com/wbeuil)
+- 🌟 👤 [wbeuil](https://github.com/wbeuil) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
 
 
 ---
-*最后更新于 2025-10-26 21:20:17 UTC*
+*最后更新于 2025-10-26 21:39:06 UTC*
 *历史记录保存在 `archive` 目录中。*
