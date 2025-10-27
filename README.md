@@ -4,27 +4,15 @@
 
 ## 今日动态
 
-### [RenanLH](https://github.com/RenanLH)
-- 🍴 👤 [RenanLH](https://github.com/RenanLH) Forked [RenanLH/vscode](https://github.com/RenanLH/vscode) to [RenanLH/vscode](https://github.com/RenanLH/vscode)
-  > Visual Studio Code
+### [GeekPoplar](https://github.com/GeekPoplar)
+- 🌟 👤 [GeekPoplar](https://github.com/GeekPoplar) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
-### [cstein6486](https://github.com/cstein6486)
-- 🍴 👤 [cstein6486](https://github.com/cstein6486) Forked [cstein6486/generative-ai](https://github.com/cstein6486/generative-ai) to [cstein6486/generative-ai](https://github.com/cstein6486/generative-ai)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [deastrobooking](https://github.com/deastrobooking)
-- 🌟 👤 [deastrobooking](https://github.com/deastrobooking) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [dfnelson](https://github.com/dfnelson)
-- 🌟 👤 [dfnelson](https://github.com/dfnelson) Starred [microsoft/PPCC25-ALM](https://github.com/microsoft/PPCC25-ALM)
-  > This repository is for the "Workshop: Lifecycle Mastery: Managing Power Platform Assets in the Age o...
-
-### [stephenmcconnachie](https://github.com/stephenmcconnachie)
-- 🌟 👤 [stephenmcconnachie](https://github.com/stephenmcconnachie) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
+### [yudijiao](https://github.com/yudijiao)
+- 🌟 👤 [yudijiao](https://github.com/yudijiao) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
 
 ---
-*最后更新于 2025-10-27 16:32:35 UTC*
+*最后更新于 2025-10-27 17:21:13 UTC*
 *历史记录保存在 `archive` 目录中。*
