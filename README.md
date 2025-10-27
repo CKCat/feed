@@ -4,87 +4,51 @@
 
 ## 今日动态
 
-### [AlessandroLollo](https://github.com/AlessandroLollo)
-- 🌟 👤 [AlessandroLollo](https://github.com/AlessandroLollo) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
-  > Windows Subsystem for Linux
-
-### [DuckyDoggy](https://github.com/DuckyDoggy)
-- 🌟 👤 [DuckyDoggy](https://github.com/DuckyDoggy) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [G-Dilshan](https://github.com/G-Dilshan)
-- 🍴 👤 [G-Dilshan](https://github.com/G-Dilshan) Forked [G-Dilshan/graphrag](https://github.com/G-Dilshan/graphrag) to [G-Dilshan/graphrag](https://github.com/G-Dilshan/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-### [LovePelmeni](https://github.com/LovePelmeni)
-- 🌟 👤 [LovePelmeni](https://github.com/LovePelmeni) Starred [microsoft/onnxjs](https://github.com/microsoft/onnxjs)
-  > ONNX.js: run ONNX models using JavaScript
-- 🌟 👤 [LovePelmeni](https://github.com/LovePelmeni) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-### [Nek-One](https://github.com/Nek-One)
-- 🍴 👤 [Nek-One](https://github.com/Nek-One) Forked [Nek-One/vscode-extension-samples](https://github.com/Nek-One/vscode-extension-samples) to [Nek-One/vscode-extension-samples](https://github.com/Nek-One/vscode-extension-samples)
-  > Sample code illustrating the VS Code extension API.
-
-### [Pines-Cheng](https://github.com/Pines-Cheng)
-- 🌟 👤 [Pines-Cheng](https://github.com/Pines-Cheng) Starred [microsoft/vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep)
-  > For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
-
-### [ShamontNaN](https://github.com/ShamontNaN)
-- 🌟 👤 [ShamontNaN](https://github.com/ShamontNaN) Starred [microsoft/windows-rs](https://github.com/microsoft/windows-rs)
-  > Rust for Windows
-
-### [alessandro-festa](https://github.com/alessandro-festa)
-- 🍴 👤 [alessandro-festa](https://github.com/alessandro-festa) Forked [alessandro-festa/mcp-gateway](https://github.com/alessandro-festa/mcp-gateway) to [alessandro-festa/mcp-gateway](https://github.com/alessandro-festa/mcp-gateway)
-  > MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-awar...
-
-### [anubhavagr](https://github.com/anubhavagr)
-- 🌟 👤 [anubhavagr](https://github.com/anubhavagr) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [cnchaoge](https://github.com/cnchaoge)
-- 🌟 👤 [cnchaoge](https://github.com/cnchaoge) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-  > Frontier Open-Source Text-to-Speech
-- 🍴 👤 [cnchaoge](https://github.com/cnchaoge) Forked [cnchaoge/VibeVoice](https://github.com/cnchaoge/VibeVoice) to [cnchaoge/VibeVoice](https://github.com/cnchaoge/VibeVoice)
-  > Frontier Open-Source Text-to-Speech
-
-### [exodos-giorgi-duchidze](https://github.com/exodos-giorgi-duchidze)
-- 🌟 👤 [exodos-giorgi-duchidze](https://github.com/exodos-giorgi-duchidze) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [JMDcx](https://github.com/JMDcx)
+- 🌟 👤 [JMDcx](https://github.com/JMDcx) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [freefish1218](https://github.com/freefish1218)
-- 🌟 👤 [freefish1218](https://github.com/freefish1218) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
+### [Vineshg](https://github.com/Vineshg)
+- 🌟 👤 [Vineshg](https://github.com/Vineshg) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
-### [giacomoF5](https://github.com/giacomoF5)
-- 🌟 👤 [giacomoF5](https://github.com/giacomoF5) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
+### [albertescanes](https://github.com/albertescanes)
+- 🍴 👤 [albertescanes](https://github.com/albertescanes) Forked [albertescanes/WSL](https://github.com/albertescanes/WSL) to [albertescanes/WSL](https://github.com/albertescanes/WSL)
+  > Windows Subsystem for Linux
 
-### [gtftffj](https://github.com/gtftffj)
-- 🍴 👤 [gtftffj](https://github.com/gtftffj) Forked [gtftffj/generative-ai-for-beginners](https://github.com/gtftffj/generative-ai-for-beginners) to [gtftffj/generative-ai-for-beginners](https://github.com/gtftffj/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
+### [alizoubair](https://github.com/alizoubair)
+- 🌟 👤 [alizoubair](https://github.com/alizoubair) Starred [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops)
+  > Terraform Azure DevOps provider
 
-### [isidorasasic](https://github.com/isidorasasic)
-- 🍴 👤 [isidorasasic](https://github.com/isidorasasic) Forked [isidorasasic/ai-agents-for-beginners](https://github.com/isidorasasic/ai-agents-for-beginners) to [isidorasasic/ai-agents-for-beginners](https://github.com/isidorasasic/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [cheng2026](https://github.com/cheng2026)
+- 🌟 👤 [cheng2026](https://github.com/cheng2026) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [jasperyou](https://github.com/jasperyou)
-- 🌟 👤 [jasperyou](https://github.com/jasperyou) Starred [microsoft/clarity](https://github.com/microsoft/clarity)
-  > A behavioral analytics library that uses dom mutations and user interactions to generate aggregated ...
+### [chilariogo](https://github.com/chilariogo)
+- 🌟 👤 [chilariogo](https://github.com/chilariogo) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [mcalvy09](https://github.com/mcalvy09)
-- 🍴 👤 [mcalvy09](https://github.com/mcalvy09) Forked [mcalvy09/playwright-mcp](https://github.com/mcalvy09/playwright-mcp) to [mcalvy09/playwright-mcp](https://github.com/mcalvy09/playwright-mcp)
-  > Playwright MCP server
+### [flyingglass](https://github.com/flyingglass)
+- 🌟 👤 [flyingglass](https://github.com/flyingglass) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
 
-### [stevezhou6](https://github.com/stevezhou6)
-- 🍴 👤 [stevezhou6](https://github.com/stevezhou6) Forked [stevezhou6/referencesource](https://github.com/stevezhou6/referencesource) to [stevezhou6/referencesource](https://github.com/stevezhou6/referencesource)
-  > Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
+### [ilaydasuleymanoglu](https://github.com/ilaydasuleymanoglu)
+- 🌟 👤 [ilaydasuleymanoglu](https://github.com/ilaydasuleymanoglu) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
-### [tianyaxifeng](https://github.com/tianyaxifeng)
-- 🌟 👤 [tianyaxifeng](https://github.com/tianyaxifeng) Starred [microsoft/promptflow](https://github.com/microsoft/promptflow)
-  > Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+### [j8t8a](https://github.com/j8t8a)
+- 🍴 👤 [j8t8a](https://github.com/j8t8a) Forked [j8t8a/AI-For-Beginners](https://github.com/j8t8a/AI-For-Beginners) to [j8t8a/AI-For-Beginners](https://github.com/j8t8a/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
+
+### [juierror](https://github.com/juierror)
+- 🌟 👤 [juierror](https://github.com/juierror) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [ksachdeva](https://github.com/ksachdeva)
+- 🌟 👤 [ksachdeva](https://github.com/ksachdeva) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
 
 ---
-*最后更新于 2025-10-27 09:47:29 UTC*
+*最后更新于 2025-10-27 10:28:32 UTC*
 *历史记录保存在 `archive` 目录中。*
