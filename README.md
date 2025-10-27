@@ -4,23 +4,27 @@
 
 ## 今日动态
 
-### [ThiagoFNJ](https://github.com/ThiagoFNJ)
-- 🌟 👤 [ThiagoFNJ](https://github.com/ThiagoFNJ) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
+### [CheeZeDark](https://github.com/CheeZeDark)
+- 🌟 👤 [CheeZeDark](https://github.com/CheeZeDark) Starred [microsoft/DirectXTK](https://github.com/microsoft/DirectXTK)
+  > The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code...
 
-### [cedx](https://github.com/cedx)
-- 🌟 👤 [cedx](https://github.com/cedx) Starred [microsoft/sudo](https://github.com/microsoft/sudo)
-  > It's sudo, for Windows
+### [adam-meyer](https://github.com/adam-meyer)
+- 🌟 👤 [adam-meyer](https://github.com/adam-meyer) Starred [microsoft/AzureOpenAI-with-APIM](https://github.com/microsoft/AzureOpenAI-with-APIM)
+  > Deploy APIM. Auto-configure it to work with your Azure Open AI.
 
-### [felickz](https://github.com/felickz)
-- 🍴 👤 [felickz](https://github.com/felickz) Forked [testing-felickz/edit](https://github.com/testing-felickz/edit) to [testing-felickz/edit](https://github.com/testing-felickz/edit)
-  > We all edit.
+### [loadingalias](https://github.com/loadingalias)
+- 🌟 👤 [loadingalias](https://github.com/loadingalias) Starred [microsoft/injectorppforrust](https://github.com/microsoft/injectorppforrust)
+  > Injectorpp is a powerful tool designed to facilitate the writing of unit tests without the need to i...
 
-### [soaraiPL](https://github.com/soaraiPL)
-- 🌟 👤 [soaraiPL](https://github.com/soaraiPL) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [shuinsen](https://github.com/shuinsen)
+- 🌟 👤 [shuinsen](https://github.com/shuinsen) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
+
+### [tomasba98](https://github.com/tomasba98)
+- 🌟 👤 [tomasba98](https://github.com/tomasba98) Starred [microsoft/kubernetes-learning-path](https://github.com/microsoft/kubernetes-learning-path)
+  > https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
 
 
 ---
-*最后更新于 2025-10-27 21:20:43 UTC*
+*最后更新于 2025-10-27 21:40:13 UTC*
 *历史记录保存在 `archive` 目录中。*
