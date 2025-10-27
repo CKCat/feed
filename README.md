@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-今天还没有新的公开动态。
+### [LINGS-nenji](https://github.com/LINGS-nenji)
+- 🌟 👤 [LINGS-nenji](https://github.com/LINGS-nenji) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+
 
 ---
-*最后更新于 2025-10-27 22:42:20 UTC*
+*最后更新于 2025-10-27 23:21:03 UTC*
 *历史记录保存在 `archive` 目录中。*
