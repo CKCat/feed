@@ -4,359 +4,346 @@
 
 ## 今日动态
 
-### [0x7Fancy](https://github.com/0x7Fancy)
-- 🌟 👤 [0x7Fancy](https://github.com/0x7Fancy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [6174](https://github.com/6174)
-- 🌟 👤 [6174](https://github.com/6174) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [188140040](https://github.com/188140040)
+- 🌟 👤 [188140040](https://github.com/188140040) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [AkashLogic](https://github.com/AkashLogic)
-- 🌟 👤 [AkashLogic](https://github.com/AkashLogic) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [AlahmadiQ8](https://github.com/AlahmadiQ8)
-- 🍴 👤 [AlahmadiQ8](https://github.com/AlahmadiQ8) Forked [AlahmadiQ8/TechWorkshop-L300-AI-Apps-and-agents](https://github.com/AlahmadiQ8/TechWorkshop-L300-AI-Apps-and-agents) to [AlahmadiQ8/TechWorkshop-L300-AI-Apps-and-agents](https://github.com/AlahmadiQ8/TechWorkshop-L300-AI-Apps-and-agents)
-
-### [BelfortiAngelo](https://github.com/BelfortiAngelo)
-- 🍴 👤 [BelfortiAngelo](https://github.com/BelfortiAngelo) Forked [BelfortiAngelo/ai-agents-for-beginners](https://github.com/BelfortiAngelo/ai-agents-for-beginners) to [BelfortiAngelo/ai-agents-for-beginners](https://github.com/BelfortiAngelo/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [DoAndroidsDreamofElectricSheep](https://github.com/DoAndroidsDreamofElectricSheep)
-- 🌟 👤 [DoAndroidsDreamofElectricSheep](https://github.com/DoAndroidsDreamofElectricSheep) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [Doppp](https://github.com/Doppp)
-- 🌟 👤 [Doppp](https://github.com/Doppp) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+### [ALiwoto](https://github.com/ALiwoto)
+- 🌟 👤 [ALiwoto](https://github.com/ALiwoto) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
   > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
 
-### [ESiebigteroth](https://github.com/ESiebigteroth)
-- 🍴 👤 [ESiebigteroth](https://github.com/ESiebigteroth) Forked [ESiebigteroth/wil](https://github.com/ESiebigteroth/wil) to [ESiebigteroth/wil](https://github.com/ESiebigteroth/wil)
-  > Windows Implementation Library
+### [Aditya239233](https://github.com/Aditya239233)
+- 🌟 👤 [Aditya239233](https://github.com/Aditya239233) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
+  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
 
-### [EmreOzdemiroglu](https://github.com/EmreOzdemiroglu)
-- 🌟 👤 [EmreOzdemiroglu](https://github.com/EmreOzdemiroglu) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [Hesse73](https://github.com/Hesse73)
-- 🌟 👤 [Hesse73](https://github.com/Hesse73) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [IserlohnZhou](https://github.com/IserlohnZhou)
-- 🌟 👤 [IserlohnZhou](https://github.com/IserlohnZhou) Starred [microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)
-  > Notebooks and documentation for AI-for-Earth-managed datasets on Azure
-
-### [JTCDCTWB](https://github.com/JTCDCTWB)
-- 🌟 👤 [JTCDCTWB](https://github.com/JTCDCTWB) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
-  > Windows Subsystem for Linux
-
-### [Knight-pray](https://github.com/Knight-pray)
-- 🌟 👤 [Knight-pray](https://github.com/Knight-pray) Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
-  > JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-
-### [LonelyWolffy](https://github.com/LonelyWolffy)
-- 🌟 👤 [LonelyWolffy](https://github.com/LonelyWolffy) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-### [Meteor-Stars](https://github.com/Meteor-Stars)
-- 🍴 👤 [Meteor-Stars](https://github.com/Meteor-Stars) Forked [Meteor-Stars/TimeCraft](https://github.com/Meteor-Stars/TimeCraft) to [Meteor-Stars/TimeCraft](https://github.com/Meteor-Stars/TimeCraft)
-  > Official code for TimeCraft: A Time Series Generation Framework for Real-World Applications
-
-### [PiceTrp](https://github.com/PiceTrp)
-- 🌟 👤 [PiceTrp](https://github.com/PiceTrp) Starred [microsoft/fabric_data_agent_client](https://github.com/microsoft/fabric_data_agent_client)
-  > a sample to call a fabric data agent outside of fabric
-
-### [PratikDhanave](https://github.com/PratikDhanave)
-- 🌟 👤 [PratikDhanave](https://github.com/PratikDhanave) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
-  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
-
-### [RT-C-6668882025](https://github.com/RT-C-6668882025)
-- 🌟 👤 [RT-C-6668882025](https://github.com/RT-C-6668882025) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-- 🌟 👤 [RT-C-6668882025](https://github.com/RT-C-6668882025) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-- 🌟 👤 [RT-C-6668882025](https://github.com/RT-C-6668882025) Starred [microsoft/playwright-python](https://github.com/microsoft/playwright-python)
-  > Python version of the Playwright testing and automation library.
-
-### [Robot5](https://github.com/Robot5)
-- 🍴 👤 [Robot5](https://github.com/Robot5) Forked [Robot5/AI-For-Beginners](https://github.com/Robot5/AI-For-Beginners) to [Robot5/AI-For-Beginners](https://github.com/Robot5/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
-
-### [Sesame2](https://github.com/Sesame2)
-- 🌟 👤 [Sesame2](https://github.com/Sesame2) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [Taadas](https://github.com/Taadas)
-- 🌟 👤 [Taadas](https://github.com/Taadas) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [USTC-Liuxinran](https://github.com/USTC-Liuxinran)
-- 🍴 👤 [USTC-Liuxinran](https://github.com/USTC-Liuxinran) Forked [USTC-Liuxinran/autogen](https://github.com/USTC-Liuxinran/autogen) to [USTC-Liuxinran/autogen](https://github.com/USTC-Liuxinran/autogen)
+### [Badredineziadi](https://github.com/Badredineziadi)
+- 🍴 👤 [Badredineziadi](https://github.com/Badredineziadi) Forked [Badredineziadi/autogen](https://github.com/Badredineziadi/autogen) to [Badredineziadi/autogen](https://github.com/Badredineziadi/autogen)
   > A programming framework for agentic AI
 
-### [UnstoppableAkash](https://github.com/UnstoppableAkash)
-- 🌟 👤 [UnstoppableAkash](https://github.com/UnstoppableAkash) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [Zeeshan-23](https://github.com/Zeeshan-23)
-- 🌟 👤 [Zeeshan-23](https://github.com/Zeeshan-23) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [Zxser](https://github.com/Zxser)
-- 🍴 👤 [Zxser](https://github.com/Zxser) Forked [Zxser/RD-Agent](https://github.com/Zxser/RD-Agent) to [Zxser/RD-Agent](https://github.com/Zxser/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-
-### [aaronchenwei](https://github.com/aaronchenwei)
-- 🌟 👤 [aaronchenwei](https://github.com/aaronchenwei) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [alepee](https://github.com/alepee)
-- 🌟 👤 [alepee](https://github.com/alepee) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
-
-### [ark-65](https://github.com/ark-65)
-- 🌟 👤 [ark-65](https://github.com/ark-65) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-
-### [art-n](https://github.com/art-n)
-- 🌟 👤 [art-n](https://github.com/art-n) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [battila7](https://github.com/battila7)
-- 🌟 👤 [battila7](https://github.com/battila7) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [brookl202509](https://github.com/brookl202509)
-- 🌟 👤 [brookl202509](https://github.com/brookl202509) Starred [microsoft/FlexCAD](https://github.com/microsoft/FlexCAD)
-
-### [charryshun](https://github.com/charryshun)
-- 🌟 👤 [charryshun](https://github.com/charryshun) Starred [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
-  > Integrate cutting-edge LLM technology quickly and easily into your apps
-
-### [chen-shixin](https://github.com/chen-shixin)
-- 🍴 👤 [chen-shixin](https://github.com/chen-shixin) Forked [chen-shixin/ai-agents-for-beginners](https://github.com/chen-shixin/ai-agents-for-beginners) to [chen-shixin/ai-agents-for-beginners](https://github.com/chen-shixin/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [connectedagents-ai](https://github.com/connectedagents-ai)
-- 🌟 👤 [connectedagents-ai](https://github.com/connectedagents-ai) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [crazysnowboy](https://github.com/crazysnowboy)
-- 🌟 👤 [crazysnowboy](https://github.com/crazysnowboy) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [demetrous](https://github.com/demetrous)
-- 🌟 👤 [demetrous](https://github.com/demetrous) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [doufuxixi123](https://github.com/doufuxixi123)
-- 🌟 👤 [doufuxixi123](https://github.com/doufuxixi123) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [eliji03](https://github.com/eliji03)
-- 🌟 👤 [eliji03](https://github.com/eliji03) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
-
-### [flamingrickpat](https://github.com/flamingrickpat)
-- 🌟 👤 [flamingrickpat](https://github.com/flamingrickpat) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [gaogan3](https://github.com/gaogan3)
-- 🌟 👤 [gaogan3](https://github.com/gaogan3) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [giszhangyu](https://github.com/giszhangyu)
-- 🍴 👤 [giszhangyu](https://github.com/giszhangyu) Forked [giszhangyu/markitdown](https://github.com/giszhangyu/markitdown) to [giszhangyu/markitdown](https://github.com/giszhangyu/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [gklpern](https://github.com/gklpern)
-- 🌟 👤 [gklpern](https://github.com/gklpern) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [goxia](https://github.com/goxia)
-- 🌟 👤 [goxia](https://github.com/goxia) Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
-  > A collection of familiar, friendly, and modern emoji from Microsoft
-- 🌟 👤 [goxia](https://github.com/goxia) Starred [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
-  > Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-
-### [handhand123](https://github.com/handhand123)
-- 🌟 👤 [handhand123](https://github.com/handhand123) Starred [microsoft/NextCoder](https://github.com/microsoft/NextCoder)
-  > NextCoder: Robust Adaptation of Code LMs to Diverse Code Edits (ICML'25)
-
-### [ignorejjj](https://github.com/ignorejjj)
-- 🌟 👤 [ignorejjj](https://github.com/ignorejjj) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [ilirian29](https://github.com/ilirian29)
-- 🍴 👤 [ilirian29](https://github.com/ilirian29) Forked [ilirian29/gctoolkit](https://github.com/ilirian29/gctoolkit) to [ilirian29/gctoolkit](https://github.com/ilirian29/gctoolkit)
-  > Tool for parsing GC logs
-
-### [is0692vs](https://github.com/is0692vs)
-- 🍴 👤 [is0692vs](https://github.com/is0692vs) Forked [is0692vs/vscode-canvas](https://github.com/is0692vs/vscode-canvas) to [is0692vs/vscode-canvas](https://github.com/is0692vs/vscode-canvas)
-
-### [joshjm](https://github.com/joshjm)
-- 🌟 👤 [joshjm](https://github.com/joshjm) Starred [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
-
-### [kaan-ylmn](https://github.com/kaan-ylmn)
-- 🌟 👤 [kaan-ylmn](https://github.com/kaan-ylmn) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [kang888888](https://github.com/kang888888)
-- 🌟 👤 [kang888888](https://github.com/kang888888) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [kaznak](https://github.com/kaznak)
-- 🌟 👤 [kaznak](https://github.com/kaznak) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
-  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
-
-### [kleinzcy](https://github.com/kleinzcy)
-- 🌟 👤 [kleinzcy](https://github.com/kleinzcy) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [kshern](https://github.com/kshern)
-- 🍴 👤 [kshern](https://github.com/kshern) Forked [kshern/poml](https://github.com/kshern/poml) to [kshern/poml](https://github.com/kshern/poml)
-  > Prompt Orchestration Markup Language
-
-### [marymao](https://github.com/marymao)
-- 🌟 👤 [marymao](https://github.com/marymao) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [masayoshi-k](https://github.com/masayoshi-k)
-- 🍴 👤 [masayoshi-k](https://github.com/masayoshi-k) Forked [masayoshi-k/mcp-for-beginners](https://github.com/masayoshi-k/mcp-for-beginners) to [masayoshi-k/mcp-for-beginners](https://github.com/masayoshi-k/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [mirzaianov](https://github.com/mirzaianov)
-- 🌟 👤 [mirzaianov](https://github.com/mirzaianov) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-- 🌟 👤 [mirzaianov](https://github.com/mirzaianov) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
-- 🌟 👤 [mirzaianov](https://github.com/mirzaianov) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-### [motazosman](https://github.com/motazosman)
-- 🌟 👤 [motazosman](https://github.com/motazosman) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- 🍴 👤 [motazosman](https://github.com/motazosman) Forked [motazosman/Web-Dev-For-Beginners](https://github.com/motazosman/Web-Dev-For-Beginners) to [motazosman/Web-Dev-For-Beginners](https://github.com/motazosman/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [mumumuaguo](https://github.com/mumumuaguo)
-- 🌟 👤 [mumumuaguo](https://github.com/mumumuaguo) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [mysplitifi](https://github.com/mysplitifi)
-- 🌟 👤 [mysplitifi](https://github.com/mysplitifi) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [oanh242832609](https://github.com/oanh242832609)
-- 🌟 👤 [oanh242832609](https://github.com/oanh242832609) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [phola](https://github.com/phola)
-- 🌟 👤 [phola](https://github.com/phola) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [ppicazo](https://github.com/ppicazo)
-- 🌟 👤 [ppicazo](https://github.com/ppicazo) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [r33drichards](https://github.com/r33drichards)
-- 🌟 👤 [r33drichards](https://github.com/r33drichards) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
-  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
-
-### [rc-chuah](https://github.com/rc-chuah)
-- 🍴 👤 [rc-chuah](https://github.com/rc-chuah) Forked [rc-chuah/winget-pkgs](https://github.com/rc-chuah/winget-pkgs) to [rc-chuah/winget-pkgs](https://github.com/rc-chuah/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
-- 🍴 👤 [rc-chuah](https://github.com/rc-chuah) Forked [Design-Enginnering/winget-pkgs](https://github.com/Design-Enginnering/winget-pkgs) to [Design-Enginnering/winget-pkgs](https://github.com/Design-Enginnering/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
-- 🍴 👤 [rc-chuah](https://github.com/rc-chuah) Forked [mmo-org-my/winget-pkgs](https://github.com/mmo-org-my/winget-pkgs) to [mmo-org-my/winget-pkgs](https://github.com/mmo-org-my/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
-- 🍴 👤 [rc-chuah](https://github.com/rc-chuah) Forked [rayner-iot-solutions/winget-pkgs](https://github.com/rayner-iot-solutions/winget-pkgs) to [rayner-iot-solutions/winget-pkgs](https://github.com/rayner-iot-solutions/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
-- 🍴 👤 [rc-chuah](https://github.com/rc-chuah) Forked [RaynerSec/winget-pkgs](https://github.com/RaynerSec/winget-pkgs) to [RaynerSec/winget-pkgs](https://github.com/RaynerSec/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
-
-### [sapnagowda](https://github.com/sapnagowda)
-- 🍴 👤 [sapnagowda](https://github.com/sapnagowda) Forked [sapnagowda/agent-framework1](https://github.com/sapnagowda/agent-framework1) to [sapnagowda/agent-framework1](https://github.com/sapnagowda/agent-framework1)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-
-### [scottt](https://github.com/scottt)
-- 🌟 👤 [scottt](https://github.com/scottt) Starred [microsoft/OpenCLOn12](https://github.com/microsoft/OpenCLOn12)
-  > The OpenCL-on-D3D12 mapping layer
-
-### [seabean1999](https://github.com/seabean1999)
-- 🌟 👤 [seabean1999](https://github.com/seabean1999) Starred [microsoft/UFO](https://github.com/microsoft/UFO)
-  > The Desktop AgentOS.
-
-### [siddiquizaid7642-spec](https://github.com/siddiquizaid7642-spec)
-- 🌟 👤 [siddiquizaid7642-spec](https://github.com/siddiquizaid7642-spec) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [soumayaGit-ai](https://github.com/soumayaGit-ai)
-- 🌟 👤 [soumayaGit-ai](https://github.com/soumayaGit-ai) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-### [stephenchuhk01](https://github.com/stephenchuhk01)
-- 🌟 👤 [stephenchuhk01](https://github.com/stephenchuhk01) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [tayfundaldik13](https://github.com/tayfundaldik13)
-- 🌟 👤 [tayfundaldik13](https://github.com/tayfundaldik13) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [thea793](https://github.com/thea793)
-- 🌟 👤 [thea793](https://github.com/thea793) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-
-### [tonghuaroot](https://github.com/tonghuaroot)
-- 🌟 👤 [tonghuaroot](https://github.com/tonghuaroot) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+### [Banguiskode](https://github.com/Banguiskode)
+- 🌟 👤 [Banguiskode](https://github.com/Banguiskode) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
   > 🪄 Create rich visualizations with AI 
 
-### [tuoguang520-ctrl](https://github.com/tuoguang520-ctrl)
-- 🌟 👤 [tuoguang520-ctrl](https://github.com/tuoguang520-ctrl) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [Breach1301](https://github.com/Breach1301)
+- 🌟 👤 [Breach1301](https://github.com/Breach1301) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
+  > Python port of part of the TypeAgent repo
 
-### [vishim](https://github.com/vishim)
-- 🌟 👤 [vishim](https://github.com/vishim) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [CoffiDev](https://github.com/CoffiDev)
+- 🌟 👤 [CoffiDev](https://github.com/CoffiDev) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
-### [watzel](https://github.com/watzel)
-- 🍴 👤 [watzel](https://github.com/watzel) Forked [watzel/azure-trust-agents](https://github.com/watzel/azure-trust-agents) to [watzel/azure-trust-agents](https://github.com/watzel/azure-trust-agents)
-  > Hands‑on hackathon challenges to build intelligent multi‑agent financial compliance workflows using ...
+### [Devister](https://github.com/Devister)
+- 🌟 👤 [Devister](https://github.com/Devister) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
 
-### [wavewwave20](https://github.com/wavewwave20)
-- 🌟 👤 [wavewwave20](https://github.com/wavewwave20) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [Heliodex](https://github.com/Heliodex)
+- 🌟 👤 [Heliodex](https://github.com/Heliodex) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [Jizhongpeng](https://github.com/Jizhongpeng)
+- 🌟 👤 [Jizhongpeng](https://github.com/Jizhongpeng) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+- 🍴 👤 [Jizhongpeng](https://github.com/Jizhongpeng) Forked [Jizhongpeng/RD-Agent](https://github.com/Jizhongpeng/RD-Agent) to [Jizhongpeng/RD-Agent](https://github.com/Jizhongpeng/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+
+### [July07777](https://github.com/July07777)
+- 🌟 👤 [July07777](https://github.com/July07777) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [wuyongpeng](https://github.com/wuyongpeng)
-- 🌟 👤 [wuyongpeng](https://github.com/wuyongpeng) Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
-  > A research prototype of a human-centered web agent
+### [PJDC2003](https://github.com/PJDC2003)
+- 🌟 👤 [PJDC2003](https://github.com/PJDC2003) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [xyzdot-bot](https://github.com/xyzdot-bot)
-- 🌟 👤 [xyzdot-bot](https://github.com/xyzdot-bot) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [PMagoga](https://github.com/PMagoga)
+- 🌟 👤 [PMagoga](https://github.com/PMagoga) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [RIGHTHOOD](https://github.com/RIGHTHOOD)
+- 🍴 👤 [RIGHTHOOD](https://github.com/RIGHTHOOD) Forked [RIGHTHOOD/CSS-Exchange](https://github.com/RIGHTHOOD/CSS-Exchange) to [RIGHTHOOD/CSS-Exchange](https://github.com/RIGHTHOOD/CSS-Exchange)
+  > Exchange Server support tools and scripts
+
+### [Rw-np](https://github.com/Rw-np)
+- 🍴 👤 [Rw-np](https://github.com/Rw-np) Forked [Rw-np/markitdown](https://github.com/Rw-np/markitdown) to [Rw-np/markitdown](https://github.com/Rw-np/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [Snoeth](https://github.com/Snoeth)
+- 🍴 👤 [Snoeth](https://github.com/Snoeth) Forked [Snoeth/adfsToolbox](https://github.com/Snoeth/adfsToolbox) to [Snoeth/adfsToolbox](https://github.com/Snoeth/adfsToolbox)
+  > A collection of PowerShell scripts for managing AD FS -forked from MS
+
+### [Sput](https://github.com/Sput)
+- 🌟 👤 [Sput](https://github.com/Sput) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [TangYuan96](https://github.com/TangYuan96)
+- 🌟 👤 [TangYuan96](https://github.com/TangYuan96) Starred [microsoft/MoGe](https://github.com/microsoft/MoGe)
+  > [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Op...
+
+### [TimexPeachtree](https://github.com/TimexPeachtree)
+- 🌟 👤 [TimexPeachtree](https://github.com/TimexPeachtree) Starred [microsoft/NaturalLanguageToSQL](https://github.com/microsoft/NaturalLanguageToSQL)
+  > Natural Language (NL) to SQL Query Generation using Phi-3 (Serverless & Local setup) and Azure OpenA...
+
+### [XuHuiWen12138](https://github.com/XuHuiWen12138)
+- 🌟 👤 [XuHuiWen12138](https://github.com/XuHuiWen12138) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [yji0728](https://github.com/yji0728)
-- 🌟 👤 [yji0728](https://github.com/yji0728) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [YuRou999](https://github.com/YuRou999)
+- 🌟 👤 [YuRou999](https://github.com/YuRou999) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Frontier Open-Source Text-to-Speech
+
+### [alessandrosilvestro](https://github.com/alessandrosilvestro)
+- 🌟 👤 [alessandrosilvestro](https://github.com/alessandrosilvestro) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [yue771](https://github.com/yue771)
-- 🌟 👤 [yue771](https://github.com/yue771) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-  > 10 Weeks, 20 Lessons, Data Science for All!
+### [amir-al](https://github.com/amir-al)
+- 🌟 👤 [amir-al](https://github.com/amir-al) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
 
-### [yuzhexing](https://github.com/yuzhexing)
-- 🌟 👤 [yuzhexing](https://github.com/yuzhexing) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [aprasadh](https://github.com/aprasadh)
+- 🌟 👤 [aprasadh](https://github.com/aprasadh) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [daniel-bfo101090](https://github.com/daniel-bfo101090)
+- 🌟 👤 [daniel-bfo101090](https://github.com/daniel-bfo101090) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
+
+### [dotkwame](https://github.com/dotkwame)
+- 🌟 👤 [dotkwame](https://github.com/dotkwame) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [duduodudu](https://github.com/duduodudu)
+- 🌟 👤 [duduodudu](https://github.com/duduodudu) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [edgarnansen](https://github.com/edgarnansen)
+- 🌟 👤 [edgarnansen](https://github.com/edgarnansen) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [ele11en](https://github.com/ele11en)
+- 🌟 👤 [ele11en](https://github.com/ele11en) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+- 🌟 👤 [ele11en](https://github.com/ele11en) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
+
+### [emresekeroglu](https://github.com/emresekeroglu)
+- 🌟 👤 [emresekeroglu](https://github.com/emresekeroglu) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [enricd](https://github.com/enricd)
+- 🌟 👤 [enricd](https://github.com/enricd) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [harelhuang](https://github.com/harelhuang)
+- 🌟 👤 [harelhuang](https://github.com/harelhuang) Starred [microsoft/Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning)
+  > Samples and Tools for Windows ML.
+
+### [heyarviind](https://github.com/heyarviind)
+- 🌟 👤 [heyarviind](https://github.com/heyarviind) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [html5cat](https://github.com/html5cat)
+- 🌟 👤 [html5cat](https://github.com/html5cat) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [hustlescientist](https://github.com/hustlescientist)
+- 🌟 👤 [hustlescientist](https://github.com/hustlescientist) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [ibrahimsabouh](https://github.com/ibrahimsabouh)
+- 🌟 👤 [ibrahimsabouh](https://github.com/ibrahimsabouh) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [intelligenceage](https://github.com/intelligenceage)
+- 🌟 👤 [intelligenceage](https://github.com/intelligenceage) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+
+### [iyedb](https://github.com/iyedb)
+- 🌟 👤 [iyedb](https://github.com/iyedb) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+- 🍴 👤 [iyedb](https://github.com/iyedb) Forked [iyedb/call-center-ai](https://github.com/iyedb/call-center-ai) to [iyedb/call-center-ai](https://github.com/iyedb/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [jiangjieke](https://github.com/jiangjieke)
+- 🌟 👤 [jiangjieke](https://github.com/jiangjieke) Starred [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab)
+  > A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
+
+### [johnkarpn](https://github.com/johnkarpn)
+- 🌟 👤 [johnkarpn](https://github.com/johnkarpn) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [juliabush](https://github.com/juliabush)
+- 🍴 👤 [juliabush](https://github.com/juliabush) Forked [juliabush/vscode](https://github.com/juliabush/vscode) to [juliabush/vscode](https://github.com/juliabush/vscode)
+  > Visual Studio Code
+
+### [justhingspublic-dotcom](https://github.com/justhingspublic-dotcom)
+- 🌟 👤 [justhingspublic-dotcom](https://github.com/justhingspublic-dotcom) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
 
-### [zyld123](https://github.com/zyld123)
-- 🌟 👤 [zyld123](https://github.com/zyld123) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [k70suK3-k06a7ash1](https://github.com/k70suK3-k06a7ash1)
+- 🌟 👤 [k70suK3-k06a7ash1](https://github.com/k70suK3-k06a7ash1) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [kreideprinzxx](https://github.com/kreideprinzxx)
+- 🌟 👤 [kreideprinzxx](https://github.com/kreideprinzxx) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+
+### [lfkoppses](https://github.com/lfkoppses)
+- 🌟 👤 [lfkoppses](https://github.com/lfkoppses) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+  > 🪄 Create rich visualizations with AI 
+
+### [luciano-balmaceda-pleo](https://github.com/luciano-balmaceda-pleo)
+- 🌟 👤 [luciano-balmaceda-pleo](https://github.com/luciano-balmaceda-pleo) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [ludos1978](https://github.com/ludos1978)
+- 🌟 👤 [ludos1978](https://github.com/ludos1978) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [mogu134](https://github.com/mogu134)
+- 🌟 👤 [mogu134](https://github.com/mogu134) Starred [microsoft/LoRA](https://github.com/microsoft/LoRA)
+  > Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+
+### [molixianggu](https://github.com/molixianggu)
+- 🌟 👤 [molixianggu](https://github.com/molixianggu) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+### [namohamadiafzal-art](https://github.com/namohamadiafzal-art)
+- 🌟 👤 [namohamadiafzal-art](https://github.com/namohamadiafzal-art) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [zzxxxl](https://github.com/zzxxxl)
-- 🌟 👤 [zzxxxl](https://github.com/zzxxxl) Starred [microsoft/OpenRCA](https://github.com/microsoft/OpenRCA)
-  > [ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?
+### [naohiro-shibata](https://github.com/naohiro-shibata)
+- 🌟 👤 [naohiro-shibata](https://github.com/naohiro-shibata) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
+
+### [nguyen-thai-nguyen](https://github.com/nguyen-thai-nguyen)
+- 🌟 👤 [nguyen-thai-nguyen](https://github.com/nguyen-thai-nguyen) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+
+### [nulldataset](https://github.com/nulldataset)
+- 🌟 👤 [nulldataset](https://github.com/nulldataset) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [omerimzali](https://github.com/omerimzali)
+- 🌟 👤 [omerimzali](https://github.com/omerimzali) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [ozdemirmelihahmed](https://github.com/ozdemirmelihahmed)
+- 🌟 👤 [ozdemirmelihahmed](https://github.com/ozdemirmelihahmed) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [patkepa](https://github.com/patkepa)
+- 🌟 👤 [patkepa](https://github.com/patkepa) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [patrickjaja](https://github.com/patrickjaja)
+- 🌟 👤 [patrickjaja](https://github.com/patrickjaja) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+  > A programming framework for agentic AI
+- 🌟 👤 [patrickjaja](https://github.com/patrickjaja) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [prabakarviji](https://github.com/prabakarviji)
+- 🌟 👤 [prabakarviji](https://github.com/prabakarviji) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [qiuqiuHaHa](https://github.com/qiuqiuHaHa)
+- 🌟 👤 [qiuqiuHaHa](https://github.com/qiuqiuHaHa) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [qiuwenhuifx](https://github.com/qiuwenhuifx)
+- 🌟 👤 [qiuwenhuifx](https://github.com/qiuwenhuifx) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
+- 🍴 👤 [qiuwenhuifx](https://github.com/qiuwenhuifx) Forked [qiuwenhuifx/mimalloc](https://github.com/qiuwenhuifx/mimalloc) to [qiuwenhuifx/mimalloc](https://github.com/qiuwenhuifx/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
+
+### [qwh2580](https://github.com/qwh2580)
+- 🌟 👤 [qwh2580](https://github.com/qwh2580) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
+- 🍴 👤 [qwh2580](https://github.com/qwh2580) Forked [qwh2580/mimalloc](https://github.com/qwh2580/mimalloc) to [qwh2580/mimalloc](https://github.com/qwh2580/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
+
+### [rickyplc](https://github.com/rickyplc)
+- 🌟 👤 [rickyplc](https://github.com/rickyplc) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [rushi-futu](https://github.com/rushi-futu)
+- 🌟 👤 [rushi-futu](https://github.com/rushi-futu) Starred [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway)
+  > MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-awar...
+
+### [s-balli](https://github.com/s-balli)
+- 🌟 👤 [s-balli](https://github.com/s-balli) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [sam-holder-zava](https://github.com/sam-holder-zava)
+- 🌟 👤 [sam-holder-zava](https://github.com/sam-holder-zava) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [samulenzz](https://github.com/samulenzz)
+- 🌟 👤 [samulenzz](https://github.com/samulenzz) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [say1921](https://github.com/say1921)
+- 🌟 👤 [say1921](https://github.com/say1921) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+
+### [saya-ashen](https://github.com/saya-ashen)
+- 🌟 👤 [saya-ashen](https://github.com/saya-ashen) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [sethakshay09-create](https://github.com/sethakshay09-create)
+- 🌟 👤 [sethakshay09-create](https://github.com/sethakshay09-create) Starred [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler)
+  > Data Wrangler extension for Visual Studio Code
+
+### [shanejs](https://github.com/shanejs)
+- 🌟 👤 [shanejs](https://github.com/shanejs) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
+### [shinytang6](https://github.com/shinytang6)
+- 🌟 👤 [shinytang6](https://github.com/shinytang6) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [shreenivasraibagi8-source](https://github.com/shreenivasraibagi8-source)
+- 🌟 👤 [shreenivasraibagi8-source](https://github.com/shreenivasraibagi8-source) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+
+### [srijanshukla18](https://github.com/srijanshukla18)
+- 🌟 👤 [srijanshukla18](https://github.com/srijanshukla18) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [tataazy](https://github.com/tataazy)
+- 🍴 👤 [tataazy](https://github.com/tataazy) Forked [tataazy/LoRA](https://github.com/tataazy/LoRA) to [tataazy/LoRA](https://github.com/tataazy/LoRA)
+  > Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+
+### [tedat7885-lang](https://github.com/tedat7885-lang)
+- 🍴 👤 [tedat7885-lang](https://github.com/tedat7885-lang) Forked [tedat7885-lang/playwright-mcp](https://github.com/tedat7885-lang/playwright-mcp) to [tedat7885-lang/playwright-mcp](https://github.com/tedat7885-lang/playwright-mcp)
+  > Playwright MCP server
+
+### [tu-nguyen-otsv](https://github.com/tu-nguyen-otsv)
+- 🌟 👤 [tu-nguyen-otsv](https://github.com/tu-nguyen-otsv) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+  > 🪄 Create rich visualizations with AI 
+
+### [wu-yy](https://github.com/wu-yy)
+- 🌟 👤 [wu-yy](https://github.com/wu-yy) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+
+### [wuyongpeng](https://github.com/wuyongpeng)
+- 🌟 👤 [wuyongpeng](https://github.com/wuyongpeng) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
+
+### [wxzwxz131](https://github.com/wxzwxz131)
+- 🌟 👤 [wxzwxz131](https://github.com/wxzwxz131) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [xuejianxinokok](https://github.com/xuejianxinokok)
+- 🌟 👤 [xuejianxinokok](https://github.com/xuejianxinokok) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [zhaopeizhi](https://github.com/zhaopeizhi)
+- 🌟 👤 [zhaopeizhi](https://github.com/zhaopeizhi) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 
 
 ---
-*最后更新于 2025-10-28 08:33:21 UTC*
+*最后更新于 2025-10-28 09:26:36 UTC*
 *历史记录保存在 `archive` 目录中。*
