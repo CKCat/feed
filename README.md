@@ -4,8 +4,14 @@
 
 ## 今日动态
 
-今天还没有符合筛选条件的公开动态。
+### [Ricardo-shuo-liu](https://github.com/Ricardo-shuo-liu)
+- 🌟 👤 [Ricardo-shuo-liu](https://github.com/Ricardo-shuo-liu) Starred [microsoft/FLAML](https://github.com/microsoft/FLAML)
+  > A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
+
+### [rayone](https://github.com/rayone)
+- 🍴 👤 [rayone](https://github.com/rayone) Forked [rayone/aitour26-WRK540-unlock-your-agents-potential-with-model-context-protocol](https://github.com/rayone/aitour26-WRK540-unlock-your-agents-potential-with-model-context-protocol) to [rayone/aitour26-WRK540-unlock-your-agents-potential-with-model-context-protocol](https://github.com/rayone/aitour26-WRK540-unlock-your-agents-potential-with-model-context-protocol)
+
 
 ---
-*最后更新于 2025-10-28 03:53:40 UTC*
+*最后更新于 2025-10-28 04:28:25 UTC*
 *历史记录保存在 `archive` 目录中。*
