@@ -4,77 +4,49 @@
 
 ## 今日动态
 
-### [ArgSha](https://github.com/ArgSha)
-- 🍴 👤 [ArgSha](https://github.com/ArgSha) Forked [ArgSha/pxt-adafruit](https://github.com/ArgSha/pxt-adafruit) to [ArgSha/pxt-adafruit](https://github.com/ArgSha/pxt-adafruit)
-  > Microsoft MakeCode editor for Adafruit Circuit Playground Express
+### [Love-sosa](https://github.com/Love-sosa)
+- 🌟 👤 [Love-sosa](https://github.com/Love-sosa) Starred [microsoft/Security-101](https://github.com/microsoft/Security-101)
+  > 8 Lessons, Kick-start Your Cybersecurity Learning.
 
-### [Hubi43](https://github.com/Hubi43)
-- 🍴 👤 [Hubi43](https://github.com/Hubi43) Forked [Hubi43/ai-agents-for-beginners](https://github.com/Hubi43/ai-agents-for-beginners) to [Hubi43/ai-agents-for-beginners](https://github.com/Hubi43/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [cloupid](https://github.com/cloupid)
+- 🌟 👤 [cloupid](https://github.com/cloupid) Starred [microsoft/MHA](https://github.com/microsoft/MHA)
+  > Message Header Analyzer Add-in For Outlook
 
-### [TorKaHD](https://github.com/TorKaHD)
-- 🌟 👤 [TorKaHD](https://github.com/TorKaHD) Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-  > WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerSh...
-
-### [Veskel](https://github.com/Veskel)
-- 🌟 👤 [Veskel](https://github.com/Veskel) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- 🌟 👤 [Veskel](https://github.com/Veskel) Starred [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
-  > Five lessons, learn how to really apply AI to your .NET Applications
-
-### [abarhub](https://github.com/abarhub)
-- 🌟 👤 [abarhub](https://github.com/abarhub) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [burkostya](https://github.com/burkostya)
-- 🌟 👤 [burkostya](https://github.com/burkostya) Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
-  > [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compre...
-
-### [hbothra1](https://github.com/hbothra1)
-- 🌟 👤 [hbothra1](https://github.com/hbothra1) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [janeellg](https://github.com/janeellg)
-- 🌟 👤 [janeellg](https://github.com/janeellg) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [jimmyjordanSWE](https://github.com/jimmyjordanSWE)
-- 🌟 👤 [jimmyjordanSWE](https://github.com/jimmyjordanSWE) Starred [microsoft/edit](https://github.com/microsoft/edit)
+### [dhruvnnd](https://github.com/dhruvnnd)
+- 🌟 👤 [dhruvnnd](https://github.com/dhruvnnd) Starred [microsoft/edit](https://github.com/microsoft/edit)
   > We all edit.
 
-### [mitchellkolb](https://github.com/mitchellkolb)
-- 🌟 👤 [mitchellkolb](https://github.com/mitchellkolb) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+### [greentrack](https://github.com/greentrack)
+- 🌟 👤 [greentrack](https://github.com/greentrack) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
 
-### [moabdellahch-netizen](https://github.com/moabdellahch-netizen)
-- 🌟 👤 [moabdellahch-netizen](https://github.com/moabdellahch-netizen) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [jgentes](https://github.com/jgentes)
+- 🌟 👤 [jgentes](https://github.com/jgentes) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [redpanda321](https://github.com/redpanda321)
-- 🌟 👤 [redpanda321](https://github.com/redpanda321) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-
-### [reyrocks](https://github.com/reyrocks)
-- 🌟 👤 [reyrocks](https://github.com/reyrocks) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
-
-### [rockcdr](https://github.com/rockcdr)
-- 🌟 👤 [rockcdr](https://github.com/rockcdr) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-  > Visual Studio Code
-
-### [sachaa](https://github.com/sachaa)
-- 🌟 👤 [sachaa](https://github.com/sachaa) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [joarder](https://github.com/joarder)
+- 🌟 👤 [joarder](https://github.com/joarder) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [trevor-utilityapi](https://github.com/trevor-utilityapi)
-- 🌟 👤 [trevor-utilityapi](https://github.com/trevor-utilityapi) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
-  > Static Type Checker for Python
-
-### [user01010011](https://github.com/user01010011)
-- 🌟 👤 [user01010011](https://github.com/user01010011) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [nkomo2197-maker](https://github.com/nkomo2197-maker)
+- 🌟 👤 [nkomo2197-maker](https://github.com/nkomo2197-maker) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- 🌟 👤 [nkomo2197-maker](https://github.com/nkomo2197-maker) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [nooredutechcom-debug](https://github.com/nooredutechcom-debug)
+- 🍴 👤 [nooredutechcom-debug](https://github.com/nooredutechcom-debug) Forked [nooredutechcom-debug/call-center-ai](https://github.com/nooredutechcom-debug/call-center-ai) to [nooredutechcom-debug/call-center-ai](https://github.com/nooredutechcom-debug/call-center-ai)
+  > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+
+### [sdrakulich](https://github.com/sdrakulich)
+- 🌟 👤 [sdrakulich](https://github.com/sdrakulich) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [tschinagl](https://github.com/tschinagl)
+- 🌟 👤 [tschinagl](https://github.com/tschinagl) Starred [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+  > Integrate cutting-edge LLM technology quickly and easily into your apps
 
 
 ---
-*最后更新于 2025-10-29 20:27:43 UTC*
+*最后更新于 2025-10-29 20:45:25 UTC*
 *历史记录保存在 `archive` 目录中。*
