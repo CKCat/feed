@@ -4,111 +4,77 @@
 
 ## 今日动态
 
-### [7heMech](https://github.com/7heMech)
-- 🌟 👤 [7heMech](https://github.com/7heMech) Starred [microsoft/edit](https://github.com/microsoft/edit)
-  > We all edit.
-
-### [Elspan](https://github.com/Elspan)
-- 🌟 👤 [Elspan](https://github.com/Elspan) Starred [microsoft/edit](https://github.com/microsoft/edit)
-  > We all edit.
-
-### [FUTRFUNC](https://github.com/FUTRFUNC)
-- 🌟 👤 [FUTRFUNC](https://github.com/FUTRFUNC) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [ArshiaIlaty](https://github.com/ArshiaIlaty)
+- 🌟 👤 [ArshiaIlaty](https://github.com/ArshiaIlaty) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [Iyk-Tech22](https://github.com/Iyk-Tech22)
-- 🍴 👤 [Iyk-Tech22](https://github.com/Iyk-Tech22) Forked [Iyk-Tech22/ai-agents-for-beginners](https://github.com/Iyk-Tech22/ai-agents-for-beginners) to [Iyk-Tech22/ai-agents-for-beginners](https://github.com/Iyk-Tech22/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
-
-### [Luna-Grace](https://github.com/Luna-Grace)
-- 🍴 👤 [Luna-Grace](https://github.com/Luna-Grace) Forked [Luna-Grace/winget-pkgs](https://github.com/Luna-Grace/winget-pkgs) to [Luna-Grace/winget-pkgs](https://github.com/Luna-Grace/winget-pkgs)
-  > The Microsoft community Windows Package Manager manifest repository
-
-### [Remeraldb](https://github.com/Remeraldb)
-- 🌟 👤 [Remeraldb](https://github.com/Remeraldb) Starred [microsoft/edit](https://github.com/microsoft/edit)
+### [EnderNon](https://github.com/EnderNon)
+- 🌟 👤 [EnderNon](https://github.com/EnderNon) Starred [microsoft/edit](https://github.com/microsoft/edit)
   > We all edit.
 
-### [RiZuX8](https://github.com/RiZuX8)
-- 🌟 👤 [RiZuX8](https://github.com/RiZuX8) Starred [microsoft/edit](https://github.com/microsoft/edit)
-  > We all edit.
+### [EsraaAkram](https://github.com/EsraaAkram)
+- 🌟 👤 [EsraaAkram](https://github.com/EsraaAkram) Starred [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps)
+  > PyTorch Wildlife: a Collaborative Deep Learning Framework for Conservation.
 
-### [alexanderkasten](https://github.com/alexanderkasten)
-- 🌟 👤 [alexanderkasten](https://github.com/alexanderkasten) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- 🌟 👤 [alexanderkasten](https://github.com/alexanderkasten) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [G0gu](https://github.com/G0gu)
+- 🌟 👤 [G0gu](https://github.com/G0gu) Starred [quarkslab/proxyblob](https://github.com/quarkslab/proxyblob)
+  > SOCKS5 proxy tool that uses Azure Blob Storage as a means of communication.
+
+### [Illgot](https://github.com/Illgot)
+- 🌟 👤 [Illgot](https://github.com/Illgot) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [bartoszgolebiowski](https://github.com/bartoszgolebiowski)
-- 🌟 👤 [bartoszgolebiowski](https://github.com/bartoszgolebiowski) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
-  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
-
-### [chelex-tech](https://github.com/chelex-tech)
-- 🌟 👤 [chelex-tech](https://github.com/chelex-tech) Starred [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine)
-  > A library for helping developers craft prompts for Large Language Models
-
-### [czd](https://github.com/czd)
-- 🌟 👤 [czd](https://github.com/czd) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
-
-### [dainank](https://github.com/dainank)
-- 🌟 👤 [dainank](https://github.com/dainank) Starred [microsoft/edit](https://github.com/microsoft/edit)
-  > We all edit.
-
-### [fghjjggghjkgxd-afk](https://github.com/fghjjggghjkgxd-afk)
-- 🌟 👤 [fghjjggghjkgxd-afk](https://github.com/fghjjggghjkgxd-afk) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [JENIFFER-B4DU](https://github.com/JENIFFER-B4DU)
+- 🌟 👤 [JENIFFER-B4DU](https://github.com/JENIFFER-B4DU) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [hsheth2](https://github.com/hsheth2)
-- 🌟 👤 [hsheth2](https://github.com/hsheth2) Starred [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
-  > Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Sp...
+### [LanceTrahan](https://github.com/LanceTrahan)
+- 🌟 👤 [LanceTrahan](https://github.com/LanceTrahan) Starred [microsoft/Agents](https://github.com/microsoft/Agents)
+  > The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platfor...
 
-### [mijorus](https://github.com/mijorus)
-- 🌟 👤 [mijorus](https://github.com/mijorus) Starred [microsoft/edit](https://github.com/microsoft/edit)
+### [PereViader](https://github.com/PereViader)
+- 🌟 👤 [PereViader](https://github.com/PereViader) Starred [microsoft/edit](https://github.com/microsoft/edit)
   > We all edit.
 
-### [moxer-mmh](https://github.com/moxer-mmh)
-- 🌟 👤 [moxer-mmh](https://github.com/moxer-mmh) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [Samirbourayeb](https://github.com/Samirbourayeb)
+- 🌟 👤 [Samirbourayeb](https://github.com/Samirbourayeb) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- 🌟 👤 [Samirbourayeb](https://github.com/Samirbourayeb) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
-### [muhammederbay10](https://github.com/muhammederbay10)
-- 🌟 👤 [muhammederbay10](https://github.com/muhammederbay10) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+### [Tetrapak0](https://github.com/Tetrapak0)
+- 🌟 👤 [Tetrapak0](https://github.com/Tetrapak0) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+
+### [clarenceb](https://github.com/clarenceb)
+- 🌟 👤 [clarenceb](https://github.com/clarenceb) Starred [microsoft/CAIRA](https://github.com/microsoft/CAIRA)
+  > Composable AI Reference Architecture (CAIRA)
+
+### [higa4yama3](https://github.com/higa4yama3)
+- 🍴 👤 [higa4yama3](https://github.com/higa4yama3) Forked [higa4yama3/Web-Dev-For-Beginners](https://github.com/higa4yama3/Web-Dev-For-Beginners) to [higa4yama3/Web-Dev-For-Beginners](https://github.com/higa4yama3/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [j0n777](https://github.com/j0n777)
+- 🌟 👤 [j0n777](https://github.com/j0n777) Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
   > Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
 
-### [ntorikwameagyen-dev](https://github.com/ntorikwameagyen-dev)
-- 🌟 👤 [ntorikwameagyen-dev](https://github.com/ntorikwameagyen-dev) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+### [jeffwmartinez](https://github.com/jeffwmartinez)
+- 🍴 👤 [jeffwmartinez](https://github.com/jeffwmartinez) Forked [jeffwmartinez/azure-container-apps](https://github.com/jeffwmartinez/azure-container-apps) to [jeffwmartinez/azure-container-apps](https://github.com/jeffwmartinez/azure-container-apps)
+  > Roadmap and issues for Azure Container Apps
 
-### [prettilame](https://github.com/prettilame)
-- 🌟 👤 [prettilame](https://github.com/prettilame) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-  > 12 Weeks, 24 Lessons, AI for All!
+### [jtracey93](https://github.com/jtracey93)
+- 🌟 👤 [jtracey93](https://github.com/jtracey93) Starred [microsoft/CAIRA](https://github.com/microsoft/CAIRA)
+  > Composable AI Reference Architecture (CAIRA)
 
-### [reanaltusiime-pixel](https://github.com/reanaltusiime-pixel)
-- 🌟 👤 [reanaltusiime-pixel](https://github.com/reanaltusiime-pixel) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- 🌟 👤 [reanaltusiime-pixel](https://github.com/reanaltusiime-pixel) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [ktdiedrich](https://github.com/ktdiedrich)
+- 🍴 👤 [ktdiedrich](https://github.com/ktdiedrich) Forked [ktdiedrich/generative-ai-for-beginners](https://github.com/ktdiedrich/generative-ai-for-beginners) to [ktdiedrich/generative-ai-for-beginners](https://github.com/ktdiedrich/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [psnwd](https://github.com/psnwd)
+- 🌟 👤 [psnwd](https://github.com/psnwd) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
-
-### [sudivate](https://github.com/sudivate)
-- 🍴 👤 [sudivate](https://github.com/sudivate) Forked [sudivate/AzureMonitorCommunity](https://github.com/sudivate/AzureMonitorCommunity) to [sudivate/AzureMonitorCommunity](https://github.com/sudivate/AzureMonitorCommunity)
-  > An open repo for Azure Monitor queries, workbooks, alerts and more
-
-### [vmik9660-eng](https://github.com/vmik9660-eng)
-- 🍴 👤 [vmik9660-eng](https://github.com/vmik9660-eng) Forked [vmik9660-eng/AzUrlShortener](https://github.com/vmik9660-eng/AzUrlShortener) to [vmik9660-eng/AzUrlShortener](https://github.com/vmik9660-eng/AzUrlShortener)
-  > An simple and easy Url Shortener
-
-### [vsandhu](https://github.com/vsandhu)
-- 🌟 👤 [vsandhu](https://github.com/vsandhu) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [wwwbgcborhan12f-bot](https://github.com/wwwbgcborhan12f-bot)
-- 🌟 👤 [wwwbgcborhan12f-bot](https://github.com/wwwbgcborhan12f-bot) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [youssefelzedy](https://github.com/youssefelzedy)
-- 🍴 👤 [youssefelzedy](https://github.com/youssefelzedy) Forked [youssefelzedy/vscode](https://github.com/youssefelzedy/vscode) to [youssefelzedy/vscode](https://github.com/youssefelzedy/vscode)
-  > Visual Studio Code
 
 
 ---
-*最后更新于 2025-10-29 21:22:13 UTC*
+*最后更新于 2025-10-29 21:40:43 UTC*
 *历史记录保存在 `archive` 目录中。*
