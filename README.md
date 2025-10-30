@@ -4,144 +4,163 @@
 
 ## 今日动态
 
-### [216kedi](https://github.com/216kedi)
-- 🌟 👤 [216kedi](https://github.com/216kedi) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
+### [00ty](https://github.com/00ty)
+- 🌟 👤 [00ty](https://github.com/00ty) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
 
-### [Arlecchino745](https://github.com/Arlecchino745)
-- 🌟 👤 [Arlecchino745](https://github.com/Arlecchino745) Starred [microsoft/autogen](https://github.com/microsoft/autogen)
-  > A programming framework for agentic AI
+### [0xling](https://github.com/0xling)
+- 🌟 👤 [0xling](https://github.com/0xling) Starred [quarkslab/qbindiff](https://github.com/quarkslab/qbindiff)
+  > Quarkslab Bindiffer but not only !
 
-### [Asra05](https://github.com/Asra05)
-- 🌟 👤 [Asra05](https://github.com/Asra05) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
-  > Official inference framework for 1-bit LLMs
+### [AmberZhangMeow](https://github.com/AmberZhangMeow)
+- 🌟 👤 [AmberZhangMeow](https://github.com/AmberZhangMeow) Starred [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab)
+  > A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
 
-### [Cyrus-Hao](https://github.com/Cyrus-Hao)
-- 🌟 👤 [Cyrus-Hao](https://github.com/Cyrus-Hao) Starred [microsoft/MoGe](https://github.com/microsoft/MoGe)
-  > [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Op...
+### [BenjaminVigreux](https://github.com/BenjaminVigreux)
+- 🌟 👤 [BenjaminVigreux](https://github.com/BenjaminVigreux) Starred [microsoft/Earth-Copilot](https://github.com/microsoft/Earth-Copilot)
+  > An AI powered geospatial application that allows you to explore and visualize Earth science data usi...
 
-### [ID-JA](https://github.com/ID-JA)
-- 🌟 👤 [ID-JA](https://github.com/ID-JA) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [LikeScythe](https://github.com/LikeScythe)
-- 🌟 👤 [LikeScythe](https://github.com/LikeScythe) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [Bruder27](https://github.com/Bruder27)
+- 🌟 👤 [Bruder27](https://github.com/Bruder27) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [MattisAbrahamsson](https://github.com/MattisAbrahamsson)
-- 🌟 👤 [MattisAbrahamsson](https://github.com/MattisAbrahamsson) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-  > Staging repo for development of native port of TypeScript
-
-### [MrSrc768](https://github.com/MrSrc768)
-- 🌟 👤 [MrSrc768](https://github.com/MrSrc768) Starred [microsoft/DaVinci](https://github.com/microsoft/DaVinci)
-  > DaVinci toolkit aims at high-quality multimedia content creation which plays an important role in mo...
-
-### [OneeMe](https://github.com/OneeMe)
-- 🌟 👤 [OneeMe](https://github.com/OneeMe) Starred [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
-  > A simple screen parsing tool towards pure vision based GUI agent
-
-### [Sobiarana81](https://github.com/Sobiarana81)
-- 🍴 👤 [Sobiarana81](https://github.com/Sobiarana81) Forked [Sobiarana81/generative-ai-for-beginners](https://github.com/Sobiarana81/generative-ai-for-beginners) to [Sobiarana81/generative-ai-for-beginners](https://github.com/Sobiarana81/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [StanleyIfeanyi4](https://github.com/StanleyIfeanyi4)
-- 🌟 👤 [StanleyIfeanyi4](https://github.com/StanleyIfeanyi4) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [Enkidu-246](https://github.com/Enkidu-246)
+- 🌟 👤 [Enkidu-246](https://github.com/Enkidu-246) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [Willszs](https://github.com/Willszs)
-- 🌟 👤 [Willszs](https://github.com/Willszs) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- 🍴 👤 [Willszs](https://github.com/Willszs) Forked [Willszs/Web-Dev-For-Beginners](https://github.com/Willszs/Web-Dev-For-Beginners) to [Willszs/Web-Dev-For-Beginners](https://github.com/Willszs/Web-Dev-For-Beginners)
+### [Garychamp](https://github.com/Garychamp)
+- 🌟 👤 [Garychamp](https://github.com/Garychamp) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [ZKunZhang](https://github.com/ZKunZhang)
-- 🌟 👤 [ZKunZhang](https://github.com/ZKunZhang) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [apipol-doungphian](https://github.com/apipol-doungphian)
-- 🌟 👤 [apipol-doungphian](https://github.com/apipol-doungphian) Starred [microsoft/causica](https://github.com/microsoft/causica)
-
-### [burstknight](https://github.com/burstknight)
-- 🌟 👤 [burstknight](https://github.com/burstknight) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [edoardosarri24](https://github.com/edoardosarri24)
-- 🌟 👤 [edoardosarri24](https://github.com/edoardosarri24) Starred [microsoft/poml](https://github.com/microsoft/poml)
-  > Prompt Orchestration Markup Language
-
-### [hasanabs](https://github.com/hasanabs)
-- 🌟 👤 [hasanabs](https://github.com/hasanabs) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-  > C++ Library Manager for Windows, Linux, and MacOS
-
-### [hen-gold](https://github.com/hen-gold)
-- 🍴 👤 [hen-gold](https://github.com/hen-gold) Forked [hen-gold/generative-ai-for-beginners](https://github.com/hen-gold/generative-ai-for-beginners) to [hen-gold/generative-ai-for-beginners](https://github.com/hen-gold/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [k-horita-wown](https://github.com/k-horita-wown)
-- 🍴 👤 [k-horita-wown](https://github.com/k-horita-wown) Forked [k-horita-wown/Web-Dev-For-Beginners](https://github.com/k-horita-wown/Web-Dev-For-Beginners) to [k-horita-wown/Web-Dev-For-Beginners](https://github.com/k-horita-wown/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [kne-zyres](https://github.com/kne-zyres)
-- 🍴 👤 [kne-zyres](https://github.com/kne-zyres) Forked [zyresio/playwright](https://github.com/zyresio/playwright) to [zyresio/playwright](https://github.com/zyresio/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [matthansen0](https://github.com/matthansen0)
-- 🌟 👤 [matthansen0](https://github.com/matthansen0) Starred [microsoft/CAIRA](https://github.com/microsoft/CAIRA)
-  > Composable AI Reference Architecture (CAIRA)
-
-### [naplon74](https://github.com/naplon74)
-- 🍴 👤 [naplon74](https://github.com/naplon74) Forked [naplon74/winget-pkgs](https://github.com/naplon74/winget-pkgs) to [naplon74/winget-pkgs](https://github.com/naplon74/winget-pkgs)
+### [Hakanbaban53](https://github.com/Hakanbaban53)
+- 🍴 👤 [Hakanbaban53](https://github.com/Hakanbaban53) Forked [Hakanbaban53/winget-pkgs](https://github.com/Hakanbaban53/winget-pkgs) to [Hakanbaban53/winget-pkgs](https://github.com/Hakanbaban53/winget-pkgs)
   > The Microsoft community Windows Package Manager manifest repository
 
-### [nrudakov](https://github.com/nrudakov)
-- 🌟 👤 [nrudakov](https://github.com/nrudakov) Starred [microsoft/edit](https://github.com/microsoft/edit)
+### [Inasayang](https://github.com/Inasayang)
+- 🌟 👤 [Inasayang](https://github.com/Inasayang) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+  > A browser based code editor
+
+### [Kpandey610](https://github.com/Kpandey610)
+- 🌟 👤 [Kpandey610](https://github.com/Kpandey610) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+
+### [Lollyday](https://github.com/Lollyday)
+- 🌟 👤 [Lollyday](https://github.com/Lollyday) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [LucianoLins2005](https://github.com/LucianoLins2005)
+- 🍴 👤 [LucianoLins2005](https://github.com/LucianoLins2005) Forked [LucianoLins2005/agent-lightning](https://github.com/LucianoLins2005/agent-lightning) to [LucianoLins2005/agent-lightning](https://github.com/LucianoLins2005/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [MaBo1982](https://github.com/MaBo1982)
+- 🍴 👤 [MaBo1982](https://github.com/MaBo1982) Forked [MaBo1982/vscode](https://github.com/MaBo1982/vscode) to [MaBo1982/vscode](https://github.com/MaBo1982/vscode)
+  > Visual Studio Code
+
+### [Mcperson7](https://github.com/Mcperson7)
+- 🍴 👤 [Mcperson7](https://github.com/Mcperson7) Forked [Mcperson7/ML-For-Beginners](https://github.com/Mcperson7/ML-For-Beginners) to [Mcperson7/ML-For-Beginners](https://github.com/Mcperson7/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+### [NSR2519s](https://github.com/NSR2519s)
+- 🌟 👤 [NSR2519s](https://github.com/NSR2519s) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [Pinho99](https://github.com/Pinho99)
+- 🌟 👤 [Pinho99](https://github.com/Pinho99) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [SaaranshDx](https://github.com/SaaranshDx)
+- 🌟 👤 [SaaranshDx](https://github.com/SaaranshDx) Starred [microsoft/edit](https://github.com/microsoft/edit)
   > We all edit.
 
-### [olivermontes](https://github.com/olivermontes)
-- 🌟 👤 [olivermontes](https://github.com/olivermontes) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [SalimM21](https://github.com/SalimM21)
+- 🌟 👤 [SalimM21](https://github.com/SalimM21) Starred [microsoft/SynapseML](https://github.com/microsoft/SynapseML)
+  > Simple and Distributed Machine Learning
+- 🌟 👤 [SalimM21](https://github.com/SalimM21) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+### [Savage2888](https://github.com/Savage2888)
+- 🌟 👤 [Savage2888](https://github.com/Savage2888) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- 🌟 👤 [Savage2888](https://github.com/Savage2888) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [queochexe](https://github.com/queochexe)
-- 🍴 👤 [queochexe](https://github.com/queochexe) Forked [queochexe/playwright-mcp](https://github.com/queochexe/playwright-mcp) to [queochexe/playwright-mcp](https://github.com/queochexe/playwright-mcp)
-  > Playwright MCP server
+### [Skylar92](https://github.com/Skylar92)
+- 🍴 👤 [Skylar92](https://github.com/Skylar92) Forked [Skylar92/generative-ai-for-beginners](https://github.com/Skylar92/generative-ai-for-beginners) to [Skylar92/generative-ai-for-beginners](https://github.com/Skylar92/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [rationaleakashr-web](https://github.com/rationaleakashr-web)
-- 🍴 👤 [rationaleakashr-web](https://github.com/rationaleakashr-web) Forked [rationaleakashr-web/VibeVoice](https://github.com/rationaleakashr-web/VibeVoice) to [rationaleakashr-web/VibeVoice](https://github.com/rationaleakashr-web/VibeVoice)
-  > Frontier Open-Source Text-to-Speech
+### [Trangle](https://github.com/Trangle)
+- 🌟 👤 [Trangle](https://github.com/Trangle) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
-### [raymondsamalo](https://github.com/raymondsamalo)
-- 🌟 👤 [raymondsamalo](https://github.com/raymondsamalo) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+### [Yangarang](https://github.com/Yangarang)
+- 🌟 👤 [Yangarang](https://github.com/Yangarang) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [alessiodecastro](https://github.com/alessiodecastro)
+- 🍴 👤 [alessiodecastro](https://github.com/alessiodecastro) Forked [alessiodecastro/ai-agents-for-beginners](https://github.com/alessiodecastro/ai-agents-for-beginners) to [alessiodecastro/ai-agents-for-beginners](https://github.com/alessiodecastro/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+
+### [asilix2025](https://github.com/asilix2025)
+- 🍴 👤 [asilix2025](https://github.com/asilix2025) Forked [asilix2025/autogen](https://github.com/asilix2025/autogen) to [asilix2025/autogen](https://github.com/asilix2025/autogen)
+  > A programming framework for agentic AI
+
+### [bikashdaga](https://github.com/bikashdaga)
+- 🍴 👤 [bikashdaga](https://github.com/bikashdaga) Forked [bikashdaga/generative-ai-for-beginners](https://github.com/bikashdaga/generative-ai-for-beginners) to [bikashdaga/generative-ai-for-beginners](https://github.com/bikashdaga/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [binotes-code](https://github.com/binotes-code)
+- 🍴 👤 [binotes-code](https://github.com/binotes-code) Forked [binotes-code/Data-Science-For-Beginners](https://github.com/binotes-code/Data-Science-For-Beginners) to [binotes-code/Data-Science-For-Beginners](https://github.com/binotes-code/Data-Science-For-Beginners)
+  > 10 Weeks, 20 Lessons, Data Science for All!
+
+### [desainik](https://github.com/desainik)
+- 🌟 👤 [desainik](https://github.com/desainik) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+
+### [err931](https://github.com/err931)
+- 🌟 👤 [err931](https://github.com/err931) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
+
+### [goishin777](https://github.com/goishin777)
+- 🌟 👤 [goishin777](https://github.com/goishin777) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [leotaku](https://github.com/leotaku)
+- 🌟 👤 [leotaku](https://github.com/leotaku) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
 
-### [roshan1595](https://github.com/roshan1595)
-- 🌟 👤 [roshan1595](https://github.com/roshan1595) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
+### [lshAlgorithm](https://github.com/lshAlgorithm)
+- 🌟 👤 [lshAlgorithm](https://github.com/lshAlgorithm) Starred [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)
+  > LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 
-### [shakerkamal](https://github.com/shakerkamal)
-- 🍴 👤 [shakerkamal](https://github.com/shakerkamal) Forked [shakerkamal/ai-agents-for-beginners](https://github.com/shakerkamal/ai-agents-for-beginners) to [shakerkamal/ai-agents-for-beginners](https://github.com/shakerkamal/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [marti1125](https://github.com/marti1125)
+- 🌟 👤 [marti1125](https://github.com/marti1125) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
 
-### [sheldoncross](https://github.com/sheldoncross)
-- 🌟 👤 [sheldoncross](https://github.com/sheldoncross) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [methbkts](https://github.com/methbkts)
+- 🌟 👤 [methbkts](https://github.com/methbkts) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+  > Staging repo for development of native port of TypeScript
 
-### [shishen03](https://github.com/shishen03)
-- 🌟 👤 [shishen03](https://github.com/shishen03) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+### [modelpatternlooks-bot](https://github.com/modelpatternlooks-bot)
+- 🌟 👤 [modelpatternlooks-bot](https://github.com/modelpatternlooks-bot) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [skkkumar](https://github.com/skkkumar)
-- 🍴 👤 [skkkumar](https://github.com/skkkumar) Forked [skkkumar/TRELLIS](https://github.com/skkkumar/TRELLIS) to [skkkumar/TRELLIS](https://github.com/skkkumar/TRELLIS)
-  > Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Sp...
+### [promwizy911](https://github.com/promwizy911)
+- 🍴 👤 [promwizy911](https://github.com/promwizy911) Forked [promwizy911/generative-ai-for-beginners](https://github.com/promwizy911/generative-ai-for-beginners) to [promwizy911/generative-ai-for-beginners](https://github.com/promwizy911/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
 
-### [thatsnegar](https://github.com/thatsnegar)
-- 🍴 👤 [thatsnegar](https://github.com/thatsnegar) Forked [thatsnegar/ai-agents-for-beginners](https://github.com/thatsnegar/ai-agents-for-beginners) to [thatsnegar/ai-agents-for-beginners](https://github.com/thatsnegar/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [sevenlabsuk](https://github.com/sevenlabsuk)
+- 🌟 👤 [sevenlabsuk](https://github.com/sevenlabsuk) Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
+  > A research prototype of a human-centered web agent
 
-### [zhaoyongchao1](https://github.com/zhaoyongchao1)
-- 🌟 👤 [zhaoyongchao1](https://github.com/zhaoyongchao1) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [tanguyRenaudieDatadog](https://github.com/tanguyRenaudieDatadog)
+- 🌟 👤 [tanguyRenaudieDatadog](https://github.com/tanguyRenaudieDatadog) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
+
+### [txOdyssey](https://github.com/txOdyssey)
+- 🌟 👤 [txOdyssey](https://github.com/txOdyssey) Starred [microsoft/MoGe](https://github.com/microsoft/MoGe)
+  > [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Op...
 
 
 ---
-*最后更新于 2025-10-30 10:47:03 UTC*
+*最后更新于 2025-10-30 11:20:19 UTC*
 *历史记录保存在 `archive` 目录中。*
