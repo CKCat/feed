@@ -4,50 +4,59 @@
 
 ## 今日动态
 
-### [HibiscusRodent](https://github.com/HibiscusRodent)
-- 🌟 👤 [HibiscusRodent](https://github.com/HibiscusRodent) Starred [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
-  > A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework bas...
+### [Hasnat005](https://github.com/Hasnat005)
+- 🌟 👤 [Hasnat005](https://github.com/Hasnat005) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
-### [bandieta](https://github.com/bandieta)
-- 🍴 👤 [bandieta](https://github.com/bandieta) Forked [bandieta/ai-agents-for-beginners](https://github.com/bandieta/ai-agents-for-beginners) to [bandieta/ai-agents-for-beginners](https://github.com/bandieta/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [KinGBLACK1793](https://github.com/KinGBLACK1793)
+- 🌟 👤 [KinGBLACK1793](https://github.com/KinGBLACK1793) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
 
-### [cholmbro](https://github.com/cholmbro)
-- 🌟 👤 [cholmbro](https://github.com/cholmbro) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [Mamonaminyar](https://github.com/Mamonaminyar)
+- 🍴 👤 [Mamonaminyar](https://github.com/Mamonaminyar) Forked [Mamonaminyar/markitdown](https://github.com/Mamonaminyar/markitdown) to [Mamonaminyar/markitdown](https://github.com/Mamonaminyar/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [YounJeh](https://github.com/YounJeh)
+- 🌟 👤 [YounJeh](https://github.com/YounJeh) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [cty198](https://github.com/cty198)
-- 🌟 👤 [cty198](https://github.com/cty198) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+### [akashtalole](https://github.com/akashtalole)
+- 🌟 👤 [akashtalole](https://github.com/akashtalole) Starred [microsoft/aitour26-BRK431-advanced-agent-development-with-copilot-studio](https://github.com/microsoft/aitour26-BRK431-advanced-agent-development-with-copilot-studio)
+- 🍴 👤 [akashtalole](https://github.com/akashtalole) Forked [akashtalole/aitour26-BRK431-advanced-agent-development-with-copilot-studio](https://github.com/akashtalole/aitour26-BRK431-advanced-agent-development-with-copilot-studio) to [akashtalole/aitour26-BRK431-advanced-agent-development-with-copilot-studio](https://github.com/akashtalole/aitour26-BRK431-advanced-agent-development-with-copilot-studio)
 
-### [dbalabka](https://github.com/dbalabka)
-- 🌟 👤 [dbalabka](https://github.com/dbalabka) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+### [chcavignx](https://github.com/chcavignx)
+- 🌟 👤 [chcavignx](https://github.com/chcavignx) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [feliperuzg](https://github.com/feliperuzg)
+- 🌟 👤 [feliperuzg](https://github.com/feliperuzg) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [hkrutzer](https://github.com/hkrutzer)
+- 🌟 👤 [hkrutzer](https://github.com/hkrutzer) Starred [microsoft/regorus](https://github.com/microsoft/regorus)
+  > Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
+
+### [omarshz](https://github.com/omarshz)
+- 🌟 👤 [omarshz](https://github.com/omarshz) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
   > The absolute trainer to light up AI agents.
 
-### [decster](https://github.com/decster)
-- 🌟 👤 [decster](https://github.com/decster) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+### [panhuan520](https://github.com/panhuan520)
+- 🌟 👤 [panhuan520](https://github.com/panhuan520) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-### [fabiorafaelcoutada](https://github.com/fabiorafaelcoutada)
-- 🌟 👤 [fabiorafaelcoutada](https://github.com/fabiorafaelcoutada) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- 🍴 👤 [fabiorafaelcoutada](https://github.com/fabiorafaelcoutada) Forked [fabiorafaelcoutada/onnxruntime](https://github.com/fabiorafaelcoutada/onnxruntime) to [fabiorafaelcoutada/onnxruntime](https://github.com/fabiorafaelcoutada/onnxruntime)
-  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+### [patricks-devhub](https://github.com/patricks-devhub)
+- 🌟 👤 [patricks-devhub](https://github.com/patricks-devhub) Starred [microsoft/benchmark-qed](https://github.com/microsoft/benchmark-qed)
+  > Automated benchmarking of Retrieval-Augmented Generation (RAG) systems
 
-### [gwe32](https://github.com/gwe32)
-- 🌟 👤 [gwe32](https://github.com/gwe32) Starred [microsoft/Windows-Containers](https://github.com/microsoft/Windows-Containers)
-  > Welcome to our Windows Containers GitHub community! Ask questions, report bugs, and suggest features...
+### [sidcatkr](https://github.com/sidcatkr)
+- 🌟 👤 [sidcatkr](https://github.com/sidcatkr) Starred [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502)
+  > Microsoft BASIC for 6502 Microprocessor - Version 1.1
 
-### [jj-10code](https://github.com/jj-10code)
-- 🌟 👤 [jj-10code](https://github.com/jj-10code) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
-
-### [steffiyappy](https://github.com/steffiyappy)
-- 🌟 👤 [steffiyappy](https://github.com/steffiyappy) Starred [microsoft/copilot-camp](https://github.com/microsoft/copilot-camp)
-  > Hands-on labs for extending Microsoft 365 Copilot and building custom engine agents
-- 🌟 👤 [steffiyappy](https://github.com/steffiyappy) Starred [microsoft/agent-academy](https://github.com/microsoft/agent-academy)
-  > Curated lessons on getting started building agents with Copilot Studio
+### [summerwise](https://github.com/summerwise)
+- 🌟 👤 [summerwise](https://github.com/summerwise) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
 
 ---
-*最后更新于 2025-10-31 10:45:43 UTC*
+*最后更新于 2025-10-31 11:19:49 UTC*
 *历史记录保存在 `archive` 目录中。*
