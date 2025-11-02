@@ -4,296 +4,305 @@
 
 ## 今日动态
 
-### [2294215668](https://github.com/2294215668)
-- 🌟 👤 [2294215668](https://github.com/2294215668) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
-  > A modular graph-based Retrieval-Augmented Generation (RAG) system
+### [AlexOvcharuk](https://github.com/AlexOvcharuk)
+- 🌟 👤 [AlexOvcharuk](https://github.com/AlexOvcharuk) Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
+  > This course is designed to guide beginners through the exciting world of Edge AI, covering fundament...
 
-### [AR-Developer-Web](https://github.com/AR-Developer-Web)
-- 🌟 👤 [AR-Developer-Web](https://github.com/AR-Developer-Web) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
-- 🌟 👤 [AR-Developer-Web](https://github.com/AR-Developer-Web) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+### [Balarithin](https://github.com/Balarithin)
+- 🌟 👤 [Balarithin](https://github.com/Balarithin) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+- 🍴 👤 [Balarithin](https://github.com/Balarithin) Forked [Balarithin/ai-agents-for-beginners](https://github.com/Balarithin/ai-agents-for-beginners) to [Balarithin/ai-agents-for-beginners](https://github.com/Balarithin/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
-### [AW2307](https://github.com/AW2307)
-- 🌟 👤 [AW2307](https://github.com/AW2307) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
+### [CrackTC](https://github.com/CrackTC)
+- 🌟 👤 [CrackTC](https://github.com/CrackTC) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+  > A browser based code editor
 
-### [Areshra](https://github.com/Areshra)
-- 🌟 👤 [Areshra](https://github.com/Areshra) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [Arlecchino745](https://github.com/Arlecchino745)
-- 🌟 👤 [Arlecchino745](https://github.com/Arlecchino745) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-- 🌟 👤 [Arlecchino745](https://github.com/Arlecchino745) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [BABz84](https://github.com/BABz84)
-- 🌟 👤 [BABz84](https://github.com/BABz84) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [Brown03030129](https://github.com/Brown03030129)
-- 🌟 👤 [Brown03030129](https://github.com/Brown03030129) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [CardinalWalls](https://github.com/CardinalWalls)
-- 🌟 👤 [CardinalWalls](https://github.com/CardinalWalls) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
-
-### [CarhoJohn](https://github.com/CarhoJohn)
-- 🌟 👤 [CarhoJohn](https://github.com/CarhoJohn) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [Chi-Shan0707](https://github.com/Chi-Shan0707)
-- 🌟 👤 [Chi-Shan0707](https://github.com/Chi-Shan0707) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
-  > Windows Subsystem for Linux
-- 🍴 👤 [Chi-Shan0707](https://github.com/Chi-Shan0707) Forked [Chi-Shan0707/WSL](https://github.com/Chi-Shan0707/WSL) to [Chi-Shan0707/WSL](https://github.com/Chi-Shan0707/WSL)
-  > Windows Subsystem for Linux
-
-### [DP200327](https://github.com/DP200327)
-- 🍴 👤 [DP200327](https://github.com/DP200327) Forked [DP200327/vscode](https://github.com/DP200327/vscode) to [DP200327/vscode](https://github.com/DP200327/vscode)
-  > Visual Studio Code
-
-### [Eras-246](https://github.com/Eras-246)
-- 🌟 👤 [Eras-246](https://github.com/Eras-246) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [GiftedT](https://github.com/GiftedT)
+- 🌟 👤 [GiftedT](https://github.com/GiftedT) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 ### [InfyniteHeap](https://github.com/InfyniteHeap)
 - 🌟 👤 [InfyniteHeap](https://github.com/InfyniteHeap) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
   > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- 🌟 👤 [InfyniteHeap](https://github.com/InfyniteHeap) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+  > Visual Studio Code
+- 🌟 👤 [InfyniteHeap](https://github.com/InfyniteHeap) Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
+  > The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+- 🌟 👤 [InfyniteHeap](https://github.com/InfyniteHeap) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
+- 🌟 👤 [InfyniteHeap](https://github.com/InfyniteHeap) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🌟 👤 [InfyniteHeap](https://github.com/InfyniteHeap) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
 
-### [NGCHUNHOU](https://github.com/NGCHUNHOU)
-- 🌟 👤 [NGCHUNHOU](https://github.com/NGCHUNHOU) Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+### [Le-GitLab](https://github.com/Le-GitLab)
+- 🍴 👤 [Le-GitLab](https://github.com/Le-GitLab) Forked [Le-GitLab/vscode](https://github.com/Le-GitLab/vscode) to [Le-GitLab/vscode](https://github.com/Le-GitLab/vscode)
   > Visual Studio Code
 
-### [RealistSec](https://github.com/RealistSec)
-- 🌟 👤 [RealistSec](https://github.com/RealistSec) Starred [microsoft/mcp](https://github.com/microsoft/mcp)
-  > Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered dat...
-
-### [SisypheOvO](https://github.com/SisypheOvO)
-- 🌟 👤 [SisypheOvO](https://github.com/SisypheOvO) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-  > A browser based code editor
-
-### [aaravindan101](https://github.com/aaravindan101)
-- 🌟 👤 [aaravindan101](https://github.com/aaravindan101) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [abelphedia](https://github.com/abelphedia)
-- 🌟 👤 [abelphedia](https://github.com/abelphedia) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [admodius1991](https://github.com/admodius1991)
-- 🌟 👤 [admodius1991](https://github.com/admodius1991) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [alexandergrote](https://github.com/alexandergrote)
-- 🌟 👤 [alexandergrote](https://github.com/alexandergrote) Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
-  > [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compre...
-
-### [bablu0k](https://github.com/bablu0k)
-- 🌟 👤 [bablu0k](https://github.com/bablu0k) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-  > A browser based code editor
-
-### [bfuerholz](https://github.com/bfuerholz)
-- 🌟 👤 [bfuerholz](https://github.com/bfuerholz) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-- 🌟 👤 [bfuerholz](https://github.com/bfuerholz) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
-
-### [domikb](https://github.com/domikb)
-- 🍴 👤 [domikb](https://github.com/domikb) Forked [domikb/calculator](https://github.com/domikb/calculator) to [domikb/calculator](https://github.com/domikb/calculator)
-  > Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-### [eastwestbiz](https://github.com/eastwestbiz)
-- 🍴 👤 [eastwestbiz](https://github.com/eastwestbiz) Forked [eastwestbiz/generative-ai-with-javascript](https://github.com/eastwestbiz/generative-ai-with-javascript) to [eastwestbiz/generative-ai-with-javascript](https://github.com/eastwestbiz/generative-ai-with-javascript)
-  > Join a time-traveling adventure where you meet history’s legends while learning Generative AI techno...
-
-### [ezaffarg](https://github.com/ezaffarg)
-- 🌟 👤 [ezaffarg](https://github.com/ezaffarg) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
-
-### [ginjaninja78](https://github.com/ginjaninja78)
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/ML-For-Beginners](https://github.com/ginjaninja78/ML-For-Beginners) to [ginjaninja78/ML-For-Beginners](https://github.com/ginjaninja78/ML-For-Beginners)
-  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/semantic-kernel](https://github.com/ginjaninja78/semantic-kernel) to [ginjaninja78/semantic-kernel](https://github.com/ginjaninja78/semantic-kernel)
-  > Integrate cutting-edge LLM technology quickly and easily into your apps
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/dstoolkit-devcontainers](https://github.com/microsoft/dstoolkit-devcontainers)
-  > A machine learning project template that makes it easy to work with multiple Docker based VSCode Dev...
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/dstoolkit-devcontainers](https://github.com/ginjaninja78/dstoolkit-devcontainers) to [ginjaninja78/dstoolkit-devcontainers](https://github.com/ginjaninja78/dstoolkit-devcontainers)
-  > A machine learning project template that makes it easy to work with multiple Docker based VSCode Dev...
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/PowerBI-visuals-WordCloud](https://github.com/microsoft/PowerBI-visuals-WordCloud)
-  > Repo for Power BI Word Cloud custom visual
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/PowerBI-visuals-WordCloud](https://github.com/ginjaninja78/PowerBI-visuals-WordCloud) to [ginjaninja78/PowerBI-visuals-WordCloud](https://github.com/ginjaninja78/PowerBI-visuals-WordCloud)
-  > Repo for Power BI Word Cloud custom visual
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/vscode](https://github.com/ginjaninja78/vscode) to [ginjaninja78/vscode](https://github.com/ginjaninja78/vscode)
-  > Visual Studio Code
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/powerbi-visuals-streamgraph](https://github.com/microsoft/powerbi-visuals-streamgraph)
-  > A stacked area chart with smooth interpolation. Often used to display values over time.
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/powerbi-visuals-streamgraph](https://github.com/ginjaninja78/powerbi-visuals-streamgraph) to [ginjaninja78/powerbi-visuals-streamgraph](https://github.com/ginjaninja78/powerbi-visuals-streamgraph)
-  > A stacked area chart with smooth interpolation. Often used to display values over time.
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/powerbi-visuals-chord](https://github.com/microsoft/powerbi-visuals-chord)
-  > A chord diagram is a graphical method of displaying the inter-relationships between data in a matrix...
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/powerbi-visuals-chord](https://github.com/ginjaninja78/powerbi-visuals-chord) to [ginjaninja78/powerbi-visuals-chord](https://github.com/ginjaninja78/powerbi-visuals-chord)
-  > A chord diagram is a graphical method of displaying the inter-relationships between data in a matrix...
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/PowerBI-visuals-ChicletSlicer](https://github.com/microsoft/PowerBI-visuals-ChicletSlicer)
-  > Repo for Power BI Chiclet Slicer custom visual
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/PowerBI-visuals-ChicletSlicer](https://github.com/ginjaninja78/PowerBI-visuals-ChicletSlicer) to [ginjaninja78/PowerBI-visuals-ChicletSlicer](https://github.com/ginjaninja78/PowerBI-visuals-ChicletSlicer)
-  > Repo for Power BI Chiclet Slicer custom visual
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/powerbi-visuals-utils-localizationutils](https://github.com/microsoft/powerbi-visuals-utils-localizationutils)
-  > Storage for PowerBI custom visuals localization string resources
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/powerbi-visuals-utils-localizationutils](https://github.com/ginjaninja78/powerbi-visuals-utils-localizationutils) to [ginjaninja78/powerbi-visuals-utils-localizationutils](https://github.com/ginjaninja78/powerbi-visuals-utils-localizationutils)
-  > Storage for PowerBI custom visuals localization string resources
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-  > A browser based code editor
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/monaco-editor](https://github.com/ginjaninja78/monaco-editor) to [ginjaninja78/monaco-editor](https://github.com/ginjaninja78/monaco-editor)
-  > A browser based code editor
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/fabric-cicd](https://github.com/microsoft/fabric-cicd)
-  > Jumpstart CICD deployments in Microsoft Fabric
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/fabric-cicd](https://github.com/ginjaninja78/fabric-cicd) to [ginjaninja78/fabric-cicd](https://github.com/ginjaninja78/fabric-cicd)
-  > Jumpstart CICD deployments in Microsoft Fabric
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/wassette](https://github.com/microsoft/wassette)
-  > Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/wassette](https://github.com/ginjaninja78/wassette) to [ginjaninja78/wassette](https://github.com/ginjaninja78/wassette)
-  > Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/openjdk-jdk](https://github.com/microsoft/openjdk-jdk)
-  > JDK main-line development
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/openjdk-jdk](https://github.com/ginjaninja78/openjdk-jdk) to [ginjaninja78/openjdk-jdk](https://github.com/ginjaninja78/openjdk-jdk)
-  > JDK main-line development
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-  > Staging repo for development of native port of TypeScript
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/typescript-go](https://github.com/ginjaninja78/typescript-go) to [ginjaninja78/typescript-go](https://github.com/ginjaninja78/typescript-go)
-  > Staging repo for development of native port of TypeScript
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/RD-Agent](https://github.com/ginjaninja78/RD-Agent) to [ginjaninja78/RD-Agent](https://github.com/ginjaninja78/RD-Agent)
-  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/TypeScript-DOM-lib-generator](https://github.com/microsoft/TypeScript-DOM-lib-generator)
-  > Tool for generating dom related TypeScript and JavaScript library files 
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/TypeScript-DOM-lib-generator](https://github.com/ginjaninja78/TypeScript-DOM-lib-generator) to [ginjaninja78/TypeScript-DOM-lib-generator](https://github.com/ginjaninja78/TypeScript-DOM-lib-generator)
-  > Tool for generating dom related TypeScript and JavaScript library files 
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/intelligence-toolkit](https://github.com/microsoft/intelligence-toolkit)
-  > Interactive workflows for creating AI intelligence reports from real-world data sources
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/intelligence-toolkit](https://github.com/ginjaninja78/intelligence-toolkit) to [ginjaninja78/intelligence-toolkit](https://github.com/ginjaninja78/intelligence-toolkit)
-  > Interactive workflows for creating AI intelligence reports from real-world data sources
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/spec-to-agents](https://github.com/microsoft/spec-to-agents)
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/spec-to-agents](https://github.com/ginjaninja78/spec-to-agents) to [ginjaninja78/spec-to-agents](https://github.com/ginjaninja78/spec-to-agents)
-  > Specs for agents
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/kata-containers](https://github.com/microsoft/kata-containers)
-  > Kata Containers is an open source project and community working to build a standard implementation o...
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/kata-containers](https://github.com/ginjaninja78/kata-containers) to [ginjaninja78/kata-containers](https://github.com/ginjaninja78/kata-containers)
-  > Kata Containers is an open source project and community working to build a standard implementation o...
-- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/mcp](https://github.com/microsoft/mcp)
-  > Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered dat...
-- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/mcp--](https://github.com/ginjaninja78/mcp--) to [ginjaninja78/mcp--](https://github.com/ginjaninja78/mcp--)
-  > Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered dat...
-
-### [haobaozhong](https://github.com/haobaozhong)
-- 🌟 👤 [haobaozhong](https://github.com/haobaozhong) Starred [microsoft/azure-pipelines-vscode](https://github.com/microsoft/azure-pipelines-vscode)
-  > VS Code extension for working with Azure Pipelines YAML files
-
-### [haondec](https://github.com/haondec)
-- 🍴 👤 [haondec](https://github.com/haondec) Forked [haondec/microsoft-agent-lightning](https://github.com/haondec/microsoft-agent-lightning) to [haondec/microsoft-agent-lightning](https://github.com/haondec/microsoft-agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [j-b-e](https://github.com/j-b-e)
-- 🌟 👤 [j-b-e](https://github.com/j-b-e) Starred [microsoft/codetour](https://github.com/microsoft/codetour)
-  > VS Code extension that allows you to record and play back guided tours of codebases, directly within...
-
-### [krinjalpaudel](https://github.com/krinjalpaudel)
-- 🌟 👤 [krinjalpaudel](https://github.com/krinjalpaudel) Starred [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch)
-  > Debugging, monitoring and visualization for Python Machine Learning and Data Science
-
-### [lzm0x219](https://github.com/lzm0x219)
-- 🌟 👤 [lzm0x219](https://github.com/lzm0x219) Starred [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview)
-  > Hosts a local server in your workspace for you to preview your webpages. 
-
-### [mhthies](https://github.com/mhthies)
-- 🌟 👤 [mhthies](https://github.com/mhthies) Starred [microsoft/playwright-python](https://github.com/microsoft/playwright-python)
-  > Python version of the Playwright testing and automation library.
-
-### [mrayushmehrotra](https://github.com/mrayushmehrotra)
-- 🌟 👤 [mrayushmehrotra](https://github.com/mrayushmehrotra) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [music-cpu](https://github.com/music-cpu)
-- 🌟 👤 [music-cpu](https://github.com/music-cpu) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [naveedjat](https://github.com/naveedjat)
-- 🌟 👤 [naveedjat](https://github.com/naveedjat) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+### [Mathiassule](https://github.com/Mathiassule)
+- 🍴 👤 [Mathiassule](https://github.com/Mathiassule) Forked [Mathiassule/AI-For-Beginners](https://github.com/Mathiassule/AI-For-Beginners) to [Mathiassule/AI-For-Beginners](https://github.com/Mathiassule/AI-For-Beginners)
   > 12 Weeks, 24 Lessons, AI for All!
 
-### [nikhilaiml](https://github.com/nikhilaiml)
-- 🌟 👤 [nikhilaiml](https://github.com/nikhilaiml) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [MingQiZhou](https://github.com/MingQiZhou)
+- 🌟 👤 [MingQiZhou](https://github.com/MingQiZhou) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+- 🌟 👤 [MingQiZhou](https://github.com/MingQiZhou) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
+
+### [Monnte](https://github.com/Monnte)
+- 🌟 👤 [Monnte](https://github.com/Monnte) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [NehuelIA](https://github.com/NehuelIA)
+- 🍴 👤 [NehuelIA](https://github.com/NehuelIA) Forked [NehuelIA/mcp-for-beginners](https://github.com/NehuelIA/mcp-for-beginners) to [NehuelIA/mcp-for-beginners](https://github.com/NehuelIA/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
+
+### [Subhasish18](https://github.com/Subhasish18)
+- 🌟 👤 [Subhasish18](https://github.com/Subhasish18) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+- 🌟 👤 [Subhasish18](https://github.com/Subhasish18) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
+
+### [TalVar-DataScience](https://github.com/TalVar-DataScience)
+- 🌟 👤 [TalVar-DataScience](https://github.com/TalVar-DataScience) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [Tnlrk](https://github.com/Tnlrk)
+- 🌟 👤 [Tnlrk](https://github.com/Tnlrk) Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [Uebermut](https://github.com/Uebermut)
+- 🌟 👤 [Uebermut](https://github.com/Uebermut) Starred [microsoft/WPF-Samples](https://github.com/microsoft/WPF-Samples)
+  > Repository for WPF related samples
+
+### [YamaCheung-0o](https://github.com/YamaCheung-0o)
+- 🍴 👤 [YamaCheung-0o](https://github.com/YamaCheung-0o) Forked [YamaCheung-0o/ai-agents-for-beginners](https://github.com/YamaCheung-0o/ai-agents-for-beginners) to [YamaCheung-0o/ai-agents-for-beginners](https://github.com/YamaCheung-0o/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+- 🌟 👤 [YamaCheung-0o](https://github.com/YamaCheung-0o) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
+
+### [Zestraxz](https://github.com/Zestraxz)
+- 🍴 👤 [Zestraxz](https://github.com/Zestraxz) Forked [Zestraxz/generative-ai-for-beginners](https://github.com/Zestraxz/generative-ai-for-beginners) to [Zestraxz/generative-ai-for-beginners](https://github.com/Zestraxz/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [akashjain0905](https://github.com/akashjain0905)
+- 🌟 👤 [akashjain0905](https://github.com/akashjain0905) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [ansha886](https://github.com/ansha886)
+- 🌟 👤 [ansha886](https://github.com/ansha886) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [botvibeai](https://github.com/botvibeai)
+- 🌟 👤 [botvibeai](https://github.com/botvibeai) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [collet](https://github.com/collet)
+- 🌟 👤 [collet](https://github.com/collet) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [dmalikaiq](https://github.com/dmalikaiq)
+- 🌟 👤 [dmalikaiq](https://github.com/dmalikaiq) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [ethans](https://github.com/ethans)
+- 🍴 👤 [ethans](https://github.com/ethans) Forked [ethans/generative-ai-for-beginners](https://github.com/ethans/generative-ai-for-beginners) to [ethans/generative-ai-for-beginners](https://github.com/ethans/generative-ai-for-beginners)
+  > 21 Lessons, Get Started Building with Generative AI 
+
+### [fac3m4n](https://github.com/fac3m4n)
+- 🌟 👤 [fac3m4n](https://github.com/fac3m4n) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [ginjaninja78](https://github.com/ginjaninja78)
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/Document-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator)
+  > Solution accelerator built on Azure OpenAI Service and Azure AI Document Intelligence to process and...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/Document-Knowledge-Mining-Solution-Accelerator](https://github.com/ginjaninja78/Document-Knowledge-Mining-Solution-Accelerator) to [ginjaninja78/Document-Knowledge-Mining-Solution-Accelerator](https://github.com/ginjaninja78/Document-Knowledge-Mining-Solution-Accelerator)
+  > Solution accelerator built on Azure OpenAI Service and Azure AI Document Intelligence to process and...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
+  > The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a ...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/ginjaninja78/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) to [ginjaninja78/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/ginjaninja78/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
+  > The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a ...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator)
+  > This solution accelerator leverages Azure AI Foundry, Azure AI Content Understanding, Azure OpenAI S...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/ginjaninja78/Conversation-Knowledge-Mining-Solution-Accelerator) to [ginjaninja78/Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/ginjaninja78/Conversation-Knowledge-Mining-Solution-Accelerator)
+  > This solution accelerator leverages Azure AI Foundry, Azure AI Content Understanding, Azure OpenAI S...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/vscode-typescript-next](https://github.com/microsoft/vscode-typescript-next)
+  > Enables typescript@next as VS Code's built-in TypeScript version
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/vscode-typescript-next](https://github.com/ginjaninja78/vscode-typescript-next) to [ginjaninja78/vscode-typescript-next](https://github.com/ginjaninja78/vscode-typescript-next)
+  > Enables typescript@next as VS Code's built-in TypeScript version
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/Modernize-your-code-solution-accelerator](https://github.com/microsoft/Modernize-your-code-solution-accelerator)
+  > Designed to help customers transition their SQL queries to new environments quickly and efficiently....
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/Modernize-your-code-solution-accelerator](https://github.com/ginjaninja78/Modernize-your-code-solution-accelerator) to [ginjaninja78/Modernize-your-code-solution-accelerator](https://github.com/ginjaninja78/Modernize-your-code-solution-accelerator)
+  > Designed to help customers transition their SQL queries to new environments quickly and efficiently....
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/Olive](https://github.com/microsoft/Olive)
+  > Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and N...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/Olive](https://github.com/ginjaninja78/Olive) to [ginjaninja78/Olive](https://github.com/ginjaninja78/Olive)
+  > Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and N...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+  > Public documentation for Visual Studio Code
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/vscode-docs](https://github.com/ginjaninja78/vscode-docs) to [ginjaninja78/vscode-docs](https://github.com/ginjaninja78/vscode-docs)
+  > Public documentation for Visual Studio Code
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/azure-devops-rust-api](https://github.com/microsoft/azure-devops-rust-api)
+  > Rust API crate for the Azure DevOps API
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/azure-devops-rust-api](https://github.com/ginjaninja78/azure-devops-rust-api) to [ginjaninja78/azure-devops-rust-api](https://github.com/ginjaninja78/azure-devops-rust-api)
+  > Rust API crate for the Azure DevOps API
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/agent-for-rfp-response-solution-accelerator](https://github.com/microsoft/agent-for-rfp-response-solution-accelerator)
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/agent-for-rfp-response-solution-accelerator](https://github.com/ginjaninja78/agent-for-rfp-response-solution-accelerator) to [ginjaninja78/agent-for-rfp-response-solution-accelerator](https://github.com/ginjaninja78/agent-for-rfp-response-solution-accelerator)
+  > Legal-response-agent
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/hermes-windows](https://github.com/microsoft/hermes-windows)
+  > Hermes is a small and lightweight JavaScript engine optimized for running React Native apps..
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/hermes-windows](https://github.com/ginjaninja78/hermes-windows) to [ginjaninja78/hermes-windows](https://github.com/ginjaninja78/hermes-windows)
+  > Hermes is a small and lightweight JavaScript engine optimized for running React Native apps..
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com)
+  > This is the source code to the mostly-static Microsoft Open Source site featuring projects, program ...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/opensource.microsoft.com](https://github.com/ginjaninja78/opensource.microsoft.com) to [ginjaninja78/opensource.microsoft.com](https://github.com/ginjaninja78/opensource.microsoft.com)
+  > This is the source code to the mostly-static Microsoft Open Source site featuring projects, program ...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/amplifier](https://github.com/ginjaninja78/amplifier) to [ginjaninja78/amplifier](https://github.com/ginjaninja78/amplifier)
+  > Metacognition-tool
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/amplifier-module-provider-openai](https://github.com/microsoft/amplifier-module-provider-openai)
+  > Reference implementation for an OpenAI provider module for the Amplifier project
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/amplifier-module-provider-openai](https://github.com/ginjaninja78/amplifier-module-provider-openai) to [ginjaninja78/amplifier-module-provider-openai](https://github.com/ginjaninja78/amplifier-module-provider-openai)
+  > Reference implementation for an OpenAI provider module for the Amplifier project
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/amplifier-app-cli](https://github.com/microsoft/amplifier-app-cli)
+  > Reference implementation of CLI interface for Amplifier project
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/amplifier-app-cli](https://github.com/ginjaninja78/amplifier-app-cli) to [ginjaninja78/amplifier-app-cli](https://github.com/ginjaninja78/amplifier-app-cli)
+  > Reference implementation of CLI interface for Amplifier project
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/PowerToys](https://github.com/ginjaninja78/PowerToys) to [ginjaninja78/PowerToys](https://github.com/ginjaninja78/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/openvmm](https://github.com/microsoft/openvmm)
+  > Home of OpenVMM and OpenHCL
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/openvmm](https://github.com/ginjaninja78/openvmm) to [ginjaninja78/openvmm](https://github.com/ginjaninja78/openvmm)
+  > Home of OpenVMM and OpenHCL
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator](https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator)
+  > This accelerator unifies enterprise data with Microsoft Fabric and applies agentic AI to drive faste...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/agentic-applications-for-unified-data-foundation-solution-accelerator](https://github.com/ginjaninja78/agentic-applications-for-unified-data-foundation-solution-accelerator) to [ginjaninja78/agentic-applications-for-unified-data-foundation-solution-accelerator](https://github.com/ginjaninja78/agentic-applications-for-unified-data-foundation-solution-accelerator)
+  > This accelerator unifies enterprise data with Microsoft Fabric and applies agentic AI to drive faste...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator](https://github.com/microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator)
+  > Solution Accelerator to show how to deploy an Agent configured in a voice channel to streamline cont...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/Agents-for-Enhanced-Customer-Care-Solution-Accelerator](https://github.com/ginjaninja78/Agents-for-Enhanced-Customer-Care-Solution-Accelerator) to [ginjaninja78/Agents-for-Enhanced-Customer-Care-Solution-Accelerator](https://github.com/ginjaninja78/Agents-for-Enhanced-Customer-Care-Solution-Accelerator)
+  > Solution Accelerator to show how to deploy an Agent configured in a voice channel to streamline cont...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator](https://github.com/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator)
+  > This solution accelerator enables companies to detect compliance gaps, benchmark against their peers...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/Comparative-Analysis-for-Sustainability-Solution-Accelerator](https://github.com/ginjaninja78/Comparative-Analysis-for-Sustainability-Solution-Accelerator) to [ginjaninja78/Comparative-Analysis-for-Sustainability-Solution-Accelerator](https://github.com/ginjaninja78/Comparative-Analysis-for-Sustainability-Solution-Accelerator)
+  > This solution accelerator enables companies to detect compliance gaps, benchmark against their peers...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/agent-for-hr-service-solution-accelerator](https://github.com/microsoft/agent-for-hr-service-solution-accelerator)
+  > This solution streamlines HR service workflows with an AI-powered assistant that delivers instant an...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/agent-for-hr-service-solution-accelerator](https://github.com/ginjaninja78/agent-for-hr-service-solution-accelerator) to [ginjaninja78/agent-for-hr-service-solution-accelerator](https://github.com/ginjaninja78/agent-for-hr-service-solution-accelerator)
+  > This solution streamlines HR service workflows with an AI-powered assistant that delivers instant an...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/gov-apptemplates](https://github.com/microsoft/gov-apptemplates)
+  > Modular, prebuilt Power Platform and Dynamics 365 application templates for government agencies. Pro...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/gov-apptemplates](https://github.com/ginjaninja78/gov-apptemplates) to [ginjaninja78/gov-apptemplates](https://github.com/ginjaninja78/gov-apptemplates)
+  > Modular, prebuilt Power Platform and Dynamics 365 application templates for government agencies. Pro...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/auron](https://github.com/microsoft/auron)
+  > The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized ...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/auron](https://github.com/ginjaninja78/auron) to [ginjaninja78/auron](https://github.com/ginjaninja78/auron)
+  > The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized ...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
+  > Visual Studio Code SQL Server extension.
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/vscode-mssql](https://github.com/ginjaninja78/vscode-mssql) to [ginjaninja78/vscode-mssql](https://github.com/ginjaninja78/vscode-mssql)
+  > Visual Studio Code SQL Server extension.
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/minions](https://github.com/microsoft/minions)
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/minions](https://github.com/ginjaninja78/minions) to [ginjaninja78/minions](https://github.com/ginjaninja78/minions)
+  > Agent-CI/CD
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/xdp-for-windows](https://github.com/microsoft/xdp-for-windows)
+  > XDP speeds up networking on Windows
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/xdp-for-windows](https://github.com/ginjaninja78/xdp-for-windows) to [ginjaninja78/xdp-for-windows](https://github.com/ginjaninja78/xdp-for-windows)
+  > XDP speeds up networking on Windows
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/teams.py](https://github.com/microsoft/teams.py)
+  > a suite of packages used to build on the Teams Platform.
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/teams.py](https://github.com/ginjaninja78/teams.py) to [ginjaninja78/teams.py](https://github.com/ginjaninja78/teams.py)
+  > a suite of packages used to build on the Teams Platform.
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/amplifier-core](https://github.com/microsoft/amplifier-core)
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/amplifier-core](https://github.com/ginjaninja78/amplifier-core) to [ginjaninja78/amplifier-core](https://github.com/ginjaninja78/amplifier-core)
+  > Amp-core
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/garnet](https://github.com/microsoft/garnet)
+  > Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput an...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/garnet](https://github.com/ginjaninja78/garnet) to [ginjaninja78/garnet](https://github.com/ginjaninja78/garnet)
+  > Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput an...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
+  > A research prototype of a human-centered web agent
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/magentic-ui](https://github.com/ginjaninja78/magentic-ui) to [ginjaninja78/magentic-ui](https://github.com/ginjaninja78/magentic-ui)
+  > A research prototype of a human-centered web agent
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/teams-ai](https://github.com/microsoft/teams-ai)
+  > SDK focused on building AI based applications and extensions for Microsoft Teams and other Bot Frame...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/teams-ai](https://github.com/ginjaninja78/teams-ai) to [ginjaninja78/teams-ai](https://github.com/ginjaninja78/teams-ai)
+  > SDK focused on building AI based applications and extensions for Microsoft Teams and other Bot Frame...
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos)
+  > A framework for building native macOS apps with React.
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/react-native-macos](https://github.com/ginjaninja78/react-native-macos) to [ginjaninja78/react-native-macos](https://github.com/ginjaninja78/react-native-macos)
+  > A framework for building native macOS apps with React.
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/mu](https://github.com/microsoft/mu)
+  > Project Mu Documentation 
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/mu](https://github.com/ginjaninja78/mu) to [ginjaninja78/mu](https://github.com/ginjaninja78/mu)
+  > Project Mu Documentation 
+- 🌟 👤 [ginjaninja78](https://github.com/ginjaninja78) Starred [microsoft/presidio](https://github.com/microsoft/presidio)
+  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
+- 🍴 👤 [ginjaninja78](https://github.com/ginjaninja78) Forked [ginjaninja78/presidio](https://github.com/ginjaninja78/presidio) to [ginjaninja78/presidio](https://github.com/ginjaninja78/presidio)
+  > An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) acr...
+
+### [infernasel](https://github.com/infernasel)
+- 🍴 👤 [infernasel](https://github.com/infernasel) Forked [infernasel/vscode](https://github.com/infernasel/vscode) to [infernasel/vscode](https://github.com/infernasel/vscode)
+  > Visual Studio Code
+
+### [jungzuna](https://github.com/jungzuna)
+- 🌟 👤 [jungzuna](https://github.com/jungzuna) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
+
+### [kissmegirl357-collab](https://github.com/kissmegirl357-collab)
+- 🌟 👤 [kissmegirl357-collab](https://github.com/kissmegirl357-collab) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+### [ksuraev](https://github.com/ksuraev)
+- 🍴 👤 [ksuraev](https://github.com/ksuraev) Forked [ksuraev/STL](https://github.com/ksuraev/STL) to [ksuraev/STL](https://github.com/ksuraev/STL)
+  > MSVC's implementation of the C++ Standard Library.
+
+### [madushanHM](https://github.com/madushanHM)
+- 🌟 👤 [madushanHM](https://github.com/madushanHM) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 ### [nirmalparmar](https://github.com/nirmalparmar)
-- 🍴 👤 [nirmalparmar](https://github.com/nirmalparmar) Forked [nirmalparmar/vscode](https://github.com/nirmalparmar/vscode) to [nirmalparmar/vscode](https://github.com/nirmalparmar/vscode)
-  > Visual Studio Code
+- 🍴 👤 [nirmalparmar](https://github.com/nirmalparmar) Forked [nirmalparmar/monaco-editor](https://github.com/nirmalparmar/monaco-editor) to [nirmalparmar/monaco-editor](https://github.com/nirmalparmar/monaco-editor)
+  > A browser based code editor
 
-### [rant-dream](https://github.com/rant-dream)
-- 🌟 👤 [rant-dream](https://github.com/rant-dream) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
+### [nzmssqb](https://github.com/nzmssqb)
+- 🌟 👤 [nzmssqb](https://github.com/nzmssqb) Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+  > 10 Weeks, 20 Lessons, Data Science for All!
+- 🌟 👤 [nzmssqb](https://github.com/nzmssqb) Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- 🌟 👤 [nzmssqb](https://github.com/nzmssqb) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
+- 🌟 👤 [nzmssqb](https://github.com/nzmssqb) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+  > 12 Lessons to Get Started Building AI Agents
 
-### [redcoder927](https://github.com/redcoder927)
-- 🌟 👤 [redcoder927](https://github.com/redcoder927) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
+### [ringoz](https://github.com/ringoz)
+- 🌟 👤 [ringoz](https://github.com/ringoz) Starred [microsoft/node-api-dotnet](https://github.com/microsoft/node-api-dotnet)
+  > Advanced interoperability between .NET and JavaScript in the same process.
 
-### [robynherbst24](https://github.com/robynherbst24)
-- 🌟 👤 [robynherbst24](https://github.com/robynherbst24) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
+### [running-code-pp](https://github.com/running-code-pp)
+- 🌟 👤 [running-code-pp](https://github.com/running-code-pp) Starred [microsoft/GSL](https://github.com/microsoft/GSL)
+  > Guidelines Support Library
 
-### [scillidan](https://github.com/scillidan)
-- 🌟 👤 [scillidan](https://github.com/scillidan) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [skiba813](https://github.com/skiba813)
-- 🍴 👤 [skiba813](https://github.com/skiba813) Forked [skiba813/Web-Dev-For-Beginners](https://github.com/skiba813/Web-Dev-For-Beginners) to [skiba813/Web-Dev-For-Beginners](https://github.com/skiba813/Web-Dev-For-Beginners)
-  > 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-### [soyoo](https://github.com/soyoo)
-- 🍴 👤 [soyoo](https://github.com/soyoo) Forked [soyoo/msquic](https://github.com/soyoo/msquic) to [soyoo/msquic](https://github.com/soyoo/msquic)
-  > Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
-
-### [sxgnccks2022](https://github.com/sxgnccks2022)
-- 🌟 👤 [sxgnccks2022](https://github.com/sxgnccks2022) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+### [supermango12138](https://github.com/supermango12138)
+- 🌟 👤 [supermango12138](https://github.com/supermango12138) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
   > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
 
-### [torataro-tiger](https://github.com/torataro-tiger)
-- 🌟 👤 [torataro-tiger](https://github.com/torataro-tiger) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
+### [utkirbekQutfiddinov](https://github.com/utkirbekQutfiddinov)
+- 🌟 👤 [utkirbekQutfiddinov](https://github.com/utkirbekQutfiddinov) Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+  > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real...
 
-### [wahkin-Hjem](https://github.com/wahkin-Hjem)
-- 🌟 👤 [wahkin-Hjem](https://github.com/wahkin-Hjem) Starred [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-  > 🪄 Create rich visualizations with AI 
+### [wuwenjie1992](https://github.com/wuwenjie1992)
+- 🌟 👤 [wuwenjie1992](https://github.com/wuwenjie1992) Starred [microsoft/rag-time](https://github.com/microsoft/rag-time)
+  > RAG Time: A 5-week Learning Journey to Mastering RAG
 
-### [wheely11-bit](https://github.com/wheely11-bit)
-- 🌟 👤 [wheely11-bit](https://github.com/wheely11-bit) Starred [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com)
-  > This is the source code to the mostly-static Microsoft Open Source site featuring projects, program ...
-
-### [wpghdchl](https://github.com/wpghdchl)
-- 🌟 👤 [wpghdchl](https://github.com/wpghdchl) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-  > The absolute trainer to light up AI agents.
-
-### [xuepd](https://github.com/xuepd)
-- 🌟 👤 [xuepd](https://github.com/xuepd) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-### [yosephfetene](https://github.com/yosephfetene)
-- 🌟 👤 [yosephfetene](https://github.com/yosephfetene) Starred [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py)
-  > Python port of part of the TypeAgent repo
-
-### [yoshixmk](https://github.com/yoshixmk)
-- 🌟 👤 [yoshixmk](https://github.com/yoshixmk) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
-  > Playwright MCP server
-
-### [zml-w](https://github.com/zml-w)
-- 🌟 👤 [zml-w](https://github.com/zml-w) Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [zhongzhichun](https://github.com/zhongzhichun)
+- 🍴 👤 [zhongzhichun](https://github.com/zhongzhichun) Forked [zhongzhichun/Web-Dev-For-Beginners](https://github.com/zhongzhichun/Web-Dev-For-Beginners) to [zhongzhichun/Web-Dev-For-Beginners](https://github.com/zhongzhichun/Web-Dev-For-Beginners)
   > 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 
 ---
-*最后更新于 2025-11-02 08:43:48 UTC*
+*最后更新于 2025-11-02 09:21:03 UTC*
 *历史记录保存在 `archive` 目录中。*
