@@ -33,6 +33,8 @@
   > NOCRT - simple replacement of some parts of C runtime library
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm)
   > Optimizing inference proxy for LLMs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShallowFeather/KDemu](https://github.com/ShallowFeather/KDemu)
+  > A Windows Kernel Driver Emulator base on Unicorn, Kernel Memory Dump and some of native environment
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [d3vilbug/demo-example-code-snippets](https://github.com/d3vilbug/demo-example-code-snippets)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-11-03 21:15:27 UTC*
+*最后更新于 2025-11-03 22:16:26 UTC*
 *历史记录保存在 `archive` 目录中。*
