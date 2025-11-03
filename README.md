@@ -4,23 +4,15 @@
 
 ## 今日动态
 
-### [DamonM1](https://github.com/DamonM1)
-- 🍴 👤 [DamonM1](https://github.com/DamonM1) Forked [DamonM1/PythonSampleFlask](https://github.com/DamonM1/PythonSampleFlask) to [DamonM1/PythonSampleFlask](https://github.com/DamonM1/PythonSampleFlask)
-  > Sample code for the Flask tutorial in the VS Code documentation
+### [lyq-liuyiqi](https://github.com/lyq-liuyiqi)
+- 🌟 👤 [lyq-liuyiqi](https://github.com/lyq-liuyiqi) Starred [microsoft/VCD](https://github.com/microsoft/VCD)
+  > The Video Conferencing Dataset (VCD) to evaluate video codecs for video conferencing.
 
-### [Frankdwu](https://github.com/Frankdwu)
-- 🍴 👤 [Frankdwu](https://github.com/Frankdwu) Forked [Frankdwu/generative-ai-for-beginners](https://github.com/Frankdwu/generative-ai-for-beginners) to [Frankdwu/generative-ai-for-beginners](https://github.com/Frankdwu/generative-ai-for-beginners)
-  > 21 Lessons, Get Started Building with Generative AI 
-
-### [Jumbo-WJB](https://github.com/Jumbo-WJB)
-- 🌟 👤 [Jumbo-WJB](https://github.com/Jumbo-WJB) Starred [microsoft/SecRL](https://github.com/microsoft/SecRL)
-  > Benchmarking LLM agents on Cyber Threat Investigation.
-
-### [XiaoChunRiHe929](https://github.com/XiaoChunRiHe929)
-- 🌟 👤 [XiaoChunRiHe929](https://github.com/XiaoChunRiHe929) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-  > 12 Lessons to Get Started Building AI Agents
+### [ppxu](https://github.com/ppxu)
+- 🌟 👤 [ppxu](https://github.com/ppxu) Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+  > The absolute trainer to light up AI agents.
 
 
 ---
-*最后更新于 2025-11-03 02:00:33 UTC*
+*最后更新于 2025-11-03 03:38:28 UTC*
 *历史记录保存在 `archive` 目录中。*
