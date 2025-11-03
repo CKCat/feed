@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [ChiChou/urlschemes](https://github.com/ChiChou/urlschemes)
+  > Enumerate URL schemes on macOS and Windows
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [iutzeler/skwdro](https://github.com/iutzeler/skwdro)
   > Distributionally robust machine learning with Pytorch and Scikit-learn wrappers
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2025-11-03 20:19:09 UTC*
+*最后更新于 2025-11-03 21:15:27 UTC*
 *历史记录保存在 `archive` 目录中。*
