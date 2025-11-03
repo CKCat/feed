@@ -16,6 +16,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)
+  > BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other ap...
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
   > 📚 Collaborative cheatsheets for console commands
@@ -23,6 +27,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JHRobotics/nocrt](https://github.com/JHRobotics/nocrt)
   > NOCRT - simple replacement of some parts of C runtime library
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm)
+  > Optimizing inference proxy for LLMs
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [d3vilbug/demo-example-code-snippets](https://github.com/d3vilbug/demo-example-code-snippets)
@@ -48,5 +54,5 @@
 
 
 ---
-*最后更新于 2025-11-03 17:15:15 UTC*
+*最后更新于 2025-11-03 18:24:01 UTC*
 *历史记录保存在 `archive` 目录中。*
