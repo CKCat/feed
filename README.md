@@ -18,6 +18,9 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
   > 🪅 Windows User Space Emulator 
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🚀 👤 [R0rt1z2](https://github.com/R0rt1z2) Made [amazon-oss/android_device_amazon_crown](https://github.com/amazon-oss/android_device_amazon_crown) public
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
   > Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -70,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-11-04 08:23:37 UTC*
+*最后更新于 2025-11-04 09:19:19 UTC*
 *历史记录保存在 `archive` 目录中。*
