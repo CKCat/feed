@@ -54,6 +54,10 @@
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [bet4it/Pake](https://github.com/bet4it/Pake) to [bet4it/Pake](https://github.com/bet4it/Pake)
   > 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [shellphish/how2heap](https://github.com/shellphish/how2heap)
+  > A repository for learning various heap exploitation techniques.
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [realdeepresearch/realdeepresearch.github.io](https://github.com/realdeepresearch/realdeepresearch.github.io)
   > Website for "Real Deep Research for AI, Robotics and Beyond"
@@ -107,5 +111,5 @@
 
 
 ---
-*最后更新于 2025-11-04 17:17:26 UTC*
+*最后更新于 2025-11-04 18:24:31 UTC*
 *历史记录保存在 `archive` 目录中。*
