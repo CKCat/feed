@@ -25,7 +25,15 @@
   > Website for "Real Deep Research for AI, Robotics and Beyond"
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jplozi/wastedcores](https://github.com/jplozi/wastedcores)
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging)
+  > Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.
+
+### [wrlu](https://github.com/wrlu)
+- 🌟 👤 [wrlu](https://github.com/wrlu) Starred [jd-opensource/OxyGent](https://github.com/jd-opensource/OxyGent)
+  > Multi-agent collaboration framework
+
 
 ---
-*最后更新于 2025-11-04 04:19:37 UTC*
+*最后更新于 2025-11-04 05:16:50 UTC*
 *历史记录保存在 `archive` 目录中。*
