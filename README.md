@@ -14,6 +14,9 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
   > Display and control your Android device
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [donnaskiez/nmi](https://github.com/donnaskiez/nmi)
   > nmi stackwalking + module verification
@@ -104,5 +107,5 @@
 
 
 ---
-*最后更新于 2025-11-04 16:20:37 UTC*
+*最后更新于 2025-11-04 17:17:26 UTC*
 *历史记录保存在 `archive` 目录中。*
