@@ -25,6 +25,10 @@
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
   > Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [quietui/quiet](https://github.com/quietui/quiet)
+  > An open source UI library for the Web focusing on accessibility, longevity, performance, and simplic...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert)
   > A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animma...
@@ -45,6 +49,16 @@
 ### [gerhart01](https://github.com/gerhart01)
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [gerhart01/Hyper-V-Internals](https://github.com/gerhart01/Hyper-V-Internals)
   > Internals information about Hyper-V
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [PyneSys/pynecore](https://github.com/PyneSys/pynecore)
+  > PyneCore - Pine Script Like Python Framework
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peufeu/llvm-futamura-experiments](https://github.com/peufeu/llvm-futamura-experiments)
+  > a little experiment on writing a partial evaluation / futamurizer for C code using llvm
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caballa/llpe](https://github.com/caballa/llpe)
+  > LLPE - Smowton's partial evaluator on LLVM bitcode
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging)
@@ -73,5 +87,5 @@
 
 
 ---
-*最后更新于 2025-11-04 11:15:05 UTC*
+*最后更新于 2025-11-04 12:37:15 UTC*
 *历史记录保存在 `archive` 目录中。*
