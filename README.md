@@ -59,6 +59,7 @@
   > a little experiment on writing a partial evaluation / futamurizer for C code using llvm
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caballa/llpe](https://github.com/caballa/llpe)
   > LLPE - Smowton's partial evaluator on LLVM bitcode
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smowton/llpe](https://github.com/smowton/llpe)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging)
@@ -87,5 +88,5 @@
 
 
 ---
-*最后更新于 2025-11-04 12:37:15 UTC*
+*最后更新于 2025-11-04 13:31:42 UTC*
 *历史记录保存在 `archive` 目录中。*
