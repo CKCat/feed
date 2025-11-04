@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🌟 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Starred [Dr-TSNG/MinotaurOS](https://github.com/Dr-TSNG/MinotaurOS)
+  > A Linux-compatable os kernel written by Rust
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)
   > A monospaced programming font inspired by the Minecraft typeface
@@ -27,6 +31,8 @@
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [quietui/quiet](https://github.com/quietui/quiet)
+  > An open source UI library for the Web focusing on accessibility, longevity, performance, and simplic...
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [T5ive/quiet](https://github.com/T5ive/quiet) to [T5ive/quiet](https://github.com/T5ive/quiet)
   > An open source UI library for the Web focusing on accessibility, longevity, performance, and simplic...
 
 ### [Ylarod](https://github.com/Ylarod)
@@ -82,6 +88,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
   > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [iromise/CodeMarker](https://github.com/iromise/CodeMarker)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [yywz1999/gdb-mcp-server](https://github.com/yywz1999/gdb-mcp-server)
+
 ### [wrlu](https://github.com/wrlu)
 - 🌟 👤 [wrlu](https://github.com/wrlu) Starred [jd-opensource/OxyGent](https://github.com/jd-opensource/OxyGent)
   > Multi-agent collaboration framework
@@ -92,5 +102,5 @@
 
 
 ---
-*最后更新于 2025-11-04 14:17:32 UTC*
+*最后更新于 2025-11-04 15:18:40 UTC*
 *历史记录保存在 `archive` 目录中。*
