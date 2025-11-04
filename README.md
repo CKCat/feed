@@ -33,6 +33,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert)
   > A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animma...
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
+  > NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform...
+
 ### [baikaishiuc](https://github.com/baikaishiuc)
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [baikaishiuc/ScyllaHide](https://github.com/baikaishiuc/ScyllaHide) to [baikaishiuc/ScyllaHide](https://github.com/baikaishiuc/ScyllaHide)
   > Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
@@ -88,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-11-04 13:31:42 UTC*
+*最后更新于 2025-11-04 14:17:32 UTC*
 *历史记录保存在 `archive` 目录中。*
