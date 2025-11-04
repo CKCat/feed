@@ -99,8 +99,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
   > Simple Python version management
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [shidenggui/easytrader](https://github.com/shidenggui/easytrader)
+  > 提供同花顺客户端/miniqmt/雪球的股票量化交易，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合
 
 
 ---
-*最后更新于 2025-11-04 15:18:40 UTC*
+*最后更新于 2025-11-04 16:20:37 UTC*
 *历史记录保存在 `archive` 目录中。*
