@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [opengrep/opengrep](https://github.com/opengrep/opengrep)
+  > 🔎 Static code analysis engine to find security issues in code.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [p2r3/bareiron](https://github.com/p2r3/bareiron)
   > Minimalist Minecraft server for memory-restrictive embedded systems
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [daeuniverse/dae](https://github.com/daeuniverse/dae)
+  > eBPF-based Linux high-performance transparent proxy solution.
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)
@@ -65,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-11-05 10:19:23 UTC*
+*最后更新于 2025-11-05 11:15:07 UTC*
 *历史记录保存在 `archive` 目录中。*
