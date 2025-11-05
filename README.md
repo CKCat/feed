@@ -18,10 +18,6 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LittleSound/talks-template](https://github.com/LittleSound/talks-template)
   > Talks of Template, using Slidev
 
-### [Mrack](https://github.com/Mrack)
-- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)
-  > App Store web version
-
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [quic-interop/quic-interop-runner](https://github.com/quic-interop/quic-interop-runner)
   > QUIC interop runner
@@ -97,5 +93,5 @@
 
 
 ---
-*最后更新于 2025-11-05 22:16:01 UTC*
+*最后更新于 2025-11-05 23:15:39 UTC*
 *历史记录保存在 `archive` 目录中。*
