@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [p2r3/bareiron](https://github.com/p2r3/bareiron)
+  > Minimalist Minecraft server for memory-restrictive embedded systems
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [quic-interop/quic-interop-runner](https://github.com/quic-interop/quic-interop-runner)
   > QUIC interop runner
@@ -24,5 +28,5 @@
 
 
 ---
-*最后更新于 2025-11-05 04:20:25 UTC*
+*最后更新于 2025-11-05 05:17:01 UTC*
 *历史记录保存在 `archive` 目录中。*
