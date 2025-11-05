@@ -8,11 +8,19 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [p2r3/bareiron](https://github.com/p2r3/bareiron)
   > Minimalist Minecraft server for memory-restrictive embedded systems
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)
+  > App Store web version
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [quic-interop/quic-interop-runner](https://github.com/quic-interop/quic-interop-runner)
   > QUIC interop runner
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [NyaMisty/quic-interop-runner](https://github.com/NyaMisty/quic-interop-runner) to [NyaMisty/quic-interop-runner](https://github.com/NyaMisty/quic-interop-runner)
   > QUIC interop runner
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme)
+  > Frictionless private file transfer - Local and Global
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [microsoft/mscclpp](https://github.com/microsoft/mscclpp)
@@ -32,11 +40,19 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [SingleStepTests/65x02](https://github.com/SingleStepTests/65x02)
   > A language-agnostic JSON-encoded instruction-by-instruction test suite for the 65[c]02 that includes...
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ChinaLinuxKernel/CLK2025](https://github.com/ChinaLinuxKernel/CLK2025)
+  > Slids of CLK2025, vivo, ShenZhen
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [1ay1/neowall](https://github.com/1ay1/neowall)
   > 🎨 A reliable Wayland wallpaper engine written in C. Multi-monitor support, smooth transitions, hot-r...
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [google/perfetto](https://github.com/google/perfetto)
+  > Production-grade client-side tracing, profiling, and analysis for complex software systems.
+
 
 ---
-*最后更新于 2025-11-05 07:16:17 UTC*
+*最后更新于 2025-11-05 08:22:43 UTC*
 *历史记录保存在 `archive` 目录中。*
