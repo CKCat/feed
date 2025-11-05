@@ -82,6 +82,8 @@
   > 识别恢复printk字符串的小脚本
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [veritas501/ida_better_arm64_brk](https://github.com/veritas501/ida_better_arm64_brk)
   > 怎么IDA的brk指令还得自己修啊（恼
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
+  > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
 ### [vvb2060](https://github.com/vvb2060)
 - 🍴 👤 [vvb2060](https://github.com/vvb2060) Forked [vvb2060/StellaSora-Tool](https://github.com/vvb2060/StellaSora-Tool) to [vvb2060/StellaSora-Tool](https://github.com/vvb2060/StellaSora-Tool)
@@ -93,5 +95,5 @@
 
 
 ---
-*最后更新于 2025-11-05 14:17:32 UTC*
+*最后更新于 2025-11-05 15:17:37 UTC*
 *历史记录保存在 `archive` 目录中。*
