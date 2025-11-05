@@ -83,11 +83,15 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [veritas501/ida_better_arm64_brk](https://github.com/veritas501/ida_better_arm64_brk)
   > 怎么IDA的brk指令还得自己修啊（恼
 
+### [vvb2060](https://github.com/vvb2060)
+- 🍴 👤 [vvb2060](https://github.com/vvb2060) Forked [vvb2060/StellaSora-Tool](https://github.com/vvb2060/StellaSora-Tool) to [vvb2060/StellaSora-Tool](https://github.com/vvb2060/StellaSora-Tool)
+  > Stella Sora Cheat
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [yuchuangu85/ChkBugReport](https://github.com/yuchuangu85/ChkBugReport) to [yuchuangu85/ChkBugReport](https://github.com/yuchuangu85/ChkBugReport)
   > A command line tool which parses and converts android bugreport files into more human readable html ...
 
 
 ---
-*最后更新于 2025-11-05 13:29:54 UTC*
+*最后更新于 2025-11-05 14:17:32 UTC*
 *历史记录保存在 `archive` 目录中。*
