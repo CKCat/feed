@@ -20,13 +20,23 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/mscclpp](https://github.com/crazyguitar/mscclpp) to [crazyguitar/mscclpp](https://github.com/crazyguitar/mscclpp)
   > MSCCL++: A GPU-driven communication stack for scalable AI applications
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy)
+  > A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with rea...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [g0ldyy/comet](https://github.com/g0ldyy/comet)
+  > Stremio's fastest torrent/debrid search add-on.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [SingleStepTests/80386](https://github.com/SingleStepTests/80386)
   > A Hardware-Generated Emulator Test Suite for the Intel 80386
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [SingleStepTests/65x02](https://github.com/SingleStepTests/65x02)
   > A language-agnostic JSON-encoded instruction-by-instruction test suite for the 65[c]02 that includes...
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [1ay1/neowall](https://github.com/1ay1/neowall)
+  > 🎨 A reliable Wayland wallpaper engine written in C. Multi-monitor support, smooth transitions, hot-r...
+
 
 ---
-*最后更新于 2025-11-05 05:17:01 UTC*
+*最后更新于 2025-11-05 06:25:24 UTC*
 *历史记录保存在 `archive` 目录中。*
