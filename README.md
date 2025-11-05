@@ -73,6 +73,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [frankheat/frida-jdwp-loader](https://github.com/frankheat/frida-jdwp-loader)
   > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake)
+  > 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible...
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [veritas501/ida_printk_str_recover](https://github.com/veritas501/ida_printk_str_recover)
   > 识别恢复printk字符串的小脚本
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2025-11-05 12:35:21 UTC*
+*最后更新于 2025-11-05 13:29:54 UTC*
 *历史记录保存在 `archive` 目录中。*
