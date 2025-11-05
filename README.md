@@ -40,9 +40,16 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [SingleStepTests/65x02](https://github.com/SingleStepTests/65x02)
   > A language-agnostic JSON-encoded instruction-by-instruction test suite for the 65[c]02 that includes...
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [yywz1999/gdb-mcp-server](https://github.com/yywz1999/gdb-mcp-server)
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ChinaLinuxKernel/CLK2025](https://github.com/ChinaLinuxKernel/CLK2025)
   > Slids of CLK2025, vivo, ShenZhen
+
+### [kdrag0n](https://github.com/kdrag0n)
+- 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [kdrag0n/embassy](https://github.com/kdrag0n/embassy) to [kdrag0n/embassy](https://github.com/kdrag0n/embassy)
+  > Modern embedded framework, using Rust and async.
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [1ay1/neowall](https://github.com/1ay1/neowall)
@@ -52,7 +59,11 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [google/perfetto](https://github.com/google/perfetto)
   > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [yuchuangu85/ChkBugReport](https://github.com/yuchuangu85/ChkBugReport) to [yuchuangu85/ChkBugReport](https://github.com/yuchuangu85/ChkBugReport)
+  > A command line tool which parses and converts android bugreport files into more human readable html ...
+
 
 ---
-*最后更新于 2025-11-05 08:22:43 UTC*
+*最后更新于 2025-11-05 09:19:10 UTC*
 *历史记录保存在 `archive` 目录中。*
