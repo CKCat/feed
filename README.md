@@ -15,6 +15,8 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [daeuniverse/dae](https://github.com/daeuniverse/dae)
   > eBPF-based Linux high-performance transparent proxy solution.
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LittleSound/talks-template](https://github.com/LittleSound/talks-template)
+  > Talks of Template, using Slidev
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)
@@ -95,5 +97,5 @@
 
 
 ---
-*最后更新于 2025-11-05 16:21:47 UTC*
+*最后更新于 2025-11-05 17:16:26 UTC*
 *历史记录保存在 `archive` 目录中。*
