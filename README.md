@@ -55,6 +55,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ChinaLinuxKernel/CLK2025](https://github.com/ChinaLinuxKernel/CLK2025)
   > Slids of CLK2025, vivo, ShenZhen
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [DevX-Cipher/7zip-plugin](https://github.com/DevX-Cipher/7zip-plugin)
+  > Installer unpacker Plugins for 7zip
+
 ### [kdrag0n](https://github.com/kdrag0n)
 - 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [kdrag0n/embassy](https://github.com/kdrag0n/embassy) to [kdrag0n/embassy](https://github.com/kdrag0n/embassy)
   > Modern embedded framework, using Rust and async.
@@ -66,6 +70,14 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [google/perfetto](https://github.com/google/perfetto)
   > Production-grade client-side tracing, profiling, and analysis for complex software systems.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [frankheat/frida-jdwp-loader](https://github.com/frankheat/frida-jdwp-loader)
+  > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [veritas501/ida_printk_str_recover](https://github.com/veritas501/ida_printk_str_recover)
+  > 识别恢复printk字符串的小脚本
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [veritas501/ida_better_arm64_brk](https://github.com/veritas501/ida_better_arm64_brk)
+  > 怎么IDA的brk指令还得自己修啊（恼
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [yuchuangu85/ChkBugReport](https://github.com/yuchuangu85/ChkBugReport) to [yuchuangu85/ChkBugReport](https://github.com/yuchuangu85/ChkBugReport)
@@ -73,5 +85,5 @@
 
 
 ---
-*最后更新于 2025-11-05 11:15:07 UTC*
+*最后更新于 2025-11-05 12:35:21 UTC*
 *历史记录保存在 `archive` 目录中。*
