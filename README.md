@@ -15,6 +15,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ddiu8081/blive-message-listener](https://github.com/ddiu8081/blive-message-listener)
   > Bilibili live danmu listener with type.  类型友好的 Bilibili 直播间弹幕监听库。
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [DearVa/Everywhere](https://github.com/DearVa/Everywhere)
+  > A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integratin...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden)
@@ -40,6 +42,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea)
   > A syntax highlighting, code folding text editor for Java Swing applications.
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
+
 ### [w296488320](https://github.com/w296488320)
 - 🚀 👤 [w296488320](https://github.com/w296488320) Made [w296488320/AndroidDeviceRiskBookData](https://github.com/w296488320/AndroidDeviceRiskBookData) public
   > 《Android设备指纹攻防&风险环境检测》资料
@@ -51,5 +57,5 @@
 
 
 ---
-*最后更新于 2025-11-06 16:22:12 UTC*
+*最后更新于 2025-11-06 17:16:56 UTC*
 *历史记录保存在 `archive` 目录中。*
