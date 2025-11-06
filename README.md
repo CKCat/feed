@@ -22,6 +22,12 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [w296488320/AndroidDeviceRiskBookData](https://github.com/w296488320/AndroidDeviceRiskBookData)
   > 《Android设备指纹攻防&风险环境检测》资料
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Nowafen/pE](https://github.com/Nowafen/pE)
+  > Simple roadmap for "Post Exploitation"
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noperator/slice](https://github.com/noperator/slice)
+  > SAST + LLM Interprocedural Context Extractor
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea)
   > A syntax highlighting, code folding text editor for Java Swing applications.
@@ -37,5 +43,5 @@
 
 
 ---
-*最后更新于 2025-11-06 12:35:09 UTC*
+*最后更新于 2025-11-06 13:29:43 UTC*
 *历史记录保存在 `archive` 目录中。*
