@@ -8,6 +8,10 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > ✨ Open-source AI hackers for your apps 👨🏻‍💻
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [itisluiz/DLLForward](https://github.com/itisluiz/DLLForward)
+  > DLL Forwarder/Proxy/Hijacker for x86, x64 and agnostic to name mangling.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ddiu8081/blive-message-listener](https://github.com/ddiu8081/blive-message-listener)
   > Bilibili live danmu listener with type.  类型友好的 Bilibili 直播间弹幕监听库。
@@ -47,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-11-06 15:18:39 UTC*
+*最后更新于 2025-11-06 16:22:12 UTC*
 *历史记录保存在 `archive` 目录中。*
