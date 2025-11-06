@@ -18,6 +18,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus)
   > PostgreSQL monitoring and backups (with UI and self hosted)
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [w296488320/AndroidDeviceRiskBookData](https://github.com/w296488320/AndroidDeviceRiskBookData)
+  > 《Android设备指纹攻防&风险环境检测》资料
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea)
   > A syntax highlighting, code folding text editor for Java Swing applications.
@@ -28,7 +32,10 @@
 - 🌟 👤 [w296488320](https://github.com/w296488320) Starred [w296488320/AndroidDeviceRiskBookData](https://github.com/w296488320/AndroidDeviceRiskBookData)
   > 《Android设备指纹攻防&风险环境检测》资料
 
+### [wrlu](https://github.com/wrlu)
+- 🍴 👤 [wrlu](https://github.com/wrlu) Forked [wrlu/jebmcp](https://github.com/wrlu/jebmcp) to [wrlu/jebmcp](https://github.com/wrlu/jebmcp)
+
 
 ---
-*最后更新于 2025-11-06 07:16:41 UTC*
+*最后更新于 2025-11-06 08:23:16 UTC*
 *历史记录保存在 `archive` 目录中。*
