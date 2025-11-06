@@ -41,6 +41,8 @@
   > Rerousces related to time-travel debugging (TTD)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple)
   > the elegant TypeScript UI framework
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fintarin/Fintamath](https://github.com/fintarin/Fintamath)
+  > C++ library for symbolic computations
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea)
@@ -61,5 +63,5 @@
 
 
 ---
-*最后更新于 2025-11-06 21:15:11 UTC*
+*最后更新于 2025-11-06 22:15:54 UTC*
 *历史记录保存在 `archive` 目录中。*
