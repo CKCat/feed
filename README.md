@@ -39,6 +39,8 @@
   > SAST + LLM Interprocedural Context Extractor
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xusheng6/awesome-ttd](https://github.com/xusheng6/awesome-ttd)
   > Rerousces related to time-travel debugging (TTD)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple)
+  > the elegant TypeScript UI framework
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea)
@@ -59,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-11-06 19:13:39 UTC*
+*最后更新于 2025-11-06 20:19:02 UTC*
 *历史记录保存在 `archive` 目录中。*
