@@ -24,6 +24,9 @@
 - 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [kdrag0n/overengineering](https://github.com/kdrag0n/overengineering) to [kdrag0n/overengineering](https://github.com/kdrag0n/overengineering)
   > a webring of interesting people
 
+### [konata](https://github.com/konata)
+- 🌟 👤 [konata](https://github.com/konata) Starred [dstmath/HWFramework](https://github.com/dstmath/HWFramework)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DebugPrivilege/WindowsAP1](https://github.com/DebugPrivilege/WindowsAP1)
   > Code samples that serve as references for Windows API functions
@@ -50,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-11-07 11:14:06 UTC*
+*最后更新于 2025-11-07 12:33:59 UTC*
 *历史记录保存在 `archive` 目录中。*
