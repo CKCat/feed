@@ -12,6 +12,10 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [Velocidex/go-ext4](https://github.com/Velocidex/go-ext4)
   > Parser for Ext4 filesystems
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
+  > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jd-opensource/xllm](https://github.com/jd-opensource/xllm)
   > A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
@@ -37,8 +41,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector)
   > A tool to detect root on android
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [thelordalex/WAHideBootloader](https://github.com/thelordalex/WAHideBootloader)
+  > WAHideBootloader is a Magisk module that hides the bootloader status from apps like WhatsApp and Wha...
 
 
 ---
-*最后更新于 2025-11-07 08:22:53 UTC*
+*最后更新于 2025-11-07 09:17:36 UTC*
 *历史记录保存在 `archive` 目录中。*
