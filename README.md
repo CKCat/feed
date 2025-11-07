@@ -21,6 +21,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [kognise/overengineering](https://github.com/kognise/overengineering)
   > a webring of interesting people
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Tim-Maes/Facet](https://github.com/Tim-Maes/Facet)
+  > Generate Facets, DTOs, projections, and mappers from complex domain models.
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [Velocidex/go-ext4](https://github.com/Velocidex/go-ext4)
   > Parser for Ext4 filesystems
@@ -33,6 +37,10 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jd-opensource/xllm](https://github.com/jd-opensource/xllm)
   > A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+
+### [j-hc](https://github.com/j-hc)
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
+  > An even funnier way to disable windows defender. (through WSC api)
 
 ### [kdrag0n](https://github.com/kdrag0n)
 - 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [kdrag0n/overengineering](https://github.com/kdrag0n/overengineering) to [kdrag0n/overengineering](https://github.com/kdrag0n/overengineering)
@@ -71,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-11-07 21:12:19 UTC*
+*最后更新于 2025-11-07 22:15:07 UTC*
 *历史记录保存在 `archive` 目录中。*
