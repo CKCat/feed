@@ -63,6 +63,9 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite)
   > expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [junknet/super-dbi](https://github.com/junknet/super-dbi)
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [adrielcafe/bonsai](https://github.com/adrielcafe/bonsai)
   > :deciduous_tree: A multiplatform tree view for Jetpack Compose
@@ -79,5 +82,5 @@
 
 
 ---
-*最后更新于 2025-11-07 22:15:07 UTC*
+*最后更新于 2025-11-07 23:14:47 UTC*
 *历史记录保存在 `archive` 目录中。*
