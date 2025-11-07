@@ -26,7 +26,11 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite)
   > expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector)
+  > A tool to detect root on android
+
 
 ---
-*最后更新于 2025-11-07 03:08:13 UTC*
+*最后更新于 2025-11-07 04:19:51 UTC*
 *历史记录保存在 `archive` 目录中。*
