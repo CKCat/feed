@@ -8,6 +8,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
   > A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown re...
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [Velocidex/go-ext4](https://github.com/Velocidex/go-ext4)
+  > Parser for Ext4 filesystems
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jd-opensource/xllm](https://github.com/jd-opensource/xllm)
   > A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-11-07 04:19:51 UTC*
+*最后更新于 2025-11-07 05:16:48 UTC*
 *历史记录保存在 `archive` 目录中。*
