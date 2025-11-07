@@ -43,8 +43,12 @@
   > A tool to detect root on android
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [thelordalex/WAHideBootloader](https://github.com/thelordalex/WAHideBootloader)
   > WAHideBootloader is a Magisk module that hides the bootloader status from apps like WhatsApp and Wha...
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [gojue/ecaptureQ](https://github.com/gojue/ecaptureQ)
+  > A cross-platform GUI for ecapture built with Tauri, enabling eBPF-based, non-intrusive TLS inspectio...
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [ys1231/ecaptureQ](https://github.com/ys1231/ecaptureQ) to [ys1231/ecaptureQ](https://github.com/ys1231/ecaptureQ)
+  > A cross-platform GUI for ecapture built with Tauri, enabling eBPF-based, non-intrusive TLS inspectio...
 
 
 ---
-*最后更新于 2025-11-07 09:17:36 UTC*
+*最后更新于 2025-11-07 10:18:50 UTC*
 *历史记录保存在 `archive` 目录中。*
