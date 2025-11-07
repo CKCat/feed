@@ -17,6 +17,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [termbox/termbox2](https://github.com/termbox/termbox2)
   > terminal I/O library
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [kognise/overengineering](https://github.com/kognise/overengineering)
+  > a webring of interesting people
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [Velocidex/go-ext4](https://github.com/Velocidex/go-ext4)
   > Parser for Ext4 filesystems
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-11-07 16:21:19 UTC*
+*最后更新于 2025-11-07 17:15:05 UTC*
 *历史记录保存在 `archive` 目录中。*
