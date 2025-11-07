@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [bkerler/mtkclient](https://github.com/bkerler/mtkclient)
+  > MTK reverse engineering and flash tool
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
   > A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown re...
@@ -32,6 +36,8 @@
   > Code samples that serve as references for Windows API functions
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > ✨ Open-source AI hackers for your apps 👨🏻‍💻
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [mrexodia/llvmcpy](https://github.com/mrexodia/llvmcpy) to [mrexodia/llvmcpy](https://github.com/mrexodia/llvmcpy)
+  > Python bindings for LLVM auto-generated from the LLVM-C API
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite)
@@ -53,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-11-07 12:33:59 UTC*
+*最后更新于 2025-11-07 13:25:48 UTC*
 *历史记录保存在 `archive` 目录中。*
