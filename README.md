@@ -12,9 +12,15 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
   > A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown re...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sarensw/MacPacker-TestArchives](https://github.com/sarensw/MacPacker-TestArchives)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [termbox/termbox2](https://github.com/termbox/termbox2)
+  > terminal I/O library
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [Velocidex/go-ext4](https://github.com/Velocidex/go-ext4)
   > Parser for Ext4 filesystems
+- 🍴 👤 [affggh](https://github.com/affggh) Forked [CircleCashTeam/go-ext4-filesystem](https://github.com/CircleCashTeam/go-ext4-filesystem) to [CircleCashTeam/go-ext4-filesystem](https://github.com/CircleCashTeam/go-ext4-filesystem)
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -38,6 +44,8 @@
   > ✨ Open-source AI hackers for your apps 👨🏻‍💻
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [mrexodia/llvmcpy](https://github.com/mrexodia/llvmcpy) to [mrexodia/llvmcpy](https://github.com/mrexodia/llvmcpy)
   > Python bindings for LLVM auto-generated from the LLVM-C API
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [solaluset/pypp](https://github.com/solaluset/pypp)
+  > A C99-like preprocessor for Python
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite)
@@ -59,5 +67,5 @@
 
 
 ---
-*最后更新于 2025-11-07 14:16:38 UTC*
+*最后更新于 2025-11-07 15:17:16 UTC*
 *历史记录保存在 `archive` 目录中。*
