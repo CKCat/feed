@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [d3adrabbit/origami](https://github.com/d3adrabbit/origami)
+  > Free 3D Motion Graphics
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ri-char/zygisk-dump-dex](https://github.com/ri-char/zygisk-dump-dex)
   > A zygisk module that hooks `libdexfile.so` to dump dex
@@ -36,5 +40,5 @@
 
 
 ---
-*最后更新于 2025-11-08 12:30:30 UTC*
+*最后更新于 2025-11-08 13:21:05 UTC*
 *历史记录保存在 `archive` 目录中。*
