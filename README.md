@@ -37,8 +37,10 @@
   > Simple HTML5 Charts using the <canvas> tag
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)
   > 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [BookerLiu/GeekDesk](https://github.com/BookerLiu/GeekDesk)
+  > 🔥小巧、美观的桌面快速启动工具     Small, beautiful desktop quickstart management tool with integrated Everything s...
 
 
 ---
-*最后更新于 2025-11-08 13:21:05 UTC*
+*最后更新于 2025-11-08 14:13:34 UTC*
 *历史记录保存在 `archive` 目录中。*
