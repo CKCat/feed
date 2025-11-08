@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ri-char/zygisk-dump-dex](https://github.com/ri-char/zygisk-dump-dex)
+  > A zygisk module that hooks `libdexfile.so` to dump dex
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [dmvevents/efa-rdma](https://github.com/dmvevents/efa-rdma)
   > High-performance GPU-to-GPU communication library using AWS EFA and RDMA for distributed deep learni...
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-11-08 08:19:45 UTC*
+*最后更新于 2025-11-08 09:15:22 UTC*
 *历史记录保存在 `archive` 目录中。*
