@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [JingMatrix/libxposed-example](https://github.com/JingMatrix/libxposed-example) to [JingMatrix/libxposed-example](https://github.com/JingMatrix/libxposed-example)
+  > Example module for Xposed API >= 100
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [d3adrabbit/origami](https://github.com/d3adrabbit/origami)
   > Free 3D Motion Graphics
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-11-08 14:13:34 UTC*
+*最后更新于 2025-11-08 15:14:32 UTC*
 *历史记录保存在 `archive` 目录中。*
