@@ -20,7 +20,13 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [google/accompanist](https://github.com/google/accompanist)
   > A collection of extension libraries for Jetpack Compose
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
+  > Simple HTML5 Charts using the <canvas> tag
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)
+  > 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻...
+
 
 ---
-*最后更新于 2025-11-08 04:18:55 UTC*
+*最后更新于 2025-11-08 05:15:21 UTC*
 *历史记录保存在 `archive` 目录中。*
