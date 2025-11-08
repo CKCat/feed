@@ -10,6 +10,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/efa-rdma](https://github.com/crazyguitar/efa-rdma) to [crazyguitar/efa-rdma](https://github.com/crazyguitar/efa-rdma)
   > High-performance GPU-to-GPU communication library using AWS EFA and RDMA for distributed deep learni...
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot)
+  > Open source crypto trading bot
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
   > An even funnier way to disable windows defender. (through WSC api)
@@ -28,5 +32,5 @@
 
 
 ---
-*最后更新于 2025-11-08 07:14:38 UTC*
+*最后更新于 2025-11-08 08:19:45 UTC*
 *历史记录保存在 `archive` 目录中。*
