@@ -8,6 +8,10 @@
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [JingMatrix/libxposed-example](https://github.com/JingMatrix/libxposed-example) to [JingMatrix/libxposed-example](https://github.com/JingMatrix/libxposed-example)
   > Example module for Xposed API >= 100
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [minmaxflow/mini-kode](https://github.com/minmaxflow/mini-kode)
+  > An educational AI coding agent CLI
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [d3adrabbit/origami](https://github.com/d3adrabbit/origami)
   > Free 3D Motion Graphics
@@ -46,5 +50,5 @@
 
 
 ---
-*最后更新于 2025-11-08 16:18:07 UTC*
+*最后更新于 2025-11-08 17:13:07 UTC*
 *历史记录保存在 `archive` 目录中。*
