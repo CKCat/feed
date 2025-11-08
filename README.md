@@ -25,6 +25,8 @@
   > High-performance GPU-to-GPU communication library using AWS EFA and RDMA for distributed deep learni...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/efa-rdma](https://github.com/crazyguitar/efa-rdma) to [crazyguitar/efa-rdma](https://github.com/crazyguitar/efa-rdma)
   > High-performance GPU-to-GPU communication library using AWS EFA and RDMA for distributed deep learni...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+  > NVIDIA Linux open GPU kernel module source
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot)
@@ -50,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-11-08 19:12:06 UTC*
+*最后更新于 2025-11-08 20:16:18 UTC*
 *历史记录保存在 `archive` 目录中。*
