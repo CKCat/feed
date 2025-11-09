@@ -16,7 +16,13 @@
 - 🌟 👤 [baikaishiuc](https://github.com/baikaishiuc) Starred [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
   > Direct Memory Access (DMA) Attack Software
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [DPDK/dpdk](https://github.com/DPDK/dpdk)
+  > Data Plane Development Kit
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/dpdk](https://github.com/crazyguitar/dpdk) to [crazyguitar/dpdk](https://github.com/crazyguitar/dpdk)
+  > Data Plane Development Kit
+
 
 ---
-*最后更新于 2025-11-09 07:14:55 UTC*
+*最后更新于 2025-11-09 08:18:48 UTC*
 *历史记录保存在 `archive` 目录中。*
