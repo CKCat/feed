@@ -25,8 +25,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tobi/try](https://github.com/tobi/try)
   > fresh directories for every vibe
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [winsecurity/MaleficentVM](https://github.com/winsecurity/MaleficentVM)
+  > This is practice VM for malware development
 
 
 ---
-*最后更新于 2025-11-09 11:12:04 UTC*
+*最后更新于 2025-11-09 12:30:30 UTC*
 *历史记录保存在 `archive` 目录中。*
