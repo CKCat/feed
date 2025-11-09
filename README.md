@@ -22,7 +22,11 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/dpdk](https://github.com/crazyguitar/dpdk) to [crazyguitar/dpdk](https://github.com/crazyguitar/dpdk)
   > Data Plane Development Kit
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tobi/try](https://github.com/tobi/try)
+  > fresh directories for every vibe
+
 
 ---
-*最后更新于 2025-11-09 09:15:17 UTC*
+*最后更新于 2025-11-09 10:15:46 UTC*
 *历史记录保存在 `archive` 目录中。*
