@@ -8,6 +8,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ri-char/eStrace](https://github.com/ri-char/eStrace)
   > A tool that traces system calls using eBPF
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs)
+  > macOS: mount any linux-supported filesystem read/write using NFS and a microVM
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
   > A rule-based tunnel for Android.
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-11-09 12:30:30 UTC*
+*最后更新于 2025-11-09 13:21:17 UTC*
 *历史记录保存在 `archive` 目录中。*
