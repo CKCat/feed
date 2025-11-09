@@ -12,7 +12,11 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
   > A rule-based tunnel for Android.
 
+### [baikaishiuc](https://github.com/baikaishiuc)
+- 🌟 👤 [baikaishiuc](https://github.com/baikaishiuc) Starred [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
+  > Direct Memory Access (DMA) Attack Software
+
 
 ---
-*最后更新于 2025-11-09 05:15:37 UTC*
+*最后更新于 2025-11-09 06:22:55 UTC*
 *历史记录保存在 `archive` 目录中。*
