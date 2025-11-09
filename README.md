@@ -4,11 +4,15 @@
 
 ## 今日动态
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ri-char/eStrace](https://github.com/ri-char/eStrace)
+  > A tool that traces system calls using eBPF
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
   > A rule-based tunnel for Android.
 
 
 ---
-*最后更新于 2025-11-09 03:10:47 UTC*
+*最后更新于 2025-11-09 04:18:52 UTC*
 *历史记录保存在 `archive` 目录中。*
