@@ -7,10 +7,16 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ri-char/eStrace](https://github.com/ri-char/eStrace)
   > A tool that traces system calls using eBPF
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop app for managing and switching provider configurations & MCP servers for Cl...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs)
   > macOS: mount any linux-supported filesystem read/write using NFS and a microVM
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
@@ -33,8 +39,10 @@
   > This is practice VM for malware development
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
   > 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backe...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dspinellis/git-issue](https://github.com/dspinellis/git-issue)
+  > Git-based decentralized issue management
 
 
 ---
-*最后更新于 2025-11-09 14:13:06 UTC*
+*最后更新于 2025-11-09 15:14:21 UTC*
 *历史记录保存在 `archive` 目录中。*
