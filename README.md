@@ -17,6 +17,10 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [biodatlab/thonburian-whisper](https://github.com/biodatlab/thonburian-whisper)
+  > Thonburian Whisper: Open models for fine-tuned Whisper in Thai. Try our demo on Huggingface space:
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+  > Open Source AI coding assistant for planning, building, and fixing code. We frequently merge feature...
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2025-11-09 15:14:21 UTC*
+*最后更新于 2025-11-09 16:17:51 UTC*
 *历史记录保存在 `archive` 目录中。*
