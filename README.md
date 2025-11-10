@@ -15,6 +15,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [screepers/steamless-client](https://github.com/screepers/steamless-client)
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [shomykohai/mtk-payloads](https://github.com/shomykohai/mtk-payloads)
+  > Payloads for MediaTek Download Agents
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [encounter/objdiff](https://github.com/encounter/objdiff)
   > A local diffing tool for decompilation projects
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-11-10 17:15:56 UTC*
+*最后更新于 2025-11-10 18:24:30 UTC*
 *历史记录保存在 `archive` 目录中。*
