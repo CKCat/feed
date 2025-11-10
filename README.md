@@ -8,6 +8,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
   > Model Context Protocol Servers
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [anasfanani/Magisk-Tailscaled](https://github.com/anasfanani/Magisk-Tailscaled)
+  > Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way...
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [screepers/steamless-client](https://github.com/screepers/steamless-client)
 
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-11-10 09:20:20 UTC*
+*最后更新于 2025-11-10 10:19:42 UTC*
 *历史记录保存在 `archive` 目录中。*
