@@ -11,6 +11,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [screepers/steamless-client](https://github.com/screepers/steamless-client)
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [encounter/objdiff](https://github.com/encounter/objdiff)
+  > A local diffing tool for decompilation projects
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewthecodertx/go-6502-emulator](https://github.com/andrewthecodertx/go-6502-emulator)
   > 6502 and 65C02 emulator in Go
@@ -45,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-11-10 07:16:47 UTC*
+*最后更新于 2025-11-10 08:24:40 UTC*
 *历史记录保存在 `archive` 目录中。*
