@@ -35,6 +35,10 @@
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [diversenok/DiaSymbolView](https://github.com/diversenok/DiaSymbolView)
+  > PDB file inspection tool
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [rajivm1991/DroidDock](https://github.com/rajivm1991/DroidDock)
   > A sleek macOS desktop application for browsing Android device files via ADB
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-11-10 22:16:24 UTC*
+*最后更新于 2025-11-10 23:15:55 UTC*
 *历史记录保存在 `archive` 目录中。*
