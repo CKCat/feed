@@ -47,6 +47,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [star-hengxing/catter](https://github.com/star-hengxing/catter)
   > A new tool to capture C++ compilation command
 
+### [reveny](https://github.com/reveny)
+- 🌟 👤 [reveny](https://github.com/reveny) Starred [ri-char/zygisk-dump-dex](https://github.com/ri-char/zygisk-dump-dex)
+  > A zygisk module that hooks `libdexfile.so` to dump dex
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [stevenyu113228/Claude-Code-as-C2](https://github.com/stevenyu113228/Claude-Code-as-C2)
   > Claude Code as C2
@@ -61,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-11-10 19:13:40 UTC*
+*最后更新于 2025-11-10 20:20:10 UTC*
 *历史记录保存在 `archive` 目录中。*
