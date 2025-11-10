@@ -7,6 +7,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [screepers/steamless-client](https://github.com/screepers/steamless-client)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewthecodertx/go-6502-emulator](https://github.com/andrewthecodertx/go-6502-emulator)
+  > 6502 and 65C02 emulator in Go
+
 ### [evilpan](https://github.com/evilpan)
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
@@ -21,5 +25,5 @@
 
 
 ---
-*最后更新于 2025-11-10 03:16:45 UTC*
+*最后更新于 2025-11-10 04:24:56 UTC*
 *历史记录保存在 `archive` 目录中。*
