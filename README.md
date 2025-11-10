@@ -46,6 +46,8 @@
   > The official Unity integration for Yarn Spinner, the friendly dialogue tool.
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [star-hengxing/catter](https://github.com/star-hengxing/catter)
   > A new tool to capture C++ compilation command
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jimmy0313/MorphsPlayer](https://github.com/jimmy0313/MorphsPlayer)
+  > Open-source plugin with new Notify State to play morphs from animation in UE5.5
 
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [ri-char/zygisk-dump-dex](https://github.com/ri-char/zygisk-dump-dex)
@@ -65,5 +67,5 @@
 
 
 ---
-*最后更新于 2025-11-10 21:15:27 UTC*
+*最后更新于 2025-11-10 22:16:24 UTC*
 *历史记录保存在 `archive` 目录中。*
