@@ -39,7 +39,15 @@
 - 🌟 👤 [kdrag0n](https://github.com/kdrag0n) Starred [kognise/jsb](https://github.com/kognise/jsb)
   > 🐝
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qiuchangjie/UeCore](https://github.com/qiuchangjie/UeCore)
+  > UeCore wow game server c++ 开源魔兽世界 http://uecore.org
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qiuchangjie/Fantasy](https://github.com/qiuchangjie/Fantasy)
+  > C # Game Framework, but not limited to games. Can be used for non game business development
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [kehrazy/temppy](https://github.com/kehrazy/temppy)
+  > comptime-only interpreter
+
 
 ---
-*最后更新于 2025-11-11 05:17:22 UTC*
+*最后更新于 2025-11-11 06:25:58 UTC*
 *历史记录保存在 `archive` 目录中。*
