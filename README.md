@@ -9,6 +9,8 @@
   > kernel-pwn and writeup collection
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
   > A collection of links related to Linux kernel security and exploitation
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
+  > This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadg...
 
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/ida-sdk](https://github.com/lallouslab/ida-sdk) to [lallouslab/ida-sdk](https://github.com/lallouslab/ida-sdk)
@@ -91,5 +93,5 @@
 
 
 ---
-*最后更新于 2025-11-11 22:16:04 UTC*
+*最后更新于 2025-11-11 23:15:07 UTC*
 *历史记录保存在 `archive` 目录中。*
