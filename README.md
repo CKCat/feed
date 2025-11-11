@@ -43,6 +43,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kehrazy/temppy](https://github.com/kehrazy/temppy)
   > comptime-only interpreter
 
+### [hackcatml](https://github.com/hackcatml)
+- 🍴 👤 [hackcatml](https://github.com/hackcatml) Forked [hackcatml/pynecore](https://github.com/hackcatml/pynecore) to [hackcatml/pynecore](https://github.com/hackcatml/pynecore)
+  > PyneCore - Pine Script Like Python Framework
+
 ### [kdrag0n](https://github.com/kdrag0n)
 - 🌟 👤 [kdrag0n](https://github.com/kdrag0n) Starred [kognise/jsb](https://github.com/kognise/jsb)
   > 🐝
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-11-11 12:35:32 UTC*
+*最后更新于 2025-11-11 13:29:00 UTC*
 *历史记录保存在 `archive` 目录中。*
