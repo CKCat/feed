@@ -14,6 +14,8 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
   > :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [frankheat/frida-jdwp-loader](https://github.com/frankheat/frida-jdwp-loader)
+  > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
@@ -39,6 +41,10 @@
 - 🌟 👤 [kdrag0n](https://github.com/kdrag0n) Starred [kognise/jsb](https://github.com/kognise/jsb)
   > 🐝
 
+### [konata](https://github.com/konata)
+- 🍴 👤 [konata](https://github.com/konata) Forked [konata/frida-jdwp-loader](https://github.com/konata/frida-jdwp-loader) to [konata/frida-jdwp-loader](https://github.com/konata/frida-jdwp-loader)
+  > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qiuchangjie/UeCore](https://github.com/qiuchangjie/UeCore)
   > UeCore wow game server c++ 开源魔兽世界 http://uecore.org
@@ -49,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-11-11 06:25:58 UTC*
+*最后更新于 2025-11-11 07:17:20 UTC*
 *历史记录保存在 `archive` 目录中。*
