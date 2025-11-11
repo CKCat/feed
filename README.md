@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
+  > kernel-pwn and writeup collection
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
+  > A collection of links related to Linux kernel security and exploitation
+
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/ida-sdk](https://github.com/lallouslab/ida-sdk) to [lallouslab/ida-sdk](https://github.com/lallouslab/ida-sdk)
   > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
@@ -70,6 +76,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rotki/rotki](https://github.com/rotki/rotki)
   > A portfolio tracking, analytics, accounting and management application that protects your privacy
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [YuvDwi/Steve](https://github.com/YuvDwi/Steve)
+  > Cursor for Minecraft
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qiuchangjie/UeCore](https://github.com/qiuchangjie/UeCore)
@@ -83,5 +91,5 @@
 
 
 ---
-*最后更新于 2025-11-11 21:15:08 UTC*
+*最后更新于 2025-11-11 22:16:04 UTC*
 *历史记录保存在 `archive` 目录中。*
