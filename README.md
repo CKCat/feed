@@ -32,6 +32,12 @@
   > Training API
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [helblazer811/Diffusion-Explorer](https://github.com/helblazer811/Diffusion-Explorer)
   > Interactive visualizations of the geometric intuition behind diffusion models.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Snapchat/Valdi](https://github.com/Snapchat/Valdi)
+  > Valdi is a cross-platform UI framework that delivers native performance without sacrificing develope...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google/adk-go](https://github.com/google/adk-go)
+  > An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agent...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+  > AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kehrazy/temppy](https://github.com/kehrazy/temppy)
@@ -61,5 +67,5 @@
 
 
 ---
-*最后更新于 2025-11-11 11:14:57 UTC*
+*最后更新于 2025-11-11 12:35:32 UTC*
 *历史记录保存在 `archive` 目录中。*
