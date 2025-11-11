@@ -41,6 +41,10 @@
 - 🌟 👤 [kdrag0n](https://github.com/kdrag0n) Starred [kognise/jsb](https://github.com/kognise/jsb)
   > 🐝
 
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [frankheat/frida-jdwp-loader](https://github.com/frankheat/frida-jdwp-loader)
+  > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
+
 ### [konata](https://github.com/konata)
 - 🍴 👤 [konata](https://github.com/konata) Forked [konata/frida-jdwp-loader](https://github.com/konata/frida-jdwp-loader) to [konata/frida-jdwp-loader](https://github.com/konata/frida-jdwp-loader)
   > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-11-11 07:17:20 UTC*
+*最后更新于 2025-11-11 08:22:24 UTC*
 *历史记录保存在 `archive` 目录中。*
