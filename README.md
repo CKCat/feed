@@ -56,8 +56,10 @@
   > C # Game Framework, but not limited to games. Can be used for non game business development
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [kehrazy/temppy](https://github.com/kehrazy/temppy)
   > comptime-only interpreter
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [frankheat/frida-jdwp-loader](https://github.com/frankheat/frida-jdwp-loader)
+  > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
 
 
 ---
-*最后更新于 2025-11-11 08:22:24 UTC*
+*最后更新于 2025-11-11 09:19:13 UTC*
 *历史记录保存在 `archive` 目录中。*
