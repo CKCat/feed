@@ -8,8 +8,16 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/ida-sdk](https://github.com/lallouslab/ida-sdk) to [lallouslab/ida-sdk](https://github.com/lallouslab/ida-sdk)
   > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [MegatronKing/openpanel](https://github.com/MegatronKing/openpanel) to [MegatronKing/openpanel](https://github.com/MegatronKing/openpanel)
+  > Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel w...
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [Mufanc/apps.apple.com](https://github.com/Mufanc/apps.apple.com) to [Mufanc/apps.apple.com](https://github.com/Mufanc/apps.apple.com)
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [mysticNicoCZ/nextdns-gnome-indicator](https://github.com/mysticNicoCZ/nextdns-gnome-indicator)
+  > An indicator gnome extension for controlling next-dns cli
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
@@ -59,6 +67,10 @@
 - 🍴 👤 [konata](https://github.com/konata) Forked [konata/frida-jdwp-loader](https://github.com/konata/frida-jdwp-loader) to [konata/frida-jdwp-loader](https://github.com/konata/frida-jdwp-loader)
   > A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enablin...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rotki/rotki](https://github.com/rotki/rotki)
+  > A portfolio tracking, analytics, accounting and management application that protects your privacy
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qiuchangjie/UeCore](https://github.com/qiuchangjie/UeCore)
   > UeCore wow game server c++ 开源魔兽世界 http://uecore.org
@@ -71,5 +83,5 @@
 
 
 ---
-*最后更新于 2025-11-11 15:17:59 UTC*
+*最后更新于 2025-11-11 16:21:17 UTC*
 *历史记录保存在 `archive` 目录中。*
