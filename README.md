@@ -23,6 +23,10 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kanren3/libcms](https://github.com/kanren3/libcms)
 
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [tooplick/qq_music_download](https://github.com/tooplick/qq_music_download)
+  > QQ 音乐单曲和批量下载
+
 ### [affggh](https://github.com/affggh)
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [CircleCashTeam/payload_extract](https://github.com/CircleCashTeam/payload_extract) to [CircleCashTeam/payload_extract](https://github.com/CircleCashTeam/payload_extract)
 
@@ -80,5 +84,5 @@
 
 
 ---
-*最后更新于 2025-11-12 12:36:18 UTC*
+*最后更新于 2025-11-12 13:31:09 UTC*
 *历史记录保存在 `archive` 目录中。*
