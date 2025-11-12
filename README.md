@@ -29,6 +29,8 @@
 
 ### [affggh](https://github.com/affggh)
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [CircleCashTeam/payload_extract](https://github.com/CircleCashTeam/payload_extract) to [CircleCashTeam/payload_extract](https://github.com/CircleCashTeam/payload_extract)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [CoderRC/libmingw32_extended](https://github.com/CoderRC/libmingw32_extended)
+  > A library for mingw32 that includes some POSIX functions but eventually all of the POSIX functions w...
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [frankheat/frida-jdwp-loader](https://github.com/frankheat/frida-jdwp-loader)
@@ -61,6 +63,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [redis/RedisInsight](https://github.com/redis/RedisInsight)
   > Redis GUI by Redis
 
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [Crain99/cc-reverse](https://github.com/Crain99/cc-reverse)
+  > Cocos Creator逆向工具
+
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/kotlin-wasm-testing](https://github.com/phodal-archive/kotlin-wasm-testing) public
 
@@ -85,5 +91,5 @@
 
 
 ---
-*最后更新于 2025-11-12 14:17:50 UTC*
+*最后更新于 2025-11-12 15:19:28 UTC*
 *历史记录保存在 `archive` 目录中。*
