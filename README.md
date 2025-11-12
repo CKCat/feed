@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [reconurge/flowsint](https://github.com/reconurge/flowsint)
+  > A modern platform for visual, flexible, and extensible graph-based investigations.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kanren3/libcms](https://github.com/kanren3/libcms)
 
@@ -29,8 +33,16 @@
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/kotlin-wasm-testing](https://github.com/phodal-archive/kotlin-wasm-testing) public
 
+### [tcc0lin](https://github.com/tcc0lin)
+- 🌟 👤 [tcc0lin](https://github.com/tcc0lin) Starred [TMLP-Team/TMLP-Detectors-and-Bypassers](https://github.com/TMLP-Team/TMLP-Detectors-and-Bypassers)
+  > This project is designed to provide the TMLP environment implementers, detectors, and bypassers for ...
+- 🌟 👤 [tcc0lin](https://github.com/tcc0lin) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
+  > Disable LSPosed and restore all methods hooked by LSPlant / 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [dawnslab/jebmcp](https://github.com/dawnslab/jebmcp)
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [ys1231/BlackDex](https://github.com/ys1231/BlackDex) to [ys1231/BlackDex](https://github.com/ys1231/BlackDex)
+  > BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any env...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy)
@@ -42,5 +54,5 @@
 
 
 ---
-*最后更新于 2025-11-12 07:16:56 UTC*
+*最后更新于 2025-11-12 08:23:48 UTC*
 *历史记录保存在 `archive` 目录中。*
