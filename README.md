@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [reconurge/flowsint](https://github.com/reconurge/flowsint)
   > A modern platform for visual, flexible, and extensible graph-based investigations.
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [TheCruZ/Simple-Manual-Map-Injector](https://github.com/TheCruZ/Simple-Manual-Map-Injector)
+  > Simple C++ DLL Manual Map Injector For x86 and x64
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kanren3/libcms](https://github.com/kanren3/libcms)
 
@@ -29,6 +33,13 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
   > Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway...
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [necreativny/pypyne](https://github.com/necreativny/pypyne)
+  > dirty pynecore patch to run pynecore from python
+
+### [mpast](https://github.com/mpast)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-tenants](https://github.com/mpast/labs-node-working-with-tenants) to [mpast/labs-node-working-with-tenants](https://github.com/mpast/labs-node-working-with-tenants)
 
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/kotlin-wasm-testing](https://github.com/phodal-archive/kotlin-wasm-testing) public
@@ -54,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-11-12 09:19:00 UTC*
+*最后更新于 2025-11-12 10:19:36 UTC*
 *历史记录保存在 `archive` 目录中。*
