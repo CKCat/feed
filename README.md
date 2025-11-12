@@ -6,11 +6,15 @@
 
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [reconurge/flowsint](https://github.com/reconurge/flowsint)
-  > A modern platform for visual, flexible, and extensible graph-based investigations.
+  > A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity...
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [TheCruZ/Simple-Manual-Map-Injector](https://github.com/TheCruZ/Simple-Manual-Map-Injector)
   > Simple C++ DLL Manual Map Injector For x86 and x64
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Pluviobyte/Claude-Codex](https://github.com/Pluviobyte/Claude-Codex)
+  > Framework for Claude-driven task execution with Codex.
 
 ### [MegatronKing](https://github.com/MegatronKing)
 - 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
@@ -49,6 +53,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > Monorepo for pi packages: TUI library, agent framework, and pod management CLI
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [redis/RedisInsight](https://github.com/redis/RedisInsight)
+  > Redis GUI by Redis
 
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/kotlin-wasm-testing](https://github.com/phodal-archive/kotlin-wasm-testing) public
@@ -74,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-11-12 11:14:47 UTC*
+*最后更新于 2025-11-12 12:36:18 UTC*
 *历史记录保存在 `archive` 目录中。*
