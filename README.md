@@ -47,6 +47,10 @@
   > The FRRouting Protocol Suite
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/frr](https://github.com/crazyguitar/frr) to [crazyguitar/frr](https://github.com/crazyguitar/frr)
   > The FRRouting Protocol Suite
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)
+  > Portfolio analytics for quants, written in Python
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/quantstats](https://github.com/crazyguitar/quantstats) to [crazyguitar/quantstats](https://github.com/crazyguitar/quantstats)
+  > Portfolio analytics for quants, written in Python
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
@@ -95,5 +99,5 @@
 
 
 ---
-*最后更新于 2025-11-12 16:23:03 UTC*
+*最后更新于 2025-11-12 17:16:42 UTC*
 *历史记录保存在 `archive` 目录中。*
