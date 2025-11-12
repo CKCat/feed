@@ -23,6 +23,10 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kanren3/libcms](https://github.com/kanren3/libcms)
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen)
+  > yarGen is a generator for YARA rules
+
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [tooplick/qq_music_download](https://github.com/tooplick/qq_music_download)
   > QQ 音乐单曲和批量下载
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2025-11-12 15:19:28 UTC*
+*最后更新于 2025-11-12 16:23:03 UTC*
 *历史记录保存在 `archive` 目录中。*
