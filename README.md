@@ -51,6 +51,8 @@
   > Portfolio analytics for quants, written in Python
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/quantstats](https://github.com/crazyguitar/quantstats) to [crazyguitar/quantstats](https://github.com/crazyguitar/quantstats)
   > Portfolio analytics for quants, written in Python
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ROCm/rocSHMEM](https://github.com/ROCm/rocSHMEM)
+  > rocSHMEM intra-kernel networking runtime for AMD dGPUs on the ROCm platform.
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
@@ -99,5 +101,5 @@
 
 
 ---
-*最后更新于 2025-11-12 18:24:39 UTC*
+*最后更新于 2025-11-12 19:13:58 UTC*
 *历史记录保存在 `archive` 目录中。*
