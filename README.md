@@ -12,6 +12,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [TheCruZ/Simple-Manual-Map-Injector](https://github.com/TheCruZ/Simple-Manual-Map-Injector)
   > Simple C++ DLL Manual Map Injector For x86 and x64
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
+  > Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel w...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kanren3/libcms](https://github.com/kanren3/libcms)
 
@@ -40,6 +44,11 @@
 
 ### [mpast](https://github.com/mpast)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-tenants](https://github.com/mpast/labs-node-working-with-tenants) to [mpast/labs-node-working-with-tenants](https://github.com/mpast/labs-node-working-with-tenants)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-create-an-application](https://github.com/mpast/labs-node-create-an-application) to [mpast/labs-node-create-an-application](https://github.com/mpast/labs-node-create-an-application)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+  > Monorepo for pi packages: TUI library, agent framework, and pod management CLI
 
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/kotlin-wasm-testing](https://github.com/phodal-archive/kotlin-wasm-testing) public
@@ -65,5 +74,5 @@
 
 
 ---
-*最后更新于 2025-11-12 10:19:36 UTC*
+*最后更新于 2025-11-12 11:14:47 UTC*
 *历史记录保存在 `archive` 目录中。*
