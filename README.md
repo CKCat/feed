@@ -62,6 +62,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [necreativny/pypyne](https://github.com/necreativny/pypyne)
   > dirty pynecore patch to run pynecore from python
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [raulgotor/linkerscope](https://github.com/raulgotor/linkerscope)
+  > Create memory map diagrams directly from linker map files
+
 ### [mpast](https://github.com/mpast)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-tenants](https://github.com/mpast/labs-node-working-with-tenants) to [mpast/labs-node-working-with-tenants](https://github.com/mpast/labs-node-working-with-tenants)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-create-an-application](https://github.com/mpast/labs-node-create-an-application) to [mpast/labs-node-create-an-application](https://github.com/mpast/labs-node-create-an-application)
@@ -101,5 +105,5 @@
 
 
 ---
-*最后更新于 2025-11-12 19:13:58 UTC*
+*最后更新于 2025-11-12 20:19:22 UTC*
 *历史记录保存在 `archive` 目录中。*
