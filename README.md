@@ -9,6 +9,8 @@
   > Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright)
   > Pyright extension for coc.nvim
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [patois/HRDevHelper](https://github.com/patois/HRDevHelper)
+  > HexRays ctree visualization plugin
 
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [furiousMAC/continuity](https://github.com/furiousMAC/continuity)
@@ -38,6 +40,12 @@
 - 🍴 👤 [antonio-morales](https://github.com/antonio-morales) Forked [antonio-morales/thorium](https://github.com/antonio-morales/thorium) to [antonio-morales/thorium](https://github.com/antonio-morales/thorium)
   > A scalable file analysis and data generation platform that allows users to easily orchestrate arbitr...
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FoRTE-Research/UnTracer-AFL](https://github.com/FoRTE-Research/UnTracer-AFL)
+  > An AFL implementation with UnTracer (our coverage-guided tracer)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FoRTE-Research/HeXcite](https://github.com/FoRTE-Research/HeXcite)
+  > High-Efficiency eXpanded Coverage for Improved Testing of Executables
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
   > Samples for CUDA Developers which demonstrates features in CUDA Toolkit
@@ -61,5 +69,5 @@
 
 
 ---
-*最后更新于 2025-11-13 12:36:57 UTC*
+*最后更新于 2025-11-13 13:30:50 UTC*
 *历史记录保存在 `archive` 目录中。*
