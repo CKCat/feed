@@ -50,6 +50,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
   > Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 
+### [iwxyi](https://github.com/iwxyi)
+- 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+  > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用...
+
 ### [mpast](https://github.com/mpast)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-customize-the-login-experience](https://github.com/mpast/labs-node-customize-the-login-experience) to [mpast/labs-node-customize-the-login-experience](https://github.com/mpast/labs-node-customize-the-login-experience)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-multi-factor-authentication](https://github.com/mpast/labs-node-working-with-multi-factor-authentication) to [mpast/labs-node-working-with-multi-factor-authentication](https://github.com/mpast/labs-node-working-with-multi-factor-authentication)
@@ -58,10 +62,13 @@
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-the-user-profile](https://github.com/mpast/labs-node-working-with-the-user-profile) to [mpast/labs-node-working-with-the-user-profile](https://github.com/mpast/labs-node-working-with-the-user-profile)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-auth0-logout-scenarios](https://github.com/mpast/labs-node-auth0-logout-scenarios) to [mpast/labs-node-auth0-logout-scenarios](https://github.com/mpast/labs-node-auth0-logout-scenarios)
   > Implement different logout scenarios with Auth0.
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-calling-an-api-from-m2m](https://github.com/mpast/labs-node-calling-an-api-from-m2m) to [mpast/labs-node-calling-an-api-from-m2m](https://github.com/mpast/labs-node-calling-an-api-from-m2m)
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
   > 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
+  > chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git)
@@ -79,5 +86,5 @@
 
 
 ---
-*最后更新于 2025-11-13 14:17:10 UTC*
+*最后更新于 2025-11-13 15:19:35 UTC*
 *历史记录保存在 `archive` 目录中。*
