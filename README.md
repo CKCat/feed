@@ -85,6 +85,8 @@
   > Code Coverage Exploration Plugin for Ghidra
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [nccgroup/android_demystification_toolbox](https://github.com/nccgroup/android_demystification_toolbox)
   > ADT is a toolset designed to help model application behavior, research and test security vulnerabili...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [qemus/qemu](https://github.com/qemus/qemu)
+  > QEMU in a Docker container.
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [scc-tw/cryptopp](https://github.com/scc-tw/cryptopp) to [scc-tw/cryptopp](https://github.com/scc-tw/cryptopp)
@@ -92,5 +94,5 @@
 
 
 ---
-*最后更新于 2025-11-13 19:13:35 UTC*
+*最后更新于 2025-11-13 20:19:34 UTC*
 *历史记录保存在 `archive` 目录中。*
