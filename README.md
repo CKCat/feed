@@ -17,6 +17,8 @@
   > Apple Continuity Protocol Reverse Engineering and Dissector
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [d4rken-org/capod](https://github.com/d4rken-org/capod)
   > A companion app for AirPods on Android.
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [appium/appium-inspector](https://github.com/appium/appium-inspector)
+  > A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
@@ -90,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-11-13 16:24:47 UTC*
+*最后更新于 2025-11-13 17:16:42 UTC*
 *历史记录保存在 `archive` 目录中。*
