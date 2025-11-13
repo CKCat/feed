@@ -52,10 +52,20 @@
 
 ### [mpast](https://github.com/mpast)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-customize-the-login-experience](https://github.com/mpast/labs-node-customize-the-login-experience) to [mpast/labs-node-customize-the-login-experience](https://github.com/mpast/labs-node-customize-the-login-experience)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-multi-factor-authentication](https://github.com/mpast/labs-node-working-with-multi-factor-authentication) to [mpast/labs-node-working-with-multi-factor-authentication](https://github.com/mpast/labs-node-working-with-multi-factor-authentication)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-oidc-auth-code-with-pkce-trace](https://github.com/mpast/labs-node-oidc-auth-code-with-pkce-trace) to [mpast/labs-node-oidc-auth-code-with-pkce-trace](https://github.com/mpast/labs-node-oidc-auth-code-with-pkce-trace)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-spa-applications](https://github.com/mpast/labs-node-working-with-spa-applications) to [mpast/labs-node-working-with-spa-applications](https://github.com/mpast/labs-node-working-with-spa-applications)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-working-with-the-user-profile](https://github.com/mpast/labs-node-working-with-the-user-profile) to [mpast/labs-node-working-with-the-user-profile](https://github.com/mpast/labs-node-working-with-the-user-profile)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-auth0-logout-scenarios](https://github.com/mpast/labs-node-auth0-logout-scenarios) to [mpast/labs-node-auth0-logout-scenarios](https://github.com/mpast/labs-node-auth0-logout-scenarios)
+  > Implement different logout scenarios with Auth0.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
   > 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对...
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git)
+  > GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscri...
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [nccgroup/Cartographer](https://github.com/nccgroup/Cartographer)
@@ -69,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-11-13 13:30:50 UTC*
+*最后更新于 2025-11-13 14:17:10 UTC*
 *历史记录保存在 `archive` 目录中。*
