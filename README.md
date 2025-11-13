@@ -34,6 +34,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU](https://github.com/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU)
   > Productization efforts of CVE-2020-11179 Adreno-Qualcomm-GPU bug, original poc by Ben Hawkes of P0
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+  > A Kubernetes web UI that is fully-featured, user-friendly and extensible
+
 ### [antonio-morales](https://github.com/antonio-morales)
 - 🍴 👤 [antonio-morales](https://github.com/antonio-morales) Forked [antonio-morales/gnutls](https://github.com/antonio-morales/gnutls) to [antonio-morales/gnutls](https://github.com/antonio-morales/gnutls)
   > Mirror of official gnutls repository
@@ -86,5 +90,5 @@
 
 
 ---
-*最后更新于 2025-11-13 15:19:35 UTC*
+*最后更新于 2025-11-13 16:24:47 UTC*
 *历史记录保存在 `archive` 目录中。*
