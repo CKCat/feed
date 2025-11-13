@@ -70,6 +70,10 @@
   > Implement different logout scenarios with Auth0.
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [mpast/labs-node-calling-an-api-from-m2m](https://github.com/mpast/labs-node-calling-an-api-from-m2m) to [mpast/labs-node-calling-an-api-from-m2m](https://github.com/mpast/labs-node-calling-an-api-from-m2m)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [decoderloop/2025-11-07-ringzer0-countermeasure-not-so-simple-rust-loader-workshop](https://github.com/decoderloop/2025-11-07-ringzer0-countermeasure-not-so-simple-rust-loader-workshop)
+  > Slides and materials for the workshop "Reversing a (not-so-) Simple Rust Loader" at Ringzer0 COUNTER...
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
   > 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对...
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2025-11-13 21:15:54 UTC*
+*最后更新于 2025-11-13 22:16:59 UTC*
 *历史记录保存在 `archive` 目录中。*
