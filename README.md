@@ -4,6 +4,18 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
+  > Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright)
+  > Pyright extension for coc.nvim
+
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [furiousMAC/continuity](https://github.com/furiousMAC/continuity)
+  > Apple Continuity Protocol Reverse Engineering and Dissector
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [d4rken-org/capod](https://github.com/d4rken-org/capod)
+  > A companion app for AirPods on Android.
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
   > Disable LSPosed and restore all methods hooked by LSPlant / 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
@@ -19,6 +31,12 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU](https://github.com/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU)
   > Productization efforts of CVE-2020-11179 Adreno-Qualcomm-GPU bug, original poc by Ben Hawkes of P0
+
+### [antonio-morales](https://github.com/antonio-morales)
+- 🍴 👤 [antonio-morales](https://github.com/antonio-morales) Forked [antonio-morales/gnutls](https://github.com/antonio-morales/gnutls) to [antonio-morales/gnutls](https://github.com/antonio-morales/gnutls)
+  > Mirror of official gnutls repository
+- 🍴 👤 [antonio-morales](https://github.com/antonio-morales) Forked [antonio-morales/thorium](https://github.com/antonio-morales/thorium) to [antonio-morales/thorium](https://github.com/antonio-morales/thorium)
+  > A scalable file analysis and data generation platform that allows users to easily orchestrate arbitr...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
@@ -43,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-11-13 10:19:25 UTC*
+*最后更新于 2025-11-13 11:15:27 UTC*
 *历史记录保存在 `archive` 目录中。*
