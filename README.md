@@ -61,6 +61,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility)
   > 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen close...
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie)
+  > An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emu...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rem0obb/ryujin-re](https://github.com/rem0obb/ryujin-re)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keowu/Ryujin](https://github.com/keowu/Ryujin)
@@ -75,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-11-14 20:19:06 UTC*
+*最后更新于 2025-11-14 21:15:13 UTC*
 *历史记录保存在 `archive` 目录中。*
