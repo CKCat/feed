@@ -13,6 +13,8 @@
   > Proof-of-concept for CVE-2025-48593
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [B1ack4sh/Blackash-CVE-2025-48593](https://github.com/B1ack4sh/Blackash-CVE-2025-48593)
   > CVE-2025-48593
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [xxchan/AgentDev](https://github.com/xxchan/AgentDev)
+  > A CLI tool for managing Agent instances with git worktree
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
@@ -68,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-11-14 16:21:16 UTC*
+*最后更新于 2025-11-14 17:14:52 UTC*
 *历史记录保存在 `archive` 目录中。*
