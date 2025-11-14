@@ -61,6 +61,11 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility)
   > 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen close...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rem0obb/ryujin-re](https://github.com/rem0obb/ryujin-re)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keowu/Ryujin](https://github.com/keowu/Ryujin)
+  > Ryūjin Protector - Is a Intel Arch - BIN2BIN - PE Obfuscation/Protection/DRM tool
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [microsoft/windows-rs](https://github.com/microsoft/windows-rs)
   > Rust for Windows
@@ -70,5 +75,5 @@
 
 
 ---
-*最后更新于 2025-11-14 17:14:52 UTC*
+*最后更新于 2025-11-14 18:24:06 UTC*
 *历史记录保存在 `archive` 目录中。*
