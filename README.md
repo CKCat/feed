@@ -27,10 +27,14 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility)
   > 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen close...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [careunix/PyTorch-HighSierra-CUDA-Revival](https://github.com/careunix/PyTorch-HighSierra-CUDA-Revival)
+  > Revives the last functional CUDA deep-learning stack on macOS High Sierra. NVIDIA CUDA 10.2 + cuDNN ...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [CTZZG/playlist-matcher](https://github.com/CTZZG/playlist-matcher)
 
 
 ---
-*最后更新于 2025-11-14 10:19:23 UTC*
+*最后更新于 2025-11-14 11:14:16 UTC*
 *历史记录保存在 `archive` 目录中。*
