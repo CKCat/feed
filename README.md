@@ -11,9 +11,17 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [boostorg/mqtt5](https://github.com/boostorg/mqtt5)
   > A C++17 MQTT client based on Boost.Asio.
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [zhuowei/blueshrimp](https://github.com/zhuowei/blueshrimp)
+  > Proof-of-concept for CVE-2025-48593
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zhuowei/blueshrimp](https://github.com/zhuowei/blueshrimp)
   > Proof-of-concept for CVE-2025-48593
+
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [can1357/ida-pro-mcp](https://github.com/can1357/ida-pro-mcp) to [can1357/ida-pro-mcp](https://github.com/can1357/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz)
@@ -31,10 +39,14 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [careunix/PyTorch-HighSierra-CUDA-Revival](https://github.com/careunix/PyTorch-HighSierra-CUDA-Revival)
   > Revives the last functional CUDA deep-learning stack on macOS High Sierra. NVIDIA CUDA 10.2 + cuDNN ...
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [microsoft/windows-rs](https://github.com/microsoft/windows-rs)
+  > Rust for Windows
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [CTZZG/playlist-matcher](https://github.com/CTZZG/playlist-matcher)
 
 
 ---
-*最后更新于 2025-11-14 11:14:16 UTC*
+*最后更新于 2025-11-14 12:35:20 UTC*
 *历史记录保存在 `archive` 目录中。*
