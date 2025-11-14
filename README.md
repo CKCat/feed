@@ -42,6 +42,8 @@
   > A modular graph-based Retrieval-Augmented Generation (RAG) system
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
   > An incremental parsing system for programming tools
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [vishen/go-chromecast](https://github.com/vishen/go-chromecast)
+  > cli for Google Chromecast, Home devices and Cast Groups
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz)
@@ -64,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-11-14 14:16:49 UTC*
+*最后更新于 2025-11-14 15:16:00 UTC*
 *历史记录保存在 `archive` 目录中。*
