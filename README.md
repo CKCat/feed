@@ -7,6 +7,7 @@
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
   > Precompiled x64 Qt 5/6 library in minimalistic configuration for Windows.
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [redboltz/mqtt_cpp](https://github.com/redboltz/mqtt_cpp)
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz)
@@ -16,7 +17,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
   > Supercharge Your LLM with the Fastest KV Cache Layer
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [CTZZG/playlist-matcher](https://github.com/CTZZG/playlist-matcher)
+
 
 ---
-*最后更新于 2025-11-14 05:16:45 UTC*
+*最后更新于 2025-11-14 06:26:14 UTC*
 *历史记录保存在 `archive` 目录中。*
