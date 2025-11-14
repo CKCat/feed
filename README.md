@@ -48,6 +48,8 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz)
   > Command line helpers for fuzzing
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [junron/agar](https://github.com/junron/agar)
+  > Assisting Go Analysis and Reversing
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
@@ -66,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-11-14 15:16:00 UTC*
+*最后更新于 2025-11-14 16:21:16 UTC*
 *历史记录保存在 `archive` 目录中。*
