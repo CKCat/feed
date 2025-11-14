@@ -8,6 +8,8 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
   > Precompiled x64 Qt 5/6 library in minimalistic configuration for Windows.
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [redboltz/mqtt_cpp](https://github.com/redboltz/mqtt_cpp)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [boostorg/mqtt5](https://github.com/boostorg/mqtt5)
+  > A C++17 MQTT client based on Boost.Asio.
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz)
@@ -22,5 +24,5 @@
 
 
 ---
-*最后更新于 2025-11-14 07:17:02 UTC*
+*最后更新于 2025-11-14 08:22:23 UTC*
 *历史记录保存在 `archive` 目录中。*
