@@ -16,6 +16,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
   > Kimi CLI is your next CLI agent.
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse)
+  > A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [themix-project/themix-gui](https://github.com/themix-project/themix-gui)
   > Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, ...
@@ -37,5 +41,5 @@
 
 
 ---
-*最后更新于 2025-11-15 13:21:56 UTC*
+*最后更新于 2025-11-15 14:13:49 UTC*
 *历史记录保存在 `archive` 目录中。*
