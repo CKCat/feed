@@ -39,6 +39,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ucbepic/docetl](https://github.com/ucbepic/docetl)
   > A system for agentic LLM-powered data processing and ETL
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [greg7mdp/gf](https://github.com/greg7mdp/gf)
+  > A Modern GDB Frontend
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [rushiranpise/detection](https://github.com/rushiranpise/detection)
@@ -57,5 +58,5 @@
 
 
 ---
-*最后更新于 2025-11-15 17:12:51 UTC*
+*最后更新于 2025-11-15 18:21:08 UTC*
 *历史记录保存在 `archive` 目录中。*
