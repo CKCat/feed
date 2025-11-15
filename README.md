@@ -4,8 +4,13 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/claude-agent-sdk-cpp](https://github.com/0xeb/claude-agent-sdk-cpp)
+  > C++ port of the Python claude-agent-sdk
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ucbepic/docetl](https://github.com/ucbepic/docetl)
+  > A system for agentic LLM-powered data processing and ETL
+
 
 ---
-*最后更新于 2025-11-15 04:19:07 UTC*
+*最后更新于 2025-11-15 05:15:54 UTC*
 *历史记录保存在 `archive` 目录中。*
