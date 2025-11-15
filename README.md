@@ -10,7 +10,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ucbepic/docetl](https://github.com/ucbepic/docetl)
   > A system for agentic LLM-powered data processing and ETL
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner)
+  > Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree c...
+
 
 ---
-*最后更新于 2025-11-15 05:15:54 UTC*
+*最后更新于 2025-11-15 06:23:13 UTC*
 *历史记录保存在 `archive` 目录中。*
