@@ -27,11 +27,15 @@
   > A system for agentic LLM-powered data processing and ETL
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [greg7mdp/gf](https://github.com/greg7mdp/gf)
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [rushiranpise/detection](https://github.com/rushiranpise/detection)
+  > Collection of Various Root Detection Apps for Android
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner)
   > Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree c...
 
 
 ---
-*最后更新于 2025-11-15 12:30:40 UTC*
+*最后更新于 2025-11-15 13:21:56 UTC*
 *历史记录保存在 `archive` 目录中。*
