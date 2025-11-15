@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [0xdea/plugin-repository](https://github.com/0xdea/plugin-repository) to [0xdea/plugin-repository](https://github.com/0xdea/plugin-repository)
+  > public index of IDA Pro plugins
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [themix-project/themix-gui](https://github.com/themix-project/themix-gui)
   > Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, ...
@@ -20,5 +24,5 @@
 
 
 ---
-*最后更新于 2025-11-15 09:15:36 UTC*
+*最后更新于 2025-11-15 10:15:49 UTC*
 *历史记录保存在 `archive` 目录中。*
