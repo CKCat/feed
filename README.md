@@ -39,7 +39,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner)
   > Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree c...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development for AI coding assistants.
+
 
 ---
-*最后更新于 2025-11-15 14:13:49 UTC*
+*最后更新于 2025-11-15 15:14:49 UTC*
 *历史记录保存在 `archive` 目录中。*
