@@ -15,10 +15,12 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [techomancer/nvme2k](https://github.com/techomancer/nvme2k)
   > NVME driver for Windows 2000
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mashpoe/1D-Game](https://github.com/Mashpoe/1D-Game)
+  > A first-person game from the perspective of a 2D life form, which makes it a 1D game. Try to make it...
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-  > ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面...
+  > ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supp...
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [dcowden/featurescript](https://github.com/dcowden/featurescript)
@@ -30,5 +32,5 @@
 
 
 ---
-*最后更新于 2025-11-16 11:12:24 UTC*
+*最后更新于 2025-11-16 12:30:39 UTC*
 *历史记录保存在 `archive` 目录中。*
