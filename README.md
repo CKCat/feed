@@ -16,15 +16,11 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [dcowden/featurescript](https://github.com/dcowden/featurescript)
   > a curated list of FeatureScripts for Onshape
 
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
-  > An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily depl...
-
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tansu-io/tansu](https://github.com/tansu-io/tansu)
   > Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 
 
 ---
-*最后更新于 2025-11-16 07:15:17 UTC*
+*最后更新于 2025-11-16 08:20:26 UTC*
 *历史记录保存在 `archive` 目录中。*
