@@ -18,6 +18,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mashpoe/1D-Game](https://github.com/Mashpoe/1D-Game)
   > A first-person game from the perspective of a 2D life form, which makes it a 1D game. Try to make it...
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+  > An extremely fast Python package and project manager, written in Rust.
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
   > ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supp...
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-11-16 13:21:37 UTC*
+*最后更新于 2025-11-16 14:14:17 UTC*
 *历史记录保存在 `archive` 目录中。*
