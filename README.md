@@ -36,11 +36,18 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [dcowden/featurescript](https://github.com/dcowden/featurescript)
   > a curated list of FeatureScripts for Onshape
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)
+  > ⚠️ Browser fingerprinting via favicon!
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [fenda1-1/IDA-NexusAI](https://github.com/fenda1-1/IDA-NexusAI)
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tansu-io/tansu](https://github.com/tansu-io/tansu)
   > Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 
 
 ---
-*最后更新于 2025-11-16 17:13:34 UTC*
+*最后更新于 2025-11-16 18:21:48 UTC*
 *历史记录保存在 `archive` 目录中。*
