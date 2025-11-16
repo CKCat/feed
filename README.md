@@ -17,6 +17,8 @@
   > NVME driver for Windows 2000
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mashpoe/1D-Game](https://github.com/Mashpoe/1D-Game)
   > A first-person game from the perspective of a 2D life form, which makes it a 1D game. Try to make it...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [enlyze/Wizard-2020](https://github.com/enlyze/Wizard-2020)
+  > A DPI-aware resizable wizard application written using Win32 API and modern C++ - https://building.e...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
@@ -36,5 +38,5 @@
 
 
 ---
-*最后更新于 2025-11-16 14:14:17 UTC*
+*最后更新于 2025-11-16 15:14:37 UTC*
 *历史记录保存在 `archive` 目录中。*
