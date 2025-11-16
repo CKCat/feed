@@ -40,6 +40,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)
   > ⚠️ Browser fingerprinting via favicon!
 
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [sergiye/winUpdateMiniTool](https://github.com/sergiye/winUpdateMiniTool)
+  > Windows Update Mini Tool is a tool to manage updates of Microsoft products on the Windows operating ...
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [fenda1-1/IDA-NexusAI](https://github.com/fenda1-1/IDA-NexusAI)
 
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-11-16 21:14:24 UTC*
+*最后更新于 2025-11-16 22:14:54 UTC*
 *历史记录保存在 `archive` 目录中。*
