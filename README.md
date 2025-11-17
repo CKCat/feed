@@ -8,6 +8,9 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)
   > iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore ...
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [5ec1cff/ksuinit](https://github.com/5ec1cff/ksuinit) to [5ec1cff/ksuinit](https://github.com/5ec1cff/ksuinit)
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper)
   > eBPF-Based DexDumper for Android
@@ -28,5 +31,5 @@
 
 
 ---
-*最后更新于 2025-11-17 07:17:14 UTC*
+*最后更新于 2025-11-17 08:24:55 UTC*
 *历史记录保存在 `archive` 目录中。*
