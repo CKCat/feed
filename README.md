@@ -15,6 +15,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper)
   > eBPF-Based DexDumper for Android
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [kevinmehall/nusb](https://github.com/kevinmehall/nusb)
+  > A new pure-Rust library for cross-platform low-level access to USB devices.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
   > 对目标函数进行trace 只适用于 arm64
@@ -46,5 +50,5 @@
 
 
 ---
-*最后更新于 2025-11-17 14:17:19 UTC*
+*最后更新于 2025-11-17 15:19:31 UTC*
 *历史记录保存在 `archive` 目录中。*
