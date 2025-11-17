@@ -15,6 +15,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper)
   > eBPF-Based DexDumper for Android
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
+  > 对目标函数进行trace 只适用于 arm64
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/agentx](https://github.com/can1357/agentx) public
   > AI-native issue tracker with MCP server, TUI dashboard, and velocity metrics
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-11-17 13:29:38 UTC*
+*最后更新于 2025-11-17 14:17:19 UTC*
 *历史记录保存在 `archive` 目录中。*
