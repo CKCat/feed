@@ -34,6 +34,10 @@
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🚀 👤 [kin9-0rz](https://github.com/kin9-0rz) Made [kin9-0rz/kin9-0rz.github.io](https://github.com/kin9-0rz/kin9-0rz.github.io) public
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/agentx](https://github.com/can1357/agentx)
+  > AI-native issue tracker with MCP server, TUI dashboard, and velocity metrics
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [isomorphic-git/lightning-fs](https://github.com/isomorphic-git/lightning-fs)
   > A lean and fast 'fs' for the browser
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-11-17 20:19:49 UTC*
+*最后更新于 2025-11-17 21:15:30 UTC*
 *历史记录保存在 `archive` 目录中。*
