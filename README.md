@@ -15,6 +15,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrexodia/zeromcp](https://github.com/mrexodia/zeromcp)
   > Zero-dependency MCP server implementation.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zhuowei/blueshrimp](https://github.com/zhuowei/blueshrimp)
@@ -22,5 +24,5 @@
 
 
 ---
-*最后更新于 2025-11-17 03:13:55 UTC*
+*最后更新于 2025-11-17 04:23:46 UTC*
 *历史记录保存在 `archive` 目录中。*
