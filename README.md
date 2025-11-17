@@ -15,6 +15,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper)
   > eBPF-Based DexDumper for Android
 
+### [can1357](https://github.com/can1357)
+- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/agentx](https://github.com/can1357/agentx) public
+  > AI-native issue tracker with MCP server, TUI dashboard, and velocity metrics
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [plotly/plotly.py](https://github.com/plotly/plotly.py)
   > The interactive graphing library for Python :sparkles:
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-11-17 11:15:28 UTC*
+*最后更新于 2025-11-17 12:35:42 UTC*
 *历史记录保存在 `archive` 目录中。*
