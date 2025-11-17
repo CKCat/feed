@@ -15,6 +15,13 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper)
   > eBPF-Based DexDumper for Android
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [plotly/plotly.py](https://github.com/plotly/plotly.py)
+  > The interactive graphing library for Python :sparkles:
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🚀 👤 [kin9-0rz](https://github.com/kin9-0rz) Made [kin9-0rz/kin9-0rz.github.io](https://github.com/kin9-0rz/kin9-0rz.github.io) public
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrexodia/zeromcp](https://github.com/mrexodia/zeromcp)
   > Zero-dependency MCP server implementation.
@@ -31,5 +38,5 @@
 
 
 ---
-*最后更新于 2025-11-17 09:21:31 UTC*
+*最后更新于 2025-11-17 10:19:48 UTC*
 *历史记录保存在 `archive` 目录中。*
