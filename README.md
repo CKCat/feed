@@ -39,6 +39,8 @@
   > Zero-dependency MCP server implementation.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/fastmcpp](https://github.com/0xeb/fastmcpp)
+  > C++ port of the fastmcp Python library
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [isomorphic-git/lightning-fs](https://github.com/isomorphic-git/lightning-fs)
@@ -54,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-11-17 18:24:37 UTC*
+*最后更新于 2025-11-17 19:12:51 UTC*
 *历史记录保存在 `archive` 目录中。*
