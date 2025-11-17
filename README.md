@@ -34,14 +34,6 @@
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🚀 👤 [kin9-0rz](https://github.com/kin9-0rz) Made [kin9-0rz/kin9-0rz.github.io](https://github.com/kin9-0rz/kin9-0rz.github.io) public
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrexodia/zeromcp](https://github.com/mrexodia/zeromcp)
-  > Zero-dependency MCP server implementation.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
-  > Fully automatic censorship removal for language models
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/fastmcpp](https://github.com/0xeb/fastmcpp)
-  > C++ port of the fastmcp Python library
-
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [isomorphic-git/lightning-fs](https://github.com/isomorphic-git/lightning-fs)
   > A lean and fast 'fs' for the browser
@@ -56,5 +48,5 @@
 
 
 ---
-*最后更新于 2025-11-17 19:12:51 UTC*
+*最后更新于 2025-11-17 20:19:49 UTC*
 *历史记录保存在 `archive` 目录中。*
