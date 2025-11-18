@@ -45,6 +45,10 @@
   > Write beautiful documentations with Nuxt and Markdown.
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
   > The beautiful & flexible React.js docs framework.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
+  > Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabil...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
+  > The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg)
@@ -75,6 +79,11 @@
 - 🌟 👤 [jart](https://github.com/jart) Starred [felipenlunkes/run-ancient-unix](https://github.com/felipenlunkes/run-ancient-unix)
   > Easily run old versions of UNIX for PDP-11 on modern hardware
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [FelixBer/FindFunc](https://github.com/FelixBer/FindFunc)
+  > FindFunc is an IDA Pro plugin to find code functions that contain a certain assembly or byte pattern...
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [hasherezade/flareon2025](https://github.com/hasherezade/flareon2025)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fandango-fuzzer/fandango-rs](https://github.com/fandango-fuzzer/fandango-rs)
   > Ever wondered just how fast you can write to stdout?
@@ -82,6 +91,10 @@
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/mini-file](https://github.com/phodal-archive/mini-file) public
   > Mini demo
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+  > Simulates Gemini CLI, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It suppor...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [maiyao1988/ExAndroidNativeEmu](https://github.com/maiyao1988/ExAndroidNativeEmu)
@@ -91,5 +104,5 @@
 
 
 ---
-*最后更新于 2025-11-18 15:19:29 UTC*
+*最后更新于 2025-11-18 16:23:09 UTC*
 *历史记录保存在 `archive` 目录中。*
