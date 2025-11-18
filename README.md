@@ -66,6 +66,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [volcengine/verl](https://github.com/volcengine/verl)
   > verl: Volcano Engine Reinforcement Learning for LLMs
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [netcan/quantstats-rs](https://github.com/netcan/quantstats-rs)
+  > a Rust library that generates QuantStats-style HTML performance tear sheets from return time series....
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi)
@@ -98,6 +100,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
   > This is the official repository for the back end of the Andronix app 🚀. Here you can know all the sc...
 
+### [reveny](https://github.com/reveny)
+- 🌟 👤 [reveny](https://github.com/reveny) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+  > AirPods liberated from Apple's ecosystem.
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
   > Simulates Gemini CLI, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It suppor...
@@ -110,5 +116,5 @@
 
 
 ---
-*最后更新于 2025-11-18 18:25:36 UTC*
+*最后更新于 2025-11-18 19:14:21 UTC*
 *历史记录保存在 `archive` 目录中。*
