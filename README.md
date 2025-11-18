@@ -12,6 +12,10 @@
 - 🍴 👤 [BryanGIG](https://github.com/BryanGIG) Forked [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS) to [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS)
   > GKI Kernels with KernelSU & SUSFS
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [coz-m/MPLUS_FONTS](https://github.com/coz-m/MPLUS_FONTS)
+  > M+ FONTS
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [rose-compiler/rose](https://github.com/rose-compiler/rose)
   > ROSE is an open-source compiler framework engineered by LLNL supporting program analysis and transfo...
@@ -93,6 +97,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fandango-fuzzer/fandango-rs](https://github.com/fandango-fuzzer/fandango-rs)
   > Ever wondered just how fast you can write to stdout?
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [immortalp0ny/poolviz](https://github.com/immortalp0ny/poolviz)
+  > PoolViz provides an interactive visualization of memory allocation patterns across multiple layers o...
 
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/mini-file](https://github.com/phodal-archive/mini-file) public
@@ -118,5 +124,5 @@
 
 
 ---
-*最后更新于 2025-11-18 20:20:00 UTC*
+*最后更新于 2025-11-18 22:16:43 UTC*
 *历史记录保存在 `archive` 目录中。*
