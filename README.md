@@ -47,6 +47,12 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi)
   > Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja...
 
+### [fjqisba](https://github.com/fjqisba)
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
+  > 基于eBPF的堆栈追踪工具
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG)
+  > eBPF-based lightweight debugger for Android
+
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [felipenlunkes/run-ancient-unix](https://github.com/felipenlunkes/run-ancient-unix)
   > Easily run old versions of UNIX for PDP-11 on modern hardware
@@ -63,5 +69,5 @@
 
 
 ---
-*最后更新于 2025-11-18 11:16:00 UTC*
+*最后更新于 2025-11-18 12:36:00 UTC*
 *历史记录保存在 `archive` 目录中。*
