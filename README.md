@@ -39,7 +39,13 @@
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/mini-file](https://github.com/phodal-archive/mini-file) public
   > Mini demo
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [maiyao1988/ExAndroidNativeEmu](https://github.com/maiyao1988/ExAndroidNativeEmu)
+  > An improved version of AndroidNativeEmu,Allow running android elf on PC
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [ys1231/AndroidNativeEmu](https://github.com/ys1231/AndroidNativeEmu) to [ys1231/AndroidNativeEmu](https://github.com/ys1231/AndroidNativeEmu)
+  > Allows you to partly emulate an Android native library.
+
 
 ---
-*最后更新于 2025-11-18 07:16:54 UTC*
+*最后更新于 2025-11-18 08:22:59 UTC*
 *历史记录保存在 `archive` 目录中。*
