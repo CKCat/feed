@@ -12,6 +12,10 @@
 - 🍴 👤 [BryanGIG](https://github.com/BryanGIG) Forked [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS) to [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS)
   > GKI Kernels with KernelSU & SUSFS
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [rose-compiler/rose](https://github.com/rose-compiler/rose)
+  > ROSE is an open-source compiler framework engineered by LLNL supporting program analysis and transfo...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence)
   > Shared serializers and models for Visual Studio solution files. Handles traditional .sln file and ne...
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2025-11-18 10:20:03 UTC*
+*最后更新于 2025-11-18 11:16:00 UTC*
 *历史记录保存在 `archive` 目录中。*
