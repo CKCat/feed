@@ -35,6 +35,20 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter)
   > Make your games and apps run on the right CPU cores - for smoother performance on AMD Dual-CCD and I...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [itracksy/itracksy](https://github.com/itracksy/itracksy)
+  > The Only Time Tracker You Need
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [antfu-collective/taze](https://github.com/antfu-collective/taze)
+  > 🥦 A modern cli tool that keeps your deps fresh
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+  > Presentation Slides for Developers
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nuxt-content/docus](https://github.com/nuxt-content/docus)
+  > Write beautiful documentations with Nuxt and Markdown.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+  > The beautiful & flexible React.js docs framework.
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg)
+  > A plugin to introduce interactive symbols into your debugger from your decompiler
 
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [bkerler/dontlookup](https://github.com/bkerler/dontlookup) to [bkerler/dontlookup](https://github.com/bkerler/dontlookup)
@@ -61,6 +75,10 @@
 - 🌟 👤 [jart](https://github.com/jart) Starred [felipenlunkes/run-ancient-unix](https://github.com/felipenlunkes/run-ancient-unix)
   > Easily run old versions of UNIX for PDP-11 on modern hardware
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fandango-fuzzer/fandango-rs](https://github.com/fandango-fuzzer/fandango-rs)
+  > Ever wondered just how fast you can write to stdout?
+
 ### [phodal](https://github.com/phodal)
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/mini-file](https://github.com/phodal-archive/mini-file) public
   > Mini demo
@@ -73,5 +91,5 @@
 
 
 ---
-*最后更新于 2025-11-18 14:17:20 UTC*
+*最后更新于 2025-11-18 15:19:29 UTC*
 *历史记录保存在 `archive` 目录中。*
