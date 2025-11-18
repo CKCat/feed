@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [HexRaysSA/plugin-repository](https://github.com/HexRaysSA/plugin-repository)
+  > public index of IDA Pro plugins
+
 ### [BryanGIG](https://github.com/BryanGIG)
 - 🍴 👤 [BryanGIG](https://github.com/BryanGIG) Forked [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS) to [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS)
   > GKI Kernels with KernelSU & SUSFS
@@ -16,12 +20,20 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [xxh/xxh](https://github.com/xxh/xxh)
   > 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so ...
 
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [B143KC47/VSC4T](https://github.com/B143KC47/VSC4T)
+  > A dark and elegant Hexo theme inspired by the Visual Studio Code dark theme. Clean, responsive, and ...
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [minisforum-docs/MS-R1-Docs](https://github.com/minisforum-docs/MS-R1-Docs)
   > Docs and play book for Minisforum MS-R1
 
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [bkerler/dontlookup](https://github.com/bkerler/dontlookup) to [bkerler/dontlookup](https://github.com/bkerler/dontlookup)
+
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
+  > build-once run-anywhere c library
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [volcengine/verl](https://github.com/volcengine/verl)
@@ -47,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-11-18 08:22:59 UTC*
+*最后更新于 2025-11-18 09:19:12 UTC*
 *历史记录保存在 `archive` 目录中。*
