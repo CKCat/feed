@@ -20,7 +20,11 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [volcengine/verl](https://github.com/volcengine/verl)
   > verl: Volcano Engine Reinforcement Learning for LLMs
 
+### [phodal](https://github.com/phodal)
+- 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/mini-file](https://github.com/phodal-archive/mini-file) public
+  > Mini demo
+
 
 ---
-*最后更新于 2025-11-18 05:17:16 UTC*
+*最后更新于 2025-11-18 06:25:39 UTC*
 *历史记录保存在 `archive` 目录中。*
