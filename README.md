@@ -49,6 +49,8 @@
   > Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabil...
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
   > The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Taiizor/Blazouter](https://github.com/Taiizor/Blazouter)
+  > Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, bu...
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg)
@@ -92,6 +94,10 @@
 - 🚀 👤 [phodal](https://github.com/phodal) Made [phodal-archive/mini-file](https://github.com/phodal-archive/mini-file) public
   > Mini demo
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
+  > This is the official repository for the back end of the Andronix app 🚀. Here you can know all the sc...
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
   > Simulates Gemini CLI, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It suppor...
@@ -104,5 +110,5 @@
 
 
 ---
-*最后更新于 2025-11-18 16:23:09 UTC*
+*最后更新于 2025-11-18 17:16:40 UTC*
 *历史记录保存在 `archive` 目录中。*
