@@ -32,6 +32,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [minisforum-docs/MS-R1-Docs](https://github.com/minisforum-docs/MS-R1-Docs)
   > Docs and play book for Minisforum MS-R1
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter)
+  > Make your games and apps run on the right CPU cores - for smoother performance on AMD Dual-CCD and I...
+
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [bkerler/dontlookup](https://github.com/bkerler/dontlookup) to [bkerler/dontlookup](https://github.com/bkerler/dontlookup)
 
@@ -69,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-11-18 13:30:02 UTC*
+*最后更新于 2025-11-18 14:17:20 UTC*
 *历史记录保存在 `archive` 目录中。*
