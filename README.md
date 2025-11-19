@@ -8,6 +8,12 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [allthingsida/ida-cmake](https://github.com/allthingsida/ida-cmake)
   > Simple CMake files for the IDASDK
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository) to [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository)
+  > public index of IDA Pro plugins
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/hrtng](https://github.com/lallouslab/hrtng) to [lallouslab/hrtng](https://github.com/lallouslab/hrtng)
+  > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+
 ### [Fare9](https://github.com/Fare9)
 - 🌟 👤 [Fare9](https://github.com/Fare9) Starred [nem0/LumixEngine](https://github.com/nem0/LumixEngine)
   > 3D C++ Game Engine - yet another open source game engine
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2025-11-19 20:16:47 UTC*
+*最后更新于 2025-11-19 21:13:11 UTC*
 *历史记录保存在 `archive` 目录中。*
