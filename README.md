@@ -12,6 +12,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository) to [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository)
   > public index of IDA Pro plugins
 
+### [Fare9](https://github.com/Fare9)
+- 🌟 👤 [Fare9](https://github.com/Fare9) Starred [nem0/LumixEngine](https://github.com/nem0/LumixEngine)
+  > 3D C++ Game Engine - yet another open source game engine
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
   > PoC exploit for CVE-2025-48543 in C++
@@ -49,6 +53,10 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [nytemairqt/altar](https://github.com/nytemairqt/altar)
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE)
+  > HyDE, your Development Environment 🖥️💻
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Prayag2/drawy](https://github.com/Prayag2/drawy)
   > Your handy, infinite, brainstorming tool!
@@ -63,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-11-19 14:17:18 UTC*
+*最后更新于 2025-11-19 15:18:16 UTC*
 *历史记录保存在 `archive` 目录中。*
