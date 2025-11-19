@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [allthingsida/ida-cmake](https://github.com/allthingsida/ida-cmake)
+  > Simple CMake files for the IDASDK
+
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository) to [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository)
   > public index of IDA Pro plugins
@@ -24,11 +28,19 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro)
   > A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — f...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+  > AirPods liberated from Apple's ecosystem.
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Prayag2/drawy](https://github.com/Prayag2/drawy)
   > Your handy, infinite, brainstorming tool!
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pgmq/pgmq](https://github.com/pgmq/pgmq)
+  > A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+
 
 ---
-*最后更新于 2025-11-19 10:18:56 UTC*
+*最后更新于 2025-11-19 11:15:18 UTC*
 *历史记录保存在 `archive` 目录中。*
