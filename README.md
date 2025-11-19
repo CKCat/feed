@@ -4,11 +4,15 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository) to [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository)
+  > public index of IDA Pro plugins
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Prayag2/drawy](https://github.com/Prayag2/drawy)
   > Your handy, infinite, brainstorming tool!
 
 
 ---
-*最后更新于 2025-11-19 03:09:32 UTC*
+*最后更新于 2025-11-19 04:20:56 UTC*
 *历史记录保存在 `archive` 目录中。*
