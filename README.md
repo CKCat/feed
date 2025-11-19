@@ -65,11 +65,15 @@
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty)
   > Table-writer and more in golang!
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [reveny/Android-JNI-Helper](https://github.com/reveny/Android-JNI-Helper)
+  > A header-only C++ library that makes working with the Java Native Interface (JNI) safer and more con...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pgmq/pgmq](https://github.com/pgmq/pgmq)
   > A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 
 
 ---
-*最后更新于 2025-11-19 15:18:16 UTC*
+*最后更新于 2025-11-19 16:22:59 UTC*
 *历史记录保存在 `archive` 目录中。*
