@@ -46,9 +46,16 @@
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
   > AirPods liberated from Apple's ecosystem.
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [nytemairqt/altar](https://github.com/nytemairqt/altar)
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Prayag2/drawy](https://github.com/Prayag2/drawy)
   > Your handy, infinite, brainstorming tool!
+
+### [rustymagnet3000](https://github.com/rustymagnet3000)
+- 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty)
+  > Table-writer and more in golang!
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pgmq/pgmq](https://github.com/pgmq/pgmq)
@@ -56,5 +63,5 @@
 
 
 ---
-*最后更新于 2025-11-19 13:29:48 UTC*
+*最后更新于 2025-11-19 14:17:18 UTC*
 *历史记录保存在 `archive` 目录中。*
