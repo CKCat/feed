@@ -8,10 +8,6 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [allthingsida/ida-cmake](https://github.com/allthingsida/ida-cmake)
   > Simple CMake files for the IDASDK
 
-### [0xeb](https://github.com/0xeb)
-- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository) to [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository)
-  > public index of IDA Pro plugins
-
 ### [Fare9](https://github.com/Fare9)
 - 🌟 👤 [Fare9](https://github.com/Fare9) Starred [nem0/LumixEngine](https://github.com/nem0/LumixEngine)
   > 3D C++ Game Engine - yet another open source game engine
@@ -41,10 +37,20 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger)
   > Yet another WeChat miniapp debugger on Windows
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [FFRI/CVE-2025-24204](https://github.com/FFRI/CVE-2025-24204)
+  > PoC and technical details of CVE-2025-24204
+- 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [SeeFlowerX/CVE-2025-24204](https://github.com/SeeFlowerX/CVE-2025-24204) to [SeeFlowerX/CVE-2025-24204](https://github.com/SeeFlowerX/CVE-2025-24204)
+  > PoC and technical details of CVE-2025-24204
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
+  > PoC exploit for CVE-2025-48543 in C++
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro)
   > A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — f...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mashrulhaque/EasyAppDev.Blazor.PageCache](https://github.com/mashrulhaque/EasyAppDev.Blazor.PageCache)
+  > Lightweight, high-performance HTML response caching for Static Server-Side Rendered (SSR) Blazor pag...
 
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
@@ -75,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-11-19 19:14:00 UTC*
+*最后更新于 2025-11-19 20:16:47 UTC*
 *历史记录保存在 `archive` 目录中。*
