@@ -20,9 +20,23 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
   > PoC exploit for CVE-2025-48543 in C++
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [futz12/ncnn_llm](https://github.com/futz12/ncnn_llm)
+  > A repo for llm on ncnn
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nihui/ncnn_llm](https://github.com/nihui/ncnn_llm)
+  > A repo for llm on ncnn
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [gokadzev/Musify](https://github.com/gokadzev/Musify)
+  > Unlock the full potential of music: Stream effortlessly with one app!
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/Exynos-BL1-Info-Reader](https://github.com/halal-beef/Exynos-BL1-Info-Reader)
   > Reads information from Samsung Exynos BL1 files and prints them out, confirmed to work on E9830, may...
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger)
+  > Yet another WeChat miniapp debugger on Windows
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro)
@@ -42,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-11-19 11:15:18 UTC*
+*最后更新于 2025-11-19 12:36:12 UTC*
 *历史记录保存在 `archive` 目录中。*
