@@ -8,6 +8,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository) to [lallouslab/plugin-repository](https://github.com/lallouslab/plugin-repository)
   > public index of IDA Pro plugins
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
+  > PoC exploit for CVE-2025-48543 in C++
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
   > PoC exploit for CVE-2025-48543 in C++
@@ -26,5 +30,5 @@
 
 
 ---
-*最后更新于 2025-11-19 08:22:40 UTC*
+*最后更新于 2025-11-19 09:19:16 UTC*
 *历史记录保存在 `archive` 目录中。*
