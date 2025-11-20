@@ -53,6 +53,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
   > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
 
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [sunwm518/Ryujin](https://github.com/sunwm518/Ryujin) to [sunwm518/Ryujin](https://github.com/sunwm518/Ryujin)
+  > Ryūjin Protector - Is a Intel Arch - BIN2BIN - PE Obfuscation/Protection/DRM tool
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)
   > Send User Notifications on macOS from the command-line.
@@ -69,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-11-20 12:35:11 UTC*
+*最后更新于 2025-11-20 13:28:13 UTC*
 *历史记录保存在 `archive` 目录中。*
