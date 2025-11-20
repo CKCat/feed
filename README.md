@@ -10,6 +10,8 @@
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [JingMatrix/KeyAttestation](https://github.com/JingMatrix/KeyAttestation) to [JingMatrix/KeyAttestation](https://github.com/JingMatrix/KeyAttestation)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [GeorgeYT9769/cardabase-app](https://github.com/GeorgeYT9769/cardabase-app)
+  > App for saving your loyalty card📱💳
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation)
@@ -83,5 +85,5 @@
 
 
 ---
-*最后更新于 2025-11-20 17:14:05 UTC*
+*最后更新于 2025-11-20 18:24:41 UTC*
 *历史记录保存在 `archive` 目录中。*
