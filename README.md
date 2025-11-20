@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [20000s](https://github.com/20000s)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [wrlu/jadx-daemon-mcp](https://github.com/wrlu/jadx-daemon-mcp)
+  > MCP server for jadx runs in daemon.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [oxters168/Pluvia](https://github.com/oxters168/Pluvia)
   > Lightweight unofficial Steam client for Android
@@ -19,6 +23,10 @@
 - 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [wolfpld/tracy](https://github.com/wolfpld/tracy)
   > Frame profiler
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
+  > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)
   > Send User Notifications on macOS from the command-line.
@@ -33,5 +41,5 @@
 
 
 ---
-*最后更新于 2025-11-20 07:16:46 UTC*
+*最后更新于 2025-11-20 08:23:48 UTC*
 *历史记录保存在 `archive` 目录中。*
