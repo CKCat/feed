@@ -52,6 +52,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)
   > Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requ...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [MapleSwan/enum_real_dirbase](https://github.com/MapleSwan/enum_real_dirbase)
+  > 从MmPfnData中枚举进程和页目录基址
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [SnipMeDev/Highlights](https://github.com/SnipMeDev/Highlights)
   > Kotlin Multiplatform (KMM) syntax highlighting engine
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2025-11-20 21:15:48 UTC*
+*最后更新于 2025-11-20 22:15:56 UTC*
 *历史记录保存在 `archive` 目录中。*
