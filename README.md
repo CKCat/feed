@@ -8,6 +8,9 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [wrlu/jadx-daemon-mcp](https://github.com/wrlu/jadx-daemon-mcp)
   > MCP server for jadx runs in daemon.
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [JingMatrix/KeyAttestation](https://github.com/JingMatrix/KeyAttestation) to [JingMatrix/KeyAttestation](https://github.com/JingMatrix/KeyAttestation)
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation)
   > System Information Library for Node.JS
@@ -58,6 +61,7 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
   > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [sunwm518/Ryujin](https://github.com/sunwm518/Ryujin) to [sunwm518/Ryujin](https://github.com/sunwm518/Ryujin)
@@ -79,5 +83,5 @@
 
 
 ---
-*最后更新于 2025-11-20 16:22:05 UTC*
+*最后更新于 2025-11-20 17:14:05 UTC*
 *历史记录保存在 `archive` 目录中。*
