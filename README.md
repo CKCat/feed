@@ -37,6 +37,10 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
   > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
+  > A customizable radial menu overlay addon for Guild Wars 2.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [SnipMeDev/Highlights](https://github.com/SnipMeDev/Highlights)
   > Kotlin Multiplatform (KMM) syntax highlighting engine
@@ -65,5 +69,5 @@
 
 
 ---
-*最后更新于 2025-11-20 10:18:45 UTC*
+*最后更新于 2025-11-20 11:15:34 UTC*
 *历史记录保存在 `archive` 目录中。*
