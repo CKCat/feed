@@ -40,6 +40,12 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
   > A customizable radial menu overlay addon for Guild Wars 2.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mastercodeon31415/KsDumper-11](https://github.com/mastercodeon31415/KsDumper-11)
+  > A revival of the classic and legendary KsDumper
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression)
+  > Caveman Compression is a semantic compression method for LLM contexts. It removes predictable gramma...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui)
+  > Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requ...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [SnipMeDev/Highlights](https://github.com/SnipMeDev/Highlights)
@@ -73,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-11-20 15:18:07 UTC*
+*最后更新于 2025-11-20 16:22:05 UTC*
 *历史记录保存在 `archive` 目录中。*
