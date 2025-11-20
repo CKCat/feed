@@ -8,9 +8,17 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [wrlu/jadx-daemon-mcp](https://github.com/wrlu/jadx-daemon-mcp)
   > MCP server for jadx runs in daemon.
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation)
+  > System Information Library for Node.JS
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [oxters168/Pluvia](https://github.com/oxters168/Pluvia)
   > Lightweight unofficial Steam client for Android
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [tristanpoland/TrustMeBro](https://github.com/tristanpoland/TrustMeBro)
+  > A funny alternative to the unsafe keyword
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [CrossroadW/online_updater_lab2qrcode](https://github.com/CrossroadW/online_updater_lab2qrcode)
@@ -57,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-11-20 09:18:04 UTC*
+*最后更新于 2025-11-20 10:18:45 UTC*
 *历史记录保存在 `archive` 目录中。*
