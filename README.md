@@ -15,6 +15,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
   > Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within application...
 
+### [qicosmos](https://github.com/qicosmos)
+- 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [wolfpld/tracy](https://github.com/wolfpld/tracy)
+  > Frame profiler
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)
   > Send User Notifications on macOS from the command-line.
@@ -23,7 +27,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [airbus-cert/comida](https://github.com/airbus-cert/comida)
   > An IDA Plugin that help analyzing module that use COM
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+  > FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L...
+
 
 ---
-*最后更新于 2025-11-20 06:25:08 UTC*
+*最后更新于 2025-11-20 07:16:46 UTC*
 *历史记录保存在 `archive` 目录中。*
