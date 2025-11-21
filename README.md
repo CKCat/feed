@@ -38,6 +38,10 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [jellychen/Make3D-Web](https://github.com/jellychen/Make3D-Web)
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [waruqi/Make3D-Web](https://github.com/waruqi/Make3D-Web) to [waruqi/Make3D-Web](https://github.com/waruqi/Make3D-Web)
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [KaringX/clashmi](https://github.com/KaringX/clashmi)
+  > Clash Mihomo for iOS/Android
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mpquant/MyTT](https://github.com/mpquant/MyTT)
   > MyTT将通达信,同花顺,文华麦语言等指标公式,最简移植到Python中,核心库单个文件，仅百行代码,十几个核心函数，神奇的实现所有常见技术指标算法（不依赖talib库）的纯python实现和转换通达...
@@ -46,5 +50,5 @@
 
 
 ---
-*最后更新于 2025-11-21 09:18:02 UTC*
+*最后更新于 2025-11-21 10:17:56 UTC*
 *历史记录保存在 `archive` 目录中。*
