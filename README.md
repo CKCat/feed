@@ -5,12 +5,16 @@
 ## 今日动态
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
-- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KernelSU-Modules-Repo/ksu_example_module](https://github.com/KernelSU-Modules-Repo/ksu_example_module)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KernelSU-Modules-Repo/org.kernelsu.example](https://github.com/KernelSU-Modules-Repo/org.kernelsu.example)
   > Example Module Name
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [sukafon/astrbot_plugin_video_sora](https://github.com/sukafon/astrbot_plugin_video_sora)
   > AstrBot Sora 视频生成插件
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)
+  > Rust Linux-compatible kernel
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [jellychen/Make3D-Web](https://github.com/jellychen/Make3D-Web)
@@ -18,5 +22,5 @@
 
 
 ---
-*最后更新于 2025-11-21 03:08:11 UTC*
+*最后更新于 2025-11-21 04:20:02 UTC*
 *历史记录保存在 `archive` 目录中。*
