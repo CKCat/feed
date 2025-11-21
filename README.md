@@ -7,6 +7,8 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KernelSU-Modules-Repo/org.kernelsu.example](https://github.com/KernelSU-Modules-Repo/org.kernelsu.example)
   > Example Module Name
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Drenzzz/adb-gui-kit](https://github.com/Drenzzz/adb-gui-kit)
+  > A simple, modern GUI for ADB and Fastboot
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
@@ -24,6 +26,14 @@
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [gerhart01/Hyper-V-Internals](https://github.com/gerhart01/Hyper-V-Internals)
   > Internals information about Hyper-V
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+  > "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
+  > A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [jellychen/Make3D-Web](https://github.com/jellychen/Make3D-Web)
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [waruqi/Make3D-Web](https://github.com/waruqi/Make3D-Web) to [waruqi/Make3D-Web](https://github.com/waruqi/Make3D-Web)
@@ -36,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-11-21 07:17:14 UTC*
+*最后更新于 2025-11-21 08:24:08 UTC*
 *历史记录保存在 `archive` 目录中。*
