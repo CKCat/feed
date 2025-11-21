@@ -34,6 +34,12 @@
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/remill-template](https://github.com/LLVMParty/remill-template)
   > Simple template for using Remill.
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [amzn/efa-dp-direct](https://github.com/amzn/efa-dp-direct)
+  > Elastic Fabric Adapter (EFA) data path interfaces and implementations
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/efa-dp-direct](https://github.com/crazyguitar/efa-dp-direct) to [crazyguitar/efa-dp-direct](https://github.com/crazyguitar/efa-dp-direct)
+  > Elastic Fabric Adapter (EFA) data path interfaces and implementations
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)
   > Rust Linux-compatible kernel
@@ -83,5 +89,5 @@
 
 
 ---
-*最后更新于 2025-11-21 19:14:01 UTC*
+*最后更新于 2025-11-21 20:18:56 UTC*
 *历史记录保存在 `archive` 目录中。*
