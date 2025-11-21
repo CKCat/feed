@@ -16,11 +16,21 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)
   > Rust Linux-compatible kernel
 
+### [gerhart01](https://github.com/gerhart01)
+- 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [gerhart01/Hyper-V-Internals](https://github.com/gerhart01/Hyper-V-Internals)
+  > Internals information about Hyper-V
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [jellychen/Make3D-Web](https://github.com/jellychen/Make3D-Web)
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [waruqi/Make3D-Web](https://github.com/waruqi/Make3D-Web) to [waruqi/Make3D-Web](https://github.com/waruqi/Make3D-Web)
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mpquant/MyTT](https://github.com/mpquant/MyTT)
+  > MyTT将通达信,同花顺,文华麦语言等指标公式,最简移植到Python中,核心库单个文件，仅百行代码,十几个核心函数，神奇的实现所有常见技术指标算法（不依赖talib库）的纯python实现和转换通达...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TA-Lib/ta-lib](https://github.com/TA-Lib/ta-lib)
+  > TA-Lib (Core C Library)
+
 
 ---
-*最后更新于 2025-11-21 04:20:02 UTC*
+*最后更新于 2025-11-21 05:17:19 UTC*
 *历史记录保存在 `archive` 目录中。*
