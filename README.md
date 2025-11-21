@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [9001/copyparty](https://github.com/9001/copyparty)
+  > Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media i...
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KernelSU-Modules-Repo/org.kernelsu.example](https://github.com/KernelSU-Modules-Repo/org.kernelsu.example)
   > Example Module Name
@@ -13,6 +17,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
   > :computer: C++ Functional Terminal User Interface. :heart:
+
+### [ZachL1](https://github.com/ZachL1)
+- 🍴 👤 [ZachL1](https://github.com/ZachL1) Forked [ZachL1/flow_grpo](https://github.com/ZachL1/flow_grpo) to [ZachL1/flow_grpo](https://github.com/ZachL1/flow_grpo)
+  > [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [sukafon/astrbot_plugin_video_sora](https://github.com/sukafon/astrbot_plugin_video_sora)
@@ -25,6 +33,10 @@
 ### [gerhart01](https://github.com/gerhart01)
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [gerhart01/Hyper-V-Internals](https://github.com/gerhart01/Hyper-V-Internals)
   > Internals information about Hyper-V
+
+### [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
+- 🍴 👤 [githubuser0xFFFF](https://github.com/githubuser0xFFFF) Forked [githubuser0xFFFF/cangaroo](https://github.com/githubuser0xFFFF/cangaroo) to [githubuser0xFFFF/cangaroo](https://github.com/githubuser0xFFFF/cangaroo)
+  > Open source can bus analyzer software - with support for CANable / CANable2, CANFD, and other new fe...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
@@ -50,5 +62,5 @@
 
 
 ---
-*最后更新于 2025-11-21 11:14:46 UTC*
+*最后更新于 2025-11-21 12:34:04 UTC*
 *历史记录保存在 `archive` 目录中。*
