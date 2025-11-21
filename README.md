@@ -42,6 +42,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
   > "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
+### [rand-tech](https://github.com/rand-tech)
+- 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [rand-tech/GoReSym](https://github.com/rand-tech/GoReSym) to [rand-tech/GoReSym](https://github.com/rand-tech/GoReSym)
+  > Go symbol recovery tool
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
   > A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-11-21 12:34:04 UTC*
+*最后更新于 2025-11-21 13:26:03 UTC*
 *历史记录保存在 `archive` 目录中。*
