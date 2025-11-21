@@ -53,6 +53,8 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [rand-tech/GoReSym](https://github.com/rand-tech/GoReSym) to [rand-tech/GoReSym](https://github.com/rand-tech/GoReSym)
   > Go symbol recovery tool
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen)
+  > Fast file synchronization and network forwarding for remote development
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
@@ -74,5 +76,5 @@
 
 
 ---
-*最后更新于 2025-11-21 15:15:49 UTC*
+*最后更新于 2025-11-21 16:21:26 UTC*
 *历史记录保存在 `archive` 目录中。*
