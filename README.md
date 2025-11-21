@@ -42,10 +42,6 @@
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [gerhart01/Hyper-V-Internals](https://github.com/gerhart01/Hyper-V-Internals)
   > Internals information about Hyper-V
 
-### [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
-- 🍴 👤 [githubuser0xFFFF](https://github.com/githubuser0xFFFF) Forked [githubuser0xFFFF/cangaroo](https://github.com/githubuser0xFFFF/cangaroo) to [githubuser0xFFFF/cangaroo](https://github.com/githubuser0xFFFF/cangaroo)
-  > Open source can bus analyzer software - with support for CANable / CANable2, CANFD, and other new fe...
-
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
   > "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
@@ -87,5 +83,5 @@
 
 
 ---
-*最后更新于 2025-11-21 18:23:01 UTC*
+*最后更新于 2025-11-21 19:14:01 UTC*
 *历史记录保存在 `archive` 目录中。*
