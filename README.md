@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [ChiChou/UnFairPlay](https://github.com/ChiChou/UnFairPlay) to [ChiChou/UnFairPlay](https://github.com/ChiChou/UnFairPlay)
+  > Decrypt FairPlay encrypted executable binaries on macOS
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [9001/copyparty](https://github.com/9001/copyparty)
   > Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media i...
@@ -46,6 +50,13 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
   > "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 
+### [j-hc](https://github.com/j-hc)
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [PegorK/f32](https://github.com/PegorK/f32)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)
+  > 🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.
+
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [oleavr/SwiftyMonaco](https://github.com/oleavr/SwiftyMonaco) to [oleavr/SwiftyMonaco](https://github.com/oleavr/SwiftyMonaco)
   > SwiftyMonaco is a wrapper for Monaco Editor from Microsoft
@@ -76,5 +87,5 @@
 
 
 ---
-*最后更新于 2025-11-21 16:21:26 UTC*
+*最后更新于 2025-11-21 17:15:04 UTC*
 *历史记录保存在 `archive` 目录中。*
