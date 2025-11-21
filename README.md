@@ -8,6 +8,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KernelSU-Modules-Repo/org.kernelsu.example](https://github.com/KernelSU-Modules-Repo/org.kernelsu.example)
   > Example Module Name
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+  > :computer: C++ Functional Terminal User Interface. :heart:
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [sukafon/astrbot_plugin_video_sora](https://github.com/sukafon/astrbot_plugin_video_sora)
   > AstrBot Sora 视频生成插件
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-11-21 05:17:19 UTC*
+*最后更新于 2025-11-21 06:26:43 UTC*
 *历史记录保存在 `archive` 目录中。*
