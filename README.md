@@ -12,6 +12,9 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [9001/copyparty](https://github.com/9001/copyparty)
   > Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media i...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [iscle/Haven](https://github.com/iscle/Haven)
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KernelSU-Modules-Repo/org.kernelsu.example](https://github.com/KernelSU-Modules-Repo/org.kernelsu.example)
   > Example Module Name
@@ -89,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-11-21 21:14:46 UTC*
+*最后更新于 2025-11-21 22:16:36 UTC*
 *历史记录保存在 `archive` 目录中。*
