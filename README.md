@@ -26,6 +26,10 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [sukafon/astrbot_plugin_video_sora](https://github.com/sukafon/astrbot_plugin_video_sora)
   > AstrBot Sora 视频生成插件
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/remill-template](https://github.com/LLVMParty/remill-template)
+  > Simple template for using Remill.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [hexagonal-sun/moss](https://github.com/hexagonal-sun/moss)
   > Rust Linux-compatible kernel
@@ -41,6 +45,10 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
   > "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [oleavr/SwiftyMonaco](https://github.com/oleavr/SwiftyMonaco) to [oleavr/SwiftyMonaco](https://github.com/oleavr/SwiftyMonaco)
+  > SwiftyMonaco is a wrapper for Monaco Editor from Microsoft
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [rand-tech/GoReSym](https://github.com/rand-tech/GoReSym) to [rand-tech/GoReSym](https://github.com/rand-tech/GoReSym)
@@ -66,5 +74,5 @@
 
 
 ---
-*最后更新于 2025-11-21 13:26:03 UTC*
+*最后更新于 2025-11-21 14:16:46 UTC*
 *历史记录保存在 `archive` 目录中。*
