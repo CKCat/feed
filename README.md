@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [sdan/qwen-web](https://github.com/sdan/qwen-web)
+  > qwen running locally in your browser
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [LLVMParty/remill-template](https://github.com/LLVMParty/remill-template)
   > Simple template for using Remill.
@@ -28,10 +32,14 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [libffi/libffi](https://github.com/libffi/libffi)
   > A portable foreign-function interface library.
 
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [BradHutchings/Mmojo-Server](https://github.com/BradHutchings/Mmojo-Server)
+  > Reoroganizing by not forking llama.cpp. We'll clone it and operate on it in place.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis)
 
 
 ---
-*最后更新于 2025-11-22 17:13:24 UTC*
+*最后更新于 2025-11-22 18:21:57 UTC*
 *历史记录保存在 `archive` 目录中。*
