@@ -8,6 +8,10 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [LLVMParty/remill-template](https://github.com/LLVMParty/remill-template)
   > Simple template for using Remill.
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [MArifH2362/DWM4W8PE](https://github.com/MArifH2362/DWM4W8PE)
+  > DWM4W8PE is a batch script file tool that copies DWM and dependencies from Windows 8 CP, RP, RTM, an...
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [R0rt1z2/penumbra](https://github.com/R0rt1z2/penumbra) to [R0rt1z2/penumbra](https://github.com/R0rt1z2/penumbra)
   > 🌘 MTK flash tool core written in rust
@@ -29,5 +33,5 @@
 
 
 ---
-*最后更新于 2025-11-22 12:30:00 UTC*
+*最后更新于 2025-11-22 13:21:15 UTC*
 *历史记录保存在 `archive` 目录中。*
