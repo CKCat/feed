@@ -35,11 +35,13 @@
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [BradHutchings/Mmojo-Server](https://github.com/BradHutchings/Mmojo-Server)
   > Reoroganizing by not forking llama.cpp. We'll clone it and operate on it in place.
+- 🌟 👤 [jart](https://github.com/jart) Starred [igravious/cosmoruby](https://github.com/igravious/cosmoruby)
+  > Ruby 3.4.7 port to Cosmopolitan Libc - Actually Portable Ruby
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis)
 
 
 ---
-*最后更新于 2025-11-22 21:14:26 UTC*
+*最后更新于 2025-11-22 22:15:13 UTC*
 *历史记录保存在 `archive` 目录中。*
