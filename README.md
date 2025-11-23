@@ -35,6 +35,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [NeoFreeBird/app](https://github.com/NeoFreeBird/app)
   > A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [fuqiuluo/opcode](https://github.com/fuqiuluo/opcode) to [fuqiuluo/opcode](https://github.com/fuqiuluo/opcode)
+  > A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Cod...
+
 ### [mengxipeng1122](https://github.com/mengxipeng1122)
 - 🍴 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Forked [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector) to [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector)
   > Advanced browser extension for detecting anti-bot solutions, CAPTCHA services, and web security mech...
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-11-23 19:12:58 UTC*
+*最后更新于 2025-11-23 20:18:22 UTC*
 *历史记录保存在 `archive` 目录中。*
