@@ -31,6 +31,10 @@
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [r-lyeh-archived/scriptorium](https://github.com/r-lyeh-archived/scriptorium)
   > :scroll: Game Scripting Languages benchmarked
 
+### [arizvisa](https://github.com/arizvisa)
+- 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [piotrbania/windows10_upgrade_disabler](https://github.com/piotrbania/windows10_upgrade_disabler)
+  > Disables automatic Windows 11 upgrade prompts 
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [chenxvb/Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace)
   > 基于 Unicorn 引擎的轻量级 ARM64 动态追踪模拟工具。支持 IDA Pro、生成 Tenet 日志、本地代码模拟、内存转储、寄存器状态追踪和指令级日志记录。
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2025-11-23 22:15:47 UTC*
+*最后更新于 2025-11-23 23:15:31 UTC*
 *历史记录保存在 `archive` 目录中。*
