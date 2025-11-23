@@ -12,6 +12,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
   > Modern protocol-side framework based on NTQQ
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mihonapp/mihon](https://github.com/mihonapp/mihon)
+  > Free and open source manga reader for Android
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign) to [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign)
 
@@ -47,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-11-23 13:20:53 UTC*
+*最后更新于 2025-11-23 14:14:04 UTC*
 *历史记录保存在 `archive` 目录中。*
