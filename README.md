@@ -27,6 +27,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
   > A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [r-lyeh-archived/scriptorium](https://github.com/r-lyeh-archived/scriptorium)
+  > :scroll: Game Scripting Languages benchmarked
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [chenxvb/Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace)
   > 基于 Unicorn 引擎的轻量级 ARM64 动态追踪模拟工具。支持 IDA Pro、生成 Tenet 日志、本地代码模拟、内存转储、寄存器状态追踪和指令级日志记录。
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2025-11-23 21:14:46 UTC*
+*最后更新于 2025-11-23 22:15:47 UTC*
 *历史记录保存在 `archive` 目录中。*
