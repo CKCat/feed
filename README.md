@@ -27,6 +27,10 @@
 - 🍴 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Forked [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector) to [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector)
   > Advanced browser extension for detecting anti-bot solutions, CAPTCHA services, and web security mech...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firebuild/firebuild](https://github.com/firebuild/firebuild)
+  > Automatic build cache
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/feishu_docs_export](https://github.com/Hengle/feishu_docs_export)
   > 基于 Tauri + React + TypeScript 开发的跨平台桌面应用，用于批量导出飞书文档和文件。支持云盘文件浏览、知识库导航、多格式转换、断点续传、任务管理等功能。自动构建 Window...
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-11-23 11:12:56 UTC*
+*最后更新于 2025-11-23 12:29:56 UTC*
 *历史记录保存在 `archive` 目录中。*
