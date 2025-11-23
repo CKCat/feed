@@ -15,9 +15,17 @@
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign) to [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign)
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [chenxvb/Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace)
+  > 基于 Unicorn 引擎的轻量级 ARM64 动态追踪模拟工具。支持 IDA Pro、生成 Tenet 日志、本地代码模拟、内存转储、寄存器状态追踪和指令级日志记录。
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [NeoFreeBird/app](https://github.com/NeoFreeBird/app)
   > A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
+
+### [mengxipeng1122](https://github.com/mengxipeng1122)
+- 🍴 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Forked [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector) to [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector)
+  > Advanced browser extension for detecting anti-bot solutions, CAPTCHA services, and web security mech...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/feishu_docs_export](https://github.com/Hengle/feishu_docs_export)
@@ -33,5 +41,5 @@
 
 
 ---
-*最后更新于 2025-11-23 09:16:05 UTC*
+*最后更新于 2025-11-23 10:16:14 UTC*
 *历史记录保存在 `archive` 目录中。*
