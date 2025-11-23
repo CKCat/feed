@@ -18,6 +18,10 @@
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign) to [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zalando/skipper](https://github.com/zalando/skipper)
+  > An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingres...
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
+  > A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [chenxvb/Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace)
@@ -34,6 +38,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firebuild/firebuild](https://github.com/firebuild/firebuild)
   > Automatic build cache
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pedromateo/openhmitester](https://github.com/pedromateo/openhmitester)
+  > "Open HMI Tester" is a GUI Testing tool following an open architecture that describes a non intrusiv...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [constructpm/qtwebdriver](https://github.com/constructpm/qtwebdriver)
+  > WebDriver implementation for Qt
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/feishu_docs_export](https://github.com/Hengle/feishu_docs_export)
@@ -51,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-11-23 14:14:04 UTC*
+*最后更新于 2025-11-23 15:14:43 UTC*
 *历史记录保存在 `archive` 目录中。*
