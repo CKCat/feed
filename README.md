@@ -1,47 +1,25 @@
-# 每日 GitHub 动态 (2025-11-22)
+# 每日 GitHub 动态 (2025-11-23)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [ChiChou](https://github.com/ChiChou)
-- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [sdan/qwen-web](https://github.com/sdan/qwen-web)
-  > qwen running locally in your browser
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign) to [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign)
 
-### [Colton1skees](https://github.com/Colton1skees)
-- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [LLVMParty/remill-template](https://github.com/LLVMParty/remill-template)
-  > Simple template for using Remill.
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [NeoFreeBird/app](https://github.com/NeoFreeBird/app)
+  > A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [MArifH2362/DWM4W8PE](https://github.com/MArifH2362/DWM4W8PE)
-  > DWM4W8PE is a batch script file tool that copies DWM and dependencies from Windows 8 CP, RP, RTM, an...
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/feishu_docs_export](https://github.com/Hengle/feishu_docs_export)
+  > 基于 Tauri + React + TypeScript 开发的跨平台桌面应用，用于批量导出飞书文档和文件。支持云盘文件浏览、知识库导航、多格式转换、断点续传、任务管理等功能。自动构建 Window...
 
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [R0rt1z2/penumbra](https://github.com/R0rt1z2/penumbra) to [R0rt1z2/penumbra](https://github.com/R0rt1z2/penumbra)
-  > 🌘 MTK flash tool core written in rust
-
-### [SeeFlowerX](https://github.com/SeeFlowerX)
-- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [chenxvb/Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace)
-  > 基于 Unicorn 引擎的轻量级 ARM64 动态追踪模拟工具。支持 IDA Pro、生成 Tenet 日志、本地代码模拟、内存转储、寄存器状态追踪和指令级日志记录。
-
-### [chenxiaolong](https://github.com/chenxiaolong)
-- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [accrescent/ina](https://github.com/accrescent/ina)
-  > Secure, robust, and efficient delta updates for executables
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [libffi/libffi](https://github.com/libffi/libffi)
-  > A portable foreign-function interface library.
-
-### [jart](https://github.com/jart)
-- 🌟 👤 [jart](https://github.com/jart) Starred [BradHutchings/Mmojo-Server](https://github.com/BradHutchings/Mmojo-Server)
-  > Reoroganizing by not forking llama.cpp. We'll clone it and operate on it in place.
-- 🌟 👤 [jart](https://github.com/jart) Starred [igravious/cosmoruby](https://github.com/igravious/cosmoruby)
-  > Ruby 3.4.7 port to Cosmopolitan Libc - Actually Portable Ruby
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis)
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [karpathy/llm-council](https://github.com/karpathy/llm-council)
+  > LLM Council works together to answer your hardest questions
 
 
 ---
-*最后更新于 2025-11-22 23:15:31 UTC*
+*最后更新于 2025-11-23 01:27:23 UTC*
 *历史记录保存在 `archive` 目录中。*
