@@ -22,6 +22,12 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [taida957789/ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin)
   > IDA Pro Plugin for serving MCP SSE server for cursor / claude
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rust-lang/async-book](https://github.com/rust-lang/async-book)
+  > Asynchronous Programming in Rust
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/async-book](https://github.com/crazyguitar/async-book) to [crazyguitar/async-book](https://github.com/crazyguitar/async-book)
+  > Asynchronous Programming in Rust
+
 ### [rootbakar](https://github.com/rootbakar)
 - 🌟 👤 [rootbakar](https://github.com/rootbakar) Starred [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
   > A curated list of tools for incident response
@@ -32,7 +38,21 @@
 - 🍴 👤 [rootbakar](https://github.com/rootbakar) Forked [rootbakar/IRM](https://github.com/rootbakar/IRM) to [rootbakar/IRM](https://github.com/rootbakar/IRM)
   > Incident Response Methodologies 2022
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender)
+  > Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti S...
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [warpnet/COM-Fuzzer](https://github.com/warpnet/COM-Fuzzer)
+  > Gain insights into COM/DCOM implementations that may be vulnerable using an automated approach and m...
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [java-native-access/jna](https://github.com/java-native-access/jna)
+  > Java Native Access
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [numba/numba](https://github.com/numba/numba)
+  > NumPy aware dynamic Python compiler using LLVM
+
 
 ---
-*最后更新于 2025-11-24 05:18:23 UTC*
+*最后更新于 2025-11-24 06:27:06 UTC*
 *历史记录保存在 `archive` 目录中。*
