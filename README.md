@@ -47,6 +47,14 @@
   > 🧠 Web Neural Network API
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
   > 基于eBPF的堆栈追踪工具
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sgl-project/SpecForge](https://github.com/sgl-project/SpecForge)
+  > Train speculative decoding models effortlessly and port them smoothly to SGLang serving.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [phorcys/x64_inst_test](https://github.com/phorcys/x64_inst_test)
+  > x64 instruction testsuites for box64/lat
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r-lyeh-archived/scriptorium](https://github.com/r-lyeh-archived/scriptorium)
+  > :scroll: Game Scripting Languages benchmarked
 
 ### [rootbakar](https://github.com/rootbakar)
 - 🌟 👤 [rootbakar](https://github.com/rootbakar) Starred [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
@@ -58,11 +66,17 @@
 - 🍴 👤 [rootbakar](https://github.com/rootbakar) Forked [rootbakar/IRM](https://github.com/rootbakar/IRM) to [rootbakar/IRM](https://github.com/rootbakar/IRM)
   > Incident Response Methodologies 2022
 
+### [tinysec](https://github.com/tinysec)
+- 🚀 👤 [tinysec](https://github.com/tinysec) Made [tinysec/binaryninja](https://github.com/tinysec/binaryninja) public
+  > BinaryNinja dotnet C# Bindings (Typed, Safe, Native AOT Ready)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender)
   > Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti S...
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [warpnet/COM-Fuzzer](https://github.com/warpnet/COM-Fuzzer)
   > Gain insights into COM/DCOM implementations that may be vulnerable using an automated approach and m...
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Print3M/DllShimmer](https://github.com/Print3M/DllShimmer)
+  > Weaponize DLL hijacking easily. Backdoor any function in any DLL.
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [java-native-access/jna](https://github.com/java-native-access/jna)
@@ -74,5 +88,5 @@
 
 
 ---
-*最后更新于 2025-11-24 14:17:30 UTC*
+*最后更新于 2025-11-24 15:19:51 UTC*
 *历史记录保存在 `archive` 目录中。*
