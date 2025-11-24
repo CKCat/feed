@@ -12,6 +12,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Leaking/Hunter](https://github.com/Leaking/Hunter)
   > A fast, incremental, concurrent framework to develop compile plugin for android project to manipulat...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ilyakurdyukov/fpdoom](https://github.com/ilyakurdyukov/fpdoom)
+  > Doom for feature phones
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zhizhuodemao/adb-mcp](https://github.com/zhizhuodemao/adb-mcp)
   > 安卓adb的mcp命令
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2025-11-24 13:31:16 UTC*
+*最后更新于 2025-11-24 14:17:30 UTC*
 *历史记录保存在 `archive` 目录中。*
