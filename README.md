@@ -21,12 +21,18 @@
   > IDA MCP
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [taida957789/ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin)
   > IDA Pro Plugin for serving MCP SSE server for cursor / claude
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Initial-One/Java-humanify](https://github.com/Initial-One/Java-humanify)
+  > Deobfuscate Java code using LLMs ("ChatGPT,Ollama,DeepSeek,etc.")
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rust-lang/async-book](https://github.com/rust-lang/async-book)
   > Asynchronous Programming in Rust
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/async-book](https://github.com/crazyguitar/async-book) to [crazyguitar/async-book](https://github.com/crazyguitar/async-book)
   > Asynchronous Programming in Rust
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
+  > 🧠 Web Neural Network API
 
 ### [rootbakar](https://github.com/rootbakar)
 - 🌟 👤 [rootbakar](https://github.com/rootbakar) Starred [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
@@ -54,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-11-24 06:27:06 UTC*
+*最后更新于 2025-11-24 07:17:18 UTC*
 *历史记录保存在 `archive` 目录中。*
