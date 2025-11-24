@@ -1,71 +1,14 @@
-# 每日 GitHub 动态 (2025-11-23)
+# 每日 GitHub 动态 (2025-11-24)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [ErodedElk](https://github.com/ErodedElk)
-- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
-  > Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | c...
-- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-  > ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supp...
-- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
-  > Modern protocol-side framework based on NTQQ
-
-### [LLeavesG](https://github.com/LLeavesG)
-- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
-  > HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
-
 ### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mihonapp/mihon](https://github.com/mihonapp/mihon)
-  > Free and open source manga reader for Android
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign) to [NyaMisty/rustbinsign](https://github.com/NyaMisty/rustbinsign)
-- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zalando/skipper](https://github.com/zalando/skipper)
-  > An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingres...
-- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
-  > A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
-
-### [ZehMatt](https://github.com/ZehMatt)
-- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [r-lyeh-archived/scriptorium](https://github.com/r-lyeh-archived/scriptorium)
-  > :scroll: Game Scripting Languages benchmarked
-
-### [arizvisa](https://github.com/arizvisa)
-- 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [piotrbania/windows10_upgrade_disabler](https://github.com/piotrbania/windows10_upgrade_disabler)
-  > Disables automatic Windows 11 upgrade prompts 
-
-### [axhlzy](https://github.com/axhlzy)
-- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [chenxvb/Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace)
-  > 基于 Unicorn 引擎的轻量级 ARM64 动态追踪模拟工具。支持 IDA Pro、生成 Tenet 日志、本地代码模拟、内存转储、寄存器状态追踪和指令级日志记录。
-
-### [es3n1n](https://github.com/es3n1n)
-- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [NeoFreeBird/app](https://github.com/NeoFreeBird/app)
-  > A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
-
-### [fuqiuluo](https://github.com/fuqiuluo)
-- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [fuqiuluo/opcode](https://github.com/fuqiuluo/opcode) to [fuqiuluo/opcode](https://github.com/fuqiuluo/opcode)
-  > A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Cod...
-
-### [mengxipeng1122](https://github.com/mengxipeng1122)
-- 🍴 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Forked [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector) to [mengxipeng1122/Antibot-Detector](https://github.com/mengxipeng1122/Antibot-Detector)
-  > Advanced browser extension for detecting anti-bot solutions, CAPTCHA services, and web security mech...
-
-### [nzcv](https://github.com/nzcv)
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/feishu_docs_export](https://github.com/Hengle/feishu_docs_export)
-  > 基于 Tauri + React + TypeScript 开发的跨平台桌面应用，用于批量导出飞书文档和文件。支持云盘文件浏览、知识库导航、多格式转换、断点续传、任务管理等功能。自动构建 Window...
-
-### [rand-tech](https://github.com/rand-tech)
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [construct/construct](https://github.com/construct/construct)
-  > Construct: Declarative data structures for python that allow symmetric parsing and building
-
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [karpathy/llm-council](https://github.com/karpathy/llm-council)
-  > LLM Council works together to answer your hardest questions
-- 🍴 👤 [tiann](https://github.com/tiann) Forked [tiann/ddk](https://github.com/tiann/ddk) to [tiann/ddk](https://github.com/tiann/ddk)
-  > 内核驱动开发工具包 (Kernel Driver Development Kit)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [eyalroz/printf](https://github.com/eyalroz/printf)
+  > Tiny, fast(ish), self-contained, fully loaded printf, sprinf etc. implementation; particularly usefu...
 
 
 ---
-*最后更新于 2025-11-23 23:15:31 UTC*
+*最后更新于 2025-11-24 01:22:36 UTC*
 *历史记录保存在 `archive` 目录中。*
