@@ -41,6 +41,8 @@
   > Asynchronous Programming in Rust
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [crazyguitar/async-book](https://github.com/crazyguitar/async-book) to [crazyguitar/async-book](https://github.com/crazyguitar/async-book)
   > Asynchronous Programming in Rust
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [karpathy/llm-council](https://github.com/karpathy/llm-council)
+  > LLM Council works together to answer your hardest questions
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
@@ -95,5 +97,5 @@
 
 
 ---
-*最后更新于 2025-11-24 19:12:00 UTC*
+*最后更新于 2025-11-24 20:19:33 UTC*
 *历史记录保存在 `archive` 目录中。*
