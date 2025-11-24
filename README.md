@@ -55,6 +55,13 @@
   > x64 instruction testsuites for box64/lat
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r-lyeh-archived/scriptorium](https://github.com/r-lyeh-archived/scriptorium)
   > :scroll: Game Scripting Languages benchmarked
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Alexandrsv/sci-search](https://github.com/Alexandrsv/sci-search)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [d0rc/egg.c](https://github.com/d0rc/egg.c)
+  > EGGROLL in C, integer-only training of a language model directly on the CPU
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable)
+  > A list of bizarre crackmes
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs)
+  > The filesystem for agents.
 
 ### [rootbakar](https://github.com/rootbakar)
 - 🌟 👤 [rootbakar](https://github.com/rootbakar) Starred [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
@@ -88,5 +95,5 @@
 
 
 ---
-*最后更新于 2025-11-24 16:19:39 UTC*
+*最后更新于 2025-11-24 17:16:31 UTC*
 *历史记录保存在 `archive` 目录中。*
