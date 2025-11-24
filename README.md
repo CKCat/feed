@@ -28,6 +28,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Initial-One/Java-humanify](https://github.com/Initial-One/Java-humanify)
   > Deobfuscate Java code using LLMs ("ChatGPT,Ollama,DeepSeek,etc.")
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mashrulhaque/EasyAppDev.Blazor.AutoComplete](https://github.com/mashrulhaque/EasyAppDev.Blazor.AutoComplete)
+  > A high-performance, feature-rich AutoComplete component for Blazor applications with AI-powered sema...
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rust-lang/async-book](https://github.com/rust-lang/async-book)
   > Asynchronous Programming in Rust
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-11-24 12:35:59 UTC*
+*最后更新于 2025-11-24 13:31:16 UTC*
 *历史记录保存在 `archive` 目录中。*
