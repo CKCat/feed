@@ -22,7 +22,17 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [taida957789/ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin)
   > IDA Pro Plugin for serving MCP SSE server for cursor / claude
 
+### [rootbakar](https://github.com/rootbakar)
+- 🌟 👤 [rootbakar](https://github.com/rootbakar) Starred [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
+  > A curated list of tools for incident response
+- 🍴 👤 [rootbakar](https://github.com/rootbakar) Forked [rootbakar/awesome-incident-response](https://github.com/rootbakar/awesome-incident-response) to [rootbakar/awesome-incident-response](https://github.com/rootbakar/awesome-incident-response)
+  > A curated list of tools for incident response
+- 🌟 👤 [rootbakar](https://github.com/rootbakar) Starred [certsocietegenerale/IRM](https://github.com/certsocietegenerale/IRM)
+  > Incident Response Methodologies 2022
+- 🍴 👤 [rootbakar](https://github.com/rootbakar) Forked [rootbakar/IRM](https://github.com/rootbakar/IRM) to [rootbakar/IRM](https://github.com/rootbakar/IRM)
+  > Incident Response Methodologies 2022
+
 
 ---
-*最后更新于 2025-11-24 03:21:16 UTC*
+*最后更新于 2025-11-24 04:31:28 UTC*
 *历史记录保存在 `archive` 目录中。*
