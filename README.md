@@ -8,6 +8,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [eyalroz/printf](https://github.com/eyalroz/printf)
   > Tiny, fast(ish), self-contained, fully loaded printf, sprinf etc. implementation; particularly usefu...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Leaking/Hunter](https://github.com/Leaking/Hunter)
+  > A fast, incremental, concurrent framework to develop compile plugin for android project to manipulat...
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zhizhuodemao/adb-mcp](https://github.com/zhizhuodemao/adb-mcp)
   > 安卓adb的mcp命令
@@ -33,6 +37,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
   > 🧠 Web Neural Network API
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
+  > 基于eBPF的堆栈追踪工具
 
 ### [rootbakar](https://github.com/rootbakar)
 - 🌟 👤 [rootbakar](https://github.com/rootbakar) Starred [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
@@ -60,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-11-24 09:21:25 UTC*
+*最后更新于 2025-11-24 10:19:53 UTC*
 *历史记录保存在 `archive` 目录中。*
