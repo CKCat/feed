@@ -41,6 +41,10 @@
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS)
   > Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
 
+### [mengxipeng1122](https://github.com/mengxipeng1122)
+- 🌟 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Starred [DTiapan/ai-agents-handbook](https://github.com/DTiapan/ai-agents-handbook)
+  > Welcome to 🚀 AI Agents Handbook — your all-in-one guide for building AI agents 🤖, from basics to adv...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinyfloat](https://github.com/ssloy/tinyfloat)
   > Soft floating point
@@ -75,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-11-25 14:17:31 UTC*
+*最后更新于 2025-11-25 15:19:07 UTC*
 *历史记录保存在 `archive` 目录中。*
