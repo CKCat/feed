@@ -7,10 +7,18 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mmozeiko/wcap](https://github.com/mmozeiko/wcap)
   > Small and efficient screen recording utility for Windows 10 and 11
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [open-ani/animeko](https://github.com/open-ani/animeko)
+  > 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [keiyoushi/extensions](https://github.com/keiyoushi/extensions)
+  > Extension repository for Mihon and variants
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS)
   > Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
 
 ### [yhirose](https://github.com/yhirose)
 - 🍴 👤 [yhirose](https://github.com/yhirose) Forked [yhirose/gitlogue](https://github.com/yhirose/gitlogue) to [yhirose/gitlogue](https://github.com/yhirose/gitlogue)
@@ -20,5 +28,5 @@
 
 
 ---
-*最后更新于 2025-11-25 05:17:36 UTC*
+*最后更新于 2025-11-25 06:27:21 UTC*
 *历史记录保存在 `archive` 目录中。*
