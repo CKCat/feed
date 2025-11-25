@@ -69,7 +69,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [gaasedelen/patching](https://github.com/gaasedelen/patching)
   > An Interactive Binary Patching Plugin for IDA Pro
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [android/androidify](https://github.com/android/androidify)
+  > Sample app for Androidify
+
 
 ---
-*最后更新于 2025-11-25 13:31:53 UTC*
+*最后更新于 2025-11-25 14:17:31 UTC*
 *历史记录保存在 `archive` 目录中。*
