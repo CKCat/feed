@@ -11,6 +11,8 @@
   > 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [keiyoushi/extensions](https://github.com/keiyoushi/extensions)
   > Extension repository for Mihon and variants
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [noahware/hyper-reV](https://github.com/noahware/hyper-reV)
+  > memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR)
@@ -37,5 +39,5 @@
 
 
 ---
-*最后更新于 2025-11-25 08:24:14 UTC*
+*最后更新于 2025-11-25 09:20:08 UTC*
 *历史记录保存在 `archive` 目录中。*
