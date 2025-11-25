@@ -14,6 +14,10 @@
 - 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [Colton1skees/binaryninja](https://github.com/Colton1skees/binaryninja) to [Colton1skees/binaryninja](https://github.com/Colton1skees/binaryninja)
   > BinaryNinja dotnet C# Bindings (Typed, Safe, Native AOT Ready)
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+  > Anthropic's Interactive Prompt Engineering Tutorial
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mmozeiko/wcap](https://github.com/mmozeiko/wcap)
   > Small and efficient screen recording utility for Windows 10 and 11
@@ -57,6 +61,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tinysec/binaryninja](https://github.com/tinysec/binaryninja)
   > BinaryNinja dotnet C# Bindings (Typed, Safe, Native AOT Ready)
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [JessyTsui/Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote)
+  > Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications ...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
   > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
@@ -79,5 +87,5 @@
 
 
 ---
-*最后更新于 2025-11-25 15:19:07 UTC*
+*最后更新于 2025-11-25 16:23:35 UTC*
 *历史记录保存在 `archive` 目录中。*
