@@ -4,6 +4,16 @@
 
 ## 今日动态
 
+### [0xnobody](https://github.com/0xnobody)
+- 🍴 👤 [0xnobody](https://github.com/0xnobody) Forked [0xnobody/souper](https://github.com/0xnobody/souper) to [0xnobody/souper](https://github.com/0xnobody/souper)
+  > A superoptimizer for LLVM IR
+
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [tinysec/binaryninja](https://github.com/tinysec/binaryninja)
+  > BinaryNinja dotnet C# Bindings (Typed, Safe, Native AOT Ready)
+- 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [Colton1skees/binaryninja](https://github.com/Colton1skees/binaryninja) to [Colton1skees/binaryninja](https://github.com/Colton1skees/binaryninja)
+  > BinaryNinja dotnet C# Bindings (Typed, Safe, Native AOT Ready)
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mmozeiko/wcap](https://github.com/mmozeiko/wcap)
   > Small and efficient screen recording utility for Windows 10 and 11
@@ -40,6 +50,8 @@
   > x64dbg plugin for running python3 script. Focus on doing malware analyst and unpacking
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CsharpHacking/hookbong](https://github.com/CsharpHacking/hookbong)
   > Detect hooks inside a loaded process.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tinysec/binaryninja](https://github.com/tinysec/binaryninja)
+  > BinaryNinja dotnet C# Bindings (Typed, Safe, Native AOT Ready)
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
@@ -50,6 +62,8 @@
   > A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animate...
 - 🍴 👤 [yhirose](https://github.com/yhirose) Forked [yhirose/gittype](https://github.com/yhirose/gittype) to [yhirose/gittype](https://github.com/yhirose/gittype)
   > A CLI code-typing game that turns your source code into typing challenges
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)
+  > A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animate...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [gaasedelen/patching](https://github.com/gaasedelen/patching)
@@ -57,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-11-25 11:15:36 UTC*
+*最后更新于 2025-11-25 12:36:41 UTC*
 *历史记录保存在 `archive` 目录中。*
