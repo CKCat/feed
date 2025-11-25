@@ -19,9 +19,27 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [revercc/gumTVM](https://github.com/revercc/gumTVM)
   > Use frida-gum's stalker for tracing
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [libratbag/piper](https://github.com/libratbag/piper)
+  > GTK application to configure gaming devices
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [tessel/t2-firmware](https://github.com/tessel/t2-firmware)
+  > Firmware for Tessel 2's SAMD21 coprocessor and related SoC code
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS)
   > Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinyfloat](https://github.com/ssloy/tinyfloat)
+  > Soft floating point
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stylearcade/zaw](https://github.com/stylearcade/zaw)
+  > Zero Allocation WASM
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ElvisBlue/x64dbgpython](https://github.com/ElvisBlue/x64dbgpython)
+  > x64dbg plugin for running python3 script. Focus on doing malware analyst and unpacking
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CsharpHacking/hookbong](https://github.com/CsharpHacking/hookbong)
+  > Detect hooks inside a loaded process.
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
@@ -39,5 +57,5 @@
 
 
 ---
-*最后更新于 2025-11-25 10:20:45 UTC*
+*最后更新于 2025-11-25 11:15:36 UTC*
 *历史记录保存在 `archive` 目录中。*
