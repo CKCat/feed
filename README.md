@@ -60,6 +60,8 @@
   > Detect hooks inside a loaded process.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tinysec/binaryninja](https://github.com/tinysec/binaryninja)
   > BinaryNinja dotnet C# Bindings (Typed, Safe, Native AOT Ready)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [francozanardi/pictex](https://github.com/francozanardi/pictex)
+  > A powerful Python library for creating complex visual compositions and beautifully styled images
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [JessyTsui/Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote)
@@ -87,5 +89,5 @@
 
 
 ---
-*最后更新于 2025-11-25 18:26:29 UTC*
+*最后更新于 2025-11-25 19:14:28 UTC*
 *历史记录保存在 `archive` 目录中。*
