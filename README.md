@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor)
+  > A customizable and powerful penetration testing reporting platform for offensive security profession...
+
 ### [0xnobody](https://github.com/0xnobody)
 - 🍴 👤 [0xnobody](https://github.com/0xnobody) Forked [0xnobody/souper](https://github.com/0xnobody/souper) to [0xnobody/souper](https://github.com/0xnobody/souper)
   > A superoptimizer for LLVM IR
@@ -89,5 +93,5 @@
 
 
 ---
-*最后更新于 2025-11-25 21:15:58 UTC*
+*最后更新于 2025-11-25 22:16:40 UTC*
 *历史记录保存在 `archive` 目录中。*
