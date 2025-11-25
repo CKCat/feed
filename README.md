@@ -12,6 +12,11 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [keiyoushi/extensions](https://github.com/keiyoushi/extensions)
   > Extension repository for Mihon and variants
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [revercc/gumTVM](https://github.com/revercc/gumTVM)
+  > Use frida-gum's stalker for tracing
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [jayin92/Skyfall-GS](https://github.com/jayin92/Skyfall-GS)
   > Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
@@ -26,7 +31,11 @@
 - 🍴 👤 [yhirose](https://github.com/yhirose) Forked [yhirose/gittype](https://github.com/yhirose/gittype) to [yhirose/gittype](https://github.com/yhirose/gittype)
   > A CLI code-typing game that turns your source code into typing challenges
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [gaasedelen/patching](https://github.com/gaasedelen/patching)
+  > An Interactive Binary Patching Plugin for IDA Pro
+
 
 ---
-*最后更新于 2025-11-25 07:17:31 UTC*
+*最后更新于 2025-11-25 08:24:14 UTC*
 *历史记录保存在 `archive` 目录中。*
