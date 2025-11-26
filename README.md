@@ -13,6 +13,10 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [FrWalkerCn/hexo-blog-encrypt-plus](https://github.com/FrWalkerCn/hexo-blog-encrypt-plus)
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [sukafon/astrbot_plugin_big_banana](https://github.com/sukafon/astrbot_plugin_big_banana)
+  > 绘图插件，支持Gemini规范和高级配置参数。
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
   > A UI library for Compose MultiPlatform
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-11-26 06:26:39 UTC*
+*最后更新于 2025-11-26 07:16:40 UTC*
 *历史记录保存在 `archive` 目录中。*
