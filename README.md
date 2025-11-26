@@ -16,6 +16,8 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HisMax/RedInk](https://github.com/HisMax/RedInk)
   > 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-te...
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [Ylarod/inkwell](https://github.com/Ylarod/inkwell) to [Ylarod/inkwell](https://github.com/Ylarod/inkwell)
+  > It's a New Kind of Wrapper for Exposing LLVM (Safely)
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [sukafon/astrbot_plugin_big_banana](https://github.com/sukafon/astrbot_plugin_big_banana)
@@ -31,6 +33,8 @@
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
   > A UI library for Compose MultiPlatform
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/inkwell](https://github.com/fuqiuluo/inkwell)
+  > It's a New Kind of Wrapper for Exposing LLVM (Safely)
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Chem-Aether/MomoWiki](https://github.com/Chem-Aether/MomoWiki)
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-11-26 12:37:14 UTC*
+*最后更新于 2025-11-26 13:32:29 UTC*
 *历史记录保存在 `archive` 目录中。*
