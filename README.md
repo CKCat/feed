@@ -44,8 +44,10 @@
   > A JSON-Compatible Zero-Copy Serialization Format
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pandaadir05/ghost](https://github.com/pandaadir05/ghost)
   > Detects process injection and memory manipulation used by malware. Finds RWX regions, shellcode patt...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1337hero/faster-chat](https://github.com/1337hero/faster-chat)
+  > A blazingly fast, privacy first & OPEN AI Chat Interface
 
 
 ---
-*最后更新于 2025-11-26 10:20:08 UTC*
+*最后更新于 2025-11-26 11:15:17 UTC*
 *历史记录保存在 `archive` 目录中。*
