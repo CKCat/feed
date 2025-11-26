@@ -13,6 +13,16 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [FrWalkerCn/hexo-blog-encrypt-plus](https://github.com/FrWalkerCn/hexo-blog-encrypt-plus)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard)
+  > Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [colanode/colanode](https://github.com/colanode/colanode)
+  > Open-source and local-first Slack and Notion alternative that puts you in control of your data
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+  > There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+  > Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where ...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HisMax/RedInk](https://github.com/HisMax/RedInk)
   > 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-te...
@@ -70,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-11-26 13:32:29 UTC*
+*最后更新于 2025-11-26 14:18:05 UTC*
 *历史记录保存在 `archive` 目录中。*
