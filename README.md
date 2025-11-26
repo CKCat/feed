@@ -40,8 +40,12 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jevinskie/pypcode-emu](https://github.com/jevinskie/pypcode-emu)
   > Ghidra P-Code emulation and static LLVM lifting in Python
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nimrodpar/Obfvious](https://github.com/nimrodpar/Obfvious)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fastserial/lite3](https://github.com/fastserial/lite3)
+  > A JSON-Compatible Zero-Copy Serialization Format
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pandaadir05/ghost](https://github.com/pandaadir05/ghost)
+  > Detects process injection and memory manipulation used by malware. Finds RWX regions, shellcode patt...
 
 
 ---
-*最后更新于 2025-11-26 09:19:44 UTC*
+*最后更新于 2025-11-26 10:20:08 UTC*
 *历史记录保存在 `archive` 目录中。*
