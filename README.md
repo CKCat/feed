@@ -7,9 +7,19 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
   > PowerShell for every system!
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [FrWalkerCn/hexo-blog-encrypt-plus](https://github.com/FrWalkerCn/hexo-blog-encrypt-plus)
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
+  > A UI library for Compose MultiPlatform
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Chem-Aether/MomoWiki](https://github.com/Chem-Aether/MomoWiki)
+  > 一个考研资料学习平台
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MrRoy09/LLVM-PlugIR](https://github.com/MrRoy09/LLVM-PlugIR)
@@ -33,5 +43,5 @@
 
 
 ---
-*最后更新于 2025-11-26 05:17:02 UTC*
+*最后更新于 2025-11-26 06:26:39 UTC*
 *历史记录保存在 `archive` 目录中。*
