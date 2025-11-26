@@ -13,9 +13,20 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [FrWalkerCn/hexo-blog-encrypt-plus](https://github.com/FrWalkerCn/hexo-blog-encrypt-plus)
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HisMax/RedInk](https://github.com/HisMax/RedInk)
+  > 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-te...
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [sukafon/astrbot_plugin_big_banana](https://github.com/sukafon/astrbot_plugin_big_banana)
   > 绘图插件，支持Gemini规范和高级配置参数。
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [rssys/krr-artifact](https://github.com/rssys/krr-artifact)
+
+### [deathmemory](https://github.com/deathmemory)
+- 🍴 👤 [deathmemory](https://github.com/deathmemory) Forked [deathmemory/uEmu](https://github.com/deathmemory/uEmu) to [deathmemory/uEmu](https://github.com/deathmemory/uEmu)
+  > Tiny cute emulator plugin for IDA based on unicorn.
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
@@ -46,8 +57,14 @@
   > Detects process injection and memory manipulation used by malware. Finds RWX regions, shellcode patt...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1337hero/faster-chat](https://github.com/1337hero/faster-chat)
   > A blazingly fast, privacy first & OPEN AI Chat Interface
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crystalidea/qt6windows7](https://github.com/crystalidea/qt6windows7)
+  > Run your Qt 6 apps on Windows 7/8
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [x64dbg/asmjit](https://github.com/x64dbg/asmjit) to [x64dbg/asmjit](https://github.com/x64dbg/asmjit)
+  > [fork] Low-latency machine code generation.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [x64dbg/asmtk](https://github.com/x64dbg/asmtk) to [x64dbg/asmtk](https://github.com/x64dbg/asmtk)
+  > [fork] Assembler toolkit based on AsmJit.
 
 
 ---
-*最后更新于 2025-11-26 11:15:17 UTC*
+*最后更新于 2025-11-26 12:37:14 UTC*
 *历史记录保存在 `archive` 目录中。*
