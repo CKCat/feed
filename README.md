@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [FrWalkerCn/hexo-blog-encrypt-plus](https://github.com/FrWalkerCn/hexo-blog-encrypt-plus)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MrRoy09/LLVM-PlugIR](https://github.com/MrRoy09/LLVM-PlugIR)
   > LLVM interpreter with a Plugin system to enable LLVM IR based Program Analysis
@@ -22,5 +25,5 @@
 
 
 ---
-*最后更新于 2025-11-26 03:12:35 UTC*
+*最后更新于 2025-11-26 04:22:57 UTC*
 *历史记录保存在 `archive` 目录中。*
