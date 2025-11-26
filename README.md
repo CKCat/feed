@@ -10,6 +10,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [memtest86plus/memtest86plus](https://github.com/memtest86plus/memtest86plus)
+  > Official repo for Memtest86+
+
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [FrWalkerCn/hexo-blog-encrypt-plus](https://github.com/FrWalkerCn/hexo-blog-encrypt-plus)
 
@@ -86,5 +90,5 @@
 
 
 ---
-*最后更新于 2025-11-26 21:15:18 UTC*
+*最后更新于 2025-11-26 22:16:21 UTC*
 *历史记录保存在 `archive` 目录中。*
