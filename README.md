@@ -22,6 +22,8 @@
   > There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha...
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
   > Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where ...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
+  > Easy to maintain open source documentation websites.
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HisMax/RedInk](https://github.com/HisMax/RedInk)
@@ -78,7 +80,11 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [x64dbg/asmtk](https://github.com/x64dbg/asmtk) to [x64dbg/asmtk](https://github.com/x64dbg/asmtk)
   > [fork] Assembler toolkit based on AsmJit.
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)
+  > 开发内功修炼
+
 
 ---
-*最后更新于 2025-11-26 14:18:05 UTC*
+*最后更新于 2025-11-26 15:16:27 UTC*
 *历史记录保存在 `archive` 目录中。*
