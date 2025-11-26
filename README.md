@@ -41,11 +41,7 @@
   > Ghidra P-Code emulation and static LLVM lifting in Python
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nimrodpar/Obfvious](https://github.com/nimrodpar/Obfvious)
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk)
-  > The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration ...
-
 
 ---
-*最后更新于 2025-11-26 08:23:48 UTC*
+*最后更新于 2025-11-26 09:19:44 UTC*
 *历史记录保存在 `archive` 目录中。*
