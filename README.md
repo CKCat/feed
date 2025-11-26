@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+  > PowerShell for every system!
+
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [FrWalkerCn/hexo-blog-encrypt-plus](https://github.com/FrWalkerCn/hexo-blog-encrypt-plus)
 
@@ -23,7 +27,11 @@
   > Ghidra P-Code emulation and static LLVM lifting in Python
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nimrodpar/Obfvious](https://github.com/nimrodpar/Obfvious)
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk)
+  > The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration ...
+
 
 ---
-*最后更新于 2025-11-26 04:22:57 UTC*
+*最后更新于 2025-11-26 05:17:02 UTC*
 *历史记录保存在 `archive` 目录中。*
