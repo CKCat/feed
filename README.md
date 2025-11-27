@@ -21,6 +21,10 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Nickqiaoo/chatcode](https://github.com/Nickqiaoo/chatcode)
   > A vibe coding telegram bot.
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+  > CLI tool for configuring and monitoring Claude Code
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
+  > Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source...
 
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
@@ -28,5 +32,5 @@
 
 
 ---
-*最后更新于 2025-11-27 04:21:09 UTC*
+*最后更新于 2025-11-27 05:17:47 UTC*
 *历史记录保存在 `archive` 目录中。*
