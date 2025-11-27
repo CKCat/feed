@@ -57,6 +57,10 @@
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples) to [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples)
   > One stop solution for all Vulkan samples
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9)
+  > Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API)
   > 📈 Get real-time stocks from TradingView
@@ -92,5 +96,5 @@
 
 
 ---
-*最后更新于 2025-11-27 15:17:50 UTC*
+*最后更新于 2025-11-27 16:21:08 UTC*
 *历史记录保存在 `archive` 目录中。*
