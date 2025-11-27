@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/tvision](https://github.com/lallouslab/tvision) to [lallouslab/tvision](https://github.com/lallouslab/tvision)
+  > A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross...
+
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Ayndpa/ConnectTool](https://github.com/Ayndpa/ConnectTool)
 
@@ -64,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-11-27 10:19:41 UTC*
+*最后更新于 2025-11-27 11:15:34 UTC*
 *历史记录保存在 `archive` 目录中。*
