@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Ayndpa/ConnectTool](https://github.com/Ayndpa/ConnectTool)
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi)
   > free, open-source file scanner
@@ -13,6 +16,10 @@
   > "Research" on how to best optimize brainfuck code.
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Rodrigodd/bf-compiler](https://github.com/Rodrigodd/bf-compiler)
   > Interpreted, optimized, JITed and compiled implementations of the Brainfuck lang.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [hanskorg/network-interface](https://github.com/hanskorg/network-interface)
+  > Retrieve system's Network Interfaces on Linux, macOS and Windows on a standardized manner
+- 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [MouriNaruto/network-interface](https://github.com/MouriNaruto/network-interface) to [MouriNaruto/network-interface](https://github.com/MouriNaruto/network-interface)
+  > Retrieve system's Network Interfaces on Linux, macOS and Windows on a standardized manner
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
@@ -21,6 +28,10 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [mactec0/Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT)
   > Manual mapping without creating any threads, with rw only access
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [anakryiko/shlib-inject](https://github.com/anakryiko/shlib-inject)
+  > shared library injection prototype
 
 ### [baikaishiuc](https://github.com/baikaishiuc)
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples) to [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples)
@@ -44,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-11-27 07:17:52 UTC*
+*最后更新于 2025-11-27 08:24:42 UTC*
 *历史记录保存在 `archive` 目录中。*
