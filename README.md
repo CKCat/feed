@@ -14,9 +14,21 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Rodrigodd/bf-compiler](https://github.com/Rodrigodd/bf-compiler)
   > Interpreted, optimized, JITed and compiled implementations of the Brainfuck lang.
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
+  > 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为...
+
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [mactec0/Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT)
+  > Manual mapping without creating any threads, with rw only access
+
 ### [baikaishiuc](https://github.com/baikaishiuc)
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples) to [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples)
   > One stop solution for all Vulkan samples
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nzcv/note](https://github.com/nzcv/note)
+  > arm汇编学习_linker学习笔记_Android逆向学习笔记
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Nickqiaoo/chatcode](https://github.com/Nickqiaoo/chatcode)
@@ -32,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-11-27 06:27:38 UTC*
+*最后更新于 2025-11-27 07:17:52 UTC*
 *历史记录保存在 `archive` 目录中。*
