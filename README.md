@@ -37,6 +37,10 @@
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples) to [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples)
   > One stop solution for all Vulkan samples
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API)
+  > 📈 Get real-time stocks from TradingView
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nzcv/note](https://github.com/nzcv/note)
   > arm汇编学习_linker学习笔记_Android逆向学习笔记
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-11-27 08:24:42 UTC*
+*最后更新于 2025-11-27 09:19:35 UTC*
 *历史记录保存在 `archive` 目录中。*
