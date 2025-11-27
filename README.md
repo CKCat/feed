@@ -15,6 +15,12 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi)
   > free, open-source file scanner
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [viaduck/openssl-cmake](https://github.com/viaduck/openssl-cmake)
+  > CMake wrapper for OpenSSL supporting cross-compilation
+- 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [reqable/openssl-cmake](https://github.com/reqable/openssl-cmake) to [reqable/openssl-cmake](https://github.com/reqable/openssl-cmake)
+  > CMake wrapper for OpenSSL supporting cross-compilation
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [matslina/bfoptimization](https://github.com/matslina/bfoptimization)
   > "Research" on how to best optimize brainfuck code.
@@ -33,9 +39,19 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [mactec0/Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT)
   > Manual mapping without creating any threads, with rw only access
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [1PercentSync/else-heart-break-chinese](https://github.com/1PercentSync/else-heart-break-chinese)
+  > 游戏Else Heart.Break()的汉化，由GPT3.5翻译
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [anakryiko/shlib-inject](https://github.com/anakryiko/shlib-inject)
   > shared library injection prototype
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
+  > Community-contributed instructions, prompts, and configurations to help you make the most of GitHub ...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [penpot/penpot](https://github.com/penpot/penpot)
+  > Penpot: The open-source design tool for design and code collaboration
 
 ### [baikaishiuc](https://github.com/baikaishiuc)
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples) to [baikaishiuc/Vulkan-Samples](https://github.com/baikaishiuc/Vulkan-Samples)
@@ -76,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-11-27 14:17:10 UTC*
+*最后更新于 2025-11-27 15:17:50 UTC*
 *历史记录保存在 `archive` 目录中。*
