@@ -66,11 +66,15 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
   > Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source...
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [RoomaSec/RmTools](https://github.com/RoomaSec/RmTools)
+  > 蓝队应急工具
+
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
 
 
 ---
-*最后更新于 2025-11-27 13:29:30 UTC*
+*最后更新于 2025-11-27 14:17:10 UTC*
 *历史记录保存在 `archive` 目录中。*
