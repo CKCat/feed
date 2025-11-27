@@ -45,6 +45,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API)
   > 📈 Get real-time stocks from TradingView
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [phyver/GameShell](https://github.com/phyver/GameShell)
+  > a game to learn (or teach) how to use standard commands in a Unix shell
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nzcv/note](https://github.com/nzcv/note)
   > arm汇编学习_linker学习笔记_Android逆向学习笔记
@@ -68,5 +72,5 @@
 
 
 ---
-*最后更新于 2025-11-27 11:15:34 UTC*
+*最后更新于 2025-11-27 12:36:49 UTC*
 *历史记录保存在 `archive` 目录中。*
