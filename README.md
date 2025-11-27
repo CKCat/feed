@@ -65,6 +65,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API)
   > 📈 Get real-time stocks from TradingView
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [VERT-sh/VERT](https://github.com/VERT-sh/VERT)
+  > The next-generation file converter. Open source, fully local* and free forever.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [phyver/GameShell](https://github.com/phyver/GameShell)
   > a game to learn (or teach) how to use standard commands in a Unix shell
@@ -96,5 +100,5 @@
 
 
 ---
-*最后更新于 2025-11-27 17:14:27 UTC*
+*最后更新于 2025-11-27 18:24:01 UTC*
 *历史记录保存在 `archive` 目录中。*
