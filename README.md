@@ -45,6 +45,11 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nzcv/note](https://github.com/nzcv/note)
   > arm汇编学习_linker学习笔记_Android逆向学习笔记
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
+  > String decrypt plugin powered by unicorn engine
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [yywz1999/gdb-mcp-server](https://github.com/yywz1999/gdb-mcp-server)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Nickqiaoo/chatcode](https://github.com/Nickqiaoo/chatcode)
   > A vibe coding telegram bot.
@@ -59,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-11-27 09:19:35 UTC*
+*最后更新于 2025-11-27 10:19:41 UTC*
 *历史记录保存在 `archive` 目录中。*
