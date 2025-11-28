@@ -7,6 +7,10 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
   > Find secrets with Gitleaks 🔑
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [thelicato/friman](https://github.com/thelicato/friman)
+  > Frida version management tool
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/404](https://github.com/hackerschoice/404)
+  > Data of friends we lost
 
 ### [JesusFreke](https://github.com/JesusFreke)
 - 🍴 👤 [JesusFreke](https://github.com/JesusFreke) Forked [JesusFreke/IRremoteESP8266](https://github.com/JesusFreke/IRremoteESP8266) to [JesusFreke/IRremoteESP8266](https://github.com/JesusFreke/IRremoteESP8266)
@@ -36,5 +40,5 @@
 
 
 ---
-*最后更新于 2025-11-28 08:24:23 UTC*
+*最后更新于 2025-11-28 09:18:39 UTC*
 *历史记录保存在 `archive` 目录中。*
