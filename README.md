@@ -40,6 +40,10 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [thomasxm/shellcode](https://github.com/thomasxm/shellcode)
   > Shellcodes for Windows/Linux/BSD running on x86, AMD64, ARM, ARM64
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki)
+  > Quansheng UV-K5 Firmware
+
 ### [colby57](https://github.com/colby57)
 - 🚀 👤 [colby57](https://github.com/colby57) Made [colby57/windows_instrumentation_callback](https://github.com/colby57/windows_instrumentation_callback) public
   > PoC demonstrating the usage of undocumented Process Instrumentation Callback for intercepting kernel...
@@ -61,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-11-28 15:17:45 UTC*
+*最后更新于 2025-11-28 16:21:06 UTC*
 *历史记录保存在 `archive` 目录中。*
