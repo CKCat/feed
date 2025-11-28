@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+  > Find secrets with Gitleaks 🔑
+
 ### [JesusFreke](https://github.com/JesusFreke)
 - 🍴 👤 [JesusFreke](https://github.com/JesusFreke) Forked [JesusFreke/IRremoteESP8266](https://github.com/JesusFreke/IRremoteESP8266) to [JesusFreke/IRremoteESP8266](https://github.com/JesusFreke/IRremoteESP8266)
   > Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols...
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-11-28 07:17:10 UTC*
+*最后更新于 2025-11-28 08:24:23 UTC*
 *历史记录保存在 `archive` 目录中。*
