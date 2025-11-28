@@ -56,6 +56,7 @@
   > Semantic code search tool with GPU acceleration
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jim-plus/llm-abliteration](https://github.com/jim-plus/llm-abliteration)
   > Make abliterated models with transformers, easy and fast
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/fara](https://github.com/microsoft/fara)
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook)
@@ -73,5 +74,5 @@
 
 
 ---
-*最后更新于 2025-11-28 19:13:06 UTC*
+*最后更新于 2025-11-28 20:18:21 UTC*
 *历史记录保存在 `archive` 目录中。*
