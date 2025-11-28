@@ -62,6 +62,10 @@
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook)
   > Windows Local Privilege Escalation Cookbook
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [eviefp/GithubOAuthClient](https://github.com/eviefp/GithubOAuthClient)
+  > .NET OAuth client implementation for Github
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle)
   > Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2025-11-28 21:14:25 UTC*
+*最后更新于 2025-11-28 22:15:25 UTC*
 *历史记录保存在 `archive` 目录中。*
