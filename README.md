@@ -20,6 +20,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [HexHive/NASS](https://github.com/HexHive/NASS)
   > Fuzzing All Native Android System Services with Interface Awareness and Coverage
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+  > Tesseract Open Source OCR Engine (main repository)
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
   > String decrypt plugin powered by unicorn engine
@@ -40,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-11-28 09:18:39 UTC*
+*最后更新于 2025-11-28 10:19:02 UTC*
 *历史记录保存在 `archive` 目录中。*
