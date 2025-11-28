@@ -54,6 +54,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lat-opensource/lat](https://github.com/lat-opensource/lat)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/smgrep](https://github.com/can1357/smgrep)
   > Semantic code search tool with GPU acceleration
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jim-plus/llm-abliteration](https://github.com/jim-plus/llm-abliteration)
+  > Make abliterated models with transformers, easy and fast
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook)
@@ -63,7 +65,13 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle)
   > Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)
 
+### [xiaoweiChen](https://github.com/xiaoweiChen)
+- 🍴 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Forked [xiaoweiChen/capnproto](https://github.com/xiaoweiChen/capnproto) to [xiaoweiChen/capnproto](https://github.com/xiaoweiChen/capnproto)
+  > Cap'n Proto serialization/RPC system - core tools and C++ library
+- 🌟 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Starred [capnproto/capnproto](https://github.com/capnproto/capnproto)
+  > Cap'n Proto serialization/RPC system - core tools and C++ library
+
 
 ---
-*最后更新于 2025-11-28 16:21:06 UTC*
+*最后更新于 2025-11-28 17:14:45 UTC*
 *历史记录保存在 `archive` 目录中。*
