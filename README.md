@@ -20,11 +20,17 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [thomasxm/shellcode](https://github.com/thomasxm/shellcode)
   > Shellcodes for Windows/Linux/BSD running on x86, AMD64, ARM, ARM64
 
+### [colby57](https://github.com/colby57)
+- 🚀 👤 [colby57](https://github.com/colby57) Made [colby57/windows_instrumentation_callback](https://github.com/colby57/windows_instrumentation_callback) public
+  > PoC demonstrating the usage of undocumented Process Instrumentation Callback for intercepting kernel...
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [orange-cpp/omath](https://github.com/orange-cpp/omath)
+  > Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game dev...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle)
   > Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)
 
 
 ---
-*最后更新于 2025-11-28 06:27:06 UTC*
+*最后更新于 2025-11-28 07:17:10 UTC*
 *历史记录保存在 `archive` 目录中。*
