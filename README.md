@@ -12,6 +12,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [HexHive/NASS](https://github.com/HexHive/NASS)
   > Fuzzing All Native Android System Services with Interface Awareness and Coverage
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
+  > String decrypt plugin powered by unicorn engine
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [thomasxm/shellcode](https://github.com/thomasxm/shellcode)
   > Shellcodes for Windows/Linux/BSD running on x86, AMD64, ARM, ARM64
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2025-11-28 05:17:44 UTC*
+*最后更新于 2025-11-28 06:27:06 UTC*
 *历史记录保存在 `archive` 目录中。*
