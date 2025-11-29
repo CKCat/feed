@@ -12,6 +12,10 @@
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [MrMarble/termsvg](https://github.com/MrMarble/termsvg)
   > Record, share and export your terminal as a animated SVG image.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pwno-io/treesitter-mcp](https://github.com/pwno-io/treesitter-mcp)
+  > MCP server for treesitter
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [MonoMod/MonoMod](https://github.com/MonoMod/MonoMod)
   > C# modding swiss army knife, powered by cecil.
@@ -27,5 +31,5 @@
 
 
 ---
-*最后更新于 2025-11-29 16:19:22 UTC*
+*最后更新于 2025-11-29 17:14:09 UTC*
 *历史记录保存在 `archive` 目录中。*
