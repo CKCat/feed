@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [andremichelle/openDAW](https://github.com/andremichelle/openDAW)
+  > openDAW is a next-generation web-based Digital Audio Workstation (DAW)
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [can1357/electron-hacks](https://github.com/can1357/electron-hacks)
   > Lightweight Electron wrappers for web applications on Linux.
@@ -12,9 +16,19 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [can1357/smgrep](https://github.com/can1357/smgrep)
   > Semantic code search tool with GPU acceleration
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zxh326/clash-exporter](https://github.com/zxh326/clash-exporter)
+  > A prometheus exporter for clash
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [NyaMisty/clash-exporter](https://github.com/NyaMisty/clash-exporter) to [NyaMisty/clash-exporter](https://github.com/NyaMisty/clash-exporter)
+  > A prometheus exporter for clash
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nhn/tui.calendar](https://github.com/nhn/tui.calendar)
   > 🍞📅A JavaScript calendar that has everything you need.
+
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
+  > Open Source Continuous File Synchronization
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [MrMarble/termsvg](https://github.com/MrMarble/termsvg)
@@ -55,5 +69,5 @@
 
 
 ---
-*最后更新于 2025-11-29 22:15:23 UTC*
+*最后更新于 2025-11-29 23:15:14 UTC*
 *历史记录保存在 `archive` 目录中。*
