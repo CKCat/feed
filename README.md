@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [can1357/electron-hacks](https://github.com/can1357/electron-hacks)
+  > Lightweight Electron wrappers for web applications on Linux.
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [can1357/smgrep](https://github.com/can1357/smgrep)
   > Semantic code search tool with GPU acceleration
@@ -19,6 +23,8 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [vitaut/schubfach](https://github.com/vitaut/schubfach)
   > A C++ implementation of the Schubfach algorithm - fast and accurate conversion of IEEE-754 double va...
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [gergoerdi/metafun](https://github.com/gergoerdi/metafun)
+  > Compile Haskell-like code into C++ template metaprograms
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pwno-io/treesitter-mcp](https://github.com/pwno-io/treesitter-mcp)
@@ -49,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-11-29 21:14:29 UTC*
+*最后更新于 2025-11-29 22:15:23 UTC*
 *历史记录保存在 `archive` 目录中。*
