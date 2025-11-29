@@ -25,6 +25,10 @@
   > LoongArch userspace emulator
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [mrexodia/Dna](https://github.com/mrexodia/Dna) to [mrexodia/Dna](https://github.com/mrexodia/Dna)
   > LLVM based static binary analysis framework 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vitaut/schubfach](https://github.com/vitaut/schubfach)
+  > A C++ implementation of the Schubfach algorithm - fast and accurate conversion of IEEE-754 double va...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme)
+  > This is my attempt at porting the 'popping and locking' theme used in iTerm2, ghostty, atom, vscode,...
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [MonoMod/MonoMod](https://github.com/MonoMod/MonoMod)
@@ -41,5 +45,5 @@
 
 
 ---
-*最后更新于 2025-11-29 19:13:11 UTC*
+*最后更新于 2025-11-29 20:18:08 UTC*
 *历史记录保存在 `archive` 目录中。*
