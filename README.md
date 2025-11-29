@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [can1357/smgrep](https://github.com/can1357/smgrep)
+  > Semantic code search tool with GPU acceleration
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [MrMarble/termsvg](https://github.com/MrMarble/termsvg)
   > Record, share and export your terminal as a animated SVG image.
@@ -23,5 +27,5 @@
 
 
 ---
-*最后更新于 2025-11-29 15:15:39 UTC*
+*最后更新于 2025-11-29 16:19:22 UTC*
 *历史记录保存在 `archive` 目录中。*
