@@ -16,6 +16,10 @@
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [MrMarble/termsvg](https://github.com/MrMarble/termsvg)
   > Record, share and export your terminal as a animated SVG image.
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [vitaut/schubfach](https://github.com/vitaut/schubfach)
+  > A C++ implementation of the Schubfach algorithm - fast and accurate conversion of IEEE-754 double va...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pwno-io/treesitter-mcp](https://github.com/pwno-io/treesitter-mcp)
   > MCP server for treesitter
@@ -45,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-11-29 20:18:08 UTC*
+*最后更新于 2025-11-29 21:14:29 UTC*
 *历史记录保存在 `archive` 目录中。*
