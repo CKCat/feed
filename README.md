@@ -8,6 +8,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/dosbox-staging](https://github.com/lallouslab/dosbox-staging) to [lallouslab/dosbox-staging](https://github.com/lallouslab/dosbox-staging)
   > DOSBox Staging is a modern continuation of DOSBox with advanced features and current development pra...
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+  > Elegant reading of real-time and hottest news
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -40,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-11-30 09:16:06 UTC*
+*最后更新于 2025-11-30 10:16:24 UTC*
 *历史记录保存在 `archive` 目录中。*
