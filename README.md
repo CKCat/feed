@@ -64,6 +64,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steveyegge/beads](https://github.com/steveyegge/beads)
   > Beads - A memory upgrade for your coding agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/ees](https://github.com/Dicklesworthstone/ees)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner)
+  > 🔬 Industrial-grade static analysis for all popular programming languages. Catch 1000+ bug patterns b...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [vitaut/schubfach](https://github.com/vitaut/schubfach)
@@ -75,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-11-30 21:14:33 UTC*
+*最后更新于 2025-11-30 22:15:54 UTC*
 *历史记录保存在 `archive` 目录中。*
