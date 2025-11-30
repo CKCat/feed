@@ -24,11 +24,19 @@
 - 🍴 👤 [Mq-b](https://github.com/Mq-b) Forked [Mq-b/zxing-cpp](https://github.com/Mq-b/zxing-cpp) to [Mq-b/zxing-cpp](https://github.com/Mq-b/zxing-cpp)
   > C++ port of ZXing
 
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [Kernel-SU/webpki](https://github.com/Kernel-SU/webpki) to [Kernel-SU/webpki](https://github.com/Kernel-SU/webpki)
+  > WebPKI X.509 Certificate Validation in Rust
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [egormanga/SAxense](https://github.com/egormanga/SAxense)
   > DualSense Haptics over Bluetooth (POC)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [games-on-whales/inputtino](https://github.com/games-on-whales/inputtino)
   > A virtual input library: supports mouse, keyboard, joypad, trackpad and more
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
+  > String decrypt plugin powered by unicorn engine
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [diegoiast/qutepart-cpp](https://github.com/diegoiast/qutepart-cpp)
@@ -44,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-11-30 10:16:24 UTC*
+*最后更新于 2025-11-30 11:13:06 UTC*
 *历史记录保存在 `archive` 目录中。*
