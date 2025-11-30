@@ -30,11 +30,15 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [diegoiast/qutepart-cpp](https://github.com/diegoiast/qutepart-cpp)
   > A code editor component for Qt6/C++. Easy to embed into your build system, packed with features.
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [vitaut/schubfach](https://github.com/vitaut/schubfach)
+  > A C++ implementation of the Schubfach algorithm - fast and accurate conversion of IEEE-754 double va...
+
 ### [smx-smx](https://github.com/smx-smx)
 - 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [libyal/libvshadow](https://github.com/libyal/libvshadow)
   > Library and tools to access the Volume Shadow Snapshot (VSS) format
 
 
 ---
-*最后更新于 2025-11-30 06:25:32 UTC*
+*最后更新于 2025-11-30 07:15:20 UTC*
 *历史记录保存在 `archive` 目录中。*
