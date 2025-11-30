@@ -37,6 +37,8 @@
   > DualSense Haptics over Bluetooth (POC)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [games-on-whales/inputtino](https://github.com/games-on-whales/inputtino)
   > A virtual input library: supports mouse, keyboard, joypad, trackpad and more
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [rogerorr/NtTrace](https://github.com/rogerorr/NtTrace)
+  > An strace-like program for the Windows 'native' API
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [armel/k1-teardown](https://github.com/armel/k1-teardown)
@@ -64,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-11-30 18:22:52 UTC*
+*最后更新于 2025-11-30 19:13:17 UTC*
 *历史记录保存在 `archive` 目录中。*
