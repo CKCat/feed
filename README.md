@@ -38,6 +38,10 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [games-on-whales/inputtino](https://github.com/games-on-whales/inputtino)
   > A virtual input library: supports mouse, keyboard, joypad, trackpad and more
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [armel/k1-teardown](https://github.com/armel/k1-teardown)
+  > Quansheng K1 teardown and analysis
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
   > String decrypt plugin powered by unicorn engine
@@ -56,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-11-30 15:15:45 UTC*
+*最后更新于 2025-11-30 16:19:34 UTC*
 *历史记录保存在 `archive` 目录中。*
