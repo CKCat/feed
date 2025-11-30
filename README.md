@@ -46,6 +46,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
   > String decrypt plugin powered by unicorn engine
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [honojs/hono](https://github.com/honojs/hono)
+  > Web framework built on Web Standards
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [diegoiast/qutepart-cpp](https://github.com/diegoiast/qutepart-cpp)
   > A code editor component for Qt6/C++. Easy to embed into your build system, packed with features.
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-11-30 16:19:34 UTC*
+*最后更新于 2025-11-30 17:14:05 UTC*
 *历史记录保存在 `archive` 目录中。*
