@@ -16,6 +16,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ourines/worktree-task-plugin](https://github.com/ourines/worktree-task-plugin)
   > Claude Code plugin for managing large coding tasks using git worktrees and background sessions
 
+### [Mq-b](https://github.com/Mq-b)
+- 🍴 👤 [Mq-b](https://github.com/Mq-b) Forked [Mq-b/zxing-cpp](https://github.com/Mq-b/zxing-cpp) to [Mq-b/zxing-cpp](https://github.com/Mq-b/zxing-cpp)
+  > C++ port of ZXing
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [egormanga/SAxense](https://github.com/egormanga/SAxense)
   > DualSense Haptics over Bluetooth (POC)
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-11-30 04:31:43 UTC*
+*最后更新于 2025-11-30 05:16:35 UTC*
 *历史记录保存在 `archive` 目录中。*
