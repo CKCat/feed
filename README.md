@@ -56,6 +56,15 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [diegoiast/qutepart-cpp](https://github.com/diegoiast/qutepart-cpp)
   > A code editor component for Qt6/C++. Easy to embed into your build system, packed with features.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)
+  > A minimal, fast, database client desktop application. Built for developers who want to quickly peek ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer)
+  > View your beads (Steve Yegge's task management system for coding agents) like a king. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steveyegge/beads](https://github.com/steveyegge/beads)
+  > Beads - A memory upgrade for your coding agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/ees](https://github.com/Dicklesworthstone/ees)
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [vitaut/schubfach](https://github.com/vitaut/schubfach)
   > A C++ implementation of the Schubfach algorithm - fast and accurate conversion of IEEE-754 double va...
@@ -66,5 +75,5 @@
 
 
 ---
-*最后更新于 2025-11-30 20:18:22 UTC*
+*最后更新于 2025-11-30 21:14:33 UTC*
 *历史记录保存在 `archive` 目录中。*
