@@ -56,6 +56,13 @@
   > LLVM optimization passes for loop analysis and transformation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TorinCr/cfg-analysis](https://github.com/TorinCr/cfg-analysis)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TorinCr/Dataflow_Analysis](https://github.com/TorinCr/Dataflow_Analysis)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lsrcz/HieraSynth_OOPSLA25_Artifact](https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [moves-rwth/cegispro2](https://github.com/moves-rwth/cegispro2)
+  > Probabilistic Program Verification via Inductive Synthesis of Inductive Invariants
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BHGFPMK/CEGIS-with-LLM](https://github.com/BHGFPMK/CEGIS-with-LLM)
+  > Re-implement of MILCOM 2023 Paper: Counterexample Guided Inductive Synthesis Using Large Language Mo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GaloisInc/semmc](https://github.com/GaloisInc/semmc)
+  > Stratified synthesis for learning machine code instruction semantics
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
@@ -73,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-12-01 18:28:46 UTC*
+*最后更新于 2025-12-01 19:18:47 UTC*
 *历史记录保存在 `archive` 目录中。*
