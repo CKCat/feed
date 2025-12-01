@@ -31,8 +31,8 @@
   > Run your GitHub Actions locally 🚀
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
-- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [chenxiaolong/platform_packages_apps_Settings](https://github.com/chenxiaolong/platform_packages_apps_Settings) to [chenxiaolong/platform_packages_apps_Settings](https://github.com/chenxiaolong/platform_packages_apps_Settings)
-- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [chenxiaolong/adevtool](https://github.com/chenxiaolong/adevtool) to [chenxiaolong/adevtool](https://github.com/chenxiaolong/adevtool)
+- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [GrapheneOS/platform_packages_apps_Settings](https://github.com/GrapheneOS/platform_packages_apps_Settings) to [chenxiaolong/platform_packages_apps_Settings](https://github.com/chenxiaolong/platform_packages_apps_Settings)
+- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [GrapheneOS/adevtool](https://github.com/GrapheneOS/adevtool) to [chenxiaolong/adevtool](https://github.com/chenxiaolong/adevtool)
   > Android device support and bringup tool, designed for maximum automation and speed.
 
 ### [cinit](https://github.com/cinit)
@@ -73,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-12-01 17:19:18 UTC*
+*最后更新于 2025-12-01 18:28:46 UTC*
 *历史记录保存在 `archive` 目录中。*
