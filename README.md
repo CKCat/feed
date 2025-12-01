@@ -35,6 +35,10 @@
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [chenxiaolong/adevtool](https://github.com/chenxiaolong/adevtool) to [chenxiaolong/adevtool](https://github.com/chenxiaolong/adevtool)
   > Android device support and bringup tool, designed for maximum automation and speed.
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [muzkr/uv-k5-firmware-custom](https://github.com/muzkr/uv-k5-firmware-custom)
+  > This is a fork of F4HWN https://github.com/armel/uv-k5-firmware-custom targeting V2 hardware
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [oxcaml/oxcaml](https://github.com/oxcaml/oxcaml)
   > OCaml - Oxidized!
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-12-01 14:18:37 UTC*
+*最后更新于 2025-12-01 15:19:08 UTC*
 *历史记录保存在 `archive` 目录中。*
