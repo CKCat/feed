@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/.github](https://github.com/0xdea/.github)
+  > Who's raptor?
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/from-day-zero-to-zero-day](https://github.com/0xdea/from-day-zero-to-zero-day)
+  > My code and notes for "From Day Zero to Zero Day", a book on vulnerability research by Eugene Lim.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Vortesys/Cascades](https://github.com/Vortesys/Cascades)
   > Vintage window borders for modern Windows.
@@ -29,6 +35,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [oxcaml/oxcaml](https://github.com/oxcaml/oxcaml)
   > OCaml - Oxidized!
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm)
+  > dLLM: Simple Diffusion Language Modeling
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [broly8/libpinyin-dict](https://github.com/broly8/libpinyin-dict)
   > ibus-libpinyin可用32万txt词库
@@ -43,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-12-01 08:27:14 UTC*
+*最后更新于 2025-12-01 09:24:58 UTC*
 *历史记录保存在 `archive` 目录中。*
