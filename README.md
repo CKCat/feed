@@ -10,6 +10,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/from-day-zero-to-zero-day](https://github.com/0xdea/from-day-zero-to-zero-day)
   > My code and notes for "From Day Zero to Zero Day", a book on vulnerability research by Eugene Lim.
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [revsic/cpp-obfuscator](https://github.com/revsic/cpp-obfuscator)
+  > C++ implementation of compile time obfuscator
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Vortesys/Cascades](https://github.com/Vortesys/Cascades)
   > Vintage window borders for modern Windows.
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2025-12-01 12:37:07 UTC*
+*最后更新于 2025-12-01 13:33:00 UTC*
 *历史记录保存在 `archive` 目录中。*
