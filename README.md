@@ -51,9 +51,21 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [broly8/libpinyin-dict](https://github.com/broly8/libpinyin-dict)
   > ibus-libpinyin可用32万txt词库
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TorinCr/llvm-custom-passes](https://github.com/TorinCr/llvm-custom-passes)
+  > LLVM optimization passes for loop analysis and transformation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TorinCr/cfg-analysis](https://github.com/TorinCr/cfg-analysis)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TorinCr/Dataflow_Analysis](https://github.com/TorinCr/Dataflow_Analysis)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
   > AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The n...
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [TommyLike/sign-file](https://github.com/TommyLike/sign-file)
+  > Rust version of sign tool for kernel module, see: https://git.kernel.org/pub/scm/linux/kernel/git/st...
+
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [isen-ng/homebrew-dotnet-sdk-versions](https://github.com/isen-ng/homebrew-dotnet-sdk-versions)
+  > dotnet-sdk versions HomeBrew Tap
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TwiN/gatus](https://github.com/TwiN/gatus)
@@ -61,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-12-01 16:24:56 UTC*
+*最后更新于 2025-12-01 17:19:18 UTC*
 *历史记录保存在 `archive` 目录中。*
