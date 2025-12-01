@@ -33,11 +33,15 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [broly8/libpinyin-dict](https://github.com/broly8/libpinyin-dict)
   > ibus-libpinyin可用32万txt词库
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
+  > AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The n...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TwiN/gatus](https://github.com/TwiN/gatus)
   > ⛑ Automated developer-oriented status page
 
 
 ---
-*最后更新于 2025-12-01 07:20:32 UTC*
+*最后更新于 2025-12-01 08:27:14 UTC*
 *历史记录保存在 `archive` 目录中。*
