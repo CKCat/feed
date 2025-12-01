@@ -10,6 +10,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/from-day-zero-to-zero-day](https://github.com/0xdea/from-day-zero-to-zero-day)
   > My code and notes for "From Day Zero to Zero Day", a book on vulnerability research by Eugene Lim.
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xeb/fastmcpp](https://github.com/0xeb/fastmcpp) to [lallouslab/fastmcpp](https://github.com/lallouslab/fastmcpp)
+  > C++ port of the fastmcp Python library
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [revsic/cpp-obfuscator](https://github.com/revsic/cpp-obfuscator)
   > C++ implementation of compile time obfuscator
@@ -63,6 +67,8 @@
   > Re-implement of MILCOM 2023 Paper: Counterexample Guided Inductive Synthesis Using Large Language Mo...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GaloisInc/semmc](https://github.com/GaloisInc/semmc)
   > Stratified synthesis for learning machine code instruction semantics
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GaloisInc/macaw](https://github.com/GaloisInc/macaw)
+  > Open source binary analysis tools.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
@@ -80,5 +86,5 @@
 
 
 ---
-*最后更新于 2025-12-01 20:18:08 UTC*
+*最后更新于 2025-12-01 21:15:00 UTC*
 *历史记录保存在 `archive` 目录中。*
