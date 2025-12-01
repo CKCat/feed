@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Vortesys/Cascades](https://github.com/Vortesys/Cascades)
+  > Vintage window borders for modern Windows.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [w-okada/voice-changer](https://github.com/w-okada/voice-changer)
   > リアルタイムボイスチェンジャー Realtime Voice Changer
@@ -31,5 +35,5 @@
 
 
 ---
-*最后更新于 2025-12-01 04:46:49 UTC*
+*最后更新于 2025-12-01 05:25:26 UTC*
 *历史记录保存在 `archive` 目录中。*
