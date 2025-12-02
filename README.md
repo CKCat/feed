@@ -44,6 +44,10 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
   > 对目标函数进行trace 只适用于 arm64
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Alessandro-Salerno/SalernOS-Kernel](https://github.com/Alessandro-Salerno/SalernOS-Kernel)
+  > Almost usable x86-64 Unix-like kernel
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fexsecc/structbug](https://github.com/fexsecc/structbug)
   > Add support for casting reverse engineered structures in a debugger
@@ -60,7 +64,13 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
   > Virtual whiteboard for sketching hand-drawn like diagrams
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [slopus/happy](https://github.com/slopus/happy)
+  > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [rrnewton/happy-devbox](https://github.com/rrnewton/happy-devbox)
+  > A parent repo that ties together the other three happy repos for development.
+
 
 ---
-*最后更新于 2025-12-02 10:19:41 UTC*
+*最后更新于 2025-12-02 11:16:54 UTC*
 *历史记录保存在 `archive` 目录中。*
