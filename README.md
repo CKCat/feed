@@ -16,6 +16,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
+  > This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [jovibor/HexCtrl](https://github.com/jovibor/HexCtrl)
   > Fully-featured GUI Hex Control.
@@ -34,5 +38,5 @@
 
 
 ---
-*最后更新于 2025-12-02 03:16:07 UTC*
+*最后更新于 2025-12-02 04:27:44 UTC*
 *历史记录保存在 `archive` 目录中。*
