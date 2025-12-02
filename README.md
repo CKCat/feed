@@ -30,6 +30,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [slopus/happy](https://github.com/slopus/happy)
   > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
+### [arizvisa](https://github.com/arizvisa)
+- 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
+  > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
   > This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
@@ -84,5 +88,5 @@
 
 
 ---
-*最后更新于 2025-12-02 17:19:53 UTC*
+*最后更新于 2025-12-02 18:27:54 UTC*
 *历史记录保存在 `archive` 目录中。*
