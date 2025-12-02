@@ -8,6 +8,10 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [kirschju/ida-graph-exporter](https://github.com/kirschju/ida-graph-exporter)
   > Layout-preserving graph view exporter plugin for IDA Pro
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [alephpi/Texo](https://github.com/alephpi/Texo)
+  > A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeli...
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
   > WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerSh...
@@ -37,6 +41,7 @@
 ### [arizvisa](https://github.com/arizvisa)
 - 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
   > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
+- 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [Goochbeater/Jailbreak-Guide](https://github.com/Goochbeater/Jailbreak-Guide)
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
@@ -92,5 +97,5 @@
 
 
 ---
-*最后更新于 2025-12-02 19:16:56 UTC*
+*最后更新于 2025-12-02 20:21:32 UTC*
 *历史记录保存在 `archive` 目录中。*
