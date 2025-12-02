@@ -26,6 +26,10 @@
 - 🍴 👤 [PlaneJun](https://github.com/PlaneJun) Forked [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) to [PlaneJun/clash-for-linux-install](https://github.com/PlaneJun/clash-for-linux-install)
   > 😼 优雅地使用基于 clash/mihomo 的代理环境
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [slopus/happy](https://github.com/slopus/happy)
+  > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
   > This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2025-12-02 12:37:48 UTC*
+*最后更新于 2025-12-02 13:34:32 UTC*
 *历史记录保存在 `archive` 目录中。*
