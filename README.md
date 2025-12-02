@@ -48,6 +48,10 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
   > 对目标函数进行trace 只适用于 arm64
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [hiking90/rsproperties](https://github.com/hiking90/rsproperties)
+  > A pure Rust implementation of Android's property system for Linux and Android.
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Alessandro-Salerno/SalernOS-Kernel](https://github.com/Alessandro-Salerno/SalernOS-Kernel)
   > Almost usable x86-64 Unix-like kernel
@@ -74,7 +78,11 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [rrnewton/happy-devbox](https://github.com/rrnewton/happy-devbox)
   > A parent repo that ties together the other three happy repos for development.
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
+  > FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化模拟人工操作将API请求转发到 Google AI Stu...
+
 
 ---
-*最后更新于 2025-12-02 13:34:32 UTC*
+*最后更新于 2025-12-02 14:19:10 UTC*
 *历史记录保存在 `archive` 目录中。*
