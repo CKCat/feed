@@ -77,6 +77,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyodide/pyodide](https://github.com/pyodide/pyodide)
   > Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Unity-Technologies/bdwgc](https://github.com/Unity-Technologies/bdwgc)
+  > The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehmgc) 
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [VeloshGSIs/Super_Guide](https://github.com/VeloshGSIs/Super_Guide)
   > Simple guide for extract partitions from super file image.
@@ -97,5 +101,5 @@
 
 
 ---
-*最后更新于 2025-12-02 21:17:18 UTC*
+*最后更新于 2025-12-02 22:15:20 UTC*
 *历史记录保存在 `archive` 目录中。*
