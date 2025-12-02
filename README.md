@@ -24,6 +24,10 @@
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
   > This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [jiqiu2022/Tenet-IDA9.0](https://github.com/jiqiu2022/Tenet-IDA9.0)
+  > Tenet的修复版本，支持了ida9.0,增加了类似LLDB的调试逻辑，优化了界面，增加了arm64的支持，以及ALSR部分的重写
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [jovibor/HexCtrl](https://github.com/jovibor/HexCtrl)
   > Fully-featured GUI Hex Control.
@@ -50,5 +54,5 @@
 
 
 ---
-*最后更新于 2025-12-02 08:25:35 UTC*
+*最后更新于 2025-12-02 09:23:14 UTC*
 *历史记录保存在 `archive` 目录中。*
