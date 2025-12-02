@@ -12,6 +12,14 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > Claude Code superpowers: core skills library
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [jovibor/HexCtrl](https://github.com/jovibor/HexCtrl)
+  > Fully-featured GUI Hex Control.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fexsecc/structbug](https://github.com/fexsecc/structbug)
   > Add support for casting reverse engineered structures in a debugger
@@ -20,7 +28,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyodide/pyodide](https://github.com/pyodide/pyodide)
   > Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [VeloshGSIs/Super_Guide](https://github.com/VeloshGSIs/Super_Guide)
+  > Simple guide for extract partitions from super file image.
+
 
 ---
-*最后更新于 2025-12-02 01:19:29 UTC*
+*最后更新于 2025-12-02 03:16:07 UTC*
 *历史记录保存在 `archive` 目录中。*
