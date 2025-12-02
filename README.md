@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [kirschju/ida-graph-exporter](https://github.com/kirschju/ida-graph-exporter)
+  > Layout-preserving graph view exporter plugin for IDA Pro
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
   > WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerSh...
@@ -88,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-12-02 18:27:54 UTC*
+*最后更新于 2025-12-02 19:16:56 UTC*
 *历史记录保存在 `archive` 目录中。*
