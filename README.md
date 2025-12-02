@@ -24,6 +24,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [jovibor/HexCtrl](https://github.com/jovibor/HexCtrl)
   > Fully-featured GUI Hex Control.
 
+### [fjqisba](https://github.com/fjqisba)
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
+  > 对目标函数进行trace 只适用于 arm64
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fexsecc/structbug](https://github.com/fexsecc/structbug)
   > Add support for casting reverse engineered structures in a debugger
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-02 05:17:18 UTC*
+*最后更新于 2025-12-02 06:28:17 UTC*
 *历史记录保存在 `archive` 目录中。*
