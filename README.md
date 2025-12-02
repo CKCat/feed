@@ -8,6 +8,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
   > WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerSh...
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [cppdoc-cc/cppdoc](https://github.com/cppdoc-cc/cppdoc)
+  > An open documentation for the C/C++ programming languages and their standard libraries.
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > Claude Code superpowers: core skills library
@@ -40,7 +44,11 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [VeloshGSIs/Super_Guide](https://github.com/VeloshGSIs/Super_Guide)
   > Simple guide for extract partitions from super file image.
 
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+  > Virtual whiteboard for sketching hand-drawn like diagrams
+
 
 ---
-*最后更新于 2025-12-02 06:28:17 UTC*
+*最后更新于 2025-12-02 07:19:30 UTC*
 *历史记录保存在 `archive` 目录中。*
