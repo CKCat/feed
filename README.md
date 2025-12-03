@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [rrevenantt/antlr4rust](https://github.com/rrevenantt/antlr4rust)
+  > ANTLR4 parser generator runtime for Rust programming laguage 
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)
   > Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
@@ -52,11 +56,15 @@
 - 🍴 👤 [tiann](https://github.com/tiann) Forked [slopus/happy](https://github.com/slopus/happy) to [tiann/happy](https://github.com/tiann/happy)
   > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [bytedance/trae-agent](https://github.com/bytedance/trae-agent)
+  > Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [apache/doris](https://github.com/apache/doris)
   > Apache Doris is an easy-to-use, high performance and unified analytics database.
 
 
 ---
-*最后更新于 2025-12-03 14:18:12 UTC*
+*最后更新于 2025-12-03 15:20:03 UTC*
 *历史记录保存在 `archive` 目录中。*
