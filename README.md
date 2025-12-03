@@ -7,6 +7,8 @@
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [rrevenantt/antlr4rust](https://github.com/rrevenantt/antlr4rust)
   > ANTLR4 parser generator runtime for Rust programming laguage 
+- 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [egraphs-good/egg](https://github.com/egraphs-good/egg) to [Colton1skees/egg](https://github.com/Colton1skees/egg)
+  > egg is a flexible, high-performance e-graph library
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)
@@ -35,6 +37,9 @@
   > Next-Generation Remote Analysis Suite for Reverse Engineering.
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [wh1te4ever/kfund](https://github.com/wh1te4ever/kfund)
   > kfund, short for my fun with kfd exploit.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aws/sagemaker-hyperpod-checkpointless-training](https://github.com/aws/sagemaker-hyperpod-checkpointless-training)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michalpaszkowski/LLVM-Canon](https://github.com/michalpaszkowski/LLVM-Canon)
@@ -66,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-12-03 17:20:06 UTC*
+*最后更新于 2025-12-03 18:27:32 UTC*
 *历史记录保存在 `archive` 目录中。*
