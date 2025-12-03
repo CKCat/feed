@@ -45,6 +45,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michalpaszkowski/LLVM-Canon](https://github.com/michalpaszkowski/LLVM-Canon)
   > LLVM-Canon aims to transform LLVM modules into a canonical form by reordering and renaming instructi...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+
 ### [qicosmos](https://github.com/qicosmos)
 - 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [martin-olivier/dylib](https://github.com/martin-olivier/dylib)
   > C++ cross-platform wrapper around dynamic loading of shared libraries (dll, so, dylib)
@@ -71,5 +75,5 @@
 
 
 ---
-*最后更新于 2025-12-03 20:20:35 UTC*
+*最后更新于 2025-12-03 21:16:04 UTC*
 *历史记录保存在 `archive` 目录中。*
