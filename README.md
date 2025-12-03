@@ -19,6 +19,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent)
   > 腾讯云黑客松 - 智能渗透挑战赛
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
+  > Next-Generation Remote Analysis Suite for Reverse Engineering.
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [wh1te4ever/kfund](https://github.com/wh1te4ever/kfund)
+  > kfund, short for my fun with kfd exploit.
 
 ### [qicosmos](https://github.com/qicosmos)
 - 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [martin-olivier/dylib](https://github.com/martin-olivier/dylib)
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-12-03 09:21:29 UTC*
+*最后更新于 2025-12-03 10:20:42 UTC*
 *历史记录保存在 `archive` 目录中。*
