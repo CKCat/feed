@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent)
+  > 腾讯云黑客松 - 智能渗透挑战赛
+
+### [qicosmos](https://github.com/qicosmos)
+- 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [martin-olivier/dylib](https://github.com/martin-olivier/dylib)
+  > C++ cross-platform wrapper around dynamic loading of shared libraries (dll, so, dylib)
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting)
   > Chronos: Pretrained Models for Time Series Forecasting
@@ -19,5 +27,5 @@
 
 
 ---
-*最后更新于 2025-12-03 05:17:03 UTC*
+*最后更新于 2025-12-03 06:28:02 UTC*
 *历史记录保存在 `archive` 目录中。*
