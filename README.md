@@ -16,6 +16,12 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [u-boot/u-boot](https://github.com/u-boot/u-boot)
   > "Das U-Boot" Source Tree
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa)
+  > Application Binary Interface for the Arm® Architecture
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [emoon/minifb](https://github.com/emoon/minifb)
+  > MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent)
   > 腾讯云黑客松 - 智能渗透挑战赛
@@ -47,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-12-03 10:20:42 UTC*
+*最后更新于 2025-12-03 11:16:24 UTC*
 *历史记录保存在 `archive` 目录中。*
