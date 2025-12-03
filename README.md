@@ -7,6 +7,8 @@
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting)
   > Chronos: Pretrained Models for Time Series Forecasting
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot)
+  > TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets y...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tobi/try](https://github.com/tobi/try)
@@ -17,5 +19,5 @@
 
 
 ---
-*最后更新于 2025-12-03 03:15:02 UTC*
+*最后更新于 2025-12-03 04:26:16 UTC*
 *历史记录保存在 `archive` 目录中。*
