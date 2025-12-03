@@ -21,6 +21,8 @@
   > Application Binary Interface for the Arm® Architecture
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [emoon/minifb](https://github.com/emoon/minifb)
   > MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent)
@@ -29,6 +31,10 @@
   > Next-Generation Remote Analysis Suite for Reverse Engineering.
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [wh1te4ever/kfund](https://github.com/wh1te4ever/kfund)
   > kfund, short for my fun with kfd exploit.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michalpaszkowski/LLVM-Canon](https://github.com/michalpaszkowski/LLVM-Canon)
+  > LLVM-Canon aims to transform LLVM modules into a canonical form by reordering and renaming instructi...
 
 ### [qicosmos](https://github.com/qicosmos)
 - 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [martin-olivier/dylib](https://github.com/martin-olivier/dylib)
@@ -43,6 +49,8 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tobi/try](https://github.com/tobi/try)
   > fresh directories for every vibe
+- 🍴 👤 [tiann](https://github.com/tiann) Forked [slopus/happy](https://github.com/slopus/happy) to [tiann/happy](https://github.com/tiann/happy)
+  > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k)
@@ -53,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-12-03 11:16:24 UTC*
+*最后更新于 2025-12-03 12:37:23 UTC*
 *历史记录保存在 `archive` 目录中。*
