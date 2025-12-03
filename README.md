@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)
+  > Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [qwd/Icons](https://github.com/qwd/Icons)
   > 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
@@ -39,5 +43,5 @@
 
 
 ---
-*最后更新于 2025-12-03 08:24:39 UTC*
+*最后更新于 2025-12-03 09:21:29 UTC*
 *历史记录保存在 `archive` 目录中。*
