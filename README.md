@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [20000s](https://github.com/20000s)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)
+  > CVE-2025-55182 POC
+
+### [fjqisba](https://github.com/fjqisba)
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)
+  > 🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane
+
 
 ---
-*最后更新于 2025-12-04 01:19:40 UTC*
+*最后更新于 2025-12-04 03:16:40 UTC*
 *历史记录保存在 `archive` 目录中。*
