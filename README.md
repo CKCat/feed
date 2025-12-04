@@ -16,7 +16,11 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)
   > 🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+  > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
+
 
 ---
-*最后更新于 2025-12-04 05:17:32 UTC*
+*最后更新于 2025-12-04 06:27:46 UTC*
 *历史记录保存在 `archive` 目录中。*
