@@ -44,6 +44,8 @@
   > DDK 内核模块开发模板
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [stbrumme/hash-library](https://github.com/stbrumme/hash-library)
   > Portable C++ hashing library
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [scellecs/collections](https://github.com/scellecs/collections)
+  > 📚 Fast and Simple Collection Types For Unity Game Engine
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cozodb/cozo](https://github.com/cozodb/cozo)
@@ -61,5 +63,5 @@
 
 
 ---
-*最后更新于 2025-12-04 21:16:58 UTC*
+*最后更新于 2025-12-04 22:18:12 UTC*
 *历史记录保存在 `archive` 目录中。*
