@@ -16,6 +16,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kanren3/libmbedtls](https://github.com/kanren3/libmbedtls)
   > An open source, portable, easy to use, readable and flexible TLS library, and reference implementati...
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+  > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
 ### [fjqisba](https://github.com/fjqisba)
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)
   > 🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-12-04 10:20:58 UTC*
+*最后更新于 2025-12-04 11:17:02 UTC*
 *历史记录保存在 `archive` 目录中。*
