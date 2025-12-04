@@ -11,6 +11,11 @@
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [Ylarod/ddk-module-template](https://github.com/Ylarod/ddk-module-template) to [5ec1cff/ddk-module-template](https://github.com/5ec1cff/ddk-module-template)
   > DDK 内核模块开发模板
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [S2-Lab/AHA-fuzz](https://github.com/S2-Lab/AHA-fuzz)
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman)
+  > Long Task Harness for AI agents - feature-driven development with external memory
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kanren3/libmbedtls](https://github.com/kanren3/libmbedtls)
@@ -27,6 +32,8 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [5ec1cff/ddk-module-template](https://github.com/5ec1cff/ddk-module-template)
   > DDK 内核模块开发模板
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [stbrumme/hash-library](https://github.com/stbrumme/hash-library)
+  > Portable C++ hashing library
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cozodb/cozo](https://github.com/cozodb/cozo)
@@ -44,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-12-04 15:20:27 UTC*
+*最后更新于 2025-12-04 16:24:28 UTC*
 *历史记录保存在 `archive` 目录中。*
