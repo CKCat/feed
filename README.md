@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xnobody](https://github.com/0xnobody)
+- 🌟 👤 [0xnobody](https://github.com/0xnobody) Starred [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)
+  > Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)
   > CVE-2025-55182 POC
@@ -24,6 +28,12 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
   > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [K4ryuu/IDA-VTableExplorer](https://github.com/K4ryuu/IDA-VTableExplorer)
+  > IDA Pro 9.x plugin: Automatic C++ vtable detection, class name extraction, and virtual function inde...
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
+  > 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 ### [fjqisba](https://github.com/fjqisba)
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)
@@ -51,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-12-04 16:24:28 UTC*
+*最后更新于 2025-12-04 17:20:24 UTC*
 *历史记录保存在 `archive` 目录中。*
