@@ -5,7 +5,7 @@
 ## 今日动态
 
 ### [20000s](https://github.com/20000s)
-- 🌟 👤 [20000s](https://github.com/20000s) Starred [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)
   > CVE-2025-55182 POC
 
 ### [5ec1cff](https://github.com/5ec1cff)
@@ -24,6 +24,14 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)
   > 🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [5ec1cff/ddk-module-template](https://github.com/5ec1cff/ddk-module-template)
+  > DDK 内核模块开发模板
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [cozodb/cozo](https://github.com/cozodb/cozo)
+  > A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for A...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
   > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
@@ -36,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-12-04 14:18:54 UTC*
+*最后更新于 2025-12-04 15:20:27 UTC*
 *历史记录保存在 `archive` 目录中。*
