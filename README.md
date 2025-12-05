@@ -46,6 +46,8 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver)
   > Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop ...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+  > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
 
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [johnnynunez/decord2](https://github.com/johnnynunez/decord2)
@@ -53,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-12-05 15:18:49 UTC*
+*最后更新于 2025-12-05 16:22:05 UTC*
 *历史记录保存在 `archive` 目录中。*
