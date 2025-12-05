@@ -36,6 +36,8 @@
   > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [jdx/mise](https://github.com/jdx/mise)
   > dev tools, env vars, task runner
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [coder/mux](https://github.com/coder/mux)
+  > A desktop app for isolated, parallel agentic development
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver)
@@ -47,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-12-05 08:23:47 UTC*
+*最后更新于 2025-12-05 09:18:39 UTC*
 *历史记录保存在 `archive` 目录中。*
