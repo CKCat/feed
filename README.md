@@ -14,6 +14,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bsauce/kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
   > Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense pape...
 
+### [osm0sis](https://github.com/osm0sis)
+- 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) to [osm0sis/TEESimulator](https://github.com/osm0sis/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [TanStack/ai](https://github.com/TanStack/ai)
   > 🤖 SDK that enhances your applications with AI capabilities
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-12-05 05:17:39 UTC*
+*最后更新于 2025-12-05 06:28:01 UTC*
 *历史记录保存在 `archive` 目录中。*
