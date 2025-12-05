@@ -8,6 +8,11 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [harehare/mq](https://github.com/harehare/mq)
   > jq-like command-line tool for markdown processing
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [xiaoxindada/delta_generator_build](https://github.com/xiaoxindada/delta_generator_build)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [matsuzaka-yuki/FolkPatch](https://github.com/matsuzaka-yuki/FolkPatch)
+  > 基于 APatch 开发的内核级别ROOT方案!
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [icsnju/visualinux](https://github.com/icsnju/visualinux)
   > A visualized debugging framework to aid in understanding the Linux kernel.
@@ -18,6 +23,10 @@
 - 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) to [osm0sis/TEESimulator](https://github.com/osm0sis/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [xacrimon/dashmap](https://github.com/xacrimon/dashmap)
+  > Blazing fast concurrent HashMap for Rust.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [TanStack/ai](https://github.com/TanStack/ai)
   > 🤖 SDK that enhances your applications with AI capabilities
@@ -25,6 +34,8 @@
   > Ghostty for the web with xterm.js API compatibility
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub)
   > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver)
@@ -36,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-12-05 07:18:17 UTC*
+*最后更新于 2025-12-05 08:23:47 UTC*
 *历史记录保存在 `archive` 目录中。*
