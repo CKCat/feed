@@ -23,6 +23,14 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bsauce/kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
   > Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense pape...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ret2jazzy/ELFPatch](https://github.com/ret2jazzy/ELFPatch)
+  > A library for patching ELFs
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [acsandmann/rift](https://github.com/acsandmann/rift)
+  > a tiling window manager for macos
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) to [osm0sis/TEESimulator](https://github.com/osm0sis/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
@@ -55,5 +63,5 @@
 
 
 ---
-*最后更新于 2025-12-05 19:13:54 UTC*
+*最后更新于 2025-12-05 20:19:43 UTC*
 *历史记录保存在 `archive` 目录中。*
