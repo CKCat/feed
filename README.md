@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [wei/pull](https://github.com/wei/pull)
+  > 🤖 Keep your forks up-to-date via automated PRs
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [harehare/mq](https://github.com/harehare/mq)
   > jq-like command-line tool for markdown processing
@@ -65,5 +69,5 @@
 
 
 ---
-*最后更新于 2025-12-05 21:15:53 UTC*
+*最后更新于 2025-12-05 22:16:27 UTC*
 *历史记录保存在 `archive` 目录中。*
