@@ -23,6 +23,8 @@
   > 🤖 SDK that enhances your applications with AI capabilities
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [coder/ghostty-web](https://github.com/coder/ghostty-web)
   > Ghostty for the web with xterm.js API compatibility
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub)
+  > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver)
@@ -34,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-12-05 06:28:01 UTC*
+*最后更新于 2025-12-05 07:18:17 UTC*
 *历史记录保存在 `archive` 目录中。*
