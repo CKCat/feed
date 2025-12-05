@@ -26,6 +26,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ret2jazzy/ELFPatch](https://github.com/ret2jazzy/ELFPatch)
   > A library for patching ELFs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vmsplit/silkhook](https://github.com/vmsplit/silkhook)
+  > tiny arm64 hooking library (WIP)
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [acsandmann/rift](https://github.com/acsandmann/rift)
@@ -63,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-12-05 20:19:43 UTC*
+*最后更新于 2025-12-05 21:15:53 UTC*
 *历史记录保存在 `archive` 目录中。*
