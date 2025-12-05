@@ -8,6 +8,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [harehare/mq](https://github.com/harehare/mq)
   > jq-like command-line tool for markdown processing
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral)
+  > Cyclone V bitstream reverse-engineering project
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [xiaoxindada/delta_generator_build](https://github.com/xiaoxindada/delta_generator_build)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [matsuzaka-yuki/FolkPatch](https://github.com/matsuzaka-yuki/FolkPatch)
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-12-05 11:16:38 UTC*
+*最后更新于 2025-12-05 12:36:39 UTC*
 *历史记录保存在 `archive` 目录中。*
