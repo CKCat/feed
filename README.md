@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [wiz-sec-public/zeroday-cloud-2025](https://github.com/wiz-sec-public/zeroday-cloud-2025) to [0xdea/zeroday-cloud-2025](https://github.com/0xdea/zeroday-cloud-2025)
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp)
   > dex-vm used to protect the android classes.dex file
@@ -66,5 +69,5 @@
 
 
 ---
-*最后更新于 2025-12-06 17:14:03 UTC*
+*最后更新于 2025-12-06 18:22:33 UTC*
 *历史记录保存在 `archive` 目录中。*
