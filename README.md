@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp)
+  > dex-vm used to protect the android classes.dex file
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Neargye/magic_enum](https://github.com/Neargye/magic_enum)
   > Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum t...
@@ -56,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-12-06 15:15:11 UTC*
+*最后更新于 2025-12-06 16:19:31 UTC*
 *历史记录保存在 `archive` 目录中。*
