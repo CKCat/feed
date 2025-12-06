@@ -32,11 +32,17 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [axboe/liburing](https://github.com/axboe/liburing)
   > Library providing helpers for the Linux kernel io_uring support
 
+### [lzpong](https://github.com/lzpong)
+- 🌟 👤 [lzpong](https://github.com/lzpong) Starred [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+  > Caesium is an image compression software that helps you store, send and share digital pictures, supp...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ptresearch/IntelTXE-PoC](https://github.com/ptresearch/IntelTXE-PoC)
   > Intel Management Engine JTAG Proof of Concept 
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tractordev/apptron](https://github.com/tractordev/apptron)
   > Local-first development platform
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [D4RK-R4BB1T/Criminal-Leaks](https://github.com/D4RK-R4BB1T/Criminal-Leaks)
+  > Lockbit, URSIF, BlackBasta etc.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
@@ -60,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-12-06 16:19:31 UTC*
+*最后更新于 2025-12-06 17:14:03 UTC*
 *历史记录保存在 `archive` 目录中。*
