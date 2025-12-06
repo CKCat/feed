@@ -28,6 +28,12 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [axboe/liburing](https://github.com/axboe/liburing)
   > Library providing helpers for the Linux kernel io_uring support
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ptresearch/IntelTXE-PoC](https://github.com/ptresearch/IntelTXE-PoC)
+  > Intel Management Engine JTAG Proof of Concept 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tractordev/apptron](https://github.com/tractordev/apptron)
+  > Local-first development platform
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
   > Turn any browser into your terminal & command your agents on the go.
@@ -50,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-12-06 14:14:38 UTC*
+*最后更新于 2025-12-06 15:15:11 UTC*
 *历史记录保存在 `archive` 目录中。*
