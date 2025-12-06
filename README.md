@@ -23,6 +23,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
+  > SonarQube MCP Server
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [muyouzhi6/astrbot_plugin_gitee_aiimg](https://github.com/muyouzhi6/astrbot_plugin_gitee_aiimg)
   > 接入 Gitee AI 图像生成模型，支持lmm调用（让bot自拍给你看）。
@@ -69,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-12-06 19:12:56 UTC*
+*最后更新于 2025-12-06 20:17:55 UTC*
 *历史记录保存在 `archive` 目录中。*
