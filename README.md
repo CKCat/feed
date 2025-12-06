@@ -9,6 +9,8 @@
   > Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum t...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Neargye/nameof](https://github.com/Neargye/nameof)
   > Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enu...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Rebzzel/kiero](https://github.com/Rebzzel/kiero)
+  > Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games.
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
@@ -29,6 +31,8 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
   > Turn any browser into your terminal & command your agents on the go.
+- 🍴 👤 [tiann](https://github.com/tiann) Forked [slopus/happy-cli](https://github.com/slopus/happy-cli) to [tiann/happy-cli](https://github.com/tiann/happy-cli)
+  > Happy Coder CLI to connect your local Claude Code to mobile device
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-12-06 11:13:12 UTC*
+*最后更新于 2025-12-06 12:32:27 UTC*
 *历史记录保存在 `archive` 目录中。*
