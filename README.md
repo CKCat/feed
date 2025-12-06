@@ -34,6 +34,10 @@
 - 🍴 👤 [tiann](https://github.com/tiann) Forked [slopus/happy-cli](https://github.com/slopus/happy-cli) to [tiann/happy-cli](https://github.com/tiann/happy-cli)
   > Happy Coder CLI to connect your local Claude Code to mobile device
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [hogsy/Bin2Obj](https://github.com/hogsy/Bin2Obj)
+  > Can convert any binary data into an Obj with vertices, useful for reverse-engineering.
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
   > A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.or...
@@ -46,5 +50,5 @@
 
 
 ---
-*最后更新于 2025-12-06 12:32:27 UTC*
+*最后更新于 2025-12-06 13:23:58 UTC*
 *历史记录保存在 `archive` 目录中。*
