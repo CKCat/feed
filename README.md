@@ -51,6 +51,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [D4RK-R4BB1T/Criminal-Leaks](https://github.com/D4RK-R4BB1T/Criminal-Leaks)
   > Lockbit, URSIF, BlackBasta etc.
 
+### [osm0sis](https://github.com/osm0sis)
+- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
   > Turn any browser into your terminal & command your agents on the go.
@@ -73,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-12-06 20:17:55 UTC*
+*最后更新于 2025-12-06 21:14:25 UTC*
 *历史记录保存在 `archive` 目录中。*
