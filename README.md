@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Neargye/magic_enum](https://github.com/Neargye/magic_enum)
+  > Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum t...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Neargye/nameof](https://github.com/Neargye/nameof)
+  > Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enu...
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
@@ -20,5 +26,5 @@
 
 
 ---
-*最后更新于 2025-12-06 04:19:22 UTC*
+*最后更新于 2025-12-06 05:16:25 UTC*
 *历史记录保存在 `archive` 目录中。*
