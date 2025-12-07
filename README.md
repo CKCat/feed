@@ -27,11 +27,13 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chase-lambert/what-lobsters-says](https://github.com/chase-lambert/what-lobsters-says)
   > Chrome browser extension: Easily find Lobste.rs discussions about the page you're currently browsing...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [szimek/signature_pad](https://github.com/szimek/signature_pad)
+  > HTML5 canvas based smooth signature drawing
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 
 
 ---
-*最后更新于 2025-12-07 13:22:48 UTC*
+*最后更新于 2025-12-07 14:14:55 UTC*
 *历史记录保存在 `archive` 目录中。*
