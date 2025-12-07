@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Dexmal/dexbotic](https://github.com/Dexmal/dexbotic)
+  > Dexbotic: Open-Source Vision-Language-Action Toolbox
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [rahul-roy-glean/cloud-profiler-python](https://github.com/rahul-roy-glean/cloud-profiler-python) to [NyaMisty/cloud-profiler-python](https://github.com/NyaMisty/cloud-profiler-python)
   > Stackdriver Profiler Python agent is a tool that continuously gathers CPU usage information from Pyt...
@@ -17,5 +21,5 @@
 
 
 ---
-*最后更新于 2025-12-07 08:20:48 UTC*
+*最后更新于 2025-12-07 09:16:32 UTC*
 *历史记录保存在 `archive` 目录中。*
