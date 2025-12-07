@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KaisenAmin](https://github.com/KaisenAmin)
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [KaisenAmin/Java-Projects-500](https://github.com/KaisenAmin/Java-Projects-500)
+  > 500 projects in java from beginner to expert 
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Dexmal/dexbotic](https://github.com/Dexmal/dexbotic)
   > Dexbotic: Open-Source Vision-Language-Action Toolbox
@@ -25,5 +29,5 @@
 
 
 ---
-*最后更新于 2025-12-07 11:13:05 UTC*
+*最后更新于 2025-12-07 12:31:45 UTC*
 *历史记录保存在 `archive` 目录中。*
