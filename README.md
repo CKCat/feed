@@ -20,6 +20,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [jswysnemc/markpix](https://github.com/jswysnemc/markpix)
   > An image annotation/editing tool used on Wayland 一个在wayland 上使用的图片标注/编辑工具
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder)
+  > Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chase-lambert/what-lobsters-says](https://github.com/chase-lambert/what-lobsters-says)
   > Chrome browser extension: Easily find Lobste.rs discussions about the page you're currently browsing...
@@ -29,5 +33,5 @@
 
 
 ---
-*最后更新于 2025-12-07 12:31:45 UTC*
+*最后更新于 2025-12-07 13:22:48 UTC*
 *历史记录保存在 `archive` 目录中。*
