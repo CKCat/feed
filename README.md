@@ -24,6 +24,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder)
   > Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions ...
 
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page)
+  > Cloudflare error page generator
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chase-lambert/what-lobsters-says](https://github.com/chase-lambert/what-lobsters-says)
   > Chrome browser extension: Easily find Lobste.rs discussions about the page you're currently browsing...
@@ -35,5 +39,5 @@
 
 
 ---
-*最后更新于 2025-12-07 15:15:01 UTC*
+*最后更新于 2025-12-07 16:19:08 UTC*
 *历史记录保存在 `archive` 目录中。*
