@@ -16,10 +16,14 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [jswysnemc/markpix](https://github.com/jswysnemc/markpix)
   > An image annotation/editing tool used on Wayland 一个在wayland 上使用的图片标注/编辑工具
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chase-lambert/what-lobsters-says](https://github.com/chase-lambert/what-lobsters-says)
+  > Chrome browser extension: Easily find Lobste.rs discussions about the page you're currently browsing...
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 
 
 ---
-*最后更新于 2025-12-07 10:16:01 UTC*
+*最后更新于 2025-12-07 11:13:05 UTC*
 *历史记录保存在 `archive` 目录中。*
