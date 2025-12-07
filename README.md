@@ -11,6 +11,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Dexmal/dexbotic](https://github.com/Dexmal/dexbotic)
   > Dexbotic: Open-Source Vision-Language-Action Toolbox
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [M2Team/K7Tests](https://github.com/M2Team/K7Tests)
+  > Test suite for NanaZip and related functionalities
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [rahul-roy-glean/cloud-profiler-python](https://github.com/rahul-roy-glean/cloud-profiler-python) to [NyaMisty/cloud-profiler-python](https://github.com/NyaMisty/cloud-profiler-python)
@@ -33,11 +35,13 @@
   > Chrome browser extension: Easily find Lobste.rs discussions about the page you're currently browsing...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [szimek/signature_pad](https://github.com/szimek/signature_pad)
   > HTML5 canvas based smooth signature drawing
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daanx/isocline](https://github.com/daanx/isocline)
+  > Isocline is a portable GNU readline alternative 
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 
 
 ---
-*最后更新于 2025-12-07 17:13:43 UTC*
+*最后更新于 2025-12-07 18:22:31 UTC*
 *历史记录保存在 `archive` 目录中。*
