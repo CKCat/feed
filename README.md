@@ -59,6 +59,12 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [marlkiller/process_inject](https://github.com/marlkiller/process_inject)
   > macOS Process Injection Tool
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox)
+  > BusyBox building with command ndk-build
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [AndroidReverser-Test/mount_hidder](https://github.com/AndroidReverser-Test/mount_hidder)
+  > 一个用于隐藏apatch root挂载文件特征的内核模块
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ehsannarmani/ComposeCharts](https://github.com/ehsannarmani/ComposeCharts)
   > Animated & Flexible Practical Charts For Jetpack Compose
@@ -87,5 +93,5 @@
 
 
 ---
-*最后更新于 2025-12-08 20:20:19 UTC*
+*最后更新于 2025-12-08 21:15:00 UTC*
 *历史记录保存在 `archive` 目录中。*
