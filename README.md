@@ -24,6 +24,12 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [RustAudio/dasp](https://github.com/RustAudio/dasp)
   > The fundamentals for Digital Audio Signal Processing. Formerly `sample`.
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [TomKing062/action_big_resign_with_magisk](https://github.com/TomKing062/action_big_resign_with_magisk)
+  > action to resign bsp+vbmeta+boot+(recovery) (boot will be patched with latest magisk)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [CircleCashTeam/kptools_build](https://github.com/CircleCashTeam/kptools_build)
+  > Build kptools with cmake build system
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [BeneficialCode/WinArk](https://github.com/BeneficialCode/WinArk)
   > Windows Anti-Rootkit Tool
@@ -58,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-12-08 13:32:42 UTC*
+*最后更新于 2025-12-08 14:19:26 UTC*
 *历史记录保存在 `archive` 目录中。*
