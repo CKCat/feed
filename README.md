@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [eelbaz/dgx-spark-vllm-setup](https://github.com/eelbaz/dgx-spark-vllm-setup) to [lallouslab/dgx-spark-vllm-setup](https://github.com/lallouslab/dgx-spark-vllm-setup)
+  > One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_121 architecture)
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sysprog21/tlsf-bsd](https://github.com/sysprog21/tlsf-bsd)
   > Two Level Segregated Fit (TLSF) memory allocator implementation, BSD License
@@ -27,8 +31,16 @@
   > 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。 Analyzes the commit time distribution of Git projects to infe...
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
   > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [daodao97/code-switch](https://github.com/daodao97/code-switch)
+  > Claude Code & Codex 多供应商代理与管理工具
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [securifybv/Visual-Studio-BOF-template](https://github.com/securifybv/Visual-Studio-BOF-template)
+  > A Visual Studio template used to create Cobalt Strike BOFs
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tihanyin/PSSW100AVB](https://github.com/tihanyin/PSSW100AVB)
+  > A list of useful Powershell scripts with 100% AV bypass (At the time of publication). 
 
 
 ---
-*最后更新于 2025-12-08 06:30:01 UTC*
+*最后更新于 2025-12-08 07:21:13 UTC*
 *历史记录保存在 `archive` 目录中。*
