@@ -46,7 +46,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tihanyin/PSSW100AVB](https://github.com/tihanyin/PSSW100AVB)
   > A list of useful Powershell scripts with 100% AV bypass (At the time of publication). 
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [utmapp/UTM](https://github.com/utmapp/UTM)
+  > Virtual machines for iOS and macOS
+
 
 ---
-*最后更新于 2025-12-08 10:20:13 UTC*
+*最后更新于 2025-12-08 11:16:09 UTC*
 *历史记录保存在 `archive` 目录中。*
