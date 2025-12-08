@@ -47,6 +47,12 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [chfast/intx](https://github.com/chfast/intx)
   > Extended precision integer C++ library
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+  > The best way to get AI coding agents to solve hard problems in complex codebases.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xdea/lighthouse](https://github.com/0xdea/lighthouse)
+  > A Coverage Explorer for Reverse Engineers
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Antibioticss/tinyhook](https://github.com/Antibioticss/tinyhook)
   > A tiny hook framework for macOS/iOS, inlcuded inline hook, objc runtime hook, symbol resolver..
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2025-12-08 19:14:50 UTC*
+*最后更新于 2025-12-08 20:20:19 UTC*
 *历史记录保存在 `archive` 目录中。*
