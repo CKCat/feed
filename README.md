@@ -8,6 +8,12 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [eelbaz/dgx-spark-vllm-setup](https://github.com/eelbaz/dgx-spark-vllm-setup) to [lallouslab/dgx-spark-vllm-setup](https://github.com/lallouslab/dgx-spark-vllm-setup)
   > One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_121 architecture)
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Vzoooong/RFAConv-CBM-ViT](https://github.com/Vzoooong/RFAConv-CBM-ViT)
+  > 这是官方实现
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Vzoooong/ED](https://github.com/Vzoooong/ED)
+  > Official ED repository
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sysprog21/tlsf-bsd](https://github.com/sysprog21/tlsf-bsd)
   > Two Level Segregated Fit (TLSF) memory allocator implementation, BSD License
@@ -52,5 +58,5 @@
 
 
 ---
-*最后更新于 2025-12-08 12:37:03 UTC*
+*最后更新于 2025-12-08 13:32:42 UTC*
 *历史记录保存在 `archive` 目录中。*
