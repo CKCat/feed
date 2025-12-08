@@ -8,6 +8,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [eelbaz/dgx-spark-vllm-setup](https://github.com/eelbaz/dgx-spark-vllm-setup) to [lallouslab/dgx-spark-vllm-setup](https://github.com/lallouslab/dgx-spark-vllm-setup)
   > One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_121 architecture)
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox)
+  > BusyBox building with command ndk-build
+
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Vzoooong/RFAConv-CBM-ViT](https://github.com/Vzoooong/RFAConv-CBM-ViT)
   > 这是官方实现
@@ -47,6 +51,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ehsannarmani/ComposeCharts](https://github.com/ehsannarmani/ComposeCharts)
   > Animated & Flexible Practical Charts For Jetpack Compose
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+  > Cloud-native high-performance edge/middle/service proxy
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [hellodigua/code996](https://github.com/hellodigua/code996)
   > 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。 Analyzes the commit time distribution of Git projects to infe...
@@ -67,5 +75,5 @@
 
 
 ---
-*最后更新于 2025-12-08 15:19:33 UTC*
+*最后更新于 2025-12-08 16:23:49 UTC*
 *历史记录保存在 `archive` 目录中。*
