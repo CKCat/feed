@@ -10,6 +10,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [rmind/tlsf](https://github.com/rmind/tlsf)
   > TLSF: two-level segregated fit O(1) allocator
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [RustAudio/dasp](https://github.com/RustAudio/dasp)
+  > The fundamentals for Digital Audio Signal Processing. Formerly `sample`.
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [BeneficialCode/WinArk](https://github.com/BeneficialCode/WinArk)
   > Windows Anti-Rootkit Tool
@@ -26,5 +30,5 @@
 
 
 ---
-*最后更新于 2025-12-08 05:19:35 UTC*
+*最后更新于 2025-12-08 06:30:01 UTC*
 *历史记录保存在 `archive` 目录中。*
