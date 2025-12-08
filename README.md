@@ -18,6 +18,10 @@
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Vzoooong/ED](https://github.com/Vzoooong/ED)
   > Official ED repository
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
+  > Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sysprog21/tlsf-bsd](https://github.com/sysprog21/tlsf-bsd)
   > Two Level Segregated Fit (TLSF) memory allocator implementation, BSD License
@@ -40,6 +44,8 @@
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [libhugetlbfs/libhugetlbfs](https://github.com/libhugetlbfs/libhugetlbfs)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [chfast/intx](https://github.com/chfast/intx)
+  > Extended precision integer C++ library
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Antibioticss/tinyhook](https://github.com/Antibioticss/tinyhook)
@@ -75,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-12-08 17:17:28 UTC*
+*最后更新于 2025-12-08 18:26:51 UTC*
 *历史记录保存在 `archive` 目录中。*
