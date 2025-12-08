@@ -22,6 +22,12 @@
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [BeneficialCode/WinArk](https://github.com/BeneficialCode/WinArk)
   > Windows Anti-Rootkit Tool
 
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [Antibioticss/tinyhook](https://github.com/Antibioticss/tinyhook)
+  > A tiny hook framework for macOS/iOS, inlcuded inline hook, objc runtime hook, symbol resolver..
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [marlkiller/process_inject](https://github.com/marlkiller/process_inject)
+  > macOS Process Injection Tool
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ehsannarmani/ComposeCharts](https://github.com/ehsannarmani/ComposeCharts)
   > Animated & Flexible Practical Charts For Jetpack Compose
@@ -42,5 +48,5 @@
 
 
 ---
-*最后更新于 2025-12-08 09:25:25 UTC*
+*最后更新于 2025-12-08 10:20:13 UTC*
 *历史记录保存在 `archive` 目录中。*
