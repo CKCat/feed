@@ -24,7 +24,11 @@
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [martinus/unordered_dense](https://github.com/martinus/unordered_dense)
   > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 
+### [xhawk18](https://github.com/xhawk18)
+- 🍴 👤 [xhawk18](https://github.com/xhawk18) Forked [mortie/json5cpp](https://github.com/mortie/json5cpp) to [xhawk18/nlohmann_json5](https://github.com/xhawk18/nlohmann_json5)
+  > A JSON5 parser for C++ built on JsonCpp.
+
 
 ---
-*最后更新于 2025-12-09 07:19:44 UTC*
+*最后更新于 2025-12-09 08:25:24 UTC*
 *历史记录保存在 `archive` 目录中。*
