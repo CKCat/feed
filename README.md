@@ -7,6 +7,8 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [marin-m/vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf)
   > A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol ta...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [qilingframework/qiling](https://github.com/qilingframework/qiling)
+  > A True Instrumentable Binary Emulation Framework
 
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)
@@ -62,11 +64,15 @@
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [martinus/unordered_dense](https://github.com/martinus/unordered_dense)
   > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compa...
+
 ### [xhawk18](https://github.com/xhawk18)
 - 🍴 👤 [xhawk18](https://github.com/xhawk18) Forked [mortie/json5cpp](https://github.com/mortie/json5cpp) to [xhawk18/nlohmann_json5](https://github.com/xhawk18/nlohmann_json5)
   > A JSON5 parser for C++ built on JsonCpp.
 
 
 ---
-*最后更新于 2025-12-09 13:33:41 UTC*
+*最后更新于 2025-12-09 14:19:25 UTC*
 *历史记录保存在 `archive` 目录中。*
