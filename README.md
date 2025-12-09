@@ -34,6 +34,16 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [JetBrains/lets-plot-compose](https://github.com/JetBrains/lets-plot-compose)
   > Compose frontend for Lets-Plot multiplatform plotting library.
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [feicong/android-rom-book](https://github.com/feicong/android-rom-book)
+  > 安卓系统定制：从入门到实践 开源图书🔥
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [feicong/GhidrAssistMCP](https://github.com/feicong/GhidrAssistMCP)
+  > An MCP extension for Ghidra
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [feicong/android-kernel-build-action](https://github.com/feicong/android-kernel-build-action)
+  > github action for building android GKI 2.0(12/13/14/15/16) kernel module.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [feicong/android-wuwa](https://github.com/feicong/android-wuwa)
+  > Android aarch64 rootkit
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [martinus/unordered_dense](https://github.com/martinus/unordered_dense)
   > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
@@ -44,5 +54,5 @@
 
 
 ---
-*最后更新于 2025-12-09 10:20:51 UTC*
+*最后更新于 2025-12-09 11:16:45 UTC*
 *历史记录保存在 `archive` 目录中。*
