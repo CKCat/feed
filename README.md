@@ -45,6 +45,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [portal-co/speet](https://github.com/portal-co/speet)
   > Fast static recompiler
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lifting-bits/patchestry](https://github.com/lifting-bits/patchestry)
+  > Patchestry is a binary patching framework built with MLIR and Ghidra.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [JetBrains/lets-plot-compose](https://github.com/JetBrains/lets-plot-compose)
@@ -72,7 +74,11 @@
 - 🍴 👤 [xhawk18](https://github.com/xhawk18) Forked [mortie/json5cpp](https://github.com/mortie/json5cpp) to [xhawk18/nlohmann_json5](https://github.com/xhawk18/nlohmann_json5)
   > A JSON5 parser for C++ built on JsonCpp.
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [huggingface/transformers](https://github.com/huggingface/transformers) to [yujincheng08/transformers](https://github.com/yujincheng08/transformers)
+  > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
+
 
 ---
-*最后更新于 2025-12-09 14:19:25 UTC*
+*最后更新于 2025-12-09 15:20:34 UTC*
 *历史记录保存在 `archive` 目录中。*
