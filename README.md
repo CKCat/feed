@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [marin-m/vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf)
+  > A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol ta...
+
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)
+  > Explanation and full RCE PoC for CVE-2025-55182
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [newren/git-filter-repo](https://github.com/newren/git-filter-repo)
   > Quickly rewrite git repository history (filter-branch replacement)
@@ -25,6 +33,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [axelang/axe](https://github.com/axelang/axe)
   > Axe programming language
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [vivio2115/OrangeOS](https://github.com/vivio2115/OrangeOS)
+  > Small OS made in C, C++ and ASM (WIP)
 
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [BJNFNE/DEV7](https://github.com/BJNFNE/DEV7)
@@ -58,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-12-09 12:37:54 UTC*
+*最后更新于 2025-12-09 13:33:41 UTC*
 *历史记录保存在 `archive` 目录中。*
