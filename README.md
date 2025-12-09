@@ -38,10 +38,6 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [vivio2115/OrangeOS](https://github.com/vivio2115/OrangeOS)
   > Small OS made in C, C++ and ASM (WIP)
 
-### [horsicq](https://github.com/horsicq)
-- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [BJNFNE/DEV7](https://github.com/BJNFNE/DEV7)
-  > DEV7 is a Game Engine made by I.C.E Développement for Coktel Vision
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [portal-co/speet](https://github.com/portal-co/speet)
   > Fast static recompiler
@@ -80,5 +76,5 @@
 
 
 ---
-*最后更新于 2025-12-09 21:15:10 UTC*
+*最后更新于 2025-12-09 22:17:44 UTC*
 *历史记录保存在 `archive` 目录中。*
