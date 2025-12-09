@@ -31,6 +31,10 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [0xdea/lighthouse](https://github.com/0xdea/lighthouse)
   > A Coverage Explorer for Reverse Engineers
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [gleam-lang/gleam](https://github.com/gleam-lang/gleam)
+  > ⭐️ A friendly language for building type-safe, scalable systems!
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite)
+  > 📝 An opinionated, unstyled static blogging template — built with Astro, Tailwind, and shadcn/ui.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [axelang/axe](https://github.com/axelang/axe)
@@ -76,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-12-09 22:17:44 UTC*
+*最后更新于 2025-12-09 23:17:15 UTC*
 *历史记录保存在 `archive` 目录中。*
