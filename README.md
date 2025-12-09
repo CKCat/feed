@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [newren/git-filter-repo](https://github.com/newren/git-filter-repo)
+  > Quickly rewrite git repository history (filter-branch replacement)
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [axelang/axe](https://github.com/axelang/axe)
   > Axe programming language
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2025-12-09 06:28:14 UTC*
+*最后更新于 2025-12-09 07:19:44 UTC*
 *历史记录保存在 `archive` 目录中。*
