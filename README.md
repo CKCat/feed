@@ -8,6 +8,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [newren/git-filter-repo](https://github.com/newren/git-filter-repo)
   > Quickly rewrite git repository history (filter-branch replacement)
 
+### [RicterZ](https://github.com/RicterZ)
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) to [RicterZ/ComfyUI-Manager](https://github.com/RicterZ/ComfyUI-Manager)
+  > ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management f...
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [ookiineko-cygport/arch-cygwin](https://github.com/ookiineko-cygport/arch-cygwin)
   > (unofficial) Cygwin cross-compilers on archlinux/Ubuntu/Debian/MSYS2
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2025-12-09 11:16:45 UTC*
+*最后更新于 2025-12-09 12:37:54 UTC*
 *历史记录保存在 `archive` 目录中。*
