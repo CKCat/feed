@@ -16,7 +16,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [JetBrains/lets-plot-compose](https://github.com/JetBrains/lets-plot-compose)
   > Compose frontend for Lets-Plot multiplatform plotting library.
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [martinus/unordered_dense](https://github.com/martinus/unordered_dense)
+  > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
+
 
 ---
-*最后更新于 2025-12-09 04:26:09 UTC*
+*最后更新于 2025-12-09 05:17:38 UTC*
 *历史记录保存在 `archive` 目录中。*
