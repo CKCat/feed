@@ -14,9 +14,17 @@
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [ookiineko-cygport/arch-cygwin](https://github.com/ookiineko-cygport/arch-cygwin) to [CircleCashTeam/arch-cygwin](https://github.com/CircleCashTeam/arch-cygwin)
   > (unofficial) Cygwin cross-compilers on archlinux/Ubuntu/Debian/MSYS2
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [0xdea/lighthouse](https://github.com/0xdea/lighthouse)
+  > A Coverage Explorer for Reverse Engineers
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [axelang/axe](https://github.com/axelang/axe)
   > Axe programming language
+
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [BJNFNE/DEV7](https://github.com/BJNFNE/DEV7)
+  > DEV7 is a Game Engine made by I.C.E Développement for Coktel Vision
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [portal-co/speet](https://github.com/portal-co/speet)
@@ -36,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-12-09 09:21:00 UTC*
+*最后更新于 2025-12-09 10:20:51 UTC*
 *历史记录保存在 `archive` 目录中。*
