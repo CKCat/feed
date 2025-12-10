@@ -24,11 +24,16 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)
   >   AI-powered web monitoring platform. Create automated scouts that search the web and send email ale...
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [AAswordman/Operit](https://github.com/AAswordman/Operit)
+  > The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
+
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [ali-vilab/Wan-Move](https://github.com/ali-vilab/Wan-Move)
   > [NeurIPS 2025] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance
 
 
 ---
-*最后更新于 2025-12-10 03:20:09 UTC*
+*最后更新于 2025-12-10 04:30:36 UTC*
 *历史记录保存在 `archive` 目录中。*
