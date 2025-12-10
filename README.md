@@ -17,9 +17,17 @@
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [xenos1337/httptoolkit-patcher](https://github.com/xenos1337/httptoolkit-patcher)
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+  > A smarter cd command. Supports all major shells.
+
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [mrexodia/expr](https://github.com/mrexodia/expr)
   > Simple AST for reverse engineering, purely meant as an example.
+
+### [lxraa](https://github.com/lxraa)
+- 🌟 👤 [lxraa](https://github.com/lxraa) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Skills
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fay59/fcd](https://github.com/fay59/fcd)
@@ -48,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-12-10 09:21:07 UTC*
+*最后更新于 2025-12-10 10:21:00 UTC*
 *历史记录保存在 `archive` 目录中。*
