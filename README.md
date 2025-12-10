@@ -14,6 +14,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Tessil/ordered-map](https://github.com/Tessil/ordered-map)
   > C++ hash map and hash set which preserve the order of insertion
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk)
+  > 基于 Xray 内核的 Magisk 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [xenos1337/httptoolkit-patcher](https://github.com/xenos1337/httptoolkit-patcher)
 
@@ -32,6 +36,12 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fay59/fcd](https://github.com/fay59/fcd)
   > An optimizing decompiler
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [t0thkr1s/frida](https://github.com/t0thkr1s/frida)
+  > Frida scripts for mobile application dynamic-analysis.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lautarovculic/fridaScripts](https://github.com/lautarovculic/fridaScripts)
+  > 𝘔𝘢𝘯𝘺 𝘰𝘧 𝘵𝘩𝘦𝘴𝘦 𝘴𝘤𝘳𝘪𝘱𝘵𝘴 𝘢𝘳𝘦 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘦𝘥 𝘧𝘳𝘰𝘮 𝘤𝘰𝘶𝘳𝘴𝘦𝘴, 𝘣𝘭𝘰𝘨𝘴, 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺 𝘳𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴, 𝘢𝘯𝘥 𝘮𝘺 𝘰𝘸𝘯 𝘸𝘰𝘳𝘬.
 
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
@@ -61,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-12-10 13:34:56 UTC*
+*最后更新于 2025-12-10 14:19:45 UTC*
 *历史记录保存在 `archive` 目录中。*
