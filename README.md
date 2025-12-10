@@ -10,6 +10,10 @@
 - 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [diku-dk/futhark](https://github.com/diku-dk/futhark) to [Colton1skees/futhark](https://github.com/Colton1skees/futhark)
   > :boom::computer::boom: A data-parallel functional programming language
 
+### [Fare9](https://github.com/Fare9)
+- 🍴 👤 [Fare9](https://github.com/Fare9) Forked [nlsandler/c-compiler-implementations](https://github.com/nlsandler/c-compiler-implementations) to [Fare9/c-compiler-implementations](https://github.com/Fare9/c-compiler-implementations)
+  > Reader Implementations of "Writing a C Compiler"
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Tessil/ordered-map](https://github.com/Tessil/ordered-map)
   > C++ hash map and hash set which preserve the order of insertion
@@ -47,6 +51,7 @@
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
   > AirPods liberated from Apple's ecosystem.
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+  > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
@@ -62,6 +67,7 @@
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+  > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [AAswordman/Operit](https://github.com/AAswordman/Operit)
   > The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 
@@ -71,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-12-10 15:21:27 UTC*
+*最后更新于 2025-12-10 16:24:30 UTC*
 *历史记录保存在 `archive` 目录中。*
