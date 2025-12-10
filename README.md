@@ -27,6 +27,12 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)
   >   AI-powered web monitoring platform. Create automated scouts that search the web and send email ale...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [qiniu/reviewbot](https://github.com/qiniu/reviewbot)
+  > Empower Your Code Quality with Self-Hosted Automated Analysis and Review
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog)
+  > 🐶 Automated code review tool integrated with any code analysis tools regardless of programming langu...
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [AAswordman/Operit](https://github.com/AAswordman/Operit)
@@ -38,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-12-10 07:20:26 UTC*
+*最后更新于 2025-12-10 08:24:55 UTC*
 *历史记录保存在 `archive` 目录中。*
