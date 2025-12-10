@@ -18,9 +18,17 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Tessil/ordered-map](https://github.com/Tessil/ordered-map)
   > C++ hash map and hash set which preserve the order of insertion
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [isfshax/isfshax](https://github.com/isfshax/isfshax)
+  > A coldboot boot1 exploit for the Wii U
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk)
   > 基于 Xray 内核的 Magisk 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [eliben/letsbuildacompiler](https://github.com/eliben/letsbuildacompiler)
+  > Re-implementation of the Let's Build a Compiler tutorial in Python, emitting WASM
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
@@ -36,6 +44,8 @@
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [mrexodia/expr](https://github.com/mrexodia/expr)
   > Simple AST for reverse engineering, purely meant as an example.
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [NaC-L/Mergen](https://github.com/NaC-L/Mergen)
+  > Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [anthropics/skills](https://github.com/anthropics/skills)
@@ -81,5 +91,5 @@
 
 
 ---
-*最后更新于 2025-12-10 17:19:53 UTC*
+*最后更新于 2025-12-10 18:26:37 UTC*
 *历史记录保存在 `archive` 目录中。*
