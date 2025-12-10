@@ -24,7 +24,11 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)
   >   AI-powered web monitoring platform. Create automated scouts that search the web and send email ale...
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [ali-vilab/Wan-Move](https://github.com/ali-vilab/Wan-Move)
+  > [NeurIPS 2025] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance
+
 
 ---
-*最后更新于 2025-12-10 01:21:30 UTC*
+*最后更新于 2025-12-10 03:20:09 UTC*
 *历史记录保存在 `archive` 目录中。*
