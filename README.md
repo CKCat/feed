@@ -22,6 +22,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk)
   > 基于 Xray 内核的 Magisk 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+  > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge...
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [xenos1337/httptoolkit-patcher](https://github.com/xenos1337/httptoolkit-patcher)
 
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-12-10 16:24:30 UTC*
+*最后更新于 2025-12-10 17:19:53 UTC*
 *历史记录保存在 `archive` 目录中。*
