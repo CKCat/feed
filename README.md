@@ -10,6 +10,10 @@
 - 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [diku-dk/futhark](https://github.com/diku-dk/futhark) to [Colton1skees/futhark](https://github.com/Colton1skees/futhark)
   > :boom::computer::boom: A data-parallel functional programming language
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Tessil/ordered-map](https://github.com/Tessil/ordered-map)
+  > C++ hash map and hash set which preserve the order of insertion
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [xenos1337/httptoolkit-patcher](https://github.com/xenos1337/httptoolkit-patcher)
 
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2025-12-10 08:24:55 UTC*
+*最后更新于 2025-12-10 09:21:07 UTC*
 *历史记录保存在 `archive` 目录中。*
