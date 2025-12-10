@@ -33,6 +33,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fay59/fcd](https://github.com/fay59/fcd)
   > An optimizing decompiler
 
+### [rootkiter](https://github.com/rootkiter)
+- 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+  > AirPods liberated from Apple's ecosystem.
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -56,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-12-10 10:21:00 UTC*
+*最后更新于 2025-12-10 11:16:13 UTC*
 *历史记录保存在 `archive` 目录中。*
