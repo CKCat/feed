@@ -36,6 +36,7 @@
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
   > AirPods liberated from Apple's ecosystem.
+- 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
@@ -60,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-12-10 11:16:13 UTC*
+*最后更新于 2025-12-10 12:38:00 UTC*
 *历史记录保存在 `archive` 目录中。*
