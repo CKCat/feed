@@ -16,6 +16,12 @@
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/MoneroMiner](https://github.com/hackerhouse-opensource/MoneroMiner)
   > A high-performance Monero (XMR) mining implementation in C++ using the RandomX algorithm. This miner...
 
+### [lxraa](https://github.com/lxraa)
+- 🌟 👤 [lxraa](https://github.com/lxraa) Starred [EZFNDEV/UEAESKeyFinder](https://github.com/EZFNDEV/UEAESKeyFinder)
+  > This tool can find the AES Key of probably any Unreal Engine game
+- 🍴 👤 [lxraa](https://github.com/lxraa) Forked [EZFNDEV/UEAESKeyFinder](https://github.com/EZFNDEV/UEAESKeyFinder) to [lxraa/UEAESKeyFinder](https://github.com/lxraa/UEAESKeyFinder)
+  > This tool can find the AES Key of probably any Unreal Engine game
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
   > Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscra...
@@ -28,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-12-11 06:29:21 UTC*
+*最后更新于 2025-12-11 07:21:47 UTC*
 *历史记录保存在 `archive` 目录中。*
