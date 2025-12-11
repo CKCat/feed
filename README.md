@@ -26,6 +26,10 @@
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [EZFNDEV/UEAESKeyFinder](https://github.com/EZFNDEV/UEAESKeyFinder) to [lxraa/UEAESKeyFinder](https://github.com/lxraa/UEAESKeyFinder)
   > This tool can find the AES Key of probably any Unreal Engine game
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Peribunt/VPGATHER](https://github.com/Peribunt/VPGATHER)
+  > Using the peculiar behaviour of the VPGATHER instructions to determine if an address will fault befo...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [josephg/ShareJS](https://github.com/josephg/ShareJS)
   > Collaborative editing in any app
@@ -46,5 +50,5 @@
 
 
 ---
-*最后更新于 2025-12-11 13:36:33 UTC*
+*最后更新于 2025-12-11 14:19:50 UTC*
 *历史记录保存在 `archive` 目录中。*
