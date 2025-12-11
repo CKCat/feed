@@ -16,6 +16,10 @@
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/MoneroMiner](https://github.com/hackerhouse-opensource/MoneroMiner)
   > A high-performance Monero (XMR) mining implementation in C++ using the RandomX algorithm. This miner...
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [esistdini/SFMA](https://github.com/esistdini/SFMA)
+  > SFMA is a beginner-friendly tool to perform fast and efficient static file analysis.
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [EZFNDEV/UEAESKeyFinder](https://github.com/EZFNDEV/UEAESKeyFinder)
   > This tool can find the AES Key of probably any Unreal Engine game
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-12-11 11:16:33 UTC*
+*最后更新于 2025-12-11 12:39:23 UTC*
 *历史记录保存在 `archive` 目录中。*
