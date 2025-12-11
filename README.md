@@ -24,11 +24,25 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
   > Application designed to optimize, customize and enhance your Windows experience.
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [tw93/Mole](https://github.com/tw93/Mole) to [crazyguitar/Mole](https://github.com/crazyguitar/Mole)
+  > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
+  > 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGE...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) to [crazyguitar/LeetCUDA](https://github.com/crazyguitar/LeetCUDA)
+  > 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGE...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [xlite-dev/ffpa-attn](https://github.com/xlite-dev/ffpa-attn)
+  > 🤖FFPA: Extend FlashAttention-2 with Split-D, ~O(1) SRAM complexity for large headdim, 1.8x~3x↑🎉 vs S...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [alexpasmantier/television](https://github.com/alexpasmantier/television)
   > A portable and hackable fuzzy finder for the terminal.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sharkdp/bat](https://github.com/sharkdp/bat)
   > A cat(1) clone with wings.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mrjackwills/oxker](https://github.com/mrjackwills/oxker)
+  > A simple tui to view & control docker containers 
 
 ### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/MoneroMiner](https://github.com/hackerhouse-opensource/MoneroMiner)
@@ -72,5 +86,5 @@
 
 
 ---
-*最后更新于 2025-12-11 17:22:57 UTC*
+*最后更新于 2025-12-11 18:25:47 UTC*
 *历史记录保存在 `archive` 目录中。*
