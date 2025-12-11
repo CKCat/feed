@@ -12,7 +12,13 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
   > Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscra...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [lapce/floem](https://github.com/lapce/floem)
+  > A native Rust UI library with fine-grained reactivity
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
 
 ---
-*最后更新于 2025-12-11 03:22:15 UTC*
+*最后更新于 2025-12-11 04:32:37 UTC*
 *历史记录保存在 `archive` 目录中。*
