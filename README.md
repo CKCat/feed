@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [agourlay/hprof-slurp](https://github.com/agourlay/hprof-slurp)
+  > JVM heap dump analyzer
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
+  > Application designed to optimize, customize and enhance your Windows experience.
+
 ### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/MoneroMiner](https://github.com/hackerhouse-opensource/MoneroMiner)
   > A high-performance Monero (XMR) mining implementation in C++ using the RandomX algorithm. This miner...
@@ -20,5 +28,5 @@
 
 
 ---
-*最后更新于 2025-12-11 05:20:05 UTC*
+*最后更新于 2025-12-11 06:29:21 UTC*
 *历史记录保存在 `archive` 目录中。*
