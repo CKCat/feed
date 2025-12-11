@@ -24,6 +24,12 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
   > Application designed to optimize, customize and enhance your Windows experience.
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [alexpasmantier/television](https://github.com/alexpasmantier/television)
+  > A portable and hackable fuzzy finder for the terminal.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+  > A cat(1) clone with wings.
+
 ### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/MoneroMiner](https://github.com/hackerhouse-opensource/MoneroMiner)
   > A high-performance Monero (XMR) mining implementation in C++ using the RandomX algorithm. This miner...
@@ -43,6 +49,8 @@
   > Using the peculiar behaviour of the VPGATHER instructions to determine if an address will fault befo...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cycraft-corp/hakka_json](https://github.com/cycraft-corp/hakka_json)
   > Blazingly small, memory-efficient JSON library for C++⚡
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [garc0/CTAsm](https://github.com/garc0/CTAsm)
+  > Compile time assembler with nasm syntax
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [josephg/ShareJS](https://github.com/josephg/ShareJS)
@@ -64,5 +72,5 @@
 
 
 ---
-*最后更新于 2025-12-11 16:26:03 UTC*
+*最后更新于 2025-12-11 17:22:57 UTC*
 *历史记录保存在 `archive` 目录中。*
