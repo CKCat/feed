@@ -4,9 +4,21 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [cyber-defence-campus/mole](https://github.com/cyber-defence-campus/mole)
+  > A Binary Ninja plugin to identify interesting paths using static backward slicing
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [agourlay/hprof-slurp](https://github.com/agourlay/hprof-slurp)
   > JVM heap dump analyzer
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [WeiJiLab/kernel-inline-hook-framework](https://github.com/WeiJiLab/kernel-inline-hook-framework)
+  > hook or replace arbitary linux kernel functions in runtime, supporting arm32, arm64, x86, x86_64
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [stdhu/kernel-inline-hook](https://github.com/stdhu/kernel-inline-hook)
+  > linux kernel inline hook
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [milabs/khook](https://github.com/milabs/khook)
+  > Linux Kernel hooking engine (x86)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
@@ -29,6 +41,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Peribunt/VPGATHER](https://github.com/Peribunt/VPGATHER)
   > Using the peculiar behaviour of the VPGATHER instructions to determine if an address will fault befo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cycraft-corp/hakka_json](https://github.com/cycraft-corp/hakka_json)
+  > Blazingly small, memory-efficient JSON library for C++⚡
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [josephg/ShareJS](https://github.com/josephg/ShareJS)
@@ -50,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-12-11 15:21:01 UTC*
+*最后更新于 2025-12-11 16:26:03 UTC*
 *历史记录保存在 `archive` 目录中。*
