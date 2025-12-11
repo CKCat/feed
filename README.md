@@ -26,6 +26,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [josephg/ShareJS](https://github.com/josephg/ShareJS)
   > Collaborative editing in any app
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [homebeaver/SwingSet2-demos](https://github.com/homebeaver/SwingSet2-demos)
+  > SwingSet2 demos rewritten 
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
   > Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscra...
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-11 09:22:53 UTC*
+*最后更新于 2025-12-11 10:20:32 UTC*
 *历史记录保存在 `archive` 目录中。*
