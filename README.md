@@ -36,6 +36,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [tursodatabase/turso](https://github.com/tursodatabase/turso)
   > Turso is an in-process SQL database, compatible with SQLite.
 
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [tuxera/ntfs-3g](https://github.com/tuxera/ntfs-3g) to [smx-smx/ntfs-3g](https://github.com/smx-smx/ntfs-3g)
+  > NTFS-3G Safe Read/Write NTFS Driver
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)
 
@@ -50,5 +54,5 @@
 
 
 ---
-*最后更新于 2025-12-12 19:14:45 UTC*
+*最后更新于 2025-12-12 20:19:30 UTC*
 *历史记录保存在 `archive` 目录中。*
