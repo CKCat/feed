@@ -28,6 +28,10 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [aaa1115910/bv](https://github.com/aaa1115910/bv)
   > 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [haykgrigo3/TimeCapsuleLLM](https://github.com/haykgrigo3/TimeCapsuleLLM)
+  > A LLM trained only on data from certain time periods to reduce modern bias
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [lidongyooo/ARM64DBI](https://github.com/lidongyooo/ARM64DBI)
   > ARM64 DBI DEMO
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2025-12-12 21:16:11 UTC*
+*最后更新于 2025-12-12 22:16:53 UTC*
 *历史记录保存在 `archive` 目录中。*
