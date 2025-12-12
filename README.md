@@ -12,7 +12,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [tursodatabase/turso](https://github.com/tursodatabase/turso)
   > Turso is an in-process SQL database, compatible with SQLite.
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
+  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
 
 ---
-*最后更新于 2025-12-12 01:22:11 UTC*
+*最后更新于 2025-12-12 03:20:54 UTC*
 *历史记录保存在 `archive` 目录中。*
