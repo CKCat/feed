@@ -26,6 +26,8 @@
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [star-sg/Presentations](https://github.com/star-sg/Presentations)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [NUS-Curiosity/KernJC](https://github.com/NUS-Curiosity/KernJC)
+  > KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities | 🏆 Best Practi...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
@@ -33,5 +35,5 @@
 
 
 ---
-*最后更新于 2025-12-12 07:21:00 UTC*
+*最后更新于 2025-12-12 08:25:43 UTC*
 *历史记录保存在 `archive` 目录中。*
