@@ -8,6 +8,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper)
   > Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [jackmthws/u-boot-1](https://github.com/jackmthws/u-boot-1)
+  > das u-boot with patches for mt6878 soc
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [lidongyooo/ARM64DBI](https://github.com/lidongyooo/ARM64DBI)
   > ARM64 DBI DEMO
@@ -35,5 +39,5 @@
 
 
 ---
-*最后更新于 2025-12-12 08:25:43 UTC*
+*最后更新于 2025-12-12 09:21:59 UTC*
 *历史记录保存在 `archive` 目录中。*
