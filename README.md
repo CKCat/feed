@@ -12,6 +12,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper)
   > Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also...
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef)
+  > mobile reverse engineering framework
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [jackmthws/u-boot-1](https://github.com/jackmthws/u-boot-1)
   > das u-boot with patches for mt6878 soc
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-12-12 12:37:49 UTC*
+*最后更新于 2025-12-12 13:32:18 UTC*
 *历史记录保存在 `archive` 目录中。*
