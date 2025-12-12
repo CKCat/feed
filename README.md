@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+  > Ghidra is a software reverse engineering (SRE) framework
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper)
   > Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also...
@@ -39,5 +43,5 @@
 
 
 ---
-*最后更新于 2025-12-12 10:19:06 UTC*
+*最后更新于 2025-12-12 11:17:11 UTC*
 *历史记录保存在 `archive` 目录中。*
