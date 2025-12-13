@@ -12,7 +12,14 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
 
+### [ihciah](https://github.com/ihciah)
+- 🌟 👤 [ihciah](https://github.com/ihciah) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
+  > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
+### [rand-tech](https://github.com/rand-tech)
+- 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/oai-granola](https://github.com/rand-tech/oai-granola) public
+
 
 ---
-*最后更新于 2025-12-13 01:17:35 UTC*
+*最后更新于 2025-12-13 03:13:39 UTC*
 *历史记录保存在 `archive` 目录中。*
