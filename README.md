@@ -26,10 +26,18 @@
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon)
+  > The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, F...
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/oai-granola](https://github.com/rand-tech/oai-granola) public
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [fortra/No-Consolation](https://github.com/fortra/No-Consolation)
+  >  A BOF that runs unmanaged PEs inline 
+
 
 ---
-*最后更新于 2025-12-13 07:18:02 UTC*
+*最后更新于 2025-12-13 08:21:24 UTC*
 *历史记录保存在 `archive` 目录中。*
