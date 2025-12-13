@@ -43,6 +43,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire)
   > Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Pe...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail)
+  > Open Source standalone trashmail solution that ships its own mail server
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [radareorg/SwiftyR2](https://github.com/radareorg/SwiftyR2) to [oleavr/SwiftyR2](https://github.com/oleavr/SwiftyR2)
@@ -54,6 +56,10 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/oai-granola](https://github.com/rand-tech/oai-granola) public
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher)
+  > Google Antigravity AI模型配额监控插件
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [fortra/No-Consolation](https://github.com/fortra/No-Consolation)
   >  A BOF that runs unmanaged PEs inline 
@@ -64,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-12-13 15:16:00 UTC*
+*最后更新于 2025-12-13 16:20:04 UTC*
 *历史记录保存在 `archive` 目录中。*
