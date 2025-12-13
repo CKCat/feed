@@ -28,6 +28,9 @@
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [neqq3/ha_ncloud_music](https://github.com/neqq3/ha_ncloud_music) to [RicterZ/ha_ncloud_music](https://github.com/RicterZ/ha_ncloud_music)
   > 基于shaonianzhentan/ha_cloud_music的自用版本(https://github.com/shaonianzhentan/ha_cloud_music)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [lofcz/ai](https://github.com/lofcz/ai)
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64)
 
@@ -70,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-12-13 16:20:04 UTC*
+*最后更新于 2025-12-13 17:15:06 UTC*
 *历史记录保存在 `archive` 目录中。*
