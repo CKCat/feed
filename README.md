@@ -12,6 +12,12 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy)
+  > Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no ...
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [w84death/floppinux](https://github.com/w84death/floppinux)
   > An Embedded 🐧Linux on a Single 💾Floppy
@@ -25,5 +31,5 @@
 
 
 ---
-*最后更新于 2025-12-13 06:25:45 UTC*
+*最后更新于 2025-12-13 07:18:02 UTC*
 *历史记录保存在 `archive` 目录中。*
