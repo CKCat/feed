@@ -40,6 +40,10 @@
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire)
+  > Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Pe...
+
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [radareorg/SwiftyR2](https://github.com/radareorg/SwiftyR2) to [oleavr/SwiftyR2](https://github.com/oleavr/SwiftyR2)
 
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-12-13 14:15:16 UTC*
+*最后更新于 2025-12-13 15:16:00 UTC*
 *历史记录保存在 `archive` 目录中。*
