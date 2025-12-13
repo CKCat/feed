@@ -17,6 +17,8 @@
   > Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no ...
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)
+  > 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [w84death/floppinux](https://github.com/w84death/floppinux)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-12-13 13:24:44 UTC*
+*最后更新于 2025-12-13 14:15:16 UTC*
 *历史记录保存在 `archive` 目录中。*
