@@ -22,6 +22,9 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [w84death/floppinux](https://github.com/w84death/floppinux)
   > An Embedded 🐧Linux on a Single 💾Floppy
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64)
+
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -39,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-13 09:17:04 UTC*
+*最后更新于 2025-12-13 10:17:10 UTC*
 *历史记录保存在 `archive` 目录中。*
