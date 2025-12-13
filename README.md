@@ -29,6 +29,11 @@
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64)
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [hakimi-x/Orange](https://github.com/hakimi-x/Orange) to [fuqiuluo/Orange](https://github.com/fuqiuluo/Orange)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+  > Free, local, open-source GUI app for Gemini CLI, Claude Code, Codex, Qwen Code, and more — Enhanced ...
+
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -47,7 +52,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [fortra/No-Consolation](https://github.com/fortra/No-Consolation)
   >  A BOF that runs unmanaged PEs inline 
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
+  > 谷歌新书Agent设计模式(agentic design patterns)中文版，持续更新。附：在线阅读、pdf和epub电子书下载。 
+
 
 ---
-*最后更新于 2025-12-13 12:32:59 UTC*
+*最后更新于 2025-12-13 13:24:44 UTC*
 *历史记录保存在 `archive` 目录中。*
