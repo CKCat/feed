@@ -12,6 +12,10 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [w84death/floppinux](https://github.com/w84death/floppinux)
+  > An Embedded 🐧Linux on a Single 💾Floppy
+
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -21,5 +25,5 @@
 
 
 ---
-*最后更新于 2025-12-13 03:13:39 UTC*
+*最后更新于 2025-12-13 04:23:41 UTC*
 *历史记录保存在 `archive` 目录中。*
