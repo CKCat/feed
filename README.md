@@ -12,6 +12,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk)
   > 基于 Xray 内核的 Magisk 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+  > B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mistahoward/blazor-why-did-you-render](https://github.com/mistahoward/blazor-why-did-you-render)
   > Inspired by WellSoftware's why-did-you-render for React - Why Did You Render for Blazor.
@@ -30,9 +34,9 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) to [crazyguitar/hello-agents](https://github.com/crazyguitar/hello-agents)
   > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
-  > My learning notes/codes for ML SYS.
+  > My learning notes for ML SYS.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) to [crazyguitar/Awesome-ML-SYS-Tutorial](https://github.com/crazyguitar/Awesome-ML-SYS-Tutorial)
-  > My learning notes/codes for ML SYS.
+  > My learning notes for ML SYS.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [huggingface/trl](https://github.com/huggingface/trl)
   > Train transformer language models with reinforcement learning.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rust-lang/rust-project-goals](https://github.com/rust-lang/rust-project-goals)
@@ -51,6 +55,8 @@
   > A double-to-string conversion algorithm based on Schubfach
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OS-Copilot/OS-Atlas](https://github.com/OS-Copilot/OS-Atlas)
   > OS-ATLAS: A Foundation Action Model For Generalist GUI Agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Mowokuma/vm_str.hpp](https://github.com/Mowokuma/vm_str.hpp)
+  > vm_str.hpp is a header only string obfuscator.
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/openeuicc](https://github.com/sekaiacg/openeuicc)
@@ -62,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-12-14 20:18:43 UTC*
+*最后更新于 2025-12-14 21:15:38 UTC*
 *历史记录保存在 `archive` 目录中。*
