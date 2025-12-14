@@ -56,7 +56,11 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/openeuicc](https://github.com/sekaiacg/openeuicc)
   > Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [nefarius/Nefarius.Utilities.ETW](https://github.com/nefarius/Nefarius.Utilities.ETW)
+  > ETW Log Files (.ETL) to JSON parser/converter library.
+
 
 ---
-*最后更新于 2025-12-14 19:13:22 UTC*
+*最后更新于 2025-12-14 20:18:43 UTC*
 *历史记录保存在 `archive` 目录中。*
