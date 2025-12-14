@@ -35,8 +35,12 @@
   > Full-text search and resume for Claude/Codex conversations
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [secure-77/Perlite](https://github.com/secure-77/Perlite)
   > A web-based markdown viewer optimized for Obsidian
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [context-machine-lab/sleepless-agent](https://github.com/context-machine-lab/sleepless-agent)
+  > 🤖 24/7 AI agent that maximizes Claude Code Pro usage via Slack. Auto-processes tasks, manages isolat...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vitaut/zmij](https://github.com/vitaut/zmij)
+  > A double-to-string conversion algorithm based on Schubfach
 
 
 ---
-*最后更新于 2025-12-14 03:26:20 UTC*
+*最后更新于 2025-12-14 04:33:59 UTC*
 *历史记录保存在 `archive` 目录中。*
