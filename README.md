@@ -7,6 +7,12 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef)
   > mobile reverse engineering framework
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+  > A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mistahoward/blazor-why-did-you-render](https://github.com/mistahoward/blazor-why-did-you-render)
+  > Inspired by WellSoftware's why-did-you-render for React - Why Did You Render for Blazor.
 
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm)
@@ -42,7 +48,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OS-Copilot/OS-Atlas](https://github.com/OS-Copilot/OS-Atlas)
   > OS-ATLAS: A Foundation Action Model For Generalist GUI Agents
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/openeuicc](https://github.com/sekaiacg/openeuicc)
+  > Mirror of OpenEUICC, a fully open-source LPA implementation for Android
+
 
 ---
-*最后更新于 2025-12-14 05:17:06 UTC*
+*最后更新于 2025-12-14 06:25:53 UTC*
 *历史记录保存在 `archive` 目录中。*
