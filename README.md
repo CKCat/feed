@@ -22,7 +22,7 @@
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-  > React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic la...
+  > React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Fr...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
   > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) to [crazyguitar/hello-agents](https://github.com/crazyguitar/hello-agents)
@@ -56,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-12-14 08:21:49 UTC*
+*最后更新于 2025-12-14 09:17:13 UTC*
 *历史记录保存在 `archive` 目录中。*
