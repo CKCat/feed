@@ -39,8 +39,10 @@
   > 🤖 24/7 AI agent that maximizes Claude Code Pro usage via Slack. Auto-processes tasks, manages isolat...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vitaut/zmij](https://github.com/vitaut/zmij)
   > A double-to-string conversion algorithm based on Schubfach
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OS-Copilot/OS-Atlas](https://github.com/OS-Copilot/OS-Atlas)
+  > OS-ATLAS: A Foundation Action Model For Generalist GUI Agents
 
 
 ---
-*最后更新于 2025-12-14 04:33:59 UTC*
+*最后更新于 2025-12-14 05:17:06 UTC*
 *历史记录保存在 `archive` 目录中。*
