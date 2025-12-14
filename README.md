@@ -9,6 +9,8 @@
   > mobile reverse engineering framework
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
   > A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you...
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk)
+  > 基于 Xray 内核的 Magisk 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mistahoward/blazor-why-did-you-render](https://github.com/mistahoward/blazor-why-did-you-render)
@@ -54,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-12-14 07:16:28 UTC*
+*最后更新于 2025-12-14 08:21:49 UTC*
 *历史记录保存在 `archive` 目录中。*
