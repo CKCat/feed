@@ -8,9 +8,17 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
   > ⛷ Lightweight Markdown app to help you write great sentences. 轻灵的 Markdown 笔记本伴你写出妙言
 
+### [mahaloz](https://github.com/mahaloz)
+- 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) to [mahaloz/pwndbg](https://github.com/mahaloz/pwndbg)
+  > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
+  > A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to in...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
@@ -20,5 +28,5 @@
 
 
 ---
-*最后更新于 2025-12-15 10:22:19 UTC*
+*最后更新于 2025-12-15 11:16:45 UTC*
 *历史记录保存在 `archive` 目录中。*
