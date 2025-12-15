@@ -8,7 +8,11 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
   > ⛷ Lightweight Markdown app to help you write great sentences. 轻灵的 Markdown 笔记本伴你写出妙言
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
+  > A Git-compatible VCS that is both simple and powerful
+
 
 ---
-*最后更新于 2025-12-15 03:27:48 UTC*
+*最后更新于 2025-12-15 04:37:21 UTC*
 *历史记录保存在 `archive` 目录中。*
