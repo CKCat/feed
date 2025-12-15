@@ -54,6 +54,13 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive)
   > PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/lwip-fork](https://github.com/can1357/lwip-fork)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Stephen-lei/EC-SBT](https://github.com/Stephen-lei/EC-SBT)
+  > a retargetable static binary translator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [solecnugit/EFACT](https://github.com/solecnugit/EFACT)
+  > an External Function Auto-Completion Tool to Strengthen the Static Binary Lifting
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wuwen03/CDMF](https://github.com/wuwen03/CDMF)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SRI-CSL/stegotorus](https://github.com/SRI-CSL/stegotorus)
+  >  A Camouflage Proxy for the Tor Anonymity System
 
 ### [rustymagnet3000](https://github.com/rustymagnet3000)
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/aws](https://github.com/rustymagnet3000/aws)
@@ -78,5 +85,5 @@
 
 
 ---
-*最后更新于 2025-12-15 22:17:30 UTC*
+*最后更新于 2025-12-15 23:17:37 UTC*
 *历史记录保存在 `archive` 目录中。*
