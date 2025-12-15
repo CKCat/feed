@@ -14,6 +14,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [catsout/wallpaper-scene-renderer](https://github.com/catsout/wallpaper-scene-renderer)
   > Wallpaper engine scene renderer for linux
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Tim-Sobolev/HexRaysPyTools](https://github.com/Tim-Sobolev/HexRaysPyTools)
+  > IDA Pro plugin which improves work with HexRays decompiler and helps in process of reconstruction st...
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [odygrd/quill](https://github.com/odygrd/quill)
   > Asynchronous Low Latency C++ Logging Library
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2025-12-15 18:27:35 UTC*
+*最后更新于 2025-12-15 19:17:35 UTC*
 *历史记录保存在 `archive` 目录中。*
