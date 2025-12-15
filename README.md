@@ -33,6 +33,22 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)
   > A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to in...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [esbmc/esbmc](https://github.com/esbmc/esbmc)
+  > The efficient SMT-based context-bounded model checker (ESBMC)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dreal/dreal4](https://github.com/dreal/dreal4)
+  > Automated Reasoning in Nonlinear Theories of Reals
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [philzook58/z3_tutorial](https://github.com/philzook58/z3_tutorial)
+  > Jupyter notebooks for tutorial on the Z3 SMT solver
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Koukyosyumei/Gymbo](https://github.com/Koukyosyumei/Gymbo)
+  > gradient-based symbolic execution engine implemented from scratch
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AntonPing/prune-lang](https://github.com/AntonPing/prune-lang)
+  > Prune is a constraint logic programming language with branching heuristic.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [uuverifiers/princess](https://github.com/uuverifiers/princess)
+  > The Princess Theorem Prover
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [season-lab/fuzzy-sat](https://github.com/season-lab/fuzzy-sat)
+  > An approximate solver for concolic execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bearcove/arborium](https://github.com/bearcove/arborium)
+  > An opinionated tree-sitter + tree-sitter-highlight + grammars bundle
 
 ### [rustymagnet3000](https://github.com/rustymagnet3000)
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/aws](https://github.com/rustymagnet3000/aws)
@@ -57,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-12-15 19:17:35 UTC*
+*最后更新于 2025-12-15 20:20:24 UTC*
 *历史记录保存在 `archive` 目录中。*
