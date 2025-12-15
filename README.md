@@ -53,6 +53,7 @@
   > Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AV...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive)
   > PersonaLive! : Expressive Portrait Image Animation for Live Streaming
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/lwip-fork](https://github.com/can1357/lwip-fork)
 
 ### [rustymagnet3000](https://github.com/rustymagnet3000)
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/aws](https://github.com/rustymagnet3000/aws)
@@ -77,5 +78,5 @@
 
 
 ---
-*最后更新于 2025-12-15 21:17:03 UTC*
+*最后更新于 2025-12-15 22:17:30 UTC*
 *历史记录保存在 `archive` 目录中。*
