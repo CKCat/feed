@@ -35,6 +35,8 @@
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/bp-devcave-ctf-2025](https://github.com/otter-sec/bp-devcave-ctf-2025)
+- 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [techniq/layerstack](https://github.com/techniq/layerstack) to [es3n1n/layerstack](https://github.com/es3n1n/layerstack)
+  > Utilities to supercharge development.  Powers LayerChart and Svelte UX
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [jeperez/WinREPL](https://github.com/jeperez/WinREPL)
@@ -51,6 +53,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Papr1ka/llvm2py](https://github.com/Papr1ka/llvm2py)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [uowuo/abaddon](https://github.com/uowuo/abaddon)
+  > An alternative Discord client with voice support made with C++ and GTK 3
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2025-12-16 19:17:29 UTC*
+*最后更新于 2025-12-16 20:20:47 UTC*
 *历史记录保存在 `archive` 目录中。*
