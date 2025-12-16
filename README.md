@@ -21,6 +21,7 @@
   > The UI design language and React library for Conversational UI
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [wjakob/nanobind_example](https://github.com/wjakob/nanobind_example) to [mrexodia/nanobind_example](https://github.com/mrexodia/nanobind_example)
   > A nanobind example project
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xnobody/covdiff](https://github.com/0xnobody/covdiff)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)
@@ -39,5 +40,5 @@
 
 
 ---
-*最后更新于 2025-12-16 12:38:39 UTC*
+*最后更新于 2025-12-16 13:36:20 UTC*
 *历史记录保存在 `archive` 目录中。*
