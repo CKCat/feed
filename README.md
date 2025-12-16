@@ -12,6 +12,14 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
   > 🔬 A fast, interactive web-based viewer for performance profiles.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alibaba/ChatUI](https://github.com/alibaba/ChatUI)
+  > The UI design language and React library for Conversational UI
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)
+  > vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM ...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [raine/workmux](https://github.com/raine/workmux)
@@ -25,5 +33,5 @@
 
 
 ---
-*最后更新于 2025-12-16 09:23:34 UTC*
+*最后更新于 2025-12-16 10:21:19 UTC*
 *历史记录保存在 `archive` 目录中。*
