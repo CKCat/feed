@@ -7,6 +7,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mowokuma/vm_str.hpp](https://github.com/Mowokuma/vm_str.hpp)
   > vm_str.hpp is a header only string obfuscator.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD)
+  > PowerShell Deployment
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
@@ -40,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-16 13:36:20 UTC*
+*最后更新于 2025-12-16 14:21:07 UTC*
 *历史记录保存在 `archive` 目录中。*
