@@ -22,6 +22,9 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
   > 🔬 A fast, interactive web-based viewer for performance profiles.
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/bp-devcave-ctf-2025](https://github.com/otter-sec/bp-devcave-ctf-2025)
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [jeperez/WinREPL](https://github.com/jeperez/WinREPL)
   > x86 and x64 assembly "read-eval-print loop" for Windows
@@ -38,6 +41,10 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)
   > vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM ...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [blacktop/ipsw](https://github.com/blacktop/ipsw)
+  > iOS/macOS Research Swiss Army Knife
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [eagle518/jdk-source-code](https://github.com/eagle518/jdk-source-code)
@@ -70,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-12-16 16:25:07 UTC*
+*最后更新于 2025-12-16 17:21:07 UTC*
 *历史记录保存在 `archive` 目录中。*
