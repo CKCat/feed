@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [blacktop/ipsw](https://github.com/blacktop/ipsw)
+  > iOS/macOS Research Swiss Army Knife
+
 ### [0xnobody](https://github.com/0xnobody)
 - 🌟 👤 [0xnobody](https://github.com/0xnobody) Starred [0xnobody/covdiff](https://github.com/0xnobody/covdiff)
 
@@ -45,6 +49,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/cool_desktop_wallpapers](https://github.com/Dicklesworthstone/cool_desktop_wallpapers)
   > Hiroshi Nagai style AI-generated wallpapers created with Midjourney
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Papr1ka/llvm2py](https://github.com/Papr1ka/llvm2py)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)
@@ -85,5 +91,5 @@
 
 
 ---
-*最后更新于 2025-12-16 18:27:28 UTC*
+*最后更新于 2025-12-16 19:17:29 UTC*
 *历史记录保存在 `archive` 目录中。*
