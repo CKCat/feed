@@ -52,7 +52,7 @@
   > Hiroshi Nagai style AI-generated wallpapers created with Midjourney
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Papr1ka/llvm2py](https://github.com/Papr1ka/llvm2py)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tw93/Mole](https://github.com/tw93/Mole)
-  > 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+  > 🐹 Deep clean and optimize your Mac.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [uowuo/abaddon](https://github.com/uowuo/abaddon)
   > An alternative Discord client with voice support made with C++ and GTK 3
 
@@ -95,5 +95,5 @@
 
 
 ---
-*最后更新于 2025-12-16 22:17:21 UTC*
+*最后更新于 2025-12-16 23:16:29 UTC*
 *历史记录保存在 `archive` 目录中。*
