@@ -15,6 +15,8 @@
   > WireGuard server in C++
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dinhngtu/HyperTP](https://github.com/dinhngtu/HyperTP)
   > Link to HyperTP repositories
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [stacked-git/stgit](https://github.com/stacked-git/stgit)
+  > Stacked Git
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
@@ -45,6 +47,16 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [raine/workmux](https://github.com/raine/workmux)
   > git worktrees + tmux windows for zero-friction parallel dev
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+  > Typescript/React Library for AI Chat💬🚀
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [GkaMei/winos4.0](https://github.com/GkaMei/winos4.0)
+  > PC免杀远控winos4.0成品
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st)
+  > 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat 
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [JKornev/hidden](https://github.com/JKornev/hidden)
+  > 🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [KernelSU-Modules-Repo/meta-overlayfs](https://github.com/KernelSU-Modules-Repo/meta-overlayfs)
@@ -52,7 +64,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zitoxxx/eCaptureBurp](https://github.com/zitoxxx/eCaptureBurp)
   > Burp Suite extension for receiving TLS/HTTP traffic captured by eCapture (eBPF)
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [logan0817/CubicBezierAndroidInterpolators](https://github.com/logan0817/CubicBezierAndroidInterpolators)
+  > 方便在Android中使用Interpolator一些常见的CubicBezier贝塞尔曲线动画效果。
+
 
 ---
-*最后更新于 2025-12-16 15:20:57 UTC*
+*最后更新于 2025-12-16 16:25:07 UTC*
 *历史记录保存在 `archive` 目录中。*
