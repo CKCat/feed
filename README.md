@@ -20,8 +20,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [KernelSU-Modules-Repo/meta-overlayfs](https://github.com/KernelSU-Modules-Repo/meta-overlayfs)
   > OverlayFS MetaModule
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zitoxxx/eCaptureBurp](https://github.com/zitoxxx/eCaptureBurp)
+  > Burp Suite extension for receiving TLS/HTTP traffic captured by eCapture (eBPF)
 
 
 ---
-*最后更新于 2025-12-16 08:26:35 UTC*
+*最后更新于 2025-12-16 09:23:34 UTC*
 *历史记录保存在 `archive` 目录中。*
