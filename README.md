@@ -9,6 +9,12 @@
   > vm_str.hpp is a header only string obfuscator.
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD)
   > PowerShell Deployment
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dinhngtu/nvmetro](https://github.com/dinhngtu/nvmetro)
+  > NVMetro public release
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dinhngtu/wireglider](https://github.com/dinhngtu/wireglider)
+  > WireGuard server in C++
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dinhngtu/HyperTP](https://github.com/dinhngtu/HyperTP)
+  > Link to HyperTP repositories
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
@@ -24,10 +30,16 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [wjakob/nanobind_example](https://github.com/wjakob/nanobind_example) to [mrexodia/nanobind_example](https://github.com/mrexodia/nanobind_example)
   > A nanobind example project
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xnobody/covdiff](https://github.com/0xnobody/covdiff)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/cool_desktop_wallpapers](https://github.com/Dicklesworthstone/cool_desktop_wallpapers)
+  > Hiroshi Nagai style AI-generated wallpapers created with Midjourney
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)
   > vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM ...
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [eagle518/jdk-source-code](https://github.com/eagle518/jdk-source-code)
+  > Automatically exported from code.google.com/p/jdk-source-code
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli)
@@ -42,5 +54,5 @@
 
 
 ---
-*最后更新于 2025-12-16 14:21:07 UTC*
+*最后更新于 2025-12-16 15:20:57 UTC*
 *历史记录保存在 `archive` 目录中。*
