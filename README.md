@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xnobody](https://github.com/0xnobody)
+- 🌟 👤 [0xnobody](https://github.com/0xnobody) Starred [0xnobody/covdiff](https://github.com/0xnobody/covdiff)
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mowokuma/vm_str.hpp](https://github.com/Mowokuma/vm_str.hpp)
   > vm_str.hpp is a header only string obfuscator.
@@ -22,6 +25,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
   > 🔬 A fast, interactive web-based viewer for performance profiles.
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
+  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/bp-devcave-ctf-2025](https://github.com/otter-sec/bp-devcave-ctf-2025)
 
@@ -37,6 +44,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xnobody/covdiff](https://github.com/0xnobody/covdiff)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/cool_desktop_wallpapers](https://github.com/Dicklesworthstone/cool_desktop_wallpapers)
   > Hiroshi Nagai style AI-generated wallpapers created with Midjourney
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Papr1ka/llvm2py](https://github.com/Papr1ka/llvm2py)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun)
@@ -77,5 +85,5 @@
 
 
 ---
-*最后更新于 2025-12-16 17:21:07 UTC*
+*最后更新于 2025-12-16 18:27:28 UTC*
 *历史记录保存在 `archive` 目录中。*
