@@ -16,6 +16,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [brave/adblock-lists](https://github.com/brave/adblock-lists)
   > Maintains adblock lists that Brave uses
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ridiculousfish/libdivide](https://github.com/ridiculousfish/libdivide)
+  > Official git repository for libdivide: optimized integer division
+
 ### [iwxyi](https://github.com/iwxyi)
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
   > Apple's Liquid Glass effect for React
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-12-17 14:19:05 UTC*
+*最后更新于 2025-12-17 15:19:55 UTC*
 *历史记录保存在 `archive` 目录中。*
