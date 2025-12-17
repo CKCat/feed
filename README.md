@@ -8,6 +8,12 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
   > The official Rust SDK for the Model Context Protocol
 
+### [lxraa](https://github.com/lxraa)
+- 🌟 👤 [lxraa](https://github.com/lxraa) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
+  > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
+- 🍴 👤 [lxraa](https://github.com/lxraa) Forked [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper) to [lxraa/kdmapper](https://github.com/lxraa/kdmapper)
+  > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
   > The glamourous AI coding agent for your favourite terminal 💘
@@ -29,5 +35,5 @@
 
 
 ---
-*最后更新于 2025-12-17 06:28:15 UTC*
+*最后更新于 2025-12-17 07:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
