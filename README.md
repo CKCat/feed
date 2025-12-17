@@ -8,6 +8,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
   > The official Rust SDK for the Model Context Protocol
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [brave/adblock-lists](https://github.com/brave/adblock-lists)
+  > Maintains adblock lists that Brave uses
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
   > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
@@ -21,6 +25,10 @@
   > The glamourous AI coding agent for your favourite terminal ✒️
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
   > ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config)
+  > my opencode config
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quenti-io/quenti](https://github.com/quenti-io/quenti)
+  > The open source Quizlet alternative.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [google/A2UI](https://github.com/google/A2UI)
@@ -35,5 +43,5 @@
 
 
 ---
-*最后更新于 2025-12-17 10:21:05 UTC*
+*最后更新于 2025-12-17 11:17:18 UTC*
 *历史记录保存在 `archive` 目录中。*
