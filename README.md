@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Cfomodz/whatsmap](https://github.com/Cfomodz/whatsmap)
+  > Maps WhatsApp via API
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
   > The official Rust SDK for the Model Context Protocol
@@ -11,6 +15,10 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [brave/adblock-lists](https://github.com/brave/adblock-lists)
   > Maintains adblock lists that Brave uses
+
+### [iwxyi](https://github.com/iwxyi)
+- 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
+  > Apple's Liquid Glass effect for React
 
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
@@ -43,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-12-17 11:17:18 UTC*
+*最后更新于 2025-12-17 12:38:52 UTC*
 *历史记录保存在 `archive` 目录中。*
