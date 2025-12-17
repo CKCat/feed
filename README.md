@@ -20,6 +20,10 @@
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
   > Apple's Liquid Glass effect for React
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [0xdea/lighthouse](https://github.com/0xdea/lighthouse)
+  > A Coverage Explorer for Reverse Engineers
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
   > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
@@ -32,7 +36,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/rush](https://github.com/can1357/rush)
   > The glamourous AI coding agent for your favourite terminal ✒️
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-  > ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/...
+  > #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with p...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config)
   > my opencode config
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quenti-io/quenti](https://github.com/quenti-io/quenti)
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2025-12-17 13:31:40 UTC*
+*最后更新于 2025-12-17 14:19:05 UTC*
 *历史记录保存在 `archive` 目录中。*
