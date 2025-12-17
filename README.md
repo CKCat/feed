@@ -4,8 +4,17 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
+  > The official Rust SDK for the Model Context Protocol
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
+  > The glamourous AI coding agent for your favourite terminal 💘
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/rush](https://github.com/can1357/rush)
+  > The glamourous AI coding agent for your favourite terminal ✒️
+
 
 ---
-*最后更新于 2025-12-17 01:18:04 UTC*
+*最后更新于 2025-12-17 03:17:55 UTC*
 *历史记录保存在 `archive` 目录中。*
