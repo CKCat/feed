@@ -16,6 +16,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [brave/adblock-lists](https://github.com/brave/adblock-lists)
   > Maintains adblock lists that Brave uses
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [decoderloop/rust-malware-gallery](https://github.com/decoderloop/rust-malware-gallery)
+  > A collection of malware families and malware samples which use the Rust programming language.
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ridiculousfish/libdivide](https://github.com/ridiculousfish/libdivide)
   > Official git repository for libdivide: optimized integer division
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-12-17 21:17:34 UTC*
+*最后更新于 2025-12-17 22:17:14 UTC*
 *历史记录保存在 `archive` 目录中。*
