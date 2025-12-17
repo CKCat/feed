@@ -37,6 +37,8 @@
   > my opencode config
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quenti-io/quenti](https://github.com/quenti-io/quenti)
   > The open source Quizlet alternative.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [hmiladhia/auto-dotenv](https://github.com/hmiladhia/auto-dotenv) to [mrexodia/auto-dotenv](https://github.com/mrexodia/auto-dotenv)
+  > Automatically load .env variables if auto-dotenv is installed
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [google/A2UI](https://github.com/google/A2UI)
@@ -51,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-12-17 12:38:52 UTC*
+*最后更新于 2025-12-17 13:31:40 UTC*
 *历史记录保存在 `archive` 目录中。*
