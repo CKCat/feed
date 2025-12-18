@@ -51,7 +51,11 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
   > All parts of Claude Code's system prompt, 16 builtin tool descriptions, sub agent prompts (Plan/Expl...
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
+  > Transparent Proxy with Mihomo on OpenWrt.
+
 
 ---
-*最后更新于 2025-12-18 13:34:08 UTC*
+*最后更新于 2025-12-18 14:19:41 UTC*
 *历史记录保存在 `archive` 目录中。*
