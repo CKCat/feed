@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite)
+  > A comprehensive test suite for RFC 8259 compliant JSON parsers
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)
   > WebSocket client for Python
@@ -16,5 +20,5 @@
 
 
 ---
-*最后更新于 2025-12-18 03:18:24 UTC*
+*最后更新于 2025-12-18 04:31:29 UTC*
 *历史记录保存在 `archive` 目录中。*
