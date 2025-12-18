@@ -29,12 +29,23 @@
   > Some fixes to eShard's LLVM obfuscator to support LLVM 19 and updated README for Windows installment...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michelou/llvm-examples](https://github.com/michelou/llvm-examples)
   > Running and building LLVM on Windows 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hosenur/portal](https://github.com/hosenur/portal)
+  > Access OpenCode through TailScale on your web browser. (Mobile First)
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently)
+  > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [libfuse/libfuse](https://github.com/libfuse/libfuse) to [sekaiacg/libfuse](https://github.com/sekaiacg/libfuse)
   > The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
+  > All parts of Claude Code's system prompt, 16 builtin tool descriptions, sub agent prompts (Plan/Expl...
+
 
 ---
-*最后更新于 2025-12-18 09:23:44 UTC*
+*最后更新于 2025-12-18 10:20:06 UTC*
 *历史记录保存在 `archive` 目录中。*
