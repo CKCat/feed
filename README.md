@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ndabAP/vue-command](https://github.com/ndabAP/vue-command)
+  > A fully working, most feature-rich Vue.js terminal emulator
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite)
   > A comprehensive test suite for RFC 8259 compliant JSON parsers
@@ -26,7 +30,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michelou/llvm-examples](https://github.com/michelou/llvm-examples)
   > Running and building LLVM on Windows 
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [libfuse/libfuse](https://github.com/libfuse/libfuse) to [sekaiacg/libfuse](https://github.com/sekaiacg/libfuse)
+  > The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
+
 
 ---
-*最后更新于 2025-12-18 07:20:09 UTC*
+*最后更新于 2025-12-18 08:25:30 UTC*
 *历史记录保存在 `archive` 目录中。*
