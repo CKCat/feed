@@ -36,6 +36,10 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [niqiuqiux/PointerScan](https://github.com/niqiuqiux/PointerScan)
   > C++的内存指针链扫描
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)
+  > The next-generation ad blocker for Safari.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rottaj/obfuscator-llvm](https://github.com/rottaj/obfuscator-llvm)
   > Some fixes to eShard's LLVM obfuscator to support LLVM 19 and updated README for Windows installment...
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2025-12-18 22:16:58 UTC*
+*最后更新于 2025-12-18 23:17:00 UTC*
 *历史记录保存在 `archive` 目录中。*
