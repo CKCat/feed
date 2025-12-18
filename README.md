@@ -20,6 +20,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)
   > WebSocket client for Python
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🚀 👤 [R0rt1z2](https://github.com/R0rt1z2) Made [amazon-oss/boot2root](https://github.com/amazon-oss/boot2root) public
+  > Automatically patches FireOS boot images to expose a rooted shell
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [google/snappy](https://github.com/google/snappy)
   > A fast compressor/decompressor
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-12-18 15:19:53 UTC*
+*最后更新于 2025-12-18 16:25:19 UTC*
 *历史记录保存在 `archive` 目录中。*
