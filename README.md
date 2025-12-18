@@ -32,6 +32,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hosenur/portal](https://github.com/hosenur/portal)
   > Access OpenCode through TailScale on your web browser. (Mobile First)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
+  > The memory-first coding agent
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently)
@@ -47,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-12-18 10:20:06 UTC*
+*最后更新于 2025-12-18 11:16:22 UTC*
 *历史记录保存在 `archive` 目录中。*
