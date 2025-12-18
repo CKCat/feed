@@ -24,6 +24,10 @@
 - 🚀 👤 [R0rt1z2](https://github.com/R0rt1z2) Made [amazon-oss/boot2root](https://github.com/amazon-oss/boot2root) public
   > Automatically patches FireOS boot images to expose a rooted shell
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Ahod26/dotnet-ai-mcp-server](https://github.com/Ahod26/dotnet-ai-mcp-server)
+  > The essential Model Context Protocol server for .NET developers building AI applications.
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [google/snappy](https://github.com/google/snappy)
   > A fast compressor/decompressor
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-12-18 18:26:58 UTC*
+*最后更新于 2025-12-18 19:16:03 UTC*
 *历史记录保存在 `archive` 目录中。*
