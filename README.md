@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [xykt/NetQuality](https://github.com/xykt/NetQuality)
+  > 网络质量检测脚本 - Network Quality Check Script
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
   > Download videos from almost any website worldwide
@@ -14,5 +18,5 @@
 
 
 ---
-*最后更新于 2025-12-19 07:19:23 UTC*
+*最后更新于 2025-12-19 08:24:55 UTC*
 *历史记录保存在 `archive` 目录中。*
