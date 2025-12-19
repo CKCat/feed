@@ -20,6 +20,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs)
+  > a multi-language bindings generator for rust
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [alvr/alpine-android](https://github.com/alvr/alpine-android)
   > 🐋 Small docker image for building & testing Android applications.
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-19 17:16:39 UTC*
+*最后更新于 2025-12-19 18:25:41 UTC*
 *历史记录保存在 `archive` 目录中。*
