@@ -26,6 +26,10 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Shmayro/dockerify-android](https://github.com/Shmayro/dockerify-android)
   > A Dockerized Android emulator supporting multiple CPU architectures (x86 and arm64) with native perf...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vovkos/llvm-package-windows](https://github.com/vovkos/llvm-package-windows)
+  > Provides LLVM binary packages for an (almost) complete Windows build matrix. Built and packaged on G...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [TermoraDev/termora](https://github.com/TermoraDev/termora)
   > Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
@@ -34,5 +38,5 @@
 
 
 ---
-*最后更新于 2025-12-19 16:22:44 UTC*
+*最后更新于 2025-12-19 17:16:39 UTC*
 *历史记录保存在 `archive` 目录中。*
