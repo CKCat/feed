@@ -7,6 +7,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [xykt/NetQuality](https://github.com/xykt/NetQuality)
   > 网络质量检测脚本 - Network Quality Check Script
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [bin456789/reinstall](https://github.com/bin456789/reinstall)
+  > 一键DD/重装脚本 (One-click reinstall OS on VPS)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
+  >  Mobile-Agent: The Powerful GUI Agent Family
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-12-19 14:18:40 UTC*
+*最后更新于 2025-12-19 15:19:32 UTC*
 *历史记录保存在 `archive` 目录中。*
