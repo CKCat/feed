@@ -16,7 +16,11 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [TermoraDev/termora](https://github.com/TermoraDev/termora)
+  > Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+
 
 ---
-*最后更新于 2025-12-19 09:21:06 UTC*
+*最后更新于 2025-12-19 10:19:30 UTC*
 *历史记录保存在 `archive` 目录中。*
