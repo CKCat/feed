@@ -25,8 +25,10 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [TermoraDev/termora](https://github.com/TermoraDev/termora)
   > Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+- 🍴 👤 [tiann](https://github.com/tiann) Forked [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) to [tiann/assistant-ui](https://github.com/tiann/assistant-ui)
+  > Typescript/React Library for AI Chat💬🚀
 
 
 ---
-*最后更新于 2025-12-19 12:36:05 UTC*
+*最后更新于 2025-12-19 13:30:51 UTC*
 *历史记录保存在 `archive` 目录中。*
