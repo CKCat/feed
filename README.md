@@ -7,6 +7,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [0xced/nugraph](https://github.com/0xced/nugraph)
   > Create visual dependency graphs of NuGet packages and .NET projects
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [michaelforney/swc](https://github.com/michaelforney/swc)
+  > a library for making a simple Wayland compositor
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [sudoskys/telegramify-markdown](https://github.com/sudoskys/telegramify-markdown)
@@ -52,5 +54,5 @@
 
 
 ---
-*最后更新于 2025-12-19 22:17:27 UTC*
+*最后更新于 2025-12-19 23:16:43 UTC*
 *历史记录保存在 `archive` 目录中。*
