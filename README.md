@@ -4,6 +4,16 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [0xced/nugraph](https://github.com/0xced/nugraph)
+  > Create visual dependency graphs of NuGet packages and .NET projects
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [sudoskys/telegramify-markdown](https://github.com/sudoskys/telegramify-markdown)
+  > 🪄  Markdown To Telegram MarkdownV2 Converter Python| No more worrying about formatting.
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [sudoskys/telegramify-markdown](https://github.com/sudoskys/telegramify-markdown) to [NyaMisty/telegramify-markdown](https://github.com/NyaMisty/telegramify-markdown)
+  > 🪄  Markdown To Telegram MarkdownV2 Converter Python| No more worrying about formatting.
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [xykt/NetQuality](https://github.com/xykt/NetQuality)
   > 网络质量检测脚本 - Network Quality Check Script
@@ -42,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-12-19 21:16:18 UTC*
+*最后更新于 2025-12-19 22:17:27 UTC*
 *历史记录保存在 `archive` 目录中。*
