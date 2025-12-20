@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService)
+  > Android 16 最新保活方案和无权限体外弹出方案，
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService)
   > Android 16 最新保活方案和无权限体外弹出方案，
@@ -27,6 +31,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
   > Your One-Stop Publication Workbench
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [Ylarod/setup-ndk-clang](https://github.com/Ylarod/setup-ndk-clang)
+  > prebuilt ndk clang for ci usage
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [AngeloD2022/oxidrive](https://github.com/AngeloD2022/oxidrive)
   > The Adobe product installer, remade in Rust.
@@ -38,6 +46,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch)
   > PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [karashiiro/FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)
+  > Opcode repository for FFXIV.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)
@@ -55,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-12-20 17:14:10 UTC*
+*最后更新于 2025-12-20 18:22:21 UTC*
 *历史记录保存在 `archive` 目录中。*
