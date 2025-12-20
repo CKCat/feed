@@ -15,6 +15,10 @@
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [TexTools/xivModdingFramework](https://github.com/TexTools/xivModdingFramework) to [RicterZ/xivModdingFramework](https://github.com/RicterZ/xivModdingFramework)
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
+  > Your One-Stop Publication Workbench
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [AngeloD2022/oxidrive](https://github.com/AngeloD2022/oxidrive)
   > The Adobe product installer, remade in Rust.
@@ -38,8 +42,10 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [batrachianai/toad](https://github.com/batrachianai/toad)
   > A unified interface for AI in your terminal.
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter)
+  > A tree-sitter based AST difftool to get meaningful semantic diffs
 
 
 ---
-*最后更新于 2025-12-20 14:15:38 UTC*
+*最后更新于 2025-12-20 15:15:58 UTC*
 *历史记录保存在 `archive` 目录中。*
