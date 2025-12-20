@@ -49,6 +49,12 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [karashiiro/FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)
   > Opcode repository for FFXIV.
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [diffblue/cbmc](https://github.com/diffblue/cbmc)
+  > C Bounded Model Checker
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
+  > :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first....
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)
   > Fast, collaborative live terminal sharing over the web
@@ -65,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-12-20 18:22:21 UTC*
+*最后更新于 2025-12-20 19:12:57 UTC*
 *历史记录保存在 `archive` 目录中。*
