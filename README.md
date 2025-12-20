@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService)
+  > Android 16 最新保活方案和无权限体外弹出方案，
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32)
   > Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrai...
@@ -14,6 +18,10 @@
 
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [TexTools/xivModdingFramework](https://github.com/TexTools/xivModdingFramework) to [RicterZ/xivModdingFramework](https://github.com/RicterZ/xivModdingFramework)
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [limbo666/DesktopFences](https://github.com/limbo666/DesktopFences)
+  > An alternative to Stardock Fences. Open Source
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
@@ -47,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-12-20 16:20:22 UTC*
+*最后更新于 2025-12-20 17:14:10 UTC*
 *历史记录保存在 `archive` 目录中。*
