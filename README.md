@@ -13,6 +13,8 @@
   > [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
   > Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ trans...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)
+  > Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model ...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
@@ -24,5 +26,5 @@
 
 
 ---
-*最后更新于 2025-12-21 07:16:27 UTC*
+*最后更新于 2025-12-21 08:22:14 UTC*
 *历史记录保存在 `archive` 目录中。*
