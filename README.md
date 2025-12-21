@@ -45,6 +45,10 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
   > For automated installation of Hyprland on Debian 13 Trixie (Testing) and Debian SiD (Unstable)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [hneemann/Digital](https://github.com/hneemann/Digital)
+  > A digital logic designer and circuit simulator.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [boltgolt/howdy](https://github.com/boltgolt/howdy)
+  > 🛡️ Windows Hello™ style facial authentication for Linux
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-12-21 22:16:31 UTC*
+*最后更新于 2025-12-21 23:16:02 UTC*
 *历史记录保存在 `archive` 目录中。*
