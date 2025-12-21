@@ -30,6 +30,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
   > Zotero Plugins Collection | Zotero 插件合集 | Awesome Zotero Plugins
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)
+  > A GPT-empowered penetration testing tool
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ocramz/ncd-tree](https://github.com/ocramz/ncd-tree)
   > text similarity search trees based on Normalized Compression Distance
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-12-21 20:18:26 UTC*
+*最后更新于 2025-12-21 21:15:40 UTC*
 *历史记录保存在 `archive` 目录中。*
