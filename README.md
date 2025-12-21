@@ -15,6 +15,8 @@
   > Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ trans...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)
   > Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model ...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
+  > Zotero Plugins Collection | Zotero 插件合集 | Awesome Zotero Plugins
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
@@ -23,8 +25,14 @@
   > BOF for Kerberos abuse (an implementation of some important features of the Rubeus).
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ShigShag/AMSI-Bypass-via-Page-Guard-Exceptions](https://github.com/ShigShag/AMSI-Bypass-via-Page-Guard-Exceptions)
   > Shellcode and In-PowerShell solution for patching AMSI via Page Guard Exceptions
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt)
+  > Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" rel...
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [CCob/ThreadlessInject](https://github.com/CCob/ThreadlessInject)
+  > Threadless Process Injection using remote function hooking. 
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [iilegacyyii/ThreadlessInject-BOF](https://github.com/iilegacyyii/ThreadlessInject-BOF)
+  > BOF implementation of @_EthicalChaos_'s ThreadlessInject project. A novel process injection techniqu...
 
 
 ---
-*最后更新于 2025-12-21 08:22:14 UTC*
+*最后更新于 2025-12-21 09:17:26 UTC*
 *历史记录保存在 `archive` 目录中。*
