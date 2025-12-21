@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [williballenthin/ida-graph-exporter](https://github.com/williballenthin/ida-graph-exporter)
+  > Layout-preserving graph view exporter plugin for IDA Pro
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc)
   > Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spi...
@@ -46,5 +50,5 @@
 
 
 ---
-*最后更新于 2025-12-21 13:25:28 UTC*
+*最后更新于 2025-12-21 14:15:41 UTC*
 *历史记录保存在 `archive` 目录中。*
