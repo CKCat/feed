@@ -8,6 +8,10 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [williballenthin/ida-graph-exporter](https://github.com/williballenthin/ida-graph-exporter)
   > Layout-preserving graph view exporter plugin for IDA Pro
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [j4nn/xperable](https://github.com/j4nn/xperable)
+  > Xperia ABL fastboot Exploit
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc)
   > Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spi...
@@ -29,6 +33,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ocramz/ncd-tree](https://github.com/ocramz/ncd-tree)
   > text similarity search trees based on Normalized Compression Distance
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/mishegos](https://github.com/trailofbits/mishegos)
+  > A differential fuzzer for x86 decoders
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
@@ -50,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-12-21 16:20:06 UTC*
+*最后更新于 2025-12-21 17:14:29 UTC*
 *历史记录保存在 `archive` 目录中。*
