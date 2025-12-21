@@ -22,6 +22,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
   > Zotero Plugins Collection | Zotero 插件合集 | Awesome Zotero Plugins
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ocramz/ncd-tree](https://github.com/ocramz/ncd-tree)
+  > text similarity search trees based on Normalized Compression Distance
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
   > OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, document...
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-12-21 12:33:30 UTC*
+*最后更新于 2025-12-21 13:25:28 UTC*
 *历史记录保存在 `archive` 目录中。*
