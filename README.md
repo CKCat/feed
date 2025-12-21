@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
+  > Trying to tame the three-headed dog.
+
 
 ---
-*最后更新于 2025-12-21 01:27:21 UTC*
+*最后更新于 2025-12-21 03:26:46 UTC*
 *历史记录保存在 `archive` 目录中。*
