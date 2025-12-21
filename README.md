@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc)
+  > Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spi...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Mountchicken/Resophy](https://github.com/Mountchicken/Resophy)
   > 🎯 Read research papers faster with AI. Resophy is an HTML-based AI paper reader with:  🤖 AI Translat...
@@ -17,6 +21,10 @@
   > Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model ...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
   > Zotero Plugins Collection | Zotero 插件合集 | Awesome Zotero Plugins
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+  > OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, document...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
@@ -34,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-21 10:17:23 UTC*
+*最后更新于 2025-12-21 11:13:54 UTC*
 *历史记录保存在 `archive` 目录中。*
