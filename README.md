@@ -16,11 +16,15 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
   > Identity-aware VPN and proxy for remote access to anything, anywhere.
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [microsoft/Detours](https://github.com/microsoft/Detours)
+  > Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distribu...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch)
   > Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in r...
 
 
 ---
-*最后更新于 2025-12-22 03:39:57 UTC*
+*最后更新于 2025-12-22 04:37:15 UTC*
 *历史记录保存在 `archive` 目录中。*
