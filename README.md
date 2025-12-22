@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [btraceio/btrace](https://github.com/btraceio/btrace)
+  > BTrace - a safe, dynamic tracing tool for the Java platform
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
   > SGLang is a fast serving framework for large language models and vision language models.
@@ -16,6 +20,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
   > Identity-aware VPN and proxy for remote access to anything, anywhere.
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)
+  > This is a proof of concept for CVE-2025-38352, a vulnerability in the Linux kernel's POSIX CPU timer...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [microsoft/Detours](https://github.com/microsoft/Detours)
   > Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distribu...
@@ -26,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-12-22 05:21:40 UTC*
+*最后更新于 2025-12-22 06:30:14 UTC*
 *历史记录保存在 `archive` 目录中。*
