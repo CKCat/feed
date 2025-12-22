@@ -17,6 +17,10 @@
   > SGLang is a fast serving framework for large language models and vision language models.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [open-tinker/OpenTinker](https://github.com/open-tinker/OpenTinker)
+  > OpenTinker is an RL-as-a-Service infrastructure for foundation models
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm)
@@ -64,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-12-22 19:15:11 UTC*
+*最后更新于 2025-12-22 20:19:32 UTC*
 *历史记录保存在 `archive` 目录中。*
