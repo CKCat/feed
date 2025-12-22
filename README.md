@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [btraceio/btrace](https://github.com/btraceio/btrace)
   > BTrace - a safe, dynamic tracing tool for the Java platform
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)
+  > This is a proof of concept for CVE-2025-38352, a vulnerability in the Linux kernel's POSIX CPU timer...
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
   > SGLang is a fast serving framework for large language models and vision language models.
@@ -15,6 +19,10 @@
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox)
   > Source code for Oracle VirtualBox
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [guyinatuxedo/remenissions](https://github.com/guyinatuxedo/remenissions)
+- 🍴 👤 [mcdulltii](https://github.com/mcdulltii) Forked [guyinatuxedo/remenissions](https://github.com/guyinatuxedo/remenissions) to [mcdulltii/remenissions](https://github.com/mcdulltii/remenissions)
 
 ### [qicosmos](https://github.com/qicosmos)
 - 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [qicosmos/cppcon2018](https://github.com/qicosmos/cppcon2018)
@@ -38,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-12-22 07:21:15 UTC*
+*最后更新于 2025-12-22 08:26:37 UTC*
 *历史记录保存在 `archive` 目录中。*
