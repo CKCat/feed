@@ -12,6 +12,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
   > SGLang is a fast serving framework for large language models and vision language models.
 
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox)
+  > Source code for Oracle VirtualBox
+
 ### [qicosmos](https://github.com/qicosmos)
 - 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [qicosmos/cppcon2018](https://github.com/qicosmos/cppcon2018)
   > the speak for cppcon2018
@@ -34,5 +38,5 @@
 
 
 ---
-*最后更新于 2025-12-22 06:30:14 UTC*
+*最后更新于 2025-12-22 07:21:15 UTC*
 *历史记录保存在 `archive` 目录中。*
