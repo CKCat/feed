@@ -4,8 +4,23 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+  > SGLang is a fast serving framework for large language models and vision language models.
+
+### [qicosmos](https://github.com/qicosmos)
+- 🌟 👤 [qicosmos](https://github.com/qicosmos) Starred [qicosmos/cppcon2018](https://github.com/qicosmos/cppcon2018)
+  > the speak for cppcon2018
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
+  > Identity-aware VPN and proxy for remote access to anything, anywhere.
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch)
+  > Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in r...
+
 
 ---
-*最后更新于 2025-12-22 01:25:41 UTC*
+*最后更新于 2025-12-22 03:39:57 UTC*
 *历史记录保存在 `archive` 目录中。*
