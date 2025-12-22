@@ -15,6 +15,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
   > SGLang is a fast serving framework for large language models and vision language models.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-12-22 16:22:04 UTC*
+*最后更新于 2025-12-22 17:16:23 UTC*
 *历史记录保存在 `archive` 目录中。*
