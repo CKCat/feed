@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [1401199262](https://github.com/1401199262)
+- 🌟 👤 [1401199262](https://github.com/1401199262) Starred [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite)
+  > A comprehensive test suite for RFC 8259 compliant JSON parsers
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [btraceio/btrace](https://github.com/btraceio/btrace)
   > BTrace - a safe, dynamic tracing tool for the Java platform
+
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile)
+  > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)
@@ -72,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-12-22 21:15:56 UTC*
+*最后更新于 2025-12-22 22:17:34 UTC*
 *历史记录保存在 `archive` 目录中。*
