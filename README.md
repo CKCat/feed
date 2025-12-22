@@ -22,6 +22,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [open-tinker/OpenTinker](https://github.com/open-tinker/OpenTinker)
   > OpenTinker is an RL-as-a-Service infrastructure for foundation models
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sst/opencode](https://github.com/sst/opencode)
+  > The open source coding agent.
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm)
   > JetKVM - Control any computer remotely
@@ -68,5 +72,5 @@
 
 
 ---
-*最后更新于 2025-12-22 20:19:32 UTC*
+*最后更新于 2025-12-22 21:15:56 UTC*
 *历史记录保存在 `archive` 目录中。*
