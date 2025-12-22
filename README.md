@@ -49,6 +49,8 @@
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [microsoft/Detours](https://github.com/microsoft/Detours)
   > Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distribu...
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ricardojoserf/SAMDump](https://github.com/ricardojoserf/SAMDump)
+  > Extract SAM and SYSTEM using Volume Shadow Copy (VSS) API. With multiple exfiltration options and XO...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch)
@@ -56,5 +58,5 @@
 
 
 ---
-*最后更新于 2025-12-22 14:18:19 UTC*
+*最后更新于 2025-12-22 15:19:15 UTC*
 *历史记录保存在 `archive` 目录中。*
