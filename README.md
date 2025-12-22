@@ -38,6 +38,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)
   > This is a proof of concept for CVE-2025-38352, a vulnerability in the Linux kernel's POSIX CPU timer...
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [anyvm-org/anyvm](https://github.com/anyvm-org/anyvm)
+  > Run any VM anywhere: run FreeBSD, OpenBSD, NetBSD, Solaris, OmniOS and more on Windows, Linux and Ma...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [microsoft/Detours](https://github.com/microsoft/Detours)
   > Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distribu...
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-12-22 10:19:14 UTC*
+*最后更新于 2025-12-22 11:16:01 UTC*
 *历史记录保存在 `archive` 目录中。*
