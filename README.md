@@ -23,6 +23,9 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/yakety](https://github.com/badlogic/yakety)
   > Voice recording and transcription app
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [freelawproject/x-ray](https://github.com/freelawproject/x-ray)
+  > A tool to detect whether a PDF has a bad redaction
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [novafacing/vergilius-rs](https://github.com/novafacing/vergilius-rs)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component)
@@ -42,5 +45,5 @@
 
 
 ---
-*最后更新于 2025-12-23 19:15:33 UTC*
+*最后更新于 2025-12-23 20:19:28 UTC*
 *历史记录保存在 `archive` 目录中。*
