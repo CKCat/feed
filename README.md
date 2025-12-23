@@ -14,6 +14,11 @@
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/serde_json_lenient](https://github.com/google/serde_json_lenient)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [childofcuriosity/taoyuan-auto-assistant](https://github.com/childofcuriosity/taoyuan-auto-assistant) to [Mufanc/taoyuan-auto-assistant](https://github.com/Mufanc/taoyuan-auto-assistant)
+  > 🍃 桃源深处有人家 - 自动运营助手：基于计算机视觉 + 大模型的全自动运营系统
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl](https://github.com/behl-lang/behl) public
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/yakety](https://github.com/badlogic/yakety)
@@ -37,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-23 16:23:23 UTC*
+*最后更新于 2025-12-23 17:18:01 UTC*
 *历史记录保存在 `archive` 目录中。*
