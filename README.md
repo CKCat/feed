@@ -4,15 +4,24 @@
 
 ## 今日动态
 
+### [Bzi-Han](https://github.com/Bzi-Han)
+- 🌟 👤 [Bzi-Han](https://github.com/Bzi-Han) Starred [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+  > Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Window...
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [Siguza/UnFairPlay](https://github.com/Siguza/UnFairPlay) to [ChiChou/UnFairPlay](https://github.com/ChiChou/UnFairPlay)
   > Decrypt FairPlay encrypted executable binaries on macOS
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/serde_json_lenient](https://github.com/google/serde_json_lenient)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [skelsec/pypykatz](https://github.com/skelsec/pypykatz)
   > Mimikatz implementation in pure Python
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ybdt/AddUserEvasion](https://github.com/ybdt/AddUserEvasion)
+  > A collection of various methods for adding user from windows
 
 
 ---
-*最后更新于 2025-12-23 07:21:27 UTC*
+*最后更新于 2025-12-23 08:25:51 UTC*
 *历史记录保存在 `archive` 目录中。*
