@@ -20,6 +20,10 @@
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl](https://github.com/behl-lang/behl) public
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
+  > Kimi K2 is the large language model series developed by Moonshot AI team
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/yakety](https://github.com/badlogic/yakety)
   > Voice recording and transcription app
@@ -45,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-12-23 21:16:47 UTC*
+*最后更新于 2025-12-23 22:17:14 UTC*
 *历史记录保存在 `archive` 目录中。*
