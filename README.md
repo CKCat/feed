@@ -15,6 +15,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/serde_json_lenient](https://github.com/google/serde_json_lenient)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/yakety](https://github.com/badlogic/yakety)
+  > Voice recording and transcription app
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component)
   > An awesome Infinite Scroll component in react.
@@ -27,5 +31,5 @@
 
 
 ---
-*最后更新于 2025-12-23 09:22:25 UTC*
+*最后更新于 2025-12-23 10:19:58 UTC*
 *历史记录保存在 `archive` 目录中。*
