@@ -22,6 +22,8 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component)
   > An awesome Infinite Scroll component in react.
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [Apestein/better-react-infinite-scroll](https://github.com/Apestein/better-react-infinite-scroll)
+  > Complete guide to infinite scroll in React
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [skelsec/pypykatz](https://github.com/skelsec/pypykatz)
@@ -31,5 +33,5 @@
 
 
 ---
-*最后更新于 2025-12-23 10:19:58 UTC*
+*最后更新于 2025-12-23 11:16:17 UTC*
 *历史记录保存在 `archive` 目录中。*
