@@ -30,6 +30,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [freelawproject/x-ray](https://github.com/freelawproject/x-ray)
   > A tool to detect whether a PDF has a bad redaction
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [novafacing/vergilius-rs](https://github.com/novafacing/vergilius-rs)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/mcporter](https://github.com/steipete/mcporter)
+  > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component)
@@ -49,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-12-23 22:17:14 UTC*
+*最后更新于 2025-12-23 23:16:32 UTC*
 *历史记录保存在 `archive` 目录中。*
