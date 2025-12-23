@@ -15,6 +15,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/serde_json_lenient](https://github.com/google/serde_json_lenient)
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component)
+  > An awesome Infinite Scroll component in react.
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [skelsec/pypykatz](https://github.com/skelsec/pypykatz)
   > Mimikatz implementation in pure Python
@@ -23,5 +27,5 @@
 
 
 ---
-*最后更新于 2025-12-23 08:25:51 UTC*
+*最后更新于 2025-12-23 09:22:25 UTC*
 *历史记录保存在 `archive` 目录中。*
