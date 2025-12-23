@@ -25,6 +25,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Apestein/better-react-infinite-scroll](https://github.com/Apestein/better-react-infinite-scroll)
   > Complete guide to infinite scroll in React
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
+  > Public repository of the Micro QuickJS Javascript Engine
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [skelsec/pypykatz](https://github.com/skelsec/pypykatz)
   > Mimikatz implementation in pure Python
@@ -33,5 +37,5 @@
 
 
 ---
-*最后更新于 2025-12-23 11:16:17 UTC*
+*最后更新于 2025-12-23 12:37:41 UTC*
 *历史记录保存在 `archive` 目录中。*
