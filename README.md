@@ -49,6 +49,8 @@
   > Ultralightweight YAML parser & emitter in C11
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [DevSolar/pdclib](https://github.com/DevSolar/pdclib)
   > The Public Domain C Library
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/wil](https://github.com/microsoft/wil)
+  > Windows Implementation Library
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [owtaylor/toolbox-vscode](https://github.com/owtaylor/toolbox-vscode)
@@ -67,6 +69,12 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
   > Next-Generation Remote Analysis Suite for Reverse Engineering.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [iOrange/bcdec](https://github.com/iOrange/bcdec)
+  > Small header-only C library to decompress any BC compressed image
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [alibaba/yalantinglibs](https://github.com/alibaba/yalantinglibs)
+  > A collection of modern C++ libraries, include coro_http, coro_rpc, compile-time reflection, struct_p...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ancientElement/AE_SkillEditor_Plus](https://github.com/ancientElement/AE_SkillEditor_Plus)
+  > AE_Skill_Editor的Plus版本
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
@@ -74,5 +82,5 @@
 
 
 ---
-*最后更新于 2025-12-24 15:18:47 UTC*
+*最后更新于 2025-12-24 16:21:37 UTC*
 *历史记录保存在 `archive` 目录中。*
