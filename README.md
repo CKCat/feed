@@ -22,6 +22,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
   > Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized leve...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
+  > Public repository of the Micro QuickJS Javascript Engine
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [airbnb/lottie-android](https://github.com/airbnb/lottie-android)
   > Render After Effects animations natively on Android and iOS, Web, and React Native
@@ -43,6 +47,8 @@
   > A high performance rust-powered UI layout library
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lapce/floem](https://github.com/lapce/floem)
   > A native Rust UI library with fine-grained reactivity
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build)
+  > aria2 static build, support cross compile
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewmd5/cyaml](https://github.com/andrewmd5/cyaml)
@@ -65,6 +71,8 @@
   > ComfyUI nodes for SCAIL-Pose preprocessing
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp)
   > Use Claude Code from any ACP client such as Zed!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
+  > Public repository of the Micro QuickJS Javascript Engine
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
@@ -75,6 +83,10 @@
   > A collection of modern C++ libraries, include coro_http, coro_rpc, compile-time reflection, struct_p...
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ancientElement/AE_SkillEditor_Plus](https://github.com/ancientElement/AE_SkillEditor_Plus)
   > AE_Skill_Editor的Plus版本
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [p-x9/ELFKit](https://github.com/p-x9/ELFKit)
+  > 🔬 A Swift library for parsing ELF files to obtain various information.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [p-x9/MachOKit](https://github.com/p-x9/MachOKit)
+  > 🔬 A Swift library for parsing mach-o files to obtain various information.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
@@ -82,5 +94,5 @@
 
 
 ---
-*最后更新于 2025-12-24 16:21:37 UTC*
+*最后更新于 2025-12-24 17:15:02 UTC*
 *历史记录保存在 `archive` 目录中。*
