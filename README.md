@@ -18,6 +18,10 @@
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [KhronosGroup/VK-GL-CTS](https://github.com/KhronosGroup/VK-GL-CTS) to [baikaishiuc/VK-GL-CTS](https://github.com/baikaishiuc/VK-GL-CTS)
   > Khronos Vulkan, OpenGL, and OpenGL ES Conformance Tests
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [TrianguloY/URLCheck](https://github.com/TrianguloY/URLCheck)
+  > Android app by TrianguloY: URLCheck
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections) to [crazyguitar/cuCollections](https://github.com/crazyguitar/cuCollections)
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-12-24 08:25:48 UTC*
+*最后更新于 2025-12-24 09:21:37 UTC*
 *历史记录保存在 `archive` 目录中。*
