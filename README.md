@@ -18,6 +18,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [jonomango/hv](https://github.com/jonomango/hv)
   > Lightweight Intel VT-x Hypervisor.
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
+  > Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized leve...
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [airbnb/lottie-android](https://github.com/airbnb/lottie-android)
   > Render After Effects animations natively on Android and iOS, Web, and React Native
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-12-24 13:29:33 UTC*
+*最后更新于 2025-12-24 14:16:45 UTC*
 *历史记录保存在 `archive` 目录中。*
