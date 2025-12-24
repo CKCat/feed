@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [googlesamples/android-testdpc](https://github.com/googlesamples/android-testdpc)
   > Test DPC is a sample device policy controller for use with Android Enterprise. It gives developers t...
 
+### [JLospinoso](https://github.com/JLospinoso)
+- 🍴 👤 [JLospinoso](https://github.com/JLospinoso) Forked [actions/checkout](https://github.com/actions/checkout) to [lospino-so/checkout](https://github.com/lospino-so/checkout)
+  > Action for checking out a repo
+
 ### [Kr328](https://github.com/Kr328)
 - 🍴 👤 [Kr328](https://github.com/Kr328) Forked [launchbadge/sqlx](https://github.com/launchbadge/sqlx) to [Kr328/sqlx](https://github.com/Kr328/sqlx)
   > 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without...
@@ -87,6 +91,10 @@
   > 🔬 A Swift library for parsing ELF files to obtain various information.
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [p-x9/MachOKit](https://github.com/p-x9/MachOKit)
   > 🔬 A Swift library for parsing mach-o files to obtain various information.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [0danny/mems](https://github.com/0danny/mems)
+  > Android web based memory scanner & editor.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [withgraphite/plutil](https://github.com/withgraphite/plutil)
+  > A cross-platform, drop-in replacement for Apple's plutil.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
@@ -94,5 +102,5 @@
 
 
 ---
-*最后更新于 2025-12-24 22:17:13 UTC*
+*最后更新于 2025-12-24 23:16:34 UTC*
 *历史记录保存在 `archive` 目录中。*
