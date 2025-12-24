@@ -68,7 +68,11 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
   > Next-Generation Remote Analysis Suite for Reverse Engineering.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
+  > pierre’s open source code
+
 
 ---
-*最后更新于 2025-12-24 14:16:45 UTC*
+*最后更新于 2025-12-24 15:18:47 UTC*
 *历史记录保存在 `archive` 目录中。*
