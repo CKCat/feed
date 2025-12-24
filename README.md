@@ -12,9 +12,15 @@
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [KhronosGroup/VK-GL-CTS](https://github.com/KhronosGroup/VK-GL-CTS) to [baikaishiuc/VK-GL-CTS](https://github.com/baikaishiuc/VK-GL-CTS)
   > Khronos Vulkan, OpenGL, and OpenGL ES Conformance Tests
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections) to [crazyguitar/cuCollections](https://github.com/crazyguitar/cuCollections)
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewmd5/cyaml](https://github.com/andrewmd5/cyaml)
   > Ultralightweight YAML parser & emitter in C11
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [DevSolar/pdclib](https://github.com/DevSolar/pdclib)
+  > The Public Domain C Library
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [owtaylor/toolbox-vscode](https://github.com/owtaylor/toolbox-vscode)
@@ -36,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-24 03:21:27 UTC*
+*最后更新于 2025-12-24 04:33:22 UTC*
 *历史记录保存在 `archive` 目录中。*
