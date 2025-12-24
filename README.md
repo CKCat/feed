@@ -27,8 +27,8 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections) to [crazyguitar/cuCollections](https://github.com/crazyguitar/cuCollections)
 
 ### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [theseus-rs/postgresql-binaries](https://github.com/theseus-rs/postgresql-binaries)
-  > PostgreSQL binaries for Linux, MacOS and Windows
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
+  > A high performance rust-powered UI layout library
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewmd5/cyaml](https://github.com/andrewmd5/cyaml)
@@ -56,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-12-24 09:21:37 UTC*
+*最后更新于 2025-12-24 10:19:01 UTC*
 *历史记录保存在 `archive` 目录中。*
