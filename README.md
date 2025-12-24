@@ -4,6 +4,22 @@
 
 ## 今日动态
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [airbnb/lottie-android](https://github.com/airbnb/lottie-android)
+  > Render After Effects animations natively on Android and iOS, Web, and React Native
+
+### [baikaishiuc](https://github.com/baikaishiuc)
+- 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [KhronosGroup/VK-GL-CTS](https://github.com/KhronosGroup/VK-GL-CTS) to [baikaishiuc/VK-GL-CTS](https://github.com/baikaishiuc/VK-GL-CTS)
+  > Khronos Vulkan, OpenGL, and OpenGL ES Conformance Tests
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewmd5/cyaml](https://github.com/andrewmd5/cyaml)
+  > Ultralightweight YAML parser & emitter in C11
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [owtaylor/toolbox-vscode](https://github.com/owtaylor/toolbox-vscode)
+  > Toolbox Visual Studio Code integration
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesaccoia/VoiceStreamAI](https://github.com/alesaccoia/VoiceStreamAI)
   > Near-Realtime audio transcription using self-hosted Whisper and WebSocket in Python/JS
@@ -20,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-12-24 01:21:20 UTC*
+*最后更新于 2025-12-24 03:21:27 UTC*
 *历史记录保存在 `archive` 目录中。*
