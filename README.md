@@ -7,6 +7,8 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zhuhuibeishadiao/PFHook](https://github.com/zhuhuibeishadiao/PFHook)
   > Page fault hook use ept (Intel Virtualization Technology)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [jonomango/hv](https://github.com/jonomango/hv)
+  > Lightweight Intel VT-x Hypervisor.
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [airbnb/lottie-android](https://github.com/airbnb/lottie-android)
@@ -50,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-12-24 06:28:54 UTC*
+*最后更新于 2025-12-24 07:21:11 UTC*
 *历史记录保存在 `archive` 目录中。*
