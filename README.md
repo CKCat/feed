@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Kr328](https://github.com/Kr328)
+- 🍴 👤 [Kr328](https://github.com/Kr328) Forked [launchbadge/sqlx](https://github.com/launchbadge/sqlx) to [Kr328/sqlx](https://github.com/Kr328/sqlx)
+  > 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without...
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zhuhuibeishadiao/PFHook](https://github.com/zhuhuibeishadiao/PFHook)
   > Page fault hook use ept (Intel Virtualization Technology)
@@ -29,6 +33,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
   > A high performance rust-powered UI layout library
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lapce/floem](https://github.com/lapce/floem)
+  > A native Rust UI library with fine-grained reactivity
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewmd5/cyaml](https://github.com/andrewmd5/cyaml)
@@ -56,5 +62,5 @@
 
 
 ---
-*最后更新于 2025-12-24 10:19:01 UTC*
+*最后更新于 2025-12-24 11:16:13 UTC*
 *历史记录保存在 `archive` 目录中。*
