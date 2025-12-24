@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zhuhuibeishadiao/PFHook](https://github.com/zhuhuibeishadiao/PFHook)
+  > Page fault hook use ept (Intel Virtualization Technology)
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [airbnb/lottie-android](https://github.com/airbnb/lottie-android)
   > Render After Effects animations natively on Android and iOS, Web, and React Native
@@ -15,6 +19,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections) to [crazyguitar/cuCollections](https://github.com/crazyguitar/cuCollections)
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [theseus-rs/postgresql-binaries](https://github.com/theseus-rs/postgresql-binaries)
+  > PostgreSQL binaries for Linux, MacOS and Windows
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewmd5/cyaml](https://github.com/andrewmd5/cyaml)
@@ -42,5 +50,5 @@
 
 
 ---
-*最后更新于 2025-12-24 05:21:27 UTC*
+*最后更新于 2025-12-24 06:28:54 UTC*
 *历史记录保存在 `archive` 目录中。*
