@@ -35,6 +35,10 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Groupguanfang/music-list-downloader](https://github.com/Groupguanfang/music-list-downloader)
   > 🎵 网易云音乐mp3下崽器 - 输入歌单id，下载到哪，直接出mp3～
 
+### [maiyao1988](https://github.com/maiyao1988)
+- 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
+  > 📚 从零开始的大语言模型原理与实践教程
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use)
   > AI computer use powered by open source LLMs and E2B Desktop Sandbox
@@ -46,6 +50,8 @@
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)
   > Find out what takes most of the space in your executable.
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [google/bloaty](https://github.com/google/bloaty)
+  > Bloaty: a size profiler for binaries
 
 ### [tiann](https://github.com/tiann)
 - 🍴 👤 [tiann](https://github.com/tiann) Forked [coder/ghostty-web](https://github.com/coder/ghostty-web) to [tiann/ghostty-web](https://github.com/tiann/ghostty-web)
@@ -61,5 +67,5 @@
 
 
 ---
-*最后更新于 2025-12-25 14:17:07 UTC*
+*最后更新于 2025-12-25 15:17:37 UTC*
 *历史记录保存在 `archive` 目录中。*
