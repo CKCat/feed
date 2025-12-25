@@ -18,6 +18,9 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Turbo1123/roubao](https://github.com/Turbo1123/roubao)
   > Android Automation Tool Based on Vision-Language Models
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [google/tcmalloc](https://github.com/google/tcmalloc)
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [HanSoBored/Zygisk-Loader](https://github.com/HanSoBored/Zygisk-Loader)
   > A dynamic, Rust-based Zygisk module for hot-swapping native libraries into Android applications with...
@@ -48,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-12-25 09:20:09 UTC*
+*最后更新于 2025-12-25 10:19:08 UTC*
 *历史记录保存在 `archive` 目录中。*
