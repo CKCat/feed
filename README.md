@@ -20,6 +20,8 @@
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [google/tcmalloc](https://github.com/google/tcmalloc)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid)
+  > Build android apps without any java, entirely in C and Make
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [HanSoBored/Zygisk-Loader](https://github.com/HanSoBored/Zygisk-Loader)
@@ -41,6 +43,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms)
   > Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)
+  > Find out what takes most of the space in your executable.
+
 ### [tiann](https://github.com/tiann)
 - 🍴 👤 [tiann](https://github.com/tiann) Forked [coder/ghostty-web](https://github.com/coder/ghostty-web) to [tiann/ghostty-web](https://github.com/tiann/ghostty-web)
   > Ghostty for the web with xterm.js API compatibility
@@ -55,5 +61,5 @@
 
 
 ---
-*最后更新于 2025-12-25 13:29:53 UTC*
+*最后更新于 2025-12-25 14:17:07 UTC*
 *历史记录保存在 `archive` 目录中。*
