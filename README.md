@@ -41,6 +41,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) to [crazyguitar/codeforces-go](https://github.com/crazyguitar/codeforces-go)
   > 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
 
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way)
+  > Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streami...
+
 ### [maiyao1988](https://github.com/maiyao1988)
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-12-25 18:25:25 UTC*
+*最后更新于 2025-12-25 19:13:50 UTC*
 *历史记录保存在 `archive` 目录中。*
