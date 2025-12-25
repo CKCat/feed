@@ -12,6 +12,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [HanSoBored/Zygisk-Loader](https://github.com/HanSoBored/Zygisk-Loader)
   > A dynamic, Rust-based Zygisk module for hot-swapping native libraries into Android applications with...
 
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl)
+  > Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use)
   > AI computer use powered by open source LLMs and E2B Desktop Sandbox
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2025-12-25 05:21:11 UTC*
+*最后更新于 2025-12-25 06:28:32 UTC*
 *历史记录保存在 `archive` 目录中。*
