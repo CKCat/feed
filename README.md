@@ -25,6 +25,10 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl)
   > Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪...
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [0xHJK/music-dl](https://github.com/0xHJK/music-dl)
+  > search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Groupguanfang/music-list-downloader](https://github.com/Groupguanfang/music-list-downloader)
+  > 🎵 网易云音乐mp3下崽器 - 输入歌单id，下载到哪，直接出mp3～
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use)
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2025-12-25 08:24:20 UTC*
+*最后更新于 2025-12-25 09:20:09 UTC*
 *历史记录保存在 `archive` 目录中。*
