@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [BryanGIG](https://github.com/BryanGIG)
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [HanSoBored/Zygisk-Loader](https://github.com/HanSoBored/Zygisk-Loader)
+  > A dynamic, Rust-based Zygisk module for hot-swapping native libraries into Android applications with...
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Tencent/soter](https://github.com/Tencent/soter)
+  > A secure and quick biometric authentication standard and platform in Android held by Tencent.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook)
   > An universal Dear ImGui Hook for Directx12, 11, 10, 9 and Vulkan
@@ -22,6 +30,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use)
   > AI computer use powered by open source LLMs and E2B Desktop Sandbox
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms)
+  > Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor)
   > 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweigh...
@@ -32,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-12-25 07:19:41 UTC*
+*最后更新于 2025-12-25 08:24:20 UTC*
 *历史记录保存在 `archive` 目录中。*
