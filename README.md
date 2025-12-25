@@ -35,6 +35,12 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Groupguanfang/music-list-downloader](https://github.com/Groupguanfang/music-list-downloader)
   > 🎵 网易云音乐mp3下崽器 - 输入歌单id，下载到哪，直接出mp3～
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go)
+  > 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) to [crazyguitar/codeforces-go](https://github.com/crazyguitar/codeforces-go)
+  > 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+
 ### [maiyao1988](https://github.com/maiyao1988)
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
@@ -53,6 +59,10 @@
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [google/bloaty](https://github.com/google/bloaty)
   > Bloaty: a size profiler for binaries
 
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [alperakcan/fuse-ext2](https://github.com/alperakcan/fuse-ext2) to [smx-smx/fuse-ext2](https://github.com/smx-smx/fuse-ext2)
+  > Fuse-ext2 is a multi OS FUSE module to mount ext2, ext3 and ext4 file system devices and/or images w...
+
 ### [tiann](https://github.com/tiann)
 - 🍴 👤 [tiann](https://github.com/tiann) Forked [coder/ghostty-web](https://github.com/coder/ghostty-web) to [tiann/ghostty-web](https://github.com/tiann/ghostty-web)
   > Ghostty for the web with xterm.js API compatibility
@@ -67,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-12-25 16:21:34 UTC*
+*最后更新于 2025-12-25 17:15:39 UTC*
 *历史记录保存在 `archive` 目录中。*
