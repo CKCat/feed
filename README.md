@@ -25,6 +25,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [BeratARPA/HTML-Thermal-Printer](https://github.com/BeratARPA/HTML-Thermal-Printer)
   > A WPF application that allows direct printing of HTML content to Windows printers with custom format...
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
   > Public repository of the Micro QuickJS Javascript Engine
@@ -45,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-12-26 11:16:03 UTC*
+*最后更新于 2025-12-26 12:36:17 UTC*
 *历史记录保存在 `archive` 目录中。*
