@@ -18,7 +18,11 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [bellard/mquickjs](https://github.com/bellard/mquickjs) to [crazyguitar/mquickjs](https://github.com/crazyguitar/mquickjs)
   > Public repository of the Micro QuickJS Javascript Engine
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
+  > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
+
 
 ---
-*最后更新于 2025-12-26 06:28:09 UTC*
+*最后更新于 2025-12-26 07:19:23 UTC*
 *历史记录保存在 `archive` 目录中。*
