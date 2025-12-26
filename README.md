@@ -67,6 +67,20 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VectifyAI/ChatIndex](https://github.com/VectifyAI/ChatIndex)
   > Tree Indexing for Long Conversations
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/slb](https://github.com/Dicklesworthstone/slb)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steveyegge/vc](https://github.com/steveyegge/vc)
+  > VC - AI-orchestrated coding agent colony
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joelreymont/dots](https://github.com/joelreymont/dots)
+  > Connect the dots - minimal task tracker in Zig
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > Claude Code superpowers: core skills library
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [obra/packnplay](https://github.com/obra/packnplay)
+  > Sandboxed execution of commands in Docker containers with automated worktree and dev container manag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Martian-Engineering/claude-team](https://github.com/Martian-Engineering/claude-team)
+  > MCP server for orchestrating multiple Claude Code sessions via iTerm2
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy)
+  > Claude Code to OpenAI API Proxy
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot)
@@ -87,5 +101,5 @@
 
 
 ---
-*最后更新于 2025-12-26 22:17:04 UTC*
+*最后更新于 2025-12-26 23:16:40 UTC*
 *历史记录保存在 `archive` 目录中。*
