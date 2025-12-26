@@ -63,6 +63,11 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
   > Public repository of the Micro QuickJS Javascript Engine
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VectifyAI/ChatIndex](https://github.com/VectifyAI/ChatIndex)
+  > Tree Indexing for Long Conversations
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot)
   > Automatically create and renew website certificates for free using the Let's Encrypt certificate aut...
@@ -82,5 +87,5 @@
 
 
 ---
-*最后更新于 2025-12-26 19:13:44 UTC*
+*最后更新于 2025-12-26 20:18:55 UTC*
 *历史记录保存在 `archive` 目录中。*
