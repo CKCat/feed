@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer)
   > A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs...
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [cumaRull/Apk-Editor](https://github.com/cumaRull/Apk-Editor)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [tobyxdd/android-ota-payload-extractor](https://github.com/tobyxdd/android-ota-payload-extractor)
+  > A fast & natively cross-platform Android OTA payload extractor written in Go
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [dineshshetty/FridaLoader](https://github.com/dineshshetty/FridaLoader)
+  > A quick and dirty app to download and launch Frida on Genymotion and rooted Physical Android Devices
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [radareorg/r2hermes](https://github.com/radareorg/r2hermes)
@@ -41,5 +45,5 @@
 
 
 ---
-*最后更新于 2025-12-26 10:18:59 UTC*
+*最后更新于 2025-12-26 11:16:03 UTC*
 *历史记录保存在 `archive` 目录中。*
