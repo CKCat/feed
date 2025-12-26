@@ -13,6 +13,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [dineshshetty/FridaLoader](https://github.com/dineshshetty/FridaLoader)
   > A quick and dirty app to download and launch Frida on Genymotion and rooted Physical Android Devices
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [kframework/X86-64-semantics](https://github.com/kframework/X86-64-semantics)
+  > Semantics of x86-64 in K
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [radareorg/r2hermes](https://github.com/radareorg/r2hermes)
   > React Native VM (Hermes Bytecode Library) in C
@@ -64,7 +68,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party)
   > :electron: Another Mihomo GUI. 
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [CodeWorksCreativeHub/mLauncher](https://github.com/CodeWorksCreativeHub/mLauncher)
+  > Minimal Launcher app for Android. Customized olauncher as I just started learning kotlin . 
+
 
 ---
-*最后更新于 2025-12-26 15:18:03 UTC*
+*最后更新于 2025-12-26 16:20:30 UTC*
 *历史记录保存在 `archive` 目录中。*
