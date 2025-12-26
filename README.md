@@ -55,9 +55,17 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
   > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [C7-Game/Prototype](https://github.com/C7-Game/Prototype)
+  > OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by t...
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
   > Public repository of the Micro QuickJS Javascript Engine
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot)
+  > Automatically create and renew website certificates for free using the Let's Encrypt certificate aut...
 
 ### [waruqi](https://github.com/waruqi)
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [waruqi/llvm-project](https://github.com/waruqi/llvm-project)
@@ -74,5 +82,5 @@
 
 
 ---
-*最后更新于 2025-12-26 18:25:19 UTC*
+*最后更新于 2025-12-26 19:13:44 UTC*
 *历史记录保存在 `archive` 目录中。*
