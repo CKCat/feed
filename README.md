@@ -47,7 +47,16 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
   > Public repository of the Micro QuickJS Javascript Engine
 
+### [waruqi](https://github.com/waruqi)
+- 🍴 👤 [waruqi](https://github.com/waruqi) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [waruqi/llvm-project](https://github.com/waruqi/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party)
+  > :electron: Another Mihomo GUI. 
+
 
 ---
-*最后更新于 2025-12-26 13:30:15 UTC*
+*最后更新于 2025-12-26 14:17:24 UTC*
 *历史记录保存在 `archive` 目录中。*
