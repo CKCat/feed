@@ -17,6 +17,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [radareorg/r2hermes](https://github.com/radareorg/r2hermes)
   > React Native VM (Hermes Bytecode Library) in C
 
+### [PShocker](https://github.com/PShocker)
+- 🌟 👤 [PShocker](https://github.com/PShocker) Starred [wuzekang/match-template](https://github.com/wuzekang/match-template)
+  > A Figma plugin for template matching that automatically aligns material images to match template pos...
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
   > A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -28,6 +32,10 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [azwhikaru/TiebaLite](https://github.com/azwhikaru/TiebaLite)
+  > 贴吧 Lite
 
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
@@ -58,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-12-26 14:17:24 UTC*
+*最后更新于 2025-12-26 15:18:03 UTC*
 *历史记录保存在 `archive` 目录中。*
