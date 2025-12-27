@@ -8,6 +8,12 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sparsemat/sprs](https://github.com/sparsemat/sprs)
   > sparse linear algebra library for rust
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [GIBEREZ/Qt-NCNN-ByteTrack](https://github.com/GIBEREZ/Qt-NCNN-ByteTrack)
+  > 使用NCNN推理框架和ByteTrack目标跟踪框架，对网络、文件流URL进行实时性视频推理，而UI界面则由Qt框架实现
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [FoundationVision/ByteTrack](https://github.com/FoundationVision/ByteTrack)
+  > [ECCV 2022] ByteTrack: Multi-Object Tracking by Associating Every Detection Box
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
   > #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with p...
@@ -36,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-27 09:17:44 UTC*
+*最后更新于 2025-12-27 10:17:30 UTC*
 *历史记录保存在 `archive` 目录中。*
