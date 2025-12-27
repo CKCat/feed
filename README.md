@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [BryanGIG](https://github.com/BryanGIG)
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [fuqiuluo/android-wuwa](https://github.com/fuqiuluo/android-wuwa)
+  > Android aarch64 kernel rootkit(driver module)
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sparsemat/sprs](https://github.com/sparsemat/sprs)
   > sparse linear algebra library for rust
@@ -65,5 +69,5 @@
 
 
 ---
-*最后更新于 2025-12-27 18:24:10 UTC*
+*最后更新于 2025-12-27 19:13:13 UTC*
 *历史记录保存在 `archive` 目录中。*
