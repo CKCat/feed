@@ -13,6 +13,8 @@
   > sparse linear algebra library for rust
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [pkhuong/cholesky-is-magic](https://github.com/pkhuong/cholesky-is-magic)
   > Toy interior point method
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sdiehl/groebner](https://github.com/sdiehl/groebner)
+  > Faugère's F4 algorithm for computing Gröbner basis for systems of multivariate polynomials
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [GIBEREZ/Qt-NCNN-ByteTrack](https://github.com/GIBEREZ/Qt-NCNN-ByteTrack)
@@ -71,5 +73,5 @@
 
 
 ---
-*最后更新于 2025-12-27 21:14:57 UTC*
+*最后更新于 2025-12-27 22:16:12 UTC*
 *历史记录保存在 `archive` 目录中。*
