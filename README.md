@@ -26,6 +26,10 @@
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [openai/openai-agents-python](https://github.com/openai/openai-agents-python) to [Mufanc/openai-agents-python](https://github.com/Mufanc/openai-agents-python)
   > A lightweight, powerful framework for multi-agent workflows
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [face0xff/kindle-audible-exploit-chain](https://github.com/face0xff/kindle-audible-exploit-chain)
+  > Exploit for an Audible vulnerability chain targeting Kindle < 5.18.1
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile)
   > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
@@ -73,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-12-27 22:16:12 UTC*
+*最后更新于 2025-12-27 23:16:34 UTC*
 *历史记录保存在 `archive` 目录中。*
