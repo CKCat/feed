@@ -14,12 +14,18 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [FoundationVision/ByteTrack](https://github.com/FoundationVision/ByteTrack)
   > [ECCV 2022] ByteTrack: Multi-Object Tracking by Associating Every Detection Box
 
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [openai/openai-agents-python](https://github.com/openai/openai-agents-python) to [Mufanc/openai-agents-python](https://github.com/Mufanc/openai-agents-python)
+  > A lightweight, powerful framework for multi-agent workflows
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
   > #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with p...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth)
   > Gemini auth plugin for opencode
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [DIlkhush00/neko](https://github.com/DIlkhush00/neko)
@@ -53,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-12-27 15:16:05 UTC*
+*最后更新于 2025-12-27 16:20:21 UTC*
 *历史记录保存在 `archive` 目录中。*
