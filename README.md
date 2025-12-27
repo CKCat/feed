@@ -33,6 +33,8 @@
   > An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rpgp/rpgp](https://github.com/rpgp/rpgp)
   > OpenPGP implemented in pure Rust, permissively licensed
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [badlogic/pi-mono](https://github.com/badlogic/pi-mono) to [mrexodia/pi-mono](https://github.com/mrexodia/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ruzin/stenoai](https://github.com/ruzin/stenoai)
@@ -47,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-12-27 12:33:58 UTC*
+*最后更新于 2025-12-27 13:25:59 UTC*
 *历史记录保存在 `archive` 目录中。*
