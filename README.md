@@ -15,6 +15,10 @@
   > Gemini auth plugin for opencode
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [DIlkhush00/neko](https://github.com/DIlkhush00/neko)
+  > A basic compiler from scratch
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steveyegge/vc](https://github.com/steveyegge/vc)
   > VC - AI-orchestrated coding agent colony
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-12-27 08:22:41 UTC*
+*最后更新于 2025-12-27 09:17:44 UTC*
 *历史记录保存在 `archive` 目录中。*
