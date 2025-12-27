@@ -43,11 +43,15 @@
 ### [smx-smx](https://github.com/smx-smx)
 - 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [divadiow/txw81xcam](https://github.com/divadiow/txw81xcam) to [smx-smx/txw81xcam](https://github.com/smx-smx/txw81xcam)
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+  > 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
   > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 
 ---
-*最后更新于 2025-12-27 14:15:58 UTC*
+*最后更新于 2025-12-27 15:16:05 UTC*
 *历史记录保存在 `archive` 目录中。*
