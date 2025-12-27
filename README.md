@@ -18,6 +18,10 @@
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [openai/openai-agents-python](https://github.com/openai/openai-agents-python) to [Mufanc/openai-agents-python](https://github.com/Mufanc/openai-agents-python)
   > A lightweight, powerful framework for multi-agent workflows
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile)
+  > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
   > #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with p...
@@ -61,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-12-27 17:14:50 UTC*
+*最后更新于 2025-12-27 18:24:10 UTC*
 *历史记录保存在 `archive` 目录中。*
