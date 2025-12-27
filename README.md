@@ -31,6 +31,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [blinkospace/blinko](https://github.com/blinkospace/blinko)
   > An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rpgp/rpgp](https://github.com/rpgp/rpgp)
+  > OpenPGP implemented in pure Rust, permissively licensed
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ruzin/stenoai](https://github.com/ruzin/stenoai)
@@ -45,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-12-27 11:14:00 UTC*
+*最后更新于 2025-12-27 12:33:58 UTC*
 *历史记录保存在 `archive` 目录中。*
