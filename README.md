@@ -11,6 +11,8 @@
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sparsemat/sprs](https://github.com/sparsemat/sprs)
   > sparse linear algebra library for rust
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [pkhuong/cholesky-is-magic](https://github.com/pkhuong/cholesky-is-magic)
+  > Toy interior point method
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [GIBEREZ/Qt-NCNN-ByteTrack](https://github.com/GIBEREZ/Qt-NCNN-ByteTrack)
@@ -69,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-12-27 20:19:00 UTC*
+*最后更新于 2025-12-27 21:14:57 UTC*
 *历史记录保存在 `archive` 目录中。*
