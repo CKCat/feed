@@ -8,9 +8,20 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sparsemat/sprs](https://github.com/sparsemat/sprs)
   > sparse linear algebra library for rust
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+  > #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with p...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth)
+  > Gemini auth plugin for opencode
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steveyegge/vc](https://github.com/steveyegge/vc)
   > VC - AI-orchestrated coding agent colony
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ruzin/stenoai](https://github.com/ruzin/stenoai)
+  > Privacy focused AI meeting transcription and summarization using locally hosted Small Language Model...
 
 ### [smx-smx](https://github.com/smx-smx)
 - 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [divadiow/txw81xcam](https://github.com/divadiow/txw81xcam) to [smx-smx/txw81xcam](https://github.com/smx-smx/txw81xcam)
@@ -21,5 +32,5 @@
 
 
 ---
-*最后更新于 2025-12-27 05:18:34 UTC*
+*最后更新于 2025-12-27 06:26:48 UTC*
 *历史记录保存在 `archive` 目录中。*
