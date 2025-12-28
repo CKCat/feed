@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ankitects/anki](https://github.com/ankitects/anki)
+  > Anki is a smart spaced repetition flashcard program
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/Lab2QRCode-HttpService-nodejs](https://github.com/Mq-b/Lab2QRCode-HttpService-nodejs)
 
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-12-28 11:14:20 UTC*
+*最后更新于 2025-12-28 12:34:40 UTC*
 *历史记录保存在 `archive` 目录中。*
