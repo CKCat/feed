@@ -15,11 +15,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeldaret/tp](https://github.com/zeldaret/tp)
   > Decompilation of The Legend of Zelda: Twilight Princess
 
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [Leask/Tabminal](https://github.com/Leask/Tabminal)
-  > Tab(ter)minal, the Cloud-Native, Proactive AI Integrated Terminal works in modern browsers.
-
 
 ---
-*最后更新于 2025-12-28 05:21:02 UTC*
+*最后更新于 2025-12-28 06:27:03 UTC*
 *历史记录保存在 `archive` 目录中。*
