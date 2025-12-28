@@ -19,6 +19,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
   > 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [FreezB11/thread_scheduler](https://github.com/FreezB11/thread_scheduler)
+  > A thread Scheduler
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xdslproject/xdsl](https://github.com/xdslproject/xdsl)
   > A Python compiler design toolkit.
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-12-28 20:19:18 UTC*
+*最后更新于 2025-12-28 21:16:04 UTC*
 *历史记录保存在 `archive` 目录中。*
