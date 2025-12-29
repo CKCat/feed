@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
+  > Android in docker solution with noVNC supported and video recording
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
   > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
@@ -18,5 +22,5 @@
 
 
 ---
-*最后更新于 2025-12-29 03:46:07 UTC*
+*最后更新于 2025-12-29 04:45:41 UTC*
 *历史记录保存在 `archive` 目录中。*
