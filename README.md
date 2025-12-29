@@ -65,6 +65,8 @@
   > Platform for hosting and sharing terminal session recordings
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-rewind-hook](https://github.com/nicobailon/pi-rewind-hook)
   > Pi agent hook for rewinding file changes during coding sessions
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+  > "DeepTutor: AI-Powered Personalized Learning Assistant"
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [halloweeks/pubg-unpacker](https://github.com/halloweeks/pubg-unpacker)
@@ -85,6 +87,8 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [WinMin/ida-pro-mcp](https://github.com/WinMin/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools)
+  > A small set of tools to convert packets from capture files to hash files for use with Hashcat or Joh...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [klsecservices/CPLDCOMTrigger](https://github.com/klsecservices/CPLDCOMTrigger)
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2025-12-29 18:26:35 UTC*
+*最后更新于 2025-12-29 19:14:14 UTC*
 *历史记录保存在 `archive` 目录中。*
