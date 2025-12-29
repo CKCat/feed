@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [CalebFenton/simplify](https://github.com/CalebFenton/simplify)
+  > Android virtual machine and deobfuscator
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
   > A Swiss Army knife for developers.
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-12-29 10:20:20 UTC*
+*最后更新于 2025-12-29 11:16:18 UTC*
 *历史记录保存在 `archive` 目录中。*
