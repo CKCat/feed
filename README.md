@@ -18,6 +18,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
   > Android in docker solution with noVNC supported and video recording
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [angr/angr](https://github.com/angr/angr)
+  > A powerful and user-friendly binary analysis platform!
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [neodyme-labs/hyperhook](https://github.com/neodyme-labs/hyperhook)
   > Cross-platform harnessing framework designed for Nyx-based fuzzers
@@ -59,6 +63,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [R44VC0RP/OpenCode-Island](https://github.com/R44VC0RP/OpenCode-Island)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server)
   > Platform for hosting and sharing terminal session recordings
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-rewind-hook](https://github.com/nicobailon/pi-rewind-hook)
+  > Pi agent hook for rewinding file changes during coding sessions
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [halloweeks/pubg-unpacker](https://github.com/halloweeks/pubg-unpacker)
@@ -88,5 +94,5 @@
 
 
 ---
-*最后更新于 2025-12-29 16:21:53 UTC*
+*最后更新于 2025-12-29 17:16:04 UTC*
 *历史记录保存在 `archive` 目录中。*
