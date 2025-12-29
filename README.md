@@ -19,6 +19,12 @@
   > Custom Agent and Tooling for using Nyx with Firefox
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [n4sm/vbox_fuzzing](https://github.com/n4sm/vbox_fuzzing)
   > VirtualBox fuzzer based on kAFL/nyx, not meant to work out of the box. It is mainly the material of ...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nix-community/nh](https://github.com/nix-community/nh)
+  > Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [QBDI/QBDI](https://github.com/QBDI/QBDI)
+  > A Dynamic Binary Instrumentation framework based on LLVM.
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
@@ -52,5 +58,5 @@
 
 
 ---
-*最后更新于 2025-12-29 08:27:37 UTC*
+*最后更新于 2025-12-29 09:27:31 UTC*
 *历史记录保存在 `archive` 目录中。*
