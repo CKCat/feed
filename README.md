@@ -62,7 +62,13 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [WinMin/ida-pro-mcp](https://github.com/WinMin/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [klsecservices/CPLDCOMTrigger](https://github.com/klsecservices/CPLDCOMTrigger)
+
+### [ys1231](https://github.com/ys1231)
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest) to [ys1231/kernel_manifest](https://github.com/ys1231/kernel_manifest)
+
 
 ---
-*最后更新于 2025-12-29 11:16:18 UTC*
+*最后更新于 2025-12-29 12:38:56 UTC*
 *历史记录保存在 `archive` 目录中。*
