@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
+  > A Swiss Army knife for developers.
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
   > Android in docker solution with noVNC supported and video recording
@@ -11,6 +15,10 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [neodyme-labs/hyperhook](https://github.com/neodyme-labs/hyperhook)
   > Cross-platform harnessing framework designed for Nyx-based fuzzers
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [MozillaSecurity/snapshot-fuzzing](https://github.com/MozillaSecurity/snapshot-fuzzing)
+  > Custom Agent and Tooling for using Nyx with Firefox
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [n4sm/vbox_fuzzing](https://github.com/n4sm/vbox_fuzzing)
+  > VirtualBox fuzzer based on kAFL/nyx, not meant to work out of the box. It is mainly the material of ...
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
@@ -35,8 +43,14 @@
   > This is a guide to creating an ESP for any unity game.
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [rui314/mold](https://github.com/rui314/mold)
   > mold: A Modern Linker 🦠
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [davefiorino/ipatoolUI](https://github.com/davefiorino/ipatoolUI)
+  > A macOS GUI for ipatool
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [WinMin/ida-pro-mcp](https://github.com/WinMin/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 
 ---
-*最后更新于 2025-12-29 07:23:22 UTC*
+*最后更新于 2025-12-29 08:27:37 UTC*
 *历史记录保存在 `archive` 目录中。*
