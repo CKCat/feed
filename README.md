@@ -20,7 +20,19 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)
   > Train your own speech AI model from scratch
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [halloweeks/pubg-unpacker](https://github.com/halloweeks/pubg-unpacker)
+  > This C program serves as a PUBG pak extracting tool, designed to extract contents from PUBG pak file...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
+  > Large text file viewer to handle > 10GB text file reading, purely written in Rust
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [niqiuqiux/Nornir-Rootkit](https://github.com/niqiuqiux/Nornir-Rootkit)
+  > Yet another modern Linux kernel rootkit for educational purposes.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ethanedits/Universal-Unity-ESP](https://github.com/ethanedits/Universal-Unity-ESP)
+  > This is a guide to creating an ESP for any unity game.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [rui314/mold](https://github.com/rui314/mold)
+  > mold: A Modern Linker 🦠
+
 
 ---
-*最后更新于 2025-12-29 05:26:07 UTC*
+*最后更新于 2025-12-29 06:30:39 UTC*
 *历史记录保存在 `archive` 目录中。*
