@@ -37,6 +37,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)
   > Train your own speech AI model from scratch
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/oracle](https://github.com/steipete/oracle)
+  > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [halloweeks/pubg-unpacker](https://github.com/halloweeks/pubg-unpacker)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2025-12-29 09:27:31 UTC*
+*最后更新于 2025-12-29 10:20:20 UTC*
 *历史记录保存在 `archive` 目录中。*
