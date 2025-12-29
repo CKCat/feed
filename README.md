@@ -40,6 +40,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
   > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AngryUEFI/AngryUEFI](https://github.com/AngryUEFI/AngryUEFI)
+  > Microcode testing from UEFI 
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [djibydiop/llm-baremetal](https://github.com/djibydiop/llm-baremetal)
 
@@ -98,5 +102,5 @@
 
 
 ---
-*最后更新于 2025-12-29 19:14:14 UTC*
+*最后更新于 2025-12-29 20:20:30 UTC*
 *历史记录保存在 `archive` 目录中。*
