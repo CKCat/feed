@@ -66,6 +66,8 @@
   > mold: A Modern Linker 🦠
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [davefiorino/ipatoolUI](https://github.com/davefiorino/ipatoolUI)
   > A macOS GUI for ipatool
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jonasmr/demote_tracker](https://github.com/jonasmr/demote_tracker)
+  > demote_tracker is a commandline utility to visualize demoted graphics card memory
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [WinMin/ida-pro-mcp](https://github.com/WinMin/ida-pro-mcp)
@@ -79,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-12-29 13:34:59 UTC*
+*最后更新于 2025-12-29 14:18:47 UTC*
 *历史记录保存在 `archive` 目录中。*
