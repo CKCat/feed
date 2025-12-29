@@ -8,6 +8,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
   > Android in docker solution with noVNC supported and video recording
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [neodyme-labs/hyperhook](https://github.com/neodyme-labs/hyperhook)
+  > Cross-platform harnessing framework designed for Nyx-based fuzzers
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
   > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
@@ -34,5 +38,5 @@
 
 
 ---
-*最后更新于 2025-12-29 06:30:39 UTC*
+*最后更新于 2025-12-29 07:23:22 UTC*
 *历史记录保存在 `archive` 目录中。*
