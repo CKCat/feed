@@ -52,6 +52,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nathanodle/claude-telepresence](https://github.com/nathanodle/claude-telepresence)
   > A telepresence system for Claude Code that allows Claude to be accessed from any system with a C89 c...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [R44VC0RP/OpenCode-Island](https://github.com/R44VC0RP/OpenCode-Island)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server)
+  > Platform for hosting and sharing terminal session recordings
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [halloweeks/pubg-unpacker](https://github.com/halloweeks/pubg-unpacker)
@@ -81,5 +83,5 @@
 
 
 ---
-*最后更新于 2025-12-29 14:18:47 UTC*
+*最后更新于 2025-12-29 15:19:05 UTC*
 *历史记录保存在 `archive` 目录中。*
