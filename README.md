@@ -11,6 +11,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
   > A Swiss Army knife for developers.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ArcCherry/SeekStar](https://github.com/ArcCherry/SeekStar)
+  > 寻星SeekStar-互联网探索引擎 寻星 是一种面向未来的浏览器 / 搜索引擎形态构想。通过AI驱动的3D 语义望远镜：把互联网万物折叠成可漫游的星空。输入关键词 → 进入三维语义空间 → 调焦、闲...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
@@ -33,6 +35,9 @@
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
   > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [djibydiop/llm-baremetal](https://github.com/djibydiop/llm-baremetal)
 
 ### [evilpan](https://github.com/evilpan)
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
@@ -83,5 +88,5 @@
 
 
 ---
-*最后更新于 2025-12-29 15:19:05 UTC*
+*最后更新于 2025-12-29 16:21:53 UTC*
 *历史记录保存在 `archive` 目录中。*
