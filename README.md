@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yhy0/init-skills](https://github.com/yhy0/init-skills)
+  > 为当前项目生成项目级 Claude Code skills，防止后续修改时重复实现、风格不一致。
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [luoyesiqiu/Zygisk-Il2CppDumper](https://github.com/luoyesiqiu/Zygisk-Il2CppDumper)
+  > Using Zygisk to dump il2cpp data at runtime
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [cppfastio/fast_io](https://github.com/cppfastio/fast_io)
   > Freestanding fast input/output for C++20
@@ -14,7 +20,17 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [antvis/Infographic](https://github.com/antvis/Infographic)
   > 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 
+### [tiann](https://github.com/tiann)
+- 🍴 👤 [tiann](https://github.com/tiann) Forked [openai/codex](https://github.com/openai/codex) to [tiann/codex](https://github.com/tiann/codex)
+  > Lightweight coding agent that runs in your terminal
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)
+  > Stack trace visualizer
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
+  > 🔬 A fast, interactive web-based viewer for performance profiles.
+
 
 ---
-*最后更新于 2025-12-30 01:22:44 UTC*
+*最后更新于 2025-12-30 03:25:09 UTC*
 *历史记录保存在 `archive` 目录中。*
