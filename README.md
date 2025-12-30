@@ -27,6 +27,10 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [xoreaxlmbdx/die-in-browser](https://github.com/xoreaxlmbdx/die-in-browser)
   > Static binary analysis with Detect It Easy — 100% in your browser, no uploads.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vtemian/micode](https://github.com/vtemian/micode)
+  > RPI OpenCode Plugin
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [cppfastio/fast_io](https://github.com/cppfastio/fast_io)
   > Freestanding fast input/output for C++20
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-12-30 09:22:20 UTC*
+*最后更新于 2025-12-30 10:19:48 UTC*
 *历史记录保存在 `archive` 目录中。*
