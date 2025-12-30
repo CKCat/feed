@@ -78,7 +78,7 @@
 - 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/year-progress-glm](https://github.com/mrexodia/year-progress-glm) public
   > [Experiment] Year progress (GLM 4.7).
 - 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/year-progress-gemini](https://github.com/mrexodia/year-progress-gemini) public
-  > Year progress (Gemini 2.5 Pro).
+  > [Experiment] Year progress (Gemini 2.5 Pro).
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [cppfastio/fast_io](https://github.com/cppfastio/fast_io)
@@ -111,5 +111,5 @@
 
 
 ---
-*最后更新于 2025-12-30 22:17:12 UTC*
+*最后更新于 2025-12-30 23:16:06 UTC*
 *历史记录保存在 `archive` 目录中。*
