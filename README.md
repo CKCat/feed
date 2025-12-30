@@ -12,6 +12,12 @@
   > 为当前项目生成项目级 Claude Code skills，防止后续修改时重复实现、风格不一致。
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [luoyesiqiu/Zygisk-Il2CppDumper](https://github.com/luoyesiqiu/Zygisk-Il2CppDumper)
   > Using Zygisk to dump il2cpp data at runtime
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels)
+  > 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
+
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [xoreaxlmbdx/die-in-browser](https://github.com/xoreaxlmbdx/die-in-browser)
+  > Static binary analysis with Detect It Easy — 100% in your browser, no uploads.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [cppfastio/fast_io](https://github.com/cppfastio/fast_io)
@@ -35,5 +41,5 @@
 
 
 ---
-*最后更新于 2025-12-30 07:20:29 UTC*
+*最后更新于 2025-12-30 08:25:38 UTC*
 *历史记录保存在 `archive` 目录中。*
