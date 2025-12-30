@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [BryanGIG](https://github.com/BryanGIG)
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [AndroidCSOfficial/android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio)
+  > Android Code Studio is an IDE for Android to develop full featured Android apps.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [phoboslab/q1k3](https://github.com/phoboslab/q1k3)
   > A tiny FPS for js13k
@@ -88,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-12-30 15:18:44 UTC*
+*最后更新于 2025-12-30 16:23:18 UTC*
 *历史记录保存在 `archive` 目录中。*
