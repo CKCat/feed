@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [phoboslab/q1k3](https://github.com/phoboslab/q1k3)
+  > A tiny FPS for js13k
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem)
   > Differentiable Finite Element Method with JAX
@@ -30,6 +34,8 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
   > Public repository of the Micro QuickJS Javascript Engine
+- 🍴 👤 [evilbinary](https://github.com/evilbinary) Forked [bellard/mquickjs](https://github.com/bellard/mquickjs) to [evilbinary/mquickjs](https://github.com/evilbinary/mquickjs)
+  > Public repository of the Micro QuickJS Javascript Engine
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [louisnw01/lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
@@ -42,6 +48,10 @@
 ### [j-hc](https://github.com/j-hc)
 - 🌟 👤 [j-hc](https://github.com/j-hc) Starred [brunopinto900/attitude_control_reaction_wheels](https://github.com/brunopinto900/attitude_control_reaction_wheels)
   > Python simulation of CubeSat attitude control using pyramid-configured reaction wheels. Features qua...
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [doronz88/hilda](https://github.com/doronz88/hilda)
+  > LLDB wrapped and empowered by iPython's features
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vtemian/micode](https://github.com/vtemian/micode)
@@ -71,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-12-30 11:16:36 UTC*
+*最后更新于 2025-12-30 12:37:41 UTC*
 *历史记录保存在 `archive` 目录中。*
