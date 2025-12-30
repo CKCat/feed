@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem)
+  > Differentiable Finite Element Method with JAX
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [HexHive/beanpod_fiasco](https://github.com/HexHive/beanpod_fiasco)
 
@@ -14,6 +18,14 @@
   > Using Zygisk to dump il2cpp data at runtime
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels)
   > 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+  > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [showdo/AOSP-Testkey-BootSigner](https://github.com/showdo/AOSP-Testkey-BootSigner)
+  > Sign the boot image using the AOPS public test key
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
@@ -27,9 +39,15 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [xoreaxlmbdx/die-in-browser](https://github.com/xoreaxlmbdx/die-in-browser)
   > Static binary analysis with Detect It Easy — 100% in your browser, no uploads.
 
+### [j-hc](https://github.com/j-hc)
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [brunopinto900/attitude_control_reaction_wheels](https://github.com/brunopinto900/attitude_control_reaction_wheels)
+  > Python simulation of CubeSat attitude control using pyramid-configured reaction wheels. Features qua...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vtemian/micode](https://github.com/vtemian/micode)
   > RPI OpenCode Plugin
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HACKE-RC/Bandsox](https://github.com/HACKE-RC/Bandsox)
+  > Sanboxes for AI agents
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [cppfastio/fast_io](https://github.com/cppfastio/fast_io)
@@ -53,5 +71,5 @@
 
 
 ---
-*最后更新于 2025-12-30 10:19:48 UTC*
+*最后更新于 2025-12-30 11:16:36 UTC*
 *历史记录保存在 `archive` 目录中。*
