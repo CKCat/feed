@@ -44,6 +44,10 @@
 - 🍴 👤 [evilbinary](https://github.com/evilbinary) Forked [bellard/mquickjs](https://github.com/bellard/mquickjs) to [evilbinary/mquickjs](https://github.com/evilbinary/mquickjs)
   > Public repository of the Micro QuickJS Javascript Engine
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+  > Get 10X more out of Claude Code, Codex or any coding agent
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [louisnw01/lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
   > Python framework for TradingView's Lightweight Charts JavaScript library.
@@ -72,6 +76,11 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
   > Protocol Buffers - Google's data interchange format
 
+### [osm0sis](https://github.com/osm0sis)
+- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io)
+- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [VisionR1/KeyAttestation](https://github.com/VisionR1/KeyAttestation)
+  > This fork have all the feature from original (Thanks @vvb2060).  Plus, have extra features added by ...
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
   > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
@@ -92,5 +101,5 @@
 
 
 ---
-*最后更新于 2025-12-30 16:23:18 UTC*
+*最后更新于 2025-12-30 17:17:52 UTC*
 *历史记录保存在 `archive` 目录中。*
