@@ -15,6 +15,14 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels)
   > 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [bellard/mquickjs](https://github.com/bellard/mquickjs)
+  > Public repository of the Micro QuickJS Javascript Engine
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [louisnw01/lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
+  > Python framework for TradingView's Lightweight Charts JavaScript library.
+
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [xoreaxlmbdx/die-in-browser](https://github.com/xoreaxlmbdx/die-in-browser)
   > Static binary analysis with Detect It Easy — 100% in your browser, no uploads.
@@ -41,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-12-30 08:25:38 UTC*
+*最后更新于 2025-12-30 09:22:20 UTC*
 *历史记录保存在 `archive` 目录中。*
