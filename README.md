@@ -69,6 +69,8 @@
   > RPI OpenCode Plugin
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HACKE-RC/Bandsox](https://github.com/HACKE-RC/Bandsox)
   > Sanboxes for AI agents
+- 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/year-progress-claude](https://github.com/mrexodia/year-progress-claude) public
+  > [Experiment] Year progress (Claude Opus 4.5).
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [cppfastio/fast_io](https://github.com/cppfastio/fast_io)
@@ -101,5 +103,5 @@
 
 
 ---
-*最后更新于 2025-12-30 19:15:01 UTC*
+*最后更新于 2025-12-30 20:20:02 UTC*
 *历史记录保存在 `archive` 目录中。*
