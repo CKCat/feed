@@ -68,6 +68,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
   > Protocol Buffers - Google's data interchange format
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+  > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [antvis/Infographic](https://github.com/antvis/Infographic)
   > 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
@@ -84,5 +88,5 @@
 
 
 ---
-*最后更新于 2025-12-30 14:17:50 UTC*
+*最后更新于 2025-12-30 15:18:44 UTC*
 *历史记录保存在 `archive` 目录中。*
