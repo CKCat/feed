@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [MagicianGuo/Android-MediaProjectionDemo](https://github.com/MagicianGuo/Android-MediaProjectionDemo)
+  > 测试安卓投屏显示功能
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Ronokof/Full-Japanese-Study-Deck](https://github.com/Ronokof/Full-Japanese-Study-Deck)
   > Raw Anki notes and a notes build script for the Full Japanese Study Deck
@@ -47,5 +51,5 @@
 
 
 ---
-*最后更新于 2025-12-31 07:21:03 UTC*
+*最后更新于 2025-12-31 08:25:57 UTC*
 *历史记录保存在 `archive` 目录中。*
