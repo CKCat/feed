@@ -29,6 +29,9 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/clawdis](https://github.com/steipete/clawdis)
   > Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
@@ -52,6 +55,10 @@
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
   > RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% pri...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+  > Official Claude Code compound engineering plugin
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [liminalbardo/liminal_backrooms](https://github.com/liminalbardo/liminal_backrooms)
+  > A Python-based application that enables dynamic conversations between multiple AI models in a graphi...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [rmalmain/39C3-build-a-fake-phone-find-real-bugs](https://github.com/rmalmain/39C3-build-a-fake-phone-find-real-bugs)
@@ -59,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-12-31 11:16:33 UTC*
+*最后更新于 2025-12-31 12:36:40 UTC*
 *历史记录保存在 `archive` 目录中。*
