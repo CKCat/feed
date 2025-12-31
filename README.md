@@ -8,6 +8,10 @@
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [MagicianGuo/Android-MediaProjectionDemo](https://github.com/MagicianGuo/Android-MediaProjectionDemo)
   > 测试安卓投屏显示功能
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [bytedance/btrace](https://github.com/bytedance/btrace)
+  > 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Ronokof/Full-Japanese-Study-Deck](https://github.com/Ronokof/Full-Japanese-Study-Deck)
   > Raw Anki notes and a notes build script for the Full Japanese Study Deck
@@ -51,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-12-31 09:22:05 UTC*
+*最后更新于 2025-12-31 10:18:57 UTC*
 *历史记录保存在 `archive` 目录中。*
