@@ -17,6 +17,10 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim)
   > Seamless integration between Claude Code AI assistant and Neovim
 
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
+  > A headless, extendable, multi-session, IDA Pro MCP framework.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/clawdis](https://github.com/steipete/clawdis)
   > Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-12-31 06:28:36 UTC*
+*最后更新于 2025-12-31 07:21:03 UTC*
 *历史记录保存在 `archive` 目录中。*
