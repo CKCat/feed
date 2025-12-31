@@ -7,6 +7,11 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Ronokof/Full-Japanese-Study-Deck](https://github.com/Ronokof/Full-Japanese-Study-Deck)
   > Raw Anki notes and a notes build script for the Full Japanese Study Deck
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [libinjection/libinjection](https://github.com/libinjection/libinjection)
+  > SQL / SQLI tokenizer parser analyzer
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Litt1eQ/frida-mgr](https://github.com/Litt1eQ/frida-mgr)
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim)
@@ -38,5 +43,5 @@
 
 
 ---
-*最后更新于 2025-12-31 04:35:51 UTC*
+*最后更新于 2025-12-31 05:22:35 UTC*
 *历史记录保存在 `archive` 目录中。*
