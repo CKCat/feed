@@ -8,6 +8,12 @@
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [MagicianGuo/Android-MediaProjectionDemo](https://github.com/MagicianGuo/Android-MediaProjectionDemo)
   > 测试安卓投屏显示功能
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [thomwiggers/m4ri-rust](https://github.com/thomwiggers/m4ri-rust)
+  > M4RI Rust bindings
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [malb/m4ri](https://github.com/malb/m4ri)
+  > M4RI is a library for fast arithmetic with dense matrices over GF(2)
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [bytedance/btrace](https://github.com/bytedance/btrace)
   > 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not...
@@ -66,5 +72,5 @@
 
 
 ---
-*最后更新于 2025-12-31 14:17:48 UTC*
+*最后更新于 2025-12-31 15:17:56 UTC*
 *历史记录保存在 `archive` 目录中。*
