@@ -27,6 +27,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Litt1eQ/frida-mgr](https://github.com/Litt1eQ/frida-mgr)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)
+  > JSON formatter that produces highly readable but fairly compact output. 
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim)
   > Seamless integration between Claude Code AI assistant and Neovim
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2025-12-31 15:17:56 UTC*
+*最后更新于 2025-12-31 16:22:20 UTC*
 *历史记录保存在 `archive` 目录中。*
