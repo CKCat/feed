@@ -48,6 +48,10 @@
   > live transcription in Rust
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm)
   > QEMU on browser
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+  > RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% pri...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [rmalmain/39C3-build-a-fake-phone-find-real-bugs](https://github.com/rmalmain/39C3-build-a-fake-phone-find-real-bugs)
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-12-31 10:18:57 UTC*
+*最后更新于 2025-12-31 11:16:33 UTC*
 *历史记录保存在 `archive` 目录中。*
