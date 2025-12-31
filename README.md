@@ -69,6 +69,8 @@
   > Official Claude Code compound engineering plugin
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [liminalbardo/liminal_backrooms](https://github.com/liminalbardo/liminal_backrooms)
   > A Python-based application that enables dynamic conversations between multiple AI models in a graphi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > Plugin manager for pi — think oh-my-zsh, but for pi. Install themes, agents, commands, and tools wit...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [rmalmain/39C3-build-a-fake-phone-find-real-bugs](https://github.com/rmalmain/39C3-build-a-fake-phone-find-real-bugs)
@@ -79,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-12-31 21:16:01 UTC*
+*最后更新于 2025-12-31 22:17:52 UTC*
 *历史记录保存在 `archive` 目录中。*
