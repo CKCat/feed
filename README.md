@@ -13,6 +13,12 @@
   > A generic approach to easily create a fast and easy-to use protocol fuzzer for custom targets.
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [otsmr/profuzz](https://github.com/otsmr/profuzz) to [0xdea/profuzz](https://github.com/0xdea/profuzz)
   > A generic approach to easily create a fast and easy-to use protocol fuzzer for custom targets.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [SimaArasteh/binpool](https://github.com/SimaArasteh/binpool)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [SimaArasteh/binpool](https://github.com/SimaArasteh/binpool) to [0xdea/binpool](https://github.com/0xdea/binpool)
+
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [moyix/pdbparse](https://github.com/moyix/pdbparse) to [lallouslab/pdbparse-1](https://github.com/lallouslab/pdbparse-1)
+  > Python code to parse Microsoft PDB files
 
 ### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [ChickenHook/RestrictionBypass](https://github.com/ChickenHook/RestrictionBypass)
@@ -29,6 +35,16 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [casey/just](https://github.com/casey/just)
   > 🤖 Just a command runner
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [g2p/blocks](https://github.com/g2p/blocks) to [NyaMisty/blocks](https://github.com/NyaMisty/blocks)
+  > Enable bcache or LVM on existing block devices
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Capnjbrown/c0ntextKeeper](https://github.com/Capnjbrown/c0ntextKeeper)
+  > Automatic context preservation for Claude Code. Never lose work to compaction again. 7 hooks, 187 se...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [intercepted16/pymupdf4llm-C](https://github.com/intercepted16/pymupdf4llm-C)
+  > "Blazingly-fast" PDF extractor; a high quality 300 pages/s alternative to Markitdown, PyMUPDF4LLM & ...
 
 ### [RicterZ](https://github.com/RicterZ)
 - 🚀 👤 [RicterZ](https://github.com/RicterZ) Made [AetherSight/FFXIV_TexTools_Exporter](https://github.com/AetherSight/FFXIV_TexTools_Exporter) public
@@ -68,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-01-01 19:14:09 UTC*
+*最后更新于 2026-01-01 20:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
