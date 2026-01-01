@@ -18,10 +18,6 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server)
   > The backend of HTTP Toolkit
 
-### [can1357](https://github.com/can1357)
-- 🍴 👤 [can1357](https://github.com/can1357) Forked [badlogic/pi-mono](https://github.com/badlogic/pi-mono) to [can1357/pi-mono](https://github.com/can1357/pi-mono)
-  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [namuan/trading-utils](https://github.com/namuan/trading-utils)
   > Collection of scripts and utilities for stock market analysis, strategies etc
@@ -38,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-01-01 09:22:07 UTC*
+*最后更新于 2026-01-01 10:19:30 UTC*
 *历史记录保存在 `archive` 目录中。*
