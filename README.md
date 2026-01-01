@@ -24,6 +24,10 @@
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [ChickenHook/RestrictionBypass](https://github.com/ChickenHook/RestrictionBypass)
   > Android API restriction bypass for all Android Versions
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [thomwiggers/m4ri-rust](https://github.com/thomwiggers/m4ri-rust) to [Colton1skees/m4ri-rust](https://github.com/Colton1skees/m4ri-rust)
+  > M4RI Rust bindings
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [FalseMSP/SoundPhysicsPerfected](https://github.com/FalseMSP/SoundPhysicsPerfected)
   > Minecraft Raytraced Audio implementation.
@@ -73,6 +77,7 @@
   > Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with S...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
   > Breakthrough Method for Agile Ai Driven Development
+- 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/pi-cost-dashboard](https://github.com/mrexodia/pi-cost-dashboard) public
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
@@ -80,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-01-01 21:16:32 UTC*
+*最后更新于 2026-01-01 22:17:26 UTC*
 *历史记录保存在 `archive` 目录中。*
