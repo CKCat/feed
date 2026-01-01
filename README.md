@@ -32,6 +32,7 @@
 
 ### [RicterZ](https://github.com/RicterZ)
 - 🚀 👤 [RicterZ](https://github.com/RicterZ) Made [AetherSight/FFXIV_TexTools_Exporter](https://github.com/AetherSight/FFXIV_TexTools_Exporter) public
+- 🚀 👤 [RicterZ](https://github.com/RicterZ) Made [AetherSight/.github](https://github.com/AetherSight/.github) public
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server)
@@ -63,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-01-01 17:17:12 UTC*
+*最后更新于 2026-01-01 18:26:07 UTC*
 *历史记录保存在 `archive` 目录中。*
