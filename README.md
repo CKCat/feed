@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [foundryzero/llef](https://github.com/foundryzero/llef)
+  > LLEF is a plugin for LLDB to make it more useful for RE and VR
+
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [otsmr/profuzz](https://github.com/otsmr/profuzz)
   > A generic approach to easily create a fast and easy-to use protocol fuzzer for custom targets.
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [otsmr/profuzz](https://github.com/otsmr/profuzz) to [0xdea/profuzz](https://github.com/0xdea/profuzz)
   > A generic approach to easily create a fast and easy-to use protocol fuzzer for custom targets.
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [FalseMSP/SoundPhysicsPerfected](https://github.com/FalseMSP/SoundPhysicsPerfected)
+  > Minecraft Raytraced Audio implementation.
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
@@ -34,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-01-01 10:19:30 UTC*
+*最后更新于 2026-01-01 11:15:39 UTC*
 *历史记录保存在 `archive` 目录中。*
