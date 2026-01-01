@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [otsmr/profuzz](https://github.com/otsmr/profuzz)
+  > A generic approach to easily create a fast and easy-to use protocol fuzzer for custom targets.
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [otsmr/profuzz](https://github.com/otsmr/profuzz) to [0xdea/profuzz](https://github.com/0xdea/profuzz)
+  > A generic approach to easily create a fast and easy-to use protocol fuzzer for custom targets.
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
   > Collection of handy online tools for developers, with great UX. 
@@ -28,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-01-01 06:28:35 UTC*
+*最后更新于 2026-01-01 07:20:10 UTC*
 *历史记录保存在 `archive` 目录中。*
