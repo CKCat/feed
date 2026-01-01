@@ -30,6 +30,9 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [casey/just](https://github.com/casey/just)
   > 🤖 Just a command runner
 
+### [RicterZ](https://github.com/RicterZ)
+- 🚀 👤 [RicterZ](https://github.com/RicterZ) Made [AetherSight/FFXIV_TexTools_Exporter](https://github.com/AetherSight/FFXIV_TexTools_Exporter) public
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server)
   > The backend of HTTP Toolkit
@@ -51,6 +54,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lulzx/zpdf](https://github.com/Lulzx/zpdf)
   > Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with S...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
+  > Breakthrough Method for Agile Ai Driven Development
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
@@ -58,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-01-01 13:31:01 UTC*
+*最后更新于 2026-01-01 14:16:56 UTC*
 *历史记录保存在 `archive` 目录中。*
