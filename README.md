@@ -8,6 +8,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
   > Collection of handy online tools for developers, with great UX. 
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server)
+  > The backend of HTTP Toolkit
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [namuan/trading-utils](https://github.com/namuan/trading-utils)
   > Collection of scripts and utilities for stock market analysis, strategies etc
@@ -24,5 +28,5 @@
 
 
 ---
-*最后更新于 2026-01-01 04:44:30 UTC*
+*最后更新于 2026-01-01 05:24:35 UTC*
 *历史记录保存在 `archive` 目录中。*
