@@ -34,6 +34,14 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server)
   > The backend of HTTP Toolkit
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ALEX5402/NewBlackbox](https://github.com/ALEX5402/NewBlackbox)
+  > a softwere to clone apps on android also support running apps without installing 
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [steipete/RepoBar](https://github.com/steipete/RepoBar)
+  > Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest R...
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [namuan/trading-utils](https://github.com/namuan/trading-utils)
   > Collection of scripts and utilities for stock market analysis, strategies etc
@@ -50,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-01-01 12:36:59 UTC*
+*最后更新于 2026-01-01 13:31:01 UTC*
 *历史记录保存在 `archive` 目录中。*
