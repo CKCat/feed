@@ -18,6 +18,10 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)
   > Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 univ...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [SyndewTech/Oluso](https://github.com/SyndewTech/Oluso)
+  > The Guardian of Identity & Access Management
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Polymarket/agents](https://github.com/Polymarket/agents)
   > Trade autonomously on Polymarket using AI Agents
@@ -27,6 +31,8 @@
   > How can we build a true AI agent? Like Claude Code.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) to [crazyguitar/learn-claude-code](https://github.com/crazyguitar/learn-claude-code)
   > How can we build a true AI agent? Like Claude Code.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AndreSlavescu/mHC.cu](https://github.com/AndreSlavescu/mHC.cu) to [crazyguitar/mHC.cu](https://github.com/crazyguitar/mHC.cu)
+  > mHC kernels implemented in CUDA
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [enetx/surf](https://github.com/enetx/surf)
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-01-02 16:21:39 UTC*
+*最后更新于 2026-01-02 17:15:43 UTC*
 *历史记录保存在 `archive` 目录中。*
