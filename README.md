@@ -14,6 +14,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [kerastinell/imgtool](https://github.com/kerastinell/imgtool)
   > Utilitiy for working with Android firmware .img files
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)
+  > Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 univ...
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Polymarket/agents](https://github.com/Polymarket/agents)
   > Trade autonomously on Polymarket using AI Agents
@@ -33,10 +37,16 @@
   > My own implementaion of the C standard library to be used in MaxOS (compatible with other OSes)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [maxtyson123/MaxOS](https://github.com/maxtyson123/MaxOS)
   > A 64bit hobby operating system written in C++
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [MedUnes/cash](https://github.com/MedUnes/cash)
+  > LRU Implementation in Go
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [noahware/hyper-reV](https://github.com/noahware/hyper-reV)
   > memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
+  > A toolkit for SQLite databases, with a focus on application development
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [agentjido/jido](https://github.com/agentjido/jido)
@@ -71,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-01-02 15:18:50 UTC*
+*最后更新于 2026-01-02 16:21:39 UTC*
 *历史记录保存在 `archive` 目录中。*
