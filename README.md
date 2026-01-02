@@ -39,6 +39,8 @@
   > mHC kernels implemented in CUDA
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
   > A high-throughput and memory-efficient inference and serving engine for LLMs
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [punica-ai/punica](https://github.com/punica-ai/punica)
+  > Serving multiple LoRA finetuned LLM as one
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [enetx/surf](https://github.com/enetx/surf)
@@ -59,6 +61,8 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
   > A toolkit for SQLite databases, with a focus on application development
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [hathach/tinyusb](https://github.com/hathach/tinyusb)
+  > An open source  cross-platform USB stack for embedded system
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [agentjido/jido](https://github.com/agentjido/jido)
@@ -95,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-01-02 19:11:51 UTC*
+*最后更新于 2026-01-02 20:19:24 UTC*
 *历史记录保存在 `archive` 目录中。*
