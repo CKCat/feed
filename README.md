@@ -7,6 +7,12 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace)
   > A Frida based tool that traces usage of the JNI API in Android apps.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [cyxx/extract_android_ota_payload](https://github.com/cyxx/extract_android_ota_payload)
+  > Extract firmware images from an Android OTA payload.bin file
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt)
+  > Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [kerastinell/imgtool](https://github.com/kerastinell/imgtool)
+  > Utilitiy for working with Android firmware .img files
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Polymarket/agents](https://github.com/Polymarket/agents)
@@ -49,6 +55,11 @@
   > Interactive form tool for pi-agent to gather user responses with keyboard navigation, themes, and im...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/Azul](https://github.com/0xSero/Azul)
   > Browse the world in the comfort of your terminal
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remorses/kimaki](https://github.com/remorses/kimaki)
+  > Control opencode agents inside Discord. Each opencode project is a Discord channel. Start sessions c...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/smaug](https://github.com/alexknowshtml/smaug)
+  > Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug...
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
@@ -56,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-02 11:15:58 UTC*
+*最后更新于 2026-01-02 12:35:56 UTC*
 *历史记录保存在 `archive` 目录中。*
