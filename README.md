@@ -87,7 +87,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/smaug](https://github.com/alexknowshtml/smaug)
   > Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
-  > Plugin manager for pi — think oh-my-zsh, but for pi. Install themes, agents, commands, and tools wit...
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
@@ -99,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-01-02 21:13:42 UTC*
+*最后更新于 2026-01-02 22:17:33 UTC*
 *历史记录保存在 `archive` 目录中。*
