@@ -37,6 +37,8 @@
   > How can we build a true AI agent? Like Claude Code.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AndreSlavescu/mHC.cu](https://github.com/AndreSlavescu/mHC.cu) to [crazyguitar/mHC.cu](https://github.com/crazyguitar/mHC.cu)
   > mHC kernels implemented in CUDA
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [enetx/surf](https://github.com/enetx/surf)
@@ -93,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-01-02 18:26:25 UTC*
+*最后更新于 2026-01-02 19:11:51 UTC*
 *历史记录保存在 `archive` 目录中。*
