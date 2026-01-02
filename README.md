@@ -65,7 +65,11 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
   > A scrollable-tiling Wayland compositor.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+
 
 ---
-*最后更新于 2026-01-02 13:30:30 UTC*
+*最后更新于 2026-01-02 14:18:04 UTC*
 *历史记录保存在 `archive` 目录中。*
