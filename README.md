@@ -19,6 +19,10 @@
   > Autonomous AI development loop for Claude Code with intelligent exit detection
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [flora131/atomic](https://github.com/flora131/atomic)
   > Automated Procedures and Memory for AI Coding Agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines)
+  > A guide to help you write better command-line programs, taking traditional UNIX principles and updat...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [banteg/takopi](https://github.com/banteg/takopi)
+  > he just wants to help-pi!
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
@@ -26,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-01-02 04:37:59 UTC*
+*最后更新于 2026-01-02 05:23:07 UTC*
 *历史记录保存在 `archive` 目录中。*
