@@ -18,6 +18,10 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)
   > Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 univ...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [NianBroken/Firework_Simulator](https://github.com/NianBroken/Firework_Simulator) to [Mufanc/Firework_Simulator](https://github.com/Mufanc/Firework_Simulator)
+  > 烟花模拟器，一个可以模拟各种烟花效果的网页|它可以展示各种绚丽多彩的烟花效果，并让人仿佛置身于真实烟花的绚丽世界之中。|模拟烟花|烟花网页|烟花绽放|烟花效果
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [SyndewTech/Oluso](https://github.com/SyndewTech/Oluso)
   > The Guardian of Identity & Access Management
@@ -76,6 +80,8 @@
   > Control opencode agents inside Discord. Each opencode project is a Discord channel. Start sessions c...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/smaug](https://github.com/alexknowshtml/smaug)
   > Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
+  > Plugin manager for pi — think oh-my-zsh, but for pi. Install themes, agents, commands, and tools wit...
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
@@ -87,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-01-02 17:15:43 UTC*
+*最后更新于 2026-01-02 18:26:25 UTC*
 *历史记录保存在 `archive` 目录中。*
