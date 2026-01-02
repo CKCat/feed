@@ -9,6 +9,10 @@
   > Trade autonomously on Polymarket using AI Agents
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [VivekPa/AIAlpha](https://github.com/VivekPa/AIAlpha)
   > Use unsupervised and supervised learning to predict stocks
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+  > How can we build a true AI agent? Like Claude Code.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) to [crazyguitar/learn-claude-code](https://github.com/crazyguitar/learn-claude-code)
+  > How can we build a true AI agent? Like Claude Code.
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [enetx/surf](https://github.com/enetx/surf)
@@ -17,6 +21,12 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [maxtyson123/LibC](https://github.com/maxtyson123/LibC)
   > My own implementaion of the C standard library to be used in MaxOS (compatible with other OSes)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [maxtyson123/MaxOS](https://github.com/maxtyson123/MaxOS)
+  > A 64bit hobby operating system written in C++
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [noahware/hyper-reV](https://github.com/noahware/hyper-reV)
+  > memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [agentjido/jido](https://github.com/agentjido/jido)
@@ -38,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-01-02 08:25:29 UTC*
+*最后更新于 2026-01-02 09:21:24 UTC*
 *历史记录保存在 `archive` 目录中。*
