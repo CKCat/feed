@@ -45,6 +45,10 @@
   > A guide to help you write better command-line programs, taking traditional UNIX principles and updat...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [banteg/takopi](https://github.com/banteg/takopi)
   > he just wants to help-pi!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-interview-tool](https://github.com/nicobailon/pi-interview-tool)
+  > Interactive form tool for pi-agent to gather user responses with keyboard navigation, themes, and im...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/Azul](https://github.com/0xSero/Azul)
+  > Browse the world in the comfort of your terminal
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-01-02 10:18:39 UTC*
+*最后更新于 2026-01-02 11:15:58 UTC*
 *历史记录保存在 `archive` 目录中。*
