@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace)
+  > A Frida based tool that traces usage of the JNI API in Android apps.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Polymarket/agents](https://github.com/Polymarket/agents)
   > Trade autonomously on Polymarket using AI Agents
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-01-02 09:21:24 UTC*
+*最后更新于 2026-01-02 10:18:39 UTC*
 *历史记录保存在 `archive` 目录中。*
