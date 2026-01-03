@@ -26,6 +26,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) to [can1357/CLIProxyAPI](https://github.com/can1357/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-01-03 19:13:20 UTC*
+*最后更新于 2026-01-03 20:19:02 UTC*
 *历史记录保存在 `archive` 目录中。*
