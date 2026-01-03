@@ -45,11 +45,15 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [xsleaks/xsleaks](https://github.com/xsleaks/xsleaks)
   > A collection of browser-based side channel attack vectors.
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [openjdk/jdk7](https://github.com/openjdk/jdk7) to [sonyps5201314/jdk7](https://github.com/sonyps5201314/jdk7)
+  > https://openjdk.org/projects/jdk7 released 2011-07-28
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [gloeyisk/systemless-hosts](https://github.com/gloeyisk/systemless-hosts)
   > An efficient ad blocker, with no user interface
 
 
 ---
-*最后更新于 2026-01-03 15:16:27 UTC*
+*最后更新于 2026-01-03 16:21:04 UTC*
 *历史记录保存在 `archive` 目录中。*
