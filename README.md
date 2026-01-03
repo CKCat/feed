@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🍴 👤 [0xbinder](https://github.com/0xbinder) Forked [0x36/Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) to [0xbinder/Pixel_GPU_Exploit](https://github.com/0xbinder/Pixel_GPU_Exploit)
+  > Android 14 kernel exploit for Pixel7/8 Pro
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wei/socialify](https://github.com/wei/socialify)
   > 💞 Socialify your project. 🌐 Share with the world!
@@ -26,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-01-03 09:17:37 UTC*
+*最后更新于 2026-01-03 10:17:42 UTC*
 *历史记录保存在 `archive` 目录中。*
