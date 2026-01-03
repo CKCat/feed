@@ -15,10 +15,16 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wei/socialify](https://github.com/wei/socialify)
   > 💞 Socialify your project. 🌐 Share with the world!
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [aya-rs/aya](https://github.com/aya-rs/aya) to [Mufanc/aya](https://github.com/Mufanc/aya)
+  > Aya is an eBPF library for the Rust programming language, built with a focus on developer experience...
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
   > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
+
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [K4ryuu/IDA-VTableExplorer](https://github.com/K4ryuu/IDA-VTableExplorer)
@@ -38,6 +44,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseagirl/easylkb](https://github.com/deepseagirl/easylkb)
   > easylkb - Easy Linux Kernel Builder
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [luisbocanegra/kwin-minimize2tray](https://github.com/luisbocanegra/kwin-minimize2tray)
+  > Hide windows to the system tray, similar to KDocker but in the form of a KWin Script that works on W...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [choyg/claude-code](https://github.com/choyg/claude-code)
@@ -55,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-01-03 17:14:57 UTC*
+*最后更新于 2026-01-03 18:24:41 UTC*
 *历史记录保存在 `archive` 目录中。*
