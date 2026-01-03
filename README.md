@@ -22,6 +22,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
   > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-03 18:24:41 UTC*
+*最后更新于 2026-01-03 19:13:20 UTC*
 *历史记录保存在 `archive` 目录中。*
