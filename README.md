@@ -4,11 +4,23 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wei/socialify](https://github.com/wei/socialify)
+  > 💞 Socialify your project. 🌐 Share with the world!
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [apache/spark](https://github.com/apache/spark)
+  > Apache Spark - A unified analytics engine for large-scale data processing
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [choyg/claude-code](https://github.com/choyg/claude-code)
+  > Source code for Claude Code
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [gloeyisk/systemless-hosts](https://github.com/gloeyisk/systemless-hosts)
   > An efficient ad blocker, with no user interface
 
 
 ---
-*最后更新于 2026-01-03 05:18:41 UTC*
+*最后更新于 2026-01-03 06:26:53 UTC*
 *历史记录保存在 `archive` 目录中。*
