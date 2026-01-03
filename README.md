@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [gloeyisk/systemless-hosts](https://github.com/gloeyisk/systemless-hosts)
+  > An efficient ad blocker, with no user interface
+
 
 ---
-*最后更新于 2026-01-03 01:19:45 UTC*
+*最后更新于 2026-01-03 03:19:46 UTC*
 *历史记录保存在 `archive` 目录中。*
