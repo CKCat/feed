@@ -16,6 +16,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wei/socialify](https://github.com/wei/socialify)
   > 💞 Socialify your project. 🌐 Share with the world!
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+  > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
+
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [K4ryuu/IDA-VTableExplorer](https://github.com/K4ryuu/IDA-VTableExplorer)
   > Automatic vtable detection, inheritance analysis, and function override tracking for reverse enginee...
@@ -27,6 +31,9 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tuono-labs/tuono](https://github.com/tuono-labs/tuono)
   > ⚡ Modern fullstack web framework based on Rust and React
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [deltaoperatingsystem/deltaos](https://github.com/deltaoperatingsystem/deltaos)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseagirl/easylkb](https://github.com/deepseagirl/easylkb)
@@ -44,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-01-03 14:16:06 UTC*
+*最后更新于 2026-01-03 15:16:27 UTC*
 *历史记录保存在 `archive` 目录中。*
