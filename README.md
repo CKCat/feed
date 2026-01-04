@@ -13,6 +13,10 @@
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [yatooimh/DeepExploitor](https://github.com/yatooimh/DeepExploitor)
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🍴 👤 [AeonLucid](https://github.com/AeonLucid) Forked [frida/selinux](https://github.com/frida/selinux) to [AeonLucid/selinux](https://github.com/AeonLucid/selinux)
+  > Frida depends on libselinux and libsepol on Android.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🍴 👤 [KyuubiRan](https://github.com/KyuubiRan) Forked [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) to [KyuubiRan/magisk-tailscaled](https://github.com/KyuubiRan/magisk-tailscaled)
   > Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way...
@@ -70,6 +74,12 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [fkie-cad/AndroidFridaManager](https://github.com/fkie-cad/AndroidFridaManager)
   > A python API in order to install and run the frida-server on an Android device
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseagirl/easylkb](https://github.com/deepseagirl/easylkb)
+  > easylkb - Easy Linux Kernel Builder
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arighi/virtme-ng](https://github.com/arighi/virtme-ng)
+  > Quickly build and run kernels inside a virtualized snapshot of your live system
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader)
   > 下一代高性能跨平台Terraria模组加载器
@@ -84,6 +94,10 @@
   > A C++20 library for sequence-orientated programming
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Aefyr/SAI](https://github.com/Aefyr/SAI)
+  > Android split APKs installer
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
@@ -100,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-01-04 19:13:25 UTC*
+*最后更新于 2026-01-04 20:19:56 UTC*
 *历史记录保存在 `archive` 目录中。*
