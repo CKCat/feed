@@ -25,6 +25,10 @@
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [badlogic/pi-mono](https://github.com/badlogic/pi-mono) to [can1357/pi-mono](https://github.com/can1357/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [punica-ai/punica](https://github.com/punica-ai/punica) to [crazyguitar/punica](https://github.com/crazyguitar/punica)
+  > Serving multiple LoRA finetuned LLM as one
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Yimura/FridaMgr](https://github.com/Yimura/FridaMgr)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [fkie-cad/AndroidFridaManager](https://github.com/fkie-cad/AndroidFridaManager)
@@ -46,7 +50,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
   > Six Degrees of Domain Admin
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+
 
 ---
-*最后更新于 2026-01-04 09:17:01 UTC*
+*最后更新于 2026-01-04 10:17:22 UTC*
 *历史记录保存在 `archive` 目录中。*
