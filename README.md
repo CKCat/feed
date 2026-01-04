@@ -51,13 +51,14 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji)
   > Noto Emoji fonts
 
+### [fjqisba](https://github.com/fjqisba)
+- 🍴 👤 [fjqisba](https://github.com/fjqisba) Forked [avast/retdec](https://github.com/avast/retdec) to [fjqisba/retdec](https://github.com/fjqisba/retdec)
+  > RetDec is a retargetable machine-code decompiler based on LLVM.
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Yimura/FridaMgr](https://github.com/Yimura/FridaMgr)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [fkie-cad/AndroidFridaManager](https://github.com/fkie-cad/AndroidFridaManager)
   > A python API in order to install and run the frida-server on an Android device
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [openprose/prose](https://github.com/openprose/prose)
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader)
@@ -89,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-01-04 14:15:51 UTC*
+*最后更新于 2026-01-04 15:16:36 UTC*
 *历史记录保存在 `archive` 目录中。*
