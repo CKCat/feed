@@ -31,6 +31,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [h3xduck/TripleCross](https://github.com/h3xduck/TripleCross)
   > A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and st...
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [badlogic/pi-mono](https://github.com/badlogic/pi-mono) to [can1357/pi-mono](https://github.com/can1357/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -38,6 +42,14 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [punica-ai/punica](https://github.com/punica-ai/punica) to [crazyguitar/punica](https://github.com/crazyguitar/punica)
   > Serving multiple LoRA finetuned LLM as one
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji)
+  > Noto Emoji fonts
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Yimura/FridaMgr](https://github.com/Yimura/FridaMgr)
@@ -77,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-01-04 13:27:27 UTC*
+*最后更新于 2026-01-04 14:15:51 UTC*
 *历史记录保存在 `archive` 目录中。*
