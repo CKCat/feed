@@ -61,6 +61,10 @@
 - 🍴 👤 [fjqisba](https://github.com/fjqisba) Forked [avast/retdec](https://github.com/avast/retdec) to [fjqisba/retdec](https://github.com/fjqisba/retdec)
   > RetDec is a retargetable machine-code decompiler based on LLVM.
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac)
+  > A classic Mac loaded with everything you'd want
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Yimura/FridaMgr](https://github.com/Yimura/FridaMgr)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [fkie-cad/AndroidFridaManager](https://github.com/fkie-cad/AndroidFridaManager)
@@ -96,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-01-04 18:24:55 UTC*
+*最后更新于 2026-01-04 19:13:25 UTC*
 *历史记录保存在 `archive` 目录中。*
