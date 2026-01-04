@@ -37,11 +37,16 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader)
   > 下一代高性能跨平台Terraria模组加载器
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [yatooimh/DeepExploitor](https://github.com/yatooimh/DeepExploitor)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
   > Six Degrees of Domain Admin
 
 
 ---
-*最后更新于 2026-01-04 08:23:18 UTC*
+*最后更新于 2026-01-04 09:17:01 UTC*
 *历史记录保存在 `archive` 目录中。*
