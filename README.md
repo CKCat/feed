@@ -34,6 +34,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [h3xduck/TripleCross](https://github.com/h3xduck/TripleCross)
   > A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and st...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
+  > A dynasm-like tool for rust.
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
@@ -94,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-01-04 16:20:44 UTC*
+*最后更新于 2026-01-04 17:14:59 UTC*
 *历史记录保存在 `archive` 目录中。*
