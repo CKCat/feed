@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)
+  > cwe_checker finds vulnerable patterns in binary executables
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker) to [0xdea/cwe_checker](https://github.com/0xdea/cwe_checker)
+  > cwe_checker finds vulnerable patterns in binary executables
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [yatooimh/DeepExploitor](https://github.com/yatooimh/DeepExploitor)
 
@@ -12,6 +18,10 @@
   > Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KNSoft/KNSoft.SlimDetours](https://github.com/KNSoft/KNSoft.SlimDetours)
   > An improved Detours.
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
@@ -40,6 +50,17 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader)
   > 下一代高性能跨平台Terraria模组加载器
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [senator715/IDA-Fusion](https://github.com/senator715/IDA-Fusion)
+  > ULTRA FAST Signature Scanner & Generator for IDA Pro 7/8/9+ Compiled with GCC
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [GANGE666/xVMP](https://github.com/GANGE666/xVMP)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/IDA-VTableExplorer](https://github.com/Hengle/IDA-VTableExplorer)
+  > Automatic vtable detection, inheritance analysis, and function override tracking for reverse enginee...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/KismetCompiler](https://github.com/Hengle/KismetCompiler)
+  > Compiler & decompiler for Unreal Engine Kismet Blueprints
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/flux](https://github.com/Hengle/flux)
+  > A C++20 library for sequence-orientated programming
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
@@ -56,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-01-04 12:34:35 UTC*
+*最后更新于 2026-01-04 13:27:27 UTC*
 *历史记录保存在 `archive` 目录中。*
