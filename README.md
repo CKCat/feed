@@ -23,6 +23,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [tiliv/TextMate-x86-MASM-bundle](https://github.com/tiliv/TextMate-x86-MASM-bundle)
+  > Language grammar and code folding for x86 MASM assembly
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
   > Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d...
@@ -90,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-01-04 15:16:36 UTC*
+*最后更新于 2026-01-04 16:20:44 UTC*
 *历史记录保存在 `archive` 目录中。*
