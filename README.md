@@ -12,6 +12,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Gbps/gbhv](https://github.com/Gbps/gbhv)
   > Simple x86-64 VT-x Hypervisor with EPT Hooking
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/DirectXTK12](https://github.com/microsoft/DirectXTK12)
+  > The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code...
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [cyrozap/pcbrepair-rs](https://github.com/cyrozap/pcbrepair-rs)
   > Rust library for reading ASUS FZ and ASRock CAE files.
@@ -25,6 +29,10 @@
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
   > Kiro Account Manager - Smart Kiro token management with one-click switching and quota monitoring
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
@@ -52,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-01-05 09:28:35 UTC*
+*最后更新于 2026-01-05 10:21:22 UTC*
 *历史记录保存在 `archive` 目录中。*
