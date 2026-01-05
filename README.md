@@ -39,6 +39,10 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
+### [gerhart01](https://github.com/gerhart01)
+- 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [ivellioscolin/pykd-ext](https://github.com/ivellioscolin/pykd-ext)
+  > A pykd-ext maintenance fork
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
   > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-01-05 16:23:38 UTC*
+*最后更新于 2026-01-05 17:20:27 UTC*
 *历史记录保存在 `archive` 目录中。*
