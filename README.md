@@ -15,6 +15,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/DirectXTK12](https://github.com/microsoft/DirectXTK12)
   > The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [timheuer/GitHubActionsVS](https://github.com/timheuer/GitHubActionsVS)
+  > A Visual Studio extension for showing GitHub Actions workflow information
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [cyrozap/pcbrepair-rs](https://github.com/cyrozap/pcbrepair-rs)
@@ -41,6 +43,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [langgenius/dify](https://github.com/langgenius/dify)
   > Production-ready platform for agentic workflow development.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p1rallels/codemapper](https://github.com/p1rallels/codemapper)
+  > code intelligence on your CLI for AI agents. tell your agent to run `cm --help` and let it rip
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [5ec1cff/amice](https://github.com/5ec1cff/amice)
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-01-05 10:21:22 UTC*
+*最后更新于 2026-01-05 11:16:55 UTC*
 *历史记录保存在 `archive` 目录中。*
