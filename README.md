@@ -39,6 +39,12 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [containers/libkrun](https://github.com/containers/libkrun)
+  > A dynamic library providing Virtualization-based process isolation capabilities
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm)
+  > muvm - run programs from your system in a microVM
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
   > Kiro Account Manager - Smart Kiro token management with one-click switching and quota monitoring
@@ -79,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-01-05 20:21:51 UTC*
+*最后更新于 2026-01-05 21:17:34 UTC*
 *历史记录保存在 `archive` 目录中。*
