@@ -23,7 +23,7 @@
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [cyrozap/pcbrepair-rs](https://github.com/cyrozap/pcbrepair-rs)
-  > Rust library for reading ASUS FZ and ASRock CAE files.
+  > Rust library for parsing ASUS "PCBRepair Tool" .FZ and ASRock "PCBRepair Pro" .CAE boardview files.
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng)
@@ -71,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-01-05 17:20:27 UTC*
+*最后更新于 2026-01-05 18:28:26 UTC*
 *历史记录保存在 `archive` 目录中。*
