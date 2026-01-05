@@ -18,6 +18,9 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [timheuer/GitHubActionsVS](https://github.com/timheuer/GitHubActionsVS)
   > A Visual Studio extension for showing GitHub Actions workflow information
 
+### [PShocker](https://github.com/PShocker)
+- 🌟 👤 [PShocker](https://github.com/PShocker) Starred [PShocker/sdlH3](https://github.com/PShocker/sdlH3)
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [cyrozap/pcbrepair-rs](https://github.com/cyrozap/pcbrepair-rs)
   > Rust library for reading ASUS FZ and ASRock CAE files.
@@ -64,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-05 13:38:31 UTC*
+*最后更新于 2026-01-05 14:21:30 UTC*
 *历史记录保存在 `archive` 目录中。*
