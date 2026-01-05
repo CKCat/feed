@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [fuqiuluo/amice](https://github.com/fuqiuluo/amice) to [5ec1cff/amice](https://github.com/5ec1cff/amice)
+  > LLVM pass plugin developed based on LLVM , implemented in Rust, designed for obfuscator-llvm
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Gbps/gbhv](https://github.com/Gbps/gbhv)
   > Simple x86-64 VT-x Hypervisor with EPT Hooking
@@ -18,11 +22,19 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [5ec1cff/amice](https://github.com/5ec1cff/amice)
+  > LLVM pass plugin developed based on LLVM , implemented in Rust, designed for obfuscator-llvm
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [MrHaloka/age_of_heros](https://github.com/MrHaloka/age_of_heros)
+  > An RTS game crafted in Unreal Engine, inspired by Age of Empires 2, and developed using C++
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ndyjan1337/fortnite-external](https://github.com/ndyjan1337/fortnite-external)
+  > Selfleak Fortnite external under the name (vatos x ndyjan) aka owl.lol
+
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [romainthomas/dexprotector](https://github.com/romainthomas/dexprotector)
   > A Glimpse Into DexProtector
 
 
 ---
-*最后更新于 2026-01-05 05:33:05 UTC*
+*最后更新于 2026-01-05 06:34:25 UTC*
 *历史记录保存在 `archive` 目录中。*
