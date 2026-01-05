@@ -8,6 +8,10 @@
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [fuqiuluo/amice](https://github.com/fuqiuluo/amice) to [5ec1cff/amice](https://github.com/5ec1cff/amice)
   > LLVM pass plugin developed based on LLVM , implemented in Rust, designed for obfuscator-llvm
 
+### [Ahora57](https://github.com/Ahora57)
+- 🚀 👤 [Ahora57](https://github.com/Ahora57) Made [Ahora57/troy_starr](https://github.com/Ahora57/troy_starr) public
+  > Leak debugger pid by ScyllaHide/SharpOD
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Gbps/gbhv](https://github.com/Gbps/gbhv)
   > Simple x86-64 VT-x Hypervisor with EPT Hooking
@@ -17,6 +21,10 @@
   > The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code...
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [timheuer/GitHubActionsVS](https://github.com/timheuer/GitHubActionsVS)
   > A Visual Studio extension for showing GitHub Actions workflow information
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [AppFlowy-IO/AppFlowy-Web](https://github.com/AppFlowy-IO/AppFlowy-Web) to [NyaMisty/AppFlowy-Web](https://github.com/NyaMisty/AppFlowy-Web)
+  > Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where ...
 
 ### [PShocker](https://github.com/PShocker)
 - 🌟 👤 [PShocker](https://github.com/PShocker) Starred [PShocker/sdlH3](https://github.com/PShocker/sdlH3)
@@ -71,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-01-05 18:28:26 UTC*
+*最后更新于 2026-01-05 19:18:31 UTC*
 *历史记录保存在 `archive` 目录中。*
