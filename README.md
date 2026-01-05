@@ -22,6 +22,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
+### [lxraa](https://github.com/lxraa)
+- 🌟 👤 [lxraa](https://github.com/lxraa) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
+  > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [5ec1cff/amice](https://github.com/5ec1cff/amice)
   > LLVM pass plugin developed based on LLVM , implemented in Rust, designed for obfuscator-llvm
@@ -36,5 +40,5 @@
 
 
 ---
-*最后更新于 2026-01-05 07:26:00 UTC*
+*最后更新于 2026-01-05 08:29:06 UTC*
 *历史记录保存在 `archive` 目录中。*
