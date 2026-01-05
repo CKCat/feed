@@ -22,9 +22,17 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+  > Kiro Account Manager - Smart Kiro token management with one-click switching and quota monitoring
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
   > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [langgenius/dify](https://github.com/langgenius/dify)
+  > Production-ready platform for agentic workflow development.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [5ec1cff/amice](https://github.com/5ec1cff/amice)
@@ -34,11 +42,15 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ndyjan1337/fortnite-external](https://github.com/ndyjan1337/fortnite-external)
   > Selfleak Fortnite external under the name (vatos x ndyjan) aka owl.lol
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [radareorg/r2hermes](https://github.com/radareorg/r2hermes)
+  > React Native VM (Hermes Bytecode Library) in C
+
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [romainthomas/dexprotector](https://github.com/romainthomas/dexprotector)
   > A Glimpse Into DexProtector
 
 
 ---
-*最后更新于 2026-01-05 08:29:06 UTC*
+*最后更新于 2026-01-05 09:28:35 UTC*
 *历史记录保存在 `archive` 目录中。*
