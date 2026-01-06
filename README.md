@@ -8,6 +8,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
   > 改进自chrome-devtools-mcp，专属于js 逆向的优化
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [numman-ali/openskills](https://github.com/numman-ali/openskills)
+  > Universal skills loader for AI coding agents - npm i -g openskills
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [aylhex/hegui_rom](https://github.com/aylhex/hegui_rom)
   > Android App隐私合规检测定制系统
@@ -24,5 +28,5 @@
 
 
 ---
-*最后更新于 2026-01-06 03:26:19 UTC*
+*最后更新于 2026-01-06 04:37:27 UTC*
 *历史记录保存在 `archive` 目录中。*
