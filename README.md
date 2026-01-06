@@ -20,6 +20,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
   > 改进自chrome-devtools-mcp，专属于js 逆向的优化
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally)
+  > 🌍 All in one i18n extension for VS Code
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AnthonyCalandra/modern-c-features](https://github.com/AnthonyCalandra/modern-c-features)
   > A cheatsheet of modern C language and library features.
@@ -83,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-01-06 13:35:09 UTC*
+*最后更新于 2026-01-06 14:19:38 UTC*
 *历史记录保存在 `archive` 目录中。*
