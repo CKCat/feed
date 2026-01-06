@@ -15,6 +15,20 @@
   > AERoot is a command line tool that allows you to give root privileges on-the-fly to any process runn...
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [google/security-research](https://github.com/google/security-research)
   > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Siguza/ios-resources](https://github.com/Siguza/ios-resources)
+  > Useful resources for iOS hacking
+- 🍴 👤 [0xbinder](https://github.com/0xbinder) Forked [Siguza/ios-resources](https://github.com/Siguza/ios-resources) to [0xbinder/ios-resources](https://github.com/0xbinder/ios-resources)
+  > Useful resources for iOS hacking
+
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool)
+  > UEFI firmware image viewer and editor
+
+### [0xeb](https://github.com/0xeb)
+- 🌟 👤 [0xeb](https://github.com/0xeb) Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
+  > Open Source Continuous File Synchronization
+- 🌟 👤 [0xeb](https://github.com/0xeb) Starred [Vector35/debugger](https://github.com/Vector35/debugger)
+  > Binary Ninja debugger
 
 ### [BryanGIG](https://github.com/BryanGIG)
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [SamboyCoding/NativeAot2IL](https://github.com/SamboyCoding/NativeAot2IL)
@@ -107,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-01-06 19:14:17 UTC*
+*最后更新于 2026-01-06 20:20:24 UTC*
 *历史记录保存在 `archive` 目录中。*
