@@ -60,6 +60,10 @@
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [CodeAnt-AI/tree-sitter-vb-dotnet](https://github.com/CodeAnt-AI/tree-sitter-vb-dotnet)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [apache/atlas](https://github.com/apache/atlas)
+  > Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and b...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)
+  > The Metadata Platform for your Data and AI Stack
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kaizensecurity/Intercept-Flutter-Apps](https://github.com/kaizensecurity/Intercept-Flutter-Apps)
@@ -87,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-01-06 14:19:38 UTC*
+*最后更新于 2026-01-06 15:19:40 UTC*
 *历史记录保存在 `archive` 目录中。*
