@@ -62,6 +62,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [0x36/Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit)
   > Android 14 kernel exploit for Pixel7/8 Pro
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [sud0Ru/CPLDCOMTrigger](https://github.com/sud0Ru/CPLDCOMTrigger)
+  > CPL remote trigger
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ShirkNeko/Action_OnePlus_MKSU_SUSFS](https://github.com/ShirkNeko/Action_OnePlus_MKSU_SUSFS)
   > 使用Github Action自动编译一加SukiSU内核
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-01-06 11:16:24 UTC*
+*最后更新于 2026-01-06 12:38:26 UTC*
 *历史记录保存在 `archive` 目录中。*
