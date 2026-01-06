@@ -16,6 +16,10 @@
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [SamboyCoding/NativeAot2IL](https://github.com/SamboyCoding/NativeAot2IL)
   > Very WIP Cpp2IL-style dumper for NativeAOT binaries
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [muhammad23012009/minijvm](https://github.com/muhammad23012009/minijvm)
+  > MiniJVM is a stupidly simple JVM written in C for reverse-engineering purposes.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
   > 改进自chrome-devtools-mcp，专属于js 逆向的优化
@@ -33,6 +37,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [numman-ali/openskills](https://github.com/numman-ali/openskills)
   > Universal skills loader for AI coding agents - npm i -g openskills
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [steveyegge/gastown](https://github.com/steveyegge/gastown)
+  > Gas Town - multi-agent workspace manager
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [dmarro89/go-dav-os](https://github.com/dmarro89/go-dav-os)
@@ -93,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-01-06 16:24:23 UTC*
+*最后更新于 2026-01-06 17:20:44 UTC*
 *历史记录保存在 `archive` 目录中。*
