@@ -64,6 +64,8 @@
   > Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and b...
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)
   > The Metadata Platform for your Data and AI Stack
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+  > OpenMetadata is a unified metadata platform for data discovery, data observability, and data governa...
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kaizensecurity/Intercept-Flutter-Apps](https://github.com/kaizensecurity/Intercept-Flutter-Apps)
@@ -91,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-01-06 15:19:40 UTC*
+*最后更新于 2026-01-06 16:24:23 UTC*
 *历史记录保存在 `archive` 目录中。*
