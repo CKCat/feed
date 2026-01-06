@@ -11,6 +11,10 @@
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [quarkslab/android-fuzzing](https://github.com/quarkslab/android-fuzzing)
 - 🍴 👤 [0xbinder](https://github.com/0xbinder) Forked [quarkslab/android-fuzzing](https://github.com/quarkslab/android-fuzzing) to [0xbinder/android-fuzzing](https://github.com/0xbinder/android-fuzzing)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [quarkslab/AERoot](https://github.com/quarkslab/AERoot)
+  > AERoot is a command line tool that allows you to give root privileges on-the-fly to any process runn...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [google/security-research](https://github.com/google/security-research)
+  > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
 
 ### [BryanGIG](https://github.com/BryanGIG)
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [SamboyCoding/NativeAot2IL](https://github.com/SamboyCoding/NativeAot2IL)
@@ -51,6 +55,10 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [rootcause-rs/rootcause](https://github.com/rootcause-rs/rootcause)
   > A flexible, ergonomic, and inspectable error reporting library for Rust.
+
+### [mahaloz](https://github.com/mahaloz)
+- 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [purseclab/Patcherex2](https://github.com/purseclab/Patcherex2)
+  > A versatile and easy-to-use static binary patching tool.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/bird](https://github.com/steipete/bird)
@@ -99,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-01-06 17:20:44 UTC*
+*最后更新于 2026-01-06 18:27:27 UTC*
 *历史记录保存在 `archive` 目录中。*
