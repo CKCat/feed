@@ -9,6 +9,8 @@
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 - 🍴 👤 [0xbinder](https://github.com/0xbinder) Forked [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly) to [0xbinder/chronomaly](https://github.com/0xbinder/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [quarkslab/android-fuzzing](https://github.com/quarkslab/android-fuzzing)
+- 🍴 👤 [0xbinder](https://github.com/0xbinder) Forked [quarkslab/android-fuzzing](https://github.com/quarkslab/android-fuzzing) to [0xbinder/android-fuzzing](https://github.com/0xbinder/android-fuzzing)
 
 ### [BryanGIG](https://github.com/BryanGIG)
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [SamboyCoding/NativeAot2IL](https://github.com/SamboyCoding/NativeAot2IL)
@@ -70,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-01-06 09:23:48 UTC*
+*最后更新于 2026-01-06 10:20:15 UTC*
 *历史记录保存在 `archive` 目录中。*
