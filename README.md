@@ -51,6 +51,8 @@
   > A cheatsheet of modern C language and library features.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AnthonyCalandra/modern-c-features](https://github.com/AnthonyCalandra/modern-c-features) to [crazyguitar/modern-c-features](https://github.com/crazyguitar/modern-c-features)
   > A cheatsheet of modern C language and library features.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [bloomberg/pystack](https://github.com/bloomberg/pystack)
+  > 🔍 🐍 Like pstack but for Python!
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [numman-ali/openskills](https://github.com/numman-ali/openskills)
@@ -81,6 +83,10 @@
   > Open-source scientific and technical publishing system built on Pandoc.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BedirT/LLM-Token-Counter-VSCode](https://github.com/BedirT/LLM-Token-Counter-VSCode)
   > VSCode Extension that shows token count of the selected text
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [agentskills/agentskills](https://github.com/agentskills/agentskills) to [mrexodia/agentskills](https://github.com/mrexodia/agentskills)
+  > Specification and documentation for Agent Skills
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works)
+  > 🦄 ai that works - every tuesday 10 AM PST
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [aylhex/hegui_rom](https://github.com/aylhex/hegui_rom)
@@ -123,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-01-06 21:18:23 UTC*
+*最后更新于 2026-01-06 22:18:10 UTC*
 *历史记录保存在 `archive` 目录中。*
