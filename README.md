@@ -60,6 +60,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [steveyegge/gastown](https://github.com/steveyegge/gastown)
   > Gas Town - multi-agent workspace manager
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works)
+  > 🦄 ai that works - every tuesday 10 AM PST
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [dmarro89/go-dav-os](https://github.com/dmarro89/go-dav-os)
   > A 32-bit freestanding OS kernel written in Go, booted via GRUB/Multiboot, with VGA terminal, PS/2 ke...
@@ -129,5 +133,5 @@
 
 
 ---
-*最后更新于 2026-01-06 22:18:10 UTC*
+*最后更新于 2026-01-06 23:17:46 UTC*
 *历史记录保存在 `archive` 目录中。*
