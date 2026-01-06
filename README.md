@@ -79,6 +79,8 @@
   > Bird is a cli for twitter, so your agents can tweet.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
   > Open-source scientific and technical publishing system built on Pandoc.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BedirT/LLM-Token-Counter-VSCode](https://github.com/BedirT/LLM-Token-Counter-VSCode)
+  > VSCode Extension that shows token count of the selected text
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [aylhex/hegui_rom](https://github.com/aylhex/hegui_rom)
@@ -121,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-01-06 20:20:24 UTC*
+*最后更新于 2026-01-06 21:18:23 UTC*
 *历史记录保存在 `archive` 目录中。*
