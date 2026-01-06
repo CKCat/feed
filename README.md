@@ -14,6 +14,7 @@
 
 ### [BryanGIG](https://github.com/BryanGIG)
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [SamboyCoding/NativeAot2IL](https://github.com/SamboyCoding/NativeAot2IL)
+  > Very WIP Cpp2IL-style dumper for NativeAOT binaries
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
@@ -40,6 +41,12 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [rootcause-rs/rootcause](https://github.com/rootcause-rs/rootcause)
   > A flexible, ergonomic, and inspectable error reporting library for Rust.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/bird](https://github.com/steipete/bird)
+  > Bird is a cli for twitter, so your agents can tweet.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
+  > Open-source scientific and technical publishing system built on Pandoc.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [aylhex/hegui_rom](https://github.com/aylhex/hegui_rom)
@@ -76,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-01-06 12:38:26 UTC*
+*最后更新于 2026-01-06 13:35:09 UTC*
 *历史记录保存在 `archive` 目录中。*
