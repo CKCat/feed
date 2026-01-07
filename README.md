@@ -59,6 +59,12 @@
   > Nazhua（那爪），一个哪吒监控的前端主题，支持nezha v0与v1。
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts)
+  > 分享一下自创以及打野得到的各种优质prompt
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+  > A repo for jailbreaking various LLMs, mainly Claude
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)
+  > A high-severity prompt injection flaw in Claude AI proves that even the smartest language models can...
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
@@ -102,6 +108,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aliou/pi-extensions](https://github.com/aliou/pi-extensions)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeke-john/codecall](https://github.com/zeke-john/codecall)
   > An Open Source Typescript implementation of Programmatic Tool Calling for AI Agents (Based on Code M...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)
+  > Universal LLM Gateway: One API, every LLM. OpenAI-compatible endpoints with multi-provider translati...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Kazuto2007/Undetected-driver](https://github.com/Kazuto2007/Undetected-driver)
@@ -121,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-01-07 21:17:19 UTC*
+*最后更新于 2026-01-07 22:17:50 UTC*
 *历史记录保存在 `archive` 目录中。*
