@@ -12,6 +12,12 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
   > Emulating Apple Silicon devices.
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [str4d/rage](https://github.com/str4d/rage)
+  > A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no con...
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [str4d/rage](https://github.com/str4d/rage) to [0xdea/rage](https://github.com/0xdea/rage)
+  > A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no con...
+
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [memvid/claude-brain](https://github.com/memvid/claude-brain)
   > Give Claude Code photographic memory in ONE portable file. No database, no SQLite, no ChromaDB - jus...
@@ -37,6 +43,10 @@
 ### [PShocker](https://github.com/PShocker)
 - 🌟 👤 [PShocker](https://github.com/PShocker) Starred [libsdl-org/SDL_shadercross](https://github.com/libsdl-org/SDL_shadercross)
   > Shader translation library for SDL's GPU API. 
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)
+  > CLI for internet speed test via cloudflare
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [hi2shark/nazhua](https://github.com/hi2shark/nazhua)
@@ -103,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-01-07 17:24:09 UTC*
+*最后更新于 2026-01-07 18:28:01 UTC*
 *历史记录保存在 `archive` 目录中。*
