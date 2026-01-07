@@ -93,11 +93,15 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
   > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [billti/cpp-etw](https://github.com/billti/cpp-etw)
+  > ETW logging via C++
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
   > Zero-copy deserialization framework for Rust
 
 
 ---
-*最后更新于 2026-01-07 16:26:50 UTC*
+*最后更新于 2026-01-07 17:24:09 UTC*
 *历史记录保存在 `archive` 目录中。*
