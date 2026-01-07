@@ -36,7 +36,11 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
   > 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
+  > Zero-copy deserialization framework for Rust
+
 
 ---
-*最后更新于 2026-01-07 10:20:59 UTC*
+*最后更新于 2026-01-07 11:17:52 UTC*
 *历史记录保存在 `archive` 目录中。*
