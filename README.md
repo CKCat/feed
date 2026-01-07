@@ -23,10 +23,16 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
   > Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+  > Fullstack app framework for web, desktop, and mobile.
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [Fireboyd78/lucid](https://github.com/Fireboyd78/lucid) to [NyaMisty/lucid](https://github.com/NyaMisty/lucid)
   > An Interactive Hex-Rays Microcode Explorer
+
+### [PShocker](https://github.com/PShocker)
+- 🌟 👤 [PShocker](https://github.com/PShocker) Starred [libsdl-org/SDL_shadercross](https://github.com/libsdl-org/SDL_shadercross)
+  > Shader translation library for SDL's GPU API. 
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
@@ -39,6 +45,10 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
   > Claude Skills for Obsidian
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [jawah/niquests](https://github.com/jawah/niquests)
+  > Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE include...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yui](https://github.com/evilbinary/yui)
@@ -63,6 +73,9 @@
   > A terminal for a more modern age
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)
   > Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-sid...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aliou/pi-extensions](https://github.com/aliou/pi-extensions)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeke-john/codecall](https://github.com/zeke-john/codecall)
+  > An Open Source Typescript implementation of Programmatic Tool Calling for AI Agents (Based on Code M...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
@@ -70,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-01-07 14:21:10 UTC*
+*最后更新于 2026-01-07 15:21:31 UTC*
 *历史记录保存在 `archive` 目录中。*
