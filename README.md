@@ -20,6 +20,10 @@
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [syncthing/syncthing](https://github.com/syncthing/syncthing) to [chenxiaolong/syncthing](https://github.com/chenxiaolong/syncthing)
   > Open Source Continuous File Synchronization
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
+  > Claude Skills for Obsidian
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yui](https://github.com/evilbinary/yui)
   > 一个基于json渲染的ui
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-01-07 07:22:29 UTC*
+*最后更新于 2026-01-07 08:26:30 UTC*
 *历史记录保存在 `archive` 目录中。*
