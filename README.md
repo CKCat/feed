@@ -24,7 +24,11 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yui](https://github.com/evilbinary/yui)
   > 一个基于json渲染的ui
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sbu-fsl/kernel-ml](https://github.com/sbu-fsl/kernel-ml)
+  > Machine Learning Framework for Operating Systems - Brings ML to Linux kernel
+
 
 ---
-*最后更新于 2026-01-07 06:28:54 UTC*
+*最后更新于 2026-01-07 07:22:29 UTC*
 *历史记录保存在 `archive` 目录中。*
