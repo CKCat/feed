@@ -11,6 +11,10 @@
   > A QEMU emulator for legacy Apple devices
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
   > Emulating Apple Silicon devices.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ChefKissInc/QEMUAppleSiliconTools](https://github.com/ChefKissInc/QEMUAppleSiliconTools)
+  > Moved to https://git.chefkiss.dev/ChefKiss/QEMUAppleSiliconTools.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [xerub/img4lib](https://github.com/xerub/img4lib)
+  > image4 vfs
 
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [str4d/rage](https://github.com/str4d/rage)
@@ -115,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-01-07 19:17:59 UTC*
+*最后更新于 2026-01-07 20:21:21 UTC*
 *历史记录保存在 `archive` 目录中。*
