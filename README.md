@@ -51,6 +51,8 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [hi2shark/nazhua](https://github.com/hi2shark/nazhua)
   > Nazhua（那爪），一个哪吒监控的前端主题，支持nezha v0与v1。
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
@@ -113,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-01-07 18:28:01 UTC*
+*最后更新于 2026-01-07 19:17:59 UTC*
 *历史记录保存在 `archive` 目录中。*
