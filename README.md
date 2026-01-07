@@ -24,6 +24,11 @@
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [str4d/rage](https://github.com/str4d/rage) to [0xdea/rage](https://github.com/0xdea/rage)
   > A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no con...
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [Sayobot/Sayo_CLI](https://github.com/Sayobot/Sayo_CLI) to [lallouslab/Sayo_CLI](https://github.com/lallouslab/Sayo_CLI)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [Sayobot/sayo-device-web-hid](https://github.com/Sayobot/sayo-device-web-hid) to [lallouslab/sayo-device-web-hid](https://github.com/lallouslab/sayo-device-web-hid)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [Sayobot/SayoDevice_Web](https://github.com/Sayobot/SayoDevice_Web) to [lallouslab/SayoDevice_Web](https://github.com/lallouslab/SayoDevice_Web)
+
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [memvid/claude-brain](https://github.com/memvid/claude-brain)
   > Give Claude Code photographic memory in ONE portable file. No database, no SQLite, no ChromaDB - jus...
@@ -129,5 +134,5 @@
 
 
 ---
-*最后更新于 2026-01-07 22:17:50 UTC*
+*最后更新于 2026-01-07 23:18:09 UTC*
 *历史记录保存在 `archive` 目录中。*
