@@ -16,6 +16,10 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [memvid/claude-brain](https://github.com/memvid/claude-brain)
   > Give Claude Code photographic memory in ONE portable file. No database, no SQLite, no ChromaDB - jus...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
+  > Claude Skills for Obsidian
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [dokan-dev/dokan-dev.github.io](https://github.com/dokan-dev/dokan-dev.github.io) to [MouriNaruto/dokan-dev.github.io](https://github.com/MouriNaruto/dokan-dev.github.io)
   > Dokan-dev projects homepage
@@ -33,6 +37,10 @@
 ### [PShocker](https://github.com/PShocker)
 - 🌟 👤 [PShocker](https://github.com/PShocker) Starred [libsdl-org/SDL_shadercross](https://github.com/libsdl-org/SDL_shadercross)
   > Shader translation library for SDL's GPU API. 
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [hi2shark/nazhua](https://github.com/hi2shark/nazhua)
+  > Nazhua（那爪），一个哪吒监控的前端主题，支持nezha v0与v1。
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
@@ -77,11 +85,19 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeke-john/codecall](https://github.com/zeke-john/codecall)
   > An Open Source Typescript implementation of Programmatic Tool Calling for AI Agents (Based on Code M...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Kazuto2007/Undetected-driver](https://github.com/Kazuto2007/Undetected-driver)
+  > Fortnite cheat , Fortnite External , Kernel , Fortnite UD , undetected
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [niqiuqiux/kpm_kread](https://github.com/niqiuqiux/kpm_kread)
+  > Kernel Patch Module for r/w phy memory
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
+  > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
   > Zero-copy deserialization framework for Rust
 
 
 ---
-*最后更新于 2026-01-07 15:21:31 UTC*
+*最后更新于 2026-01-07 16:26:50 UTC*
 *历史记录保存在 `archive` 目录中。*
