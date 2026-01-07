@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+  > Quickly create and run optimised Windows, macOS and Linux virtual machines
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [devos50/qemu-ios](https://github.com/devos50/qemu-ios)
+  > A QEMU emulator for legacy Apple devices
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
+  > Emulating Apple Silicon devices.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [dokan-dev/dokan-dev.github.io](https://github.com/dokan-dev/dokan-dev.github.io) to [MouriNaruto/dokan-dev.github.io](https://github.com/MouriNaruto/dokan-dev.github.io)
   > Dokan-dev projects homepage
@@ -11,6 +19,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
   > Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [Fireboyd78/lucid](https://github.com/Fireboyd78/lucid) to [NyaMisty/lucid](https://github.com/NyaMisty/lucid)
+  > An Interactive Hex-Rays Microcode Explorer
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
@@ -36,11 +48,17 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
   > 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cv/pi-ssh-remote](https://github.com/cv/pi-ssh-remote)
+  > Pi extension that redirects all file operations and commands to a remote host via SSH
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tmustier/pi-extensions](https://github.com/tmustier/pi-extensions)
+  > A set of delightful extensions for Pi
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
   > Zero-copy deserialization framework for Rust
 
 
 ---
-*最后更新于 2026-01-07 11:17:52 UTC*
+*最后更新于 2026-01-07 12:39:11 UTC*
 *历史记录保存在 `archive` 目录中。*
