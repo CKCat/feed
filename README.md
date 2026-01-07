@@ -43,6 +43,8 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yui](https://github.com/evilbinary/yui)
   > 一个基于json渲染的ui
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
+  > :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first....
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sbu-fsl/kernel-ml](https://github.com/sbu-fsl/kernel-ml)
@@ -68,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-01-07 13:37:19 UTC*
+*最后更新于 2026-01-07 14:21:10 UTC*
 *历史记录保存在 `archive` 目录中。*
