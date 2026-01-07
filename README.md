@@ -12,6 +12,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
   > Emulating Apple Silicon devices.
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [memvid/claude-brain](https://github.com/memvid/claude-brain)
+  > Give Claude Code photographic memory in ONE portable file. No database, no SQLite, no ChromaDB - jus...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [dokan-dev/dokan-dev.github.io](https://github.com/dokan-dev/dokan-dev.github.io) to [MouriNaruto/dokan-dev.github.io](https://github.com/MouriNaruto/dokan-dev.github.io)
   > Dokan-dev projects homepage
@@ -53,6 +57,10 @@
   > Pi extension that redirects all file operations and commands to a remote host via SSH
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tmustier/pi-extensions](https://github.com/tmustier/pi-extensions)
   > A set of delightful extensions for Pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+  > A terminal for a more modern age
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)
+  > Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-sid...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
@@ -60,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-01-07 12:39:11 UTC*
+*最后更新于 2026-01-07 13:37:19 UTC*
 *历史记录保存在 `archive` 目录中。*
