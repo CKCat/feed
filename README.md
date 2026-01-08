@@ -12,6 +12,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [eirv/SimpleIORedirect](https://github.com/eirv/SimpleIORedirect)
   > Android IO redirection implementation, using seccomp user notify mechanism / 使用 seccomp unotify 的 An...
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🌟 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Starred [jedisct1/rust-ed25519-compact](https://github.com/jedisct1/rust-ed25519-compact)
+  > Small, wasm-friendly, zero-dependencies Ed25519 and X25519 implementation for Rust.
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [C2SP/wycheproof](https://github.com/C2SP/wycheproof)
   > Project Wycheproof tests crypto libraries against known attacks.
@@ -25,6 +29,10 @@
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
   > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
+
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [jameshball/osci-render](https://github.com/jameshball/osci-render)
+  > 〰📺🔊 Synthesiser audio plugin for making music by drawing objects on an oscilloscope using audio.
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
@@ -68,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-01-08 21:18:08 UTC*
+*最后更新于 2026-01-08 22:18:14 UTC*
 *历史记录保存在 `archive` 目录中。*
