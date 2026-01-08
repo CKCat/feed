@@ -26,6 +26,10 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Terrakernel-Project/Terrakernel](https://github.com/Terrakernel-Project/Terrakernel)
+  > The official repository for the Terrakernel project, a 64-bit AMD64 operating system and kernel writ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrisgdt/DELBOT-Mouse](https://github.com/chrisgdt/DELBOT-Mouse)
   > A small deep-learning library to distinguish human and bot from their mouse movements.
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-01-08 11:18:36 UTC*
+*最后更新于 2026-01-08 12:39:37 UTC*
 *历史记录保存在 `archive` 目录中。*
