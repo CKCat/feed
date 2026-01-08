@@ -37,6 +37,12 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim)
   > A plugin for Neovim inspired by Emacs' Compilation Mode
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim)
+  > A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for comman...
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [TiesPetersen/FloorSweepingOptimizer](https://github.com/TiesPetersen/FloorSweepingOptimizer)
+  > A C++ optimizer that generates efficient floor sweeping routes on grid maps with obstacles using sim...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrisgdt/DELBOT-Mouse](https://github.com/chrisgdt/DELBOT-Mouse)
@@ -58,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-01-08 18:24:12 UTC*
+*最后更新于 2026-01-08 19:16:56 UTC*
 *历史记录保存在 `archive` 目录中。*
