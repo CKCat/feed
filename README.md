@@ -22,6 +22,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
   > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
+  > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
@@ -50,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-01-08 14:22:19 UTC*
+*最后更新于 2026-01-08 15:22:16 UTC*
 *历史记录保存在 `archive` 目录中。*
