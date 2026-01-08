@@ -41,11 +41,14 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [ands/borderless-window-opengl](https://github.com/ands/borderless-window-opengl)
   > Demonstration of alpha blended compositing of OpenGL contexts via borderless windows using the Win32...
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [askman-dev/tide](https://github.com/askman-dev/tide)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
   > Micro second messaging that stores everything to disk
 
 
 ---
-*最后更新于 2026-01-08 12:39:37 UTC*
+*最后更新于 2026-01-08 13:38:12 UTC*
 *历史记录保存在 `archive` 目录中。*
