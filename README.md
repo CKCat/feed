@@ -26,6 +26,13 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrisgdt/DELBOT-Mouse](https://github.com/chrisgdt/DELBOT-Mouse)
+  > A small deep-learning library to distinguish human and bot from their mouse movements.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AsfhtgkDavid/windmouse](https://github.com/AsfhtgkDavid/windmouse)
+  > Human-like mouse movement library implementing the WindMouse algorithm for bot detection avoidance
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ahlashkari/IMAPBotLyzer](https://github.com/ahlashkari/IMAPBotLyzer)
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [ands/borderless-window-opengl](https://github.com/ands/borderless-window-opengl)
   > Demonstration of alpha blended compositing of OpenGL contexts via borderless windows using the Win32...
@@ -36,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-01-08 10:20:57 UTC*
+*最后更新于 2026-01-08 11:18:36 UTC*
 *历史记录保存在 `archive` 目录中。*
