@@ -15,6 +15,12 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [C2SP/wycheproof](https://github.com/C2SP/wycheproof)
   > Project Wycheproof tests crypto libraries against known attacks.
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Chevron7Locked/lidify](https://github.com/Chevron7Locked/lidify)
+  > Lidify is built for music lovers who want the convenience of streaming services without sacrificing ...
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+  > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
@@ -30,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-01-08 09:25:32 UTC*
+*最后更新于 2026-01-08 10:20:57 UTC*
 *历史记录保存在 `archive` 目录中。*
