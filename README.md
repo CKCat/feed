@@ -8,7 +8,11 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [libtero/suture](https://github.com/libtero/suture)
   > ast pattern matching with automated structure recovery for hex-rays decompiler
 
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
+
 
 ---
-*最后更新于 2026-01-08 01:24:59 UTC*
+*最后更新于 2026-01-08 03:27:03 UTC*
 *历史记录保存在 `archive` 目录中。*
