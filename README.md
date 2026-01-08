@@ -30,6 +30,10 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite)
+  > The WIP version of Vite powered by Rolldown
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Terrakernel-Project/Terrakernel](https://github.com/Terrakernel-Project/Terrakernel)
   > The official repository for the Terrakernel project, a 64-bit AMD64 operating system and kernel writ...
@@ -64,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-01-08 20:21:15 UTC*
+*最后更新于 2026-01-08 21:18:08 UTC*
 *历史记录保存在 `archive` 目录中。*
