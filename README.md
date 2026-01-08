@@ -34,6 +34,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Terrakernel-Project/Terrakernel](https://github.com/Terrakernel-Project/Terrakernel)
   > The official repository for the Terrakernel project, a 64-bit AMD64 operating system and kernel writ...
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim)
+  > A plugin for Neovim inspired by Emacs' Compilation Mode
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrisgdt/DELBOT-Mouse](https://github.com/chrisgdt/DELBOT-Mouse)
   > A small deep-learning library to distinguish human and bot from their mouse movements.
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-01-08 15:22:16 UTC*
+*最后更新于 2026-01-08 16:25:59 UTC*
 *历史记录保存在 `archive` 目录中。*
