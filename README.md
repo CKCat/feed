@@ -31,6 +31,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion)
   > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
+  > Modern embedded framework, using Rust and async.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [snowcone-ltd/libmatoya](https://github.com/snowcone-ltd/libmatoya)
   > Cross-platform application development.
@@ -65,7 +69,11 @@
 - 🌟 👤 [wrlu](https://github.com/wrlu) Starred [gzu-liyujiang/Android_CN_OAID](https://github.com/gzu-liyujiang/Android_CN_OAID)
   > 安卓设备唯一标识解决方案，可替代移动安全联盟（MSA）统一 SDK 闭源方案。包括国内手机厂商的开放匿名标识（OAID）、海外手机平台的安卓广告标识（AAID），另外也提供了 IMEI/MEID、An...
 
+### [xiaoweiChen](https://github.com/xiaoweiChen)
+- 🌟 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Starred [caozhiyi/CppNet](https://github.com/caozhiyi/CppNet)
+  > Cross platform network library with C++11
+
 
 ---
-*最后更新于 2026-01-09 09:25:20 UTC*
+*最后更新于 2026-01-09 10:19:48 UTC*
 *历史记录保存在 `archive` 目录中。*
