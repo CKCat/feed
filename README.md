@@ -22,6 +22,10 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
   > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) to [Dr-TSNG/corrosion](https://github.com/Dr-TSNG/corrosion)
+  > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS)
   > NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates...
@@ -99,6 +103,8 @@
   > Local AI server for your Windows apps.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wesm/agent-session-viewer](https://github.com/wesm/agent-session-viewer)
   > Browse, search, and revisit your AI coding sessions. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli)
+  > Lighweight CLI to interact with MCP servers
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog)
@@ -153,5 +159,5 @@
 
 
 ---
-*最后更新于 2026-01-09 19:17:43 UTC*
+*最后更新于 2026-01-09 20:20:47 UTC*
 *历史记录保存在 `archive` 目录中。*
