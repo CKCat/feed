@@ -16,6 +16,13 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
   > MCP Server for Ghidra
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [InstLatx64/InstLatx64](https://github.com/InstLatx64/InstLatx64)
+  > Copy of instlatx64.atw.hu
+
+### [Mq-b](https://github.com/Mq-b)
+- 🚀 👤 [Mq-b](https://github.com/Mq-b) Made [Mq-b/qr-code-buddy](https://github.com/Mq-b/qr-code-buddy) public
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [divtiply/uberegg](https://github.com/divtiply/uberegg) to [NyaMisty/uberegg](https://github.com/NyaMisty/uberegg)
   > Uber-egg (egg with dependencies) builder
@@ -41,6 +48,8 @@
   > Patch iOS Apps, The Easy Way, Without Jailbreak.
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [imxiaoc996/iOSSubwaySurfers](https://github.com/imxiaoc996/iOSSubwaySurfers)
   > iOS地铁跑酷菜单。支持越狱/非越狱环境，自带static inline hook
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eldnach/offline-shader-analysis](https://github.com/eldnach/offline-shader-analysis)
+  > Offline shader compilation and analysis for Unity
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -52,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-01-09 07:23:06 UTC*
+*最后更新于 2026-01-09 08:26:26 UTC*
 *历史记录保存在 `archive` 目录中。*
