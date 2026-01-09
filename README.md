@@ -63,9 +63,17 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek)
   > GDB TUI Dashboard for the understanding of vast knowledge
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Qwinci/hzlibc](https://github.com/Qwinci/hzlibc)
+  > Horizon libc
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Mathewnd/Astral](https://github.com/Mathewnd/Astral)
+  > x86-64 Operating System
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
   > Modern embedded framework, using Rust and async.
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [lem-project/lem](https://github.com/lem-project/lem)
+  > General-purpose editor/IDE with high expansibility in Common Lisp
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [snowcone-ltd/libmatoya](https://github.com/snowcone-ltd/libmatoya)
@@ -132,8 +140,10 @@
   > AWS Skills for Agents
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
   > A curated list of Claude Skills.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)
+  > The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack, Empowering Everyone...
 
 
 ---
-*最后更新于 2026-01-09 16:23:41 UTC*
+*最后更新于 2026-01-09 17:20:23 UTC*
 *历史记录保存在 `archive` 目录中。*
