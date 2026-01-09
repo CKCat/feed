@@ -22,10 +22,6 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
   > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 
-### [Dr-TSNG](https://github.com/Dr-TSNG)
-- 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) to [Dr-TSNG/corrosion](https://github.com/Dr-TSNG/corrosion)
-  > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
-
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS)
   > NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates...
@@ -105,6 +101,9 @@
   > Browse, search, and revisit your AI coding sessions. 
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli)
   > Lighweight CLI to interact with MCP servers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milankovo/decode_instruction](https://github.com/milankovo/decode_instruction)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  > Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog)
@@ -159,5 +158,5 @@
 
 
 ---
-*最后更新于 2026-01-09 21:17:49 UTC*
+*最后更新于 2026-01-09 22:18:04 UTC*
 *历史记录保存在 `archive` 目录中。*
