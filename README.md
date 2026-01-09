@@ -1,80 +1,20 @@
-# 每日 GitHub 动态 (2026-01-08)
+# 每日 GitHub 动态 (2026-01-09)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [19h](https://github.com/19h)
-- 🌟 👤 [19h](https://github.com/19h) Starred [libtero/suture](https://github.com/libtero/suture)
-  > ast pattern matching with automated structure recovery for hex-rays decompiler
-
-### [5ec1cff](https://github.com/5ec1cff)
-- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [eirv/SimpleIORedirect](https://github.com/eirv/SimpleIORedirect)
-  > Android IO redirection implementation, using seccomp user notify mechanism / 使用 seccomp unotify 的 An...
-
-### [Dr-TSNG](https://github.com/Dr-TSNG)
-- 🌟 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Starred [jedisct1/rust-ed25519-compact](https://github.com/jedisct1/rust-ed25519-compact)
-  > Small, wasm-friendly, zero-dependencies Ed25519 and X25519 implementation for Rust.
-
-### [Panchajanya1999](https://github.com/Panchajanya1999)
-- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [C2SP/wycheproof](https://github.com/C2SP/wycheproof)
-  > Project Wycheproof tests crypto libraries against known attacks.
-- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Chevron7Locked/lidify](https://github.com/Chevron7Locked/lidify)
-  > Lidify is built for music lovers who want the convenience of streaming services without sacrificing ...
-
-### [SsageParuders](https://github.com/SsageParuders)
-- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-  > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
-
-### [axhlzy](https://github.com/axhlzy)
-- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
-  > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
-
-### [chenxiaolong](https://github.com/chenxiaolong)
-- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [jameshball/osci-render](https://github.com/jameshball/osci-render)
-  > 〰📺🔊 Synthesiser audio plugin for making music by drawing objects on an oscilloscope using audio.
-
-### [deathmemory](https://github.com/deathmemory)
-- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
-  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
-
-### [es3n1n](https://github.com/es3n1n)
-- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite)
-  > The WIP version of Vite powered by Rolldown
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [Terrakernel-Project/Terrakernel](https://github.com/Terrakernel-Project/Terrakernel)
-  > The official repository for the Terrakernel project, a 64-bit AMD64 operating system and kernel writ...
-
-### [jonpalmisc](https://github.com/jonpalmisc)
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim)
-  > A plugin for Neovim inspired by Emacs' Compilation Mode
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim)
-  > A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for comman...
-
-### [mcdulltii](https://github.com/mcdulltii)
-- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [TiesPetersen/FloorSweepingOptimizer](https://github.com/TiesPetersen/FloorSweepingOptimizer)
-  > A C++ optimizer that generates efficient floor sweeping routes on grid maps with obstacles using sim...
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion)
+  > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrisgdt/DELBOT-Mouse](https://github.com/chrisgdt/DELBOT-Mouse)
-  > A small deep-learning library to distinguish human and bot from their mouse movements.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AsfhtgkDavid/windmouse](https://github.com/AsfhtgkDavid/windmouse)
-  > Human-like mouse movement library implementing the WindMouse algorithm for bot detection avoidance
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ahlashkari/IMAPBotLyzer](https://github.com/ahlashkari/IMAPBotLyzer)
-
-### [noxke](https://github.com/noxke)
-- 🌟 👤 [noxke](https://github.com/noxke) Starred [ands/borderless-window-opengl](https://github.com/ands/borderless-window-opengl)
-  > Demonstration of alpha blended compositing of OpenGL contexts via borderless windows using the Win32...
-
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [askman-dev/tide](https://github.com/askman-dev/tide)
-
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
-  > Micro second messaging that stores everything to disk
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [snowcone-ltd/libmatoya](https://github.com/snowcone-ltd/libmatoya)
+  > Cross-platform application development.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tamnguyenvan/screenarc](https://github.com/tamnguyenvan/screenarc)
+  > ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, ...
 
 
 ---
-*最后更新于 2026-01-08 23:16:02 UTC*
+*最后更新于 2026-01-09 01:25:03 UTC*
 *历史记录保存在 `archive` 目录中。*
