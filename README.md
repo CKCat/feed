@@ -8,6 +8,10 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
   > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [JingMatrix/IntegrityKit](https://github.com/JingMatrix/IntegrityKit)
+  > A Python command-line toolkit designed to streamline the development and management of Google Play I...
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS)
   > NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates...
@@ -46,6 +50,8 @@
   > ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM)
   > An open-source static random access memory (SRAM) compiler.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/IDAFind](https://github.com/cristeigabriela/IDAFind)
+  > Have you ever wondered: what if IDA had great Ctrl+F search support for Pseudocode windows? No longe...
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog)
@@ -79,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-01-09 12:38:41 UTC*
+*最后更新于 2026-01-09 13:35:38 UTC*
 *历史记录保存在 `archive` 目录中。*
