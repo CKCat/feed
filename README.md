@@ -22,6 +22,10 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
   > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [jedisct1/rust-ed25519-compact](https://github.com/jedisct1/rust-ed25519-compact) to [Dr-TSNG/rust-ed25519-compact](https://github.com/Dr-TSNG/rust-ed25519-compact)
+  > Small, wasm-friendly, zero-dependencies Ed25519 and X25519 implementation for Rust.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS)
   > NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates...
@@ -83,28 +87,6 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [lem-project/lem](https://github.com/lem-project/lem)
   > General-purpose editor/IDE with high expansibility in Common Lisp
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [snowcone-ltd/libmatoya](https://github.com/snowcone-ltd/libmatoya)
-  > Cross-platform application development.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tamnguyenvan/screenarc](https://github.com/tamnguyenvan/screenarc)
-  > ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM)
-  > An open-source static random access memory (SRAM) compiler.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/IDAFind](https://github.com/cristeigabriela/IDAFind)
-  > Have you ever wondered: what if IDA had great Ctrl+F search support for Pseudocode windows? No longe...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
-  > Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FluidInference/fluid-server](https://github.com/FluidInference/fluid-server)
-  > Local AI server for your Windows apps.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wesm/agent-session-viewer](https://github.com/wesm/agent-session-viewer)
-  > Browse, search, and revisit your AI coding sessions. 
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli)
-  > Lighweight CLI to interact with MCP servers
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milankovo/decode_instruction](https://github.com/milankovo/decode_instruction)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-  > Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog)
   > A tiny, neat C library that portably invokes native file open and save dialogs.
@@ -158,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-01-09 22:18:04 UTC*
+*最后更新于 2026-01-09 23:17:35 UTC*
 *历史记录保存在 `archive` 目录中。*
