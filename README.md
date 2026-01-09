@@ -28,11 +28,25 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM)
   > An open-source static random access memory (SRAM) compiler.
 
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog)
+  > A tiny, neat C library that portably invokes native file open and save dialogs.
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [paradiseduo/IPAPatch](https://github.com/paradiseduo/IPAPatch)
+  > Patch iOS Apps, The Easy Way, Without Jailbreak.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [imxiaoc996/iOSSubwaySurfers](https://github.com/imxiaoc996/iOSSubwaySurfers)
+  > iOS地铁跑酷菜单。支持越狱/非越狱环境，自带static inline hook
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [wrlu](https://github.com/wrlu)
+- 🌟 👤 [wrlu](https://github.com/wrlu) Starred [gzu-liyujiang/Android_CN_OAID](https://github.com/gzu-liyujiang/Android_CN_OAID)
+  > 安卓设备唯一标识解决方案，可替代移动安全联盟（MSA）统一 SDK 闭源方案。包括国内手机厂商的开放匿名标识（OAID）、海外手机平台的安卓广告标识（AAID），另外也提供了 IMEI/MEID、An...
+
 
 ---
-*最后更新于 2026-01-09 05:22:37 UTC*
+*最后更新于 2026-01-09 06:29:18 UTC*
 *历史记录保存在 `archive` 目录中。*
