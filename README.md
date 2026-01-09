@@ -12,6 +12,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS)
   > NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+  > MCP Server for Ghidra
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [divtiply/uberegg](https://github.com/divtiply/uberegg) to [NyaMisty/uberegg](https://github.com/NyaMisty/uberegg)
   > Uber-egg (egg with dependencies) builder
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-01-09 06:29:18 UTC*
+*最后更新于 2026-01-09 07:23:06 UTC*
 *历史记录保存在 `archive` 目录中。*
