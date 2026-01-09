@@ -14,6 +14,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tantosec/oneshell](https://github.com/tantosec/oneshell)
   > Reverse shell listener and payload generator designed to work on most Linux targets
 
+### [19h](https://github.com/19h)
+- 🍴 👤 [19h](https://github.com/19h) Forked [HexRaysSA/plugin-repository](https://github.com/HexRaysSA/plugin-repository) to [19h/plugin-repository](https://github.com/19h/plugin-repository)
+  > public index of IDA Pro plugins
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
   > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
@@ -145,5 +149,5 @@
 
 
 ---
-*最后更新于 2026-01-09 17:20:23 UTC*
+*最后更新于 2026-01-09 18:27:56 UTC*
 *历史记录保存在 `archive` 目录中。*
