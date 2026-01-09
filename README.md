@@ -50,6 +50,12 @@
   > iOS地铁跑酷菜单。支持越狱/非越狱环境，自带static inline hook
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eldnach/offline-shader-analysis](https://github.com/eldnach/offline-shader-analysis)
   > Offline shader compilation and analysis for Unity
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [cilium/ebpf](https://github.com/cilium/ebpf)
+  > ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eirv/SimpleIORedirect](https://github.com/eirv/SimpleIORedirect)
+  > Android IO redirection implementation, using seccomp user notify mechanism / 使用 seccomp unotify 的 An...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eirv/riscv64-inline-hook](https://github.com/eirv/riscv64-inline-hook)
+  > Lightweight inline hook library for RISC-V 64 / 适用于 RISC-V 64 的轻量级 Inline Hook 库
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -61,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-09 08:26:26 UTC*
+*最后更新于 2026-01-09 09:25:20 UTC*
 *历史记录保存在 `archive` 目录中。*
