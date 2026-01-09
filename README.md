@@ -4,6 +4,16 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bytewreck/DumpGuard](https://github.com/bytewreck/DumpGuard)
+  > Proof-of-Concept tool for extracting NTLMv1 hashes from sessions on modern Windows systems.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
+  > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [AmberWolfCyber/NachoVPN](https://github.com/AmberWolfCyber/NachoVPN)
+  > A delicious, but malicious SSL-VPN server 🌮
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tantosec/oneshell](https://github.com/tantosec/oneshell)
+  > Reverse shell listener and payload generator designed to work on most Linux targets
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
   > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
@@ -49,6 +59,10 @@
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [KiFilterFiberContext/windows-software-policy](https://github.com/KiFilterFiberContext/windows-software-policy)
   > Research on obfuscated licensing APIs / CLIP service in the Windows kernel
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek)
+  > GDB TUI Dashboard for the understanding of vast knowledge
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
   > Modern embedded framework, using Rust and async.
@@ -65,6 +79,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
   > Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FluidInference/fluid-server](https://github.com/FluidInference/fluid-server)
+  > Local AI server for your Windows apps.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wesm/agent-session-viewer](https://github.com/wesm/agent-session-viewer)
+  > Browse, search, and revisit your AI coding sessions. 
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog)
@@ -96,7 +114,26 @@
 - 🌟 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Starred [caozhiyi/CppNet](https://github.com/caozhiyi/CppNet)
   > Cross platform network library with C++11
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
+  > A project to improve skills of large language models
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [openai/skills](https://github.com/openai/skills)
+  > Skills Catalog for Codex
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > Claude Code superpowers: core skills library
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [huggingface/skills](https://github.com/huggingface/skills)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [norvig/pytudes](https://github.com/norvig/pytudes)
+  > Python programs, usually short, of considerable difficulty, to perfect particular skills.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+  > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills)
+  > AWS Skills for Agents
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
+  > A curated list of Claude Skills.
+
 
 ---
-*最后更新于 2026-01-09 15:20:45 UTC*
+*最后更新于 2026-01-09 16:23:41 UTC*
 *历史记录保存在 `archive` 目录中。*
