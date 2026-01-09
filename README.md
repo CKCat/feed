@@ -16,6 +16,12 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
   > MCP Server for Ghidra
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
+  > Model Context Protocol for WinDBG
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+  > The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [InstLatx64/InstLatx64](https://github.com/InstLatx64/InstLatx64)
   > Copy of instlatx64.atw.hu
@@ -35,6 +41,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion)
   > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [MayerDaniel/bof-wsl](https://github.com/MayerDaniel/bof-wsl)
+  > bof for interacting with WSL
+
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [KiFilterFiberContext/windows-software-policy](https://github.com/KiFilterFiberContext/windows-software-policy)
   > Research on obfuscated licensing APIs / CLIP service in the Windows kernel
@@ -52,6 +62,9 @@
   > An open-source static random access memory (SRAM) compiler.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/IDAFind](https://github.com/cristeigabriela/IDAFind)
   > Have you ever wondered: what if IDA had great Ctrl+F search support for Pseudocode windows? No longe...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
+  > Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection...
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog)
@@ -85,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-01-09 14:21:01 UTC*
+*最后更新于 2026-01-09 15:20:45 UTC*
 *历史记录保存在 `archive` 目录中。*
