@@ -8,6 +8,10 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
   > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [divtiply/uberegg](https://github.com/divtiply/uberegg) to [NyaMisty/uberegg](https://github.com/NyaMisty/uberegg)
+  > Uber-egg (egg with dependencies) builder
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion)
   > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
@@ -20,7 +24,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VLSIDA/OpenRAM](https://github.com/VLSIDA/OpenRAM)
   > An open-source static random access memory (SRAM) compiler.
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 
 ---
-*最后更新于 2026-01-09 03:27:48 UTC*
+*最后更新于 2026-01-09 04:37:42 UTC*
 *历史记录保存在 `archive` 目录中。*
