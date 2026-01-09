@@ -67,6 +67,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek)
   > GDB TUI Dashboard for the understanding of vast knowledge
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [mpc-qt/mpc-qt](https://github.com/mpc-qt/mpc-qt)
+  > Media Player Classic Qute Theater
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Qwinci/hzlibc](https://github.com/Qwinci/hzlibc)
   > Horizon libc
@@ -149,5 +153,5 @@
 
 
 ---
-*最后更新于 2026-01-09 18:27:56 UTC*
+*最后更新于 2026-01-09 19:17:43 UTC*
 *历史记录保存在 `archive` 目录中。*
