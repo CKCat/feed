@@ -31,6 +31,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion)
   > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [KiFilterFiberContext/windows-software-policy](https://github.com/KiFilterFiberContext/windows-software-policy)
+  > Research on obfuscated licensing APIs / CLIP service in the Windows kernel
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
   > Modern embedded framework, using Rust and async.
@@ -75,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-01-09 10:19:48 UTC*
+*最后更新于 2026-01-09 11:17:03 UTC*
 *历史记录保存在 `archive` 目录中。*
