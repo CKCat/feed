@@ -16,9 +16,17 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [WinterSnowfall/d7vk](https://github.com/WinterSnowfall/d7vk)
   > Vulkan-based implementation of D3D7, 6 and 5 for Linux / Wine, spun off from DXVK.
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [eelejalde/rw-numa-locks](https://github.com/eelejalde/rw-numa-locks)
+  > NUMA-Aware Reader-Writer Locks
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [javalsai/lidm](https://github.com/javalsai/lidm)
   > A ✨fully✨ colorful customizable TUI display manager made in C for simplicity.
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [eeacks/IL2CPP_Resolver_External](https://github.com/eeacks/IL2CPP_Resolver_External)
+  > [Reworking] A run-time API resolver for IL2CPP Unity(External).
 
 ### [pinwhell](https://github.com/pinwhell)
 - 🍴 👤 [pinwhell](https://github.com/pinwhell) Forked [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) to [pinwhell/awesome-cpp](https://github.com/pinwhell/awesome-cpp)
@@ -33,5 +41,5 @@
 
 
 ---
-*最后更新于 2026-01-10 08:22:56 UTC*
+*最后更新于 2026-01-10 09:17:20 UTC*
 *历史记录保存在 `archive` 目录中。*
