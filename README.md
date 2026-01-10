@@ -34,6 +34,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
   > 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感...
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ataleckij/claude-chats-delete](https://github.com/ataleckij/claude-chats-delete)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [CursorTouch/Android-MCP](https://github.com/CursorTouch/Android-MCP)
+  > Lightweight MCP Server for interacting with Android Operating System.
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -102,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-01-10 21:15:45 UTC*
+*最后更新于 2026-01-10 22:16:48 UTC*
 *历史记录保存在 `archive` 目录中。*
