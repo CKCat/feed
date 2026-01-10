@@ -36,6 +36,12 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [WinterSnowfall/d7vk](https://github.com/WinterSnowfall/d7vk)
   > Vulkan-based implementation of D3D7, 6 and 5 for Linux / Wine, spun off from DXVK.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
+  > The glamourous AI coding agent for your favourite terminal 💘
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [c-modules/c_traceback](https://github.com/c-modules/c_traceback)
+  > A colorful, lightweight error-propagation framework for C
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [eelejalde/rw-numa-locks](https://github.com/eelejalde/rw-numa-locks)
   > NUMA-Aware Reader-Writer Locks
@@ -56,6 +62,10 @@
 - 🍴 👤 [pinwhell](https://github.com/pinwhell) Forked [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) to [pinwhell/awesome-cpp](https://github.com/pinwhell/awesome-cpp)
   > A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by...
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
+  > A modern, Xposed-compatible framework for Android application hooking.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
@@ -69,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-01-10 15:16:45 UTC*
+*最后更新于 2026-01-10 16:20:37 UTC*
 *历史记录保存在 `archive` 目录中。*
