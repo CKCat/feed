@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xSero/ai-data-extraction](https://github.com/0xSero/ai-data-extraction) to [lallouslab/ai-data-extraction](https://github.com/lallouslab/ai-data-extraction)
+  > extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
+
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [secure-foundations/trex](https://github.com/secure-foundations/trex)
   > 🦖 Reconstruct Types from Binary Code
@@ -15,6 +19,10 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [feicong/IDAFind](https://github.com/feicong/IDAFind)
   > Have you ever wondered: what if IDA had great Ctrl+F search support for Pseudocode windows? No longe...
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+  > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -79,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-01-10 17:14:57 UTC*
+*最后更新于 2026-01-10 18:25:02 UTC*
 *历史记录保存在 `archive` 目录中。*
