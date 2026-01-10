@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [secure-foundations/trex](https://github.com/secure-foundations/trex)
+  > 🦖 Reconstruct Types from Binary Code
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [jonpalmisc/ibis](https://github.com/jonpalmisc/ibis)
   > Segment-accurate iBoot/SecureROM loader for Binary Ninja & IDA Pro
@@ -24,6 +28,10 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [winapps-org/winapps](https://github.com/winapps-org/winapps)
+  >  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they w...
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [WinterSnowfall/d7vk](https://github.com/WinterSnowfall/d7vk)
   > Vulkan-based implementation of D3D7, 6 and 5 for Linux / Wine, spun off from DXVK.
@@ -31,6 +39,10 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [eelejalde/rw-numa-locks](https://github.com/eelejalde/rw-numa-locks)
   > NUMA-Aware Reader-Writer Locks
+
+### [lzpong](https://github.com/lzpong)
+- 🌟 👤 [lzpong](https://github.com/lzpong) Starred [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+  > Scripts to build a trimmed-down Windows 11 image.
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [javalsai/lidm](https://github.com/javalsai/lidm)
@@ -57,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-01-10 14:16:23 UTC*
+*最后更新于 2026-01-10 15:16:45 UTC*
 *历史记录保存在 `archive` 目录中。*
