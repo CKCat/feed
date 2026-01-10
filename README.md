@@ -12,6 +12,10 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [secure-foundations/trex](https://github.com/secure-foundations/trex)
   > 🦖 Reconstruct Types from Binary Code
 
+### [Ahora57](https://github.com/Ahora57)
+- 🌟 👤 [Ahora57](https://github.com/Ahora57) Starred [JustAmnesias/justHash](https://github.com/JustAmnesias/justHash)
+  > A simple, crt-free 64-bit hash algorithm and PRNG. I made it because I needed a lightweight tool for...
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [jonpalmisc/ibis](https://github.com/jonpalmisc/ibis)
   > Segment-accurate iBoot/SecureROM loader for Binary Ninja & IDA Pro
@@ -49,6 +53,10 @@
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [WinterSnowfall/d7vk](https://github.com/WinterSnowfall/d7vk)
   > Vulkan-based implementation of D3D7, 6 and 5 for Linux / Wine, spun off from DXVK.
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [xzn/proton-ds5-haptic](https://github.com/xzn/proton-ds5-haptic)
+  > wip patches for dualsense haptic in proton (for additional games)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [nowrep/dualsensectl](https://github.com/nowrep/dualsensectl)
+  > Linux tool for controlling PS5 DualSense controller
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
@@ -93,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-01-10 19:13:19 UTC*
+*最后更新于 2026-01-10 20:18:38 UTC*
 *历史记录保存在 `archive` 目录中。*
