@@ -15,6 +15,10 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-01-10 11:14:48 UTC*
+*最后更新于 2026-01-10 12:34:29 UTC*
 *历史记录保存在 `archive` 目录中。*
