@@ -38,6 +38,8 @@
   > The open source coding agent.
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [CursorTouch/Android-MCP](https://github.com/CursorTouch/Android-MCP)
   > Lightweight MCP Server for interacting with Android Operating System.
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+  > Examples and guides for using the OpenAI API
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -77,6 +79,10 @@
 - 🌟 👤 [lzpong](https://github.com/lzpong) Starred [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
   > Scripts to build a trimmed-down Windows 11 image.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/ai-data-extraction](https://github.com/0xSero/ai-data-extraction)
+  > extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [javalsai/lidm](https://github.com/javalsai/lidm)
   > A ✨fully✨ colorful customizable TUI display manager made in C for simplicity.
@@ -106,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-01-10 22:16:48 UTC*
+*最后更新于 2026-01-10 23:16:41 UTC*
 *历史记录保存在 `archive` 目录中。*
