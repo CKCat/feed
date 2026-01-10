@@ -51,7 +51,11 @@
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [ZYyboT/zed-xmake](https://github.com/ZYyboT/zed-xmake)
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [flet-dev/flet](https://github.com/flet-dev/flet)
+  > Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend...
+
 
 ---
-*最后更新于 2026-01-10 12:34:29 UTC*
+*最后更新于 2026-01-10 13:27:02 UTC*
 *历史记录保存在 `archive` 目录中。*
