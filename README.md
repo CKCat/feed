@@ -8,6 +8,14 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [jonpalmisc/ibis](https://github.com/jonpalmisc/ibis)
   > Segment-accurate iBoot/SecureROM loader for Binary Ninja & IDA Pro
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [feicong/IDAFind](https://github.com/feicong/IDAFind)
+  > Have you ever wondered: what if IDA had great Ctrl+F search support for Pseudocode windows? No longe...
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
@@ -41,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-01-10 10:17:20 UTC*
+*最后更新于 2026-01-10 11:14:48 UTC*
 *历史记录保存在 `archive` 目录中。*
