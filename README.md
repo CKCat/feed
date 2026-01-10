@@ -28,7 +28,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
   > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linu...
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [ZYyboT/zed-xmake](https://github.com/ZYyboT/zed-xmake)
+
 
 ---
-*最后更新于 2026-01-10 06:26:16 UTC*
+*最后更新于 2026-01-10 07:16:42 UTC*
 *历史记录保存在 `archive` 目录中。*
