@@ -42,6 +42,9 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NeoVertex1/context-field](https://github.com/NeoVertex1/context-field)
   > Experimental research on context field prompts and cognitive regime shifts in large language models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oraios/serena](https://github.com/oraios/serena)
+  > A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zenobi-us/pi-dcp](https://github.com/zenobi-us/pi-dcp)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [akinloluwami/outray](https://github.com/akinloluwami/outray)
@@ -58,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-01-11 09:17:54 UTC*
+*最后更新于 2026-01-11 10:18:25 UTC*
 *历史记录保存在 `archive` 目录中。*
