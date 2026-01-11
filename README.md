@@ -39,9 +39,18 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [mcandre/dotsecrets](https://github.com/mcandre/dotsecrets)
   > reveal hidden printer dot codes
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NeoVertex1/context-field](https://github.com/NeoVertex1/context-field)
+  > Experimental research on context field prompts and cognitive regime shifts in large language models.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [akinloluwami/outray](https://github.com/akinloluwami/outray)
   > OpenSource ngrok alternative.
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ZacharyZcR/Windows_Injector](https://github.com/ZacharyZcR/Windows_Injector)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [itaymigdal/awesome-injection](https://github.com/itaymigdal/awesome-injection)
+  > Centralized resource for listing and organizing known injection techniques and POCs
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -49,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-01-11 08:22:49 UTC*
+*最后更新于 2026-01-11 09:17:54 UTC*
 *历史记录保存在 `archive` 目录中。*
