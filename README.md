@@ -29,11 +29,17 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [nilaoda/SharpTools](https://github.com/nilaoda/SharpTools)
   > 存放一些 C# 编写的单文件工具
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [felipeerias/clangd-mcp-server](https://github.com/felipeerias/clangd-mcp-server)
+  > Experimental implementation of a MCP for Claude Code that lets it connect to a language server like ...
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)
   > Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and req...
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [remorses/AGENTS.md](https://github.com/remorses/AGENTS.md)
   > My agents instruction files, grouped by tech
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server)
+  > Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript lib...
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)
@@ -71,6 +77,12 @@
   >  Universal ticket management MCP server for AI agents. Connect Linear, GitHub, Jira, Asana to Claude...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [c-phillips/zdo](https://github.com/c-phillips/zdo)
   > CLI Task Manager with Markdown
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alecthomas/devtodo2](https://github.com/alecthomas/devtodo2)
+  > DevTodo the Second
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md)
+  > Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosyst...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zscole/adversarial-spec](https://github.com/zscole/adversarial-spec)
+  > A Claude Code plugin that iteratively refines product specifications by debating between multiple LL...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [akinloluwami/outray](https://github.com/akinloluwami/outray)
@@ -80,6 +92,8 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ZacharyZcR/Windows_Injector](https://github.com/ZacharyZcR/Windows_Injector)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [itaymigdal/awesome-injection](https://github.com/itaymigdal/awesome-injection)
   > Centralized resource for listing and organizing known injection techniques and POCs
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [bytewreck/DumpGuard](https://github.com/bytewreck/DumpGuard)
+  > Proof-of-Concept tool for extracting NTLMv1 hashes from sessions on modern Windows systems.
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -87,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-01-11 13:27:47 UTC*
+*最后更新于 2026-01-11 14:16:33 UTC*
 *历史记录保存在 `archive` 目录中。*
