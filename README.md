@@ -33,6 +33,10 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [remorses/AGENTS.md](https://github.com/remorses/AGENTS.md)
   > My agents instruction files, grouped by tech
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)
+  > Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T...
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [Natounet/YellowDotDecode](https://github.com/Natounet/YellowDotDecode)
   > YellowDotDecode is a graphical application that decodes the hidden information embedded in the yello...
@@ -61,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-01-11 10:18:25 UTC*
+*最后更新于 2026-01-11 11:14:37 UTC*
 *历史记录保存在 `archive` 目录中。*
