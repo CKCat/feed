@@ -26,6 +26,8 @@
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [wtdcode/revm-helpers](https://github.com/wtdcode/revm-helpers)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [nilaoda/SharpTools](https://github.com/nilaoda/SharpTools)
+  > 存放一些 C# 编写的单文件工具
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)
@@ -51,6 +53,24 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oraios/serena](https://github.com/oraios/serena)
   > A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zenobi-us/pi-dcp](https://github.com/zenobi-us/pi-dcp)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [naggie/dstask](https://github.com/naggie/dstask)
+  > Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ad-si/TaskLite](https://github.com/ad-si/TaskLite)
+  > The CLI task manager for power users
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [climech/grit](https://github.com/climech/grit)
+  > Multitree-based personal task manager
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alosec/td-world](https://github.com/alosec/td-world)
+  > td: SQLite task tracker + tv: fzf TUI viewer
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Grazulex/backmark](https://github.com/Grazulex/backmark)
+  > Markdown-Native Task Management for AI-Powered Vibe Coding Workflows 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bobmatnyc/claude-mpm](https://github.com/bobmatnyc/claude-mpm)
+  > Claude Multi-Agent Project Manager - Subprocess orchestration layer for Claude
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bobmatnyc/ai-code-review](https://github.com/bobmatnyc/ai-code-review)
+  > AI-powered code review CLI with multiple providers (Gemini, Claude, OpenAI). Features 95%+ token red...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bobmatnyc/mcp-ticketer](https://github.com/bobmatnyc/mcp-ticketer)
+  >  Universal ticket management MCP server for AI agents. Connect Linear, GitHub, Jira, Asana to Claude...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [c-phillips/zdo](https://github.com/c-phillips/zdo)
+  > CLI Task Manager with Markdown
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [akinloluwami/outray](https://github.com/akinloluwami/outray)
@@ -67,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-01-11 12:35:15 UTC*
+*最后更新于 2026-01-11 13:27:47 UTC*
 *历史记录保存在 `archive` 目录中。*
