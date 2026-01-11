@@ -18,6 +18,8 @@
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)
   > Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and req...
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [remorses/AGENTS.md](https://github.com/remorses/AGENTS.md)
+  > My agents instruction files, grouped by tech
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [akinloluwami/outray](https://github.com/akinloluwami/outray)
@@ -29,5 +31,5 @@
 
 
 ---
-*最后更新于 2026-01-11 03:47:16 UTC*
+*最后更新于 2026-01-11 04:44:11 UTC*
 *历史记录保存在 `archive` 目录中。*
