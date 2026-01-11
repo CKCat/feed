@@ -14,6 +14,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)
   > A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Langu...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) to [Mufanc/ShadowHook](https://github.com/Mufanc/ShadowHook)
+  > :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [wtdcode/revm-helpers](https://github.com/wtdcode/revm-helpers)
 
@@ -39,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-01-11 05:22:27 UTC*
+*最后更新于 2026-01-11 06:27:35 UTC*
 *历史记录保存在 `archive` 目录中。*
