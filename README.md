@@ -58,6 +58,12 @@
   > Illegal rust
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [ebitengine/purego](https://github.com/ebitengine/purego)
   > A library for calling C functions from Go without Cgo
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool)
+  > Fast and effective C++ file optimizer
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kcosr/assistant](https://github.com/kcosr/assistant)
+  > Panel-based personal assistant with a plugin architecture for productivity workflows. AI agents shar...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [akinloluwami/outray](https://github.com/akinloluwami/outray)
@@ -76,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-01-11 20:19:40 UTC*
+*最后更新于 2026-01-11 21:15:55 UTC*
 *历史记录保存在 `archive` 目录中。*
