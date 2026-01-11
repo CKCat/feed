@@ -32,6 +32,8 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [felipeerias/clangd-mcp-server](https://github.com/felipeerias/clangd-mcp-server)
   > Experimental implementation of a MCP for Claude Code that lets it connect to a language server like ...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [doccker/cc-use-exp](https://github.com/doccker/cc-use-exp)
+  > claude code 提效开箱即用,总结日常规律,不定期更新.
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)
@@ -70,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-01-11 15:16:59 UTC*
+*最后更新于 2026-01-11 16:20:44 UTC*
 *历史记录保存在 `archive` 目录中。*
