@@ -36,6 +36,8 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)
   > Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien)
+  > Run unpatched binaries on Nix/NixOS
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [Natounet/YellowDotDecode](https://github.com/Natounet/YellowDotDecode)
@@ -65,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-11 11:14:37 UTC*
+*最后更新于 2026-01-11 12:35:15 UTC*
 *历史记录保存在 `archive` 目录中。*
