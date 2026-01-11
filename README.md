@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [pmonta/GNSS_Firehose](https://github.com/pmonta/GNSS_Firehose)
+  > Wideband front-end digitizer for GPS, GLONASS, Galileo, BeiDou
+- 🌟 👤 [19h](https://github.com/19h) Starred [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr)
+  > GNSS-SDR, an open-source software-defined GNSS receiver
+
 ### [Dr-TSNG](https://github.com/Dr-TSNG)
 - 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [algesten/ureq](https://github.com/algesten/ureq) to [Dr-TSNG/ureq](https://github.com/Dr-TSNG/ureq)
   > A simple, safe HTTP client
@@ -43,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-01-11 07:18:43 UTC*
+*最后更新于 2026-01-11 08:22:49 UTC*
 *历史记录保存在 `archive` 目录中。*
