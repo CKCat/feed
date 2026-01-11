@@ -54,6 +54,10 @@
   > YellowDotDecode is a graphical application that decodes the hidden information embedded in the yello...
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [mcandre/dotsecrets](https://github.com/mcandre/dotsecrets)
   > reveal hidden printer dot codes
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)
+  > Illegal rust
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [ebitengine/purego](https://github.com/ebitengine/purego)
+  > A library for calling C functions from Go without Cgo
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [akinloluwami/outray](https://github.com/akinloluwami/outray)
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-01-11 19:13:24 UTC*
+*最后更新于 2026-01-11 20:19:40 UTC*
 *历史记录保存在 `archive` 目录中。*
