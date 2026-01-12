@@ -50,6 +50,10 @@
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vrtmrz/self-hosted-livesync-server-tailscale](https://github.com/vrtmrz/self-hosted-livesync-server-tailscale)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
+  > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)
+  > Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-12 13:39:52 UTC*
+*最后更新于 2026-01-12 14:22:30 UTC*
 *历史记录保存在 `archive` 目录中。*
