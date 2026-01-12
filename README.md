@@ -20,6 +20,9 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [kusoroadeolu/annote](https://github.com/kusoroadeolu/annote)
   > Writing java using only annotations??
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [d3soxyephedrine/Jailbreaks-and-methods](https://github.com/d3soxyephedrine/Jailbreaks-and-methods)
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
   > :stars: Manage your shell commands.
@@ -29,6 +32,10 @@
   > The open source coding agent.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [THUDM/slime](https://github.com/THUDM/slime)
   > slime is an LLM post-training framework for RL Scaling.
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+  > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [arcanite24/gb-recompiled](https://github.com/arcanite24/gb-recompiled)
@@ -56,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-01-12 11:18:09 UTC*
+*最后更新于 2026-01-12 12:40:34 UTC*
 *历史记录保存在 `archive` 目录中。*
