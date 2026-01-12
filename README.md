@@ -12,6 +12,10 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [libtero/graphviewer](https://github.com/libtero/graphviewer)
   > convert execution traces into interactive control flow graphs within ida
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [kusoroadeolu/annote](https://github.com/kusoroadeolu/annote)
+  > Writing java using only annotations??
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
   > :stars: Manage your shell commands.
@@ -19,6 +23,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [THUDM/slime](https://github.com/THUDM/slime)
+  > slime is an LLM post-training framework for RL Scaling.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [arcanite24/gb-recompiled](https://github.com/arcanite24/gb-recompiled)
@@ -27,11 +33,15 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
   > It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, W...
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
+  > [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel)
   >  Elegant HTTP Caching for Python
 
 
 ---
-*最后更新于 2026-01-12 05:27:12 UTC*
+*最后更新于 2026-01-12 06:31:59 UTC*
 *历史记录保存在 `archive` 目录中。*
