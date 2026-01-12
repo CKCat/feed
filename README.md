@@ -8,6 +8,10 @@
 - 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [itssamuelrowe/Zen](https://github.com/itssamuelrowe/Zen)
   > Zen is a general purpose programming language designed to build simple, reliable and efficient progr...
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter)
+  > A cross-platform tool for parsing WhatsApp chat databases from Android and iOS/iPadOS backups. Suppo...
+
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [libtero/graphviewer](https://github.com/libtero/graphviewer)
   > convert execution traces into interactive control flow graphs within ida
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-01-12 09:28:58 UTC*
+*最后更新于 2026-01-12 10:22:23 UTC*
 *历史记录保存在 `archive` 目录中。*
