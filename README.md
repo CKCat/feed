@@ -54,6 +54,10 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [arcanite24/gb-recompiled](https://github.com/arcanite24/gb-recompiled)
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [fuqiuluo/ida-pro-mcp](https://github.com/fuqiuluo/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
@@ -72,6 +76,8 @@
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)
   > Allows you to emulate an Android native library, and an experimental  iOS emulation
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lasting-yang/frida_hook_libart](https://github.com/lasting-yang/frida_hook_libart)
+  > Frida hook some jni functions
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
@@ -85,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-01-12 18:28:46 UTC*
+*最后更新于 2026-01-12 19:18:32 UTC*
 *历史记录保存在 `archive` 目录中。*
