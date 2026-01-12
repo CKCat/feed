@@ -8,6 +8,10 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [libtero/graphviewer](https://github.com/libtero/graphviewer)
   > convert execution traces into interactive control flow graphs within ida
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
+  > :stars: Manage your shell commands.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
@@ -25,5 +29,5 @@
 
 
 ---
-*最后更新于 2026-01-12 03:46:13 UTC*
+*最后更新于 2026-01-12 04:47:07 UTC*
 *历史记录保存在 `archive` 目录中。*
