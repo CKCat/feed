@@ -20,6 +20,14 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [kusoroadeolu/annote](https://github.com/kusoroadeolu/annote)
   > Writing java using only annotations??
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)
+  > http://learnopengl.com 系列教程的简体中文翻译
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [ZeframLou/call-me](https://github.com/ZeframLou/call-me)
+  > Minimal plugin that lets Claude Code call you on the phone.
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [d3soxyephedrine/Jailbreaks-and-methods](https://github.com/d3soxyephedrine/Jailbreaks-and-methods)
 
@@ -67,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-01-12 14:22:30 UTC*
+*最后更新于 2026-01-12 15:21:54 UTC*
 *历史记录保存在 `archive` 目录中。*
