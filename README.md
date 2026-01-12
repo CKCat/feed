@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xSh4dy](https://github.com/0xSh4dy)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [itssamuelrowe/Zen](https://github.com/itssamuelrowe/Zen)
+  > Zen is a general purpose programming language designed to build simple, reliable and efficient progr...
+
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [libtero/graphviewer](https://github.com/libtero/graphviewer)
   > convert execution traces into interactive control flow graphs within ida
@@ -29,5 +33,5 @@
 
 
 ---
-*最后更新于 2026-01-12 04:47:07 UTC*
+*最后更新于 2026-01-12 05:27:12 UTC*
 *历史记录保存在 `archive` 目录中。*
