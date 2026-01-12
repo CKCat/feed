@@ -33,6 +33,9 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
   > It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, W...
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vrtmrz/self-hosted-livesync-server-tailscale](https://github.com/vrtmrz/self-hosted-livesync-server-tailscale)
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
   > [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语...
@@ -40,8 +43,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel)
   >  Elegant HTTP Caching for Python
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka)
+  > Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13...
 
 
 ---
-*最后更新于 2026-01-12 07:24:43 UTC*
+*最后更新于 2026-01-12 08:27:54 UTC*
 *历史记录保存在 `archive` 目录中。*
