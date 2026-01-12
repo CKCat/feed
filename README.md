@@ -33,6 +33,10 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [arcanite24/gb-recompiled](https://github.com/arcanite24/gb-recompiled)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tobi/qmd](https://github.com/tobi/qmd)
+  > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
   > It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, W...
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-01-12 10:22:23 UTC*
+*最后更新于 2026-01-12 11:18:09 UTC*
 *历史记录保存在 `archive` 目录中。*
