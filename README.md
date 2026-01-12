@@ -31,6 +31,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [d3soxyephedrine/Jailbreaks-and-methods](https://github.com/d3soxyephedrine/Jailbreaks-and-methods)
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell)
+  > An android Dex protection shell implementation
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
   > :stars: Manage your shell commands.
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-01-12 19:18:32 UTC*
+*最后更新于 2026-01-12 20:21:09 UTC*
 *历史记录保存在 `archive` 目录中。*
