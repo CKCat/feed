@@ -40,6 +40,8 @@
   > The open source coding agent.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [THUDM/slime](https://github.com/THUDM/slime)
   > slime is an LLM post-training framework for RL Scaling.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)
+  > Random digital audio effects
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -81,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-01-12 16:23:41 UTC*
+*最后更新于 2026-01-12 17:21:04 UTC*
 *历史记录保存在 `archive` 目录中。*
