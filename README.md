@@ -52,6 +52,8 @@
   > slime is an LLM post-training framework for RL Scaling.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise)
   > Random digital audio effects
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [PacktPublishing/Clean-Architecture-with-Python](https://github.com/PacktPublishing/Clean-Architecture-with-Python)
+  > Clean Architecture with Python, Published by Packt
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -110,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-01-12 22:16:35 UTC*
+*最后更新于 2026-01-12 23:14:33 UTC*
 *历史记录保存在 `archive` 目录中。*
