@@ -27,6 +27,8 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [ZeframLou/call-me](https://github.com/ZeframLou/call-me)
   > Minimal plugin that lets Claude Code call you on the phone.
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
+  > Mobile port of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download ...
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [d3soxyephedrine/Jailbreaks-and-methods](https://github.com/d3soxyephedrine/Jailbreaks-and-methods)
@@ -69,6 +71,8 @@
   > Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Disco...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
   > CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mojolo/Chirp-Font-X-Twitter](https://github.com/mojolo/Chirp-Font-X-Twitter)
+  > X's chirp font, converted to OTF & TTF formats.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
@@ -95,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-01-12 20:21:09 UTC*
+*最后更新于 2026-01-12 21:17:40 UTC*
 *历史记录保存在 `archive` 目录中。*
