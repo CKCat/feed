@@ -45,12 +45,18 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
   > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [ITxiao6666/Unicode_bypass_Fix](https://github.com/ITxiao6666/Unicode_bypass_Fix)
+  > 用于内核中零宽字符漏洞的修复补丁
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [arcanite24/gb-recompiled](https://github.com/arcanite24/gb-recompiled)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
+  > Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Disco...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
@@ -75,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-01-12 15:21:54 UTC*
+*最后更新于 2026-01-12 16:23:41 UTC*
 *历史记录保存在 `archive` 目录中。*
