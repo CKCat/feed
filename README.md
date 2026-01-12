@@ -59,6 +59,8 @@
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
   > Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Disco...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
+  > CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
@@ -83,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-01-12 17:21:04 UTC*
+*最后更新于 2026-01-12 18:28:46 UTC*
 *历史记录保存在 `archive` 目录中。*
