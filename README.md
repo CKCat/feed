@@ -33,6 +33,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [d3soxyephedrine/Jailbreaks-and-methods](https://github.com/d3soxyephedrine/Jailbreaks-and-methods)
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [PavoDive/swirly](https://github.com/PavoDive/swirly)
+  > Learn a python package interactively (similar to R's Swirl)
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell)
   > An android Dex protection shell implementation
@@ -73,10 +77,17 @@
   > CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mojolo/Chirp-Font-X-Twitter](https://github.com/mojolo/Chirp-Font-X-Twitter)
   > X's chirp font, converted to OTF & TTF formats.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot)
+  > An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots wit...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
   > It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, W...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [IdolTheDev/Il2CPP-Base](https://github.com/IdolTheDev/Il2CPP-Base)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [34306/HuyJIT-ModMenu](https://github.com/34306/HuyJIT-ModMenu)
+  > Huy JIT Mod Menu is a template menu for iOS that supported patching offsets/hexes for Non-jailbreak ...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sepfy/libpeer](https://github.com/sepfy/libpeer)
+  > WebRTC Library for IoT/Embedded Device using C
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vrtmrz/self-hosted-livesync-server-tailscale](https://github.com/vrtmrz/self-hosted-livesync-server-tailscale)
@@ -99,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-01-12 21:17:40 UTC*
+*最后更新于 2026-01-12 22:16:35 UTC*
 *历史记录保存在 `archive` 目录中。*
