@@ -39,6 +39,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [smitelli/cosmore](https://github.com/smitelli/cosmore)
   > A reconstruction of the source code of Cosmo's Cosmic Adventure.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [aprillz/MewUI](https://github.com/aprillz/MewUI)
+  > A cross-platform and lightweight, code-first .NET GUI library aimed at NativeAOT.
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)
@@ -63,6 +65,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
   > A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cur...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/dazhbog](https://github.com/19h/dazhbog)
+  > High-performance IDA Lumina implementation
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [ocornut/imgui_club](https://github.com/ocornut/imgui_club)
@@ -96,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-01-13 15:21:32 UTC*
+*最后更新于 2026-01-13 16:27:47 UTC*
 *历史记录保存在 `archive` 目录中。*
