@@ -35,8 +35,20 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
   > The official gpt4free repository | various collection of powerful language models | o4, o3 and deeps...
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [CloudWaddie/LMArenaBridge](https://github.com/CloudWaddie/LMArenaBridge)
+  > LMArena scripts to enable hosting an OpenAI compatible API endpoint that interacts with models on LM...
+
+### [stong](https://github.com/stong)
+- 🌟 👤 [stong](https://github.com/stong) Starred [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS)
+  > A completely vibecoded operating system targeting Aarch64
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+  > The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TencentCloudADP/youtu-tip](https://github.com/TencentCloudADP/youtu-tip)
+  > Youtu-Tip: Tap for Intelligence, Keep on Device.
 
 
 ---
-*最后更新于 2026-01-13 06:29:34 UTC*
+*最后更新于 2026-01-13 07:22:32 UTC*
 *历史记录保存在 `archive` 目录中。*
