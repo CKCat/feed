@@ -21,10 +21,16 @@
   > Share iOS system framework's symbol files. Useful for symbolicating iOS crash report.
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [opa334/XPF](https://github.com/opa334/XPF)
   > XNU Patch Finder (based on ChOma)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [opa334/Presentations](https://github.com/opa334/Presentations)
+- 🍴 👤 [0xbinder](https://github.com/0xbinder) Forked [opa334/Presentations](https://github.com/opa334/Presentations) to [0xbinder/Presentations](https://github.com/0xbinder/Presentations)
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
   > SOTA Open Source TTS
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [UnrealSharp/UnrealSharp](https://github.com/UnrealSharp/UnrealSharp)
+  > UnrealSharp is a plugin to Unreal Engine 5, which enables developers to create games using C# (.NET ...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MouriNaruto/MouriDocs](https://github.com/MouriNaruto/MouriDocs)
@@ -41,6 +47,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Graph-COM/CKA-Agent](https://github.com/Graph-COM/CKA-Agent)
   > Official Implementation of the CKA-Agent, "The Trojan Knowledge: Bypassing Commercial LLM Guardrails...
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme)
+  > Send files and folders anywhere in the world without storing in cloud - any size, any format, no acc...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
@@ -86,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-01-13 14:22:26 UTC*
+*最后更新于 2026-01-13 15:21:32 UTC*
 *历史记录保存在 `archive` 目录中。*
