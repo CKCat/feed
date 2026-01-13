@@ -30,6 +30,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MouriNaruto/MouriDocs](https://github.com/MouriNaruto/MouriDocs)
   > The repository for technical documentations created by Kenji Mouri
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [smitelli/cosmore](https://github.com/smitelli/cosmore)
+  > A reconstruction of the source code of Cosmo's Cosmic Adventure.
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)
   > Fast and minimalist 3D viewer.
@@ -41,6 +45,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
   > The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
+  > A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cur...
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [ocornut/imgui_club](https://github.com/ocornut/imgui_club)
@@ -74,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-01-13 11:17:40 UTC*
+*最后更新于 2026-01-13 12:40:27 UTC*
 *历史记录保存在 `archive` 目录中。*
