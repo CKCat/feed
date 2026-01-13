@@ -61,6 +61,8 @@
   > collection of benchmarks to measure basic GPU capabilities
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [RRZE-HPC/gpu-benches](https://github.com/RRZE-HPC/gpu-benches) to [crazyguitar/gpu-benches](https://github.com/crazyguitar/gpu-benches)
   > collection of benchmarks to measure basic GPU capabilities
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) to [crazyguitar/HPCTrainingExamples](https://github.com/crazyguitar/HPCTrainingExamples)
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [google/libprotobuf-mutator](https://github.com/google/libprotobuf-mutator)
@@ -104,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-01-13 20:21:10 UTC*
+*最后更新于 2026-01-13 21:17:59 UTC*
 *历史记录保存在 `archive` 目录中。*
