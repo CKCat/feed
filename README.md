@@ -64,6 +64,12 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) to [crazyguitar/HPCTrainingExamples](https://github.com/crazyguitar/HPCTrainingExamples)
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [google/libprotobuf-mutator](https://github.com/google/libprotobuf-mutator)
   > Library for structured fuzzing with protobuffers
@@ -106,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-01-13 21:17:59 UTC*
+*最后更新于 2026-01-13 22:18:46 UTC*
 *历史记录保存在 `archive` 目录中。*
