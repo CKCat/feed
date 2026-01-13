@@ -16,6 +16,14 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)
   > Fast and minimalist 3D viewer.
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Graph-COM/CKA-Agent](https://github.com/Graph-COM/CKA-Agent)
+  > Official Implementation of the CKA-Agent, "The Trojan Knowledge: Bypassing Commercial LLM Guardrails...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+  > The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [ocornut/imgui_club](https://github.com/ocornut/imgui_club)
   > Nice things to use along dear imgui
@@ -26,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-01-13 03:25:37 UTC*
+*最后更新于 2026-01-13 04:37:16 UTC*
 *历史记录保存在 `archive` 目录中。*
