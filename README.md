@@ -13,6 +13,14 @@
   > A client-side JavaScript library to detect if your code is running inside of a sandboxed iframe... a...
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [malus-security/sandblaster](https://github.com/malus-security/sandblaster)
   > Reversing the Apple sandbox
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
+  > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
+  > Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Zuikyo/iOS-System-Symbols](https://github.com/Zuikyo/iOS-System-Symbols)
+  > Share iOS system framework's symbol files. Useful for symbolicating iOS crash report.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [opa334/XPF](https://github.com/opa334/XPF)
+  > XNU Patch Finder (based on ChOma)
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
@@ -41,6 +49,8 @@
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [superPuero/kawa_core](https://github.com/superPuero/kawa_core)
   > Header only library collection written in c++ 20 
+- 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio)
+  > Asio C++ Library
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
@@ -52,6 +62,10 @@
 - 🌟 👤 [stong](https://github.com/stong) Starred [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS)
   > A completely vibecoded operating system targeting Aarch64
 
+### [tiann](https://github.com/tiann)
+- 🍴 👤 [tiann](https://github.com/tiann) Forked [ntnj/tunwg](https://github.com/ntnj/tunwg) to [tiann/tunwg](https://github.com/tiann/tunwg)
+  > Secure private tunnel to your local servers
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
   > The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
@@ -60,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-01-13 10:20:33 UTC*
+*最后更新于 2026-01-13 11:17:40 UTC*
 *历史记录保存在 `archive` 目录中。*
