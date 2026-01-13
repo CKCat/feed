@@ -7,6 +7,12 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [excitedplus1s/jtool2](https://github.com/excitedplus1s/jtool2)
   > jtool2 support Mac arm64 and x86_64
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [felix-pb/kfd](https://github.com/felix-pb/kfd)
+  > kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [JamesMGreene/sandblaster](https://github.com/JamesMGreene/sandblaster)
+  > A client-side JavaScript library to detect if your code is running inside of a sandboxed iframe... a...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [malus-security/sandblaster](https://github.com/malus-security/sandblaster)
+  > Reversing the Apple sandbox
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
@@ -54,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-01-13 09:25:22 UTC*
+*最后更新于 2026-01-13 10:20:33 UTC*
 *历史记录保存在 `archive` 目录中。*
