@@ -79,6 +79,10 @@
   > A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cur...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/dazhbog](https://github.com/19h/dazhbog)
   > High-performance IDA Lumina implementation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrismccord/webtmux](https://github.com/chrismccord/webtmux)
+  > Web-based terminal with tmux-specific features
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
+  > A TTS that fits in your CPU (and pocket)
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [ocornut/imgui_club](https://github.com/ocornut/imgui_club)
@@ -112,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-01-13 22:18:46 UTC*
+*最后更新于 2026-01-13 23:17:13 UTC*
 *历史记录保存在 `archive` 目录中。*
