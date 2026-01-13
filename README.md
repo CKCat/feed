@@ -32,7 +32,11 @@
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [superPuero/kawa_core](https://github.com/superPuero/kawa_core)
   > Header only library collection written in c++ 20 
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+  > The official gpt4free repository | various collection of powerful language models | o4, o3 and deeps...
+
 
 ---
-*最后更新于 2026-01-13 05:23:01 UTC*
+*最后更新于 2026-01-13 06:29:34 UTC*
 *历史记录保存在 `archive` 目录中。*
