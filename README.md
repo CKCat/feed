@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [excitedplus1s/jtool2](https://github.com/excitedplus1s/jtool2)
+  > jtool2 support Mac arm64 and x86_64
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
   > SOTA Open Source TTS
@@ -50,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-01-13 07:22:32 UTC*
+*最后更新于 2026-01-13 08:27:05 UTC*
 *历史记录保存在 `archive` 目录中。*
