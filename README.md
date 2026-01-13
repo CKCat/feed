@@ -4,11 +4,27 @@
 
 ## 今日动态
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+  > SOTA Open Source TTS
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MouriNaruto/MouriDocs](https://github.com/MouriNaruto/MouriDocs)
+  > The repository for technical documentations created by Kenji Mouri
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)
+  > Fast and minimalist 3D viewer.
+
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [ocornut/imgui_club](https://github.com/ocornut/imgui_club)
+  > Nice things to use along dear imgui
+
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [superPuero/kawa_core](https://github.com/superPuero/kawa_core)
   > Header only library collection written in c++ 20 
 
 
 ---
-*最后更新于 2026-01-13 01:21:20 UTC*
+*最后更新于 2026-01-13 03:25:37 UTC*
 *历史记录保存在 `archive` 目录中。*
