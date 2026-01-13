@@ -46,6 +46,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
   > The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [google/libprotobuf-mutator](https://github.com/google/libprotobuf-mutator)
+  > Library for structured fuzzing with protobuffers
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
   > A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cur...
@@ -82,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-01-13 12:40:27 UTC*
+*最后更新于 2026-01-13 13:38:43 UTC*
 *历史记录保存在 `archive` 目录中。*
