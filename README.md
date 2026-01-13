@@ -57,6 +57,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
   > The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [RRZE-HPC/gpu-benches](https://github.com/RRZE-HPC/gpu-benches)
+  > collection of benchmarks to measure basic GPU capabilities
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [RRZE-HPC/gpu-benches](https://github.com/RRZE-HPC/gpu-benches) to [crazyguitar/gpu-benches](https://github.com/crazyguitar/gpu-benches)
+  > collection of benchmarks to measure basic GPU capabilities
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [google/libprotobuf-mutator](https://github.com/google/libprotobuf-mutator)
@@ -100,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-01-13 16:27:47 UTC*
+*最后更新于 2026-01-13 17:24:15 UTC*
 *历史记录保存在 `archive` 目录中。*
