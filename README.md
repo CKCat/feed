@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ReverseApple/gxpc](https://github.com/ReverseApple/gxpc)
+  > Sniff XPC communication using Frida and Go
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
   > Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. ...
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS)
+  > A completely vibecoded operating system targeting Aarch64
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Kitware/VTK](https://github.com/Kitware/VTK)
@@ -65,6 +73,10 @@
   > Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping)
   > 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
+  > Download videos from almost any website worldwide
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+  > Why is this running?
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
@@ -72,7 +84,11 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+  > Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
 
 ---
-*最后更新于 2026-01-14 06:29:39 UTC*
+*最后更新于 2026-01-14 07:22:41 UTC*
 *历史记录保存在 `archive` 目录中。*
