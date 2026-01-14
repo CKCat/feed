@@ -106,6 +106,16 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [remorses/critique](https://github.com/remorses/critique)
   > TUI for reviewing git changes
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [terauss/Polymarket-Copy-Trading-Bot](https://github.com/terauss/Polymarket-Copy-Trading-Bot)
+  > Polymarket copy trading bot,Polymarket copy trading bot, Polymarket copy trading bot, Polymarket cop...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [terauss/Polymarket-Copy-Trading-Bot](https://github.com/terauss/Polymarket-Copy-Trading-Bot) to [crazyguitar/Polymarket-Copy-Trading-Bot](https://github.com/crazyguitar/Polymarket-Copy-Trading-Bot)
+  > Polymarket copy trading bot,Polymarket copy trading bot, Polymarket copy trading bot, Polymarket cop...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [litehtml/litehtml](https://github.com/litehtml/litehtml)
+  > Fast and lightweight HTML/CSS rendering engine
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
   > HyperOS enhancement module - Make HyperOS Great Again!
@@ -140,5 +150,5 @@
 
 
 ---
-*最后更新于 2026-01-14 16:26:42 UTC*
+*最后更新于 2026-01-14 17:24:34 UTC*
 *历史记录保存在 `archive` 目录中。*
