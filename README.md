@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ReverseApple/gxpc](https://github.com/ReverseApple/gxpc)
   > Sniff XPC communication using Frida and Go
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) to [Admirepowered/meta-magic_mount](https://github.com/Admirepowered/meta-magic_mount)
+  > Magic Mount Metamodule
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
   > Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. ...
@@ -77,6 +81,16 @@
   > Download videos from almost any website worldwide
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
   > Why is this running?
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
+  > Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capa...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm)
+  > The open source server management software for SSH, VNC & RDP
+
+### [tiann](https://github.com/tiann)
+- 🍴 👤 [tiann](https://github.com/tiann) Forked [huntharo/video-test](https://github.com/huntharo/video-test) to [tiann/video-test](https://github.com/tiann/video-test)
+  > Is MP4 embedding working now?
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [stm32duino/LwIP](https://github.com/stm32duino/LwIP)
+  >  Lightweight TCP/IP stack (LwIP)  is a small independent implementation of the TCP/IP protocol suite...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
@@ -90,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-01-14 07:22:41 UTC*
+*最后更新于 2026-01-14 08:26:31 UTC*
 *历史记录保存在 `archive` 目录中。*
