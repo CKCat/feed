@@ -22,6 +22,10 @@
 - 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) to [Admirepowered/meta-magic_mount](https://github.com/Admirepowered/meta-magic_mount)
   > Magic Mount Metamodule
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [thalium/symless](https://github.com/thalium/symless)
+  > IDA Pro plugin that helps reconstruct structures
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
   > Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. ...
@@ -113,8 +117,12 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
   > Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router)
+  > A Unified MCP Server Management App (MCP Manager).
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+  > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
 
 
 ---
-*最后更新于 2026-01-14 11:18:36 UTC*
+*最后更新于 2026-01-14 12:39:37 UTC*
 *历史记录保存在 `archive` 目录中。*
