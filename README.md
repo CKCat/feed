@@ -85,6 +85,8 @@
   > Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capa...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm)
   > The open source server management software for SSH, VNC & RDP
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [remorses/critique](https://github.com/remorses/critique)
+  > TUI for reviewing git changes
 
 ### [tiann](https://github.com/tiann)
 - 🍴 👤 [tiann](https://github.com/tiann) Forked [huntharo/video-test](https://github.com/huntharo/video-test) to [tiann/video-test](https://github.com/tiann/video-test)
@@ -104,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-01-14 08:26:31 UTC*
+*最后更新于 2026-01-14 09:26:16 UTC*
 *历史记录保存在 `archive` 目录中。*
