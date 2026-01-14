@@ -37,12 +37,22 @@
   > A personal note repository that looks different🤔
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher)
   > Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG)
+  > Free Images for EVE-NG and GNS3 containing routers, switches,Firewalls and other appliances, includi...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [aidyou/chatspeed](https://github.com/aidyou/chatspeed)
+  > An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, pro...
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [walles/moor](https://github.com/walles/moor) to [bet4it/moor](https://github.com/bet4it/moor)
+  > Moor is a pager. It's designed to just do the right thing without any configuration.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nashaofu/shell360](https://github.com/nashaofu/shell360)
+  > Shell360 is a cross-platform SSH and SFTP client.
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
   > AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Uni...
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
+  > A headless, extendable, multi-session, IDA Pro MCP framework.
 
 
 ---
-*最后更新于 2026-01-14 04:43:29 UTC*
+*最后更新于 2026-01-14 05:21:31 UTC*
 *历史记录保存在 `archive` 目录中。*
