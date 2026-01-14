@@ -106,6 +106,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [remorses/critique](https://github.com/remorses/critique)
   > TUI for reviewing git changes
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
+  > HyperOS enhancement module - Make HyperOS Great Again!
+
 ### [tiann](https://github.com/tiann)
 - 🍴 👤 [tiann](https://github.com/tiann) Forked [huntharo/video-test](https://github.com/huntharo/video-test) to [tiann/video-test](https://github.com/tiann/video-test)
   > Is MP4 embedding working now?
@@ -136,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-01-14 15:22:30 UTC*
+*最后更新于 2026-01-14 16:26:42 UTC*
 *历史记录保存在 `archive` 目录中。*
