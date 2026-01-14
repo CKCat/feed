@@ -112,6 +112,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [terauss/Polymarket-Copy-Trading-Bot](https://github.com/terauss/Polymarket-Copy-Trading-Bot) to [crazyguitar/Polymarket-Copy-Trading-Bot](https://github.com/crazyguitar/Polymarket-Copy-Trading-Bot)
   > Polymarket copy trading bot,Polymarket copy trading bot, Polymarket copy trading bot, Polymarket cop...
 
+### [enenH](https://github.com/enenH)
+- 🍴 👤 [enenH](https://github.com/enenH) Forked [Shirasuki/MX](https://github.com/Shirasuki/MX) to [enenH/MX](https://github.com/enenH/MX)
+  > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [litehtml/litehtml](https://github.com/litehtml/litehtml)
   > Fast and lightweight HTML/CSS rendering engine
@@ -150,5 +154,5 @@
 
 
 ---
-*最后更新于 2026-01-14 17:24:34 UTC*
+*最后更新于 2026-01-14 18:29:04 UTC*
 *历史记录保存在 `archive` 目录中。*
