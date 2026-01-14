@@ -45,6 +45,26 @@
   > Moor is a pager. It's designed to just do the right thing without any configuration.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nashaofu/shell360](https://github.com/nashaofu/shell360)
   > Shell360 is a cross-platform SSH and SFTP client.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [scipenai/tylax](https://github.com/scipenai/tylax)
+  > A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TermoraDev/termora](https://github.com/TermoraDev/termora)
+  > Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
+  > Terminal UI OS (Terminal Multiplexer)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup)
+  > a free WYSIWYG desktop markdown editor
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
+  > PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 80+ profess...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [lcomplete/huntly](https://github.com/lcomplete/huntly)
+  > Your Personal AI-Powered Information Hub
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
+  > Rapid fuzzy string matching in Python using various string metrics
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bgreenwell/doxx](https://github.com/bgreenwell/doxx)
+  > Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office ...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
+  > Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping)
+  > 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
@@ -54,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-01-14 05:21:31 UTC*
+*最后更新于 2026-01-14 06:29:39 UTC*
 *历史记录保存在 `archive` 目录中。*
