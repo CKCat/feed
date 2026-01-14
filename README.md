@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
+  > Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. ...
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools)
+  > Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
+
 
 ---
-*最后更新于 2026-01-14 01:27:29 UTC*
+*最后更新于 2026-01-14 03:44:12 UTC*
 *历史记录保存在 `archive` 目录中。*
