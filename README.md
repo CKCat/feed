@@ -30,6 +30,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
   > Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. ...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [nulastudio/NetBeauty2](https://github.com/nulastudio/NetBeauty2)
+  > Move a .NET Framework/.NET Core app runtime components and dependencies into a sub-directory and mak...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS)
   > A completely vibecoded operating system targeting Aarch64
@@ -114,6 +118,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [antarikshc/perfetto-mcp](https://github.com/antarikshc/perfetto-mcp)
+  > This is a Model Context Protocol (MCP) server that gets answers from your Perfetto Traces. It turns ...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
   > Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -121,8 +129,12 @@
   > A Unified MCP Server Management App (MCP Manager).
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
   > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+  > Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most p...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [cline/cline](https://github.com/cline/cline)
+  > Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, us...
 
 
 ---
-*最后更新于 2026-01-14 12:39:37 UTC*
+*最后更新于 2026-01-14 13:38:12 UTC*
 *历史记录保存在 `archive` 目录中。*
