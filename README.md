@@ -38,7 +38,11 @@
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [EHfive/einat-ebpf](https://github.com/EHfive/einat-ebpf)
   > An eBPF-based Endpoint-Independent(Full Cone) NAT for Linux
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development (SDD) for AI coding assistants.
+
 
 ---
-*最后更新于 2026-01-15 07:22:45 UTC*
+*最后更新于 2026-01-15 08:27:03 UTC*
 *历史记录保存在 `archive` 目录中。*
