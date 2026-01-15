@@ -16,6 +16,12 @@
 - 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) to [SeeFlowerX/Yacd-meta](https://github.com/SeeFlowerX/Yacd-meta)
   > Yet Another Clash Dashboard
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [gunrock/gunrock](https://github.com/gunrock/gunrock)
+  > Programmable CUDA/C++ GPU Graph Analytics
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [gunrock/gunrock](https://github.com/gunrock/gunrock) to [crazyguitar/gunrock](https://github.com/crazyguitar/gunrock)
+  > Programmable CUDA/C++ GPU Graph Analytics
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
   > 《动手学大模型Dive into LLMs》系列编程实践教程
@@ -44,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-01-15 08:27:03 UTC*
+*最后更新于 2026-01-15 09:25:05 UTC*
 *历史记录保存在 `archive` 目录中。*
