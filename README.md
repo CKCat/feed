@@ -4,8 +4,19 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) to [SeeFlowerX/Yacd-meta](https://github.com/SeeFlowerX/Yacd-meta)
+  > Yet Another Clash Dashboard
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+  > 《动手学大模型Dive into LLMs》系列编程实践教程
+
+### [yujincheng08](https://github.com/yujincheng08)
+- 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [EHfive/einat-ebpf](https://github.com/EHfive/einat-ebpf)
+  > An eBPF-based Endpoint-Independent(Full Cone) NAT for Linux
+
 
 ---
-*最后更新于 2026-01-15 01:23:19 UTC*
+*最后更新于 2026-01-15 03:28:24 UTC*
 *历史记录保存在 `archive` 目录中。*
