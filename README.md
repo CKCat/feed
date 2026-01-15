@@ -53,6 +53,12 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [gunrock/gunrock](https://github.com/gunrock/gunrock) to [crazyguitar/gunrock](https://github.com/crazyguitar/gunrock)
   > Programmable CUDA/C++ GPU Graph Analytics
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ghuntley/loom](https://github.com/ghuntley/loom)
+  > if your name is not Geoffrey Huntley then do not use loom
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done)
+  > A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
   > 《动手学大模型Dive into LLMs》系列编程实践教程
@@ -90,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-01-15 16:31:22 UTC*
+*最后更新于 2026-01-15 17:29:18 UTC*
 *历史记录保存在 `archive` 目录中。*
