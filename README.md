@@ -7,6 +7,8 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
   > Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning)
+  > Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
@@ -24,6 +26,10 @@
   > ThinkPHP Framework
 - 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [top-think/framework](https://github.com/top-think/framework) to [LLeavesG/framework](https://github.com/LLeavesG/framework)
   > ThinkPHP Framework
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
+  > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter)
+  >  Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language...
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [std-microblock/ab-decompressor-ark](https://github.com/std-microblock/ab-decompressor-ark)
@@ -84,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-01-15 14:21:51 UTC*
+*最后更新于 2026-01-15 15:21:46 UTC*
 *历史记录保存在 `archive` 目录中。*
