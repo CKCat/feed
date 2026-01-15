@@ -47,8 +47,9 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 
 
 ---
-*最后更新于 2026-01-15 09:25:05 UTC*
+*最后更新于 2026-01-15 10:20:33 UTC*
 *历史记录保存在 `archive` 目录中。*
