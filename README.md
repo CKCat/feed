@@ -47,6 +47,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [codexu/note-gen](https://github.com/codexu/note-gen)
   > A cross-platform Markdown AI note-taking software.
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [ltratt/pizauth](https://github.com/ltratt/pizauth)
+  > Command-line OAuth2 authentication daemon
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [gunrock/gunrock](https://github.com/gunrock/gunrock)
   > Programmable CUDA/C++ GPU Graph Analytics
@@ -99,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-01-15 21:18:27 UTC*
+*最后更新于 2026-01-15 22:18:54 UTC*
 *历史记录保存在 `archive` 目录中。*
