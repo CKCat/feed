@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🚀 👤 [Admirepowered](https://github.com/Admirepowered) Made [AndroidPatch/magic_mount](https://github.com/AndroidPatch/magic_mount) public
+  > For APatch build-in mount
+
 ### [Bzi-Han](https://github.com/Bzi-Han)
 - 🌟 👤 [Bzi-Han](https://github.com/Bzi-Han) Starred [six2dez/reconftw](https://github.com/six2dez/reconftw)
   > reconFTW is a tool designed to perform automated recon on a target domain by running the best set of...
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-01-16 15:20:45 UTC*
+*最后更新于 2026-01-16 16:24:23 UTC*
 *历史记录保存在 `archive` 目录中。*
