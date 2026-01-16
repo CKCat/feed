@@ -41,6 +41,8 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
   > AI → JSON → UI
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yui](https://github.com/evilbinary/yui)
+  > AI → JSON → UI 
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [niqiuqiux/ELFPatch](https://github.com/niqiuqiux/ELFPatch)
@@ -53,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-01-16 06:29:35 UTC*
+*最后更新于 2026-01-16 07:21:38 UTC*
 *历史记录保存在 `archive` 目录中。*
