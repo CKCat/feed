@@ -48,15 +48,30 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [yym68686/uni-api](https://github.com/yym68686/uni-api)
+  > This is a project that unifies the management of LLM APIs. It can call multiple backend services thr...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
+  > AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Uni...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
+  > LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
   > LLM Frontend for Power Users.
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
+  > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [echQoQ/RustSL](https://github.com/echQoQ/RustSL)
   > 一款基于 Rust 开发的模块化免杀框架
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [echQoQ/RustSL](https://github.com/echQoQ/RustSL) to [cbwang505/RustSL](https://github.com/cbwang505/RustSL)
   > 一款基于 Rust 开发的模块化免杀框架
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/Libefaxx](https://github.com/crazyguitar/Libefaxx)
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/AndroidInject](https://github.com/niqiuqiux/AndroidInject)
@@ -99,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-01-16 17:21:44 UTC*
+*最后更新于 2026-01-16 18:28:04 UTC*
 *历史记录保存在 `archive` 目录中。*
