@@ -50,6 +50,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yui](https://github.com/evilbinary/yui)
   > AI → JSON → UI 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fcying/compiledb-go](https://github.com/fcying/compiledb-go)
+  > Tool for generating Clang's JSON Compilation Database files for make-based build systems.
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [std-microblock/ab-decompressor-ark](https://github.com/std-microblock/ab-decompressor-ark)
   > 一个用于解压 UnityFS 格式 AssetBundle 的 C++ 工具。支持将压缩的 .ab 文件还原为未压缩状态，特别处理了《明日方舟》游戏特有的 LZ4 变体。
@@ -69,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-01-16 10:20:20 UTC*
+*最后更新于 2026-01-16 11:17:13 UTC*
 *历史记录保存在 `archive` 目录中。*
