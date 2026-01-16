@@ -45,6 +45,8 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter)
   >  Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language...
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
+  > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
@@ -97,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-01-16 16:24:23 UTC*
+*最后更新于 2026-01-16 17:21:44 UTC*
 *历史记录保存在 `archive` 目录中。*
