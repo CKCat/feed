@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [Bzi-Han](https://github.com/Bzi-Han)
+- 🌟 👤 [Bzi-Han](https://github.com/Bzi-Han) Starred [six2dez/reconftw](https://github.com/six2dez/reconftw)
+  > reconFTW is a tool designed to perform automated recon on a target domain by running the best set of...
+- 🍴 👤 [Bzi-Han](https://github.com/Bzi-Han) Forked [six2dez/reconftw](https://github.com/six2dez/reconftw) to [Bzi-Han/reconftw](https://github.com/Bzi-Han/reconftw)
+  > reconFTW is a tool designed to perform automated recon on a target domain by running the best set of...
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
   > Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
@@ -47,6 +53,10 @@
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [std-microblock/ab-decompressor-ark](https://github.com/std-microblock/ab-decompressor-ark)
   > 一个用于解压 UnityFS 格式 AssetBundle 的 C++ 工具。支持将压缩的 .ab 文件还原为未压缩状态，特别处理了《明日方舟》游戏特有的 LZ4 变体。
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
+  > pierre’s open source code
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [pinojs/pino](https://github.com/pinojs/pino)
+  > 🌲 super fast, all natural json logger
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [niqiuqiux/ELFPatch](https://github.com/niqiuqiux/ELFPatch)
@@ -59,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-01-16 09:23:55 UTC*
+*最后更新于 2026-01-16 10:20:20 UTC*
 *历史记录保存在 `archive` 目录中。*
