@@ -44,6 +44,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yui](https://github.com/evilbinary/yui)
   > AI → JSON → UI 
 
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [std-microblock/ab-decompressor-ark](https://github.com/std-microblock/ab-decompressor-ark)
+  > 一个用于解压 UnityFS 格式 AssetBundle 的 C++ 工具。支持将压缩的 .ab 文件还原为未压缩状态，特别处理了《明日方舟》游戏特有的 LZ4 变体。
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [niqiuqiux/ELFPatch](https://github.com/niqiuqiux/ELFPatch)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-01-16 08:26:18 UTC*
+*最后更新于 2026-01-16 09:23:55 UTC*
 *历史记录保存在 `archive` 目录中。*
