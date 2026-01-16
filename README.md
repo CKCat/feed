@@ -52,6 +52,10 @@
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [echQoQ/RustSL](https://github.com/echQoQ/RustSL) to [cbwang505/RustSL](https://github.com/cbwang505/RustSL)
   > 一款基于 Rust 开发的模块化免杀框架
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/AndroidInject](https://github.com/niqiuqiux/AndroidInject)
+  > Android arm64 Injector
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
   > AI → JSON → UI
@@ -89,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-01-16 13:35:39 UTC*
+*最后更新于 2026-01-16 14:20:39 UTC*
 *历史记录保存在 `archive` 目录中。*
