@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
+  > Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
   > Modern protocol-side framework based on NTQQ
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-01-16 05:22:40 UTC*
+*最后更新于 2026-01-16 06:29:35 UTC*
 *历史记录保存在 `archive` 目录中。*
