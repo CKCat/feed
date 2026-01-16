@@ -38,6 +38,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter)
   >  Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language...
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+  > LLM Frontend for Power Users.
+
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [echQoQ/RustSL](https://github.com/echQoQ/RustSL)
   > 一款基于 Rust 开发的模块化免杀框架
@@ -73,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-01-16 11:17:13 UTC*
+*最后更新于 2026-01-16 12:38:08 UTC*
 *历史记录保存在 `archive` 目录中。*
