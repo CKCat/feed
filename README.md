@@ -30,6 +30,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [AravisProject/aravis](https://github.com/AravisProject/aravis)
   > A vision library for genicam based cameras
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
+  > Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d...
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [QuantumNous/new-api](https://github.com/QuantumNous/new-api) to [NyaMisty/new-api](https://github.com/NyaMisty/new-api)
   > AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Uni...
@@ -75,7 +79,15 @@
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [rootkiter/IDA_Go_Recovery](https://github.com/rootkiter/IDA_Go_Recovery)
   > IDA7.6/IDA7.7/IDA8.1 + Python3 下，Go 在各常见 CPU架构(ARM/MIPS/x86/x64)下, ELF 文件的符号恢复脚本。已适配 Go1.2/Go1.16/Go...
 
+### [rustymagnet3000](https://github.com/rustymagnet3000)
+- 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [sensepost/gowitness](https://github.com/sensepost/gowitness)
+  > 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
+  > 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插...
+
 
 ---
-*最后更新于 2026-01-16 12:38:08 UTC*
+*最后更新于 2026-01-16 13:35:39 UTC*
 *历史记录保存在 `archive` 目录中。*
