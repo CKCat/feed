@@ -14,6 +14,10 @@
 - 🍴 👤 [Bzi-Han](https://github.com/Bzi-Han) Forked [six2dez/reconftw](https://github.com/six2dez/reconftw) to [Bzi-Han/reconftw](https://github.com/Bzi-Han/reconftw)
   > reconFTW is a tool designed to perform automated recon on a target domain by running the best set of...
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [WojciechMula/sse-popcount](https://github.com/WojciechMula/sse-popcount)
+  > SIMD (SSE) population count --- http://0x80.pl/articles/sse-popcount.html
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
   > Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
@@ -120,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-01-16 22:18:18 UTC*
+*最后更新于 2026-01-16 23:17:25 UTC*
 *历史记录保存在 `archive` 目录中。*
