@@ -86,6 +86,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fcying/compiledb-go](https://github.com/fcying/compiledb-go)
   > Tool for generating Clang's JSON Compilation Database files for make-based build systems.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yogthos/Matryoshka](https://github.com/yogthos/Matryoshka)
+  > A Local Recursive Language Model
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [std-microblock/ab-decompressor-ark](https://github.com/std-microblock/ab-decompressor-ark)
@@ -99,6 +101,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [niqiuqiux/ELFPatch](https://github.com/niqiuqiux/ELFPatch)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
   > Get 10X more out of Claude Code, Codex or any coding agent
+
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [different-ai/openwork](https://github.com/different-ai/openwork)
+  > An open-source alternative to Claude Cowork, powered by OpenCode
 
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [rootkiter/IDA_Go_Recovery](https://github.com/rootkiter/IDA_Go_Recovery)
@@ -114,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-01-16 20:19:09 UTC*
+*最后更新于 2026-01-16 21:18:18 UTC*
 *历史记录保存在 `archive` 目录中。*
