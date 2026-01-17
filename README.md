@@ -8,7 +8,11 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bkahlert/libguestfs](https://github.com/bkahlert/libguestfs)
   > Containerized libguestfs including virt-customize, guestfish, etc.
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)
+  > An active fork of curl-impersonate with more versions and build targets. A series of patches that ma...
+
 
 ---
-*最后更新于 2026-01-17 03:20:05 UTC*
+*最后更新于 2026-01-17 04:29:46 UTC*
 *历史记录保存在 `archive` 目录中。*
