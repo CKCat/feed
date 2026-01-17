@@ -12,6 +12,12 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
   > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git h...
 
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [3rd/image.nvim](https://github.com/3rd/image.nvim)
+  > 🖼️ Bringing images to Neovim.
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+  > If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bkahlert/libguestfs](https://github.com/bkahlert/libguestfs)
   > Containerized libguestfs including virt-customize, guestfish, etc.
@@ -22,11 +28,20 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
   > A Git-compatible VCS that is both simple and powerful
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hynek/argon2-cffi](https://github.com/hynek/argon2-cffi)
+  > Secure Password Hashes for Python
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [viralcode/vib-OS](https://github.com/viralcode/vib-OS)
   > World's First Vibecoded Operating System
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [paulsonkoly/chess-3](https://github.com/paulsonkoly/chess-3)
   > A chess engine written in Go.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/summarize](https://github.com/steipete/summarize)
+  > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [browser-use/agent-sdk](https://github.com/browser-use/agent-sdk)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)
@@ -42,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-01-17 16:19:46 UTC*
+*最后更新于 2026-01-17 17:14:51 UTC*
 *历史记录保存在 `archive` 目录中。*
