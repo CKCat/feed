@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
+  > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git h...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bkahlert/libguestfs](https://github.com/bkahlert/libguestfs)
   > Containerized libguestfs including virt-customize, guestfish, etc.
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-01-17 07:16:51 UTC*
+*最后更新于 2026-01-17 08:22:34 UTC*
 *历史记录保存在 `archive` 目录中。*
