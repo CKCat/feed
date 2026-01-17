@@ -19,6 +19,8 @@
   > Cross-platform library to create & extract archives, compress & decompress files, and walk virtual f...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [timvisee/send](https://github.com/timvisee/send)
   > :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
+  > A Git-compatible VCS that is both simple and powerful
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [viralcode/vib-OS](https://github.com/viralcode/vib-OS)
@@ -34,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-01-17 14:16:04 UTC*
+*最后更新于 2026-01-17 15:17:03 UTC*
 *历史记录保存在 `archive` 目录中。*
