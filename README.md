@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [microsoft/CsWin32](https://github.com/microsoft/CsWin32)
+  > A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# ...
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
   > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git h...
@@ -13,6 +17,8 @@
   > Containerized libguestfs including virt-customize, guestfish, etc.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mholt/archives](https://github.com/mholt/archives)
   > Cross-platform library to create & extract archives, compress & decompress files, and walk virtual f...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [timvisee/send](https://github.com/timvisee/send)
+  > :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [viralcode/vib-OS](https://github.com/viralcode/vib-OS)
@@ -28,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-01-17 12:34:15 UTC*
+*最后更新于 2026-01-17 13:26:41 UTC*
 *历史记录保存在 `archive` 目录中。*
