@@ -15,6 +15,8 @@
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
   > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git h...
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [pbatard/libwdi](https://github.com/pbatard/libwdi)
+  > Windows Driver Installer library for USB devices 
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [3rd/image.nvim](https://github.com/3rd/image.nvim)
@@ -63,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-01-17 18:24:27 UTC*
+*最后更新于 2026-01-17 19:13:01 UTC*
 *历史记录保存在 `archive` 目录中。*
