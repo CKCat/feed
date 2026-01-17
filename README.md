@@ -11,6 +11,8 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bkahlert/libguestfs](https://github.com/bkahlert/libguestfs)
   > Containerized libguestfs including virt-customize, guestfish, etc.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mholt/archives](https://github.com/mholt/archives)
+  > Cross-platform library to create & extract archives, compress & decompress files, and walk virtual f...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [viralcode/vib-OS](https://github.com/viralcode/vib-OS)
@@ -26,5 +28,5 @@
 
 
 ---
-*最后更新于 2026-01-17 08:22:34 UTC*
+*最后更新于 2026-01-17 09:17:22 UTC*
 *历史记录保存在 `archive` 目录中。*
