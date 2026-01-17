@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sdiehl/butler-portugal](https://github.com/sdiehl/butler-portugal)
+  > Implementation of Butler-Portugal algorithm for tensor canonicalization in Rust
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [microsoft/CsWin32](https://github.com/microsoft/CsWin32)
   > A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# ...
@@ -42,6 +46,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steipete/summarize](https://github.com/steipete/summarize)
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [browser-use/agent-sdk](https://github.com/browser-use/agent-sdk)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeroxjf/JBScrape](https://github.com/zeroxjf/JBScrape)
+  > Find jailbreakable iPhones (iOS 16.0-16.6.1, iOS 17.0) on eBay and Swappa
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)
@@ -57,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-01-17 17:14:51 UTC*
+*最后更新于 2026-01-17 18:24:27 UTC*
 *历史记录保存在 `archive` 目录中。*
