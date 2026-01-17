@@ -24,7 +24,9 @@
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [viralcode/vib-OS](https://github.com/viralcode/vib-OS)
-  > Vibecoded Production-Grade ARM64 Operating System
+  > World's First Vibecoded Operating System
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [paulsonkoly/chess-3](https://github.com/paulsonkoly/chess-3)
+  > A chess engine written in Go.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)
@@ -34,7 +36,11 @@
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)
   > An active fork of curl-impersonate with more versions and build targets. A series of patches that ma...
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+  > The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+
 
 ---
-*最后更新于 2026-01-17 15:17:03 UTC*
+*最后更新于 2026-01-17 16:19:46 UTC*
 *历史记录保存在 `archive` 目录中。*
