@@ -50,6 +50,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [browser-use/agent-sdk](https://github.com/browser-use/agent-sdk)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeroxjf/JBScrape](https://github.com/zeroxjf/JBScrape)
   > Find jailbreakable iPhones (iOS 16.0-16.6.1, iOS 17.0) on eBay and Swappa
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peterjthomson/ledger](https://github.com/peterjthomson/ledger)
+  > A modernised git interface for improved agent and human collaboration, review and control
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)
@@ -65,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-17 19:13:01 UTC*
+*最后更新于 2026-01-17 20:19:07 UTC*
 *历史记录保存在 `archive` 目录中。*
