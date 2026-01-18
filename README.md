@@ -22,7 +22,15 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [htkhiem/euphonica](https://github.com/htkhiem/euphonica)
   > An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+  > Browser automation CLI for AI agents
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [f-bader/MSRC-PatchReview](https://github.com/f-bader/MSRC-PatchReview)
+  > A PowerShell variant of the amazing patch_review.py by kevthehermit
+
 
 ---
-*最后更新于 2026-01-18 05:21:06 UTC*
+*最后更新于 2026-01-18 06:27:07 UTC*
 *历史记录保存在 `archive` 目录中。*
