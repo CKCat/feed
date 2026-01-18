@@ -27,6 +27,10 @@
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [originalankur/maptoposter](https://github.com/originalankur/maptoposter)
   > Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and e...
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [slackhq/nebula](https://github.com/slackhq/nebula)
+  > A scalable overlay networking tool with a focus on performance, simplicity and security
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [auracast-research/race-toolkit](https://github.com/auracast-research/race-toolkit)
   > Communicate with Airoha-based Bluetooth devices using the RACE protocol via Bluetooth and USB.
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-01-18 14:15:34 UTC*
+*最后更新于 2026-01-18 15:16:43 UTC*
 *历史记录保存在 `archive` 目录中。*
