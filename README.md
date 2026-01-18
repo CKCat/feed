@@ -19,6 +19,11 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bkerler/mtkclient](https://github.com/bkerler/mtkclient)
   > Mediatek Flash and Repair Utility
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [CassiopeiaCode/b4u2cc](https://github.com/CassiopeiaCode/b4u2cc)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)
+  > 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama ...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
@@ -38,6 +43,9 @@
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/SoLoad](https://github.com/niqiuqiux/SoLoad)
   > 一个独立于系统链接器的 Android ARM64 共享库加载器
+
+### [mpast](https://github.com/mpast)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [auth0-training/labs-node-working-with-organizations](https://github.com/auth0-training/labs-node-working-with-organizations) to [mpast/labs-node-working-with-organizations](https://github.com/mpast/labs-node-working-with-organizations)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zx0CF1/shredder-rs](https://github.com/zx0CF1/shredder-rs)
@@ -59,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-18 15:16:43 UTC*
+*最后更新于 2026-01-18 16:20:49 UTC*
 *历史记录保存在 `archive` 目录中。*
