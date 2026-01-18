@@ -16,6 +16,10 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [auracast-research/race-toolkit](https://github.com/auracast-research/race-toolkit)
   > Communicate with Airoha-based Bluetooth devices using the RACE protocol via Bluetooth and USB.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zx0CF1/shredder-rs](https://github.com/zx0CF1/shredder-rs)
+  > A high-fidelity x86_64 polymorphic mutation engine focused on instruction-level fragmentation and co...
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump)
   > 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-01-18 09:18:02 UTC*
+*最后更新于 2026-01-18 10:17:40 UTC*
 *历史记录保存在 `archive` 目录中。*
