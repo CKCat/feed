@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [tiann/hapi](https://github.com/tiann/hapi)
+  > App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
+
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [originalankur/maptoposter](https://github.com/originalankur/maptoposter)
   > Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and e...
@@ -12,7 +16,13 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [auracast-research/race-toolkit](https://github.com/auracast-research/race-toolkit)
   > Communicate with Airoha-based Bluetooth devices using the RACE protocol via Bluetooth and USB.
 
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump)
+  > 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [htkhiem/euphonica](https://github.com/htkhiem/euphonica)
+  > An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
+
 
 ---
-*最后更新于 2026-01-18 01:40:19 UTC*
+*最后更新于 2026-01-18 03:43:14 UTC*
 *历史记录保存在 `archive` 目录中。*
