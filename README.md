@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [nowsecure/frida-fs](https://github.com/nowsecure/frida-fs) to [ChiChou/frida-fs](https://github.com/ChiChou/frida-fs)
+  > Create a stream from a filesystem resource.
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
@@ -15,6 +19,10 @@
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [auracast-research/race-toolkit](https://github.com/auracast-research/race-toolkit)
   > Communicate with Airoha-based Bluetooth devices using the RACE protocol via Bluetooth and USB.
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/SoLoad](https://github.com/niqiuqiux/SoLoad)
+  > 一个独立于系统链接器的 Android ARM64 共享库加载器
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zx0CF1/shredder-rs](https://github.com/zx0CF1/shredder-rs)
@@ -36,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-01-18 10:17:40 UTC*
+*最后更新于 2026-01-18 11:14:21 UTC*
 *历史记录保存在 `archive` 目录中。*
