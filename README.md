@@ -8,6 +8,10 @@
 - 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [nowsecure/frida-fs](https://github.com/nowsecure/frida-fs) to [ChiChou/frida-fs](https://github.com/ChiChou/frida-fs)
   > Create a stream from a filesystem resource.
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [qwq233/lsplt-rs](https://github.com/qwq233/lsplt-rs)
+  > A Rust binding for LSPlt
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-01-18 11:14:21 UTC*
+*最后更新于 2026-01-18 12:34:29 UTC*
 *历史记录保存在 `archive` 目录中。*
