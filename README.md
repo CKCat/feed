@@ -8,9 +8,16 @@
 - 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [nowsecure/frida-fs](https://github.com/nowsecure/frida-fs) to [ChiChou/frida-fs](https://github.com/ChiChou/frida-fs)
   > Create a stream from a filesystem resource.
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/aravis-demo](https://github.com/Mq-b/aravis-demo)
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [qwq233/lsplt-rs](https://github.com/qwq233/lsplt-rs)
   > A Rust binding for LSPlt
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bkerler/mtkclient](https://github.com/bkerler/mtkclient)
+  > Mediatek Flash and Repair Utility
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [tiann/hapi](https://github.com/tiann/hapi)
@@ -48,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-01-18 13:26:35 UTC*
+*最后更新于 2026-01-18 14:15:34 UTC*
 *历史记录保存在 `archive` 目录中。*
