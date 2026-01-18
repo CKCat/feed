@@ -44,6 +44,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/SoLoad](https://github.com/niqiuqiux/SoLoad)
   > 一个独立于系统链接器的 Android ARM64 共享库加载器
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+  > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
+
 ### [mpast](https://github.com/mpast)
 - 🍴 👤 [mpast](https://github.com/mpast) Forked [auth0-training/labs-node-working-with-organizations](https://github.com/auth0-training/labs-node-working-with-organizations) to [mpast/labs-node-working-with-organizations](https://github.com/mpast/labs-node-working-with-organizations)
 
@@ -57,6 +61,22 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [htkhiem/euphonica](https://github.com/htkhiem/euphonica)
   > An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
+  > Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of ...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ahmedmani/pairipfix](https://github.com/ahmedmani/pairipfix)
+  > A simple LSPosed module to bypass signature checks for apks installed from outside google play
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled)
+  > Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Ujwaldahal/dexdumper](https://github.com/Ujwaldahal/dexdumper)
+  > 🕵️♂️ Extract DEX files from Android apps without root access using DexDumper's efficient memory anal...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [muhammadrizwan87/dexdumper](https://github.com/muhammadrizwan87/dexdumper)
+  > A sophisticated memory analysis library that extracts DEX files from running Android applications wi...
+
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [InkboxSoftware/spacegamex64](https://github.com/InkboxSoftware/spacegamex64)
+  > Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. 
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
@@ -67,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-01-18 20:19:23 UTC*
+*最后更新于 2026-01-18 21:15:30 UTC*
 *历史记录保存在 `archive` 目录中。*
