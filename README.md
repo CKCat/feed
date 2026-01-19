@@ -26,6 +26,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [RezaArbabBot/SoTap](https://github.com/RezaArbabBot/SoTap)
   > sotap is an open source project in line with so(jni) logging. Any use is at your own risk. You can c...
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
+  > Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
   > Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigrav...
@@ -36,5 +40,5 @@
 
 
 ---
-*最后更新于 2026-01-19 08:28:46 UTC*
+*最后更新于 2026-01-19 09:31:18 UTC*
 *历史记录保存在 `archive` 目录中。*
