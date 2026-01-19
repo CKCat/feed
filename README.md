@@ -18,6 +18,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [AbhiTheModder/smalisp](https://github.com/AbhiTheModder/smalisp)
   >  A very simple language server for smali with definition support & auto-completion.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [mikaku/Fiwix](https://github.com/mikaku/Fiwix)
+  > A UNIX-like kernel for the i386 architecture
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [emmett-framework/granian](https://github.com/emmett-framework/granian)
   > A Rust HTTP server for Python applications
@@ -40,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-01-19 09:31:18 UTC*
+*最后更新于 2026-01-19 10:24:49 UTC*
 *历史记录保存在 `archive` 目录中。*
