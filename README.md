@@ -21,6 +21,8 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [AbhiTheModder/smalisp](https://github.com/AbhiTheModder/smalisp)
   >  A very simple language server for smali with definition support & auto-completion.
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept)
+  > The system call intercepting library
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mikaku/Fiwix](https://github.com/mikaku/Fiwix)
@@ -54,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-01-19 11:19:12 UTC*
+*最后更新于 2026-01-19 12:42:34 UTC*
 *历史记录保存在 `archive` 目录中。*
