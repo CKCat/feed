@@ -42,6 +42,9 @@
   > Claude Code skill that removes signs of AI-generated writing from text
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IndAlok/rzweb](https://github.com/IndAlok/rzweb)
   > A complete browser-based reverse engineering platform built on Rizin, running entirely client-side v...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+  > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [emmett-framework/granian](https://github.com/emmett-framework/granian)
@@ -79,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-01-19 17:21:04 UTC*
+*最后更新于 2026-01-19 18:27:51 UTC*
 *历史记录保存在 `archive` 目录中。*
