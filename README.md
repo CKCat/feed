@@ -10,6 +10,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept)
+  > The system call intercepting library
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ghostbyt3/WinDriver-EXP](https://github.com/ghostbyt3/WinDriver-EXP)
   > This repo contains PoCs for vulnerable Windows drivers.
@@ -30,6 +34,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [RezaArbabBot/SoTap](https://github.com/RezaArbabBot/SoTap)
   > sotap is an open source project in line with so(jni) logging. Any use is at your own risk. You can c...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+  > SoTA open-source TTS
+
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
   > Samples for CUDA Developers which demonstrates features in CUDA Toolkit
@@ -41,8 +49,10 @@
   > Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude,...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+  > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
 
 
 ---
-*最后更新于 2026-01-19 10:24:49 UTC*
+*最后更新于 2026-01-19 11:19:12 UTC*
 *历史记录保存在 `archive` 目录中。*
