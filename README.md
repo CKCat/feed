@@ -31,8 +31,10 @@
   > Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigrav...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)
   > Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude,...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 
 
 ---
-*最后更新于 2026-01-19 05:28:53 UTC*
+*最后更新于 2026-01-19 06:34:17 UTC*
 *历史记录保存在 `archive` 目录中。*
