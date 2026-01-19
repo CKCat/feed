@@ -28,9 +28,18 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept)
   > The system call intercepting library
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mcihad/Blazwind](https://github.com/mcihad/Blazwind)
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mikaku/Fiwix](https://github.com/mikaku/Fiwix)
   > A UNIX-like kernel for the i386 architecture
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [blader/humanizer](https://github.com/blader/humanizer)
+  > Claude Code skill that removes signs of AI-generated writing from text
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IndAlok/rzweb](https://github.com/IndAlok/rzweb)
+  > A complete browser-based reverse engineering platform built on Rizin, running entirely client-side v...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [emmett-framework/granian](https://github.com/emmett-framework/granian)
@@ -66,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-01-19 15:22:49 UTC*
+*最后更新于 2026-01-19 16:25:10 UTC*
 *历史记录保存在 `archive` 目录中。*
