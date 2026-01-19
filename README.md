@@ -30,6 +30,8 @@
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mcihad/Blazwind](https://github.com/mcihad/Blazwind)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [BlazorStatic/BlazorStatic](https://github.com/BlazorStatic/BlazorStatic)
+  > Harness the power of Blazor to craft static websites.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mikaku/Fiwix](https://github.com/mikaku/Fiwix)
@@ -50,6 +52,8 @@
   > sotap is an open source project in line with so(jni) logging. Any use is at your own risk. You can c...
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [apkunpacker/nathanlr](https://github.com/apkunpacker/nathanlr)
   > Semi-Jailbreak for 16.5.1-16.7 RC, 17.0
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [QM4RS/frida-java-crypto-spy](https://github.com/QM4RS/frida-java-crypto-spy)
+  > 📦 frida-java-crypto-spy 🕵️‍♂️ A Frida script to hook and log Java Cipher operations (init, update, d...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
@@ -75,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-01-19 16:25:10 UTC*
+*最后更新于 2026-01-19 17:21:04 UTC*
 *历史记录保存在 `archive` 目录中。*
