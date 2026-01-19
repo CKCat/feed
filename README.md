@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
+  > 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store)
   > A free, open-source app store for GitHub releases — browse, discover, and install apps with one clic...
@@ -35,10 +39,16 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [RezaArbabBot/SoTap](https://github.com/RezaArbabBot/SoTap)
   > sotap is an open source project in line with so(jni) logging. Any use is at your own risk. You can c...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [apkunpacker/nathanlr](https://github.com/apkunpacker/nathanlr)
+  > Semi-Jailbreak for 16.5.1-16.7 RC, 17.0
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
   > SoTA open-source TTS
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+  > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
@@ -56,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-01-19 14:24:22 UTC*
+*最后更新于 2026-01-19 15:22:49 UTC*
 *历史记录保存在 `archive` 目录中。*
