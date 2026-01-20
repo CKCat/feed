@@ -14,6 +14,12 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS)
   > OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
+  > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
+  > A modern, Xposed-compatible framework for Android application hooking.
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [upa/mscp](https://github.com/upa/mscp)
   > mscp: transfer files over multiple SSH (SFTP) connections
@@ -42,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-01-20 06:31:46 UTC*
+*最后更新于 2026-01-20 07:24:38 UTC*
 *历史记录保存在 `archive` 目录中。*
