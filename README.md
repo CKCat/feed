@@ -40,6 +40,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [SeanHeelan/anamnesis-release](https://github.com/SeanHeelan/anamnesis-release)
+  > Automatic Exploit Generation with LLMs
+
 ### [wrlu](https://github.com/wrlu)
 - 🌟 👤 [wrlu](https://github.com/wrlu) Starred [ranlor/WAL-parser-sqlite](https://github.com/ranlor/WAL-parser-sqlite)
   > Write Ahead Log parser and reader with multiple ways to recover data
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-01-20 11:21:09 UTC*
+*最后更新于 2026-01-20 12:42:58 UTC*
 *历史记录保存在 `archive` 目录中。*
