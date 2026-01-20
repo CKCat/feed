@@ -18,6 +18,10 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
   > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
+  > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
@@ -28,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-01-20 04:41:49 UTC*
+*最后更新于 2026-01-20 05:26:00 UTC*
 *历史记录保存在 `archive` 目录中。*
