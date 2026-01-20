@@ -1,86 +1,14 @@
-# 每日 GitHub 动态 (2026-01-19)
+# 每日 GitHub 动态 (2026-01-20)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [Admirepowered](https://github.com/Admirepowered)
-- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
-  > 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store)
-  > A free, open-source app store for GitHub releases — browse, discover, and install apps with one clic...
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
-  > Make You Happy!
-
-### [LLeavesG](https://github.com/LLeavesG)
-- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept)
-  > The system call intercepting library
-
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ghostbyt3/WinDriver-EXP](https://github.com/ghostbyt3/WinDriver-EXP)
-  > This repo contains PoCs for vulnerable Windows drivers.
-
-### [SeeFlowerX](https://github.com/SeeFlowerX)
-- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [AbhiTheModder/smalisp](https://github.com/AbhiTheModder/smalisp)
-  >  A very simple language server for smali with definition support & auto-completion.
-- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept)
-  > The system call intercepting library
-
-### [T5ive](https://github.com/T5ive)
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mcihad/Blazwind](https://github.com/mcihad/Blazwind)
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [BlazorStatic/BlazorStatic](https://github.com/BlazorStatic/BlazorStatic)
-  > Harness the power of Blazor to craft static websites.
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [mikaku/Fiwix](https://github.com/mikaku/Fiwix)
-  > A UNIX-like kernel for the i386 architecture
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [blader/humanizer](https://github.com/blader/humanizer)
-  > Claude Code skill that removes signs of AI-generated writing from text
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IndAlok/rzweb](https://github.com/IndAlok/rzweb)
-  > A complete browser-based reverse engineering platform built on Rizin, running entirely client-side v...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
-  > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
-
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [emmett-framework/granian](https://github.com/emmett-framework/granian)
-  > A Rust HTTP server for Python applications
-
-### [pwnipc](https://github.com/pwnipc)
-- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [RezaArbabBot/SoTap](https://github.com/RezaArbabBot/SoTap)
-  > sotap is an open source project in line with so(jni) logging. Any use is at your own risk. You can c...
-- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [apkunpacker/nathanlr](https://github.com/apkunpacker/nathanlr)
-  > Semi-Jailbreak for 16.5.1-16.7 RC, 17.0
-- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [QM4RS/frida-java-crypto-spy](https://github.com/QM4RS/frida-java-crypto-spy)
-  > 📦 frida-java-crypto-spy 🕵️‍♂️ A Frida script to hook and log Java Cipher operations (init, update, d...
-
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
-  > SoTA open-source TTS
-
-### [yuchuangu85](https://github.com/yuchuangu85)
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
-  > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-### [yujincheng08](https://github.com/yujincheng08)
-- 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
-  > Samples for CUDA Developers which demonstrates features in CUDA Toolkit
-
-### [zu1k](https://github.com/zu1k)
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
-  > Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigrav...
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)
-  > Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude,...
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-  > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+  > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 
 ---
-*最后更新于 2026-01-19 23:17:47 UTC*
+*最后更新于 2026-01-20 01:24:30 UTC*
 *历史记录保存在 `archive` 目录中。*
