@@ -53,6 +53,8 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [liriliri/aya](https://github.com/liriliri/aya) to [yuchuangu85/aya](https://github.com/yuchuangu85/aya)
+  > Android ADB desktop app
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [upstash/context7](https://github.com/upstash/context7)
@@ -60,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-01-20 13:43:25 UTC*
+*最后更新于 2026-01-20 14:27:33 UTC*
 *历史记录保存在 `archive` 目录中。*
