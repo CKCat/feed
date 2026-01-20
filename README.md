@@ -8,12 +8,6 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [HavenOverflow/Cr50](https://github.com/HavenOverflow/Cr50)
   > EC-based firmware for the Google Security Chip
 
-### [LLeavesG](https://github.com/LLeavesG)
-- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) to [LLeavesG/ComfyUI](https://github.com/LLeavesG/ComfyUI)
-  > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [langchain-ai/langchain](https://github.com/langchain-ai/langchain) to [LLeavesG/langchain](https://github.com/LLeavesG/langchain)
-  > 🦜🔗 The platform for reliable agents.
-
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS)
   > OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
@@ -56,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-01-20 09:30:02 UTC*
+*最后更新于 2026-01-20 10:24:30 UTC*
 *历史记录保存在 `archive` 目录中。*
