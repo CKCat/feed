@@ -35,6 +35,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
   > Algorithm powering the For You feed on X
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA MCP Server
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-01-20 12:42:58 UTC*
+*最后更新于 2026-01-20 13:43:25 UTC*
 *历史记录保存在 `archive` 目录中。*
