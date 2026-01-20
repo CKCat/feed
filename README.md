@@ -32,6 +32,10 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
   > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+  > Algorithm powering the For You feed on X
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
@@ -50,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-01-20 10:24:30 UTC*
+*最后更新于 2026-01-20 11:21:09 UTC*
 *历史记录保存在 `archive` 目录中。*
