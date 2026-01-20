@@ -42,6 +42,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
 
+### [wrlu](https://github.com/wrlu)
+- 🌟 👤 [wrlu](https://github.com/wrlu) Starred [ranlor/WAL-parser-sqlite](https://github.com/ranlor/WAL-parser-sqlite)
+  > Write Ahead Log parser and reader with multiple ways to recover data
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-01-20 08:27:55 UTC*
+*最后更新于 2026-01-20 09:30:02 UTC*
 *历史记录保存在 `archive` 目录中。*
