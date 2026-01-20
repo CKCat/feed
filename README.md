@@ -4,6 +4,16 @@
 
 ## 今日动态
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) to [LLeavesG/ComfyUI](https://github.com/LLeavesG/ComfyUI)
+  > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [langchain-ai/langchain](https://github.com/langchain-ai/langchain) to [LLeavesG/langchain](https://github.com/LLeavesG/langchain)
+  > 🦜🔗 The platform for reliable agents.
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS)
+  > OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [upa/mscp](https://github.com/upa/mscp)
   > mscp: transfer files over multiple SSH (SFTP) connections
@@ -32,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-01-20 05:26:00 UTC*
+*最后更新于 2026-01-20 06:31:46 UTC*
 *历史记录保存在 `archive` 目录中。*
