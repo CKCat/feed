@@ -74,6 +74,10 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [SeanHeelan/anamnesis-release](https://github.com/SeanHeelan/anamnesis-release)
   > Automatic Exploit Generation with LLMs
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+
 ### [wrlu](https://github.com/wrlu)
 - 🌟 👤 [wrlu](https://github.com/wrlu) Starred [ranlor/WAL-parser-sqlite](https://github.com/ranlor/WAL-parser-sqlite)
   > Write Ahead Log parser and reader with multiple ways to recover data
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-01-20 17:26:09 UTC*
+*最后更新于 2026-01-20 18:31:14 UTC*
 *历史记录保存在 `archive` 目录中。*
