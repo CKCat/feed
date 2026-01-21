@@ -7,6 +7,7 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [driver1998/CoreAppFx](https://github.com/driver1998/CoreAppFx)
   > UWP on .NET Framework, because we can
+- 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [lvgl/lv_port_pc_vscode](https://github.com/lvgl/lv_port_pc_vscode) to [MouriNaruto/lv_port_pc_vscode](https://github.com/MouriNaruto/lv_port_pc_vscode)
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
@@ -19,11 +20,13 @@
 - 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [bkerler/mtkclient](https://github.com/bkerler/mtkclient) to [R0rt1z2/mtkclient_2.1.2](https://github.com/R0rt1z2/mtkclient_2.1.2)
   > Mediatek Flash and Repair Utility
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
-  > PoC for CVE-2024-23700, privilege escalation allows silently obtain permissions to read/write contac...
+  > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ZhangHanDong/rust-skills](https://github.com/ZhangHanDong/rust-skills)
   > Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [1c7/Fitness](https://github.com/1c7/Fitness)
+  > 健身教学（高质量）帮你减脂，增肌（以及拉伸放松，热身，体态，康复）（有大量 B 站和抖音视频）
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
@@ -36,6 +39,8 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
   > Power full Task Manager
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
@@ -43,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-01-21 11:21:18 UTC*
+*最后更新于 2026-01-21 12:42:46 UTC*
 *历史记录保存在 `archive` 目录中。*
