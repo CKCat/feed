@@ -22,6 +22,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+  > A fancy self-hosted monitoring tool
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ZhangHanDong/rust-skills](https://github.com/ZhangHanDong/rust-skills)
   > Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
@@ -48,7 +52,11 @@
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
   > build-once run-anywhere c library
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [k4yt3x/video2x](https://github.com/k4yt3x/video2x)
+  > A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Val...
+
 
 ---
-*最后更新于 2026-01-21 13:42:31 UTC*
+*最后更新于 2026-01-21 14:27:34 UTC*
 *历史记录保存在 `archive` 目录中。*
