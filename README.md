@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [driver1998/CoreAppFx](https://github.com/driver1998/CoreAppFx)
+  > UWP on .NET Framework, because we can
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
   > 🎥      Make videos programmatically with React
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [code-hike/codehike](https://github.com/code-hike/codehike)
   > Build rich content websites with Markdown and React
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [bkerler/mtkclient](https://github.com/bkerler/mtkclient) to [R0rt1z2/mtkclient_2.1.2](https://github.com/R0rt1z2/mtkclient_2.1.2)
+  > Mediatek Flash and Repair Utility
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ZhangHanDong/rust-skills](https://github.com/ZhangHanDong/rust-skills)
@@ -26,7 +34,11 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
   > Power full Task Manager
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
+  > build-once run-anywhere c library
+
 
 ---
-*最后更新于 2026-01-21 08:27:39 UTC*
+*最后更新于 2026-01-21 09:29:26 UTC*
 *历史记录保存在 `archive` 目录中。*
