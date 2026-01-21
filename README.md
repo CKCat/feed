@@ -36,6 +36,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
+  > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
   > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
@@ -48,6 +52,14 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS)
   > GLM-TTS: Controllable & Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remotion-dev/skills](https://github.com/remotion-dev/skills)
+  > Agent Skills
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ElectronicCats/FlatSat](https://github.com/ElectronicCats/FlatSat)
+  > The Hackable Satellite
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
   > build-once run-anywhere c library
@@ -58,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-01-21 15:28:23 UTC*
+*最后更新于 2026-01-21 16:40:14 UTC*
 *历史记录保存在 `archive` 目录中。*
