@@ -41,6 +41,8 @@
   > Power full Task Manager
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS)
+  > GLM-TTS: Controllable & Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
@@ -48,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-01-21 12:42:46 UTC*
+*最后更新于 2026-01-21 13:42:31 UTC*
 *历史记录保存在 `archive` 目录中。*
