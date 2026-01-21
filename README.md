@@ -47,6 +47,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
   > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain)
+  > Securely synchronize files with your devices on iOS using Syncthing
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
   > Power full Task Manager
@@ -73,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-01-21 21:24:51 UTC*
+*最后更新于 2026-01-21 22:21:31 UTC*
 *历史记录保存在 `archive` 目录中。*
