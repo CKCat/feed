@@ -22,7 +22,11 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
   > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
+  > Power full Task Manager
+
 
 ---
-*最后更新于 2026-01-21 06:32:02 UTC*
+*最后更新于 2026-01-21 07:25:10 UTC*
 *历史记录保存在 `archive` 目录中。*
