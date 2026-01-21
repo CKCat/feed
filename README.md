@@ -63,6 +63,12 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remotion-dev/skills](https://github.com/remotion-dev/skills)
   > Agent Skills
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ritz-1337/fortnite-external-evo.gj](https://github.com/ritz-1337/fortnite-external-evo.gj)
+  > an open source fortnite external cheat hack what ever u want to call it called evo.gj bc evo.gg use ...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [0xeb/lldb-copilot](https://github.com/0xeb/lldb-copilot)
+  > LLDB Copilot - A simple AI agent debugging assistant plugin
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ElectronicCats/FlatSat](https://github.com/ElectronicCats/FlatSat)
   > The Hackable Satellite
@@ -77,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-01-21 22:21:31 UTC*
+*最后更新于 2026-01-21 23:21:53 UTC*
 *历史记录保存在 `archive` 目录中。*
