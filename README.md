@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+  > 🎥      Make videos programmatically with React
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [code-hike/codehike](https://github.com/code-hike/codehike)
+  > Build rich content websites with Markdown and React
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ZhangHanDong/rust-skills](https://github.com/ZhangHanDong/rust-skills)
   > Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
@@ -18,5 +24,5 @@
 
 
 ---
-*最后更新于 2026-01-21 03:40:59 UTC*
+*最后更新于 2026-01-21 04:41:17 UTC*
 *历史记录保存在 `archive` 目录中。*
