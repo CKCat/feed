@@ -13,10 +13,13 @@
   > 🎥      Make videos programmatically with React
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [code-hike/codehike](https://github.com/code-hike/codehike)
   > Build rich content websites with Markdown and React
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [bkerler/mtkclient](https://github.com/bkerler/mtkclient) to [R0rt1z2/mtkclient_2.1.2](https://github.com/R0rt1z2/mtkclient_2.1.2)
   > Mediatek Flash and Repair Utility
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
+  > PoC for CVE-2024-23700, privilege escalation allows silently obtain permissions to read/write contac...
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ZhangHanDong/rust-skills](https://github.com/ZhangHanDong/rust-skills)
@@ -40,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-01-21 09:29:26 UTC*
+*最后更新于 2026-01-21 10:24:52 UTC*
 *历史记录保存在 `archive` 目录中。*
