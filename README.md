@@ -18,6 +18,12 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [rofl0r/microsocks](https://github.com/rofl0r/microsocks)
   > tiny, portable SOCKS5 server with very moderate resource usage
 
+### [Mrack](https://github.com/Mrack)
+- 🚀 👤 [Mrack](https://github.com/Mrack) Made [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi) public
+  > 更稳定的劫持Zygote在App启动前注入so
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
@@ -31,6 +37,9 @@
   > A Datacenter Scale Distributed Inference Serving Framework
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [uccl-project/uccl](https://github.com/uccl-project/uccl) to [crazyguitar/uccl](https://github.com/crazyguitar/uccl)
   > UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache trans...
+
+### [divyam234](https://github.com/divyam234)
+- 🚀 👤 [divyam234](https://github.com/divyam234) Made [tgdrive/vfscache-proxy](https://github.com/tgdrive/vfscache-proxy) public
 
 ### [iGio90](https://github.com/iGio90)
 - 🌟 👤 [iGio90](https://github.com/iGio90) Starred [gherghett/Antigravity-Shit-Chat](https://github.com/gherghett/Antigravity-Shit-Chat)
@@ -52,6 +61,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
 
+### [w296488320](https://github.com/w296488320)
+- 🍴 👤 [w296488320](https://github.com/w296488320) Forked [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) to [w296488320/MyLSPlant](https://github.com/w296488320/MyLSPlant)
+  > A hook framework for Android Runtime (ART)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [0xRick/PE-Parser](https://github.com/0xRick/PE-Parser)
   > https://0xrick.github.io/win-internals/pe8/
@@ -67,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-01-22 12:41:52 UTC*
+*最后更新于 2026-01-22 13:43:45 UTC*
 *历史记录保存在 `archive` 目录中。*
