@@ -22,6 +22,18 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
   > A modern, Xposed-compatible framework for Android application hooking.
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
+  > A Datacenter Scale Distributed Inference Serving Framework
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
+  > Next-Generation Remote Analysis Suite for Reverse Engineering.
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
+  > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [1193776794/launch_](https://github.com/1193776794/launch_)
 
@@ -31,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-01-22 07:24:47 UTC*
+*最后更新于 2026-01-22 08:27:40 UTC*
 *历史记录保存在 `archive` 目录中。*
