@@ -8,6 +8,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
@@ -85,6 +89,8 @@
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [1193776794/launch_](https://github.com/1193776794/launch_)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [xuemian168/android-locker](https://github.com/xuemian168/android-locker)
+  > A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warran...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropics/skills](https://github.com/anthropics/skills)
@@ -94,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-01-22 15:27:45 UTC*
+*最后更新于 2026-01-22 16:31:41 UTC*
 *历史记录保存在 `archive` 目录中。*
