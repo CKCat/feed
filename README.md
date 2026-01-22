@@ -14,6 +14,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [zalexdev/wpair-app](https://github.com/zalexdev/wpair-app)
   > WPair is a defensive security research tool that demonstrates the CVE-2025-36911 (eg WhisperPair) vu...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [rofl0r/microsocks](https://github.com/rofl0r/microsocks)
+  > tiny, portable SOCKS5 server with very moderate resource usage
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
@@ -25,6 +29,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
   > A Datacenter Scale Distributed Inference Serving Framework
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [uccl-project/uccl](https://github.com/uccl-project/uccl) to [crazyguitar/uccl](https://github.com/crazyguitar/uccl)
+  > UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache trans...
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
@@ -33,6 +39,8 @@
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [1193776794/launch_](https://github.com/1193776794/launch_)
@@ -43,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-01-22 08:27:40 UTC*
+*最后更新于 2026-01-22 09:29:42 UTC*
 *历史记录保存在 `archive` 目录中。*
