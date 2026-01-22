@@ -36,6 +36,10 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
   > A modern, Xposed-compatible framework for Android application hooking.
 
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [xmtggh/VideoCalling](https://github.com/xmtggh/VideoCalling)
+  > 局域网p2p视频聊天
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
   > A Datacenter Scale Distributed Inference Serving Framework
@@ -66,6 +70,8 @@
   > Rust virtual machine and JIT compiler for eBPF programs
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub) to [mrexodia/gdbstub](https://github.com/mrexodia/gdbstub)
   > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coplane/localsandbox](https://github.com/coplane/localsandbox)
+  > Lightweight AgentFS sandbox that runs bash and python.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)
@@ -102,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-01-22 17:25:37 UTC*
+*最后更新于 2026-01-22 18:28:12 UTC*
 *历史记录保存在 `archive` 目录中。*
