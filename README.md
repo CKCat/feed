@@ -28,6 +28,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
   > 更稳定的劫持Zygote在App启动前注入so
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
@@ -108,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-01-22 18:28:12 UTC*
+*最后更新于 2026-01-22 19:22:04 UTC*
 *历史记录保存在 `archive` 目录中。*
