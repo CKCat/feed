@@ -56,8 +56,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 
 ---
-*最后更新于 2026-01-22 10:24:01 UTC*
+*最后更新于 2026-01-22 11:20:29 UTC*
 *历史记录保存在 `archive` 目录中。*
