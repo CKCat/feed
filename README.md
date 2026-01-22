@@ -14,7 +14,14 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
+  > A modern, Xposed-compatible framework for Android application hooking.
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [1193776794/launch_](https://github.com/1193776794/launch_)
+
 
 ---
-*最后更新于 2026-01-22 01:27:19 UTC*
+*最后更新于 2026-01-22 03:44:55 UTC*
 *历史记录保存在 `archive` 目录中。*
