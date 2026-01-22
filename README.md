@@ -51,6 +51,14 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
   > An extremely fast Python package and project manager, written in Rust.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [sha0coder/mwemu](https://github.com/sha0coder/mwemu) to [mrexodia/mwemu](https://github.com/mrexodia/mwemu)
+  > x86 malware emulator
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)
+  > A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
   > Next-Generation Remote Analysis Suite for Reverse Engineering.
@@ -80,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-01-22 13:43:45 UTC*
+*最后更新于 2026-01-22 14:26:54 UTC*
 *历史记录保存在 `archive` 目录中。*
