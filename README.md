@@ -32,6 +32,14 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [uccl-project/uccl](https://github.com/uccl-project/uccl) to [crazyguitar/uccl](https://github.com/crazyguitar/uccl)
   > UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache trans...
 
+### [iGio90](https://github.com/iGio90)
+- 🌟 👤 [iGio90](https://github.com/iGio90) Starred [gherghett/Antigravity-Shit-Chat](https://github.com/gherghett/Antigravity-Shit-Chat)
+  > A hacky real-time mobile interface to watch and interact with Antigravity chats while you’re away fr...
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes)
+  > Notes manager for macOS/iOS
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
   > Next-Generation Remote Analysis Suite for Reverse Engineering.
@@ -51,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-01-22 09:29:42 UTC*
+*最后更新于 2026-01-22 10:24:01 UTC*
 *历史记录保存在 `archive` 目录中。*
