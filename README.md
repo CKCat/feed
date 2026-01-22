@@ -54,6 +54,12 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [sha0coder/mwemu](https://github.com/sha0coder/mwemu) to [mrexodia/mwemu](https://github.com/mrexodia/mwemu)
   > x86 malware emulator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mborgerson/gdbstub](https://github.com/mborgerson/gdbstub)
+  > Simple, single-file, dependency-free GDB stub that can be easily dropped in to your project.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [solana-labs/rbpf](https://github.com/solana-labs/rbpf)
+  > Rust virtual machine and JIT compiler for eBPF programs
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub) to [mrexodia/gdbstub](https://github.com/mrexodia/gdbstub)
+  > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)
@@ -88,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-01-22 14:26:54 UTC*
+*最后更新于 2026-01-22 15:27:45 UTC*
 *历史记录保存在 `archive` 目录中。*
