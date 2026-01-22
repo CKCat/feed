@@ -39,6 +39,8 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes)
   > Notes manager for macOS/iOS
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+  > An extremely fast Python package and project manager, written in Rust.
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
@@ -49,6 +51,10 @@
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [0xRick/PE-Parser](https://github.com/0xRick/PE-Parser)
+  > https://0xrick.github.io/win-internals/pe8/
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [1193776794/launch_](https://github.com/1193776794/launch_)
@@ -61,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-22 11:20:29 UTC*
+*最后更新于 2026-01-22 12:41:52 UTC*
 *历史记录保存在 `archive` 目录中。*
