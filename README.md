@@ -41,6 +41,8 @@
   > A Datacenter Scale Distributed Inference Serving Framework
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [uccl-project/uccl](https://github.com/uccl-project/uccl) to [crazyguitar/uccl](https://github.com/crazyguitar/uccl)
   > UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache trans...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+  > Algorithm powering the For You feed on X
 
 ### [divyam234](https://github.com/divyam234)
 - 🚀 👤 [divyam234](https://github.com/divyam234) Made [tgdrive/vfscache-proxy](https://github.com/tgdrive/vfscache-proxy) public
@@ -100,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-01-22 16:31:41 UTC*
+*最后更新于 2026-01-22 17:25:37 UTC*
 *历史记录保存在 `archive` 目录中。*
