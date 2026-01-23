@@ -16,6 +16,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [w296488320/AndroidChooseDemo](https://github.com/w296488320/AndroidChooseDemo)
   > choose demo
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge)
+  > Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token over...
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
   > Claude Code, OpenCode Coding Agent Terminal Session manager via tmux and git Worktrees
@@ -45,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-01-23 11:18:04 UTC*
+*最后更新于 2026-01-23 12:40:24 UTC*
 *历史记录保存在 `archive` 目录中。*
