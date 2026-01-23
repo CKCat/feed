@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [vector-of-bool/cmrc](https://github.com/vector-of-bool/cmrc)
+  > A Resource Compiler in a Single CMake Script
+
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [atopile/atopile](https://github.com/atopile/atopile)
+  > Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and...
+
 
 ---
-*最后更新于 2026-01-23 01:25:01 UTC*
+*最后更新于 2026-01-23 03:39:40 UTC*
 *历史记录保存在 `archive` 目录中。*
