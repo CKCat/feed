@@ -22,7 +22,7 @@
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-  > Claude Code, OpenCode Coding Agent Terminal Session manager via tmux and git Worktrees
+  > Claude Code, OpenCode, Codex Coding Agent Terminal Session manager via tmux and git Worktrees
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
@@ -33,6 +33,8 @@
   > A post-modern modal text editor.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mikesiko/PracticalMalwareAnalysis-Labs](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
   > Binaries for the book Practical Malware Analysis
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remorses/critique](https://github.com/remorses/critique)
+  > TUI for reviewing git changes
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
@@ -49,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-01-23 12:40:24 UTC*
+*最后更新于 2026-01-23 13:40:00 UTC*
 *历史记录保存在 `archive` 目录中。*
