@@ -23,8 +23,13 @@
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)
   > Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [JetBrains/hirschgarten](https://github.com/JetBrains/hirschgarten)
+  > A new approach to Bazel support for IntelliJ IDEA
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [cargo-bsp/cargo-bsp](https://github.com/cargo-bsp/cargo-bsp)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [microsoft/build-server-for-gradle](https://github.com/microsoft/build-server-for-gradle)
+  > An implementation of the Build Server Protocol for Gradle
 
 
 ---
-*最后更新于 2026-01-23 07:22:59 UTC*
+*最后更新于 2026-01-23 08:26:40 UTC*
 *历史记录保存在 `archive` 目录中。*
