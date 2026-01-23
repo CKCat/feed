@@ -23,6 +23,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
   > Claude Code, OpenCode, Codex Coding Agent Terminal Session manager via tmux and git Worktrees
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+  > 《动手学大模型Dive into LLMs》系列编程实践教程
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) to [crazyguitar/dive-into-llms](https://github.com/crazyguitar/dive-into-llms)
+  > 《动手学大模型Dive into LLMs》系列编程实践教程
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-23 16:26:04 UTC*
+*最后更新于 2026-01-23 17:23:45 UTC*
 *历史记录保存在 `archive` 目录中。*
