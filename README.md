@@ -4,15 +4,15 @@
 
 ## 今日动态
 
+### [AlienwareHe](https://github.com/AlienwareHe)
+- 🌟 👤 [AlienwareHe](https://github.com/AlienwareHe) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
+  > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [vector-of-bool/cmrc](https://github.com/vector-of-bool/cmrc)
   > A Resource Compiler in a Single CMake Script
 
-### [waruqi](https://github.com/waruqi)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [atopile/atopile](https://github.com/atopile/atopile)
-  > Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and...
-
 
 ---
-*最后更新于 2026-01-23 05:25:05 UTC*
+*最后更新于 2026-01-23 06:30:13 UTC*
 *历史记录保存在 `archive` 目录中。*
