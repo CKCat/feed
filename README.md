@@ -27,6 +27,16 @@
   > 《动手学大模型Dive into LLMs》系列编程实践教程
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) to [crazyguitar/dive-into-llms](https://github.com/crazyguitar/dive-into-llms)
   > 《动手学大模型Dive into LLMs》系列编程实践教程
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl)
+  > NVIDIA Inference Xfer Library (NIXL)
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
+  > Modern Docker Management, Designed for Everyone
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [robledop/experiment64](https://github.com/robledop/experiment64)
+  > My hobby operating system
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
@@ -67,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-01-23 17:23:45 UTC*
+*最后更新于 2026-01-23 18:28:54 UTC*
 *历史记录保存在 `archive` 目录中。*
