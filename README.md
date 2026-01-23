@@ -24,6 +24,12 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge)
   > Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token over...
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [mebeim/systrack](https://github.com/mebeim/systrack)
+  > 📡🐧 Linux kernel syscall implementation tracker
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [desbma/shh](https://github.com/desbma/shh)
+  > Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
   > Claude Code, OpenCode, Codex Coding Agent Terminal Session manager via tmux and git Worktrees
@@ -65,6 +71,8 @@
   > Unofficial Windows build of gdb with added features.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [olivier-motium/mimesis](https://github.com/olivier-motium/mimesis)
   > Real-time monitoring dashboard for Claude Code sessions
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interruptlabs/VRDP-RE-101](https://github.com/interruptlabs/VRDP-RE-101)
+  > Reverse Engineering 101 training from our Vulnerability Researcher Development Program (VRDP)
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
@@ -85,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-01-23 22:15:45 UTC*
+*最后更新于 2026-01-23 23:18:22 UTC*
 *历史记录保存在 `archive` 目录中。*
