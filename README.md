@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [badlogic/yakety](https://github.com/badlogic/yakety) to [lallouslab/yakety](https://github.com/lallouslab/yakety)
+  > Voice recording and transcription app
+
 ### [AlienwareHe](https://github.com/AlienwareHe)
 - 🌟 👤 [AlienwareHe](https://github.com/AlienwareHe) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
   > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
@@ -29,6 +33,8 @@
   > 《动手学大模型Dive into LLMs》系列编程实践教程
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl)
   > NVIDIA Inference Xfer Library (NIXL)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [github/copilot-cli](https://github.com/github/copilot-cli)
+  > GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
@@ -79,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-01-23 19:22:04 UTC*
+*最后更新于 2026-01-23 20:22:03 UTC*
 *历史记录保存在 `archive` 目录中。*
