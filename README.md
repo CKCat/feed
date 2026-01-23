@@ -28,6 +28,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
   > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
 
+### [lzpong](https://github.com/lzpong)
+- 🍴 👤 [lzpong](https://github.com/lzpong) Forked [bellard/mquickjs](https://github.com/bellard/mquickjs) to [lzpong/mquickjs](https://github.com/lzpong/mquickjs)
+  > Public repository of the Micro QuickJS Javascript Engine
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [helix-editor/helix](https://github.com/helix-editor/helix)
   > A post-modern modal text editor.
@@ -35,6 +39,10 @@
   > Binaries for the book Practical Malware Analysis
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remorses/critique](https://github.com/remorses/critique)
   > TUI for reviewing git changes
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyush1/gdb-static](https://github.com/guyush1/gdb-static)
+  > A statically compiled gdb/gdbserver-17.x repository
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssbssa/gdb](https://github.com/ssbssa/gdb)
+  > Unofficial Windows build of gdb with added features.
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
@@ -49,7 +57,11 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [microsoft/build-server-for-gradle](https://github.com/microsoft/build-server-for-gradle)
   > An implementation of the Build Server Protocol for Gradle
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [bytedance/trae-agent](https://github.com/bytedance/trae-agent)
+  > Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+
 
 ---
-*最后更新于 2026-01-23 14:22:19 UTC*
+*最后更新于 2026-01-23 15:22:15 UTC*
 *历史记录保存在 `archive` 目录中。*
