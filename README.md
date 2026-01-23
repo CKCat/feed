@@ -27,6 +27,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [helix-editor/helix](https://github.com/helix-editor/helix)
   > A post-modern modal text editor.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mikesiko/PracticalMalwareAnalysis-Labs](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
+  > Binaries for the book Practical Malware Analysis
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
@@ -43,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-01-23 10:21:21 UTC*
+*最后更新于 2026-01-23 11:18:04 UTC*
 *历史记录保存在 `archive` 目录中。*
