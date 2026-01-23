@@ -20,6 +20,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
   > Claude Code, OpenCode Coding Agent Terminal Session manager via tmux and git Worktrees
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)
   > Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
@@ -31,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-01-23 08:26:40 UTC*
+*最后更新于 2026-01-23 09:27:15 UTC*
 *历史记录保存在 `archive` 目录中。*
