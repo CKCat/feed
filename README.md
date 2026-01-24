@@ -28,9 +28,19 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [davidlattimore/wild](https://github.com/davidlattimore/wild)
   > A very fast linker for Linux
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [andrewthecodertx/go-nes-emulator](https://github.com/andrewthecodertx/go-nes-emulator)
+  > NES emulator in Go built on top of the go-6502 CPU emulator
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/deepclause-desktop](https://github.com/deepclause/deepclause-desktop)
   > DeepClause Desktop App
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [lidongyooo/fingerprint](https://github.com/lidongyooo/fingerprint)
+  > 一款安卓设备指纹识别SDK。
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [fjqisba/VmpHelper](https://github.com/fjqisba/VmpHelper)
+  > an ida plugin used to decompile vmp
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) to [sekaiacg/LSPosed](https://github.com/sekaiacg/LSPosed)
@@ -46,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-01-24 22:17:00 UTC*
+*最后更新于 2026-01-24 23:16:48 UTC*
 *历史记录保存在 `archive` 目录中。*
