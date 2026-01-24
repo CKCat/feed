@@ -12,6 +12,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
   > x86 malware emulator
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) to [sekaiacg/LSPosed](https://github.com/sekaiacg/LSPosed)
+  > LSPosed Framework resuscitated
+
 ### [stong](https://github.com/stong)
 - 🌟 👤 [stong](https://github.com/stong) Starred [Felixoofed/badapple-frames](https://github.com/Felixoofed/badapple-frames)
   > bad apple frames for you to have
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-01-24 10:18:23 UTC*
+*最后更新于 2026-01-24 11:15:23 UTC*
 *历史记录保存在 `archive` 目录中。*
