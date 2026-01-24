@@ -12,6 +12,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
   > x86 malware emulator
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/deepclause-desktop](https://github.com/deepclause/deepclause-desktop)
+  > DeepClause Desktop App
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) to [sekaiacg/LSPosed](https://github.com/sekaiacg/LSPosed)
   > LSPosed Framework resuscitated
@@ -26,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-01-24 13:28:34 UTC*
+*最后更新于 2026-01-24 14:16:45 UTC*
 *历史记录保存在 `archive` 目录中。*
