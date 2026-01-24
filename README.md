@@ -16,7 +16,11 @@
 - 🌟 👤 [stong](https://github.com/stong) Starred [Felixoofed/badapple-frames](https://github.com/Felixoofed/badapple-frames)
   > bad apple frames for you to have
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [hasherezade/bearparser](https://github.com/hasherezade/bearparser)
+  > Portable Executable parsing library (from PE-bear)
+
 
 ---
-*最后更新于 2026-01-24 09:17:41 UTC*
+*最后更新于 2026-01-24 10:18:23 UTC*
 *历史记录保存在 `archive` 目录中。*
