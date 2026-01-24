@@ -12,6 +12,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
   > x86 malware emulator
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [davidlattimore/wild](https://github.com/davidlattimore/wild)
+  > A very fast linker for Linux
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/deepclause-desktop](https://github.com/deepclause/deepclause-desktop)
   > DeepClause Desktop App
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-01-24 15:17:30 UTC*
+*最后更新于 2026-01-24 16:20:48 UTC*
 *历史记录保存在 `archive` 目录中。*
