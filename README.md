@@ -8,6 +8,12 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG)
   > fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [moritz-wundke/Boost-for-Android](https://github.com/moritz-wundke/Boost-for-Android)
+  > Android port of Boost C++ Libraries
+- 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [moritz-wundke/Boost-for-Android](https://github.com/moritz-wundke/Boost-for-Android) to [axhlzy/Boost-for-Android](https://github.com/axhlzy/Boost-for-Android)
+  > Android port of Boost C++ Libraries
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
   > x86 malware emulator
@@ -38,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-01-24 20:18:40 UTC*
+*最后更新于 2026-01-24 21:15:32 UTC*
 *历史记录保存在 `archive` 目录中。*
