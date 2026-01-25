@@ -57,6 +57,8 @@
   > Infrastructure for Reassembleable Disassembling and Transformation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
   > Precompiled x64 Qt 5/6 library in minimalistic configuration for Windows.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/pdbsql](https://github.com/0xeb/pdbsql)
+  > PDB SQL tool
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [TheFreeman193/TrickyStoreOSS](https://github.com/TheFreeman193/TrickyStoreOSS)
@@ -74,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-01-25 19:14:27 UTC*
+*最后更新于 2026-01-25 20:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
