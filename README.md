@@ -39,6 +39,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > IDA SQL - Interface with IDA in SQL via live virtual tables
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amicalhq/amical](https://github.com/amicalhq/amical)
+  > 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [TheFreeman193/TrickyStoreOSS](https://github.com/TheFreeman193/TrickyStoreOSS)
@@ -50,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-01-25 09:18:53 UTC*
+*最后更新于 2026-01-25 10:18:40 UTC*
 *历史记录保存在 `archive` 目录中。*
