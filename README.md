@@ -32,6 +32,10 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/ovo](https://github.com/fuqiuluo/ovo)
   > Android aarch64 kernel driver module providing efficient memory operations, touch simulation and IPC...
 
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [OEvgeny/zc-ape](https://github.com/OEvgeny/zc-ape)
+  > Actually portable Zen-C
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [TheFreeman193/TrickyStoreOSS](https://github.com/TheFreeman193/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-01-25 07:19:18 UTC*
+*最后更新于 2026-01-25 08:23:38 UTC*
 *历史记录保存在 `archive` 目录中。*
