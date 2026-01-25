@@ -63,7 +63,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [breeze-shell/xmake-repo-index](https://github.com/breeze-shell/xmake-repo-index)
+
 
 ---
-*最后更新于 2026-01-25 13:29:55 UTC*
+*最后更新于 2026-01-25 14:16:24 UTC*
 *历史记录保存在 `archive` 目录中。*
