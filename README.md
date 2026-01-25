@@ -17,10 +17,16 @@
   > A galgame/visual-novel manager,Under development......
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Saramanda9988/LunaBox](https://github.com/Saramanda9988/LunaBox)
   > Lightweight, fast, and feature-rich visual novel management and game statistics tool
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+  > Ultralytics YOLO 🚀
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [perceptionpoint/suprotect](https://github.com/perceptionpoint/suprotect)
   > Changing memory protection in an arbitrary process
+
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [catppuccin/i3](https://github.com/catppuccin/i3)
+  > 🌻 Soothing pastel themes for i3 & sway
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/ovo](https://github.com/fuqiuluo/ovo)
@@ -36,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-01-25 06:27:32 UTC*
+*最后更新于 2026-01-25 07:19:18 UTC*
 *历史记录保存在 `archive` 目录中。*
