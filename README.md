@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+  > Why is this running?
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [dcao/babble](https://github.com/dcao/babble)
   > library learning w egraphs
@@ -80,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-01-25 21:16:27 UTC*
+*最后更新于 2026-01-25 22:17:27 UTC*
 *历史记录保存在 `archive` 目录中。*
