@@ -19,6 +19,8 @@
   > Lightweight, fast, and feature-rich visual novel management and game statistics tool
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
   > Ultralytics YOLO 🚀
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [theamusing/perfectPixel](https://github.com/theamusing/perfectPixel)
+  > Refine and quantize messy AI pixel art into clean, perfect pixels.
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [perceptionpoint/suprotect](https://github.com/perceptionpoint/suprotect)
@@ -54,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-01-25 10:18:40 UTC*
+*最后更新于 2026-01-25 11:15:10 UTC*
 *历史记录保存在 `archive` 目录中。*
