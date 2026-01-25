@@ -66,6 +66,10 @@
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rahadchowdhury/Firebase-Database-Exploit](https://github.com/rahadchowdhury/Firebase-Database-Exploit)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase)
+  > An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAs...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
+  > Emulating Apple Silicon devices.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
@@ -76,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-01-25 20:20:22 UTC*
+*最后更新于 2026-01-25 21:16:27 UTC*
 *历史记录保存在 `archive` 目录中。*
