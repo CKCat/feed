@@ -53,6 +53,10 @@
   > These are commands I use with agents, mostly Claude
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [NadavLor/windbg-ext-mcp](https://github.com/NadavLor/windbg-ext-mcp) to [mrexodia/windbg-ext-mcp](https://github.com/mrexodia/windbg-ext-mcp)
   > WinDbg-ext-MCP bridges your favorite LLM client (like Cursor, Claude, or VS Code) with WinDbg, enabl...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s3team/uroboros](https://github.com/s3team/uroboros)
+  > Infrastructure for Reassembleable Disassembling and Transformation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
+  > Precompiled x64 Qt 5/6 library in minimalistic configuration for Windows.
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [TheFreeman193/TrickyStoreOSS](https://github.com/TheFreeman193/TrickyStoreOSS)
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-01-25 17:15:11 UTC*
+*最后更新于 2026-01-25 18:26:13 UTC*
 *历史记录保存在 `archive` 目录中。*
