@@ -30,7 +30,11 @@
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [TheFreeman193/TrickyStoreOSS](https://github.com/TheFreeman193/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 
 ---
-*最后更新于 2026-01-25 05:25:42 UTC*
+*最后更新于 2026-01-25 06:27:32 UTC*
 *历史记录保存在 `archive` 目录中。*
