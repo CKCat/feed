@@ -25,6 +25,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [perceptionpoint/suprotect](https://github.com/perceptionpoint/suprotect)
   > Changing memory protection in an arbitrary process
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
+- 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi) to [SeeFlowerX/TInjector_Symbi](https://github.com/SeeFlowerX/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [catppuccin/i3](https://github.com/catppuccin/i3)
@@ -45,6 +49,8 @@
   > A free, open source, and extensible speech-to-text application that works completely offline.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amicalhq/amical](https://github.com/amicalhq/amical)
   > 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff)
+  > These are commands I use with agents, mostly Claude
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [TheFreeman193/TrickyStoreOSS](https://github.com/TheFreeman193/TrickyStoreOSS)
@@ -59,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-01-25 12:36:30 UTC*
+*最后更新于 2026-01-25 13:29:55 UTC*
 *历史记录保存在 `archive` 目录中。*
