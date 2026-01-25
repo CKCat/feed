@@ -51,6 +51,8 @@
   > 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff)
   > These are commands I use with agents, mostly Claude
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [NadavLor/windbg-ext-mcp](https://github.com/NadavLor/windbg-ext-mcp) to [mrexodia/windbg-ext-mcp](https://github.com/mrexodia/windbg-ext-mcp)
+  > WinDbg-ext-MCP bridges your favorite LLM client (like Cursor, Claude, or VS Code) with WinDbg, enabl...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [TheFreeman193/TrickyStoreOSS](https://github.com/TheFreeman193/TrickyStoreOSS)
@@ -68,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-01-25 14:16:24 UTC*
+*最后更新于 2026-01-25 15:17:26 UTC*
 *历史记录保存在 `archive` 目录中。*
