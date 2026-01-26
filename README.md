@@ -34,11 +34,15 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
   > A list of open source games.
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Anonymous941/zygote-injection-toolkit](https://github.com/Anonymous941/zygote-injection-toolkit)
+  > A command-line utility to exploit Android Zygote injection (CVE-2024-31317)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
   > Run iOS apps without actually installing them!
 
 
 ---
-*最后更新于 2026-01-26 03:54:03 UTC*
+*最后更新于 2026-01-26 04:53:25 UTC*
 *历史记录保存在 `archive` 目录中。*
