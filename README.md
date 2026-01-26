@@ -8,6 +8,16 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
   > Advanced anti-LLM obfuscation
 
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Dalufishe/palserver-GUI](https://github.com/Dalufishe/palserver-GUI)
+  > GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [zx297520v3-mainline/zx297520v3-loader](https://github.com/zx297520v3-mainline/zx297520v3-loader)
+  > Sanechips ZX297520V3 download protocol
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [travisgoodspeed/dfuexplorer](https://github.com/travisgoodspeed/dfuexplorer)
+  > USB DFU Client for Reverse Engineers
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [multikernel/daxfs](https://github.com/multikernel/daxfs)
   > DAXFS is a simple read-only filesystem that operates directly on shared physical memory via the DAX ...
@@ -17,6 +27,10 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
   > Android real-time display control software
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
 
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [cobbr/SharpGen](https://github.com/cobbr/SharpGen)
@@ -48,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-01-26 06:32:30 UTC*
+*最后更新于 2026-01-26 07:25:08 UTC*
 *历史记录保存在 `archive` 目录中。*
