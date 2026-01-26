@@ -89,6 +89,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/winfile](https://github.com/microsoft/winfile)
   > Original Windows File Manager (winfile) with enhancements
 
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [gnif/LookingGlass](https://github.com/gnif/LookingGlass)
+  > An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Bwkyd/wexin-read-mcp](https://github.com/Bwkyd/wexin-read-mcp)
   > 能够让大模型阅读微信公众号文章，使用浏览器模拟绕过反爬虫。
@@ -137,5 +141,5 @@
 
 
 ---
-*最后更新于 2026-01-26 22:18:42 UTC*
+*最后更新于 2026-01-26 23:19:08 UTC*
 *历史记录保存在 `archive` 目录中。*
