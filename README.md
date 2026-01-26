@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
+  > Advanced anti-LLM obfuscation
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [multikernel/daxfs](https://github.com/multikernel/daxfs)
   > DAXFS is a simple read-only filesystem that operates directly on shared physical memory via the DAX ...
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-01-26 05:30:42 UTC*
+*最后更新于 2026-01-26 06:32:30 UTC*
 *历史记录保存在 `archive` 目录中。*
