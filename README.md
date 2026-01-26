@@ -75,10 +75,18 @@
   > 🐉 Pipeline runner for matching decompilation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [encounter/objdiff](https://github.com/encounter/objdiff)
   > A local diffing tool for decompilation projects
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4tr3d/gdbproxy](https://github.com/h4tr3d/gdbproxy)
+  > GDB TCP protocol proxy to inject/hooks GDB client requests to the target.
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
   > A list of open source games.
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails)
+  > NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based con...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)
+  > Adding guardrails to large language models.
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Anonymous941/zygote-injection-toolkit](https://github.com/Anonymous941/zygote-injection-toolkit)
@@ -94,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-01-26 13:41:36 UTC*
+*最后更新于 2026-01-26 14:25:19 UTC*
 *历史记录保存在 `archive` 目录中。*
