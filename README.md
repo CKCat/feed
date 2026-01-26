@@ -67,6 +67,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/agentvm](https://github.com/deepclause/agentvm)
   > Lightweight WASM-based Linux VM for AI agents - run shell commands in an isolated Alpine Linux envir...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [macabeus/mizuchi](https://github.com/macabeus/mizuchi)
+  > 🐉 Pipeline runner for matching decompilation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [encounter/objdiff](https://github.com/encounter/objdiff)
+  > A local diffing tool for decompilation projects
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
@@ -80,7 +84,11 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
   > Run iOS apps without actually installing them!
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+  > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
 
 ---
-*最后更新于 2026-01-26 11:18:27 UTC*
+*最后更新于 2026-01-26 12:41:23 UTC*
 *历史记录保存在 `archive` 目录中。*
