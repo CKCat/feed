@@ -4,9 +4,35 @@
 
 ## 今日动态
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [multikernel/daxfs](https://github.com/multikernel/daxfs)
+  > DAXFS is a simple read-only filesystem that operates directly on shared physical memory via the DAX ...
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [FlorentRevest/linux-kernel-vscode](https://github.com/FlorentRevest/linux-kernel-vscode)
+  > Reference setup for Linux kernel development in VSCode
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
   > Android real-time display control software
+
+### [cbwang505](https://github.com/cbwang505)
+- 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [cobbr/SharpGen](https://github.com/cobbr/SharpGen)
+  >  SharpGen is a .NET Core console application that utilizes the Rosyln C# compiler to quickly cross-c...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
+  > Browser extension that automatically fills out cookie popups based on your preferences
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Bwkyd/wexin-read-mcp](https://github.com/Bwkyd/wexin-read-mcp)
+  > 能够让大模型阅读微信公众号文章，使用浏览器模拟绕过反爬虫。
+
+### [konata](https://github.com/konata)
+- 🍴 👤 [konata](https://github.com/konata) Forked [android/platform-samples](https://github.com/android/platform-samples) to [konata/platform-samples](https://github.com/konata/platform-samples)
+  > A collection of samples of different Android OS platform APIs.
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
+  > A list of open source games.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
@@ -14,5 +40,5 @@
 
 
 ---
-*最后更新于 2026-01-26 01:42:38 UTC*
+*最后更新于 2026-01-26 03:54:03 UTC*
 *历史记录保存在 `archive` 目录中。*
