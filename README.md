@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [FlorentRevest/linux-kernel-vscode](https://github.com/FlorentRevest/linux-kernel-vscode)
+  > Reference setup for Linux kernel development in VSCode
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
   > Advanced anti-LLM obfuscation
@@ -40,6 +44,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
   > Browser extension that automatically fills out cookie popups based on your preferences
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [mpaland/printf](https://github.com/mpaland/printf)
+  > Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive tes...
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Bwkyd/wexin-read-mcp](https://github.com/Bwkyd/wexin-read-mcp)
   > 能够让大模型阅读微信公众号文章，使用浏览器模拟绕过反爬虫。
@@ -62,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-01-26 08:28:29 UTC*
+*最后更新于 2026-01-26 09:31:18 UTC*
 *历史记录保存在 `archive` 目录中。*
