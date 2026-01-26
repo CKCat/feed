@@ -74,6 +74,20 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mpaland/printf](https://github.com/mpaland/printf)
   > Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive tes...
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+  > The new Windows Terminal and the original Windows console host, all in the same place!
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/calculator](https://github.com/microsoft/calculator)
+  > Windows Calculator: A simple yet powerful calculator that ships with Windows
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/edit](https://github.com/microsoft/edit)
+  > We all edit.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/sudo](https://github.com/microsoft/sudo)
+  > It's sudo, for Windows
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/winfile](https://github.com/microsoft/winfile)
+  > Original Windows File Manager (winfile) with enhancements
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Bwkyd/wexin-read-mcp](https://github.com/Bwkyd/wexin-read-mcp)
@@ -123,5 +137,5 @@
 
 
 ---
-*最后更新于 2026-01-26 21:20:31 UTC*
+*最后更新于 2026-01-26 22:18:42 UTC*
 *历史记录保存在 `archive` 目录中。*
