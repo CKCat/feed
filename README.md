@@ -63,6 +63,7 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
   > Browser extension that automatically fills out cookie popups based on your preferences
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [RickdeJager/RCECoaster](https://github.com/RickdeJager/RCECoaster)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mpaland/printf](https://github.com/mpaland/printf)
@@ -114,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-01-26 16:29:44 UTC*
+*最后更新于 2026-01-26 17:26:33 UTC*
 *历史记录保存在 `archive` 目录中。*
