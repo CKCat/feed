@@ -16,6 +16,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/testfx](https://github.com/microsoft/testfx)
   > This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative...
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
   > Advanced anti-LLM obfuscation
@@ -90,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-01-26 12:41:23 UTC*
+*最后更新于 2026-01-26 13:41:36 UTC*
 *历史记录保存在 `archive` 目录中。*
