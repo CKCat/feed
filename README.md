@@ -96,6 +96,8 @@
   > A local diffing tool for decompilation projects
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4tr3d/gdbproxy](https://github.com/h4tr3d/gdbproxy)
   > GDB TCP protocol proxy to inject/hooks GDB client requests to the target.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fpganinja/taxi](https://github.com/fpganinja/taxi)
+  > AXI, AXI stream, Ethernet, and PCIe components in System Verilog
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
@@ -121,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-01-26 19:20:55 UTC*
+*最后更新于 2026-01-26 20:23:14 UTC*
 *历史记录保存在 `archive` 目录中。*
