@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [blacktop/symbolicator](https://github.com/blacktop/symbolicator)
+  > `ipsw` symbolication signatures
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
+  > (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [FlorentRevest/linux-kernel-vscode](https://github.com/FlorentRevest/linux-kernel-vscode)
   > Reference setup for Linux kernel development in VSCode
@@ -115,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-01-26 17:26:33 UTC*
+*最后更新于 2026-01-26 18:30:52 UTC*
 *历史记录保存在 `archive` 目录中。*
