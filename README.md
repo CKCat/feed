@@ -10,6 +10,14 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [arduino/adbd](https://github.com/arduino/adbd)
   > adbd on non-Android platforms
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot)
+  > IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [cristeigabriela/IDAFind](https://github.com/cristeigabriela/IDAFind)
+  > Have you ever wondered: what if IDA had great Ctrl+F search support for Pseudocode windows? No longe...
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/vstest](https://github.com/microsoft/vstest)
   > Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
@@ -68,6 +76,10 @@
 - 🍴 👤 [konata](https://github.com/konata) Forked [android/platform-samples](https://github.com/android/platform-samples) to [konata/platform-samples](https://github.com/konata/platform-samples)
   > A collection of samples of different Android OS platform APIs.
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/agentvm](https://github.com/deepclause/agentvm)
   > Lightweight WASM-based Linux VM for AI agents - run shell commands in an isolated Alpine Linux envir...
@@ -102,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-01-26 14:25:19 UTC*
+*最后更新于 2026-01-26 15:25:52 UTC*
 *历史记录保存在 `archive` 目录中。*
