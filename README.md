@@ -7,6 +7,14 @@
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [FlorentRevest/linux-kernel-vscode](https://github.com/FlorentRevest/linux-kernel-vscode)
   > Reference setup for Linux kernel development in VSCode
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [arduino/adbd](https://github.com/arduino/adbd)
+  > adbd on non-Android platforms
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/vstest](https://github.com/microsoft/vstest)
+  > Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/testfx](https://github.com/microsoft/testfx)
+  > This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
@@ -35,6 +43,12 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+  > Run iOS apps without actually installing them!
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [revng/revng](https://github.com/revng/revng)
+  > revng: the core repository of the rev.ng project
 
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [cobbr/SharpGen](https://github.com/cobbr/SharpGen)
@@ -56,6 +70,10 @@
 - 🍴 👤 [konata](https://github.com/konata) Forked [android/platform-samples](https://github.com/android/platform-samples) to [konata/platform-samples](https://github.com/konata/platform-samples)
   > A collection of samples of different Android OS platform APIs.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/agentvm](https://github.com/deepclause/agentvm)
+  > Lightweight WASM-based Linux VM for AI agents - run shell commands in an isolated Alpine Linux envir...
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
   > A list of open source games.
@@ -70,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-01-26 09:31:18 UTC*
+*最后更新于 2026-01-26 10:23:07 UTC*
 *历史记录保存在 `archive` 目录中。*
