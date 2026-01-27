@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [emsec/hal](https://github.com/emsec/hal)
+  > HAL – The Hardware Analyzer
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
   > Implements harmful/harmless refusal removal using pure HF Transformers
@@ -80,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-01-27 12:42:04 UTC*
+*最后更新于 2026-01-27 13:43:31 UTC*
 *历史记录保存在 `archive` 目录中。*
