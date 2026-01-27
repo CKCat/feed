@@ -70,6 +70,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [AAswordman/Operit](https://github.com/AAswordman/Operit)
   > The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
+  > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf)
   > Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the...
@@ -82,7 +86,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [liandu2024/clash](https://github.com/liandu2024/clash)
   > OpenClash 完美配置，请参考油管视频来配置：https://www.youtube.com/watch?v=S2l_0g4EOHk
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 
 ---
-*最后更新于 2026-01-27 13:43:31 UTC*
+*最后更新于 2026-01-27 14:26:39 UTC*
 *历史记录保存在 `archive` 目录中。*
