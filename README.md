@@ -39,8 +39,12 @@
   > Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the...
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) to [ys1231/mcp-server](https://github.com/ys1231/mcp-server)
   > MCP Server for Burp
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 
 ---
-*最后更新于 2026-01-27 04:43:39 UTC*
+*最后更新于 2026-01-27 05:24:09 UTC*
 *历史记录保存在 `archive` 目录中。*
