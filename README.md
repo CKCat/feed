@@ -88,6 +88,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/mini-presenter](https://github.com/mitsuhiko/mini-presenter)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lbacaj/WalkWrite-opensource](https://github.com/lbacaj/WalkWrite-opensource)
   > iOS voice note app with local Whisper.cpp voice transcription & Qwen 3 local LLM
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+  > Browser automation CLI for AI agents
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
@@ -129,5 +131,5 @@
 
 
 ---
-*最后更新于 2026-01-27 19:23:41 UTC*
+*最后更新于 2026-01-27 20:19:53 UTC*
 *历史记录保存在 `archive` 目录中。*
