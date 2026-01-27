@@ -7,9 +7,13 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
   > Implements harmful/harmless refusal removal using pure HF Transformers
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
+  > Microsoft Graph Client Library for .NET!
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core)
+  > The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
 
 ### [Mrack](https://github.com/Mrack)
-- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [molt-bot/clawdbot](https://github.com/molt-bot/clawdbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [Mufanc](https://github.com/Mufanc)
@@ -19,7 +23,7 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
   > Share a single keyboard and mouse between multiple computers.
-- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [molt-bot/clawdbot](https://github.com/molt-bot/clawdbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [axhlzy](https://github.com/axhlzy)
@@ -31,7 +35,7 @@
   > SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can al...
 
 ### [dqzg12300](https://github.com/dqzg12300)
-- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [molt-bot/clawdbot](https://github.com/molt-bot/clawdbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [eteran](https://github.com/eteran)
@@ -68,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-01-27 09:29:39 UTC*
+*最后更新于 2026-01-27 10:24:17 UTC*
 *历史记录保存在 `archive` 目录中。*
