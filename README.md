@@ -34,6 +34,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
+  > A single-header ANSI C immediate mode cross-platform GUI library
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
   > OpenTelemetry Instrumentation for AI Observability
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-01-27 06:30:37 UTC*
+*最后更新于 2026-01-27 07:25:06 UTC*
 *历史记录保存在 `archive` 目录中。*
