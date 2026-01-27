@@ -13,7 +13,7 @@
   > The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
 
 ### [Mrack](https://github.com/Mrack)
-- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [molt-bot/clawdbot](https://github.com/molt-bot/clawdbot)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [Mufanc](https://github.com/Mufanc)
@@ -23,7 +23,7 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
   > Share a single keyboard and mouse between multiple computers.
-- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [molt-bot/clawdbot](https://github.com/molt-bot/clawdbot)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [axhlzy](https://github.com/axhlzy)
@@ -35,12 +35,16 @@
   > SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can al...
 
 ### [dqzg12300](https://github.com/dqzg12300)
-- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [molt-bot/clawdbot](https://github.com/molt-bot/clawdbot)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
   > A single-header ANSI C immediate mode cross-platform GUI library
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus)
+  > Header-only TOML config file parser and serializer for C++17.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [klange/toaruos](https://github.com/klange/toaruos)
+  > A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and usersp...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-01-27 10:24:17 UTC*
+*最后更新于 2026-01-27 11:20:33 UTC*
 *历史记录保存在 `archive` 目录中。*
