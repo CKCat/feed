@@ -47,6 +47,10 @@
 ### [axhlzy](https://github.com/axhlzy)
 - 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [jedisct1/libsodium](https://github.com/jedisct1/libsodium) to [axhlzy/libsodium](https://github.com/axhlzy/libsodium)
   > A modern, portable, easy to use crypto library.
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
+- 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi) to [axhlzy/TInjector_Symbi](https://github.com/axhlzy/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
 
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [TheQmaks/soSaver](https://github.com/TheQmaks/soSaver) to [bkerler/soSaver](https://github.com/bkerler/soSaver)
@@ -90,6 +94,8 @@
   > iOS voice note app with local Whisper.cpp voice transcription & Qwen 3 local LLM
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud)
+  > host your own cloud for the remarkable
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
@@ -131,5 +137,5 @@
 
 
 ---
-*最后更新于 2026-01-27 20:19:53 UTC*
+*最后更新于 2026-01-27 21:15:24 UTC*
 *历史记录保存在 `archive` 目录中。*
