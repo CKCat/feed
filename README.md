@@ -11,6 +11,8 @@
   > Microsoft Graph Client Library for .NET!
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core)
   > The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [moby/moby](https://github.com/moby/moby)
+  > The Moby Project - a collaborative project for the container ecosystem to assemble container-based s...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
@@ -73,8 +75,10 @@
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [liandu2024/clash](https://github.com/liandu2024/clash)
+  > OpenClash 完美配置，请参考油管视频来配置：https://www.youtube.com/watch?v=S2l_0g4EOHk
 
 
 ---
-*最后更新于 2026-01-27 11:20:33 UTC*
+*最后更新于 2026-01-27 12:42:04 UTC*
 *历史记录保存在 `archive` 目录中。*
