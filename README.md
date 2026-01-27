@@ -61,6 +61,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
   > OpenTelemetry Instrumentation for AI Observability
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
@@ -73,6 +75,10 @@
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
   > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [boku7/BokuLoader](https://github.com/boku7/BokuLoader)
+  > A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Co...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf)
@@ -92,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-01-27 14:26:39 UTC*
+*最后更新于 2026-01-27 15:28:18 UTC*
 *历史记录保存在 `archive` 目录中。*
