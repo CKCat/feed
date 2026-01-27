@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
+  > Implements harmful/harmless refusal removal using pure HF Transformers
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
@@ -17,6 +21,10 @@
   > Share a single keyboard and mouse between multiple computers.
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
+### [axhlzy](https://github.com/axhlzy)
+- 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [jedisct1/libsodium](https://github.com/jedisct1/libsodium) to [axhlzy/libsodium](https://github.com/axhlzy/libsodium)
+  > A modern, portable, easy to use crypto library.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
@@ -46,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-01-27 05:24:09 UTC*
+*最后更新于 2026-01-27 06:30:37 UTC*
 *历史记录保存在 `archive` 目录中。*
