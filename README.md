@@ -8,6 +8,10 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [emsec/hal](https://github.com/emsec/hal)
   > HAL – The Hardware Analyzer
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
   > Implements harmful/harmless refusal removal using pure HF Transformers
@@ -35,6 +39,16 @@
 ### [axhlzy](https://github.com/axhlzy)
 - 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [jedisct1/libsodium](https://github.com/jedisct1/libsodium) to [axhlzy/libsodium](https://github.com/axhlzy/libsodium)
   > A modern, portable, easy to use crypto library.
+
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [TheQmaks/soSaver](https://github.com/TheQmaks/soSaver) to [bkerler/soSaver](https://github.com/bkerler/soSaver)
+  > A Frida-based utility for dynamically extracting native (.so) libraries from Android applications.
+- 🌟 👤 [bkerler](https://github.com/bkerler) Starred [bkerler/soSaver](https://github.com/bkerler/soSaver)
+  > A Frida-based utility for dynamically extracting native (.so) libraries from Android applications.
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [TheQmaks/soSaver-frida](https://github.com/TheQmaks/soSaver-frida) to [bkerler/soSaver-frida](https://github.com/bkerler/soSaver-frida)
+  > TypeScript Frida agent for extracting shared libraries (.so) from Android apps. Part of the soSaver ...
+- 🌟 👤 [bkerler](https://github.com/bkerler) Starred [TheQmaks/soSaver-frida](https://github.com/TheQmaks/soSaver-frida)
+  > TypeScript Frida agent for extracting shared libraries (.so) from Android apps. Part of the soSaver ...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
@@ -98,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-01-27 15:28:18 UTC*
+*最后更新于 2026-01-27 16:26:28 UTC*
 *历史记录保存在 `archive` 目录中。*
