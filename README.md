@@ -41,6 +41,8 @@
   > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [kevingosse/ManagedDotnetGC](https://github.com/kevingosse/ManagedDotnetGC)
   > Implementation of a .NET GC in C# with NativeAOT
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ByteAether/Ulid](https://github.com/ByteAether/Ulid)
+  > A .NET C# library for generating and working with Universally Unique Lexicographically Sortable Iden...
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [jedisct1/libsodium](https://github.com/jedisct1/libsodium) to [axhlzy/libsodium](https://github.com/axhlzy/libsodium)
@@ -57,6 +59,8 @@
   > TypeScript Frida agent for extracting shared libraries (.so) from Android apps. Part of the soSaver ...
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [obaby/winrar-keygen](https://github.com/obaby/winrar-keygen) to [bkerler/winrar-keygen](https://github.com/bkerler/winrar-keygen)
   > A keygen for WinRAR.
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [giggi0x00/faultinjection-scripts](https://github.com/giggi0x00/faultinjection-scripts) to [bkerler/faultinjection-scripts](https://github.com/bkerler/faultinjection-scripts)
+  > Set of scripts used during voltage fault injection attacks
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
@@ -82,6 +86,8 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/mini-presenter](https://github.com/mitsuhiko/mini-presenter)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lbacaj/WalkWrite-opensource](https://github.com/lbacaj/WalkWrite-opensource)
+  > iOS voice note app with local Whisper.cpp voice transcription & Qwen 3 local LLM
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
@@ -123,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-01-27 17:25:19 UTC*
+*最后更新于 2026-01-27 18:34:26 UTC*
 *历史记录保存在 `archive` 目录中。*
