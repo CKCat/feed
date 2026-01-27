@@ -36,6 +36,12 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [toon-format/toon](https://github.com/toon-format/toon)
+  > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [kevingosse/ManagedDotnetGC](https://github.com/kevingosse/ManagedDotnetGC)
+  > Implementation of a .NET GC in C# with NativeAOT
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [jedisct1/libsodium](https://github.com/jedisct1/libsodium) to [axhlzy/libsodium](https://github.com/axhlzy/libsodium)
   > A modern, portable, easy to use crypto library.
@@ -49,6 +55,8 @@
   > TypeScript Frida agent for extracting shared libraries (.so) from Android apps. Part of the soSaver ...
 - 🌟 👤 [bkerler](https://github.com/bkerler) Starred [TheQmaks/soSaver-frida](https://github.com/TheQmaks/soSaver-frida)
   > TypeScript Frida agent for extracting shared libraries (.so) from Android apps. Part of the soSaver ...
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [obaby/winrar-keygen](https://github.com/obaby/winrar-keygen) to [bkerler/winrar-keygen](https://github.com/bkerler/winrar-keygen)
+  > A keygen for WinRAR.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
@@ -71,6 +79,9 @@
   > 🎥      Make videos programmatically with React
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evolus/pencil](https://github.com/evolus/pencil)
   > The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and G...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/mini-presenter](https://github.com/mitsuhiko/mini-presenter)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
@@ -112,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-01-27 16:26:28 UTC*
+*最后更新于 2026-01-27 17:25:19 UTC*
 *历史记录保存在 `archive` 目录中。*
