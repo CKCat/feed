@@ -38,6 +38,12 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
   > A single-header ANSI C immediate mode cross-platform GUI library
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+  > 🎥      Make videos programmatically with React
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evolus/pencil](https://github.com/evolus/pencil)
+  > The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and G...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
   > OpenTelemetry Instrumentation for AI Observability
@@ -45,6 +51,10 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
   > A drop-in, 5-20x faster, experimental Homebrew alternative
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [AAswordman/Operit](https://github.com/AAswordman/Operit)
+  > The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf)
@@ -58,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-01-27 07:25:06 UTC*
+*最后更新于 2026-01-27 08:28:53 UTC*
 *历史记录保存在 `archive` 目录中。*
