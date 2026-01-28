@@ -57,6 +57,10 @@
 - 🍴 👤 [enenH](https://github.com/enenH) Forked [Shirasuki/MX](https://github.com/Shirasuki/MX) to [enenH/MX](https://github.com/enenH/MX)
   > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+  > Automatic verification of LLVM optimizations
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kadir122019-prog/Fusion-operating-system](https://github.com/kadir122019-prog/Fusion-operating-system)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Mellurboo/Bleed-Kernel](https://github.com/Mellurboo/Bleed-Kernel)
@@ -86,6 +90,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/rax](https://github.com/19h/rax)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
+  > ida utilities / plugins / scripts
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jimmyorourke/plotlypp](https://github.com/jimmyorourke/plotlypp)
@@ -121,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-01-28 22:23:18 UTC*
+*最后更新于 2026-01-28 23:23:17 UTC*
 *历史记录保存在 `archive` 目录中。*
