@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [amiremohamadi/DuckX](https://github.com/amiremohamadi/DuckX)
+  > C++ library for creating and modifying Microsoft Word (.docx) files
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [username639/Vac-Emulator](https://github.com/username639/Vac-Emulator)
   > Vac Emulation 
 - 🍴 👤 [Mrack](https://github.com/Mrack) Forked [username639/Vac-Emulator](https://github.com/username639/Vac-Emulator) to [Mrack/Vac-Emulator](https://github.com/Mrack/Vac-Emulator)
   > Vac Emulation 
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kadir122019-prog/Fusion-operating-system](https://github.com/kadir122019-prog/Fusion-operating-system)
@@ -33,5 +41,5 @@
 
 
 ---
-*最后更新于 2026-01-28 05:24:55 UTC*
+*最后更新于 2026-01-28 06:32:06 UTC*
 *历史记录保存在 `archive` 目录中。*
