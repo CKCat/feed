@@ -7,6 +7,8 @@
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [amiremohamadi/DuckX](https://github.com/amiremohamadi/DuckX)
   > C++ library for creating and modifying Microsoft Word (.docx) files
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri)
+  > 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [username639/Vac-Emulator](https://github.com/username639/Vac-Emulator)
@@ -22,9 +24,15 @@
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) to [Mufanc/bilibili-API-collect](https://github.com/Mufanc/bilibili-API-collect)
   > 哔哩哔哩-API收集整理【不断更新中....】
 
+### [cbwang505](https://github.com/cbwang505)
+- 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)
+  > Converts PE into a shellcode
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aseprite/aseprite](https://github.com/aseprite/aseprite)
+  > Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kadir122019-prog/Fusion-operating-system](https://github.com/kadir122019-prog/Fusion-operating-system)
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-01-28 07:23:30 UTC*
+*最后更新于 2026-01-28 08:28:09 UTC*
 *历史记录保存在 `archive` 目录中。*
