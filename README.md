@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [hextreeio/android-poc-app](https://github.com/hextreeio/android-poc-app)
+  > Empty project to quick start Proof of Concept app development
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [amiremohamadi/DuckX](https://github.com/amiremohamadi/DuckX)
   > C++ library for creating and modifying Microsoft Word (.docx) files
@@ -103,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-01-28 17:29:26 UTC*
+*最后更新于 2026-01-28 18:33:07 UTC*
 *历史记录保存在 `archive` 目录中。*
