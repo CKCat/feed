@@ -14,6 +14,14 @@
 - 🍴 👤 [Mrack](https://github.com/Mrack) Forked [username639/Vac-Emulator](https://github.com/username639/Vac-Emulator) to [Mrack/Vac-Emulator](https://github.com/Mrack/Vac-Emulator)
   > Vac Emulation 
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [HellOwhatAs/bili-live](https://github.com/HellOwhatAs/bili-live)
+  > A TUI / GUI tool for starting and stopping live streams on bilibili.com, capable of providing the RT...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ChaceQC/bilibili_live_stream_code](https://github.com/ChaceQC/bilibili_live_stream_code)
+  > 用于在准备直播时获取第三方推流码，以便可以绕开哔哩哔哩直播姬，直接在如OBS等软件中进行直播，软件同时提供定义直播分区和标题功能
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) to [Mufanc/bilibili-API-collect](https://github.com/Mufanc/bilibili-API-collect)
+  > 哔哩哔哩-API收集整理【不断更新中....】
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
@@ -41,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-01-28 06:32:06 UTC*
+*最后更新于 2026-01-28 07:23:30 UTC*
 *历史记录保存在 `archive` 目录中。*
