@@ -63,6 +63,8 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/rax](https://github.com/19h/rax)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jimmyorourke/plotlypp](https://github.com/jimmyorourke/plotlypp)
@@ -71,6 +73,18 @@
   > Just a external cheat source for Fortnite with a kernel driver (using data pointer communication)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Razviar/assetstudio](https://github.com/Razviar/assetstudio)
   > 2025 updated AssetStudio for Unity assets extraction
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [JaydevArapada-26/esp32-bare-metal-bootloader](https://github.com/JaydevArapada-26/esp32-bare-metal-bootloader)
+  > Custom ESP32 2nd Stage Bootloader hooks using ESP-IDF. Executes bare-metal hardware diagnostics via ...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+  > A drop-in, 5-20x faster, experimental Homebrew alternative
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy)
+  > Run Claude Code on OpenAI models
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [TheQmaks/soSaver](https://github.com/TheQmaks/soSaver)
+  > A Frida-based utility for dynamically extracting native (.so) libraries from Android applications.
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [wietze/HijackLibs](https://github.com/wietze/HijackLibs)
@@ -84,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-01-28 13:45:03 UTC*
+*最后更新于 2026-01-28 14:26:26 UTC*
 *历史记录保存在 `archive` 目录中。*
