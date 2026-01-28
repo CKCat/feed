@@ -24,6 +24,10 @@
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) to [Mufanc/bilibili-API-collect](https://github.com/Mufanc/bilibili-API-collect)
   > 哔哩哔哩-API收集整理【不断更新中....】
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
+  > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)
   > Converts PE into a shellcode
@@ -36,6 +40,8 @@
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kadir122019-prog/Fusion-operating-system](https://github.com/kadir122019-prog/Fusion-operating-system)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Mellurboo/Bleed-Kernel](https://github.com/Mellurboo/Bleed-Kernel)
+  > A Monolithic x86_64 targetted kernel written in C using the Limine Bootloader
 
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [microsoft/graphics-driver-samples](https://github.com/microsoft/graphics-driver-samples)
@@ -54,6 +60,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jimmyorourke/plotlypp](https://github.com/jimmyorourke/plotlypp)
   > Plotly for C++. A C++ interface to the Plotly.js figure spec, for creating interactive data visualiz...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [xetzzy/Fortnite-External-Source](https://github.com/xetzzy/Fortnite-External-Source)
+  > Just a external cheat source for Fortnite with a kernel driver (using data pointer communication)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Razviar/assetstudio](https://github.com/Razviar/assetstudio)
+  > 2025 updated AssetStudio for Unity assets extraction
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [wietze/HijackLibs](https://github.com/wietze/HijackLibs)
@@ -67,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-01-28 11:20:32 UTC*
+*最后更新于 2026-01-28 12:42:37 UTC*
 *历史记录保存在 `archive` 目录中。*
