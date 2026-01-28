@@ -47,6 +47,10 @@
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [Air14/SymbolicAccess](https://github.com/Air14/SymbolicAccess) to [lxraa/SymbolicAccess](https://github.com/lxraa/SymbolicAccess)
   > Static user/kernel mode library that allows access to all functions and global variables by extracti...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jimmyorourke/plotlypp](https://github.com/jimmyorourke/plotlypp)
+  > Plotly for C++. A C++ interface to the Plotly.js figure spec, for creating interactive data visualiz...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [wietze/HijackLibs](https://github.com/wietze/HijackLibs)
   > Project for tracking publicly disclosed DLL Hijacking opportunities.
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-01-28 09:31:07 UTC*
+*最后更新于 2026-01-28 10:24:57 UTC*
 *历史记录保存在 `archive` 目录中。*
