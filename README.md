@@ -55,6 +55,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Razviar/assetstudio](https://github.com/Razviar/assetstudio)
   > 2025 updated AssetStudio for Unity assets extraction
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+  > A drop-in, 5-20x faster, experimental Homebrew alternative
+
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [Air14/SymbolicAccess](https://github.com/Air14/SymbolicAccess)
   > Static user/kernel mode library that allows access to all functions and global variables by extracti...
@@ -98,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-01-28 14:26:26 UTC*
+*最后更新于 2026-01-28 15:29:05 UTC*
 *历史记录保存在 `archive` 目录中。*
