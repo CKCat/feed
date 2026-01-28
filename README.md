@@ -96,6 +96,8 @@
   > Custom ESP32 2nd Stage Bootloader hooks using ESP-IDF. Executes bare-metal hardware diagnostics via ...
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
   > A drop-in, 5-20x faster, experimental Homebrew alternative
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hiyall360/DumpCsExplorer](https://github.com/hiyall360/DumpCsExplorer)
+  > A DnSpy-style explorer for dump.cs files. Stop navigating dumps using notepad. No DummyDLLs? No Prob...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy)
@@ -117,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-01-28 20:26:09 UTC*
+*最后更新于 2026-01-28 21:26:25 UTC*
 *历史记录保存在 `archive` 目录中。*
