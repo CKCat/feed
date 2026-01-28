@@ -37,6 +37,7 @@
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aseprite/aseprite](https://github.com/aseprite/aseprite)
   > Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [sirmick/efa-nccl-doc](https://github.com/sirmick/efa-nccl-doc) to [crazyguitar/efa-nccl-doc](https://github.com/crazyguitar/efa-nccl-doc)
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
@@ -102,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-01-28 16:32:17 UTC*
+*最后更新于 2026-01-28 17:29:26 UTC*
 *历史记录保存在 `archive` 目录中。*
