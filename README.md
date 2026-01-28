@@ -54,8 +54,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)
   > Official repository of VMware open-vm-tools project
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [depersonal/research](https://github.com/depersonal/research)
+  > You are right if you want to look for a detection application...
 
 
 ---
-*最后更新于 2026-01-28 08:28:09 UTC*
+*最后更新于 2026-01-28 09:31:07 UTC*
 *历史记录保存在 `archive` 目录中。*
