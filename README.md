@@ -73,6 +73,8 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
   > A drop-in, 5-20x faster, experimental Homebrew alternative
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [yoavst/Graffiti](https://github.com/yoavst/Graffiti)
+  > Create customized callgraph directly from your favorite IDE
 
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [Air14/SymbolicAccess](https://github.com/Air14/SymbolicAccess)
@@ -119,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-01-28 21:26:25 UTC*
+*最后更新于 2026-01-28 22:23:18 UTC*
 *历史记录保存在 `archive` 目录中。*
