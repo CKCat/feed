@@ -38,6 +38,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aseprite/aseprite](https://github.com/aseprite/aseprite)
   > Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+  > Pure Python 3 MTProto API Telegram client library, for bots too!
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kadir122019-prog/Fusion-operating-system](https://github.com/kadir122019-prog/Fusion-operating-system)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Mellurboo/Bleed-Kernel](https://github.com/Mellurboo/Bleed-Kernel)
@@ -56,6 +60,9 @@
   > Static user/kernel mode library that allows access to all functions and global variables by extracti...
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [Air14/SymbolicAccess](https://github.com/Air14/SymbolicAccess) to [lxraa/SymbolicAccess](https://github.com/lxraa/SymbolicAccess)
   > Static user/kernel mode library that allows access to all functions and global variables by extracti...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/rax](https://github.com/19h/rax)
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jimmyorourke/plotlypp](https://github.com/jimmyorourke/plotlypp)
@@ -77,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-01-28 12:42:37 UTC*
+*最后更新于 2026-01-28 13:45:03 UTC*
 *历史记录保存在 `archive` 目录中。*
