@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  > A libre lightweight streaming front-end for Android.
+
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [w1ndy/chinavis-2025-website](https://github.com/w1ndy/chinavis-2025-website) to [Admirepowered/chinavis-2026-website](https://github.com/Admirepowered/chinavis-2026-website)
   > Source code for ChinaVis 2025 website: https://chinavis.org/2025/
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-01-29 08:34:57 UTC*
+*最后更新于 2026-01-29 09:38:58 UTC*
 *历史记录保存在 `archive` 目录中。*
