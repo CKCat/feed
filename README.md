@@ -14,7 +14,15 @@
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) to [NyaMistyTemp/vllm-ascend](https://github.com/NyaMistyTemp/vllm-ascend)
   > Community maintained hardware plugin for vLLM on Ascend
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+  > 📂 Web File Browser
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+  > WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.
+
 
 ---
-*最后更新于 2026-01-29 01:48:01 UTC*
+*最后更新于 2026-01-29 04:05:28 UTC*
 *历史记录保存在 `archive` 目录中。*
