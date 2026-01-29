@@ -38,6 +38,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+  > A drop-in, 5-20x faster, experimental Homebrew alternative
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
   > 📂 Web File Browser
@@ -58,6 +62,10 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [githubvpn007/Clash-for-Mac](https://github.com/githubvpn007/Clash-for-Mac)
   > Clash for Windows for Mac，Clash for Windows for Mac教程，Clash for Windows for Mac配置说明，Clash for Mac
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hzqst/plugify-fork](https://github.com/hzqst/plugify-fork)
   > A Modern C++ Plugin Manager with Multi-Language Support
@@ -76,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-01-29 11:28:19 UTC*
+*最后更新于 2026-01-29 12:51:35 UTC*
 *历史记录保存在 `archive` 目录中。*
