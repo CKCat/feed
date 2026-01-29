@@ -29,6 +29,22 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
   > 📂 Web File Browser
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [iwe-org/iwe](https://github.com/iwe-org/iwe)
+  > Markdown based personal knowledge management for your favorite text editor
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor)
+  > AiEditor is a next-generation rich text editor for AI.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite)
+  > A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui f...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [m1k1o/neko](https://github.com/m1k1o/neko)
+  > A self hosted virtual browser that runs in docker and uses WebRTC.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [ihainan/Gemini-CLI-Git-Ask](https://github.com/ihainan/Gemini-CLI-Git-Ask)
+  > A code analysis tool that enables natural language queries about Git repositories using Google's Gem...
+
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [666OS/ClashMac](https://github.com/666OS/ClashMac)
+  > Native Proxy Experience Built for macOS
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [githubvpn007/Clash-for-Mac](https://github.com/githubvpn007/Clash-for-Mac)
+  > Clash for Windows for Mac，Clash for Windows for Mac教程，Clash for Windows for Mac配置说明，Clash for Mac
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hzqst/plugify-fork](https://github.com/hzqst/plugify-fork)
@@ -44,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-01-29 07:37:49 UTC*
+*最后更新于 2026-01-29 08:34:57 UTC*
 *历史记录保存在 `archive` 目录中。*
