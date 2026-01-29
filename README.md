@@ -90,7 +90,11 @@
 - 🌟 👤 [tcc0lin](https://github.com/tcc0lin) Starred [lxz-jiandan/Overt](https://github.com/lxz-jiandan/Overt)
   > Overt是一款功能强大的Android设备安全检测工具
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite)
+  > Embedded micro-VM sandbox for running AI agents.
+
 
 ---
-*最后更新于 2026-01-29 15:32:18 UTC*
+*最后更新于 2026-01-29 16:39:37 UTC*
 *历史记录保存在 `archive` 目录中。*
