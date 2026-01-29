@@ -86,6 +86,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hzqst/DebugViewPP](https://github.com/hzqst/DebugViewPP)
   > DebugView++, collects, views, filters your application logs, and highlights information that is impo...
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
   > WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.
@@ -100,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-01-29 20:26:29 UTC*
+*最后更新于 2026-01-29 21:23:26 UTC*
 *历史记录保存在 `archive` 目录中。*
