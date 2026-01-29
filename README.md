@@ -4,10 +4,6 @@
 
 ## 今日动态
 
-### [0xeb](https://github.com/0xeb)
-- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xeb/copilot-sdk-cpp](https://github.com/0xeb/copilot-sdk-cpp) to [copilot-community-sdk/copilot-sdk-cpp](https://github.com/copilot-community-sdk/copilot-sdk-cpp)
-  > C++ port of the GitHub Copilot SDK
-
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [w1ndy/chinavis-2025-website](https://github.com/w1ndy/chinavis-2025-website) to [Admirepowered/chinavis-2026-website](https://github.com/Admirepowered/chinavis-2026-website)
   > Source code for ChinaVis 2025 website: https://chinavis.org/2025/
@@ -48,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-01-29 06:41:52 UTC*
+*最后更新于 2026-01-29 07:37:49 UTC*
 *历史记录保存在 `archive` 目录中。*
