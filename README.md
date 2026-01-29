@@ -28,6 +28,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [cayxc/Mdmdt](https://github.com/cayxc/Mdmdt)
   > Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring bo...
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [current/divinity-menu](https://github.com/current/divinity-menu)
+  > Menu using a custom framework, utilizing imgui's backend 
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
   > Community maintained hardware plugin for vLLM on Ascend
@@ -88,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-01-29 14:40:07 UTC*
+*最后更新于 2026-01-29 15:32:18 UTC*
 *历史记录保存在 `archive` 目录中。*
