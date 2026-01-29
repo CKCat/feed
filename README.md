@@ -46,6 +46,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
   > A drop-in, 5-20x faster, experimental Homebrew alternative
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [eset/vba-dynamic-hook](https://github.com/eset/vba-dynamic-hook)
+  > VBA Dynamic Hook dynamically analyzes VBA macros inside Office documents by hooking function calls
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
   > 📂 Web File Browser
@@ -96,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-01-29 19:27:53 UTC*
+*最后更新于 2026-01-29 20:26:29 UTC*
 *历史记录保存在 `archive` 目录中。*
