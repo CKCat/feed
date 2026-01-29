@@ -64,6 +64,12 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [ihainan/Gemini-CLI-Git-Ask](https://github.com/ihainan/Gemini-CLI-Git-Ask)
   > A code analysis tool that enables natural language queries about Git repositories using Google's Gem...
 
+### [bkerler](https://github.com/bkerler)
+- 🌟 👤 [bkerler](https://github.com/bkerler) Starred [Pwnsat/FlatSat](https://github.com/Pwnsat/FlatSat)
+  > The $35 Hackable Satellite
+- 🌟 👤 [bkerler](https://github.com/bkerler) Starred [Pwnsat/FlatSat_Firmware](https://github.com/Pwnsat/FlatSat_Firmware)
+  > Firmware for the FlatSat v0.1
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [666OS/ClashMac](https://github.com/666OS/ClashMac)
   > Native Proxy Experience Built for macOS
@@ -104,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-01-29 21:23:26 UTC*
+*最后更新于 2026-01-29 22:24:26 UTC*
 *历史记录保存在 `archive` 目录中。*
