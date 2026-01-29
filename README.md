@@ -12,6 +12,14 @@
 - 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [w1ndy/chinavis-2025-website](https://github.com/w1ndy/chinavis-2025-website) to [Admirepowered/chinavis-2026-website](https://github.com/Admirepowered/chinavis-2026-website)
   > Source code for ChinaVis 2025 website: https://chinavis.org/2025/
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [0xeb/bnsql](https://github.com/0xeb/bnsql)
+  > SQL interface to Binary Ninja databases
+
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [R0rt1z2/kaeru](https://github.com/R0rt1z2/kaeru)
+  > ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
@@ -64,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-01-29 09:38:58 UTC*
+*最后更新于 2026-01-29 10:33:32 UTC*
 *历史记录保存在 `archive` 目录中。*
