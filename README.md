@@ -64,8 +64,12 @@
   > Neo-Launcher
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) to [yuchuangu85/lawnicons](https://github.com/yuchuangu85/lawnicons)
   > Monochrome outlined brand icons for Android launchers.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Gracker/Friends-Circle-Demo-Apks-For-Power-and-Performance-Test](https://github.com/Gracker/Friends-Circle-Demo-Apks-For-Power-and-Performance-Test)
+  > 用来测试 Performance 和 Power 的基准 App，包含各种技术实现。主要是用来测试 App 启动、App Switch、App 列表滑动性能。
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [ighsix/HighPerformanceFriendsCircle](https://github.com/ighsix/HighPerformanceFriendsCircle)
+  > 实现高性能微信朋友圈
 
 
 ---
-*最后更新于 2026-01-30 13:53:31 UTC*
+*最后更新于 2026-01-30 14:33:17 UTC*
 *历史记录保存在 `archive` 目录中。*
