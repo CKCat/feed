@@ -38,6 +38,8 @@
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [MarioVilas/winappdbg](https://github.com/MarioVilas/winappdbg)
   > WinAppDbg Debugger
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve)
+  > Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/in...
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [awnto/rinix](https://github.com/awnto/rinix)
@@ -90,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-01-30 20:26:01 UTC*
+*最后更新于 2026-01-30 21:25:21 UTC*
 *历史记录保存在 `archive` 目录中。*
