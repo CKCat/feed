@@ -8,6 +8,10 @@
 - 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [Pouchkinn-s-Gigastructures/Gigastructures](https://github.com/Pouchkinn-s-Gigastructures/Gigastructures) to [Dr-TSNG/Gigastructures](https://github.com/Dr-TSNG/Gigastructures)
   > Get your plate of gigastructural spaghetti here!
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [shomykohai/penumbra](https://github.com/shomykohai/penumbra)
+  > 🌘 MTK flash tool written in rust
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [TomyJan/Kuro-API-Collection](https://github.com/TomyJan/Kuro-API-Collection)
   > 库街区 API 收集
@@ -92,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-01-30 22:21:27 UTC*
+*最后更新于 2026-01-30 23:21:52 UTC*
 *历史记录保存在 `archive` 目录中。*
