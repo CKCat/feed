@@ -11,9 +11,15 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [alibaba/MNN](https://github.com/alibaba/MNN)
   > MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use c...
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
+  > 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [awnto/rinix](https://github.com/awnto/rinix)
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [Turbo1123/roubao](https://github.com/Turbo1123/roubao)
+  > Android Automation Tool Based on Vision-Language Models
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [jehumtine/markov-chain-trading-strategy](https://github.com/jehumtine/markov-chain-trading-strategy) to [crazyguitar/markov-chain-trading-strategy](https://github.com/crazyguitar/markov-chain-trading-strategy)
@@ -45,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-01-30 06:43:17 UTC*
+*最后更新于 2026-01-30 07:37:41 UTC*
 *历史记录保存在 `archive` 目录中。*
