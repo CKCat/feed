@@ -12,12 +12,15 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [alibaba/MNN](https://github.com/alibaba/MNN)
   > MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use c...
 
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [awnto/rinix](https://github.com/awnto/rinix)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [jehumtine/markov-chain-trading-strategy](https://github.com/jehumtine/markov-chain-trading-strategy) to [crazyguitar/markov-chain-trading-strategy](https://github.com/crazyguitar/markov-chain-trading-strategy)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AveryClapp/Cache-Explorer](https://github.com/AveryClapp/Cache-Explorer)
 
 ### [iwxyi](https://github.com/iwxyi)
-- 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [openclaw/moltbot](https://github.com/openclaw/moltbot)
+- 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [phodal](https://github.com/phodal)
@@ -31,6 +34,8 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [memovai/memov](https://github.com/memovai/memov)
   > Give git-like & traceable memory to any coding agents and Moltbot(Clawdbot). By https://memov.ai/
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
+  > 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。A Local-first chat analysis tool: Relive your social memorie...
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) to [yuchuangu85/Neo-Launcher](https://github.com/yuchuangu85/Neo-Launcher)
@@ -40,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-01-30 04:06:40 UTC*
+*最后更新于 2026-01-30 05:42:59 UTC*
 *历史记录保存在 `archive` 目录中。*
