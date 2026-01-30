@@ -14,6 +14,11 @@
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [jehumtine/markov-chain-trading-strategy](https://github.com/jehumtine/markov-chain-trading-strategy) to [crazyguitar/markov-chain-trading-strategy](https://github.com/crazyguitar/markov-chain-trading-strategy)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AveryClapp/Cache-Explorer](https://github.com/AveryClapp/Cache-Explorer)
+
+### [iwxyi](https://github.com/iwxyi)
+- 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [openclaw/moltbot](https://github.com/openclaw/moltbot)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) to [phodal-archive/claude-code-proxy-python](https://github.com/phodal-archive/claude-code-proxy-python)
@@ -23,6 +28,10 @@
 - 🌟 👤 [stong](https://github.com/stong) Starred [tldev/posturr](https://github.com/tldev/posturr)
   > A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture dete...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [memovai/memov](https://github.com/memovai/memov)
+  > Give git-like & traceable memory to any coding agents and Moltbot(Clawdbot). By https://memov.ai/
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) to [yuchuangu85/Neo-Launcher](https://github.com/yuchuangu85/Neo-Launcher)
   > Neo-Launcher
@@ -31,5 +40,5 @@
 
 
 ---
-*最后更新于 2026-01-30 01:48:36 UTC*
+*最后更新于 2026-01-30 04:06:40 UTC*
 *历史记录保存在 `archive` 目录中。*
