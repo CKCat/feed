@@ -7,6 +7,8 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [TomyJan/Kuro-API-Collection](https://github.com/TomyJan/Kuro-API-Collection)
   > 库街区 API 收集
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)
+  > Run sing-box/mihomo as client in shell
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
@@ -71,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-01-30 14:33:17 UTC*
+*最后更新于 2026-01-30 15:30:35 UTC*
 *历史记录保存在 `archive` 目录中。*
