@@ -37,6 +37,10 @@
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
+  > :stars: Manage your shell commands.
+
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) to [phodal-archive/claude-code-proxy-python](https://github.com/phodal-archive/claude-code-proxy-python)
   > Claude Code to OpenAI API Proxy
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-01-30 12:47:57 UTC*
+*最后更新于 2026-01-30 13:53:31 UTC*
 *历史记录保存在 `archive` 目录中。*
