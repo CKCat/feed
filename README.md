@@ -35,6 +35,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
   > 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [MarioVilas/winappdbg](https://github.com/MarioVilas/winappdbg)
+  > WinAppDbg Debugger
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [awnto/rinix](https://github.com/awnto/rinix)
 
@@ -86,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-01-30 19:28:57 UTC*
+*最后更新于 2026-01-30 20:26:01 UTC*
 *历史记录保存在 `archive` 目录中。*
