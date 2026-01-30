@@ -41,6 +41,10 @@
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) to [phodal-archive/claude-code-proxy-python](https://github.com/phodal-archive/claude-code-proxy-python)
   > Claude Code to OpenAI API Proxy
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
+  > Share your terminal over the web
+
 ### [stong](https://github.com/stong)
 - 🌟 👤 [stong](https://github.com/stong) Starred [tldev/posturr](https://github.com/tldev/posturr)
   > A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture dete...
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-01-30 10:30:29 UTC*
+*最后更新于 2026-01-30 11:25:13 UTC*
 *历史记录保存在 `archive` 目录中。*
