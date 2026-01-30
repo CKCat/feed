@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [Pouchkinn-s-Gigastructures/Gigastructures](https://github.com/Pouchkinn-s-Gigastructures/Gigastructures) to [Dr-TSNG/Gigastructures](https://github.com/Dr-TSNG/Gigastructures)
+  > Get your plate of gigastructural spaghetti here!
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [TomyJan/Kuro-API-Collection](https://github.com/TomyJan/Kuro-API-Collection)
   > 库街区 API 收集
@@ -17,6 +21,10 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [PlayCover/PlayTools](https://github.com/PlayCover/PlayTools) to [Mufanc/PlayTools](https://github.com/Mufanc/PlayTools)
+  > Tools for keymapping, dynamic resolution, and more
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [alibaba/MNN](https://github.com/alibaba/MNN)
@@ -75,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-01-30 17:30:26 UTC*
+*最后更新于 2026-01-30 18:37:04 UTC*
 *历史记录保存在 `archive` 目录中。*
