@@ -18,6 +18,9 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
   > 改进自chrome-devtools-mcp，专属于js 逆向的优化
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
@@ -83,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-01-30 18:37:04 UTC*
+*最后更新于 2026-01-30 19:28:57 UTC*
 *历史记录保存在 `archive` 目录中。*
