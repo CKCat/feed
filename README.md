@@ -57,7 +57,7 @@
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [memovai/memov](https://github.com/memovai/memov)
-  > Give git-like & traceable memory to any coding agents and Moltbot(Clawdbot). By https://memov.ai/
+  > Give git-like & traceable memory to any coding agents and OpenClaw(Moltbot, Clawdbot). By https://me...
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
   > 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。A Local-first chat analysis tool: Relive your social memorie...
 
@@ -70,8 +70,10 @@
   > 用来测试 Performance 和 Power 的基准 App，包含各种技术实现。主要是用来测试 App 启动、App Switch、App 列表滑动性能。
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [ighsix/HighPerformanceFriendsCircle](https://github.com/ighsix/HighPerformanceFriendsCircle)
   > 实现高性能微信朋友圈
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
 
 
 ---
-*最后更新于 2026-01-30 16:35:14 UTC*
+*最后更新于 2026-01-30 17:30:26 UTC*
 *历史记录保存在 `archive` 目录中。*
