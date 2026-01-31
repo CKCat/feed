@@ -19,6 +19,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
   > GUI Application to work with engine assets, asset bundles, and serialized files
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals)
+  > Dive into CPython internals, trying to illustrate every detail of CPython implementation
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wofr06/lesspipe](https://github.com/wofr06/lesspipe)
   > lesspipe - display more with less
@@ -35,5 +39,5 @@
 
 
 ---
-*最后更新于 2026-01-31 20:21:28 UTC*
+*最后更新于 2026-01-31 21:18:31 UTC*
 *历史记录保存在 `archive` 目录中。*
