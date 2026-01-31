@@ -7,6 +7,10 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
+  > GUI Application to work with engine assets, asset bundles, and serialized files
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wofr06/lesspipe](https://github.com/wofr06/lesspipe)
   > lesspipe - display more with less
@@ -19,5 +23,5 @@
 
 
 ---
-*最后更新于 2026-01-31 09:24:52 UTC*
+*最后更新于 2026-01-31 10:20:49 UTC*
 *历史记录保存在 `archive` 目录中。*
