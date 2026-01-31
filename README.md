@@ -10,8 +10,10 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wofr06/lesspipe](https://github.com/wofr06/lesspipe)
   > lesspipe - display more with less
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell)
+  > Like IntelliSense, but for shells
 
 
 ---
-*最后更新于 2026-01-31 07:25:42 UTC*
+*最后更新于 2026-01-31 08:26:11 UTC*
 *历史记录保存在 `archive` 目录中。*
