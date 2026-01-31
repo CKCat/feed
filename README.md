@@ -7,7 +7,11 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wofr06/lesspipe](https://github.com/wofr06/lesspipe)
+  > lesspipe - display more with less
+
 
 ---
-*最后更新于 2026-01-31 01:44:40 UTC*
+*最后更新于 2026-01-31 04:02:42 UTC*
 *历史记录保存在 `archive` 目录中。*
