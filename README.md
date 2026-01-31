@@ -12,8 +12,12 @@
   > lesspipe - display more with less
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell)
   > Like IntelliSense, but for shells
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)
+  > Render markdown on the CLI, with pizzazz! 💅🏻
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [water-sucks/optnix](https://github.com/water-sucks/optnix)
+  > [mirror] - an options searcher for nix module systems
 
 
 ---
-*最后更新于 2026-01-31 08:26:11 UTC*
+*最后更新于 2026-01-31 09:24:52 UTC*
 *历史记录保存在 `archive` 目录中。*
