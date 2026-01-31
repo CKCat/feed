@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [danielsan/copilot-sdk-rust](https://github.com/danielsan/copilot-sdk-rust) to [lallouslab/copilot-sdk-rust](https://github.com/lallouslab/copilot-sdk-rust)
+  > Rust SDK for interacting with the Copilot CLI agent runtime (JSON-RPC over stdio or TCP)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lallouslab/copilot-sdk-rust](https://github.com/lallouslab/copilot-sdk-rust) to [0xeb/copilot-sdk-rust](https://github.com/0xeb/copilot-sdk-rust)
+  > Rust SDK for interacting with the Copilot CLI agent runtime (JSON-RPC over stdio or TCP)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xeb/copilot-sdk-rust](https://github.com/0xeb/copilot-sdk-rust) to [copilot-community-sdk/copilot-sdk-rust](https://github.com/copilot-community-sdk/copilot-sdk-rust)
+  > Rust SDK for interacting with the Copilot CLI agent runtime (JSON-RPC over stdio or TCP)
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [ggrandes-clones/pmon](https://github.com/ggrandes-clones/pmon)
   > Copy: Linux process monitoring (exec, fork, exit, set*uid, set*gid)
@@ -39,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-01-31 22:19:12 UTC*
+*最后更新于 2026-01-31 23:18:44 UTC*
 *历史记录保存在 `archive` 目录中。*
