@@ -25,7 +25,11 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [water-sucks/optnix](https://github.com/water-sucks/optnix)
   > [mirror] - an options searcher for nix module systems
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
+  > Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you ...
+
 
 ---
-*最后更新于 2026-01-31 15:20:11 UTC*
+*最后更新于 2026-01-31 16:23:40 UTC*
 *历史记录保存在 `archive` 目录中。*
