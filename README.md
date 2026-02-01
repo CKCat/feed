@@ -37,6 +37,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
   > Anti-LLM obfuscation via finger counting 
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [openwall/john](https://github.com/openwall/john)
+  > John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and ciphe...
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vaenshine/VansonMod](https://github.com/vaenshine/VansonMod)
   > iOS memory editor, iOS pointer analysis, RVA patcher, and process manager for TrollStore (jailbreak ...
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-02-01 19:21:59 UTC*
+*最后更新于 2026-02-01 20:22:22 UTC*
 *历史记录保存在 `archive` 目录中。*
