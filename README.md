@@ -37,7 +37,17 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [adityatelange/frida-ui](https://github.com/adityatelange/frida-ui)
   > Interact with Frida devices, processes, and scripts directly from your browser.
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer)
+  > A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [emilk/egui](https://github.com/emilk/egui)
+  > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+  > A cross-platform GUI library for Rust, inspired by Elm
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [squidowl/halloy](https://github.com/squidowl/halloy)
+  > IRC application written in Rust
+
 
 ---
-*最后更新于 2026-02-01 13:40:23 UTC*
+*最后更新于 2026-02-01 14:23:07 UTC*
 *历史记录保存在 `archive` 目录中。*
