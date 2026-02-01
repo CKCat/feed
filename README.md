@@ -30,6 +30,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
   > 🔥 Feature-rich interactive Jira command line.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
+  > Anti-LLM obfuscation via finger counting 
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vaenshine/VansonMod](https://github.com/vaenshine/VansonMod)
@@ -46,8 +48,10 @@
   > A cross-platform GUI library for Rust, inspired by Elm
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [squidowl/halloy](https://github.com/squidowl/halloy)
   > IRC application written in Rust
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+  > 🚀 Awesome Tauri Apps, Plugins and Resources
 
 
 ---
-*最后更新于 2026-02-01 15:21:16 UTC*
+*最后更新于 2026-02-01 16:25:36 UTC*
 *历史记录保存在 `archive` 目录中。*
