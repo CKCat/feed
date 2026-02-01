@@ -15,6 +15,12 @@
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish)
   > A curation of prompts, plugins & other Fish treasures 🐚💎
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish)
+  > From Shell to Plate: Savor the Zest of Fish 🦞
+
+### [eastmountyxz](https://github.com/eastmountyxz)
+- 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [b1tg/CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit)
+  > CVE-2023-38831 winrar exploit generator
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vaenshine/VansonMod](https://github.com/vaenshine/VansonMod)
@@ -22,5 +28,5 @@
 
 
 ---
-*最后更新于 2026-02-01 09:27:20 UTC*
+*最后更新于 2026-02-01 10:21:59 UTC*
 *历史记录保存在 `archive` 目录中。*
