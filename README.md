@@ -11,12 +11,20 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/MrmTool](https://github.com/ahmed605/MrmTool)
   > Tool for viewing and editing PRI files
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [saicaca/fuwari](https://github.com/saicaca/fuwari)
+  > ✨A static blog template built with Astro. 
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [dwash96/cecli](https://github.com/dwash96/cecli)
   > cecli - (a.k.a aider-ce)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [owenthereal/upterm](https://github.com/owenthereal/upterm)
   > Instant Terminal Sharing
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)
+  > Firefox user.js for optimal privacy and security. Your favorite browser, but better.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [triton-lang/triton](https://github.com/triton-lang/triton)
+  > Development repository for the Triton language and compiler
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models)
@@ -44,7 +52,11 @@
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [redbadger/crux](https://github.com/redbadger/crux)
   > Cross-platform app development in Rust
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [huggingface/diffusers](https://github.com/huggingface/diffusers) to [yujincheng08/diffusers](https://github.com/yujincheng08/diffusers)
+  > 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+
 
 ---
-*最后更新于 2026-02-02 08:38:53 UTC*
+*最后更新于 2026-02-02 09:43:13 UTC*
 *历史记录保存在 `archive` 目录中。*
