@@ -20,6 +20,10 @@
 - 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [vinc3m1/kludgeknight](https://github.com/vinc3m1/kludgeknight)
   > Open-Source, Cross Platform, Royal Kludge Software run directly in Browser
 
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [bron1e/fnos-rce-chain](https://github.com/bron1e/fnos-rce-chain) to [LeadroyaL/fnos-rce-chain](https://github.com/LeadroyaL/fnos-rce-chain)
+  > 飞牛系统（fnOS）远程代码执行链：认证绕过
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/MrmTool](https://github.com/ahmed605/MrmTool)
   > Tool for viewing and editing PRI files
@@ -49,6 +53,7 @@
   > Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ThePrimeagen/99](https://github.com/ThePrimeagen/99)
   > Neovim AI agent done right
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) to [crazyguitar/rag-from-scratch](https://github.com/crazyguitar/rag-from-scratch)
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
@@ -57,12 +62,18 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [r-lyeh/single_file_libs](https://github.com/r-lyeh/single_file_libs)
   > List of single-file C/C++ libraries, with emphasis on clause-less licenses.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [purpleK2/purpleK2](https://github.com/purpleK2/purpleK2)
+  > Freestanding 64-bit Operating System
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models)
   > A Big Awesome List CoreML Models.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
   > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
+### [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
+- 🌟 👤 [githubuser0xFFFF](https://github.com/githubuser0xFFFF) Starred [githubuser0xFFFF/cangaroo](https://github.com/githubuser0xFFFF/cangaroo)
+  > Open source can bus analyzer software - with support for CANable / CANable2, CANFD, and other new fe...
 
 ### [ihciah](https://github.com/ihciah)
 - 🍴 👤 [ihciah](https://github.com/ihciah) Forked [openclaw/openclaw](https://github.com/openclaw/openclaw) to [ihciah/openclaw](https://github.com/ihciah/openclaw)
@@ -116,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-02-02 18:38:23 UTC*
+*最后更新于 2026-02-02 23:25:19 UTC*
 *历史记录保存在 `archive` 目录中。*
