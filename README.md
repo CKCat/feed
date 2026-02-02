@@ -26,6 +26,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [saicaca/fuwari](https://github.com/saicaca/fuwari)
   > ✨A static blog template built with Astro. 
 
+### [antonio-morales](https://github.com/antonio-morales)
+- 🍴 👤 [antonio-morales](https://github.com/antonio-morales) Forked [moodle/moodle](https://github.com/moodle/moodle) to [antonio-morales/moodle](https://github.com/antonio-morales/moodle)
+  > Moodle - the world's open source learning platform
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [dwash96/cecli](https://github.com/dwash96/cecli)
   > cecli - (a.k.a aider-ce)
@@ -39,10 +43,18 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [triton-lang/triton](https://github.com/triton-lang/triton)
   > Development repository for the Triton language and compiler
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [cloudflare/moltworker](https://github.com/cloudflare/moltworker)
+  > Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [cloudflare/moltworker](https://github.com/cloudflare/moltworker) to [crazyguitar/moltworker](https://github.com/crazyguitar/moltworker)
+  > Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
   > Reproduce DeFi hacked incidents using Foundry.
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [r-lyeh/single_file_libs](https://github.com/r-lyeh/single_file_libs)
+  > List of single-file C/C++ libraries, with emphasis on clause-less licenses.
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models)
@@ -102,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-02-02 16:36:00 UTC*
+*最后更新于 2026-02-02 17:35:19 UTC*
 *历史记录保存在 `archive` 目录中。*
