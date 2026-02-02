@@ -16,6 +16,10 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [llvm/circt](https://github.com/llvm/circt)
   > Circuit IR Compilers and Tools
 
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [vinc3m1/kludgeknight](https://github.com/vinc3m1/kludgeknight)
+  > Open-Source, Cross Platform, Royal Kludge Software run directly in Browser
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/MrmTool](https://github.com/ahmed605/MrmTool)
   > Tool for viewing and editing PRI files
@@ -52,6 +56,10 @@
 - 🍴 👤 [ihciah](https://github.com/ihciah) Forked [tisfeng/Easydict](https://github.com/tisfeng/Easydict) to [ihciah/Easydict](https://github.com/ihciah/Easydict)
   > 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百...
 
+### [konata](https://github.com/konata)
+- 🌟 👤 [konata](https://github.com/konata) Starred [5ec1cff/payload-dumper](https://github.com/5ec1cff/payload-dumper)
+  > Dump Android's payload.bin
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lynaghk/vibe](https://github.com/lynaghk/vibe)
   > Easy Linux virtual machine on MacOS to sandbox LLM agents.
@@ -59,6 +67,8 @@
   > The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent E...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnWeber/httpyac](https://github.com/AnWeber/httpyac)
   > Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wesm/msgvault](https://github.com/wesm/msgvault)
+  > Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol)
@@ -92,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-02-02 15:35:19 UTC*
+*最后更新于 2026-02-02 16:36:00 UTC*
 *历史记录保存在 `archive` 目录中。*
