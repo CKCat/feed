@@ -48,6 +48,16 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [KishorBal/deep-C](https://github.com/KishorBal/deep-C)
   > Android deeplink misconfiguration detector and exploitation tool
 
+### [wrlu](https://github.com/wrlu)
+- 🌟 👤 [wrlu](https://github.com/wrlu) Starred [agno-agi/agno](https://github.com/agno-agi/agno)
+  > Build multi-agent systems that learn and improve with every interaction.
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zhizhuodemao/android_proxy_mcp](https://github.com/zhizhuodemao/android_proxy_mcp)
+  > 基于 MCP 的 Android 抓包服务，让 AI 助手通过自然语言分析网络请求。
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [redbadger/crux](https://github.com/redbadger/crux)
   > Cross-platform app development in Rust
@@ -58,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-02-02 09:43:13 UTC*
+*最后更新于 2026-02-02 10:40:33 UTC*
 *历史记录保存在 `archive` 目录中。*
