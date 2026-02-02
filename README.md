@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook)
+  > A tool that helps you work with frida easily for Android platform
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/MrmTool](https://github.com/ahmed605/MrmTool)
   > Tool for viewing and editing PRI files
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-02-02 07:46:50 UTC*
+*最后更新于 2026-02-02 08:38:53 UTC*
 *历史记录保存在 `archive` 目录中。*
