@@ -47,6 +47,8 @@
   > Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [cloudflare/moltworker](https://github.com/cloudflare/moltworker) to [crazyguitar/moltworker](https://github.com/crazyguitar/moltworker)
   > Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ThePrimeagen/99](https://github.com/ThePrimeagen/99)
+  > Neovim AI agent done right
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
@@ -114,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-02-02 17:35:19 UTC*
+*最后更新于 2026-02-02 18:38:23 UTC*
 *历史记录保存在 `archive` 目录中。*
