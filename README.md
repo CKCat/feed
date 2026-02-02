@@ -34,6 +34,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [triton-lang/triton](https://github.com/triton-lang/triton)
   > Development repository for the Triton language and compiler
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+  > Reproduce DeFi hacked incidents using Foundry.
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models)
   > A Big Awesome List CoreML Models.
@@ -76,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-02-02 12:53:19 UTC*
+*最后更新于 2026-02-02 14:00:24 UTC*
 *历史记录保存在 `archive` 目录中。*
