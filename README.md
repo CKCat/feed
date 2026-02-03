@@ -20,6 +20,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [HexHive/droidot](https://github.com/HexHive/droidot)
   > Fuzz Android apk native libraries
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+  > 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard)
 
@@ -43,6 +47,10 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [iccir/Timeless-Theme](https://github.com/iccir/Timeless-Theme)
   > macOS-inspired theme for Sublime Text 4
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [iccir/PixelWinch](https://github.com/iccir/PixelWinch)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [D4lj337/Emacs-performance](https://github.com/D4lj337/Emacs-performance)
+  > Few of the settings for speeding up the Emacs.
+- 🍴 👤 [jonpalmisc](https://github.com/jonpalmisc) Forked [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) to [jonpalmisc/binaryninja-api](https://github.com/jonpalmisc/binaryninja-api)
+  > Public API, examples, documentation and issues for Binary Ninja
 
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [GetRektBoy724/KPDB](https://github.com/GetRektBoy724/KPDB)
@@ -54,6 +62,18 @@
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters)
   > Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain expert...
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development (SDD) for AI coding assistants.
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [asottile/pyupgrade](https://github.com/asottile/pyupgrade)
+  > A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)
+  > The Refactoring library based off the Refactoring book by Martin Fowler
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin)
@@ -64,7 +84,11 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [shomykohai/penumbra](https://github.com/shomykohai/penumbra)
   > 🌘 MTK flash tool written in rust
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb)
+  > DuckDB-powered Postgres for high performance apps & analytics.
+
 
 ---
-*最后更新于 2026-02-03 14:02:47 UTC*
+*最后更新于 2026-02-03 15:45:13 UTC*
 *历史记录保存在 `archive` 目录中。*
