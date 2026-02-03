@@ -30,6 +30,12 @@
   > Upgrade all the things
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [alexpasmantier/television](https://github.com/alexpasmantier/television) to [bet4it/television](https://github.com/bet4it/television)
   > A very fast, portable and hackable fuzzy finder for the terminal.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia)
+  > Download manager that supports regular downloads, torrents and videos
+
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [QuarkContainer/Quark](https://github.com/QuarkContainer/Quark)
+  > A secure container runtime with CRI/OCI interface
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
@@ -43,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-02-03 04:12:38 UTC*
+*最后更新于 2026-02-03 05:47:28 UTC*
 *历史记录保存在 `archive` 目录中。*
