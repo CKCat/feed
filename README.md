@@ -37,8 +37,16 @@
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [QuarkContainer/Quark](https://github.com/QuarkContainer/Quark)
   > A secure container runtime with CRI/OCI interface
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
+  > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters)
+  > Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain expert...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [HexRaysSA/ida-chat-plugin](https://github.com/HexRaysSA/ida-chat-plugin)
@@ -46,8 +54,10 @@
   > Plugin to ease reversing iOS projects
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [5ec1cff/payload-dumper](https://github.com/5ec1cff/payload-dumper)
   > Dump Android's payload.bin
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [shomykohai/penumbra](https://github.com/shomykohai/penumbra)
+  > 🌘 MTK flash tool written in rust
 
 
 ---
-*最后更新于 2026-02-03 08:32:46 UTC*
+*最后更新于 2026-02-03 09:37:14 UTC*
 *历史记录保存在 `archive` 目录中。*
