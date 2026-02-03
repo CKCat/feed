@@ -40,6 +40,13 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [iccir/Timeless-Theme](https://github.com/iccir/Timeless-Theme)
+  > macOS-inspired theme for Sublime Text 4
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [iccir/PixelWinch](https://github.com/iccir/PixelWinch)
+
+### [lxraa](https://github.com/lxraa)
+- 🌟 👤 [lxraa](https://github.com/lxraa) Starred [GetRektBoy724/KPDB](https://github.com/GetRektBoy724/KPDB)
+  > Windows PDB parser for kernel-mode environment.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
@@ -59,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-02-03 09:37:14 UTC*
+*最后更新于 2026-02-03 10:36:07 UTC*
 *历史记录保存在 `archive` 目录中。*
