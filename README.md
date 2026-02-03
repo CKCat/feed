@@ -8,8 +8,28 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [markusa4/satsuma](https://github.com/markusa4/satsuma)
   > static symmetry breaking for SAT
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [viaduck/openssl-cmake](https://github.com/viaduck/openssl-cmake) to [reqable/openssl-cmake](https://github.com/reqable/openssl-cmake)
+  > CMake wrapper for OpenSSL supporting cross-compilation
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)
+  > FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Su...
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [HexHive/droidot](https://github.com/HexHive/droidot)
+  > Fuzz Android apk native libraries
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard)
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [chrishrb/go-grip](https://github.com/chrishrb/go-grip)
+  > Preview Markdown files locally before committing them.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
+  > Upgrade all the things
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [alexpasmantier/television](https://github.com/alexpasmantier/television) to [bet4it/television](https://github.com/bet4it/television)
+  > A very fast, portable and hackable fuzzy finder for the terminal.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
@@ -23,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-02-03 01:54:18 UTC*
+*最后更新于 2026-02-03 04:12:38 UTC*
 *历史记录保存在 `archive` 目录中。*
