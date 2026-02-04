@@ -49,6 +49,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast)
   > Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/NVTX](https://github.com/NVIDIA/NVTX)
+  > The NVIDIA® Tools Extension SDK (NVTX) is a C-based Application Programming Interface (API) for anno...
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [C4T-BuT-S4D/S4DFarm](https://github.com/C4T-BuT-S4D/S4DFarm) to [es3n1n/S4DFarm](https://github.com/es3n1n/S4DFarm)
@@ -104,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-02-04 18:43:26 UTC*
+*最后更新于 2026-02-04 19:36:34 UTC*
 *历史记录保存在 `archive` 目录中。*
