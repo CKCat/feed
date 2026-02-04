@@ -74,6 +74,10 @@
   > Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [WriteGuardedMemory/fortnite-sdk](https://github.com/WriteGuardedMemory/fortnite-sdk)
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [libbpf/libbpf](https://github.com/libbpf/libbpf) to [frida/libbpf](https://github.com/frida/libbpf)
+  > Automated upstream mirror for libbpf stand-alone build.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cursor/agent-trace](https://github.com/cursor/agent-trace)
   > A standard format for tracing AI-generated code.
@@ -88,7 +92,11 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [opengrep/opengrep](https://github.com/opengrep/opengrep)
   > 🔎 Static code analysis engine to find security issues in code.
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [BulletTrade/bullet-trade](https://github.com/BulletTrade/bullet-trade)
+  > 全流程交易系统，兼容聚宽代码。
+
 
 ---
-*最后更新于 2026-02-04 14:00:55 UTC*
+*最后更新于 2026-02-04 15:39:11 UTC*
 *历史记录保存在 `archive` 目录中。*
