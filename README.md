@@ -52,6 +52,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/NVTX](https://github.com/NVIDIA/NVTX)
   > The NVIDIA® Tools Extension SDK (NVTX) is a C-based Application Programming Interface (API) for anno...
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/PointerScan](https://github.com/niqiuqiux/PointerScan)
+  > C++的内存指针链扫描
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [C4T-BuT-S4D/S4DFarm](https://github.com/C4T-BuT-S4D/S4DFarm) to [es3n1n/S4DFarm](https://github.com/es3n1n/S4DFarm)
   > Attack & Defense CTF Farm based on DestructiveFarm
@@ -106,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-02-04 21:29:29 UTC*
+*最后更新于 2026-02-04 22:23:47 UTC*
 *历史记录保存在 `archive` 目录中。*
