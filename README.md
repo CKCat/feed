@@ -54,6 +54,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cursor/agent-trace](https://github.com/cursor/agent-trace)
   > A standard format for tracing AI-generated code.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
@@ -61,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-02-04 07:41:21 UTC*
+*最后更新于 2026-02-04 08:36:27 UTC*
 *历史记录保存在 `archive` 目录中。*
