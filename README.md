@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [shomykohai/penumbra](https://github.com/shomykohai/penumbra)
+  > 🌘 MTK flash tool written in rust
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [KishorBal/deep-C](https://github.com/KishorBal/deep-C)
+  > Android deeplink misconfiguration detector and exploitation tool
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -48,6 +54,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [yahiafarghaly/PrettyOS](https://github.com/yahiafarghaly/PrettyOS)
   > A Preemptive Hard Real Time kernel for embedded devices.
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [apogiatzis/gdb-peda-pwndbg-gef](https://github.com/apogiatzis/gdb-peda-pwndbg-gef)
+  > A script to automatically install Peda+pwndbg+GEF plugins for gdb
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [mrexodia/sogen](https://github.com/mrexodia/sogen)
   > 🪅 Windows User Space Emulator 
@@ -60,6 +70,9 @@
   > Copy: Linux process monitoring (exec, fork, exit, set*uid, set*gid)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [pamburus/hl](https://github.com/pamburus/hl)
   > A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear hum...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [TermoraDev/termora](https://github.com/TermoraDev/termora)
+  > Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [WriteGuardedMemory/fortnite-sdk](https://github.com/WriteGuardedMemory/fortnite-sdk)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cursor/agent-trace](https://github.com/cursor/agent-trace)
@@ -77,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-02-04 12:52:51 UTC*
+*最后更新于 2026-02-04 14:00:55 UTC*
 *历史记录保存在 `archive` 目录中。*
