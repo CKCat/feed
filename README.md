@@ -55,7 +55,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cursor/agent-trace](https://github.com/cursor/agent-trace)
   > A standard format for tracing AI-generated code.
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
+  > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
+
 
 ---
-*最后更新于 2026-02-04 06:46:12 UTC*
+*最后更新于 2026-02-04 07:41:21 UTC*
 *历史记录保存在 `archive` 目录中。*
