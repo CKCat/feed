@@ -41,6 +41,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [rafaelRiv/osblog](https://github.com/rafaelRiv/osblog)
   > The Adventures of OS
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [yahiafarghaly/PrettyOS](https://github.com/yahiafarghaly/PrettyOS)
+  > A Preemptive Hard Real Time kernel for embedded devices.
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [enenH/AndroidImgui](https://github.com/enenH/AndroidImgui)
@@ -60,8 +62,12 @@
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
   > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  > An incremental parsing system for programming tools
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [opengrep/opengrep](https://github.com/opengrep/opengrep)
+  > 🔎 Static code analysis engine to find security issues in code.
 
 
 ---
-*最后更新于 2026-02-04 08:36:27 UTC*
+*最后更新于 2026-02-04 09:39:22 UTC*
 *历史记录保存在 `archive` 目录中。*
