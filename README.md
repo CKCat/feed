@@ -15,8 +15,8 @@
   > pull decrypted ipa from jailbreak device
 
 ### [Admirepowered](https://github.com/Admirepowered)
-- 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [AndroidPatch/Magisk](https://github.com/AndroidPatch/Magisk) to [Admirepowered/Magisk](https://github.com/Admirepowered/Magisk)
-  > Modified Magisk Utils for APatch
+- 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) to [Admirepowered/Magisk](https://github.com/Admirepowered/Magisk)
+  > The Magic Mask for Android
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [wiz0u/WTelegramClient](https://github.com/wiz0u/WTelegramClient)
@@ -43,6 +43,8 @@
   > A LyX-like experience rewritten for Typst and the modern era
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst)
   > 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [upstash/context7](https://github.com/upstash/context7)
+  > Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
@@ -98,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-02-05 15:37:39 UTC*
+*最后更新于 2026-02-05 16:42:38 UTC*
 *历史记录保存在 `archive` 目录中。*
