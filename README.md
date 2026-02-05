@@ -36,6 +36,14 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
   > Make any web page a desktop application
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre)
+  > A local-first LaTeX & Typst web editor with real-time collaboration & offline support
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tyx-editor/TyX](https://github.com/tyx-editor/TyX)
+  > A LyX-like experience rewritten for Typst and the modern era
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst)
+  > 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (...
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
   > The official GitHub page for the survey paper "A Survey of Large Language Models".
@@ -55,6 +63,9 @@
 ### [divyam234](https://github.com/divyam234)
 - 🍴 👤 [divyam234](https://github.com/divyam234) Forked [gotd/td](https://github.com/gotd/td) to [tgdrive/td](https://github.com/tgdrive/td)
   > Telegram client, in Go. (MTProto API)
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [CoolHandAR/SectorShooter](https://github.com/CoolHandAR/SectorShooter)
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [emil-e/rapidcheck](https://github.com/emil-e/rapidcheck)
@@ -82,8 +93,10 @@
   > Public repository for Agent Skills
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
   > Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with ...
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
+  > A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 
 
 ---
-*最后更新于 2026-02-05 14:04:34 UTC*
+*最后更新于 2026-02-05 15:37:39 UTC*
 *历史记录保存在 `archive` 目录中。*
