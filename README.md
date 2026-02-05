@@ -57,6 +57,8 @@
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/go](https://github.com/golang/go) to [chenxiaolong/go](https://github.com/chenxiaolong/go)
   > The Go programming language
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [riskable/void_switch](https://github.com/riskable/void_switch)
+  > 3D printable magnetic separation contactless key switch and stabilizers (OpenSCAD files)
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [weiiwang01/wpex](https://github.com/weiiwang01/wpex)
@@ -72,6 +74,10 @@
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [CoolHandAR/SectorShooter](https://github.com/CoolHandAR/SectorShooter)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dax89/QHexView](https://github.com/Dax89/QHexView)
+  > A versatile Hexadecimal widget for Qt6 (and Qt5)
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [emil-e/rapidcheck](https://github.com/emil-e/rapidcheck)
@@ -102,7 +108,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
   > A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 
+### [zu1k](https://github.com/zu1k)
+- 🍴 👤 [zu1k](https://github.com/zu1k) Forked [BulletTrade/bullet-trade](https://github.com/BulletTrade/bullet-trade) to [zu1k/bullet-trade](https://github.com/zu1k/bullet-trade)
+  > 全流程交易系统，兼容聚宽代码。
+
 
 ---
-*最后更新于 2026-02-05 18:43:16 UTC*
+*最后更新于 2026-02-05 19:34:59 UTC*
 *历史记录保存在 `archive` 目录中。*
