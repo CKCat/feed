@@ -36,6 +36,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
   > Make any web page a desktop application
 
+### [caikelun](https://github.com/caikelun)
+- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
+  > The official GitHub page for the survey paper "A Survey of Large Language Models".
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/go](https://github.com/golang/go) to [chenxiaolong/go](https://github.com/chenxiaolong/go)
   > The Go programming language
@@ -81,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-02-05 12:55:22 UTC*
+*最后更新于 2026-02-05 14:04:34 UTC*
 *历史记录保存在 `archive` 目录中。*
