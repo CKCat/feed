@@ -36,6 +36,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
   > Make any web page a desktop application
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [rust-diplomat/diplomat](https://github.com/rust-diplomat/diplomat)
+  > Rust tool for generating FFI definitions allowing many other languages to call Rust code
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre)
   > A local-first LaTeX & Typst web editor with real-time collaboration & offline support
@@ -100,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-02-05 16:42:38 UTC*
+*最后更新于 2026-02-05 17:43:44 UTC*
 *历史记录保存在 `archive` 目录中。*
