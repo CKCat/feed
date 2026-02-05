@@ -9,6 +9,10 @@
   > A cross-platform protocol library to communicate with iOS devices
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/plist_recon](https://github.com/0xbinder/plist_recon)
   > This tool parses the binary or XML `Info.plist` file found in Apple applications (IPA/APP) to extrac...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [theos/theos](https://github.com/theos/theos)
+  > A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump)
+  > pull decrypted ipa from jailbreak device
 
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [AndroidPatch/Magisk](https://github.com/AndroidPatch/Magisk) to [Admirepowered/Magisk](https://github.com/Admirepowered/Magisk)
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-02-05 11:32:53 UTC*
+*最后更新于 2026-02-05 12:55:22 UTC*
 *历史记录保存在 `archive` 目录中。*
