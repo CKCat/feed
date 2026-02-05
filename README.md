@@ -20,6 +20,14 @@
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/go](https://github.com/golang/go) to [chenxiaolong/go](https://github.com/chenxiaolong/go)
   > The Go programming language
 
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [emil-e/rapidcheck](https://github.com/emil-e/rapidcheck)
+  > QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible...
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+  > A lightweight, powerful framework for multi-agent workflows
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/exfil-series](https://github.com/rand-tech/exfil-series) public
 
@@ -35,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-02-05 05:52:50 UTC*
+*最后更新于 2026-02-05 06:54:56 UTC*
 *历史记录保存在 `archive` 目录中。*
