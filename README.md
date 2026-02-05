@@ -7,6 +7,8 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)
   > A cross-platform protocol library to communicate with iOS devices
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/plist_recon](https://github.com/0xbinder/plist_recon)
+  > This tool parses the binary or XML `Info.plist` file found in Apple applications (IPA/APP) to extrac...
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [wiz0u/WTelegramClient](https://github.com/wiz0u/WTelegramClient)
@@ -61,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-02-05 08:38:22 UTC*
+*最后更新于 2026-02-05 09:40:10 UTC*
 *历史记录保存在 `archive` 目录中。*
