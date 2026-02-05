@@ -7,6 +7,8 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [wiz0u/WTelegramClient](https://github.com/wiz0u/WTelegramClient)
   > Telegram Client API (MTProto) library written 100% in C# and .NET
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)
+  > :camera: A modern, cross-platform, 2D Graphics library for .NET
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver)
@@ -17,6 +19,9 @@
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/go](https://github.com/golang/go) to [chenxiaolong/go](https://github.com/chenxiaolong/go)
   > The Go programming language
+
+### [rand-tech](https://github.com/rand-tech)
+- 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/exfil-series](https://github.com/rand-tech/exfil-series) public
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
@@ -30,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-02-05 04:11:58 UTC*
+*最后更新于 2026-02-05 05:52:50 UTC*
 *历史记录保存在 `archive` 目录中。*
