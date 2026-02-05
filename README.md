@@ -32,6 +32,14 @@
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/go](https://github.com/golang/go) to [chenxiaolong/go](https://github.com/chenxiaolong/go)
   > The Go programming language
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [weiiwang01/wpex](https://github.com/weiiwang01/wpex)
+  > WireGuard packet relay for NAT traversal
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [bentoml/llm-inference-handbook](https://github.com/bentoml/llm-inference-handbook)
+  > Everything you need to know about LLM inference
+
 ### [divyam234](https://github.com/divyam234)
 - 🍴 👤 [divyam234](https://github.com/divyam234) Forked [gotd/td](https://github.com/gotd/td) to [tgdrive/td](https://github.com/tgdrive/td)
   > Telegram client, in Go. (MTProto API)
@@ -63,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-02-05 09:40:10 UTC*
+*最后更新于 2026-02-05 10:37:07 UTC*
 *历史记录保存在 `archive` 目录中。*
