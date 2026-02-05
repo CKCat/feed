@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)
+  > A cross-platform protocol library to communicate with iOS devices
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [wiz0u/WTelegramClient](https://github.com/wiz0u/WTelegramClient)
   > Telegram Client API (MTProto) library written 100% in C# and .NET
@@ -16,9 +20,17 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [driver1998/FullScreenExperienceShell](https://github.com/driver1998/FullScreenExperienceShell)
   > A Custom Shell for the Windows 11 Full Screen Experience
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
+  > Make any web page a desktop application
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/go](https://github.com/golang/go) to [chenxiaolong/go](https://github.com/chenxiaolong/go)
   > The Go programming language
+
+### [divyam234](https://github.com/divyam234)
+- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [gotd/td](https://github.com/gotd/td) to [tgdrive/td](https://github.com/tgdrive/td)
+  > Telegram client, in Go. (MTProto API)
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [emil-e/rapidcheck](https://github.com/emil-e/rapidcheck)
@@ -30,6 +42,10 @@
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/exfil-series](https://github.com/rand-tech/exfil-series) public
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+  > "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
@@ -43,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-02-05 06:54:56 UTC*
+*最后更新于 2026-02-05 07:48:03 UTC*
 *历史记录保存在 `archive` 目录中。*
