@@ -10,6 +10,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/plist_recon](https://github.com/0xbinder/plist_recon)
   > This tool parses the binary or XML `Info.plist` file found in Apple applications (IPA/APP) to extrac...
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [AndroidPatch/Magisk](https://github.com/AndroidPatch/Magisk) to [Admirepowered/Magisk](https://github.com/Admirepowered/Magisk)
+  > Modified Magisk Utils for APatch
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [wiz0u/WTelegramClient](https://github.com/wiz0u/WTelegramClient)
   > Telegram Client API (MTProto) library written 100% in C# and .NET
@@ -68,8 +72,10 @@
   > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+  > Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with ...
 
 
 ---
-*最后更新于 2026-02-05 10:37:07 UTC*
+*最后更新于 2026-02-05 11:32:53 UTC*
 *历史记录保存在 `archive` 目录中。*
