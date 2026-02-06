@@ -18,6 +18,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
   > A security-focused library OS supporting kernel- and user-mode execution
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies)
+  > 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bengris32/bcbtool](https://github.com/bengris32/bcbtool)
 
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-02-06 17:38:40 UTC*
+*最后更新于 2026-02-06 18:43:35 UTC*
 *历史记录保存在 `archive` 目录中。*
