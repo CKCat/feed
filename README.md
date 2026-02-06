@@ -12,6 +12,10 @@
 - 🍴 👤 [Ahren-Li](https://github.com/Ahren-Li) Forked [google/perfetto](https://github.com/google/perfetto) to [Ahren-Li/perfetto](https://github.com/Ahren-Li/perfetto)
   > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [nowsecure/frida-remote-stream](https://github.com/nowsecure/frida-remote-stream) to [ChiChou/frida-remote-stream](https://github.com/ChiChou/frida-remote-stream)
+  > Create an outbound stream over a message transport.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [KallDrexx/Dotnet6502](https://github.com/KallDrexx/Dotnet6502)
   > Just in time compilation and execution of 6502 applications
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-02-06 18:43:35 UTC*
+*最后更新于 2026-02-06 19:35:36 UTC*
 *历史记录保存在 `archive` 目录中。*
