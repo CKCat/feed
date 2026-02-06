@@ -18,6 +18,10 @@
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
   > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [godotengine/godot](https://github.com/godotengine/godot)
+  > Godot Engine – Multi-platform 2D and 3D game engine
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
   > The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-02-06 06:50:30 UTC*
+*最后更新于 2026-02-06 07:43:12 UTC*
 *历史记录保存在 `archive` 目录中。*
