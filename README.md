@@ -4,17 +4,33 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [DerekSelander/dsdump](https://github.com/DerekSelander/dsdump)
+  > An improved nm + Objective-C & Swift class-dump
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [KallDrexx/Dotnet6502](https://github.com/KallDrexx/Dotnet6502)
   > Just in time compilation and execution of 6502 applications
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
   > A security-focused library OS supporting kernel- and user-mode execution
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
+  > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
   > The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
+### [havenow](https://github.com/havenow)
+- 🌟 👤 [havenow](https://github.com/havenow) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+  > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [semgrep/semgrep](https://github.com/semgrep/semgrep)
+  > Lightweight static analysis for many languages. Find bug variants with patterns that look like sourc...
+
 
 ---
-*最后更新于 2026-02-06 05:50:54 UTC*
+*最后更新于 2026-02-06 06:50:30 UTC*
 *历史记录保存在 `archive` 目录中。*
