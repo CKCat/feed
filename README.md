@@ -42,7 +42,11 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [semgrep/semgrep](https://github.com/semgrep/semgrep)
   > Lightweight static analysis for many languages. Find bug variants with patterns that look like sourc...
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [srmorete/adb-mcp](https://github.com/srmorete/adb-mcp)
+  > An MCP (Model Context Protocol) server for interacting with Android devices through ADB in TypeScrip...
+
 
 ---
-*最后更新于 2026-02-06 12:52:52 UTC*
+*最后更新于 2026-02-06 14:00:02 UTC*
 *历史记录保存在 `archive` 目录中。*
