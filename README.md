@@ -38,6 +38,10 @@
 - 🌟 👤 [havenow](https://github.com/havenow) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
   > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
+### [j-hc](https://github.com/j-hc)
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [j-hc/rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
+  > Injects the mounts at the pre app specialization
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [semgrep/semgrep](https://github.com/semgrep/semgrep)
   > Lightweight static analysis for many languages. Find bug variants with patterns that look like sourc...
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-02-06 14:00:02 UTC*
+*最后更新于 2026-02-06 14:50:22 UTC*
 *历史记录保存在 `archive` 目录中。*
