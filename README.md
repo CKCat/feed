@@ -29,6 +29,10 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bengris32/bcbtool](https://github.com/bengris32/bcbtool)
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [tandasat/Hypervisors-for-Hackers](https://github.com/tandasat/Hypervisors-for-Hackers)
+  > The materials of the "Hypervisors for Hackers: Security from the Hardware Up" class held at Global C...
+
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [Alien177/WINAPI](https://github.com/Alien177/WINAPI)
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [Alien177/WINAPI](https://github.com/Alien177/WINAPI) to [cbwang505/WINAPI](https://github.com/cbwang505/WINAPI)
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-02-06 19:35:36 UTC*
+*最后更新于 2026-02-06 20:29:40 UTC*
 *历史记录保存在 `archive` 目录中。*
