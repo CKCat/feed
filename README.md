@@ -90,7 +90,17 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)
   > Skill Directory for OpenClaw
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [LloydLabs/Windows-API-Hashing](https://github.com/LloydLabs/Windows-API-Hashing)
+  > This is a simple example and explanation of obfuscating API resolution via hashing
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper)
+  > 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+  > Quickly create and run optimised Windows, macOS and Linux virtual machines
+
 
 ---
-*最后更新于 2026-02-07 15:21:02 UTC*
+*最后更新于 2026-02-07 16:26:13 UTC*
 *历史记录保存在 `archive` 目录中。*
