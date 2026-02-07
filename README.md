@@ -25,6 +25,14 @@
   > A powerfull GUI and Toolkit for Codex CLI + Claude Code. FileTree + prompt notepad + git worktree an...
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [niqiuqiux/AndroidInject](https://github.com/niqiuqiux/AndroidInject)
+  > Android arm64 Injector
+- 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [niqiuqiux/AndroidInject](https://github.com/niqiuqiux/AndroidInject) to [SeeFlowerX/AndroidInject](https://github.com/SeeFlowerX/AndroidInject)
+  > Android arm64 Injector
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [niqiuqiux/apatch_kpm_read](https://github.com/niqiuqiux/apatch_kpm_read)
+  > apatch kpm 模块通用内核读写内存 linux kernel read only support ARM64（based apatch）
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [niqiuqiux/AMem](https://github.com/niqiuqiux/AMem)
+  > Android Mem
 
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [blazorblueprintui/ui](https://github.com/blazorblueprintui/ui) to [T5ive/ui](https://github.com/T5ive/ui)
@@ -37,6 +45,14 @@
   > A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager)
   > Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode ...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)
+  > Universal Pasteboard Across Devices
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+  > Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free f...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [carsonsaldanha/screen-recorder](https://github.com/carsonsaldanha/screen-recorder)
+  > A free and private screen recording web app.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [SnapXL/SnapX](https://github.com/SnapXL/SnapX)
+  > SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your s...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [janhq/jan](https://github.com/janhq/jan)
@@ -60,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-02-07 12:40:54 UTC*
+*最后更新于 2026-02-07 13:41:17 UTC*
 *历史记录保存在 `archive` 目录中。*
