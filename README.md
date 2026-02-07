@@ -13,6 +13,12 @@
   > Self-hosted web UI for Claude and Codex. Push notifications, file uploads, no accounts, no database....
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [milisp/codexia](https://github.com/milisp/codexia)
   > A powerfull GUI and Toolkit for Codex CLI + Claude Code. FileTree + prompt notepad + git worktree an...
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [tiann/hapi](https://github.com/tiann/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+
+### [T5ive](https://github.com/T5ive)
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [blazorblueprintui/ui](https://github.com/blazorblueprintui/ui) to [T5ive/ui](https://github.com/T5ive/ui)
+  > A collection of accessible, headless primitives and beautifully-designed components for Blazor inspi...
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
@@ -38,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-02-07 07:29:12 UTC*
+*最后更新于 2026-02-07 08:27:21 UTC*
 *历史记录保存在 `archive` 目录中。*
