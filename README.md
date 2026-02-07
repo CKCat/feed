@@ -81,6 +81,8 @@
   > A blazingly fast JSON serializing & deserializing library
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [go-jet/jet](https://github.com/go-jet/jet)
   > Type safe SQL builder with code generation and automatic query result data mapping
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
+  > A terminal workspace with batteries included
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [juancruzfl/httpserver](https://github.com/juancruzfl/httpserver)
@@ -95,6 +97,7 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [LloydLabs/Windows-API-Hashing](https://github.com/LloydLabs/Windows-API-Hashing)
@@ -108,5 +111,5 @@
 
 
 ---
-*最后更新于 2026-02-07 19:21:04 UTC*
+*最后更新于 2026-02-07 20:22:52 UTC*
 *历史记录保存在 `archive` 目录中。*
