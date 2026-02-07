@@ -8,6 +8,12 @@
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [burrowers/garble](https://github.com/burrowers/garble)
   > Obfuscate Go builds
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/Exynos9830-Firmware-Decryptor](https://github.com/halal-beef/Exynos9830-Firmware-Decryptor)
+  > Decryptor for Exynos9830 firmware portions
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [predefine/qemu-mtk](https://github.com/predefine/qemu-mtk)
+  > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [kzahel/yepanywhere](https://github.com/kzahel/yepanywhere)
   > Self-hosted web UI for Claude and Codex. Push notifications, file uploads, no accounts, no database....
@@ -25,10 +31,14 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
   > A Comprehensive Toolkit for High-Quality PDF Content Extraction
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager)
+  > Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode ...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [janhq/jan](https://github.com/janhq/jan)
   > Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+  > Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [bytedance/sonic](https://github.com/bytedance/sonic)
@@ -46,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-02-07 09:27:48 UTC*
+*最后更新于 2026-02-07 10:22:25 UTC*
 *历史记录保存在 `archive` 目录中。*
