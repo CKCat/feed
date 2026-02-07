@@ -100,6 +100,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/picanha](https://github.com/binsnake/picanha)
+  > [WIP] claude opus x86_64 disassembler/lifter/recompiler
 
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [pinwhell/Science-Scripture](https://github.com/pinwhell/Science-Scripture)
@@ -117,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-02-07 22:21:54 UTC*
+*最后更新于 2026-02-07 23:26:04 UTC*
 *历史记录保存在 `archive` 目录中。*
