@@ -22,6 +22,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [janhq/jan](https://github.com/janhq/jan)
   > Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [bytedance/sonic](https://github.com/bytedance/sonic)
+  > A blazingly fast JSON serializing & deserializing library
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [juancruzfl/httpserver](https://github.com/juancruzfl/httpserver)
   > Http 1.1 Server from stratch. Written fully in go.
@@ -29,8 +33,10 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)
+  > Skill Directory for OpenClaw
 
 
 ---
-*最后更新于 2026-02-07 06:37:39 UTC*
+*最后更新于 2026-02-07 07:29:12 UTC*
 *历史记录保存在 `archive` 目录中。*
