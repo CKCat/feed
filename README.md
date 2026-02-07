@@ -19,6 +19,8 @@
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [blazorblueprintui/ui](https://github.com/blazorblueprintui/ui) to [T5ive/ui](https://github.com/T5ive/ui)
   > A collection of accessible, headless primitives and beautifully-designed components for Blazor inspi...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [LumexUI/lumexui](https://github.com/LumexUI/lumexui)
+  > 🚀 A versatile Blazor UI library built using Tailwind CSS.
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
@@ -44,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-02-07 08:27:21 UTC*
+*最后更新于 2026-02-07 09:27:48 UTC*
 *历史记录保存在 `archive` 目录中。*
