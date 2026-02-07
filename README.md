@@ -33,12 +33,18 @@
   > apatch kpm 模块通用内核读写内存 linux kernel read only support ARM64（based apatch）
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [niqiuqiux/AMem](https://github.com/niqiuqiux/AMem)
   > Android Mem
+- 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [kzahel/yepanywhere](https://github.com/kzahel/yepanywhere) to [SeeFlowerX/yepanywhere](https://github.com/SeeFlowerX/yepanywhere)
+  > Self-hosted web UI for Claude and Codex. Push notifications, file uploads, no accounts, no database....
 
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [blazorblueprintui/ui](https://github.com/blazorblueprintui/ui) to [T5ive/ui](https://github.com/T5ive/ui)
   > A collection of accessible, headless primitives and beautifully-designed components for Blazor inspi...
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [LumexUI/lumexui](https://github.com/LumexUI/lumexui)
   > 🚀 A versatile Blazor UI library built using Tailwind CSS.
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [niqiuqiux/apatch_kpm_read](https://github.com/niqiuqiux/apatch_kpm_read)
+  > apatch kpm 模块通用内核读写内存 linux kernel read only support ARM64（based apatch）
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
@@ -53,6 +59,8 @@
   > A free and private screen recording web app.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [SnapXL/SnapX](https://github.com/SnapXL/SnapX)
   > SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your s...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+  > 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or vide...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [janhq/jan](https://github.com/janhq/jan)
@@ -76,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-02-07 13:41:17 UTC*
+*最后更新于 2026-02-07 14:23:08 UTC*
 *历史记录保存在 `archive` 目录中。*
