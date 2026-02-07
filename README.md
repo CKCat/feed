@@ -61,6 +61,14 @@
   > SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your s...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
   > 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or vide...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder)
+  > Simple Screen Recorder written in Rust based on Green Recorder
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [diegopvlk/Cine](https://github.com/diegopvlk/Cine)
+  > Video Player for Linux
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jorio/gitfourchette](https://github.com/jorio/gitfourchette)
+  > The comfortable Git UI for Linux
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [alexpasmantier/television](https://github.com/alexpasmantier/television) to [bet4it/television](https://github.com/bet4it/television)
+  > A very fast, portable and hackable fuzzy finder for the terminal.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [janhq/jan](https://github.com/janhq/jan)
@@ -84,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-02-07 14:23:08 UTC*
+*最后更新于 2026-02-07 15:21:02 UTC*
 *历史记录保存在 `archive` 目录中。*
