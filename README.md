@@ -79,6 +79,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [bytedance/sonic](https://github.com/bytedance/sonic)
   > A blazingly fast JSON serializing & deserializing library
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [go-jet/jet](https://github.com/go-jet/jet)
+  > Type safe SQL builder with code generation and automatic query result data mapping
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [juancruzfl/httpserver](https://github.com/juancruzfl/httpserver)
@@ -102,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-02-07 17:22:57 UTC*
+*最后更新于 2026-02-07 18:30:31 UTC*
 *历史记录保存在 `archive` 目录中。*
