@@ -92,6 +92,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)
   > Skill Directory for OpenClaw
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pydantic/monty](https://github.com/pydantic/monty)
+  > A minimal, secure Python interpreter written in Rust for use by AI
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [LloydLabs/Windows-API-Hashing](https://github.com/LloydLabs/Windows-API-Hashing)
   > This is a simple example and explanation of obfuscating API resolution via hashing
@@ -104,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-02-07 18:30:31 UTC*
+*最后更新于 2026-02-07 19:21:04 UTC*
 *历史记录保存在 `archive` 目录中。*
