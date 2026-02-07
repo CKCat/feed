@@ -17,6 +17,8 @@
   > Decryptor for Exynos9830 firmware portions
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [predefine/qemu-mtk](https://github.com/predefine/qemu-mtk)
   > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [zx297520v3-mainline/openloader](https://github.com/zx297520v3-mainline/openloader)
+  > Reimplementation of the blob running on the Cortex M0 (stage 1)
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [kzahel/yepanywhere](https://github.com/kzahel/yepanywhere)
@@ -99,6 +101,10 @@
   > A minimal, secure Python interpreter written in Rust for use by AI
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
 
+### [pinwhell](https://github.com/pinwhell)
+- 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [pinwhell/Science-Scripture](https://github.com/pinwhell/Science-Scripture)
+  > Quantum Openness Might Meet the Word (details created with LLM. LLM might lie. Beware)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [LloydLabs/Windows-API-Hashing](https://github.com/LloydLabs/Windows-API-Hashing)
   > This is a simple example and explanation of obfuscating API resolution via hashing
@@ -111,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-02-07 21:22:33 UTC*
+*最后更新于 2026-02-07 22:21:54 UTC*
 *历史记录保存在 `archive` 目录中。*
