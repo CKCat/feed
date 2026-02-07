@@ -14,11 +14,19 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
   > A Comprehensive Toolkit for High-Quality PDF Content Extraction
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [janhq/jan](https://github.com/janhq/jan)
+  > Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [juancruzfl/httpserver](https://github.com/juancruzfl/httpserver)
   > Http 1.1 Server from stratch. Written fully in go.
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 
 ---
-*最后更新于 2026-02-07 04:05:49 UTC*
+*最后更新于 2026-02-07 05:38:55 UTC*
 *历史记录保存在 `archive` 目录中。*
