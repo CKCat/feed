@@ -17,10 +17,16 @@
   > Come and join us, we need you!
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena)
   > Useless LSPosed Framework Fork
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) to [Mufanc/LSPosed-Irena](https://github.com/Mufanc/LSPosed-Irena)
+  > Useless LSPosed Framework Fork
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [nadoo/glider](https://github.com/nadoo/glider)
   > glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset man...
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+  > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
@@ -39,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-02-08 06:44:05 UTC*
+*最后更新于 2026-02-08 07:36:24 UTC*
 *历史记录保存在 `archive` 目录中。*
