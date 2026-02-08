@@ -65,6 +65,8 @@
   > Yet Another Sig Scanner
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GH-Rake/PatternScan](https://github.com/GH-Rake/PatternScan)
   > PatternScan library for internal and external pattern scan
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nickcano/XenoScan](https://github.com/nickcano/XenoScan)
+  > Open source memory scanner written in C++
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
@@ -87,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-02-08 21:23:11 UTC*
+*最后更新于 2026-02-08 22:22:48 UTC*
 *历史记录保存在 `archive` 目录中。*
