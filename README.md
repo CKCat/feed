@@ -4,13 +4,31 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DrKylstein/retro-proxy](https://github.com/DrKylstein/retro-proxy)
+  > A https to http proxy that allow old browsers to access modern sites, with conversion and compressio...
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [zint/zint](https://github.com/zint/zint)
   > A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneC...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)
+  > Come and join us, we need you!
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena)
+  > Useless LSPosed Framework Fork
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [nadoo/glider](https://github.com/nadoo/glider)
   > glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset man...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+  > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
+  > Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-...
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) to [yuchuangu85/LawnchairMx](https://github.com/yuchuangu85/LawnchairMx)
@@ -21,5 +39,5 @@
 
 
 ---
-*最后更新于 2026-02-08 05:00:13 UTC*
+*最后更新于 2026-02-08 06:44:05 UTC*
 *历史记录保存在 `archive` 目录中。*
