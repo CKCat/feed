@@ -37,10 +37,16 @@
   > An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experienc...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [aannoo/hcom](https://github.com/aannoo/hcom)
   > Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [superset-sh/superset](https://github.com/superset-sh/superset) to [bet4it/superset](https://github.com/bet4it/superset)
+  > The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agen...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mcuadros/ofelia](https://github.com/mcuadros/ofelia)
+  > A docker job scheduler (aka. crontab for docker)
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Impalabs/applevisor](https://github.com/Impalabs/applevisor)
@@ -63,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-02-08 12:42:03 UTC*
+*最后更新于 2026-02-08 13:41:48 UTC*
 *历史记录保存在 `archive` 目录中。*
