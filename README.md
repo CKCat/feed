@@ -7,6 +7,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DrKylstein/retro-proxy](https://github.com/DrKylstein/retro-proxy)
   > A https to http proxy that allow old browsers to access modern sites, with conversion and compressio...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
+  > ASCII generator (image to text, image to image, video to video)
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [zint/zint](https://github.com/zint/zint)
@@ -32,6 +34,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
 
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
   > Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-...
@@ -45,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-02-08 07:36:24 UTC*
+*最后更新于 2026-02-08 08:28:49 UTC*
 *历史记录保存在 `archive` 目录中。*
