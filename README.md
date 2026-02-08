@@ -43,6 +43,10 @@
   > Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [superset-sh/superset](https://github.com/superset-sh/superset) to [bet4it/superset](https://github.com/bet4it/superset)
   > The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agen...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [safedep/gryph](https://github.com/safedep/gryph)
+  > The AI coding agent audit trail tool
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)
+  > Gorgeous Claude Code Extend for VS Code.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-02-08 15:22:38 UTC*
+*最后更新于 2026-02-08 16:26:39 UTC*
 *历史记录保存在 `archive` 目录中。*
