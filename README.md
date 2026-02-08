@@ -60,6 +60,12 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Impalabs/applevisor](https://github.com/Impalabs/applevisor)
   > Rust bindings fo the Apple Silicon Hypervisor.framework
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [notscimmy/YASS](https://github.com/notscimmy/YASS)
+  > Yet Another Sig Scanner
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GH-Rake/PatternScan](https://github.com/GH-Rake/PatternScan)
+  > PatternScan library for internal and external pattern scan
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
   > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-02-08 20:23:01 UTC*
+*最后更新于 2026-02-08 21:23:11 UTC*
 *历史记录保存在 `archive` 目录中。*
