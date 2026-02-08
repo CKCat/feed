@@ -26,15 +26,25 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [nadoo/glider](https://github.com/nadoo/glider)
   > glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset man...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+  > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
   > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent)
   > An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experienc...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [aannoo/hcom](https://github.com/aannoo/hcom)
+  > Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Impalabs/applevisor](https://github.com/Impalabs/applevisor)
+  > Rust bindings fo the Apple Silicon Hypervisor.framework
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
@@ -53,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-02-08 09:26:55 UTC*
+*最后更新于 2026-02-08 10:22:46 UTC*
 *历史记录保存在 `archive` 目录中。*
