@@ -56,6 +56,10 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
   > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [pulumi/pulumi](https://github.com/pulumi/pulumi)
+  > Pulumi - Infrastructure as Code in any programming language 🚀
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
   > Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-...
@@ -69,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-02-08 13:41:48 UTC*
+*最后更新于 2026-02-08 14:24:34 UTC*
 *历史记录保存在 `archive` 目录中。*
