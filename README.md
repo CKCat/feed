@@ -29,6 +29,8 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
   > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent)
+  > An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experienc...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
@@ -51,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-02-08 08:28:49 UTC*
+*最后更新于 2026-02-08 09:26:55 UTC*
 *历史记录保存在 `archive` 目录中。*
