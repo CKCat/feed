@@ -78,8 +78,6 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
   > BitFun is an Agentic Development Environment (ADE) featuring a cutting-edge Code Agent system with f...
-- 🍴 👤 [phodal](https://github.com/phodal) Forked [GCWing/BitFun](https://github.com/GCWing/BitFun) to [phodal/BitFun](https://github.com/phodal/BitFun)
-  > BitFun is an Agentic Development Environment (ADE) featuring a cutting-edge Code Agent system with f...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [CursorTouch/Android-MCP](https://github.com/CursorTouch/Android-MCP)
@@ -93,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-02-09 14:48:42 UTC*
+*最后更新于 2026-02-09 15:52:29 UTC*
 *历史记录保存在 `archive` 目录中。*
