@@ -20,6 +20,12 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LunFengChen/SoFixer](https://github.com/LunFengChen/SoFixer)
   > 把 看雪大佬修复符号bug后的SoFixer 编译release，多平台
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [1193776794/launch](https://github.com/1193776794/launch)
+  > 检测工具
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [1193776794/launch](https://github.com/1193776794/launch) to [KuNgia09/launch](https://github.com/KuNgia09/launch)
+  > 检测工具
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [davisking/dlib](https://github.com/davisking/dlib)
   > A toolkit for making real world machine learning and data analysis applications in C++
@@ -40,6 +46,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Veynamer/bsp_bootloader_u-boot15_sharkl5pro](https://github.com/Veynamer/bsp_bootloader_u-boot15_sharkl5pro)
   > U-Boot15 for sharkl5pro board android 12 base
 
+### [arizvisa](https://github.com/arizvisa)
+- 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
+  > Windows System Call Tables (NT/2000/XP/2003/Vista/7/8/10/11)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [serdes21/flashtile](https://github.com/serdes21/flashtile)
   > FlashTile is a CUDA Tile IR compiler that is compatible with NVIDIA's tileiras, targeting SM70 throu...
@@ -53,6 +63,10 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google/sanitizers](https://github.com/google/sanitizers)
   > AddressSanitizer, ThreadSanitizer, MemorySanitizer
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [fuqiuluo/WuwaInjector](https://github.com/fuqiuluo/WuwaInjector)
+  > Android process injector
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TeoSlayer/pilotprotocol](https://github.com/TeoSlayer/pilotprotocol)
@@ -105,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-02-09 20:01:19 UTC*
+*最后更新于 2026-02-09 21:36:24 UTC*
 *历史记录保存在 `archive` 目录中。*
