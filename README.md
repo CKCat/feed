@@ -8,6 +8,18 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
   > A non-root Xposed framework extending from LSPosed
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker)
+  > A Bitwarden-compatible server for Cloudflare Workers
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [surge-downloader/surge](https://github.com/surge-downloader/surge)
+  > Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.
+
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+  > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
+  > Local persistent memory store for LLM applications including claude desktop, github copilot, codex, ...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TeoSlayer/pilotprotocol](https://github.com/TeoSlayer/pilotprotocol)
   > Pilot Protocol: The Internet of Agents
@@ -35,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-02-09 04:29:16 UTC*
+*最后更新于 2026-02-09 06:05:00 UTC*
 *历史记录保存在 `archive` 目录中。*
