@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Billy-Ellis/Exploit-Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)
   > A collection of vulnerable ARM binaries for practicing exploit development
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [xchwarze/Cain](https://github.com/xchwarze/Cain)
+  > Password recovery tool for Microsoft Operating Systems. It allows easy recovery of various kind of p...
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [frida/frida-gum](https://github.com/frida/frida-gum) to [ChiChou/frida-gum](https://github.com/ChiChou/frida-gum)
   > Cross-platform instrumentation and introspection library written in C
@@ -68,6 +72,8 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) to [mrexodia/pattern-bench](https://github.com/mrexodia/pattern-bench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lilify-jp/Squre](https://github.com/lilify-jp/Squre)
   > 🛡️ Open-source binary protection toolkit for Windows PE. Nanomite, VM protection, anti-debug, and mo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mathlibrary/usimd](https://github.com/mathlibrary/usimd)
+  > Cross platform portable accelerate math library using universal intrinsics.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
@@ -87,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-02-09 13:01:58 UTC*
+*最后更新于 2026-02-09 14:48:42 UTC*
 *历史记录保存在 `archive` 目录中。*
