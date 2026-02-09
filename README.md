@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Billy-Ellis/Exploit-Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)
+  > A collection of vulnerable ARM binaries for practicing exploit development
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LunFengChen/SoFixer](https://github.com/LunFengChen/SoFixer)
   > 把 看雪大佬修复符号bug后的SoFixer 编译release，多平台
@@ -35,6 +39,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [wjakob/tbb](https://github.com/wjakob/tbb)
   > Intel TBB with CMake build system
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lilify-jp/Squre](https://github.com/lilify-jp/Squre)
+  > 🛡️ Open-source binary protection toolkit for Windows PE. Nanomite, VM protection, anti-debug, and mo...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Peribunt/FindPattern](https://github.com/Peribunt/FindPattern)
@@ -46,6 +52,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
   > A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connect...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) to [mrexodia/pattern-bench](https://github.com/mrexodia/pattern-bench)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lilify-jp/Squre](https://github.com/lilify-jp/Squre)
+  > 🛡️ Open-source binary protection toolkit for Windows PE. Nanomite, VM protection, anti-debug, and mo...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
@@ -61,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-02-09 09:59:47 UTC*
+*最后更新于 2026-02-09 11:03:29 UTC*
 *历史记录保存在 `archive` 目录中。*
