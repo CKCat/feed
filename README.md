@@ -74,6 +74,8 @@
   > 🛡️ Open-source binary protection toolkit for Windows PE. Nanomite, VM protection, anti-debug, and mo...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mathlibrary/usimd](https://github.com/mathlibrary/usimd)
   > Cross platform portable accelerate math library using universal intrinsics.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [simd-everywhere/simde](https://github.com/simd-everywhere/simde) to [mrexodia/simde](https://github.com/mrexodia/simde)
+  > Implementations of SIMD instruction sets for systems which don't natively support them.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
@@ -91,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-02-09 15:52:29 UTC*
+*最后更新于 2026-02-09 17:49:06 UTC*
 *历史记录保存在 `archive` 目录中。*
