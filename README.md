@@ -34,6 +34,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
   > A non-root Xposed framework extending from LSPosed
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+  > Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI A...
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker)
   > A Bitwarden-compatible server for Cloudflare Workers
@@ -45,6 +49,10 @@
   > Frida CLI tools
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Veynamer/bsp_bootloader_u-boot15_sharkl5pro](https://github.com/Veynamer/bsp_bootloader_u-boot15_sharkl5pro)
   > U-Boot15 for sharkl5pro board android 12 base
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [binsnake/picanha](https://github.com/binsnake/picanha)
+  > [WIP] claude opus x86_64 disassembler/lifter/recompiler
 
 ### [arizvisa](https://github.com/arizvisa)
 - 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
@@ -119,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-02-09 21:36:24 UTC*
+*最后更新于 2026-02-09 22:32:39 UTC*
 *历史记录保存在 `archive` 目录中。*
