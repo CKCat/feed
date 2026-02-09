@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [davisking/dlib](https://github.com/davisking/dlib)
+  > A toolkit for making real world machine learning and data analysis applications in C++
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
   > A non-root Xposed framework extending from LSPosed
@@ -23,6 +27,10 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TeoSlayer/pilotprotocol](https://github.com/TeoSlayer/pilotprotocol)
   > Pilot Protocol: The Internet of Agents
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [wjakob/tbb](https://github.com/wjakob/tbb)
+  > Intel TBB with CMake build system
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Peribunt/FindPattern](https://github.com/Peribunt/FindPattern)
@@ -44,8 +52,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [CursorTouch/Android-MCP](https://github.com/CursorTouch/Android-MCP)
   > Lightweight MCP Server for interacting with Android Operating System.
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [knownsec/aipyapp](https://github.com/knownsec/aipyapp)
+  > AI-Powered Python & Python-Powered AI (Python-Use)
 
 
 ---
-*最后更新于 2026-02-09 06:05:00 UTC*
+*最后更新于 2026-02-09 07:54:47 UTC*
 *历史记录保存在 `archive` 目录中。*
