@@ -1,97 +1,28 @@
-# 每日 GitHub 动态 (2026-02-08)
+# 每日 GitHub 动态 (2026-02-09)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [19h](https://github.com/19h)
-- 🍴 👤 [19h](https://github.com/19h) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [19h/sogen](https://github.com/19h/sogen)
-  > 🪅 Windows User Space Emulator 
-
-### [Colton1skees](https://github.com/Colton1skees)
-- 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [arminbiere/cadical](https://github.com/arminbiere/cadical) to [Colton1skees/cadical](https://github.com/Colton1skees/cadical)
-  > CaDiCaL SAT Solver
-
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DrKylstein/retro-proxy](https://github.com/DrKylstein/retro-proxy)
-  > A https to http proxy that allow old browsers to access modern sites, with conversion and compressio...
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
-  > ASCII generator (image to text, image to image, video to video)
-
-### [Mq-b](https://github.com/Mq-b)
-- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [zint/zint](https://github.com/zint/zint)
-  > A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneC...
-
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)
-  > Come and join us, we need you!
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena)
-  > Useless LSPosed Framework Fork
-- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) to [Mufanc/LSPosed-Irena](https://github.com/Mufanc/LSPosed-Irena)
-  > Useless LSPosed Framework Fork
-
-### [SeeFlowerX](https://github.com/SeeFlowerX)
-- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [nadoo/glider](https://github.com/nadoo/glider)
-  > glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset man...
-
-### [T5ive](https://github.com/T5ive)
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-  > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
-
-### [bet4it](https://github.com/bet4it)
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-  > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent)
-  > An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experienc...
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [aannoo/hcom](https://github.com/aannoo/hcom)
-  > Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)
-- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [superset-sh/superset](https://github.com/superset-sh/superset) to [bet4it/superset](https://github.com/bet4it/superset)
-  > The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agen...
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [safedep/gryph](https://github.com/safedep/gryph)
-  > The AI coding agent audit trail tool
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix)
-  > Gorgeous Claude Code Extend for VS Code.
-
-### [crazyguitar](https://github.com/crazyguitar)
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-  > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mcuadros/ofelia](https://github.com/mcuadros/ofelia)
-  > A docker job scheduler (aka. crontab for docker)
-
-### [jonpalmisc](https://github.com/jonpalmisc)
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Impalabs/applevisor](https://github.com/Impalabs/applevisor)
-  > Rust bindings fo the Apple Silicon Hypervisor.framework
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [TeoSlayer/pilotprotocol](https://github.com/TeoSlayer/pilotprotocol)
+  > Pilot Protocol: The Internet of Agents
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [notscimmy/YASS](https://github.com/notscimmy/YASS)
-  > Yet Another Sig Scanner
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GH-Rake/PatternScan](https://github.com/GH-Rake/PatternScan)
-  > PatternScan library for internal and external pattern scan
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nickcano/XenoScan](https://github.com/nickcano/XenoScan)
-  > Open source memory scanner written in C++
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Peribunt/FindPattern](https://github.com/Peribunt/FindPattern)
+  > The fastest SSE FindPattern function yet
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dasaav-dsv/Pattern16](https://github.com/Dasaav-dsv/Pattern16)
+  > The fastest x86-64 signature matching library.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [0x1F9F1/mem](https://github.com/0x1F9F1/mem) to [mrexodia/mem](https://github.com/mrexodia/mem)
+  > A collection of C++11 headers useful for reverse engineering
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
+  > A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connect...
 
-### [mustime](https://github.com/mustime)
-- 🌟 👤 [mustime](https://github.com/mustime) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
-
-### [rand-tech](https://github.com/rand-tech)
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [pulumi/pulumi](https://github.com/pulumi/pulumi)
-  > Pulumi - Infrastructure as Code in any programming language 🚀
-
-### [veritas501](https://github.com/veritas501)
-- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
-  > Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-...
-
-### [yuchuangu85](https://github.com/yuchuangu85)
-- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) to [yuchuangu85/LawnchairMx](https://github.com/yuchuangu85/LawnchairMx)
-  > No clever tagline needed.
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [adam-p/markdown-here](https://github.com/adam-p/markdown-here)
-  > Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render i...
-- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [LawnchairLauncher/platform_frameworks_libs_systemui](https://github.com/LawnchairLauncher/platform_frameworks_libs_systemui) to [yuchuangu85/platform_frameworks_libs_systemui](https://github.com/yuchuangu85/platform_frameworks_libs_systemui)
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
+  > BitFun is an Agentic Development Environment (ADE) featuring a cutting-edge Code Agent system with f...
 
 
 ---
-*最后更新于 2026-02-08 23:27:44 UTC*
+*最后更新于 2026-02-09 01:57:43 UTC*
 *历史记录保存在 `archive` 目录中。*
