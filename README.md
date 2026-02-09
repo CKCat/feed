@@ -26,6 +26,10 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [1193776794/launch](https://github.com/1193776794/launch) to [KuNgia09/launch](https://github.com/KuNgia09/launch)
   > 检测工具
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [wesmar/CmdT](https://github.com/wesmar/CmdT)
+  > The world's smallest TrustedInstaller launcher — 20KB of pure x64/x86 assembly. Hybrid CLI/GUI in on...
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [davisking/dlib](https://github.com/davisking/dlib)
   > A toolkit for making real world machine learning and data analysis applications in C++
@@ -106,6 +110,7 @@
   > Cross platform portable accelerate math library using universal intrinsics.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [simd-everywhere/simde](https://github.com/simd-everywhere/simde) to [mrexodia/simde](https://github.com/mrexodia/simde)
   > Implementations of SIMD instruction sets for systems which don't natively support them.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IChooseYou/ReclassX](https://github.com/IChooseYou/ReclassX)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
@@ -127,5 +132,5 @@
 
 
 ---
-*最后更新于 2026-02-09 22:32:39 UTC*
+*最后更新于 2026-02-09 23:34:03 UTC*
 *历史记录保存在 `archive` 目录中。*
