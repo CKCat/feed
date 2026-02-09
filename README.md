@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LunFengChen/SoFixer](https://github.com/LunFengChen/SoFixer)
+  > 把 看雪大佬修复符号bug后的SoFixer 编译release，多平台
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [davisking/dlib](https://github.com/davisking/dlib)
   > A toolkit for making real world machine learning and data analysis applications in C++
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-02-09 08:46:13 UTC*
+*最后更新于 2026-02-09 09:59:47 UTC*
 *历史记录保存在 `archive` 目录中。*
