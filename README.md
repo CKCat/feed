@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Billy-Ellis/Exploit-Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)
   > A collection of vulnerable ARM binaries for practicing exploit development
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [frida/frida-gum](https://github.com/frida/frida-gum) to [ChiChou/frida-gum](https://github.com/ChiChou/frida-gum)
+  > Cross-platform instrumentation and introspection library written in C
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LunFengChen/SoFixer](https://github.com/LunFengChen/SoFixer)
   > 把 看雪大佬修复符号bug后的SoFixer 编译release，多平台
@@ -26,11 +30,21 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [surge-downloader/surge](https://github.com/surge-downloader/surge)
   > Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [frida/frida-tools](https://github.com/frida/frida-tools)
+  > Frida CLI tools
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Veynamer/bsp_bootloader_u-boot15_sharkl5pro](https://github.com/Veynamer/bsp_bootloader_u-boot15_sharkl5pro)
+  > U-Boot15 for sharkl5pro board android 12 base
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
   > Local persistent memory store for LLM applications including claude desktop, github copilot, codex, ...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google/sanitizers](https://github.com/google/sanitizers)
+  > AddressSanitizer, ThreadSanitizer, MemorySanitizer
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TeoSlayer/pilotprotocol](https://github.com/TeoSlayer/pilotprotocol)
@@ -67,7 +81,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [knownsec/aipyapp](https://github.com/knownsec/aipyapp)
   > AI-Powered Python & Python-Powered AI (Python-Use)
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+  > MCP Server for Ghidra
+
 
 ---
-*最后更新于 2026-02-09 11:03:29 UTC*
+*最后更新于 2026-02-09 13:01:58 UTC*
 *历史记录保存在 `archive` 目录中。*
