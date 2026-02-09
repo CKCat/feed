@@ -40,6 +40,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Veynamer/bsp_bootloader_u-boot15_sharkl5pro](https://github.com/Veynamer/bsp_bootloader_u-boot15_sharkl5pro)
   > U-Boot15 for sharkl5pro board android 12 base
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [serdes21/flashtile](https://github.com/serdes21/flashtile)
+  > FlashTile is a CUDA Tile IR compiler that is compatible with NVIDIA's tileiras, targeting SM70 throu...
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
@@ -53,6 +57,10 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TeoSlayer/pilotprotocol](https://github.com/TeoSlayer/pilotprotocol)
   > Pilot Protocol: The Internet of Agents
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [yrp604/bad64](https://github.com/yrp604/bad64)
+  > Binja Arm64 Disassembler
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [wjakob/tbb](https://github.com/wjakob/tbb)
@@ -81,6 +89,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
   > BitFun is an Agentic Development Environment (ADE) featuring a cutting-edge Code Agent system with f...
 
+### [stong](https://github.com/stong)
+- 🌟 👤 [stong](https://github.com/stong) Starred [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)
+  > A free and open source instant messaging and VoIP platform built for friends, groups, and communitie...
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [CursorTouch/Android-MCP](https://github.com/CursorTouch/Android-MCP)
   > Lightweight MCP Server for interacting with Android Operating System.
@@ -93,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-02-09 17:49:06 UTC*
+*最后更新于 2026-02-09 20:01:19 UTC*
 *历史记录保存在 `archive` 目录中。*
