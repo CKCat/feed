@@ -27,6 +27,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
   > Fast and memory-efficient exact attention
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tw93/Kaku](https://github.com/tw93/Kaku)
+  > ☄️ A fast, out-of-the-box terminal built for AI coding.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [tiann/hapi](https://github.com/tiann/hapi) to [SeeFlowerX/hapi](https://github.com/SeeFlowerX/hapi)
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
@@ -56,6 +60,10 @@
   > Toolbox for everyone
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)
   > PDF craft can convert PDF files into various other formats. This project will focus on processing PD...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [EvolvingLMMs-Lab/lmms-lab-writer](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer)
+  > Agentic LaTeX Writer - Local-first editor for AI-assisted academic writing
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish)
+  > Accomplish™ (formerly Openwork) is the open source Al coworker that lives on your desktop
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [githubvpn007/ClashX](https://github.com/githubvpn007/ClashX)
@@ -69,6 +77,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
   > A cross-platform C++ framework for building Windows shellcode
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [go-kvolt/kvolt](https://github.com/go-kvolt/kvolt)
+  > A high-performance, developer-friendly Go web framework. Built for speed with zero-allocation routin...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
   > Teams-first Multi-agent orchestration for Claude Code
@@ -79,6 +91,8 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
+  > A cross-platform C++ framework for building Windows shellcode
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) to [phodal/agent-client-protocol](https://github.com/phodal/agent-client-protocol)
@@ -100,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-02-10 13:06:22 UTC*
+*最后更新于 2026-02-10 14:55:14 UTC*
 *历史记录保存在 `archive` 目录中。*
