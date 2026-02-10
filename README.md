@@ -11,6 +11,8 @@
   > This repo contains benchmarks used for testing the performance of all .NET Runtimes
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [aspnet/Benchmarks](https://github.com/aspnet/Benchmarks)
   > Benchmarks for ASP.NET Core
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [memovai/mimiclaw](https://github.com/memovai/mimiclaw)
+  > MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS....
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [waylandzhang/Transformer-from-scratch](https://github.com/waylandzhang/Transformer-from-scratch)
@@ -60,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-02-10 05:00:52 UTC*
+*最后更新于 2026-02-10 07:00:01 UTC*
 *历史记录保存在 `archive` 目录中。*
