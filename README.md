@@ -65,6 +65,14 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish)
   > Accomplish™ (formerly Openwork) is the open source Al coworker that lives on your desktop
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+  > Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [virattt/dexter](https://github.com/virattt/dexter)
+  > An autonomous agent for deep financial research
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [virattt/dexter](https://github.com/virattt/dexter) to [crazyguitar/dexter](https://github.com/crazyguitar/dexter)
+  > An autonomous agent for deep financial research
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [githubvpn007/ClashX](https://github.com/githubvpn007/ClashX)
   > ClashX，ClashX教程，ClashX配置教程，ClashX for mac
@@ -114,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-02-10 17:58:27 UTC*
+*最后更新于 2026-02-10 19:12:53 UTC*
 *历史记录保存在 `archive` 目录中。*
