@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
+  > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 14 vulnerability techn...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
   > Powerful .NET library for benchmarking
@@ -61,12 +65,20 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [Draculabo/AntigravityManager](https://github.com/Draculabo/AntigravityManager)
   > Antigravity Manager is a powerful Electron-based application designed to manage accounts and process...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
+  > A cross-platform C++ framework for building Windows shellcode
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
   > Teams-first Multi-agent orchestration for Claude Code
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture)
+  > The macOS screen recorder for the rest of us - always free and open source with a native look and fe...
+
 ### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/ReclassX](https://github.com/IChooseYou/ReclassX) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) to [phodal/agent-client-protocol](https://github.com/phodal/agent-client-protocol)
@@ -88,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-02-10 11:50:53 UTC*
+*最后更新于 2026-02-10 13:06:22 UTC*
 *历史记录保存在 `archive` 目录中。*
