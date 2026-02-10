@@ -39,6 +39,10 @@
 - 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [tiann/hapi](https://github.com/tiann/hapi) to [SeeFlowerX/hapi](https://github.com/SeeFlowerX/hapi)
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
+  > A cross-platform C++ framework for building Windows shellcode
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [forketyfork/architect](https://github.com/forketyfork/architect)
   > A flexible terminal grid for multi-agent AI workflows
@@ -118,6 +122,10 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [m4xxxxx/AIxVuln](https://github.com/m4xxxxx/AIxVuln)
   > 一个基于LLM的多Agent全流程漏洞挖掘项目，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出。支持多Agent并发高效率完成漏洞挖掘任务...
 
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [wdoekes/asterisk-chan-dongle](https://github.com/wdoekes/asterisk-chan-dongle)
+  > chan_dongle channel driver for Huawei UMTS cards, works with Asterisk 14+
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-io/xmake-overlay](https://github.com/xmake-io/xmake-overlay)
   > A Gentoo ebuild repository (overlay) for Xmake
@@ -130,5 +138,5 @@
 
 
 ---
-*最后更新于 2026-02-10 20:40:49 UTC*
+*最后更新于 2026-02-10 21:38:46 UTC*
 *历史记录保存在 `archive` 目录中。*
