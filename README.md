@@ -23,6 +23,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
   > Fast and memory-efficient exact attention
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [tiann/hapi](https://github.com/tiann/hapi) to [SeeFlowerX/hapi](https://github.com/SeeFlowerX/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [forketyfork/architect](https://github.com/forketyfork/architect)
   > A flexible terminal grid for multi-agent AI workflows
@@ -38,6 +42,16 @@
   > Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyo...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp)
   > A modern, full-featured, high-performance, cross-platform image compression application  具有现代化UI、功能齐...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+  > The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [j178/prek](https://github.com/j178/prek)
+  > ⚡ Better `pre-commit`, re-engineered in Rust
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tobi/try](https://github.com/tobi/try)
+  > fresh directories for every vibe
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [liriliri/tinker](https://github.com/liriliri/tinker)
+  > Toolbox for everyone
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)
+  > PDF craft can convert PDF files into various other formats. This project will focus on processing PD...
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [githubvpn007/ClashX](https://github.com/githubvpn007/ClashX)
@@ -74,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-02-10 08:02:20 UTC*
+*最后更新于 2026-02-10 09:57:55 UTC*
 *历史记录保存在 `archive` 目录中。*
