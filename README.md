@@ -113,6 +113,8 @@
   > Create executable documents that demonstrate an agent's work
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/rodney](https://github.com/simonw/rodney)
   > CLI tool for interacting with the web
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aloshdenny/reverse-SynthID-text](https://github.com/aloshdenny/reverse-SynthID-text)
+  > reverse engineering SynthID for text
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) to [phodal/agent-client-protocol](https://github.com/phodal/agent-client-protocol)
@@ -138,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-02-10 21:38:46 UTC*
+*最后更新于 2026-02-10 22:36:32 UTC*
 *历史记录保存在 `archive` 目录中。*
