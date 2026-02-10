@@ -13,6 +13,10 @@
   > Benchmarks for ASP.NET Core
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [memovai/mimiclaw](https://github.com/memovai/mimiclaw)
   > MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS....
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer)
+  > Recolorize Win32 controls in-memory with accent color without patching theme
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Libre-WD-40/git](https://github.com/Libre-WD-40/git)
+  > Git with WD-40 applied
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [waylandzhang/Transformer-from-scratch](https://github.com/waylandzhang/Transformer-from-scratch)
@@ -54,13 +58,21 @@
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) to [phodal/agent-client-protocol](https://github.com/phodal/agent-client-protocol)
   >  A protocol for connecting any editor to any agent
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [m4xxxxx/AIxVuln](https://github.com/m4xxxxx/AIxVuln)
+  > 一个基于LLM的多Agent全流程漏洞挖掘项目，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出。支持多Agent并发高效率完成漏洞挖掘任务...
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-io/xmake-overlay](https://github.com/xmake-io/xmake-overlay)
   > A Gentoo ebuild repository (overlay) for Xmake
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-io/xmake-zed](https://github.com/xmake-io/xmake-zed)
   > A XMake integration in Zed Editor
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
+
 
 ---
-*最后更新于 2026-02-10 07:00:01 UTC*
+*最后更新于 2026-02-10 08:02:20 UTC*
 *历史记录保存在 `archive` 目录中。*
