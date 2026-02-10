@@ -115,6 +115,8 @@
   > CLI tool for interacting with the web
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aloshdenny/reverse-SynthID-text](https://github.com/aloshdenny/reverse-SynthID-text)
   > reverse engineering SynthID for text
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/idalib-dump](https://github.com/19h/idalib-dump)
+  > Terminal-based IDA disassembly, microcode and pseudocode dumper
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) to [phodal/agent-client-protocol](https://github.com/phodal/agent-client-protocol)
@@ -140,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-02-10 22:36:32 UTC*
+*最后更新于 2026-02-10 23:35:22 UTC*
 *历史记录保存在 `archive` 目录中。*
