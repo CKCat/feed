@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 14 vulnerability techn...
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [msoos/minisat-v1.14](https://github.com/msoos/minisat-v1.14)
+  > MiniSat v1.14
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
   > Powerful .NET library for benchmarking
@@ -101,6 +105,10 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
   > A cross-platform C++ framework for building Windows shellcode
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/showboat](https://github.com/simonw/showboat)
+  > Create executable documents that demonstrate an agent's work
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/rodney](https://github.com/simonw/rodney)
+  > CLI tool for interacting with the web
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) to [phodal/agent-client-protocol](https://github.com/phodal/agent-client-protocol)
@@ -122,5 +130,5 @@
 
 
 ---
-*最后更新于 2026-02-10 19:12:53 UTC*
+*最后更新于 2026-02-10 20:40:49 UTC*
 *历史记录保存在 `archive` 目录中。*
