@@ -12,11 +12,19 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic)
   > A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [raysan5/raygui](https://github.com/raysan5/raygui)
+  > A simple and easy-to-use immediate-mode gui library
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
+  > A simple and easy-to-use library to enjoy videogames programming
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 
 
 ---
-*最后更新于 2026-02-11 06:12:10 UTC*
+*最后更新于 2026-02-11 07:53:57 UTC*
 *历史记录保存在 `archive` 目录中。*
