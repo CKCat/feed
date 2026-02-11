@@ -23,6 +23,8 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/OpenMiniBL1](https://github.com/halal-beef/OpenMiniBL1)
   > Open source minimal BL1 replacement for Exynos9830 (only handling USB boot cases)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bobbl/libaeabi-cortexm0](https://github.com/bobbl/libaeabi-cortexm0)
+  > ARM Run-Time ABI for the Cortex-M0 processor
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian)
@@ -78,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-02-11 20:36:28 UTC*
+*最后更新于 2026-02-11 21:30:46 UTC*
 *历史记录保存在 `archive` 目录中。*
