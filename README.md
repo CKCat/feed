@@ -8,6 +8,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mbed-TLS/TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto)
   > Reference implementation of the PSA Cryptography API
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [19h/idalib-dump](https://github.com/19h/idalib-dump)
+  > Terminal-based IDA disassembly, microcode and pseudocode dumper
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic)
   > A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-02-11 08:43:29 UTC*
+*最后更新于 2026-02-11 09:50:53 UTC*
 *历史记录保存在 `archive` 目录中。*
