@@ -8,6 +8,14 @@
 - 🍴 👤 [19h](https://github.com/19h) Forked [HavenOverflow/ot_dsim](https://github.com/HavenOverflow/ot_dsim) to [19h/ot_dsim](https://github.com/19h/ot_dsim)
   > CRYPTO engine used on Haven/Dauntless :P
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [brennacodes/unruley](https://github.com/brennacodes/unruley)
+  > A VS Code extension to help visualize ruler violations
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mbed-TLS/TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto)
   > Reference implementation of the PSA Cryptography API
@@ -72,6 +80,10 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [maplant/scheme-rs](https://github.com/maplant/scheme-rs)
   > Embedded Scheme for the Rust Ecosystem
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [panteLx/easynews-plus-plus](https://github.com/panteLx/easynews-plus-plus)
+  > Easynews++ is an enhanced Easynews addon with superior performance and advanced search capabilities....
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [kairos-io/kairos](https://github.com/kairos-io/kairos)
   > The immutable Linux meta-distribution for edge Kubernetes.
@@ -84,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-02-11 22:26:17 UTC*
+*最后更新于 2026-02-11 23:28:20 UTC*
 *历史记录保存在 `archive` 目录中。*
