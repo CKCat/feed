@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mbed-TLS/TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto)
+  > Reference implementation of the PSA Cryptography API
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic)
   > A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+
 
 ---
-*最后更新于 2026-02-11 02:03:39 UTC*
+*最后更新于 2026-02-11 04:59:49 UTC*
 *历史记录保存在 `archive` 目录中。*
