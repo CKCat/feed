@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [19h](https://github.com/19h)
+- 🍴 👤 [19h](https://github.com/19h) Forked [HavenOverflow/ot_dsim](https://github.com/HavenOverflow/ot_dsim) to [19h/ot_dsim](https://github.com/19h/ot_dsim)
+  > CRYPTO engine used on Haven/Dauntless :P
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mbed-TLS/TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto)
   > Reference implementation of the PSA Cryptography API
@@ -35,6 +39,16 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [DavidGinten/ML-compiler-exercise](https://github.com/DavidGinten/ML-compiler-exercise)
   > An online tutorial to make MLIR more beginner friendly with an end-to-end deep learning compiler pip...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [dmvevents/efa-cp](https://github.com/dmvevents/efa-cp) to [crazyguitar/efa-cp](https://github.com/crazyguitar/efa-cp)
+  > EFA RDMA file transfer tool - like scp but over AWS EFA SRD
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [dmvevents/efa-cp](https://github.com/dmvevents/efa-cp)
+  > EFA RDMA file transfer tool - like scp but over AWS EFA SRD
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [apache/tvm](https://github.com/apache/tvm)
+  > Open Machine Learning Compiler Framework
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+  > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) to [crazyguitar/ai-engineering-hub](https://github.com/crazyguitar/ai-engineering-hub)
+  > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [raysan5/raygui](https://github.com/raysan5/raygui)
@@ -64,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-02-11 17:08:20 UTC*
+*最后更新于 2026-02-11 18:58:10 UTC*
 *历史记录保存在 `archive` 目录中。*
