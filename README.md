@@ -44,6 +44,10 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
   > Pure python3 implementation for working with iDevices (iPhone, etc...).
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [maplant/scheme-rs](https://github.com/maplant/scheme-rs)
+  > Embedded Scheme for the Rust Ecosystem
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [kairos-io/kairos](https://github.com/kairos-io/kairos)
   > The immutable Linux meta-distribution for edge Kubernetes.
@@ -56,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-02-11 14:50:12 UTC*
+*最后更新于 2026-02-11 15:58:00 UTC*
 *历史记录保存在 `archive` 目录中。*
