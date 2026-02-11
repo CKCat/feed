@@ -7,6 +7,18 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mbed-TLS/TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto)
   > Reference implementation of the PSA Cryptography API
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [UniverseEmbedded/OpenColor](https://github.com/UniverseEmbedded/OpenColor)
+  > Full-color FDM printing
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
+  > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/OpenMiniBL1](https://github.com/halal-beef/OpenMiniBL1)
+  > [WIP] Open source minimal BL1 replacement for Exynos9830 (only handling USB boot cases)
 
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [19h/idalib-dump](https://github.com/19h/idalib-dump)
@@ -40,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-02-11 10:46:07 UTC*
+*最后更新于 2026-02-11 11:41:51 UTC*
 *历史记录保存在 `archive` 目录中。*
