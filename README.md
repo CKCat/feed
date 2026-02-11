@@ -32,6 +32,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic)
   > A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [DavidGinten/ML-compiler-exercise](https://github.com/DavidGinten/ML-compiler-exercise)
+  > An online tutorial to make MLIR more beginner friendly with an end-to-end deep learning compiler pip...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [raysan5/raygui](https://github.com/raysan5/raygui)
   > A simple and easy-to-use immediate-mode gui library
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-02-11 15:58:00 UTC*
+*最后更新于 2026-02-11 17:08:20 UTC*
 *历史记录保存在 `archive` 目录中。*
