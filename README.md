@@ -18,7 +18,11 @@
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/OpenMiniBL1](https://github.com/halal-beef/OpenMiniBL1)
-  > [WIP] Open source minimal BL1 replacement for Exynos9830 (only handling USB boot cases)
+  > Open source minimal BL1 replacement for Exynos9830 (only handling USB boot cases)
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian)
+  > IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel ...
 
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [19h/idalib-dump](https://github.com/19h/idalib-dump)
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-02-11 11:41:51 UTC*
+*最后更新于 2026-02-11 13:02:36 UTC*
 *历史记录保存在 `archive` 目录中。*
