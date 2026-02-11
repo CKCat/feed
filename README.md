@@ -52,6 +52,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) to [crazyguitar/ai-engineering-hub](https://github.com/crazyguitar/ai-engineering-hub)
   > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
+### [enenH](https://github.com/enenH)
+- 🍴 👤 [enenH](https://github.com/enenH) Forked [niqiuqiux/PointerScan](https://github.com/niqiuqiux/PointerScan) to [enenH/PointerScan](https://github.com/enenH/PointerScan)
+  > C++的内存指针链扫描
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [raysan5/raygui](https://github.com/raysan5/raygui)
   > A simple and easy-to-use immediate-mode gui library
@@ -80,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-02-11 21:30:46 UTC*
+*最后更新于 2026-02-11 22:26:17 UTC*
 *历史记录保存在 `archive` 目录中。*
