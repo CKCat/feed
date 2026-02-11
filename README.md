@@ -20,11 +20,15 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
   > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+### [fjqisba](https://github.com/fjqisba)
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
+  > Pure python3 implementation for working with iDevices (iPhone, etc...).
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 
 
 ---
-*最后更新于 2026-02-11 07:53:57 UTC*
+*最后更新于 2026-02-11 08:43:29 UTC*
 *历史记录保存在 `archive` 目录中。*
