@@ -12,9 +12,21 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [velopack/velopack](https://github.com/velopack/velopack)
   > Installer and automatic update framework for cross-platform desktop applications
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [topjohnwu/ondk](https://github.com/topjohnwu/ondk)
+  > Oxidized NDK - NDK repackaged with Rust toolchain
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ReiDoBrega/pymonalisa](https://github.com/ReiDoBrega/pymonalisa)
   > A Python library to decrypt IQIYI DRM License Ticket using the MonaLisa Content Decryption Module.
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
+  > An eBPF-powered debugger server for linux and android.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [IST-DASLab/marlin](https://github.com/IST-DASLab/marlin)
+  > FP16xINT4 LLM inference kernel that can achieve near-ideal ~4x speedups up to medium batchsizes of 1...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -66,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-02-12 08:41:55 UTC*
+*最后更新于 2026-02-12 09:44:21 UTC*
 *历史记录保存在 `archive` 目录中。*
