@@ -69,6 +69,8 @@
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zts212653/cat-cafe-tutorials](https://github.com/zts212653/cat-cafe-tutorials)
   > 从零搭建 AI 猫猫协作系统 — 一个真实项目的完整复盘
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [yan5xu/code-relay](https://github.com/yan5xu/code-relay)
+  > AI Coding Agent 工作协议 — 跨会话记忆、多仓库全局视野、结构化上下文管理
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [sigoden/dufs](https://github.com/sigoden/dufs)
@@ -78,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-02-12 11:37:27 UTC*
+*最后更新于 2026-02-12 13:00:39 UTC*
 *历史记录保存在 `archive` 目录中。*
