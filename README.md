@@ -80,6 +80,10 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
   > picoclaw
 
+### [scc-tw](https://github.com/scc-tw)
+- 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [bb107/MemoryModulePP](https://github.com/bb107/MemoryModulePP) to [scc-tw/MemoryModulePP](https://github.com/scc-tw/MemoryModulePP)
+  > MemoryModule which compatible with Win32 API and support exception handling
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
   > An eBPF-powered debugger server for linux and android.
@@ -98,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-02-12 21:30:26 UTC*
+*最后更新于 2026-02-12 22:29:05 UTC*
 *历史记录保存在 `archive` 目录中。*
