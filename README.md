@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [phil-opp/blog_os](https://github.com/phil-opp/blog_os)
+  > Writing an OS in Rust
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nihui/zimage-ncnn-vulkan](https://github.com/nihui/zimage-ncnn-vulkan)
   > ncnn implementation of Z-Image image generater
@@ -31,6 +35,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [kvick-games/UnrealMCP](https://github.com/kvick-games/UnrealMCP)
+  > MCP to allow AI agents to control Unreal
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
@@ -80,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-02-12 13:00:39 UTC*
+*最后更新于 2026-02-12 14:43:43 UTC*
 *历史记录保存在 `archive` 目录中。*
