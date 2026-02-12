@@ -54,6 +54,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
   > An eBPF-powered debugger server for linux and android.
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zts212653/cat-cafe-tutorials](https://github.com/zts212653/cat-cafe-tutorials)
+  > 从零搭建 AI 猫猫协作系统 — 一个真实项目的完整复盘
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [sigoden/dufs](https://github.com/sigoden/dufs)
   > A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-02-12 07:49:22 UTC*
+*最后更新于 2026-02-12 08:41:55 UTC*
 *历史记录保存在 `archive` 目录中。*
