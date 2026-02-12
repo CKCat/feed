@@ -7,6 +7,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nihui/zimage-ncnn-vulkan](https://github.com/nihui/zimage-ncnn-vulkan)
   > ncnn implementation of Z-Image image generater
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ia32-doc/ia32-doc](https://github.com/ia32-doc/ia32-doc)
+  > IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-proce...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
@@ -30,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-02-12 04:25:11 UTC*
+*最后更新于 2026-02-12 06:02:16 UTC*
 *历史记录保存在 `archive` 目录中。*
