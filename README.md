@@ -33,6 +33,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [IST-DASLab/marlin](https://github.com/IST-DASLab/marlin)
   > FP16xINT4 LLM inference kernel that can achieve near-ideal ~4x speedups up to medium batchsizes of 1...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [antirez/qwen-asr](https://github.com/antirez/qwen-asr)
+  > C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -88,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-02-12 15:49:02 UTC*
+*最后更新于 2026-02-12 16:54:41 UTC*
 *历史记录保存在 `archive` 目录中。*
