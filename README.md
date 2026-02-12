@@ -7,6 +7,8 @@
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [phil-opp/blog_os](https://github.com/phil-opp/blog_os)
   > Writing an OS in Rust
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [ekalinin/operating-systems-three-easy-pieces-pdf](https://github.com/ekalinin/operating-systems-three-easy-pieces-pdf) to [JingMatrix/ostep.pdf](https://github.com/JingMatrix/ostep.pdf)
+  > Tool for single pdf creation from http://ostep.org
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nihui/zimage-ncnn-vulkan](https://github.com/nihui/zimage-ncnn-vulkan)
@@ -86,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-02-12 14:43:43 UTC*
+*最后更新于 2026-02-12 15:49:02 UTC*
 *历史记录保存在 `archive` 目录中。*
