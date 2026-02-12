@@ -42,6 +42,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [kvick-games/UnrealMCP](https://github.com/kvick-games/UnrealMCP)
   > MCP to allow AI agents to control Unreal
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gruberb/workledger](https://github.com/gruberb/workledger)
+  > Your local first engineering notebook 
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
   > picoclaw
@@ -90,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-02-12 18:58:50 UTC*
+*最后更新于 2026-02-12 19:50:37 UTC*
 *历史记录保存在 `archive` 目录中。*
