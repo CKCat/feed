@@ -4,11 +4,31 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nihui/zimage-ncnn-vulkan](https://github.com/nihui/zimage-ncnn-vulkan)
+  > ncnn implementation of Z-Image image generater
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
+  > picoclaw
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine)
+  > A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illu...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
+  > An eBPF-powered debugger server for linux and android.
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
+  > Routa provides multi-agent session management, real-time streaming chat interface, tool call visuali...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
   > An eBPF-powered debugger server for linux and android.
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [sigoden/dufs](https://github.com/sigoden/dufs)
+  > A file server that supports static serving, uploading, searching, accessing control, webdav...
+
 
 ---
-*最后更新于 2026-02-12 01:56:45 UTC*
+*最后更新于 2026-02-12 04:25:11 UTC*
 *历史记录保存在 `archive` 目录中。*
