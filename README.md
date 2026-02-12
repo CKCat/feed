@@ -36,6 +36,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [antirez/qwen-asr](https://github.com/antirez/qwen-asr)
   > C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models
 
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [elide-dev/elide](https://github.com/elide-dev/elide)
+  > fast multi-lang runtime
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-02-12 20:31:08 UTC*
+*最后更新于 2026-02-12 21:30:26 UTC*
 *历史记录保存在 `archive` 目录中。*
