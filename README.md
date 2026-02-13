@@ -51,6 +51,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/idax](https://github.com/19h/idax)
   > A beautiful, idiomatic and less frustrating IDA C++ SDK.
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [stephane/libmodbus](https://github.com/stephane/libmodbus)
+  > A Modbus library for Linux, Mac OS, FreeBSD and Windows
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [vmactions/haiku-vm](https://github.com/vmactions/haiku-vm)
   > Use Haiku OS vm
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-02-13 17:37:29 UTC*
+*最后更新于 2026-02-13 18:42:37 UTC*
 *历史记录保存在 `archive` 目录中。*
