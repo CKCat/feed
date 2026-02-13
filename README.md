@@ -14,6 +14,14 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [19h/idax](https://github.com/19h/idax)
   > A beautiful, idiomatic and less frustrating IDA C++ SDK.
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) to [ChiChou/DefinitelyTyped](https://github.com/ChiChou/DefinitelyTyped)
+  > The repository for high quality TypeScript type definitions.
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel)
+  > Rust Linux-compatible kernel
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [gaasedelen/lucid](https://github.com/gaasedelen/lucid)
   > An Interactive Hex-Rays Microcode Explorer
@@ -23,6 +31,8 @@
   > 🦊 Anti-detect browser
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [psyb0t/docker-stealthy-auto-browse](https://github.com/psyb0t/docker-stealthy-auto-browse)
   > Stealth browser automation that actually works. A Docker container running Camoufox (custom Firefox)...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js)
+  > Render e-books in the browser
 
 ### [evilpan](https://github.com/evilpan)
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [ChiChou/XpcScope](https://github.com/ChiChou/XpcScope)
@@ -45,7 +55,10 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [vmactions/haiku-vm](https://github.com/vmactions/haiku-vm)
   > Use Haiku OS vm
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [t98o84/gw](https://github.com/t98o84/gw)
+
 
 ---
-*最后更新于 2026-02-13 15:38:38 UTC*
+*最后更新于 2026-02-13 16:41:18 UTC*
 *历史记录保存在 `archive` 目录中。*
