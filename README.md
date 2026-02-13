@@ -7,6 +7,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
   > 🦊 Anti-detect browser
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [psyb0t/docker-stealthy-auto-browse](https://github.com/psyb0t/docker-stealthy-auto-browse)
+  > Stealth browser automation that actually works. A Docker container running Camoufox (custom Firefox)...
 
 ### [evilpan](https://github.com/evilpan)
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [ChiChou/XpcScope](https://github.com/ChiChou/XpcScope)
@@ -18,5 +20,5 @@
 
 
 ---
-*最后更新于 2026-02-13 08:38:42 UTC*
+*最后更新于 2026-02-13 09:40:27 UTC*
 *历史记录保存在 `archive` 目录中。*
