@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [vmactions/haiku-vm](https://github.com/vmactions/haiku-vm)
+  > Use Haiku OS vm
+
 
 ---
-*最后更新于 2026-02-13 01:59:31 UTC*
+*最后更新于 2026-02-13 04:26:34 UTC*
 *历史记录保存在 `archive` 目录中。*
