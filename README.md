@@ -24,8 +24,14 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [liyupi/ai-guide](https://github.com/liyupi/ai-guide)
   > 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全...
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch)
+  > An ASCII graph drawing app
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [charl-kruger/mdrip](https://github.com/charl-kruger/mdrip)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/idax](https://github.com/19h/idax)
+  > A beautiful, idiomatic and less frustrating IDA C++ SDK.
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [vmactions/haiku-vm](https://github.com/vmactions/haiku-vm)
@@ -33,5 +39,5 @@
 
 
 ---
-*最后更新于 2026-02-13 12:52:46 UTC*
+*最后更新于 2026-02-13 14:00:27 UTC*
 *历史记录保存在 `archive` 目录中。*
