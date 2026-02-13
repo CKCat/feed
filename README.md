@@ -13,6 +13,8 @@
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [19h/idax](https://github.com/19h/idax)
   > A beautiful, idiomatic and less frustrating IDA C++ SDK.
+- 🌟 👤 [19h](https://github.com/19h) Starred [junron/ida2py](https://github.com/junron/ida2py)
+  > An intuitive query API for IDA Pro
 
 ### [ChiChou](https://github.com/ChiChou)
 - 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) to [ChiChou/DefinitelyTyped](https://github.com/ChiChou/DefinitelyTyped)
@@ -64,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-02-13 18:42:37 UTC*
+*最后更新于 2026-02-13 19:40:05 UTC*
 *历史记录保存在 `archive` 目录中。*
