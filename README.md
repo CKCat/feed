@@ -10,6 +10,14 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [PoomSmart/YouTube-X](https://github.com/PoomSmart/YouTube-X)
   > A lightweight YouTube improvement tweak.
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [19h/idax](https://github.com/19h/idax)
+  > A beautiful, idiomatic and less frustrating IDA C++ SDK.
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [gaasedelen/lucid](https://github.com/gaasedelen/lucid)
+  > An Interactive Hex-Rays Microcode Explorer
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
   > 🦊 Anti-detect browser
@@ -39,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-02-13 14:00:27 UTC*
+*最后更新于 2026-02-13 15:38:38 UTC*
 *历史记录保存在 `archive` 目录中。*
