@@ -14,11 +14,14 @@
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [ChiChou/XpcScope](https://github.com/ChiChou/XpcScope)
   > Yet another xpc sniffer
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [charl-kruger/mdrip](https://github.com/charl-kruger/mdrip)
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [vmactions/haiku-vm](https://github.com/vmactions/haiku-vm)
   > Use Haiku OS vm
 
 
 ---
-*最后更新于 2026-02-13 10:36:37 UTC*
+*最后更新于 2026-02-13 11:28:40 UTC*
 *历史记录保存在 `archive` 目录中。*
