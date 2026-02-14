@@ -28,6 +28,8 @@
   > One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
   > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [monotykamary/openmux](https://github.com/monotykamary/openmux)
+  > A simpler multiplexer, built with OpenTUI.
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [antirez/voxtral.c](https://github.com/antirez/voxtral.c)
@@ -43,6 +45,8 @@
   > AI-powered shell with agent-agnostic design. Built for me.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bakks/butterfish](https://github.com/bakks/butterfish)
   > A shell with AI superpowers
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [watchexec/watchexec](https://github.com/watchexec/watchexec)
+  > Executes commands in response to file modifications
 
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [0xc4r/CVE-2026-21508_POC](https://github.com/0xc4r/CVE-2026-21508_POC)
@@ -69,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-02-14 09:27:17 UTC*
+*最后更新于 2026-02-14 10:23:00 UTC*
 *历史记录保存在 `archive` 目录中。*
