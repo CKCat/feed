@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [xorpse/rust-style](https://github.com/xorpse/rust-style)
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [EvanDbg/Antigravity-Shit-Chat](https://github.com/EvanDbg/Antigravity-Shit-Chat)
   > A hacky real-time mobile interface to watch and interact with Antigravity chats while you’re away fr...
@@ -23,6 +26,8 @@
   > A smarter cd command. Supports all major shells.
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard)
   > One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
+  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [antirez/voxtral.c](https://github.com/antirez/voxtral.c)
@@ -64,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-02-14 08:28:06 UTC*
+*最后更新于 2026-02-14 09:27:17 UTC*
 *历史记录保存在 `archive` 目录中。*
