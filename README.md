@@ -22,6 +22,7 @@
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) to [T5ive/QuestPDF](https://github.com/T5ive/QuestPDF)
   > QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex ...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [TopSwagCode/MinimalWorker](https://github.com/TopSwagCode/MinimalWorker)
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim)
@@ -41,6 +42,8 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
   > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [monotykamary/openmux](https://github.com/monotykamary/openmux)
+  > A simpler multiplexer, built with OpenTUI.
+- 🍴 👤 [archibate](https://github.com/archibate) Forked [monotykamary/openmux](https://github.com/monotykamary/openmux) to [archibate/openmux](https://github.com/archibate/openmux)
   > A simpler multiplexer, built with OpenTUI.
 
 ### [axhlzy](https://github.com/axhlzy)
@@ -79,6 +82,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
   > 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode)
+  > OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ThePedroo/InkKallyTatoo](https://github.com/ThePedroo/InkKallyTatoo)
@@ -87,7 +92,11 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [zodiacon](https://github.com/zodiacon)
+- 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [ozone10/darkmodelib](https://github.com/ozone10/darkmodelib)
+  > Library for custom colors and dark mode support for most common controls in applications using Win32...
+
 
 ---
-*最后更新于 2026-02-14 14:23:39 UTC*
+*最后更新于 2026-02-14 15:21:25 UTC*
 *历史记录保存在 `archive` 目录中。*
