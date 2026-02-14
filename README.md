@@ -13,6 +13,14 @@
   > A simple plugin to easily manage Neovim buffers.
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [dzfrias/arena.nvim](https://github.com/dzfrias/arena.nvim)
   > A smart (frecency-based) buffer switcher
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim)
+  > Seamless navigation between Neovim windows and Zellij panes.
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock)
+  > autolock Zellij when certain processes open.
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [dj95/zjstatus](https://github.com/dj95/zjstatus)
+  > A configurable statusbar plugin for zellij
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+  > A smarter cd command. Supports all major shells.
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [antirez/voxtral.c](https://github.com/antirez/voxtral.c)
@@ -46,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-02-14 05:41:43 UTC*
+*最后更新于 2026-02-14 06:39:50 UTC*
 *历史记录保存在 `archive` 目录中。*
