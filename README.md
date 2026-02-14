@@ -23,6 +23,8 @@
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) to [T5ive/QuestPDF](https://github.com/T5ive/QuestPDF)
   > QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex ...
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [TopSwagCode/MinimalWorker](https://github.com/TopSwagCode/MinimalWorker)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
+  > TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators...
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim)
@@ -102,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-02-14 16:25:12 UTC*
+*最后更新于 2026-02-14 17:23:31 UTC*
 *历史记录保存在 `archive` 目录中。*
