@@ -85,6 +85,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode)
   > OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ozone10/darkmodelib](https://github.com/ozone10/darkmodelib)
+  > Library for custom colors and dark mode support for most common controls in applications using Win32...
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ThePedroo/InkKallyTatoo](https://github.com/ThePedroo/InkKallyTatoo)
 
@@ -98,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-02-14 15:21:25 UTC*
+*最后更新于 2026-02-14 16:25:12 UTC*
 *历史记录保存在 `archive` 目录中。*
