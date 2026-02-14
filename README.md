@@ -21,6 +21,8 @@
   > A configurable statusbar plugin for zellij
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
   > A smarter cd command. Supports all major shells.
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard)
+  > One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [antirez/voxtral.c](https://github.com/antirez/voxtral.c)
@@ -45,6 +47,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
   > TUI components for Bubble Tea 🫧
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [console-rs/indicatif](https://github.com/console-rs/indicatif)
+  > A command line progress reporting library for Rust
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ThePedroo/InkKallyTatoo](https://github.com/ThePedroo/InkKallyTatoo)
 
@@ -54,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-02-14 06:39:50 UTC*
+*最后更新于 2026-02-14 07:31:42 UTC*
 *历史记录保存在 `archive` 目录中。*
