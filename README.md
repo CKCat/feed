@@ -8,6 +8,16 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [EvanDbg/Antigravity-Shit-Chat](https://github.com/EvanDbg/Antigravity-Shit-Chat)
   > A hacky real-time mobile interface to watch and interact with Antigravity chats while you’re away fr...
 
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim)
+  > A simple plugin to easily manage Neovim buffers.
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [dzfrias/arena.nvim](https://github.com/dzfrias/arena.nvim)
+  > A smart (frecency-based) buffer switcher
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [antirez/voxtral.c](https://github.com/antirez/voxtral.c)
+  > Pure C inference of Mistral Voxtral Realtime 4B speech to text model
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [lordkekz/nix-yazi-plugins](https://github.com/lordkekz/nix-yazi-plugins)
   > An (incomplete) collection of yazi plugins, packaged for Nix.
@@ -23,6 +33,10 @@
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [0xc4r/CVE-2026-21508_POC](https://github.com/0xc4r/CVE-2026-21508_POC)
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [0xc4r/CVE-2026-21508_POC](https://github.com/0xc4r/CVE-2026-21508_POC) to [cbwang505/CVE-2026-21508_POC](https://github.com/cbwang505/CVE-2026-21508_POC)
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+  > TUI components for Bubble Tea 🫧
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ThePedroo/InkKallyTatoo](https://github.com/ThePedroo/InkKallyTatoo)
 
@@ -32,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-02-14 04:07:38 UTC*
+*最后更新于 2026-02-14 05:41:43 UTC*
 *历史记录保存在 `archive` 目录中。*
