@@ -15,6 +15,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [RinoRika/StarlightGUI](https://github.com/RinoRika/StarlightGUI)
   > 一个强大而易用的 Windows 内核级工具箱，使用 C++/WinRT WinUI3 编写
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DarthTon/HyperBone](https://github.com/DarthTon/HyperBone)
+  > Minimalistic VT-x hypervisor with hooks
+
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) to [T5ive/QuestPDF](https://github.com/T5ive/QuestPDF)
   > QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex ...
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-02-14 13:41:37 UTC*
+*最后更新于 2026-02-14 14:23:39 UTC*
 *历史记录保存在 `archive` 目录中。*
