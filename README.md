@@ -51,6 +51,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [console-rs/indicatif](https://github.com/console-rs/indicatif)
   > A command line progress reporting library for Rust
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
+  > 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其...
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ThePedroo/InkKallyTatoo](https://github.com/ThePedroo/InkKallyTatoo)
 
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-02-14 07:31:42 UTC*
+*最后更新于 2026-02-14 08:28:06 UTC*
 *历史记录保存在 `archive` 目录中。*
