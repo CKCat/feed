@@ -91,6 +91,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ozone10/darkmodelib](https://github.com/ozone10/darkmodelib)
   > Library for custom colors and dark mode support for most common controls in applications using Win32...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/omill](https://github.com/binsnake/omill)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GitHubFoxy/pi-observational-memory](https://github.com/GitHubFoxy/pi-observational-memory)
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ThePedroo/InkKallyTatoo](https://github.com/ThePedroo/InkKallyTatoo)
 
@@ -104,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-02-14 21:20:32 UTC*
+*最后更新于 2026-02-14 22:19:49 UTC*
 *历史记录保存在 `archive` 目录中。*
