@@ -60,6 +60,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [console-rs/indicatif](https://github.com/console-rs/indicatif)
   > A command line progress reporting library for Rust
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [nathan237/TrustOS](https://github.com/nathan237/TrustOS)
+  > Description : 🦀 Secure experimental OS kernel written in Rust - Linux compatible, GUI desktop, netwo...
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
   > 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其...
@@ -73,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-02-14 10:23:00 UTC*
+*最后更新于 2026-02-14 11:19:56 UTC*
 *历史记录保存在 `archive` 目录中。*
