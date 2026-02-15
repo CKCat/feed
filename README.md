@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [zengfw/LongScreenShot](https://github.com/zengfw/LongScreenShot)
   > 滚动长截图，截取第三方应用，如微博、知乎、头条长图文...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch)
+  > An ASCII graph drawing app
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
   > A privacy-first, self-hosted, fully open source personal knowledge management software, written in t...
@@ -40,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-02-15 14:23:59 UTC*
+*最后更新于 2026-02-15 15:22:05 UTC*
 *历史记录保存在 `archive` 目录中。*
