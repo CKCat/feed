@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [zengfw/LongScreenShot](https://github.com/zengfw/LongScreenShot)
   > 滚动长截图，截取第三方应用，如微博、知乎、头条长图文...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
+  > A privacy-first, self-hosted, fully open source personal knowledge management software, written in t...
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
@@ -18,5 +22,5 @@
 
 
 ---
-*最后更新于 2026-02-15 07:35:51 UTC*
+*最后更新于 2026-02-15 08:28:56 UTC*
 *历史记录保存在 `archive` 目录中。*
