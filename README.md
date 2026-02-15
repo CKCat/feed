@@ -30,7 +30,11 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub)
   > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [br4ndn/warbird-example](https://github.com/br4ndn/warbird-example)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [cirosec/warbird-demos](https://github.com/cirosec/warbird-demos)
+
 
 ---
-*最后更新于 2026-02-15 12:42:39 UTC*
+*最后更新于 2026-02-15 13:42:40 UTC*
 *历史记录保存在 `archive` 目录中。*
