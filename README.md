@@ -23,16 +23,28 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
   > Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [QDenka/awesome-software-design](https://github.com/QDenka/awesome-software-design)
+  > Organizing and structuring software through patterns, decisions, and verified design rules
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [QDenka/awesome-software-design](https://github.com/QDenka/awesome-software-design) to [crazyguitar/awesome-software-design](https://github.com/crazyguitar/awesome-software-design)
+  > Organizing and structuring software through patterns, decisions, and verified design rules
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [aome510/spotify-player](https://github.com/aome510/spotify-player)
   > A Spotify player in the terminal with full feature parity
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
+  > picoclaw
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+  > "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [zkat/miette](https://github.com/zkat/miette)
   > Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub)
   > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
+
+### [kdrag0n](https://github.com/kdrag0n)
+- 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [hectorastrom/chom-nom](https://github.com/hectorastrom/chom-nom) to [kdrag0n/chom-nom](https://github.com/kdrag0n/chom-nom)
+  > TreeHacks 2026 Submission
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/mental](https://github.com/Michaelliv/mental)
@@ -44,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-02-15 17:22:49 UTC*
+*最后更新于 2026-02-15 18:31:40 UTC*
 *历史记录保存在 `archive` 目录中。*
