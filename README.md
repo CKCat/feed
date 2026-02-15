@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [zengfw/LongScreenShot](https://github.com/zengfw/LongScreenShot)
+  > 滚动长截图，截取第三方应用，如微博、知乎、头条长图文...
+
 
 ---
-*最后更新于 2026-02-15 01:58:56 UTC*
+*最后更新于 2026-02-15 04:26:32 UTC*
 *历史记录保存在 `archive` 目录中。*
