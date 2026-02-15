@@ -54,11 +54,15 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/mental](https://github.com/Michaelliv/mental)
   > The mental model layer for agent-written code
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [malus-security/sandblaster](https://github.com/malus-security/sandblaster)
+  > Reversing the Apple sandbox
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [br4ndn/warbird-example](https://github.com/br4ndn/warbird-example)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [cirosec/warbird-demos](https://github.com/cirosec/warbird-demos)
 
 
 ---
-*最后更新于 2026-02-15 20:22:11 UTC*
+*最后更新于 2026-02-15 21:21:16 UTC*
 *历史记录保存在 `archive` 目录中。*
