@@ -20,7 +20,15 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
   > Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and ...
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [aome510/spotify-player](https://github.com/aome510/spotify-player)
+  > A Spotify player in the terminal with full feature parity
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [zkat/miette](https://github.com/zkat/miette)
+  > Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
+
 
 ---
-*最后更新于 2026-02-15 08:28:56 UTC*
+*最后更新于 2026-02-15 09:28:05 UTC*
 *历史记录保存在 `archive` 目录中。*
