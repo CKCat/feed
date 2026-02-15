@@ -27,8 +27,10 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [zkat/miette](https://github.com/zkat/miette)
   > Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub)
+  > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
 
 
 ---
-*最后更新于 2026-02-15 10:22:41 UTC*
+*最后更新于 2026-02-15 11:19:20 UTC*
 *历史记录保存在 `archive` 目录中。*
