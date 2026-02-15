@@ -30,11 +30,15 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub)
   > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/mental](https://github.com/Michaelliv/mental)
+  > The mental model layer for agent-written code
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [br4ndn/warbird-example](https://github.com/br4ndn/warbird-example)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [cirosec/warbird-demos](https://github.com/cirosec/warbird-demos)
 
 
 ---
-*最后更新于 2026-02-15 13:42:40 UTC*
+*最后更新于 2026-02-15 14:23:59 UTC*
 *历史记录保存在 `archive` 目录中。*
