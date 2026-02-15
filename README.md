@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror) to [lallouslab/cc-mirror](https://github.com/lallouslab/cc-mirror)
+  > Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, Lite...
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [zengfw/LongScreenShot](https://github.com/zengfw/LongScreenShot)
   > 滚动长截图，截取第三方应用，如微博、知乎、头条长图文...
@@ -42,10 +46,6 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub)
   > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
 
-### [kdrag0n](https://github.com/kdrag0n)
-- 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [hectorastrom/chom-nom](https://github.com/hectorastrom/chom-nom) to [kdrag0n/chom-nom](https://github.com/kdrag0n/chom-nom)
-  > TreeHacks 2026 Submission
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/mental](https://github.com/Michaelliv/mental)
   > The mental model layer for agent-written code
@@ -56,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-02-15 18:31:40 UTC*
+*最后更新于 2026-02-15 19:22:15 UTC*
 *历史记录保存在 `archive` 目录中。*
