@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [xorpse/rust-style](https://github.com/xorpse/rust-style) to [0xdea/rust-style](https://github.com/0xdea/rust-style)
+
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [antirez/qwen-asr](https://github.com/antirez/qwen-asr) to [lallouslab/qwen-asr](https://github.com/lallouslab/qwen-asr)
   > C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models
@@ -46,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-02-16 07:51:40 UTC*
+*最后更新于 2026-02-16 08:42:13 UTC*
 *历史记录保存在 `archive` 目录中。*
