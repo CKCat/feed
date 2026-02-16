@@ -35,9 +35,17 @@
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [yanghaoi/LaunchSystemCmd](https://github.com/yanghaoi/LaunchSystemCmd) to [cbwang505/LaunchSystemCmd](https://github.com/cbwang505/LaunchSystemCmd)
   > 在权限足够的情况下弹出system权限的cmd命令行，包含exe和dll两种文件类型，可用于一些可能存在本地提权漏洞的测试。
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [steipete/summarize](https://github.com/steipete/summarize)
+  > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billion...
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [TomDeneire/lsp-in-gutter.nvim](https://github.com/TomDeneire/lsp-in-gutter.nvim)
+  > Display Neovim LSP diagnostics in gutter
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-02-16 08:42:13 UTC*
+*最后更新于 2026-02-16 09:50:51 UTC*
 *历史记录保存在 `archive` 目录中。*
