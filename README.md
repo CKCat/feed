@@ -24,6 +24,8 @@
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
   > Neovim file explorer: edit your filesystem like a buffer
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish)
+  > Plugin which makes tmux work and feel like i3wm
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
@@ -61,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-02-16 10:44:50 UTC*
+*最后更新于 2026-02-16 11:37:41 UTC*
 *历史记录保存在 `archive` 目录中。*
