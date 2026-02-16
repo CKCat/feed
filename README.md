@@ -14,6 +14,14 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [root-project/cling](https://github.com/root-project/cling) to [lallouslab/cling](https://github.com/lallouslab/cling)
   > The cling C++ interpreter
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Pnut-GGG/findmy-cache-decryptor](https://github.com/Pnut-GGG/findmy-cache-decryptor)
+  > FindMy Cache Decryptor is a reverse-engineered tool that decrypts cached data files from Apple's Fin...
+
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
+  > Neovim file explorer: edit your filesystem like a buffer
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
   > NativeMind: Your fully private, open-source, on-device AI assistant
@@ -24,7 +32,19 @@
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [yanghaoi/LaunchSystemCmd](https://github.com/yanghaoi/LaunchSystemCmd) to [cbwang505/LaunchSystemCmd](https://github.com/cbwang505/LaunchSystemCmd)
   > 在权限足够的情况下弹出system权限的cmd命令行，包含exe和dll两种文件类型，可用于一些可能存在本地提权漏洞的测试。
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+  > SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billion...
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zboralski/unflutter](https://github.com/zboralski/unflutter)
+  > Static analyzer for Flutter/Dart AOT snapshots
+
 
 ---
-*最后更新于 2026-02-16 06:04:03 UTC*
+*最后更新于 2026-02-16 07:51:40 UTC*
 *历史记录保存在 `archive` 目录中。*
