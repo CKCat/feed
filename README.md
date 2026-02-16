@@ -21,6 +21,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Pnut-GGG/findmy-cache-decryptor](https://github.com/Pnut-GGG/findmy-cache-decryptor)
   > FindMy Cache Decryptor is a reverse-engineered tool that decrypts cached data files from Apple's Fin...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
   > Neovim file explorer: edit your filesystem like a buffer
@@ -44,6 +48,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billion...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [jarun/nnn](https://github.com/jarun/nnn)
+  > n³ The unorthodox terminal file manager
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [TomDeneire/lsp-in-gutter.nvim](https://github.com/TomDeneire/lsp-in-gutter.nvim)
@@ -63,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-02-16 16:39:01 UTC*
+*最后更新于 2026-02-16 17:35:05 UTC*
 *历史记录保存在 `archive` 目录中。*
