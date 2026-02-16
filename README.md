@@ -44,12 +44,16 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [steipete/summarize](https://github.com/steipete/summarize)
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NatLabRockies/HPC](https://github.com/NatLabRockies/HPC)
+  > A collection of various resources, examples, and executables for the general NLR HPC user community'...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billion...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [jarun/nnn](https://github.com/jarun/nnn)
   > n³ The unorthodox terminal file manager
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [eliben/raft](https://github.com/eliben/raft)
+  > :rowboat: Raft implementation in Go
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [TomDeneire/lsp-in-gutter.nvim](https://github.com/TomDeneire/lsp-in-gutter.nvim)
@@ -69,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-02-16 17:35:05 UTC*
+*最后更新于 2026-02-16 18:38:24 UTC*
 *历史记录保存在 `archive` 目录中。*
