@@ -17,6 +17,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [root-project/cling](https://github.com/root-project/cling) to [lallouslab/cling](https://github.com/lallouslab/cling)
   > The cling C++ interpreter
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/multiling](https://github.com/d-kfmnn/multiling)
+  > Extracting Linear Relations from Gröbner Bases for Formal Verification of And-Inverter Graphs
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Pnut-GGG/findmy-cache-decryptor](https://github.com/Pnut-GGG/findmy-cache-decryptor)
   > FindMy Cache Decryptor is a reverse-engineered tool that decrypts cached data files from Apple's Fin...
@@ -46,6 +50,8 @@
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NatLabRockies/HPC](https://github.com/NatLabRockies/HPC)
   > A collection of various resources, examples, and executables for the general NLR HPC user community'...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
+  > A lightweight, lightning-fast, in-process vector database
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
@@ -73,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-02-16 18:38:24 UTC*
+*最后更新于 2026-02-16 19:30:14 UTC*
 *历史记录保存在 `archive` 目录中。*
