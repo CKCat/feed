@@ -29,6 +29,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
   > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+  > Learn maths, computing, and artificial intelligence with intuition.
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
   > Neovim file explorer: edit your filesystem like a buffer
@@ -79,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-02-16 19:30:14 UTC*
+*最后更新于 2026-02-16 20:26:48 UTC*
 *历史记录保存在 `archive` 目录中。*
