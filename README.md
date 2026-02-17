@@ -27,6 +27,8 @@
   > Think tmux, then aim... lower
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [neurosnap/zmx](https://github.com/neurosnap/zmx)
   > Session persistence for terminal processes
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jerome-pouiller/reredirect](https://github.com/jerome-pouiller/reredirect)
+  > Tool to dynamicly redirect outputs of a running process
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli)
@@ -60,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-02-17 09:43:29 UTC*
+*最后更新于 2026-02-17 10:41:28 UTC*
 *历史记录保存在 `archive` 目录中。*
