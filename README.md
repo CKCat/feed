@@ -10,6 +10,10 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi) to [KuNgia09/TInjector_Symbi](https://github.com/KuNgia09/TInjector_Symbi)
   > 更稳定的劫持Zygote在App启动前注入so
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
+  > Modern protocol-side framework based on NTQQ
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
   > VSCode theme based off the easemate IDE and Jetbrains islands theme
@@ -39,8 +43,12 @@
   > Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown)
   > An Obsidian.md plugin to save tweets as Markdown files.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MikeVeerman/tool-calling-benchmark](https://github.com/MikeVeerman/tool-calling-benchmark)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
+  > Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
 
 ---
-*最后更新于 2026-02-17 05:55:11 UTC*
+*最后更新于 2026-02-17 06:55:13 UTC*
 *历史记录保存在 `archive` 目录中。*
