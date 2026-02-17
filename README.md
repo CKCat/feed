@@ -56,6 +56,10 @@
 - 🍴 👤 [enenH](https://github.com/enenH) Forked [NVIDIAGameWorks/PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) to [enenH/PhysX-3.4](https://github.com/enenH/PhysX-3.4)
   > NVIDIA PhysX SDK 3.4
 
+### [j-hc](https://github.com/j-hc)
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [j-hc/ih8SecureLock](https://github.com/j-hc/ih8SecureLock)
+  > Prevent apps from blocking and listening to your screenshots with Zygisk
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [voltropy/volt](https://github.com/voltropy/volt)
   > Coding agent with lossless context management
@@ -88,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-02-17 22:27:46 UTC*
+*最后更新于 2026-02-17 23:25:34 UTC*
 *历史记录保存在 `archive` 目录中。*
