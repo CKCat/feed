@@ -65,8 +65,10 @@
   > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [prateekmedia/claude-agent-sdk-pi](https://github.com/prateekmedia/claude-agent-sdk-pi)
   > Claude agent sdk as a provider for pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
+  > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
 
 
 ---
-*最后更新于 2026-02-17 12:56:38 UTC*
+*最后更新于 2026-02-17 14:06:31 UTC*
 *历史记录保存在 `archive` 目录中。*
