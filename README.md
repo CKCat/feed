@@ -10,6 +10,10 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi) to [KuNgia09/TInjector_Symbi](https://github.com/KuNgia09/TInjector_Symbi)
   > 更稳定的劫持Zygote在App启动前注入so
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sigwl/AiDA](https://github.com/sigwl/AiDA)
+  > An AI-powered assistant for IDA 9.0+ to accelerate reverse engineering of C++ games.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
   > Modern protocol-side framework based on NTQQ
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-02-17 15:49:54 UTC*
+*最后更新于 2026-02-17 16:53:36 UTC*
 *历史记录保存在 `archive` 目录中。*
