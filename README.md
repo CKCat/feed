@@ -35,6 +35,8 @@
   > Tool to dynamicly redirect outputs of a running process
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bevry/dorothy](https://github.com/bevry/dorothy)
   > 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations ...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [probelabs/probe](https://github.com/probelabs/probe)
+  > AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli)
@@ -67,8 +69,10 @@
   > Claude agent sdk as a provider for pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
   > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
+  > Make You Happy!
 
 
 ---
-*最后更新于 2026-02-17 14:06:31 UTC*
+*最后更新于 2026-02-17 15:49:54 UTC*
 *历史记录保存在 `archive` 目录中。*
