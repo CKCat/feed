@@ -47,8 +47,12 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MikeVeerman/tool-calling-benchmark](https://github.com/MikeVeerman/tool-calling-benchmark)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
   > Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/gondolin](https://github.com/earendil-works/gondolin)
+  > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [prateekmedia/claude-agent-sdk-pi](https://github.com/prateekmedia/claude-agent-sdk-pi)
+  > Claude agent sdk as a provider for pi
 
 
 ---
-*最后更新于 2026-02-17 06:55:13 UTC*
+*最后更新于 2026-02-17 07:48:48 UTC*
 *历史记录保存在 `archive` 目录中。*
