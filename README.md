@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [frida/frida-compile](https://github.com/frida/frida-compile)
+  > Compile a Frida script comprised of one or more Node.js modules
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
   > 更稳定的劫持Zygote在App启动前注入so
@@ -84,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-02-17 21:32:34 UTC*
+*最后更新于 2026-02-17 22:27:46 UTC*
 *历史记录保存在 `archive` 目录中。*
