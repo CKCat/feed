@@ -22,6 +22,12 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim)
   > Neovim motions on speed!
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [shell-pool/shpool](https://github.com/shell-pool/shpool)
+  > Think tmux, then aim... lower
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [neurosnap/zmx](https://github.com/neurosnap/zmx)
+  > Session persistence for terminal processes
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli)
   > The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.
@@ -54,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-02-17 08:41:03 UTC*
+*最后更新于 2026-02-17 09:43:29 UTC*
 *历史记录保存在 `archive` 目录中。*
