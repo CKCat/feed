@@ -18,6 +18,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
   > VSCode theme based off the easemate IDE and Jetbrains islands theme
 
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [5ec1cff/btrace](https://github.com/5ec1cff/btrace) to [Ylarod/btrace](https://github.com/Ylarod/btrace)
+  > btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim)
   > Neovim motions on speed!
@@ -29,6 +33,8 @@
   > Session persistence for terminal processes
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jerome-pouiller/reredirect](https://github.com/jerome-pouiller/reredirect)
   > Tool to dynamicly redirect outputs of a running process
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bevry/dorothy](https://github.com/bevry/dorothy)
+  > 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations ...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli)
@@ -62,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-02-17 11:36:51 UTC*
+*最后更新于 2026-02-17 12:56:38 UTC*
 *历史记录保存在 `archive` 目录中。*
