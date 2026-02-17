@@ -77,8 +77,12 @@
   > Make You Happy!
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
   > Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscra...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [matteyeux/IDArling](https://github.com/matteyeux/IDArling)
+  > Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elysiajs/arona](https://github.com/elysiajs/arona)
+  > Elysia AI doc search
 
 
 ---
-*最后更新于 2026-02-17 20:33:20 UTC*
+*最后更新于 2026-02-17 21:32:34 UTC*
 *历史记录保存在 `archive` 目录中。*
