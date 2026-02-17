@@ -75,8 +75,10 @@
   > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
+  > Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscra...
 
 
 ---
-*最后更新于 2026-02-17 19:44:20 UTC*
+*最后更新于 2026-02-17 20:33:20 UTC*
 *历史记录保存在 `archive` 目录中。*
