@@ -46,6 +46,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64)
   > N64 Game-Engine and Editor using libdragon & tiny3d
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+  > Ongoing research training transformer models at scale
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA-NeMo/Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge)
+  > Training library for Megatron-based models with bidirectional Hugging Face conversion capability
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [ArTicZera/NovaOS](https://github.com/ArTicZera/NovaOS)
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-02-18 18:51:27 UTC*
+*最后更新于 2026-02-18 19:45:35 UTC*
 *历史记录保存在 `archive` 目录中。*
