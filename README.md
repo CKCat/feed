@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex)
+  > This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [folke/persistence.nvim](https://github.com/folke/persistence.nvim)
   > 💾  Simple session management for Neovim
@@ -17,8 +21,10 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [ArTicZera/NovaOS](https://github.com/ArTicZera/NovaOS)
   > 🌟 NovaOS is an x86 Protected Mode Operating System with a GUI, a own File System, and much more!
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [keon/algorithms](https://github.com/keon/algorithms)
+  > Minimal examples of data structures and algorithms in Python
 
 
 ---
-*最后更新于 2026-02-18 04:22:12 UTC*
+*最后更新于 2026-02-18 05:58:21 UTC*
 *历史记录保存在 `archive` 目录中。*
