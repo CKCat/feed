@@ -53,6 +53,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [keon/algorithms](https://github.com/keon/algorithms)
   > Minimal examples of data structures and algorithms in Python
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Augani/shiori](https://github.com/Augani/shiori)
+  > A fast, lightweight, GPU-accelerated code editor for macOS built in Rust
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin)
   > Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into...
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-02-18 17:55:24 UTC*
+*最后更新于 2026-02-18 18:51:27 UTC*
 *历史记录保存在 `archive` 目录中。*
