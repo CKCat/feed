@@ -34,13 +34,21 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix)
   > A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packa...
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [Kioubit/FlapAlerted](https://github.com/Kioubit/FlapAlerted)
+  > BGP Update based flap detection
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [ArTicZera/NovaOS](https://github.com/ArTicZera/NovaOS)
   > 🌟 NovaOS is an x86 Protected Mode Operating System with a GUI, a own File System, and much more!
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [keon/algorithms](https://github.com/keon/algorithms)
   > Minimal examples of data structures and algorithms in Python
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
+  > Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+
 
 ---
-*最后更新于 2026-02-18 11:35:56 UTC*
+*最后更新于 2026-02-18 12:57:44 UTC*
 *历史记录保存在 `archive` 目录中。*
