@@ -22,6 +22,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [YinMo19/sighook](https://github.com/YinMo19/sighook)
   > A multi-platform runtime instrumentation and inline hooking crate.
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)
+  > "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [folke/persistence.nvim](https://github.com/folke/persistence.nvim)
   > 💾  Simple session management for Neovim
@@ -33,6 +37,7 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix)
   > A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packa...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jorchube/monitorets](https://github.com/jorchube/monitorets)
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [Kioubit/FlapAlerted](https://github.com/Kioubit/FlapAlerted)
@@ -44,11 +49,15 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [keon/algorithms](https://github.com/keon/algorithms)
   > Minimal examples of data structures and algorithms in Python
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin)
+  > Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
   > Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 
 
 ---
-*最后更新于 2026-02-18 14:08:00 UTC*
+*最后更新于 2026-02-18 15:48:43 UTC*
 *历史记录保存在 `archive` 目录中。*
