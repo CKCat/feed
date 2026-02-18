@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [a-konrad/fastpoly](https://github.com/a-konrad/fastpoly)
   > FastPoly: An Efficient Polynomial Package for the Verification of Integer Arithmetic Circuits
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-02-18 09:43:05 UTC*
+*最后更新于 2026-02-18 10:40:54 UTC*
 *历史记录保存在 `archive` 目录中。*
