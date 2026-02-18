@@ -43,6 +43,10 @@
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [Kioubit/FlapAlerted](https://github.com/Kioubit/FlapAlerted)
   > BGP Update based flap detection
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64)
+  > N64 Game-Engine and Editor using libdragon & tiny3d
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [ArTicZera/NovaOS](https://github.com/ArTicZera/NovaOS)
   > 🌟 NovaOS is an x86 Protected Mode Operating System with a GUI, a own File System, and much more!
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-02-18 16:59:32 UTC*
+*最后更新于 2026-02-18 17:55:24 UTC*
 *历史记录保存在 `archive` 目录中。*
