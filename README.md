@@ -7,6 +7,8 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex)
   > This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [YinMo19/sighook](https://github.com/YinMo19/sighook)
+  > A multi-platform runtime instrumentation and inline hooking crate.
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [folke/persistence.nvim](https://github.com/folke/persistence.nvim)
@@ -26,5 +28,5 @@
 
 
 ---
-*最后更新于 2026-02-18 05:58:21 UTC*
+*最后更新于 2026-02-18 07:07:41 UTC*
 *历史记录保存在 `archive` 目录中。*
