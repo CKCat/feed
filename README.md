@@ -15,6 +15,8 @@
   > 💾  Simple session management for Neovim
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [folke/noice.nvim](https://github.com/folke/noice.nvim)
   > 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu...
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp)
+  > A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enab...
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix)
@@ -28,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-02-18 07:07:41 UTC*
+*最后更新于 2026-02-18 08:40:26 UTC*
 *历史记录保存在 `archive` 目录中。*
