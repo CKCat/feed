@@ -37,6 +37,10 @@
   > Benchmarking tool for AWS EC2's Elastic Fabric Adapter(EFA) network fabric
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [peterlamar/python-cp-cheatsheet](https://github.com/peterlamar/python-cp-cheatsheet) to [crazyguitar/python-cp-cheatsheet](https://github.com/crazyguitar/python-cp-cheatsheet)
   > Python3 interview prep cheatsheet and examples
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer)
+  > Pure Rust + CUDA LLM inference engine
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) to [crazyguitar/pegainfer](https://github.com/crazyguitar/pegainfer)
+  > Pure Rust + CUDA LLM inference engine
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-02-19 15:43:55 UTC*
+*最后更新于 2026-02-19 16:47:47 UTC*
 *历史记录保存在 `archive` 目录中。*
