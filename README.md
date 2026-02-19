@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🍴 👤 [AeonLucid](https://github.com/AeonLucid) Forked [matthewransley/tls-client-sharp](https://github.com/matthewransley/tls-client-sharp) to [AeonLucid/tls-client-sharp](https://github.com/AeonLucid/tls-client-sharp)
+  > A sleek C# wrapper for spoofing TLS to mimic any chosen browser
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent)
   > An open-source alternative to happycapy, powered by cloud-based Claude Code to deliver a Manus-style...
@@ -41,10 +45,16 @@
   > Pure Rust + CUDA LLM inference engine
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [xiaguan/pegainfer](https://github.com/xiaguan/pegainfer) to [crazyguitar/pegainfer](https://github.com/crazyguitar/pegainfer)
   > Pure Rust + CUDA LLM inference engine
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/hoti-2025-gpu-comms-tutorial](https://github.com/NVIDIA/hoti-2025-gpu-comms-tutorial)
+  > Tutorial Exercises and Code for GPU Communications Tutorial at HOT Interconnects 2025
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/hoti-2025-gpu-comms-tutorial](https://github.com/NVIDIA/hoti-2025-gpu-comms-tutorial) to [crazyguitar/hoti-2025-gpu-comms-tutorial](https://github.com/crazyguitar/hoti-2025-gpu-comms-tutorial)
+  > Tutorial Exercises and Code for GPU Communications Tutorial at HOT Interconnects 2025
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/cuCascade](https://github.com/NVIDIA/cuCascade)
+  > GPU Memory Reservation Library
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
-  > (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
+  > (WIP) Runtime Mobile Application Pentest Tool for iOS and Android. Previously Passionfruit
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🍴 👤 [pwnipc](https://github.com/pwnipc) Forked [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) to [pwnipc/cctools-port](https://github.com/pwnipc/cctools-port)
@@ -56,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-02-19 17:47:07 UTC*
+*最后更新于 2026-02-19 18:45:47 UTC*
 *历史记录保存在 `archive` 目录中。*
