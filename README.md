@@ -16,6 +16,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [HiNinoJay/hexo-theme-A4](https://github.com/HiNinoJay/hexo-theme-A4)
   > A hexo theme that looks like an A4 paper.（一个类A4纸张质感的hexo博客主题。）
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [predefine/qemu-mtk](https://github.com/predefine/qemu-mtk) to [R0rt1z2/qemu-mt8135](https://github.com/R0rt1z2/qemu-mt8135)
+  > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
   > Master Claude Code Hooks
@@ -38,7 +42,15 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
   > (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
 
+### [pwnipc](https://github.com/pwnipc)
+- 🍴 👤 [pwnipc](https://github.com/pwnipc) Forked [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) to [pwnipc/cctools-port](https://github.com/pwnipc/cctools-port)
+  > Apple cctools port for Linux and *BSD
+- 🍴 👤 [pwnipc](https://github.com/pwnipc) Forked [NiklasRosenstein/pbzx](https://github.com/NiklasRosenstein/pbzx) to [pwnipc/pbzx](https://github.com/pwnipc/pbzx)
+  > Fork of the pbzx stream parser (www.tonymacx86.com/general-help/135458-pbzx-stream-parser.html)
+- 🍴 👤 [pwnipc](https://github.com/pwnipc) Forked [mackyle/xar](https://github.com/mackyle/xar) to [pwnipc/xar](https://github.com/pwnipc/xar)
+  > eXtensible ARchiver
+
 
 ---
-*最后更新于 2026-02-19 14:11:09 UTC*
+*最后更新于 2026-02-19 15:43:55 UTC*
 *历史记录保存在 `archive` 目录中。*
