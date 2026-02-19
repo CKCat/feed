@@ -8,7 +8,11 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
   > Master Claude Code Hooks
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [dwarakanandan/efa-libfabric-bench](https://github.com/dwarakanandan/efa-libfabric-bench)
+  > Benchmarking tool for AWS EC2's Elastic Fabric Adapter(EFA) network fabric
+
 
 ---
-*最后更新于 2026-02-19 04:19:17 UTC*
+*最后更新于 2026-02-19 05:56:46 UTC*
 *历史记录保存在 `archive` 目录中。*
