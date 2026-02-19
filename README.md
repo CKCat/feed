@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent)
+  > An open-source alternative to happycapy, powered by cloud-based Claude Code to deliver a Manus-style...
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [iamr0s/Ruto-GLM](https://github.com/iamr0s/Ruto-GLM)
   > 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -20,6 +24,10 @@
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
   > A tool for glamorous shell scripts 🎀
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [xddxdd/bird-lg-go](https://github.com/xddxdd/bird-lg-go)
+  > BIRD looking glass in Go, for better maintainability, easier deployment & smaller memory footprint
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [dwarakanandan/efa-libfabric-bench](https://github.com/dwarakanandan/efa-libfabric-bench)
   > Benchmarking tool for AWS EC2's Elastic Fabric Adapter(EFA) network fabric
@@ -32,5 +40,5 @@
 
 
 ---
-*最后更新于 2026-02-19 10:39:16 UTC*
+*最后更新于 2026-02-19 11:35:52 UTC*
 *历史记录保存在 `archive` 目录中。*
