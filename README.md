@@ -56,6 +56,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
   > (WIP) Runtime Mobile Application Pentest Tool for iOS and Android. Previously Passionfruit
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)
+  > Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🍴 👤 [pwnipc](https://github.com/pwnipc) Forked [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) to [pwnipc/cctools-port](https://github.com/pwnipc/cctools-port)
   > Apple cctools port for Linux and *BSD
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-02-19 18:45:47 UTC*
+*最后更新于 2026-02-19 19:36:41 UTC*
 *历史记录保存在 `archive` 目录中。*
