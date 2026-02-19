@@ -16,6 +16,10 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
   > Master Claude Code Hooks
 
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+  > A tool for glamorous shell scripts 🎀
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [dwarakanandan/efa-libfabric-bench](https://github.com/dwarakanandan/efa-libfabric-bench)
   > Benchmarking tool for AWS EC2's Elastic Fabric Adapter(EFA) network fabric
@@ -28,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-02-19 09:41:26 UTC*
+*最后更新于 2026-02-19 10:39:16 UTC*
 *历史记录保存在 `archive` 目录中。*
