@@ -16,7 +16,13 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [LordAfterEight/owos](https://github.com/LordAfterEight/owos)
   > OwOS - but in C
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
+  >  State-of-the-art TTS model under 25MB 😻 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)
+  > Fast, Sharp & Reliable Agentic Intelligence
+
 
 ---
-*最后更新于 2026-02-20 07:45:11 UTC*
+*最后更新于 2026-02-20 08:36:28 UTC*
 *历史记录保存在 `archive` 目录中。*
