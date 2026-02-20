@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)
+  > reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [kilomelo/3d_printed_paper_craft](https://github.com/kilomelo/3d_printed_paper_craft)
   > 把低多边形模型变成纸艺，但是3D打印！  访问下面的网站查看演示⬇  Turn low-poly models into paper crafts, but 3D print them!   Visi...
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-02-20 12:52:32 UTC*
+*最后更新于 2026-02-20 13:58:41 UTC*
 *历史记录保存在 `archive` 目录中。*
