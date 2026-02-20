@@ -8,6 +8,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [kilomelo/3d_printed_paper_craft](https://github.com/kilomelo/3d_printed_paper_craft)
   > 把低多边形模型变成纸艺，但是3D打印！  访问下面的网站查看演示⬇  Turn low-poly models into paper crafts, but 3D print them!   Visi...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [cpcloud/micasa](https://github.com/cpcloud/micasa)
+  > A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
   > Claude + Cursor plugins that make your LLM of choice great at UX / frontend design.
@@ -21,8 +25,9 @@
   >  State-of-the-art TTS model under 25MB 😻 
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)
   > Fast, Sharp & Reliable Agentic Intelligence
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bsergean/autoroute](https://github.com/bsergean/autoroute)
 
 
 ---
-*最后更新于 2026-02-20 08:36:28 UTC*
+*最后更新于 2026-02-20 09:37:08 UTC*
 *历史记录保存在 `archive` 目录中。*
