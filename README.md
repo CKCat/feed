@@ -12,6 +12,20 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [kilomelo/3d_printed_paper_craft](https://github.com/kilomelo/3d_printed_paper_craft)
   > 把低多边形模型变成纸艺，但是3D打印！  访问下面的网站查看演示⬇  Turn low-poly models into paper crafts, but 3D print them!   Visi...
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nhtlongcs/StarListify](https://github.com/nhtlongcs/StarListify)
+  >  StarListify is a Python package that classifies GitHub stars history into organized category lists ...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory)
+  > AI conversations that actually remember. Never re-explain your project to your AI again. Join our Di...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
+  > 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully funct...
+
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [Kitsuri-Studios/unpaircore](https://github.com/Kitsuri-Studios/unpaircore)
+  > an pairip fake lib made for research purposes
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [LiteLDev/LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
+  > A launcher designed for Minecraft Bedrock Edition on Android
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [cpcloud/micasa](https://github.com/cpcloud/micasa)
   > A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
@@ -19,6 +33,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
   > Claude + Cursor plugins that make your LLM of choice great at UX / frontend design.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
+  > Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [LordAfterEight/owos](https://github.com/LordAfterEight/owos)
@@ -26,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-02-20 14:45:55 UTC*
+*最后更新于 2026-02-20 15:34:29 UTC*
 *历史记录保存在 `archive` 目录中。*
