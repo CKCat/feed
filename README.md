@@ -33,6 +33,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [cpcloud/micasa](https://github.com/cpcloud/micasa)
   > A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+  > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
@@ -46,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-02-20 17:34:54 UTC*
+*最后更新于 2026-02-20 18:41:05 UTC*
 *历史记录保存在 `archive` 目录中。*
