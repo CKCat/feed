@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [zet235/black-hat-cpp](https://github.com/zet235/black-hat-cpp)
+  > C++ Programming for Hackers
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
   > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
@@ -25,6 +29,8 @@
   > 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
   > A security-focused library OS supporting kernel- and user-mode execution
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
@@ -42,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-02-21 12:39:53 UTC*
+*最后更新于 2026-02-21 13:39:30 UTC*
 *历史记录保存在 `archive` 目录中。*
