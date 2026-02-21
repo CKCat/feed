@@ -31,6 +31,8 @@
   > A security-focused library OS supporting kernel- and user-mode execution
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [anotherhadi/nixy](https://github.com/anotherhadi/nixy)
+  > Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It pro...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
@@ -48,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-02-21 14:23:28 UTC*
+*最后更新于 2026-02-21 15:21:40 UTC*
 *历史记录保存在 `archive` 目录中。*
