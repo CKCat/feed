@@ -23,6 +23,8 @@
   > 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)
   > 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
+  > A security-focused library OS supporting kernel- and user-mode execution
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
@@ -34,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-02-21 07:29:35 UTC*
+*最后更新于 2026-02-21 08:26:39 UTC*
 *历史记录保存在 `archive` 目录中。*
