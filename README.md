@@ -56,8 +56,10 @@
   > Package and sign iOS applications
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-messenger](https://github.com/nicobailon/pi-messenger)
   > Multi-agent communication extension for pi coding agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/sparse](https://github.com/cristeigabriela/sparse)
+  > Parse Microsoft' Windows SDK API documentation (MSDN) fast, and locally! Export to stable JSON forma...
 
 
 ---
-*最后更新于 2026-02-21 19:21:30 UTC*
+*最后更新于 2026-02-21 20:20:50 UTC*
 *历史记录保存在 `archive` 目录中。*
