@@ -16,6 +16,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
   > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [EthanArbuckle/unredact-private-os_logs](https://github.com/EthanArbuckle/unredact-private-os_logs)
+  > An explanation on unredacting iOS's <private> os_log privacy mechanism
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [robcholz/Lumen](https://github.com/robcholz/Lumen)
   > A desktop-grade hardware interaction node that connects systems, games, and the physical world.
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-02-21 21:20:07 UTC*
+*最后更新于 2026-02-21 22:19:48 UTC*
 *历史记录保存在 `archive` 目录中。*
