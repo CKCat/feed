@@ -29,6 +29,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
   > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay)
+  > Pure and reproducible nix overlay of binary distributed rust toolchains
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -36,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-02-21 08:26:39 UTC*
+*最后更新于 2026-02-21 09:26:19 UTC*
 *历史记录保存在 `archive` 目录中。*
