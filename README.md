@@ -35,8 +35,12 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
   > Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [addrianyy/ios_packager](https://github.com/addrianyy/ios_packager)
+  > Package and sign iOS applications
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-messenger](https://github.com/nicobailon/pi-messenger)
+  > Multi-agent communication extension for pi coding agent
 
 
 ---
-*最后更新于 2026-02-21 10:21:55 UTC*
+*最后更新于 2026-02-21 11:19:19 UTC*
 *历史记录保存在 `archive` 目录中。*
