@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Yours3lf/rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver)
+  > VK driver for the Raspberry Pi (Broadcom Videocore IV)
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [zet235/black-hat-cpp](https://github.com/zet235/black-hat-cpp)
   > C++ Programming for Hackers
@@ -39,6 +43,11 @@
   > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay)
   > Pure and reproducible nix overlay of binary distributed rust toolchains
+- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) to [divyam234/revanced-patches](https://github.com/divyam234/revanced-patches)
+  > 🧩 Patches for ReVanced
+
+### [gerhart01](https://github.com/gerhart01)
+- 🍴 👤 [gerhart01](https://github.com/gerhart01) Forked [MagnetForensics/Bin2Dmp](https://github.com/MagnetForensics/Bin2Dmp) to [gerhart01/Bin2Dmp](https://github.com/gerhart01/Bin2Dmp)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -50,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-02-21 15:21:40 UTC*
+*最后更新于 2026-02-21 16:24:51 UTC*
 *历史记录保存在 `archive` 目录中。*
