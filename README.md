@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
+  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [robcholz/Lumen](https://github.com/robcholz/Lumen)
   > A desktop-grade hardware interaction node that connects systems, games, and the physical world.
@@ -20,7 +24,11 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)
   > 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
+  > Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
+
 
 ---
-*最后更新于 2026-02-21 01:46:34 UTC*
+*最后更新于 2026-02-21 04:03:48 UTC*
 *历史记录保存在 `archive` 目录中。*
