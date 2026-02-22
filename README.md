@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [Sable/axml](https://github.com/Sable/axml) to [LSPosed/axml](https://github.com/LSPosed/axml)
+  > The axml components for reading binary Android XML files in Soot
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+  > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service)
   > 直播歌曲歌词显示组件。检测各类音乐软件正在播放的歌曲信息以及进度条信息，提供查询 API 接口。适用于 OBS、直播姬等各类直播软件。
@@ -40,7 +48,11 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google/bloaty](https://github.com/google/bloaty)
   > Bloaty: a size profiler for binaries
 
+### [lc-soft](https://github.com/lc-soft)
+- 🌟 👤 [lc-soft](https://github.com/lc-soft) Starred [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio)
+  > AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and so...
+
 
 ---
-*最后更新于 2026-02-22 10:21:06 UTC*
+*最后更新于 2026-02-22 11:18:23 UTC*
 *历史记录保存在 `archive` 目录中。*
