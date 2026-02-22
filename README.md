@@ -26,6 +26,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraExtensionManager](https://github.com/antoniovazquezblanco/GhidraExtensionManager)
   > Manage your Ghidra extensions within Ghidra
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
+  > Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave)
   > Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code ...
@@ -64,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-02-22 12:41:51 UTC*
+*最后更新于 2026-02-22 13:40:52 UTC*
 *历史记录保存在 `archive` 目录中。*
