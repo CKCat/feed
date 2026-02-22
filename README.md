@@ -33,6 +33,8 @@
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [rileytestut/Delta](https://github.com/rileytestut/Delta)
   > Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
+- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [dream1986/nesrom](https://github.com/dream1986/nesrom)
+  > nes游戏合集
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google/bloaty](https://github.com/google/bloaty)
@@ -40,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-02-22 09:27:21 UTC*
+*最后更新于 2026-02-22 10:21:06 UTC*
 *历史记录保存在 `archive` 目录中。*
