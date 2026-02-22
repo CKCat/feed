@@ -27,6 +27,8 @@
   > Recreate the online editing experience of typst.app based on tinymist and typst.ts
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [ripose-jp/Memento](https://github.com/ripose-jp/Memento)
   > An mpv-based video player for studying Japanese
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr)
+  >  Native speech-to-text for Linux - Fast, accurate and private system-wide dictation
 
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [rileytestut/Delta](https://github.com/rileytestut/Delta)
@@ -34,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-02-22 06:42:27 UTC*
+*最后更新于 2026-02-22 07:33:31 UTC*
 *历史记录保存在 `archive` 目录中。*
