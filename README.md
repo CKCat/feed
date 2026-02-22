@@ -4,6 +4,16 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service)
+  > 直播歌曲歌词显示组件。检测各类音乐软件正在播放的歌曲信息以及进度条信息，提供查询 API 接口。适用于 OBS、直播姬等各类直播软件。
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [choojs/choo](https://github.com/choojs/choo)
+  > :steam_locomotive::train: - sturdy 4kb frontend framework
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [zdhxiong/mdui](https://github.com/zdhxiong/mdui)
+  > Material Design 3(Material You) UI components using Web Components.
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [hexojs/hexo-renderer-less](https://github.com/hexojs/hexo-renderer-less) to [Mufanc/hexo-renderer-less](https://github.com/Mufanc/hexo-renderer-less)
+  > Less renderer for Hexo.
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave)
   > Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code ...
@@ -16,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-02-22 01:54:31 UTC*
+*最后更新于 2026-02-22 04:14:15 UTC*
 *历史记录保存在 `archive` 目录中。*
