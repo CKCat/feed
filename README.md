@@ -85,8 +85,10 @@
   > tdd skill for coding agents 
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1rgs/nanocode](https://github.com/1rgs/nanocode)
   > Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [redthing1/gdbstub_cpp](https://github.com/redthing1/gdbstub_cpp)
+  > modern gdbstub/rsp server library
 
 
 ---
-*最后更新于 2026-02-22 21:20:44 UTC*
+*最后更新于 2026-02-22 22:20:17 UTC*
 *历史记录保存在 `archive` 目录中。*
