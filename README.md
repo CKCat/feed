@@ -11,6 +11,8 @@
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
   > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+  > Use OCR in Windows quickly and easily with Text Grab. With optional background process and notificat...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service)
@@ -21,6 +23,10 @@
   > Material Design 3(Material You) UI components using Web Components.
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [hexojs/hexo-renderer-less](https://github.com/hexojs/hexo-renderer-less) to [Mufanc/hexo-renderer-less](https://github.com/Mufanc/hexo-renderer-less)
   > Less renderer for Hexo.
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [cellebrite-labs/sandblaster](https://github.com/cellebrite-labs/sandblaster)
+  > Reversing the Apple sandbox
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraExtensionManager](https://github.com/antoniovazquezblanco/GhidraExtensionManager)
@@ -67,8 +73,10 @@
   > A TOML toolkit written in Rust
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mfranzon/tdd](https://github.com/mfranzon/tdd)
   > tdd skill for coding agents 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1rgs/nanocode](https://github.com/1rgs/nanocode)
+  > Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
 
 ---
-*最后更新于 2026-02-22 15:21:04 UTC*
+*最后更新于 2026-02-22 16:25:19 UTC*
 *历史记录保存在 `archive` 目录中。*
