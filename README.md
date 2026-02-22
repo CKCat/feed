@@ -62,6 +62,12 @@
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [dream1986/nesrom](https://github.com/dream1986/nesrom)
   > nes游戏合集
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [xaskasdf/ntransformer](https://github.com/xaskasdf/ntransformer)
+  > High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [xaskasdf/ntransformer](https://github.com/xaskasdf/ntransformer) to [crazyguitar/ntransformer](https://github.com/crazyguitar/ntransformer)
+  > High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google/bloaty](https://github.com/google/bloaty)
   > Bloaty: a size profiler for binaries
@@ -82,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-02-22 19:21:55 UTC*
+*最后更新于 2026-02-22 20:22:10 UTC*
 *历史记录保存在 `archive` 目录中。*
