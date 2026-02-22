@@ -28,6 +28,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [cellebrite-labs/sandblaster](https://github.com/cellebrite-labs/sandblaster)
   > Reversing the Apple sandbox
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [booklore-app/booklore](https://github.com/booklore-app/booklore)
+  > BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KORead...
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraExtensionManager](https://github.com/antoniovazquezblanco/GhidraExtensionManager)
   > Manage your Ghidra extensions within Ghidra
@@ -78,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-02-22 16:25:19 UTC*
+*最后更新于 2026-02-22 17:22:26 UTC*
 *历史记录保存在 `archive` 目录中。*
