@@ -22,6 +22,10 @@
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [hexojs/hexo-renderer-less](https://github.com/hexojs/hexo-renderer-less) to [Mufanc/hexo-renderer-less](https://github.com/Mufanc/hexo-renderer-less)
   > Less renderer for Hexo.
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraExtensionManager](https://github.com/antoniovazquezblanco/GhidraExtensionManager)
+  > Manage your Ghidra extensions within Ghidra
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave)
   > Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code ...
@@ -52,7 +56,13 @@
 - 🌟 👤 [lc-soft](https://github.com/lc-soft) Starred [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio)
   > AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and so...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tombi-toml/tombi](https://github.com/tombi-toml/tombi)
+  > TOML Formatter / Linter / Language Server
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [tamasfe/taplo](https://github.com/tamasfe/taplo) to [mrexodia/taplo](https://github.com/mrexodia/taplo)
+  > A TOML toolkit written in Rust
+
 
 ---
-*最后更新于 2026-02-22 11:18:23 UTC*
+*最后更新于 2026-02-22 12:41:51 UTC*
 *历史记录保存在 `archive` 目录中。*
