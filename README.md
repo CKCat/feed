@@ -23,8 +23,16 @@
   > Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
   > Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [ParaN3xus/tyraria](https://github.com/ParaN3xus/tyraria)
+  > Recreate the online editing experience of typst.app based on tinymist and typst.ts
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [ripose-jp/Memento](https://github.com/ripose-jp/Memento)
+  > An mpv-based video player for studying Japanese
+
+### [caikelun](https://github.com/caikelun)
+- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [rileytestut/Delta](https://github.com/rileytestut/Delta)
+  > Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 
 
 ---
-*最后更新于 2026-02-22 05:49:03 UTC*
+*最后更新于 2026-02-22 06:42:27 UTC*
 *历史记录保存在 `archive` 目录中。*
