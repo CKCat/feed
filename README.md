@@ -16,6 +16,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp)
   > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+  > The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend)
   > The Triton TensorRT-LLM Backend
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-02-23 16:53:11 UTC*
+*最后更新于 2026-02-23 17:58:47 UTC*
 *历史记录保存在 `archive` 目录中。*
