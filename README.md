@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [yxsra/ebpf-open](https://github.com/yxsra/ebpf-open)
+  > 基于 eBPF 的 Android 文件访问监控与拦截工具
+
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [langgenius/dify](https://github.com/langgenius/dify)
   > Production-ready platform for agentic workflow development.
@@ -12,19 +16,21 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp)
   > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
 
-### [bet4it](https://github.com/bet4it)
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-  > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
-  > An interactive and powerful Git interface for Neovim, inspired by Magit
-
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend)
   > The Triton TensorRT-LLM Backend
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yanring/Megatron-MoE-ModelZoo](https://github.com/yanring/Megatron-MoE-ModelZoo)
+  > Best practices for training DeepSeek, Mixtral, Qwen and other MoE models using Megatron Core.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [yanring/Megatron-MoE-ModelZoo](https://github.com/yanring/Megatron-MoE-ModelZoo) to [crazyguitar/Megatron-MoE-ModelZoo](https://github.com/crazyguitar/Megatron-MoE-ModelZoo)
+  > Best practices for training DeepSeek, Mixtral, Qwen and other MoE models using Megatron Core.
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [caelestia-dots/shell](https://github.com/caelestia-dots/shell)
   > ‼️ No waybar here ‼️
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [yxsra/ebpf-open](https://github.com/yxsra/ebpf-open)
+  > 基于 eBPF 的 Android 文件访问监控与拦截工具
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [redthing1/gdbstub_cpp](https://github.com/redthing1/gdbstub_cpp)
@@ -49,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-02-23 15:41:48 UTC*
+*最后更新于 2026-02-23 16:53:11 UTC*
 *历史记录保存在 `archive` 目录中。*
