@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp)
+  > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
   > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
@@ -14,11 +18,15 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend)
   > The Triton TensorRT-LLM Backend
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [caelestia-dots/shell](https://github.com/caelestia-dots/shell)
+  > ‼️ No waybar here ‼️
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaobai01111/SSMT4-Linux](https://github.com/xiaobai01111/SSMT4-Linux)
   > 游戏启动器和管理器
 
 
 ---
-*最后更新于 2026-02-23 01:55:24 UTC*
+*最后更新于 2026-02-23 04:22:55 UTC*
 *历史记录保存在 `archive` 目录中。*
