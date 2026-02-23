@@ -32,6 +32,8 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [williballenthin/pizza](https://github.com/williballenthin/pizza)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [agentrebench/AgentRE-Bench](https://github.com/agentrebench/AgentRE-Bench)
+  > AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse...
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaobai01111/SSMT4-Linux](https://github.com/xiaobai01111/SSMT4-Linux)
@@ -39,5 +41,5 @@
 
 
 ---
-*最后更新于 2026-02-23 10:46:42 UTC*
+*最后更新于 2026-02-23 11:37:25 UTC*
 *历史记录保存在 `archive` 目录中。*
