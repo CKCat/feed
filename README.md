@@ -22,11 +22,15 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [caelestia-dots/shell](https://github.com/caelestia-dots/shell)
   > ‼️ No waybar here ‼️
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [redthing1/gdbstub_cpp](https://github.com/redthing1/gdbstub_cpp)
+  > modern gdbstub/rsp server library
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaobai01111/SSMT4-Linux](https://github.com/xiaobai01111/SSMT4-Linux)
   > 游戏启动器和管理器
 
 
 ---
-*最后更新于 2026-02-23 06:03:06 UTC*
+*最后更新于 2026-02-23 07:52:14 UTC*
 *历史记录保存在 `archive` 目录中。*
