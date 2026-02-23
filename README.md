@@ -39,7 +39,15 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaobai01111/SSMT4-Linux](https://github.com/xiaobai01111/SSMT4-Linux)
   > 游戏启动器和管理器
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [ebiggers/libdeflate](https://github.com/ebiggers/libdeflate)
+  > Heavily optimized library for DEFLATE/zlib/gzip compression and decompression
+
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+  > Truly independent web browser
+
 
 ---
-*最后更新于 2026-02-23 14:08:38 UTC*
+*最后更新于 2026-02-23 15:41:48 UTC*
 *历史记录保存在 `archive` 目录中。*
