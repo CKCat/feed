@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [langgenius/dify](https://github.com/langgenius/dify)
+  > Production-ready platform for agentic workflow development.
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp)
   > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-02-23 07:52:14 UTC*
+*最后更新于 2026-02-23 08:44:27 UTC*
 *历史记录保存在 `archive` 目录中。*
