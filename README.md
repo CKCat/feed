@@ -30,11 +30,14 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [redthing1/gdbstub_cpp](https://github.com/redthing1/gdbstub_cpp)
   > modern gdbstub/rsp server library
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [williballenthin/pizza](https://github.com/williballenthin/pizza)
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaobai01111/SSMT4-Linux](https://github.com/xiaobai01111/SSMT4-Linux)
   > 游戏启动器和管理器
 
 
 ---
-*最后更新于 2026-02-23 09:51:21 UTC*
+*最后更新于 2026-02-23 10:46:42 UTC*
 *历史记录保存在 `archive` 目录中。*
