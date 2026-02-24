@@ -34,6 +34,10 @@
   > Pixel office.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) to [crazyguitar/pixel-agents](https://github.com/crazyguitar/pixel-agents)
   > Pixel office.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [karimknaebel/turm](https://github.com/karimknaebel/turm)
+  > TUI for the Slurm Workload Manager
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [karimknaebel/turm](https://github.com/karimknaebel/turm) to [crazyguitar/turm](https://github.com/crazyguitar/turm)
+  > TUI for the Slurm Workload Manager
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)
@@ -101,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-02-24 15:53:25 UTC*
+*最后更新于 2026-02-24 17:02:42 UTC*
 *历史记录保存在 `archive` 目录中。*
