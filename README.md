@@ -53,6 +53,12 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [AnPod/Switch-Omo-Config](https://github.com/AnPod/Switch-Omo-Config)
   > Interactive CLI tool to switch between oh-my-opencode configuration profiles
 
+### [gerhart01](https://github.com/gerhart01)
+- 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64)
+  > Windows Object Explorer 64-bit
+- 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [activescott/lessmsi](https://github.com/activescott/lessmsi)
+  > A tool to view and extract the contents of an Windows Installer (.msi) file.
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
   > A V2Ray client for Android, support Xray core and v2fly core
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-02-24 10:44:03 UTC*
+*最后更新于 2026-02-24 11:37:59 UTC*
 *历史记录保存在 `archive` 目录中。*
