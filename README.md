@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [gitranks/gitranks-ui](https://github.com/gitranks/gitranks-ui) to [0xdea/gitranks-ui](https://github.com/0xdea/gitranks-ui)
+  > Github profile ranks and analytics
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [droidrun/droidrun](https://github.com/droidrun/droidrun)
   > Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
@@ -41,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-02-24 05:56:24 UTC*
+*最后更新于 2026-02-24 07:00:24 UTC*
 *历史记录保存在 `archive` 目录中。*
