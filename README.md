@@ -11,6 +11,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [gitranks/gitranks-ui](https://github.com/gitranks/gitranks-ui) to [0xdea/gitranks-ui](https://github.com/0xdea/gitranks-ui)
   > Github profile ranks and analytics
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [hackerschoice/team-teso](https://github.com/hackerschoice/team-teso) to [0xdea/team-teso](https://github.com/0xdea/team-teso)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/team-teso](https://github.com/hackerschoice/team-teso)
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [droidrun/droidrun](https://github.com/droidrun/droidrun)
@@ -99,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-02-24 14:13:09 UTC*
+*最后更新于 2026-02-24 15:53:25 UTC*
 *历史记录保存在 `archive` 目录中。*
