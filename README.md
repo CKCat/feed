@@ -16,6 +16,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [droidrun/droidrun](https://github.com/droidrun/droidrun)
   > Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [19h/dazhbog](https://github.com/19h/dazhbog)
+  > High-performance IDA Lumina implementation
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [arcprize/ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2)
 
@@ -56,6 +60,8 @@
   > Add ultrawork to any prompt for maximum parallel execution
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
   > Teams-first Multi-agent orchestration for Claude Code
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [zyronon/TypeWords](https://github.com/zyronon/TypeWords)
+  > Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
 
 ### [gerhart01](https://github.com/gerhart01)
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64)
@@ -70,6 +76,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
   > AI-powered reverse-engineering of Rosetta (2 for Linux). Disclaimer: due to the user agreement, I wi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenVPN/openvpn3-indicator](https://github.com/OpenVPN/openvpn3-indicator)
+  > Simple GTK indicator GUI for OpenVPN 3 Linux
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [ResearAI/AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
@@ -91,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-02-24 12:58:47 UTC*
+*最后更新于 2026-02-24 14:13:09 UTC*
 *历史记录保存在 `archive` 目录中。*
