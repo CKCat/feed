@@ -79,6 +79,10 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
   > A V2Ray client for Android, support Xray core and v2fly core
 
+### [lzpong](https://github.com/lzpong)
+- 🌟 👤 [lzpong](https://github.com/lzpong) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
   > AI-powered reverse-engineering of Rosetta (2 for Linux). Disclaimer: due to the user agreement, I wi...
@@ -100,10 +104,14 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [biomejs/biome](https://github.com/biomejs/biome)
   > A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers format...
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [ndl-lab/ndlocr-lite](https://github.com/ndl-lab/ndlocr-lite)
+  > NDLOCR‑Lite application repository (including source code)
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb)
 
 
 ---
-*最后更新于 2026-02-24 17:02:42 UTC*
+*最后更新于 2026-02-24 18:57:15 UTC*
 *历史记录保存在 `archive` 目录中。*
