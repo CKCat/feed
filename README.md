@@ -39,6 +39,9 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [karimknaebel/turm](https://github.com/karimknaebel/turm) to [crazyguitar/turm](https://github.com/crazyguitar/turm)
   > TUI for the Slurm Workload Manager
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [drpaneas/pigo8](https://github.com/drpaneas/pigo8)
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)
   > Run a 1-billion parameter LLM on a $10 board with 256MB RAM
@@ -115,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-02-24 22:29:52 UTC*
+*最后更新于 2026-02-24 23:28:09 UTC*
 *历史记录保存在 `archive` 目录中。*
