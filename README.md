@@ -55,7 +55,10 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
-  > AI-powered reverse-engineering of Rosetta (2 for Linux)
+  > AI-powered reverse-engineering of Rosetta (2 for Linux). Disclaimer: due to the user agreement, I wi...
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [ResearAI/AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [ri-char/pwatch](https://github.com/ri-char/pwatch)
@@ -65,7 +68,14 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Multi-agent coordination platform — parses intent to structured Spec, routes via MCP/ACP/A2A protoco...
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [biomejs/biome](https://github.com/biomejs/biome)
+  > A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers format...
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb)
+
 
 ---
-*最后更新于 2026-02-24 08:42:07 UTC*
+*最后更新于 2026-02-24 09:49:14 UTC*
 *历史记录保存在 `archive` 目录中。*
