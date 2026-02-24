@@ -19,6 +19,10 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [arcprize/ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2)
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [slow-groovin/mitmproxy-llm-better-view](https://github.com/slow-groovin/mitmproxy-llm-better-view)
+  > LLM API Request/Response Visualization in mitmweb
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)
   > Pixel office.
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-02-24 09:49:14 UTC*
+*最后更新于 2026-02-24 10:44:03 UTC*
 *历史记录保存在 `archive` 目录中。*
