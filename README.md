@@ -52,6 +52,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [AnPod/Switch-Omo-Config](https://github.com/AnPod/Switch-Omo-Config)
   > Interactive CLI tool to switch between oh-my-opencode configuration profiles
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+  > Add ultrawork to any prompt for maximum parallel execution
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+  > Teams-first Multi-agent orchestration for Claude Code
 
 ### [gerhart01](https://github.com/gerhart01)
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64)
@@ -87,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-02-24 11:37:59 UTC*
+*最后更新于 2026-02-24 12:58:47 UTC*
 *历史记录保存在 `archive` 目录中。*
