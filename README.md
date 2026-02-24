@@ -88,6 +88,8 @@
   > AI-powered reverse-engineering of Rosetta (2 for Linux). Disclaimer: due to the user agreement, I wi...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenVPN/openvpn3-indicator](https://github.com/OpenVPN/openvpn3-indicator)
   > Simple GTK indicator GUI for OpenVPN 3 Linux
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daaximus/windows-feature-ids](https://github.com/daaximus/windows-feature-ids)
+  > Windows Feature IDs for review, diffing, etc., across multiple versions of Windows. Will be continuo...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [ResearAI/AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
@@ -113,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-02-24 20:30:51 UTC*
+*最后更新于 2026-02-24 21:31:00 UTC*
 *历史记录保存在 `archive` 目录中。*
