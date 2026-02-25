@@ -19,6 +19,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
   > More Expressive InstallerX !
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yxsra/ebpf-open](https://github.com/yxsra/ebpf-open)
+  > 基于 eBPF 的 Android 文件访问监控与拦截工具
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt)
@@ -97,9 +99,8 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rushiranpise/Hide-Debugging](https://github.com/rushiranpise/Hide-Debugging)
   > Hide Debugging status
 
-### [stong](https://github.com/stong)
-- 🌟 👤 [stong](https://github.com/stong) Starred [giewev/balatrobot](https://github.com/giewev/balatrobot)
-  > A fork of the original balatrobot dedicated to expanded functionality and AI training
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)
@@ -117,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-02-25 17:14:06 UTC*
+*最后更新于 2026-02-25 19:01:47 UTC*
 *历史记录保存在 `archive` 目录中。*
