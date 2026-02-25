@@ -21,6 +21,8 @@
   > More Expressive InstallerX !
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yxsra/ebpf-open](https://github.com/yxsra/ebpf-open)
   > 基于 eBPF 的 Android 文件访问监控与拦截工具
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)
+  > A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary process...
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt)
@@ -118,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-02-25 19:01:47 UTC*
+*最后更新于 2026-02-25 20:32:09 UTC*
 *历史记录保存在 `archive` 目录中。*
