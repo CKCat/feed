@@ -36,6 +36,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [facebookresearch/gcm](https://github.com/facebookresearch/gcm) to [crazyguitar/gcm](https://github.com/crazyguitar/gcm)
   > GPU Cluster Monitoring (GCM): Large-Scale AI Research Cluster Monitoring
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)
+  > A collection of formalized statements of conjectures in Lean.
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [steipete/agent-rules](https://github.com/steipete/agent-rules)
   > Rules and Knowledge to work better with agents such as Claude Code or Cursor
@@ -68,6 +72,8 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
   > 一款提示词优化器，助力于编写高质量的提示词
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [includewudi/oh-my-opencode-config](https://github.com/includewudi/oh-my-opencode-config)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills)
+  > @intellectronica's agent skills
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
@@ -91,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-02-25 12:57:44 UTC*
+*最后更新于 2026-02-25 14:11:02 UTC*
 *历史记录保存在 `archive` 目录中。*
