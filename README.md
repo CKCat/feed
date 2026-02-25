@@ -16,9 +16,15 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman](https://github.com/d-kfmnn/talisman)
   > Trusted Algebraic LInearization of Sub-Circuits with Matrix-based Algorithms using Normalforms
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt)
+  > The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nor...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
   > An eBPF-powered debugger server for linux and android.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+  > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [bgp/stayrtr](https://github.com/bgp/stayrtr)
@@ -33,6 +39,8 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [steipete/agent-rules](https://github.com/steipete/agent-rules)
   > Rules and Knowledge to work better with agents such as Claude Code or Cursor
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy)
@@ -74,11 +82,14 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rushiranpise/Hide-Debugging](https://github.com/rushiranpise/Hide-Debugging)
   > Hide Debugging status
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [kaitranntt/ccs](https://github.com/kaitranntt/ccs)
   > Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth prox...
 
 
 ---
-*最后更新于 2026-02-25 11:37:52 UTC*
+*最后更新于 2026-02-25 12:57:44 UTC*
 *历史记录保存在 `archive` 目录中。*
