@@ -92,6 +92,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
   > Comparison between open source PI agent and closed source Claude Code agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Danukeru/KLINIKAL](https://github.com/Danukeru/KLINIKAL)
+  > Proxy DLL for winsock2, backed with an embedded go-wireguard instance. No tunnel driver required.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)
@@ -120,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-02-25 20:32:09 UTC*
+*最后更新于 2026-02-25 21:31:49 UTC*
 *历史记录保存在 `archive` 目录中。*
