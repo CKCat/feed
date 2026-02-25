@@ -59,6 +59,7 @@
   > An agentic skills framework & software development methodology that works.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
   > 一款提示词优化器，助力于编写高质量的提示词
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [includewudi/oh-my-opencode-config](https://github.com/includewudi/oh-my-opencode-config)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
@@ -79,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-02-25 09:51:30 UTC*
+*最后更新于 2026-02-25 10:47:36 UTC*
 *历史记录保存在 `archive` 目录中。*
