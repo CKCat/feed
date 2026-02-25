@@ -20,6 +20,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
   > An eBPF-powered debugger server for linux and android.
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [bgp/stayrtr](https://github.com/bgp/stayrtr)
+  > RPKI-To-Router server implementation in Go
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [facebookresearch/gcm](https://github.com/facebookresearch/gcm)
   > GPU Cluster Monitoring (GCM): Large-Scale AI Research Cluster Monitoring
@@ -60,7 +64,15 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
   > Comparison between open source PI agent and closed source Claude Code agent
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)
+  > Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude model...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rushiranpise/Hide-Debugging](https://github.com/rushiranpise/Hide-Debugging)
+  > Hide Debugging status
+
 
 ---
-*最后更新于 2026-02-25 07:07:43 UTC*
+*最后更新于 2026-02-25 08:43:01 UTC*
 *历史记录保存在 `archive` 目录中。*
