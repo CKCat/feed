@@ -63,6 +63,7 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
   > Comparison between open source PI agent and closed source Claude Code agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)
@@ -72,7 +73,11 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rushiranpise/Hide-Debugging](https://github.com/rushiranpise/Hide-Debugging)
   > Hide Debugging status
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [kaitranntt/ccs](https://github.com/kaitranntt/ccs)
+  > Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth prox...
+
 
 ---
-*最后更新于 2026-02-25 08:43:01 UTC*
+*最后更新于 2026-02-25 09:51:30 UTC*
 *历史记录保存在 `archive` 目录中。*
