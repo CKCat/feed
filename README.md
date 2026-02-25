@@ -102,6 +102,8 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rushiranpise/Hide-Debugging](https://github.com/rushiranpise/Hide-Debugging)
   > Hide Debugging status
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [wh1te4ever/super-tart-vphone](https://github.com/wh1te4ever/super-tart-vphone)
+  > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), SEP debugging ...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
@@ -122,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-02-25 21:31:49 UTC*
+*最后更新于 2026-02-25 22:29:25 UTC*
 *历史记录保存在 `archive` 目录中。*
