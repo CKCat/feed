@@ -14,6 +14,16 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman](https://github.com/d-kfmnn/talisman)
   > Trusted Algebraic LInearization of Sub-Circuits with Matrix-based Algorithms using Normalforms
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [facebookresearch/gcm](https://github.com/facebookresearch/gcm)
+  > GPU Cluster Monitoring (GCM): Large-Scale AI Research Cluster Monitoring
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [facebookresearch/gcm](https://github.com/facebookresearch/gcm) to [crazyguitar/gcm](https://github.com/crazyguitar/gcm)
+  > GPU Cluster Monitoring (GCM): Large-Scale AI Research Cluster Monitoring
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [steipete/agent-rules](https://github.com/steipete/agent-rules)
+  > Rules and Knowledge to work better with agents such as Claude Code or Cursor
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy)
   > Claude Code to OpenAI API Proxy
@@ -38,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-02-25 04:18:33 UTC*
+*最后更新于 2026-02-25 05:58:00 UTC*
 *历史记录保存在 `archive` 目录中。*
