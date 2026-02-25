@@ -9,10 +9,16 @@
   > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+  > A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to W...
 
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman](https://github.com/d-kfmnn/talisman)
   > Trusted Algebraic LInearization of Sub-Circuits with Matrix-based Algorithms using Normalforms
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
+  > An eBPF-powered debugger server for linux and android.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [facebookresearch/gcm](https://github.com/facebookresearch/gcm)
@@ -41,6 +47,14 @@
   > Run Claude Code on OpenAI models
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
   > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config)
+  > Personal OpenCode configuration - commands, tools, agents, knowledge
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ziho7/opencode-config](https://github.com/ziho7/opencode-config)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [aikazu/kcmon-opencode-config](https://github.com/aikazu/kcmon-opencode-config)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+  > 一款提示词优化器，助力于编写高质量的提示词
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
@@ -48,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-02-25 05:58:00 UTC*
+*最后更新于 2026-02-25 07:07:43 UTC*
 *历史记录保存在 `archive` 目录中。*
