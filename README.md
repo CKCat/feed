@@ -43,6 +43,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)
   > A collection of formalized statements of conjectures in Lean.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+  > the best agent harness
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [steipete/agent-rules](https://github.com/steipete/agent-rules)
@@ -115,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-02-25 15:59:23 UTC*
+*最后更新于 2026-02-25 17:14:06 UTC*
 *历史记录保存在 `archive` 目录中。*
