@@ -16,6 +16,10 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman](https://github.com/d-kfmnn/talisman)
   > Trusted Algebraic LInearization of Sub-Circuits with Matrix-based Algorithms using Normalforms
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
+  > More Expressive InstallerX !
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt)
   > The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nor...
@@ -75,6 +79,9 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills)
   > @intellectronica's agent skills
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
   > Comparison between open source PI agent and closed source Claude Code agent
@@ -88,6 +95,10 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rushiranpise/Hide-Debugging](https://github.com/rushiranpise/Hide-Debugging)
   > Hide Debugging status
 
+### [stong](https://github.com/stong)
+- 🌟 👤 [stong](https://github.com/stong) Starred [giewev/balatrobot](https://github.com/giewev/balatrobot)
+  > A fork of the original balatrobot dedicated to expanded functionality and AI training
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)
 
@@ -95,7 +106,14 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [kaitranntt/ccs](https://github.com/kaitranntt/ccs)
   > Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth prox...
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ayyucedemirbas/Windows-Research-Kernel-WRK-](https://github.com/ayyucedemirbas/Windows-Research-Kernel-WRK-)
+  > Windows Research Kernel Source Code
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Vector35/scc](https://github.com/Vector35/scc)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [EvanMcBroom/lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer)
+  > Tools for interacting with authentication packages using their individual message protocols
+
 
 ---
-*最后更新于 2026-02-25 14:11:02 UTC*
+*最后更新于 2026-02-25 15:59:23 UTC*
 *历史记录保存在 `archive` 目录中。*
