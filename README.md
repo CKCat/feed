@@ -54,6 +54,15 @@
 ### [lzpong](https://github.com/lzpong)
 - 🌟 👤 [lzpong](https://github.com/lzpong) Starred [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer)
   > Lightweight image viewer for Windows with animated GIF/WEBP support
+- 🍴 👤 [lzpong](https://github.com/lzpong) Forked [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer) to [lzpong/voidImageViewer](https://github.com/lzpong/voidImageViewer)
+  > Lightweight image viewer for Windows with animated GIF/WEBP support
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [matburt/meeting-notes-handler](https://github.com/matburt/meeting-notes-handler)
+  > A Python CLI tool for automatically fetching and organizing Google Meet meeting notes from Google Ca...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wh1te4ever/super-tart-vphone](https://github.com/wh1te4ever/super-tart-vphone)
+  > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), SEP debugging ...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)
@@ -82,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-02-26 15:51:03 UTC*
+*最后更新于 2026-02-26 16:54:39 UTC*
 *历史记录保存在 `archive` 目录中。*
