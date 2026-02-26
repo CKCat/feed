@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli) to [0xdea/ida-hcli](https://github.com/0xdea/ida-hcli)
+  > Hex-Rays CLI (HCLI)
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [sarensw/MacPacker](https://github.com/sarensw/MacPacker)
+  > Archive manager for macOS. Open source, because essential tools should be free. Preview (nested) arc...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [MrWindDog/wallpaper-engine-mac](https://github.com/MrWindDog/wallpaper-engine-mac)
+  > An open source wallpaper engine for macOS
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [claration/runtimectl](https://github.com/claration/runtimectl)
@@ -91,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-02-26 16:54:39 UTC*
+*最后更新于 2026-02-26 17:54:48 UTC*
 *历史记录保存在 `archive` 目录中。*
