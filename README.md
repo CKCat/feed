@@ -31,6 +31,10 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [biggerstar/wedecode](https://github.com/biggerstar/wedecode)
   > 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
+  > Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [wojciechmurimi/virt-kernel](https://github.com/wojciechmurimi/virt-kernel)
   > ARM kernel
@@ -46,6 +50,10 @@
   > A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts th...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+
+### [lzpong](https://github.com/lzpong)
+- 🌟 👤 [lzpong](https://github.com/lzpong) Starred [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer)
+  > Lightweight image viewer for Windows with animated GIF/WEBP support
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)
@@ -74,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-02-26 14:12:11 UTC*
+*最后更新于 2026-02-26 15:51:03 UTC*
 *历史记录保存在 `archive` 目录中。*
