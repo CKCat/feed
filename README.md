@@ -20,6 +20,12 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses)
   > A global repository of open address, building, and parcel data.
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)
+  > Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude model...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs)
+  > A Kiro Client in Rust
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
   > 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and m...
@@ -30,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-02-26 06:58:46 UTC*
+*最后更新于 2026-02-26 07:54:29 UTC*
 *历史记录保存在 `archive` 目录中。*
