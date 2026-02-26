@@ -21,6 +21,8 @@
   > Generate Objective-C headers from dyld_shared_cache images.
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [claration/runtimectl](https://github.com/claration/runtimectl) to [NyaMisty/runtimectl](https://github.com/NyaMisty/runtimectl)
   > Generate Objective-C headers from dyld_shared_cache images.
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [CatThird/March7thAssistantExtender](https://github.com/CatThird/March7thAssistantExtender)
+  > March7thAssistantExtender(三月七助手拓展包)
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yxsra/ebpf-open](https://github.com/yxsra/ebpf-open)
@@ -99,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-02-26 18:49:11 UTC*
+*最后更新于 2026-02-26 19:41:15 UTC*
 *历史记录保存在 `archive` 目录中。*
