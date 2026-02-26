@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
+  > Yet another llvm based obfuscator based on goron.
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [claration/runtimectl](https://github.com/claration/runtimectl)
   > Generate Objective-C headers from dyld_shared_cache images.
@@ -13,6 +17,15 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yxsra/ebpf-open](https://github.com/yxsra/ebpf-open)
   > 基于 eBPF 的 Android 文件访问监控与拦截工具
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [wh1te4ever/super-tart-vphone](https://github.com/wh1te4ever/super-tart-vphone)
+  > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), SEP debugging ...
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
+
+### [caikelun](https://github.com/caikelun)
+- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DQinYuan/chinese_province_city_area_mapper](https://github.com/DQinYuan/chinese_province_city_area_mapper)
@@ -25,6 +38,7 @@
   > Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude model...
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs)
   > A Kiro Client in Rust
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [joshp123/gohome](https://github.com/joshp123/gohome)
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
@@ -33,8 +47,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
   > Large text file viewer to handle > 10GB text file reading, purely written in Rust
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+  > Scripts to build a trimmed-down Windows 11 image.
 
 
 ---
-*最后更新于 2026-02-26 08:42:30 UTC*
+*最后更新于 2026-02-26 09:45:26 UTC*
 *历史记录保存在 `archive` 目录中。*
