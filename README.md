@@ -27,6 +27,10 @@
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
 
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [biggerstar/wedecode](https://github.com/biggerstar/wedecode)
+  > 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [wojciechmurimi/virt-kernel](https://github.com/wojciechmurimi/virt-kernel)
   > ARM kernel
@@ -40,6 +44,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit)
   > A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts th...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)
@@ -68,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-02-26 12:58:48 UTC*
+*最后更新于 2026-02-26 14:12:11 UTC*
 *历史记录保存在 `archive` 目录中。*
