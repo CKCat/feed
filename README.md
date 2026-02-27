@@ -60,6 +60,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [batrachianai/toad](https://github.com/batrachianai/toad)
   > A unified interface for AI in your terminal.
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  > Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [fpedrolucas95/Atom](https://github.com/fpedrolucas95/Atom)
   > An experimental capability-based operating system written in Rust, focused on security, isolation, p...
@@ -94,11 +98,14 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
   > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts...
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Saurabh221662/GadgetInjector](https://github.com/Saurabh221662/GadgetInjector)
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 
 ---
-*最后更新于 2026-02-27 12:52:40 UTC*
+*最后更新于 2026-02-27 13:58:08 UTC*
 *历史记录保存在 `archive` 目录中。*
