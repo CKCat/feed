@@ -50,6 +50,8 @@
   > The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [rcallaby/CSharp-Interview-Questions](https://github.com/rcallaby/CSharp-Interview-Questions)
   > This is a repository of C# Interview Questions
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [erikdarlingdata/PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor)
+  > Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) ...
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [vaddsubps/rain-surprise](https://github.com/vaddsubps/rain-surprise)
@@ -128,5 +130,5 @@
 
 
 ---
-*最后更新于 2026-02-27 19:30:51 UTC*
+*最后更新于 2026-02-27 20:24:00 UTC*
 *历史记录保存在 `archive` 目录中。*
