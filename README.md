@@ -29,6 +29,9 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [233stone/vocotype-cli](https://github.com/233stone/vocotype-cli)
   > VocoType 是一款运行在本地端侧的隐私安全语音输入工具，通过快捷键即可将语音实时转换为文字并自动输入到当前应用。支持语音转文字MCP、AI 优化文本、自定义替换词典、录音视频转文字等功能，让语音...
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [LSPosed/LSPlt](https://github.com/LSPosed/LSPlt) to [Mufanc/LSPlt](https://github.com/Mufanc/LSPlt)
   > Simple PLT hook for Android
@@ -63,6 +66,8 @@
   > Open reimplementation of Google's Widevine Content Decryption Module for browsers
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [batrachianai/toad](https://github.com/batrachianai/toad)
   > A unified interface for AI in your terminal.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)
+  > Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
@@ -111,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-02-27 14:42:37 UTC*
+*最后更新于 2026-02-27 15:34:58 UTC*
 *历史记录保存在 `archive` 目录中。*
