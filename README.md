@@ -53,6 +53,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [erikdarlingdata/PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor)
   > Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) ...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [a0rtega/YesterPlayOS](https://github.com/a0rtega/YesterPlayOS)
+  > YesterPlayOS is a tribute to the golden era of personal computing. Minimalistic, fast, and nostalgic...
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [vaddsubps/rain-surprise](https://github.com/vaddsubps/rain-surprise)
   > 🌧️ 一个有趣的雨滴接住游戏！Catch raindrops, find frogs, get compliments! Made with love by 雨雨
@@ -102,6 +106,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora)
   > Hypernetworks that update LLMs to remember factual information
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
+  > A cross-version Python bytecode decompiler
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
@@ -130,5 +136,5 @@
 
 
 ---
-*最后更新于 2026-02-27 20:24:00 UTC*
+*最后更新于 2026-02-27 21:26:27 UTC*
 *历史记录保存在 `archive` 目录中。*
