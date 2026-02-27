@@ -85,6 +85,10 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [fuqiuluo/sub2api](https://github.com/fuqiuluo/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora)
   > Hypernetworks that update LLMs to remember factual information
@@ -116,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-02-27 16:37:18 UTC*
+*最后更新于 2026-02-27 17:32:24 UTC*
 *历史记录保存在 `archive` 目录中。*
