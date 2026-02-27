@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action)
+  > GitHub Action to generate GitHub Readme Stats cards.
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
@@ -20,6 +24,10 @@
   > Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)
   > 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [233stone/vocotype-cli](https://github.com/233stone/vocotype-cli)
+  > VocoType 是一款运行在本地端侧的隐私安全语音输入工具，通过快捷键即可将语音实时转换为文字并自动输入到当前应用。支持语音转文字MCP、AI 优化文本、自定义替换词典、录音视频转文字等功能，让语音...
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
@@ -42,6 +50,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [caoshiyi/K-Search](https://github.com/caoshiyi/K-Search)
   > LLM Discovery via Co-Evolving Intrinsic World Model
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tchebb/openwv](https://github.com/tchebb/openwv)
+  > Open reimplementation of Google's Widevine Content Decryption Module for browsers
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [fpedrolucas95/Atom](https://github.com/fpedrolucas95/Atom)
   > An experimental capability-based operating system written in Rust, focused on security, isolation, p...
@@ -59,6 +71,8 @@
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+  > A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and p...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
@@ -67,6 +81,8 @@
   > Lightweight coding agent that runs in your terminal
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [liangdabiao/claude-data-analysis](https://github.com/liangdabiao/claude-data-analysis)
   > Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
+  > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
@@ -74,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-02-27 07:43:14 UTC*
+*最后更新于 2026-02-27 08:37:04 UTC*
 *历史记录保存在 `archive` 目录中。*
