@@ -35,6 +35,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [LSPosed/LSPlt](https://github.com/LSPosed/LSPlt) to [Mufanc/LSPlt](https://github.com/Mufanc/LSPlt)
   > Simple PLT hook for Android
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz) to [Mufanc/stackplz](https://github.com/Mufanc/stackplz)
+  > 基于eBPF的堆栈追踪工具
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
@@ -46,6 +48,12 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
   > The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [rcallaby/CSharp-Interview-Questions](https://github.com/rcallaby/CSharp-Interview-Questions)
+  > This is a repository of C# Interview Questions
+
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [vaddsubps/rain-surprise](https://github.com/vaddsubps/rain-surprise)
+  > 🌧️ 一个有趣的雨滴接住游戏！Catch raindrops, find frogs, get compliments! Made with love by 雨雨
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wiedymi/restty](https://github.com/wiedymi/restty)
@@ -120,5 +128,5 @@
 
 
 ---
-*最后更新于 2026-02-27 17:32:24 UTC*
+*最后更新于 2026-02-27 18:37:29 UTC*
 *历史记录保存在 `archive` 目录中。*
