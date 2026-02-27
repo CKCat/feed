@@ -66,6 +66,10 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora)
+  > Hypernetworks that update LLMs to remember factual information
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
@@ -90,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-02-27 09:37:26 UTC*
+*最后更新于 2026-02-27 10:34:03 UTC*
 *历史记录保存在 `archive` 目录中。*
