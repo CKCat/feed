@@ -59,6 +59,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [liangdabiao/claude-data-analysis](https://github.com/liangdabiao/claude-data-analysis)
+  > Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-02-27 05:50:02 UTC*
+*最后更新于 2026-02-27 06:49:24 UTC*
 *历史记录保存在 `archive` 目录中。*
