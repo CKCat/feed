@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
   > Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -15,6 +18,25 @@
   > Glamourous agentic coding for all 💘
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
   > Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)
+  > 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
+  > C library for prototyping and experimenting with quantum-resistant cryptography
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
+  > The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
+
+### [cbwang505](https://github.com/cbwang505)
+- 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [mdsecactivebreach/CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH)
+  > CACTUSTORCH: Payload Generation for Adversary Simulations
+- 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [mdsecactivebreach/CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH) to [cbwang505/CACTUSTORCH](https://github.com/cbwang505/CACTUSTORCH)
+  > CACTUSTORCH: Payload Generation for Adversary Simulations
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [fpedrolucas95/Atom](https://github.com/fpedrolucas95/Atom)
@@ -44,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-02-27 04:10:54 UTC*
+*最后更新于 2026-02-27 05:50:02 UTC*
 *历史记录保存在 `archive` 目录中。*
