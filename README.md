@@ -40,6 +40,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
   > The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [wiedymi/restty](https://github.com/wiedymi/restty)
+  > Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-s...
+
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [mdsecactivebreach/CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH)
   > CACTUSTORCH: Payload Generation for Adversary Simulations
@@ -53,6 +57,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tchebb/openwv](https://github.com/tchebb/openwv)
   > Open reimplementation of Google's Widevine Content Decryption Module for browsers
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [batrachianai/toad](https://github.com/batrachianai/toad)
+  > A unified interface for AI in your terminal.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [fpedrolucas95/Atom](https://github.com/fpedrolucas95/Atom)
@@ -94,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-02-27 11:29:14 UTC*
+*最后更新于 2026-02-27 12:52:40 UTC*
 *历史记录保存在 `archive` 目录中。*
