@@ -29,6 +29,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [233stone/vocotype-cli](https://github.com/233stone/vocotype-cli)
   > VocoType 是一款运行在本地端侧的隐私安全语音输入工具，通过快捷键即可将语音实时转换为文字并自动输入到当前应用。支持语音转文字MCP、AI 优化文本、自定义替换词典、录音视频转文字等功能，让语音...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [LSPosed/LSPlt](https://github.com/LSPosed/LSPlt) to [Mufanc/LSPlt](https://github.com/Mufanc/LSPlt)
+  > Simple PLT hook for Android
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
   > C library for prototyping and experimenting with quantum-resistant cryptography
@@ -107,5 +111,5 @@
 
 
 ---
-*最后更新于 2026-02-27 13:58:08 UTC*
+*最后更新于 2026-02-27 14:42:37 UTC*
 *历史记录保存在 `archive` 目录中。*
