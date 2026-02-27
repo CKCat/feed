@@ -38,6 +38,10 @@
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [mdsecactivebreach/CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH) to [cbwang505/CACTUSTORCH](https://github.com/cbwang505/CACTUSTORCH)
   > CACTUSTORCH: Payload Generation for Adversary Simulations
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [caoshiyi/K-Search](https://github.com/caoshiyi/K-Search)
+  > LLM Discovery via Co-Evolving Intrinsic World Model
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [fpedrolucas95/Atom](https://github.com/fpedrolucas95/Atom)
   > An experimental capability-based operating system written in Rust, focused on security, isolation, p...
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-02-27 06:49:24 UTC*
+*最后更新于 2026-02-27 07:43:14 UTC*
 *历史记录保存在 `archive` 目录中。*
