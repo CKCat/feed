@@ -74,6 +74,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [caoshiyi/K-Search](https://github.com/caoshiyi/K-Search)
   > LLM Discovery via Co-Evolving Intrinsic World Model
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [chenyu-jiang/nsys2json](https://github.com/chenyu-jiang/nsys2json)
+  > A Python script to convert the output of NVIDIA Nsight Systems (in SQLite format) to JSON in Google ...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [chenyu-jiang/nsys2json](https://github.com/chenyu-jiang/nsys2json) to [crazyguitar/nsys2json](https://github.com/crazyguitar/nsys2json)
+  > A Python script to convert the output of NVIDIA Nsight Systems (in SQLite format) to JSON in Google ...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tchebb/openwv](https://github.com/tchebb/openwv)
@@ -108,6 +112,8 @@
   > Hypernetworks that update LLMs to remember factual information
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
   > A cross-version Python bytecode decompiler
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fortio/terminal](https://github.com/fortio/terminal)
+  > 2 libraries + utilities: readline style command history and terminal drawing/images, fps calculator
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
@@ -136,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-02-27 21:26:27 UTC*
+*最后更新于 2026-02-27 22:22:17 UTC*
 *历史记录保存在 `archive` 目录中。*
