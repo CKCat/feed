@@ -8,6 +8,15 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
   > 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [DaDj/GTASA-FXEditor](https://github.com/DaDj/GTASA-FXEditor)
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+  > Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimatio...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
@@ -18,5 +27,5 @@
 
 
 ---
-*最后更新于 2026-02-28 03:51:32 UTC*
+*最后更新于 2026-02-28 04:52:23 UTC*
 *历史记录保存在 `archive` 目录中。*
