@@ -10,7 +10,7 @@
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+  > Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [quic/gunyah-hypervisor](https://github.com/quic/gunyah-hypervisor)
@@ -31,7 +31,7 @@
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+  > Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
@@ -56,7 +56,7 @@
 
 ### [evilpan](https://github.com/evilpan)
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+  > Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 
 ### [mengxipeng1122](https://github.com/mengxipeng1122)
 - 🌟 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Starred [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter)
@@ -83,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-02-28 21:17:56 UTC*
+*最后更新于 2026-02-28 22:19:25 UTC*
 *历史记录保存在 `archive` 目录中。*
