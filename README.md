@@ -39,6 +39,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)
   > PostgreSQL connection pooler, load balancer and database sharder.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [JingMatrix/NeoZygisk](https://github.com/JingMatrix/NeoZygisk)
+  > Zygote injection with ptrace
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
@@ -71,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-02-28 14:19:00 UTC*
+*最后更新于 2026-02-28 15:19:06 UTC*
 *历史记录保存在 `archive` 目录中。*
