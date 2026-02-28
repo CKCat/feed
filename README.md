@@ -51,6 +51,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tigerabrodi/neiro](https://github.com/tigerabrodi/neiro)
+  > Audio processing for TypeScript. Chainable, immutable, serverless-ready.
 
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-02-28 09:22:37 UTC*
+*最后更新于 2026-02-28 10:19:37 UTC*
 *历史记录保存在 `archive` 目录中。*
