@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [34306/vphone-aio](https://github.com/34306/vphone-aio) to [lallouslab/vphone-aio](https://github.com/lallouslab/vphone-aio)
+  > 1 script run the vphone
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
   > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
@@ -63,6 +67,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tigerabrodi/neiro](https://github.com/tigerabrodi/neiro)
   > Audio processing for TypeScript. Chainable, immutable, serverless-ready.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
+  > Agent harness to make your slop code well-engineered and beautiful.
 
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)
@@ -71,7 +77,11 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat)
+  > 一款精心打磨过的多色多功能Typora主题
+
 
 ---
-*最后更新于 2026-02-28 16:22:17 UTC*
+*最后更新于 2026-02-28 17:17:22 UTC*
 *历史记录保存在 `archive` 目录中。*
