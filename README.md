@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [quic/gunyah-hypervisor](https://github.com/quic/gunyah-hypervisor)
+  > Gunyah is a Type-1 hypervisor designed for strong security, performance and modularity.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
   > 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
@@ -16,6 +20,13 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
   > Production ready MCP server with real-time search, extract, map & crawl.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Deep-Learning-Profiling-Tools/triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+  > ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
@@ -31,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-02-28 06:33:40 UTC*
+*最后更新于 2026-02-28 07:23:19 UTC*
 *历史记录保存在 `archive` 目录中。*
