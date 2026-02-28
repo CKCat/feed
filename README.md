@@ -26,7 +26,7 @@
 
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-  > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [DaDj/GTASA-FXEditor](https://github.com/DaDj/GTASA-FXEditor)
 
 ### [Ylarod](https://github.com/Ylarod)
@@ -83,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-02-28 17:17:22 UTC*
+*最后更新于 2026-02-28 18:28:29 UTC*
 *历史记录保存在 `archive` 目录中。*
