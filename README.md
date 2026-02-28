@@ -25,6 +25,10 @@
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [DaDj/GTASA-FXEditor](https://github.com/DaDj/GTASA-FXEditor)
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
   > Production ready MCP server with real-time search, extract, map & crawl.
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-02-28 13:34:07 UTC*
+*最后更新于 2026-02-28 14:19:00 UTC*
 *历史记录保存在 `archive` 目录中。*
