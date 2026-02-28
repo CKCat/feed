@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [20000s](https://github.com/20000s)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [quic/gunyah-hypervisor](https://github.com/quic/gunyah-hypervisor)
   > Gunyah is a Type-1 hypervisor designed for strong security, performance and modularity.
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+  > 一款提示词优化器，助力于编写高质量的提示词
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
@@ -32,6 +40,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
   > Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimatio...
 
+### [evilpan](https://github.com/evilpan)
+- 🌟 👤 [evilpan](https://github.com/evilpan) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
@@ -42,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-02-28 07:23:19 UTC*
+*最后更新于 2026-02-28 08:24:50 UTC*
 *历史记录保存在 `archive` 目录中。*
