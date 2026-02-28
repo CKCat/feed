@@ -13,6 +13,10 @@
   > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [DaDj/GTASA-FXEditor](https://github.com/DaDj/GTASA-FXEditor)
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
+  > Production ready MCP server with real-time search, extract, map & crawl.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
   > Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimatio...
@@ -27,5 +31,5 @@
 
 
 ---
-*最后更新于 2026-02-28 04:52:23 UTC*
+*最后更新于 2026-02-28 05:30:29 UTC*
 *历史记录保存在 `archive` 目录中。*
