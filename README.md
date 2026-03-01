@@ -30,6 +30,16 @@
   > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), SEP debugging ...
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [wh1te4ever/xnu_1day_practice](https://github.com/wh1te4ever/xnu_1day_practice)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [khayzz13/keystone_desktop](https://github.com/khayzz13/keystone_desktop)
+  > **Experimental/Not Intended for Production** Build your frontend in web tech (React, Svelte, vanilla...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [RecurPixel/Notify](https://github.com/RecurPixel/Notify)
+  > Modular, DI-native multi-channel notification library for ASP.NET Core. Email, SMS, Push, WhatsApp, ...
+
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [RequiemB/samp-chatlog-saver](https://github.com/RequiemB/samp-chatlog-saver)
+  > A chatlog saver for the multiplayer modification of GTA San Andreas, San Andreas Multiplayer (SA-MP)...
+
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) to [can1357/obsidian-agent](https://github.com/can1357/obsidian-agent)
   > THE Copilot in Obsidian
@@ -73,6 +83,8 @@
   > Raijin is an AI-powered terminal assistant in Go, with a fast TUI, multi-provider LLM support, and b...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless)
   > Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer)
+  > Objective-C & Swift Runtime Viewer for macOS and iOS
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ProxymanApp/atlantis-android](https://github.com/ProxymanApp/atlantis-android)
@@ -88,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-03-01 16:23:47 UTC*
+*最后更新于 2026-03-01 17:19:39 UTC*
 *历史记录保存在 `archive` 目录中。*
