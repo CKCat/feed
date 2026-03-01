@@ -14,6 +14,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
   > 内核驱动开发工具包 (Kernel Driver Development Kit)
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)
+  > A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph repr...
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
@@ -57,6 +61,8 @@
   > canonical libwebsockets.org networking library
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [francescoalemanno/raijin-mono](https://github.com/francescoalemanno/raijin-mono)
   > Raijin is an AI-powered terminal assistant in Go, with a fast TUI, multi-provider LLM support, and b...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless)
+  > Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ProxymanApp/atlantis-android](https://github.com/ProxymanApp/atlantis-android)
@@ -68,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-03-01 13:36:28 UTC*
+*最后更新于 2026-03-01 14:21:02 UTC*
 *历史记录保存在 `archive` 目录中。*
