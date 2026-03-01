@@ -11,10 +11,17 @@
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [Ylarod/ddk](https://github.com/Ylarod/ddk) to [5ec1cff/ddk](https://github.com/5ec1cff/ddk)
   > 内核驱动开发工具包 (Kernel Driver Development Kit)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
+  > 内核驱动开发工具包 (Kernel Driver Development Kit)
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)
   > Render markdown on the CLI, with pizzazz! 💅🏻
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [wh1te4ever/super-tart-vphone](https://github.com/wh1te4ever/super-tart-vphone)
+  > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), SEP debugging ...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [wh1te4ever/xnu_1day_practice](https://github.com/wh1te4ever/xnu_1day_practice)
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL)
@@ -48,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-03-01 11:17:30 UTC*
+*最后更新于 2026-03-01 12:41:10 UTC*
 *历史记录保存在 `archive` 目录中。*
