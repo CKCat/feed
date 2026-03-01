@@ -80,18 +80,6 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin)
   > A curated list of IDA x64DBG, Ghidra and OllyDBG plugins. 
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tryingET/pi-server](https://github.com/tryingET/pi-server)
-  > Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets)
-  > canonical libwebsockets.org networking library
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [francescoalemanno/raijin-mono](https://github.com/francescoalemanno/raijin-mono)
-  > Raijin is an AI-powered terminal assistant in Go, with a fast TUI, multi-provider LLM support, and b...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless)
-  > Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer)
-  > Objective-C & Swift Runtime Viewer for macOS and iOS
-
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ProxymanApp/atlantis-android](https://github.com/ProxymanApp/atlantis-android)
   > Capture HTTP/HTTPS traffic from Android apps and send to Proxyman for debugging.
@@ -106,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-03-01 20:22:34 UTC*
+*最后更新于 2026-03-01 21:19:43 UTC*
 *历史记录保存在 `archive` 目录中。*
