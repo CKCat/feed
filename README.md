@@ -8,6 +8,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [darkoperator/mimikatz-missing-manual](https://github.com/darkoperator/mimikatz-missing-manual)
   > The Mimikatz Missing Manual
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [Ylarod/ddk](https://github.com/Ylarod/ddk) to [5ec1cff/ddk](https://github.com/5ec1cff/ddk)
+  > 内核驱动开发工具包 (Kernel Driver Development Kit)
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)
   > Render markdown on the CLI, with pizzazz! 💅🏻
@@ -19,6 +23,10 @@
   > how to optimize some algorithm in cuda.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) to [crazyguitar/how-to-optim-algorithm-in-cuda](https://github.com/crazyguitar/how-to-optim-algorithm-in-cuda)
   > how to optimize some algorithm in cuda.
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zedeus/nitter](https://github.com/zedeus/nitter)
+  > Alternative Twitter front-end
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Justsenger/ExHyperV](https://github.com/Justsenger/ExHyperV)
@@ -32,7 +40,13 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
   > 1 script run the vphone
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tryingET/pi-server](https://github.com/tryingET/pi-server)
+  > Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets)
+  > canonical libwebsockets.org networking library
+
 
 ---
-*最后更新于 2026-03-01 10:21:11 UTC*
+*最后更新于 2026-03-01 11:17:30 UTC*
 *历史记录保存在 `archive` 目录中。*
