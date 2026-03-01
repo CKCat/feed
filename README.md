@@ -14,6 +14,9 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
   > 内核驱动开发工具包 (Kernel Driver Development Kit)
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)
   > Render markdown on the CLI, with pizzazz! 💅🏻
@@ -52,8 +55,18 @@
   > Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets)
   > canonical libwebsockets.org networking library
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [francescoalemanno/raijin-mono](https://github.com/francescoalemanno/raijin-mono)
+  > Raijin is an AI-powered terminal assistant in Go, with a fast TUI, multi-provider LLM support, and b...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ProxymanApp/atlantis-android](https://github.com/ProxymanApp/atlantis-android)
+  > Capture HTTP/HTTPS traffic from Android apps and send to Proxyman for debugging.
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [everdox/InfinityHook](https://github.com/everdox/InfinityHook)
+  > Hook system calls, context switches, page faults and more.
 
 
 ---
-*最后更新于 2026-03-01 12:41:10 UTC*
+*最后更新于 2026-03-01 13:36:28 UTC*
 *历史记录保存在 `archive` 目录中。*
