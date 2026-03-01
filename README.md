@@ -30,6 +30,10 @@
   > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), SEP debugging ...
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [wh1te4ever/xnu_1day_practice](https://github.com/wh1te4ever/xnu_1day_practice)
 
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) to [can1357/obsidian-agent](https://github.com/can1357/obsidian-agent)
+  > THE Copilot in Obsidian
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL)
   > Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
@@ -53,6 +57,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
   > 1 script run the vphone
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin)
+  > A curated list of IDA x64DBG, Ghidra and OllyDBG plugins. 
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tryingET/pi-server](https://github.com/tryingET/pi-server)
@@ -74,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-03-01 14:21:02 UTC*
+*最后更新于 2026-03-01 15:19:43 UTC*
 *历史记录保存在 `archive` 目录中。*
