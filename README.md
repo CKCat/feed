@@ -54,6 +54,10 @@
 - 🌟 👤 [lzpong](https://github.com/lzpong) Starred [ithewei/libhv](https://github.com/ithewei/libhv)
   > 🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT...
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [junron/agar](https://github.com/junron/agar)
+  > Assisting Go Analysis and Reversing
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
   > 1 script run the vphone
@@ -78,7 +82,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [everdox/InfinityHook](https://github.com/everdox/InfinityHook)
   > Hook system calls, context switches, page faults and more.
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+  > A community collection of OpenClaw use cases for making life easier.
+
 
 ---
-*最后更新于 2026-03-01 15:19:43 UTC*
+*最后更新于 2026-03-01 16:23:47 UTC*
 *历史记录保存在 `archive` 目录中。*
