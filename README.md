@@ -57,6 +57,8 @@
   > how to optimize some algorithm in cuda.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) to [crazyguitar/how-to-optim-algorithm-in-cuda](https://github.com/crazyguitar/how-to-optim-algorithm-in-cuda)
   > how to optimize some algorithm in cuda.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL)
+  > SkyRL: A Modular Full-stack RL Library for LLMs
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zedeus/nitter](https://github.com/zedeus/nitter)
@@ -94,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-03-01 22:20:15 UTC*
+*最后更新于 2026-03-01 23:20:18 UTC*
 *历史记录保存在 `archive` 目录中。*
