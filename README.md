@@ -21,9 +21,15 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [withastro/astro](https://github.com/withastro/astro)
+  > The web framework for content-driven websites. ⭐️ Star to support our work!
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)
   > Render markdown on the CLI, with pizzazz! 💅🏻
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
+  > 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [wh1te4ever/super-tart-vphone](https://github.com/wh1te4ever/super-tart-vphone)
@@ -100,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-03-01 17:19:39 UTC*
+*最后更新于 2026-03-01 18:28:41 UTC*
 *历史记录保存在 `archive` 目录中。*
