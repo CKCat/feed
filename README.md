@@ -12,9 +12,17 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
   > A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to W...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
+  > C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ttalvitie/browservice](https://github.com/ttalvitie/browservice)
   > Browservice: Browse the modern web on historical browsers
+
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [HsuJv/vnc-rs](https://github.com/HsuJv/vnc-rs)
@@ -71,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-03-02 08:39:45 UTC*
+*最后更新于 2026-03-02 09:43:52 UTC*
 *历史记录保存在 `archive` 目录中。*
