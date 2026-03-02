@@ -76,6 +76,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [apple-oss-distributions/libmalloc](https://github.com/apple-oss-distributions/libmalloc)
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [microsoft/Extensible-Storage-Engine](https://github.com/microsoft/Extensible-Storage-Engine)
+  > ESE is an embedded / ISAM-based database engine, that provides rudimentary table and indexed access....
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
 
@@ -89,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-03-02 12:52:17 UTC*
+*最后更新于 2026-03-02 13:58:12 UTC*
 *历史记录保存在 `archive` 目录中。*
