@@ -4,6 +4,11 @@
 
 ## 今日动态
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
+  > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [google/android-cuttlefish](https://github.com/google/android-cuttlefish) to [JingMatrix/android-cuttlefish](https://github.com/JingMatrix/android-cuttlefish)
   > Cuttlefish host support debian package.
@@ -79,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-03-02 09:43:52 UTC*
+*最后更新于 2026-03-02 10:40:15 UTC*
 *历史记录保存在 `archive` 目录中。*
