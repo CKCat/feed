@@ -28,10 +28,16 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [microsoft/fara](https://github.com/microsoft/fara)
+  > Fara-7B: An Efficient Agentic Model for Computer Use
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [HsuJv/vnc-rs](https://github.com/HsuJv/vnc-rs)
   > An asynchronous implementation of VNC client side protocol
+
+### [Penguin38](https://github.com/Penguin38)
+- 🍴 👤 [Penguin38](https://github.com/Penguin38) Forked [facebook/zstd](https://github.com/facebook/zstd) to [Penguin38/zstd](https://github.com/Penguin38/zstd)
+  > Zstandard - Fast real-time compression algorithm
 
 ### [Whitebird0](https://github.com/Whitebird0)
 - 🌟 👤 [Whitebird0](https://github.com/Whitebird0) Starred [GuanFoxyier/cacheMarkDown](https://github.com/GuanFoxyier/cacheMarkDown)
@@ -61,6 +67,10 @@
   > 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and m...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [vtemian/micode](https://github.com/vtemian/micode)
   > RPI OpenCode Plugin
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🍴 👤 [mcdulltii](https://github.com/mcdulltii) Forked [junron/agar](https://github.com/junron/agar) to [mcdulltii/agar](https://github.com/mcdulltii/agar)
+  > Assisting Go Analysis and Reversing
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
@@ -99,5 +109,5 @@
 
 
 ---
-*最后更新于 2026-03-02 14:48:37 UTC*
+*最后更新于 2026-03-02 15:38:28 UTC*
 *历史记录保存在 `archive` 目录中。*
