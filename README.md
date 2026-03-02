@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [google/android-cuttlefish](https://github.com/google/android-cuttlefish) to [JingMatrix/android-cuttlefish](https://github.com/JingMatrix/android-cuttlefish)
+  > Cuttlefish host support debian package.
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
   > A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to W...
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ttalvitie/browservice](https://github.com/ttalvitie/browservice)
+  > Browservice: Browse the modern web on historical browsers
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [HsuJv/vnc-rs](https://github.com/HsuJv/vnc-rs)
@@ -27,6 +35,8 @@
   > Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Karrq/pi-ext-opencode-zen](https://github.com/Karrq/pi-ext-opencode-zen)
   > Pi coding agent extension for OpenCode Zen models
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier)
+  > OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
@@ -45,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-03-02 05:50:44 UTC*
+*最后更新于 2026-03-02 06:53:23 UTC*
 *历史记录保存在 `archive` 目录中。*
