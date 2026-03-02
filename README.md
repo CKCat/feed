@@ -60,6 +60,9 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
   > 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and m...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtang613/IDAssist](https://github.com/jtang613/IDAssist)
   > AI-Powered Reverse Engineering Plugin for IDA Pro
@@ -86,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-03-02 11:29:40 UTC*
+*最后更新于 2026-03-02 12:52:17 UTC*
 *历史记录保存在 `archive` 目录中。*
