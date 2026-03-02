@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [lra/mackup](https://github.com/lra/mackup)
+  > Backup and keep your application settings in sync.
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
@@ -45,6 +49,12 @@
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [eunomia-bpf/cupti-tutorial](https://github.com/eunomia-bpf/cupti-tutorial)
+  > Tutorials for NVIDIA CUPTI samples
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [eunomia-bpf/cupti-tutorial](https://github.com/eunomia-bpf/cupti-tutorial) to [crazyguitar/cupti-tutorial](https://github.com/crazyguitar/cupti-tutorial)
+  > Tutorials for NVIDIA CUPTI samples
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
@@ -109,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-03-02 16:40:59 UTC*
+*最后更新于 2026-03-02 17:42:15 UTC*
 *历史记录保存在 `archive` 目录中。*
