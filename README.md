@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [lallouslab/vphone-cli](https://github.com/lallouslab/vphone-cli)
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [lra/mackup](https://github.com/lra/mackup)
   > Backup and keep your application settings in sync.
@@ -121,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-03-02 22:23:40 UTC*
+*最后更新于 2026-03-02 23:22:24 UTC*
 *历史记录保存在 `archive` 目录中。*
