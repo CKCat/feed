@@ -32,11 +32,18 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
   > A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plug...
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [maderix/ANE](https://github.com/maderix/ANE)
+  > Training neural networks on Apple Neural Engine via reverse-engineered private APIs
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy)
   > 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. |...
 
 
 ---
-*最后更新于 2026-03-02 04:11:49 UTC*
+*最后更新于 2026-03-02 05:50:44 UTC*
 *历史记录保存在 `archive` 目录中。*
