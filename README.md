@@ -90,6 +90,8 @@
   > AI-Powered Reverse Engineering Plugin for IDA Pro
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)
   > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-boomerang](https://github.com/nicobailon/pi-boomerang)
+  > Token-efficient autonomous task execution with context collapse for pi coding agent
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
@@ -119,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-03-02 17:42:15 UTC*
+*最后更新于 2026-03-02 18:41:37 UTC*
 *历史记录保存在 `archive` 目录中。*
