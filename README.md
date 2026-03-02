@@ -59,6 +59,8 @@
   > OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
   > 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and m...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [vtemian/micode](https://github.com/vtemian/micode)
+  > RPI OpenCode Plugin
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
@@ -75,6 +77,10 @@
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [apple-oss-distributions/libmalloc](https://github.com/apple-oss-distributions/libmalloc)
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+  > AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [microsoft/Extensible-Storage-Engine](https://github.com/microsoft/Extensible-Storage-Engine)
@@ -93,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-03-02 13:58:12 UTC*
+*最后更新于 2026-03-02 14:48:37 UTC*
 *历史记录保存在 `archive` 目录中。*
