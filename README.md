@@ -57,6 +57,8 @@
   > Pi coding agent extension for OpenCode Zen models
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier)
   > OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
+  > 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and m...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtang613/IDAssist](https://github.com/jtang613/IDAssist)
@@ -84,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-03-02 10:40:15 UTC*
+*最后更新于 2026-03-02 11:29:40 UTC*
 *历史记录保存在 `archive` 目录中。*
