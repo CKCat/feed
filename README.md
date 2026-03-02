@@ -19,7 +19,7 @@
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
-  > A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to W...
+  > A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Te...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
@@ -121,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-03-02 21:29:38 UTC*
+*最后更新于 2026-03-02 22:23:40 UTC*
 *历史记录保存在 `archive` 目录中。*
