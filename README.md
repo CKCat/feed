@@ -31,6 +31,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraDeviceTreeBlob](https://github.com/antoniovazquezblanco/GhidraDeviceTreeBlob)
   > Import Device Tree Information onto your Ghidra memory map
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [dashr9230/SA-MP](https://github.com/dashr9230/SA-MP)
+  > A work-in-progress matching decompilation of the 0.3.7 version of San Andreas Multiplayer
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [Ylarod/ida-pro-mcp](https://github.com/Ylarod/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -49,6 +53,10 @@
   > ⚡️Write HGEMM from scratch using Tensor Cores with WMMA, MMA and CuTe API, Achieve Peak⚡️ Performanc...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
   > Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all ...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [google/kctf](https://github.com/google/kctf) to [es3n1n/kctf](https://github.com/es3n1n/kctf)
+  > kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
@@ -69,7 +77,11 @@
 ### [nzcv](https://github.com/nzcv)
 - 🚀 👤 [nzcv](https://github.com/nzcv) Made [king3soft/note](https://github.com/king3soft/note) public
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
+  > Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulator...
+
 
 ---
-*最后更新于 2026-03-03 13:57:29 UTC*
+*最后更新于 2026-03-03 14:46:39 UTC*
 *历史记录保存在 `archive` 目录中。*
