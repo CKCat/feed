@@ -15,6 +15,10 @@
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [ben-l909/endeavour](https://github.com/ben-l909/endeavour)
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [callstackincubator/react-native-grab](https://github.com/callstackincubator/react-native-grab)
+  > Touch-to-grab context tool for React Native UI changes
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [lsils/mockturtle](https://github.com/lsils/mockturtle) to [Colton1skees/mockturtle](https://github.com/Colton1skees/mockturtle)
   > C++ logic network library
@@ -30,6 +34,10 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraDeviceTreeBlob](https://github.com/antoniovazquezblanco/GhidraDeviceTreeBlob)
   > Import Device Tree Information onto your Ghidra memory map
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🍴 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [SeeFlowerX/ida-pro-mcp](https://github.com/SeeFlowerX/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [dashr9230/SA-MP](https://github.com/dashr9230/SA-MP)
@@ -83,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-03-03 14:46:39 UTC*
+*最后更新于 2026-03-03 15:43:11 UTC*
 *历史记录保存在 `archive` 目录中。*
