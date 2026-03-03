@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [payatu/BugBazaar](https://github.com/payatu/BugBazaar)
+  > Android BugBazaar: Your mobile appsec playground to Explore, Exploit, Excel
+
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [vtemian/claude-notes](https://github.com/vtemian/claude-notes) to [lallouslab/claude-notes](https://github.com/lallouslab/claude-notes)
   > Transform Claude Code transcript JSONL files into readable terminal and HTML formats.
@@ -38,6 +42,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [labring/FastGPT](https://github.com/labring/FastGPT)
   > FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-...
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)
+  > Expert code review skill: SOLID, security, performance, error handling, boundary conditions
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide)
   > Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks 
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-03-03 09:38:25 UTC*
+*最后更新于 2026-03-03 10:35:12 UTC*
 *历史记录保存在 `archive` 目录中。*
