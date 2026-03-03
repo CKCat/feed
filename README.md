@@ -18,6 +18,8 @@
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [callstackincubator/react-native-grab](https://github.com/callstackincubator/react-native-grab)
   > Touch-to-grab context tool for React Native UI changes
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
+  > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
 
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [lsils/mockturtle](https://github.com/lsils/mockturtle) to [Colton1skees/mockturtle](https://github.com/Colton1skees/mockturtle)
@@ -62,6 +64,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
   > Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all ...
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Zenofex/SoC-BootROMs](https://github.com/Zenofex/SoC-BootROMs)
+  > BootROM dumps from misc SoCs
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [google/kctf](https://github.com/google/kctf) to [es3n1n/kctf](https://github.com/es3n1n/kctf)
   > kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
@@ -95,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-03-03 16:42:07 UTC*
+*最后更新于 2026-03-03 17:40:21 UTC*
 *历史记录保存在 `archive` 目录中。*
