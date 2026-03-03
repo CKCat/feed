@@ -18,9 +18,15 @@
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Assemblage-Dataset/Assemblage](https://github.com/Assemblage-Dataset/Assemblage)
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [warlockee/oxRL](https://github.com/warlockee/oxRL)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [warlockee/oxRL](https://github.com/warlockee/oxRL) to [crazyguitar/oxRL](https://github.com/crazyguitar/oxRL)
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
   > 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [labring/FastGPT](https://github.com/labring/FastGPT)
+  > FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide)
@@ -30,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-03-03 06:46:04 UTC*
+*最后更新于 2026-03-03 07:39:43 UTC*
 *历史记录保存在 `archive` 目录中。*
