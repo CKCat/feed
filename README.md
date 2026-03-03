@@ -76,6 +76,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)
   > Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-design-deck](https://github.com/nicobailon/pi-design-deck)
+  > Visual design deck for presenting multi-slide options with high-fidelity previews
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide)
   > Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks 
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-03-03 15:43:11 UTC*
+*最后更新于 2026-03-03 16:42:07 UTC*
 *历史记录保存在 `archive` 目录中。*
