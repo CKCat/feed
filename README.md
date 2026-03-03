@@ -15,6 +15,10 @@
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [ben-l909/endeavour](https://github.com/ben-l909/endeavour)
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [bee-san/Ciphey](https://github.com/bee-san/Ciphey)
   > ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack h...
@@ -22,6 +26,12 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraDeviceTreeBlob](https://github.com/antoniovazquezblanco/GhidraDeviceTreeBlob)
   > Import Device Tree Information onto your Ghidra memory map
+
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [Ylarod/ida-pro-mcp](https://github.com/Ylarod/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [weiesky/cc-viewer](https://github.com/weiesky/cc-viewer)
+  > A request monitoring system for Claude Code that captures and visualizes all API requests and respon...
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Assemblage-Dataset/Assemblage](https://github.com/Assemblage-Dataset/Assemblage)
@@ -57,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-03-03 11:29:29 UTC*
+*最后更新于 2026-03-03 12:51:13 UTC*
 *历史记录保存在 `archive` 目录中。*
