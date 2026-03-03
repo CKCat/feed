@@ -21,6 +21,12 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [warlockee/oxRL](https://github.com/warlockee/oxRL)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [warlockee/oxRL](https://github.com/warlockee/oxRL) to [crazyguitar/oxRL](https://github.com/crazyguitar/oxRL)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [xlite-dev/HGEMM](https://github.com/xlite-dev/HGEMM)
+  > ⚡️Write HGEMM from scratch using Tensor Cores with WMMA, MMA and CuTe API, Achieve Peak⚡️ Performanc...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [xlite-dev/HGEMM](https://github.com/xlite-dev/HGEMM) to [crazyguitar/HGEMM](https://github.com/crazyguitar/HGEMM)
+  > ⚡️Write HGEMM from scratch using Tensor Cores with WMMA, MMA and CuTe API, Achieve Peak⚡️ Performanc...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
+  > Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all ...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
@@ -36,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-03-03 07:39:43 UTC*
+*最后更新于 2026-03-03 08:36:32 UTC*
 *历史记录保存在 `archive` 目录中。*
