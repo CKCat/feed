@@ -11,6 +11,10 @@
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [ben-l909/endeavour](https://github.com/ben-l909/endeavour)
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [bee-san/Ciphey](https://github.com/bee-san/Ciphey)
+  > ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack h...
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [antoniovazquezblanco/GhidraDeviceTreeBlob](https://github.com/antoniovazquezblanco/GhidraDeviceTreeBlob)
   > Import Device Tree Information onto your Ghidra memory map
@@ -40,7 +44,10 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 
+### [nzcv](https://github.com/nzcv)
+- 🚀 👤 [nzcv](https://github.com/nzcv) Made [king3soft/note](https://github.com/king3soft/note) public
+
 
 ---
-*最后更新于 2026-03-03 08:36:32 UTC*
+*最后更新于 2026-03-03 09:38:25 UTC*
 *历史记录保存在 `archive` 目录中。*
