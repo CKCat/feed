@@ -19,6 +19,8 @@
   > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+  > A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Te...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
@@ -56,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-03-04 11:27:18 UTC*
+*最后更新于 2026-03-04 12:50:29 UTC*
 *历史记录保存在 `archive` 目录中。*
