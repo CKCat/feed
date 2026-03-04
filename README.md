@@ -15,6 +15,14 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [toon-format/toon](https://github.com/toon-format/toon)
   > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump)
+  > 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
+  > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Cracked5pider/Ekko](https://github.com/Cracked5pider/Ekko)
   > Sleep Obfuscation
@@ -27,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-03-04 05:41:03 UTC*
+*最后更新于 2026-03-04 06:42:02 UTC*
 *历史记录保存在 `archive` 目录中。*
