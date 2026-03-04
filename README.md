@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [frida/frida-rust](https://github.com/frida/frida-rust) to [ChiChou/frida-rust](https://github.com/ChiChou/frida-rust)
+  > Frida Rust bindings
+
+### [JLospinoso](https://github.com/JLospinoso)
+- 🍴 👤 [JLospinoso](https://github.com/JLospinoso) Forked [actions/checkout](https://github.com/actions/checkout) to [lospino-so/checkout](https://github.com/lospino-so/checkout)
+  > Action for checking out a repo
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyuubiRan/OhMyBot](https://github.com/KyuubiRan/OhMyBot)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [AEtherside/skland-kit](https://github.com/AEtherside/skland-kit)
@@ -23,6 +31,8 @@
   > A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Te...
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bakad3v/Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools)
   > An application designed to silently protect user data from powerful adversaries.
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
@@ -39,6 +49,10 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FradSer/dotclaude](https://github.com/FradSer/dotclaude)
   > A comprehensive development environment with specialized AI agents for code review, security analysi...
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
+  > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -68,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-03-04 17:35:41 UTC*
+*最后更新于 2026-03-04 18:43:02 UTC*
 *历史记录保存在 `archive` 目录中。*
