@@ -40,6 +40,10 @@
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
   > A TLS reverse proxy with SNI multiplexing in Go
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [BotchedRPR/kibo](https://github.com/BotchedRPR/kibo)
+  > BlackBerry SDM660 Bootloader tools
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump)
   > 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
@@ -51,6 +55,10 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FradSer/dotclaude](https://github.com/FradSer/dotclaude)
   > A comprehensive development environment with specialized AI agents for code review, security analysi...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv)
+  > An interface library for RL post training with environments. 
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
@@ -87,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-03-04 19:35:33 UTC*
+*最后更新于 2026-03-04 20:28:37 UTC*
 *历史记录保存在 `archive` 目录中。*
