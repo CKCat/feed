@@ -6,14 +6,19 @@
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyuubiRan/OhMyBot](https://github.com/KyuubiRan/OhMyBot)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [AEtherside/skland-kit](https://github.com/AEtherside/skland-kit)
+  > 森空岛妙妙工具
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub)
   > A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [fareedfauzi/PseudoNote](https://github.com/fareedfauzi/PseudoNote)
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [toon-format/toon](https://github.com/toon-format/toon)
   > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
@@ -26,6 +31,14 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FradSer/dotclaude](https://github.com/FradSer/dotclaude)
   > A comprehensive development environment with specialized AI agents for code review, security analysi...
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86)
+  > Reverse engineer and rewrite real mode DOS programs! 
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
@@ -43,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-03-04 09:36:55 UTC*
+*最后更新于 2026-03-04 10:32:58 UTC*
 *历史记录保存在 `archive` 目录中。*
