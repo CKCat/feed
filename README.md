@@ -23,6 +23,10 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump)
   > 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FradSer/dotclaude](https://github.com/FradSer/dotclaude)
+  > A comprehensive development environment with specialized AI agents for code review, security analysi...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
   > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
@@ -39,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-03-04 08:35:00 UTC*
+*最后更新于 2026-03-04 09:36:55 UTC*
 *历史记录保存在 `archive` 目录中。*
