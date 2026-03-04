@@ -33,6 +33,8 @@
   > An application designed to silently protect user data from powerful adversaries.
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
   > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [CoWork-OS/CoWork-OS](https://github.com/CoWork-OS/CoWork-OS)
+  > Operating System for your personal AI Agents with Security-first approach. Multi-channel (WhatsApp, ...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
@@ -70,6 +72,9 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
   > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RD945/hypervisor-crack-audit](https://github.com/RD945/hypervisor-crack-audit)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Cracked5pider/Ekko](https://github.com/Cracked5pider/Ekko)
   > Sleep Obfuscation
@@ -82,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-03-04 18:43:02 UTC*
+*最后更新于 2026-03-04 19:35:33 UTC*
 *历史记录保存在 `archive` 目录中。*
