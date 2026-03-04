@@ -56,6 +56,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FradSer/dotclaude](https://github.com/FradSer/dotclaude)
   > A comprehensive development environment with specialized AI agents for code review, security analysi...
 
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) to [bkerler/dji-firmware-tools](https://github.com/bkerler/dji-firmware-tools)
+  > Tools for handling firmwares of DJI products, with focus on quadcopters.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv)
   > An interface library for RL post training with environments. 
@@ -63,6 +67,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
   > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [pivovarit/tdocker](https://github.com/pivovarit/tdocker)
+  > extremely lightweight zero-config docker CLI alternative
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -95,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-03-04 21:31:12 UTC*
+*最后更新于 2026-03-04 22:27:45 UTC*
 *历史记录保存在 `archive` 目录中。*
