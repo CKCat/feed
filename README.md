@@ -21,6 +21,8 @@
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
   > A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Te...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bakad3v/Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools)
+  > An application designed to silently protect user data from powerful adversaries.
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
@@ -46,6 +48,10 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86)
   > Reverse engineer and rewrite real mode DOS programs! 
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [JJTech0130/super-tart](https://github.com/JJTech0130/super-tart)
+  > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), and panic halt...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
   > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
@@ -62,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-03-04 14:36:31 UTC*
+*最后更新于 2026-03-04 15:37:00 UTC*
 *历史记录保存在 `archive` 目录中。*
