@@ -63,6 +63,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv)
   > An interface library for RL post training with environments. 
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd)
+  > A lightweight inference engine supporting speculative speculative decoding (SSD). 
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) to [crazyguitar/ssd](https://github.com/crazyguitar/ssd)
+  > A lightweight inference engine supporting speculative speculative decoding (SSD). 
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
@@ -103,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-03-04 22:27:45 UTC*
+*最后更新于 2026-03-04 23:26:47 UTC*
 *历史记录保存在 `archive` 目录中。*
