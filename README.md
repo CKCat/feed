@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [TheQmaks/areclaw](https://github.com/TheQmaks/areclaw)
   > Android Reverse Engineering Command-Line Automation Workspace. AI-driven security analysis with Clau...
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR)
+  > [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YO...
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
   > Automate the process of making money online.
@@ -103,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-03-05 12:53:51 UTC*
+*最后更新于 2026-03-05 13:59:30 UTC*
 *历史记录保存在 `archive` 目录中。*
