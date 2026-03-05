@@ -131,6 +131,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)
+  > Morphe app patcher for Android
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [mandiant/GoReSym](https://github.com/mandiant/GoReSym)
   > Go symbol recovery tool
@@ -159,5 +163,5 @@
 
 
 ---
-*最后更新于 2026-03-05 19:49:58 UTC*
+*最后更新于 2026-03-05 20:33:38 UTC*
 *历史记录保存在 `archive` 目录中。*
