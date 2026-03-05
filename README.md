@@ -44,6 +44,14 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)
   > Illegal rust
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [libtypec/libtypec](https://github.com/libtypec/libtypec)
+  >  “libtypec” is aimed to provide a generic interface abstracting all platform complexity for user spa...
+
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [reF1nd/sing-box](https://github.com/reF1nd/sing-box)
+  > The universal proxy platform
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yzlnew/infra-skills](https://github.com/yzlnew/infra-skills)
   > A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to ...
@@ -92,6 +100,8 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [mandiant/GoReSym](https://github.com/mandiant/GoReSym)
   > Go symbol recovery tool
+- 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [jtbennett-fe/GoReSym](https://github.com/jtbennett-fe/GoReSym) to [sonyps5201314/GoReSym](https://github.com/sonyps5201314/GoReSym)
+  > Go symbol recovery tool
 
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon)
@@ -105,7 +115,10 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)
   > A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+
 
 ---
-*最后更新于 2026-03-05 14:56:04 UTC*
+*最后更新于 2026-03-05 15:49:59 UTC*
 *历史记录保存在 `archive` 目录中。*
