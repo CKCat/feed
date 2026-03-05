@@ -91,6 +91,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [wavefnd/Wave](https://github.com/wavefnd/Wave)
   > Wave Programming Language
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ncruces/wasm2go](https://github.com/ncruces/wasm2go)
+  > A Wasm to Go translator
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
@@ -163,5 +165,5 @@
 
 
 ---
-*最后更新于 2026-03-05 20:33:38 UTC*
+*最后更新于 2026-03-05 21:31:04 UTC*
 *历史记录保存在 `archive` 目录中。*
