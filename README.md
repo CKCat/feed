@@ -61,6 +61,8 @@
   > Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram,...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Chikage0o0/opencode](https://github.com/Chikage0o0/opencode)
   > OpenCode AI 助手配置项目，支持 Google Gemini、Anthropic Claude、智谱 GLM、小米 Mimo 等 7+ 个 AI 模型。提供智能 Git 提交工作流、跨平台环...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill)
+  > Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Exc...
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [mrene/minidsp-rs](https://github.com/mrene/minidsp-rs)
@@ -101,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-03-05 10:35:43 UTC*
+*最后更新于 2026-03-05 11:31:08 UTC*
 *历史记录保存在 `archive` 目录中。*
