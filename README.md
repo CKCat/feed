@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [TheQmaks/areclaw](https://github.com/TheQmaks/areclaw)
   > Android Reverse Engineering Command-Line Automation Workspace. AI-driven security analysis with Clau...
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [joxeankoret/idamagicstrings](https://github.com/joxeankoret/idamagicstrings)
+  > An IDA Python script to extract information from string constants.
+
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR)
   > [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YO...
@@ -61,6 +65,14 @@
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
   > Build AI Agents, Visually
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openucx/ucx](https://github.com/openucx/ucx)
+  > Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [awslabs/ai-on-eks](https://github.com/awslabs/ai-on-eks)
+  > AI on EKS - Tested AI/ML for Amazon Elastic Kubernetes Service
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [wavefnd/Wave](https://github.com/wavefnd/Wave)
+  > Wave Programming Language
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
@@ -85,6 +97,10 @@
 ### [mengxipeng1122](https://github.com/mengxipeng1122)
 - 🌟 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Starred [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef)
   > mobile reverse engineering framework
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev)
+  > Create delightful software with Jupyter Notebooks
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [feicong/SoFixer](https://github.com/feicong/SoFixer)
@@ -117,8 +133,13 @@
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [21st-dev/1code](https://github.com/21st-dev/1code)
+  > Orchestration layer for coding agents (Claude Code, Codex)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [21st-dev/an-sdk](https://github.com/21st-dev/an-sdk)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [holon-run/uxc](https://github.com/holon-run/uxc)
+  > Universal API calling CLI for URL-first discovery and invocation across OpenAPI, gRPC, GraphQL, MCP,...
 
 
 ---
-*最后更新于 2026-03-05 15:49:59 UTC*
+*最后更新于 2026-03-05 18:00:29 UTC*
 *历史记录保存在 `archive` 目录中。*
