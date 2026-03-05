@@ -12,6 +12,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [joxeankoret/idamagicstrings](https://github.com/joxeankoret/idamagicstrings)
   > An IDA Python script to extract information from string constants.
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR)
   > [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YO...
@@ -36,8 +40,16 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
+
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp)
+  > Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
+- 🍴 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Forked [openmultiplayer/launcher](https://github.com/openmultiplayer/launcher) to [ThatNotEasy/Open-MP-Launcher](https://github.com/ThatNotEasy/Open-MP-Launcher)
+  > open.mp launcher (currently compatible with samp client)
+- 🍴 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Forked [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp) to [ThatNotEasy/open.mp](https://github.com/ThatNotEasy/open.mp)
   > Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
 
 ### [bet4it](https://github.com/bet4it)
@@ -69,6 +81,12 @@
   > Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [awslabs/ai-on-eks](https://github.com/awslabs/ai-on-eks)
   > AI on EKS - Tested AI/ML for Amazon Elastic Kubernetes Service
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [awslabs/ai-on-eks](https://github.com/awslabs/ai-on-eks) to [crazyguitar/ai-on-eks](https://github.com/crazyguitar/ai-on-eks)
+  > AI on EKS - Tested AI/ML for Amazon Elastic Kubernetes Service
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)
+  > Morphe app patcher for Android
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [wavefnd/Wave](https://github.com/wavefnd/Wave)
@@ -141,5 +159,5 @@
 
 
 ---
-*最后更新于 2026-03-05 18:00:29 UTC*
+*最后更新于 2026-03-05 19:49:58 UTC*
 *历史记录保存在 `archive` 目录中。*
