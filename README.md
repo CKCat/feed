@@ -11,10 +11,16 @@
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
   > Automate the process of making money online.
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
+  > Keeping track of companies that "care about your data 🥺"
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
   > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tmenier/Flurl](https://github.com/tmenier/Flurl)
+  > Fluent URL builder and testable HTTP client for .NET
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
@@ -73,11 +79,19 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [mandiant/GoReSym](https://github.com/mandiant/GoReSym)
+  > Go symbol recovery tool
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries)
   > MinGW-W64 compiler binaries
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)
+  > A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
+
 
 ---
-*最后更新于 2026-03-05 07:39:26 UTC*
+*最后更新于 2026-03-05 08:36:52 UTC*
 *历史记录保存在 `archive` 目录中。*
