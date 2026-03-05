@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
+  > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
@@ -17,10 +21,29 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [awslabs/snapchange](https://github.com/awslabs/snapchange)
   > Lightweight fuzzing of a memory snapshot using KVM
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mycrl/hylarana](https://github.com/mycrl/hylarana)
+  > A cross-platform screen cast implemented by Rust.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded)
+  > Illegal rust
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yzlnew/infra-skills](https://github.com/yzlnew/infra-skills)
+  > A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to ...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [yzlnew/infra-skills](https://github.com/yzlnew/infra-skills) to [crazyguitar/infra-skills](https://github.com/crazyguitar/infra-skills)
+  > A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to ...
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+  > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [mrene/minidsp-rs](https://github.com/mrene/minidsp-rs)
   > MiniDSP Controller
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ChiChou/entdb](https://github.com/ChiChou/entdb)
+  > Host your own *OS Entitlement Database
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [feicong/SoFixer](https://github.com/feicong/SoFixer)
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/metal-ai-skill](https://github.com/Hengle/metal-ai-skill)
@@ -32,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-03-05 01:51:30 UTC*
+*最后更新于 2026-03-05 04:09:48 UTC*
 *历史记录保存在 `archive` 目录中。*
