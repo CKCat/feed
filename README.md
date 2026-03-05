@@ -87,6 +87,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [mandiant/GoReSym](https://github.com/mandiant/GoReSym)
   > Go symbol recovery tool
 
+### [wINfOG](https://github.com/wINfOG)
+- 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon)
+  > 腾讯安全智能渗透挑战赛获奖团队答辩材料及项目列表
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries)
   > MinGW-W64 compiler binaries
@@ -97,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-03-05 09:39:20 UTC*
+*最后更新于 2026-03-05 10:35:43 UTC*
 *历史记录保存在 `archive` 目录中。*
