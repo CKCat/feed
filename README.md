@@ -1,111 +1,36 @@
-# 每日 GitHub 动态 (2026-03-04)
+# 每日 GitHub 动态 (2026-03-05)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [ChiChou](https://github.com/ChiChou)
-- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [frida/frida-rust](https://github.com/frida/frida-rust) to [ChiChou/frida-rust](https://github.com/ChiChou/frida-rust)
-  > Frida Rust bindings
-
-### [JLospinoso](https://github.com/JLospinoso)
-- 🍴 👤 [JLospinoso](https://github.com/JLospinoso) Forked [actions/checkout](https://github.com/actions/checkout) to [lospino-so/checkout](https://github.com/lospino-so/checkout)
-  > Action for checking out a repo
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyuubiRan/OhMyBot](https://github.com/KyuubiRan/OhMyBot)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [AEtherside/skland-kit](https://github.com/AEtherside/skland-kit)
-  > 森空岛妙妙工具
-
 ### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub)
-  > A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding...
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [fareedfauzi/PseudoNote](https://github.com/fareedfauzi/PseudoNote)
-
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [toon-format/toon](https://github.com/toon-format/toon)
-  > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
-  > A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Te...
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bakad3v/Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools)
-  > An application designed to silently protect user data from powerful adversaries.
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [CoWork-OS/CoWork-OS](https://github.com/CoWork-OS/CoWork-OS)
-  > Operating System for your personal AI Agents with Security-first approach. Multi-channel (WhatsApp, ...
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
-  > A TLS reverse proxy with SNI multiplexing in Go
-
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [BotchedRPR/kibo](https://github.com/BotchedRPR/kibo)
-  > BlackBerry SDM660 Bootloader tools
-
-### [affggh](https://github.com/affggh)
-- 🌟 👤 [affggh](https://github.com/affggh) Starred [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump)
-  > 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
-
-### [axhlzy](https://github.com/axhlzy)
-- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
+  > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp)
+  > Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
 
 ### [bet4it](https://github.com/bet4it)
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [FradSer/dotclaude](https://github.com/FradSer/dotclaude)
-  > A comprehensive development environment with specialized AI agents for code review, security analysi...
-
-### [bkerler](https://github.com/bkerler)
-- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) to [bkerler/dji-firmware-tools](https://github.com/bkerler/dji-firmware-tools)
-  > Tools for handling firmwares of DJI products, with focus on quadcopters.
-
-### [crazyguitar](https://github.com/crazyguitar)
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv)
-  > An interface library for RL post training with environments. 
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd)
-  > A lightweight inference engine supporting speculative speculative decoding (SSD). 
-- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) to [crazyguitar/ssd](https://github.com/crazyguitar/ssd)
-  > A lightweight inference engine supporting speculative speculative decoding (SSD). 
-
-### [dqzg12300](https://github.com/dqzg12300)
-- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
-  > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [pivovarit/tdocker](https://github.com/pivovarit/tdocker)
-  > extremely lightweight zero-config docker CLI alternative
-
-### [gatieme](https://github.com/gatieme)
-- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
-  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-
-### [horsicq](https://github.com/horsicq)
-- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86)
-  > Reverse engineer and rewrite real mode DOS programs! 
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [awslabs/snapchange](https://github.com/awslabs/snapchange)
+  > Lightweight fuzzing of a memory snapshot using KVM
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [JJTech0130/super-tart](https://github.com/JJTech0130/super-tart)
-  > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), and panic halt...
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [mrene/minidsp-rs](https://github.com/mrene/minidsp-rs)
+  > MiniDSP Controller
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
-  > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RD945/hypervisor-crack-audit](https://github.com/RD945/hypervisor-crack-audit)
-
-### [ybdt](https://github.com/ybdt)
-- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Cracked5pider/Ekko](https://github.com/Cracked5pider/Ekko)
-  > Sleep Obfuscation
-
-### [ys1231](https://github.com/ys1231)
-- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [apache/thrift](https://github.com/apache/thrift)
-  > Apache Thrift
-- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [apache/thrift](https://github.com/apache/thrift) to [ys1231/thrift](https://github.com/ys1231/thrift)
-  > Apache Thrift
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/metal-ai-skill](https://github.com/Hengle/metal-ai-skill)
+  > Claude Code skill for Metal GPU debugging and profiling on macOS
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Hengle/renderdoc-skill](https://github.com/Hengle/renderdoc-skill)
+  > A Claude Code skill for GPU frame debugging with RenderDoc via rdc-cli
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
 
 
 ---
-*最后更新于 2026-03-04 23:26:47 UTC*
+*最后更新于 2026-03-05 01:51:30 UTC*
 *历史记录保存在 `archive` 目录中。*
