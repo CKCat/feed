@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [TheQmaks/areclaw](https://github.com/TheQmaks/areclaw)
+  > Android Reverse Engineering Command-Line Automation Workspace. AI-driven security analysis with Clau...
+
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+  > Automate the process of making money online.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
   > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
@@ -37,6 +45,12 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
   > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+  > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [runesleo/claude-code-workflow](https://github.com/runesleo/claude-code-workflow)
+  > Battle-tested Claude Code workflow template — memory management, context engineering, and task routi...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [runesleo/x-reader](https://github.com/runesleo/x-reader)
+  > Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram,...
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [mrene/minidsp-rs](https://github.com/mrene/minidsp-rs)
@@ -59,7 +73,11 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries)
+  > MinGW-W64 compiler binaries
+
 
 ---
-*最后更新于 2026-03-05 05:43:53 UTC*
+*最后更新于 2026-03-05 06:46:49 UTC*
 *历史记录保存在 `archive` 目录中。*
