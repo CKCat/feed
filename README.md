@@ -47,6 +47,8 @@
   > A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to ...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+  > Build AI Agents, Visually
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
@@ -57,6 +59,8 @@
   > Battle-tested Claude Code workflow template — memory management, context engineering, and task routi...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [runesleo/x-reader](https://github.com/runesleo/x-reader)
   > Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram,...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Chikage0o0/opencode](https://github.com/Chikage0o0/opencode)
+  > OpenCode AI 助手配置项目，支持 Google Gemini、Anthropic Claude、智谱 GLM、小米 Mimo 等 7+ 个 AI 模型。提供智能 Git 提交工作流、跨平台环...
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [mrene/minidsp-rs](https://github.com/mrene/minidsp-rs)
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-03-05 08:36:52 UTC*
+*最后更新于 2026-03-05 09:39:20 UTC*
 *历史记录保存在 `archive` 目录中。*
