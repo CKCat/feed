@@ -40,6 +40,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [AYssu/libscan](https://github.com/AYssu/libscan)
+  > FastScan内核对接动态库，实现内核切换，配合内核扫描使用
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
@@ -165,5 +169,5 @@
 
 
 ---
-*最后更新于 2026-03-05 22:27:28 UTC*
+*最后更新于 2026-03-05 23:48:59 UTC*
 *历史记录保存在 `archive` 目录中。*
