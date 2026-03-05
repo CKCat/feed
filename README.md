@@ -31,6 +31,8 @@
   > A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to ...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [yzlnew/infra-skills](https://github.com/yzlnew/infra-skills) to [crazyguitar/infra-skills](https://github.com/crazyguitar/infra-skills)
   > A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
+  > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
@@ -41,6 +43,10 @@
   > MiniDSP Controller
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ChiChou/entdb](https://github.com/ChiChou/entdb)
   > Host your own *OS Entitlement Database
+
+### [mengxipeng1122](https://github.com/mengxipeng1122)
+- 🌟 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Starred [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef)
+  > mobile reverse engineering framework
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [feicong/SoFixer](https://github.com/feicong/SoFixer)
@@ -55,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-03-05 04:09:48 UTC*
+*最后更新于 2026-03-05 05:43:53 UTC*
 *历史记录保存在 `archive` 目录中。*
