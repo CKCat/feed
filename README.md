@@ -9,6 +9,8 @@
   > Trail of Bits Testing Handbook - appsec.guide
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim)
   > A Vim-like configuration for Helix
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) to [0xdea/helix-vim](https://github.com/0xdea/helix-vim)
+  > A Vim-like configuration for Helix
 
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [chatboxai/chatbox](https://github.com/chatboxai/chatbox)
@@ -97,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-03-06 20:27:58 UTC*
+*最后更新于 2026-03-06 21:26:41 UTC*
 *历史记录保存在 `archive` 目录中。*
