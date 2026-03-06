@@ -56,6 +56,8 @@
   > Lightweight Kubernetes
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config)
   > ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [helix-editor/helix](https://github.com/helix-editor/helix)
+  > A post-modern modal text editor.
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -64,6 +66,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
   > GLM-OCR: Accurate ×  Fast × Comprehensive
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaydotsee/pdfx](https://github.com/jaydotsee/pdfx)
+  > 🚀 Fast, intelligent PDF converter powered by Vision Language Models Convert PDFs to Markdown, HTML, ...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
@@ -89,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-03-06 16:36:21 UTC*
+*最后更新于 2026-03-06 17:32:03 UTC*
 *历史记录保存在 `archive` 目录中。*
