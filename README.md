@@ -26,6 +26,12 @@
   > Information & parsers for some under-documented Xbox360 structures/file formats (STFS/GDFX/XDBF/XEX....
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Cxbx-Reloaded/XbSymbolDatabase](https://github.com/Cxbx-Reloaded/XbSymbolDatabase)
   > Xbox Symbol Database library
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [emoose/idaxex](https://github.com/emoose/idaxex)
+  > Xbox/Xbox360 loader plugin for IDA 9, and xex1tool, supporting most known Xbox executable file forma...
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [fjh658/ida-pro-mcp](https://github.com/fjh658/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [philtabor/Youtube-Code-Repository](https://github.com/philtabor/Youtube-Code-Repository)
@@ -38,6 +44,10 @@
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenHands/critic-rubrics](https://github.com/OpenHands/critic-rubrics)
+  > Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe func...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
@@ -57,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-03-06 09:34:33 UTC*
+*最后更新于 2026-03-06 10:31:33 UTC*
 *历史记录保存在 `archive` 目录中。*
