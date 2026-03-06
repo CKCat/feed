@@ -55,16 +55,6 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenHands/critic-rubrics](https://github.com/OpenHands/critic-rubrics)
-  > Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe func...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
-  > Benowin Blanc — Windows through a detective's lens.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
-  > A reverse-engineering agent for IDA Pro and Binary Ninja
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [groundswellaudio/weave](https://github.com/groundswellaudio/weave)
-  > declarative C++ GUI library
-
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
   > A stack based screen manager for Unity's UI.
@@ -72,6 +62,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [slopus/happy](https://github.com/slopus/happy)
+  > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)
@@ -87,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-03-06 14:35:03 UTC*
+*最后更新于 2026-03-06 15:34:05 UTC*
 *历史记录保存在 `archive` 目录中。*
