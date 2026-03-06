@@ -50,10 +50,20 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel)
   > CachyOS kernel for NixOS
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer)
+  > Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million ins...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)
+  > Lightweight Kubernetes
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config)
+  > ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
+  > GLM-OCR: Accurate ×  Fast × Comprehensive
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
@@ -79,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-03-06 15:34:05 UTC*
+*最后更新于 2026-03-06 16:36:21 UTC*
 *历史记录保存在 `archive` 目录中。*
