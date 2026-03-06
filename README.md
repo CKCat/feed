@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/testing-handbook](https://github.com/trailofbits/testing-handbook)
   > Trail of Bits Testing Handbook - appsec.guide
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim)
+  > A Vim-like configuration for Helix
 
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [chatboxai/chatbox](https://github.com/chatboxai/chatbox)
@@ -68,6 +70,8 @@
   > GLM-OCR: Accurate ×  Fast × Comprehensive
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaydotsee/pdfx](https://github.com/jaydotsee/pdfx)
   > 🚀 Fast, intelligent PDF converter powered by Vision Language Models Convert PDFs to Markdown, HTML, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/vibe-re](https://github.com/0xeb/vibe-re)
+  > A collection of vibe reverse engineered binaries and malware (for educational purposes only)
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-03-06 19:31:35 UTC*
+*最后更新于 2026-03-06 20:27:58 UTC*
 *历史记录保存在 `archive` 目录中。*
