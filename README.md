@@ -23,6 +23,8 @@
   > A systemless module to get strong integrity easily
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [Yurii0307/yurikey](https://github.com/Yurii0307/yurikey) to [KuNgia09/yurikey](https://github.com/KuNgia09/yurikey)
   > A systemless module to get strong integrity easily
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf)
+  > This tool is now dead...
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [FireworkSky/RotatingartLauncher](https://github.com/FireworkSky/RotatingartLauncher)
@@ -58,6 +60,10 @@
   > Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe func...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
   > Benowin Blanc — Windows through a detective's lens.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [groundswellaudio/weave](https://github.com/groundswellaudio/weave)
+  > declarative C++ GUI library
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-03-06 13:52:48 UTC*
+*最后更新于 2026-03-06 14:35:03 UTC*
 *历史记录保存在 `archive` 目录中。*
