@@ -13,9 +13,19 @@
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [BryanGIG/PADumper](https://github.com/BryanGIG/PADumper)
+  > Process Android Memory Dumper
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [FireworkSky/RotatingartLauncher](https://github.com/FireworkSky/RotatingartLauncher)
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel)
+  > CachyOS kernel for NixOS
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
@@ -35,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-03-06 04:07:03 UTC*
+*最后更新于 2026-03-06 05:42:10 UTC*
 *历史记录保存在 `archive` 目录中。*
