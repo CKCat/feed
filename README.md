@@ -18,6 +18,18 @@
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [FireworkSky/RotatingartLauncher](https://github.com/FireworkSky/RotatingartLauncher)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame)
+  > One framework for creating powerful cross-platform games.
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [emoose/xbox-reversing](https://github.com/emoose/xbox-reversing)
+  > Information & parsers for some under-documented Xbox360 structures/file formats (STFS/GDFX/XDBF/XEX....
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Cxbx-Reloaded/XbSymbolDatabase](https://github.com/Cxbx-Reloaded/XbSymbolDatabase)
+  > Xbox Symbol Database library
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [philtabor/Youtube-Code-Repository](https://github.com/philtabor/Youtube-Code-Repository)
+  > Repository for most of the code from my YouTube channel
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel)
@@ -45,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-03-06 05:42:10 UTC*
+*最后更新于 2026-03-06 06:42:50 UTC*
 *历史记录保存在 `archive` 目录中。*
