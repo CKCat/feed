@@ -15,6 +15,8 @@
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [BryanGIG/PADumper](https://github.com/BryanGIG/PADumper)
   > Process Android Memory Dumper
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Yurii0307/yurikey](https://github.com/Yurii0307/yurikey)
+  > A systemless module to get strong integrity easily
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [FireworkSky/RotatingartLauncher](https://github.com/FireworkSky/RotatingartLauncher)
@@ -48,6 +50,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenHands/critic-rubrics](https://github.com/OpenHands/critic-rubrics)
   > Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe func...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
+  > Benowin Blanc — Windows through a detective's lens.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PurrNet/PurrUI](https://github.com/PurrNet/PurrUI)
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-03-06 11:25:38 UTC*
+*最后更新于 2026-03-06 12:49:18 UTC*
 *历史记录保存在 `archive` 目录中。*
