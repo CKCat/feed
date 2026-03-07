@@ -90,6 +90,8 @@
   > A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)
   > Fast, collaborative live terminal sharing over the web
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
@@ -111,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-03-07 20:21:06 UTC*
+*最后更新于 2026-03-07 21:18:00 UTC*
 *历史记录保存在 `archive` 目录中。*
