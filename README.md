@@ -34,6 +34,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital si...
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [StarryKira/copilot2api-go](https://github.com/StarryKira/copilot2api-go)
+  > A reverse-engineering of copilot,turn copilot into OpenAI/Anthropic API
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [liangdabiao/skill-ten-prompt-generator](https://github.com/liangdabiao/skill-ten-prompt-generator)
   > 基于 Claude Code Agent Skills 的 AI 提示词工程系统 - 10个场景化专家，自动路由，精准生成优秀提示词  ## 项目简介  这是一个基于 Claude Code Agen...
@@ -79,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-03-07 15:19:40 UTC*
+*最后更新于 2026-03-07 16:23:27 UTC*
 *历史记录保存在 `archive` 目录中。*
