@@ -37,6 +37,10 @@
   > Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arklexai/arksim](https://github.com/arklexai/arksim)
   > Know how your agent performs before it goes live.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+  > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
+  > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-03-07 10:19:55 UTC*
+*最后更新于 2026-03-07 11:17:11 UTC*
 *历史记录保存在 `archive` 目录中。*
