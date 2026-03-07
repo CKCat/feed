@@ -51,6 +51,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [antgroup/DeepXTrace](https://github.com/antgroup/DeepXTrace)
   > DeepXTrace is a lightweight tool for precisely diagnosing slow ranks in DeepEP-based environments.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/router](https://github.com/vllm-project/router)
+  > A high-performance and light-weight router for vLLM large scale deployment
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [StarryKira/copilot2api-go](https://github.com/StarryKira/copilot2api-go)
@@ -96,6 +98,8 @@
   > Fast, collaborative live terminal sharing over the web
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
   > AI agents running research on single-GPU nanochat training automatically
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [cisco-open-source/qtwebdriver](https://github.com/cisco-open-source/qtwebdriver) to [x64dbg/qtwebdriver](https://github.com/x64dbg/qtwebdriver)
+  > WebDriver implementation for Qt
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
@@ -117,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-03-07 22:19:56 UTC*
+*最后更新于 2026-03-07 23:19:16 UTC*
 *历史记录保存在 `archive` 目录中。*
