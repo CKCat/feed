@@ -24,6 +24,14 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital si...
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [liangdabiao/skill-ten-prompt-generator](https://github.com/liangdabiao/skill-ten-prompt-generator)
+  > 基于 Claude Code Agent Skills 的 AI 提示词工程系统 - 10个场景化专家，自动路由，精准生成优秀提示词  ## 项目简介  这是一个基于 Claude Code Agen...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
   > Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent typ...
@@ -41,6 +49,9 @@
   > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
   > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/chernobog](https://github.com/19h/chernobog)
+  > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE)
@@ -52,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-03-07 12:39:43 UTC*
+*最后更新于 2026-03-07 13:36:02 UTC*
 *历史记录保存在 `archive` 目录中。*
