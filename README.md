@@ -29,6 +29,12 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
   > Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [erfur/linjector-rs](https://github.com/erfur/linjector-rs)
+  > Code injection on Android without ptrace
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist)
+  > PiHole and AGH Blocklists
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
@@ -101,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-03-07 18:28:53 UTC*
+*最后更新于 2026-03-07 19:18:53 UTC*
 *历史记录保存在 `archive` 目录中。*
