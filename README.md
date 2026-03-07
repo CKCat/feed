@@ -73,6 +73,16 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [needle-tools/md-browse](https://github.com/needle-tools/md-browse)
   > Markdown Browser – See the web like an AI does
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
+  >  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor，多账号切换、配额监控、自动...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [MasterDev-Student/Valorant-Cheat-External](https://github.com/MasterDev-Student/Valorant-Cheat-External)
+  > Aimbot Esp Spoofer Driver
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qxcnm/Codex-Manager](https://github.com/qxcnm/Codex-Manager)
+  > 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地号池管理自动切换。
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [adminlove520/chatgpt_register](https://github.com/adminlove520/chatgpt_register)
+  > ChatGPT 批量自动注册工具 - 支持 DuckMail + Codex + CPA 面板
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE)
   > High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patche...
@@ -83,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-03-07 16:23:27 UTC*
+*最后更新于 2026-03-07 17:18:16 UTC*
 *历史记录保存在 `archive` 目录中。*
