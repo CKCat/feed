@@ -34,6 +34,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital si...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [antgroup/DeepXTrace](https://github.com/antgroup/DeepXTrace)
+  > DeepXTrace is a lightweight tool for precisely diagnosing slow ranks in DeepEP-based environments.
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [StarryKira/copilot2api-go](https://github.com/StarryKira/copilot2api-go)
   > A reverse-engineering of copilot,turn copilot into OpenAI/Anthropic API
@@ -72,6 +76,10 @@
   > Get the main content of any page as Markdown.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [needle-tools/md-browse](https://github.com/needle-tools/md-browse)
   > Markdown Browser – See the web like an AI does
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ZhangHanDong/claude-code-api-rs](https://github.com/ZhangHanDong/claude-code-api-rs)
+  > A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)
+  > Fast, collaborative live terminal sharing over the web
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
@@ -93,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-03-07 17:18:16 UTC*
+*最后更新于 2026-03-07 18:28:53 UTC*
 *历史记录保存在 `archive` 目录中。*
