@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tnm/zclaw](https://github.com/tnm/zclaw)
   > Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, cu...
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [creyD/prettier_action](https://github.com/creyD/prettier_action)
+  > GitHub action for running prettier on your projects pull requests
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [obra/superpowers](https://github.com/obra/superpowers)
@@ -31,6 +33,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [liangdabiao/skill-ten-prompt-generator](https://github.com/liangdabiao/skill-ten-prompt-generator)
   > 基于 Claude Code Agent Skills 的 AI 提示词工程系统 - 10个场景化专家，自动路由，精准生成优秀提示词  ## 项目简介  这是一个基于 Claude Code Agen...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [opgginc/opencode-bar](https://github.com/opgginc/opencode-bar)
+  > Effortless token usage tracker for OpenCode
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-03-07 13:36:02 UTC*
+*最后更新于 2026-03-07 14:21:01 UTC*
 *历史记录保存在 `archive` 目录中。*
