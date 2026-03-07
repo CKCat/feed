@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tnm/zclaw](https://github.com/tnm/zclaw)
+  > Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, cu...
+
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
@@ -30,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-03-07 07:26:06 UTC*
+*最后更新于 2026-03-07 08:26:49 UTC*
 *历史记录保存在 `archive` 目录中。*
