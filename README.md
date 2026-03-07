@@ -31,6 +31,12 @@
   > Turn any collection of documents into a knowledge graph. Extract entities and relationships via LLM,...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [meimakes/tiny-terminal](https://github.com/meimakes/tiny-terminal)
   > A fake terminal where kids can type anything and get fun responses. Teaches keyboard familiarity and...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
+  > Fractals is a recursive task orchestrator for agent swarm
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly)
+  > Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arklexai/arksim](https://github.com/arklexai/arksim)
+  > Know how your agent performs before it goes live.
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
@@ -38,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-03-07 09:25:36 UTC*
+*最后更新于 2026-03-07 10:19:55 UTC*
 *历史记录保存在 `archive` 目录中。*
