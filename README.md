@@ -36,6 +36,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist)
   > PiHole and AGH Blocklists
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/tossery](https://github.com/halal-beef/tossery)
+  > Bootloader unlock PoC for the Nokia 2.2 (wasp)
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital si...
@@ -107,5 +111,5 @@
 
 
 ---
-*最后更新于 2026-03-07 19:18:53 UTC*
+*最后更新于 2026-03-07 20:21:06 UTC*
 *历史记录保存在 `archive` 目录中。*
