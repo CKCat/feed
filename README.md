@@ -37,6 +37,7 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
   > Benowin Blanc — Windows through a detective's lens.
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [expend20/shifting-codes-python-port](https://github.com/expend20/shifting-codes-python-port)
@@ -49,11 +50,15 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/ubifix](https://github.com/LeoChen-CoreMind/ubifix)
   > CRC32 Collision Repair Tool - Efficient 4-byte patch search for CRC32 value repair
 
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [antiwar3/py](https://github.com/antiwar3/py) to [sunwm518/py](https://github.com/sunwm518/py)
+  > 飘云ark（pyark） 
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
 
 ---
-*最后更新于 2026-03-08 13:37:36 UTC*
+*最后更新于 2026-03-08 14:21:59 UTC*
 *历史记录保存在 `archive` 目录中。*
