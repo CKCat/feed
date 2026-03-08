@@ -18,6 +18,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/ModernUwpDesigner](https://github.com/ahmed605/ModernUwpDesigner)
   > XAML Designer for Modern UWP .NET 9+ projects
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [X-Cicada/IDA-MCP](https://github.com/X-Cicada/IDA-MCP)
+  > IDA MCP
+
 ### [h311d1n3r](https://github.com/h311d1n3r)
 - 🌟 👤 [h311d1n3r](https://github.com/h311d1n3r) Starred [eurecom-s3/symqemu](https://github.com/eurecom-s3/symqemu)
   > SymQEMU: Compilation-based symbolic execution for binaries
@@ -27,7 +31,11 @@
   > Shifting.Codes
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
+
 
 ---
-*最后更新于 2026-03-08 09:26:22 UTC*
+*最后更新于 2026-03-08 10:21:45 UTC*
 *历史记录保存在 `archive` 目录中。*
