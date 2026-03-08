@@ -10,6 +10,10 @@
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt) to [0xdea/vulhunt](https://github.com/0xdea/vulhunt)
   > Vulnerability detection framework by Binarly's REsearch team
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/ModernUwpDesigner](https://github.com/ahmed605/ModernUwpDesigner)
   > XAML Designer for Modern UWP .NET 9+ projects
@@ -21,8 +25,9 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [expend20/shifting-codes-python-port](https://github.com/expend20/shifting-codes-python-port)
   > Shifting.Codes
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
 
 
 ---
-*最后更新于 2026-03-08 08:27:29 UTC*
+*最后更新于 2026-03-08 09:26:22 UTC*
 *历史记录保存在 `archive` 目录中。*
