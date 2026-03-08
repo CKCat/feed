@@ -12,7 +12,11 @@
 - 🌟 👤 [h311d1n3r](https://github.com/h311d1n3r) Starred [eurecom-s3/symqemu](https://github.com/eurecom-s3/symqemu)
   > SymQEMU: Compilation-based symbolic execution for binaries
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [expend20/shifting-codes-python-port](https://github.com/expend20/shifting-codes-python-port)
+  > Shifting.Codes
+
 
 ---
-*最后更新于 2026-03-08 04:08:57 UTC*
+*最后更新于 2026-03-08 05:40:27 UTC*
 *历史记录保存在 `archive` 目录中。*
