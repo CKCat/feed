@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
+  > Vulnerability detection framework by Binarly's REsearch team
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/ModernUwpDesigner](https://github.com/ahmed605/ModernUwpDesigner)
   > XAML Designer for Modern UWP .NET 9+ projects
@@ -18,5 +22,5 @@
 
 
 ---
-*最后更新于 2026-03-08 05:40:27 UTC*
+*最后更新于 2026-03-08 06:38:14 UTC*
 *历史记录保存在 `archive` 目录中。*
