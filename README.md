@@ -34,8 +34,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/ubifix](https://github.com/LeoChen-CoreMind/ubifix)
+  > CRC32 Collision Repair Tool - Efficient 4-byte patch search for CRC32 value repair
 
 
 ---
-*最后更新于 2026-03-08 10:21:45 UTC*
+*最后更新于 2026-03-08 11:18:05 UTC*
 *历史记录保存在 `archive` 目录中。*
