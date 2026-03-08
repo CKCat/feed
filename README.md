@@ -49,6 +49,9 @@
   > ARM64 ELF Virtual Machine Protection System
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/ubifix](https://github.com/LeoChen-CoreMind/ubifix)
   > CRC32 Collision Repair Tool - Efficient 4-byte patch search for CRC32 value repair
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sanket9225/Easynews_as_indexer](https://github.com/Sanket9225/Easynews_as_indexer)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iceblinker/usenetstreamer](https://github.com/iceblinker/usenetstreamer)
+  > Privacy-focused Stremio addon for Usenet streaming via Prowlarr/NZBDav. Forked from the original w/ ...
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [antiwar3/py](https://github.com/antiwar3/py) to [sunwm518/py](https://github.com/sunwm518/py)
@@ -60,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-03-08 14:21:59 UTC*
+*最后更新于 2026-03-08 15:20:20 UTC*
 *历史记录保存在 `archive` 目录中。*
