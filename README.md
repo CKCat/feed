@@ -26,6 +26,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
+### [cinit](https://github.com/cinit)
+- 🍴 👤 [cinit](https://github.com/cinit) Forked [NeoCloud/NeoNetwork](https://github.com/NeoCloud/NeoNetwork) to [cinit/NeoNetwork](https://github.com/cinit/NeoNetwork)
+  > A useless VPN Network ready for peering
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [X-Cicada/IDA-MCP](https://github.com/X-Cicada/IDA-MCP)
   > IDA MCP
@@ -52,6 +56,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sanket9225/Easynews_as_indexer](https://github.com/Sanket9225/Easynews_as_indexer)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iceblinker/usenetstreamer](https://github.com/iceblinker/usenetstreamer)
   > Privacy-focused Stremio addon for Usenet streaming via Prowlarr/NZBDav. Forked from the original w/ ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kantord/blogtato](https://github.com/kantord/blogtato)
+  > A CLI RSS/Atom feed reader inspired by Taskwarrior
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
+  > Vulnerability detection framework by Binarly's REsearch team
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [antiwar3/py](https://github.com/antiwar3/py) to [sunwm518/py](https://github.com/sunwm518/py)
@@ -63,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-03-08 15:20:20 UTC*
+*最后更新于 2026-03-08 16:23:50 UTC*
 *历史记录保存在 `archive` 目录中。*
