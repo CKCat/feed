@@ -18,6 +18,14 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/ModernUwpDesigner](https://github.com/ahmed605/ModernUwpDesigner)
   > XAML Designer for Modern UWP .NET 9+ projects
 
+### [RicterZ](https://github.com/RicterZ)
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo)
+  > 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video produ...
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [X-Cicada/IDA-MCP](https://github.com/X-Cicada/IDA-MCP)
   > IDA MCP
@@ -39,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-03-08 11:18:05 UTC*
+*最后更新于 2026-03-08 12:41:11 UTC*
 *历史记录保存在 `archive` 目录中。*
