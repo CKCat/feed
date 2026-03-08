@@ -34,6 +34,10 @@
 - 🍴 👤 [cinit](https://github.com/cinit) Forked [NeoCloud/NeoNetwork](https://github.com/NeoCloud/NeoNetwork) to [cinit/NeoNetwork](https://github.com/cinit/NeoNetwork)
   > A useless VPN Network ready for peering
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [banteg/takopi](https://github.com/banteg/takopi)
+  > he just wants to help-pi!
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [X-Cicada/IDA-MCP](https://github.com/X-Cicada/IDA-MCP)
   > IDA MCP
@@ -70,6 +74,8 @@
   > Vulnerability detection framework by Binarly's REsearch team
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seekbytes/ptxNinja](https://github.com/seekbytes/ptxNinja)
+  > Binary Ninja plugin for reverse engineering PTX -- the virtual instruction set architecture of CUDA-...
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [antiwar3/py](https://github.com/antiwar3/py) to [sunwm518/py](https://github.com/sunwm518/py)
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-03-08 19:21:02 UTC*
+*最后更新于 2026-03-08 20:22:11 UTC*
 *历史记录保存在 `archive` 目录中。*
