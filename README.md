@@ -68,6 +68,8 @@
   > A CLI RSS/Atom feed reader inspired by Taskwarrior
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
   > Vulnerability detection framework by Binarly's REsearch team
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [antiwar3/py](https://github.com/antiwar3/py) to [sunwm518/py](https://github.com/sunwm518/py)
@@ -79,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-03-08 17:20:04 UTC*
+*最后更新于 2026-03-08 18:29:34 UTC*
 *历史记录保存在 `archive` 目录中。*
