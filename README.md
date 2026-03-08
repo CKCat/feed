@@ -18,6 +18,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/ModernUwpDesigner](https://github.com/ahmed605/ModernUwpDesigner)
   > XAML Designer for Modern UWP .NET 9+ projects
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [XiaoTong6666/Sui](https://github.com/XiaoTong6666/Sui)
+  > Modern super user interface implementation on Android.
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo)
   > 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video produ...
@@ -42,6 +46,10 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
   > Benowin Blanc — Windows through a detective's lens.
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor)
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
+  > Perfect Green Screen Keys
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [expend20/shifting-codes-python-port](https://github.com/expend20/shifting-codes-python-port)
@@ -71,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-03-08 16:23:50 UTC*
+*最后更新于 2026-03-08 17:20:04 UTC*
 *历史记录保存在 `archive` 目录中。*
