@@ -9,6 +9,12 @@
   > Vulnerability detection framework by Binarly's REsearch team
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt) to [0xdea/vulhunt](https://github.com/0xdea/vulhunt)
   > Vulnerability detection framework by Binarly's REsearch team
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [jonhoo/configs](https://github.com/jonhoo/configs)
+  > My configuration files
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [jonhoo/configs](https://github.com/jonhoo/configs) to [0xdea/jonhoo-configs](https://github.com/0xdea/jonhoo-configs)
+  > My configuration files
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [SuperCuber/dotter](https://github.com/SuperCuber/dotter)
+  > A dotfile manager and templater written in rust 🦀
 
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
@@ -87,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-03-08 21:20:05 UTC*
+*最后更新于 2026-03-08 22:19:57 UTC*
 *历史记录保存在 `archive` 目录中。*
