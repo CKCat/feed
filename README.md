@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
   > Vulnerability detection framework by Binarly's REsearch team
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt) to [0xdea/vulhunt](https://github.com/0xdea/vulhunt)
+  > Vulnerability detection framework by Binarly's REsearch team
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/ModernUwpDesigner](https://github.com/ahmed605/ModernUwpDesigner)
@@ -22,5 +24,5 @@
 
 
 ---
-*最后更新于 2026-03-08 07:28:35 UTC*
+*最后更新于 2026-03-08 08:27:29 UTC*
 *历史记录保存在 `archive` 目录中。*
