@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ahmed605/ModernUwpDesigner](https://github.com/ahmed605/ModernUwpDesigner)
+  > XAML Designer for Modern UWP .NET 9+ projects
+
+### [h311d1n3r](https://github.com/h311d1n3r)
+- 🌟 👤 [h311d1n3r](https://github.com/h311d1n3r) Starred [eurecom-s3/symqemu](https://github.com/eurecom-s3/symqemu)
+  > SymQEMU: Compilation-based symbolic execution for binaries
+
 
 ---
-*最后更新于 2026-03-08 01:52:48 UTC*
+*最后更新于 2026-03-08 04:08:57 UTC*
 *历史记录保存在 `archive` 目录中。*
