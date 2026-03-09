@@ -8,6 +8,10 @@
 - 🍴 👤 [0xnobody](https://github.com/0xnobody) Forked [NadavLor/windbg-ext-mcp](https://github.com/NadavLor/windbg-ext-mcp) to [0xnobody/windbg-ext-mcp](https://github.com/0xnobody/windbg-ext-mcp)
   > WinDbg-ext-MCP bridges your favorite LLM client (like Cursor, Claude, or VS Code) with WinDbg, enabl...
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
@@ -55,6 +59,22 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [halal-beef/tossery](https://github.com/halal-beef/tossery)
   > Bootloader unlock PoC for the Nokia 2.2 (wasp)
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow)
+  > 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all client...
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [rigmar/HexRaysPyTools](https://github.com/rigmar/HexRaysPyTools)
+  > Ida Pro plugin
+
+### [arizvisa](https://github.com/arizvisa)
+- 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [hsnodgrass/snmp_mib_archive](https://github.com/hsnodgrass/snmp_mib_archive)
+  > An archive of over 3000 unique SNMP MIBs
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
@@ -84,10 +104,20 @@
   > Intelligent automation and multi-agent orchestration for Claude Code
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
   > A configuration framework that enhances Claude Code with specialized commands, cognitive personas, a...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)
+  > Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framewor...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook)
+  > A collection of settings to make Claude Code more useful.
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+  > An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
+  > Perfect Green Screen Keys
 
 ### [konata](https://github.com/konata)
 - 🌟 👤 [konata](https://github.com/konata) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
@@ -95,6 +125,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe)
   > resurrected LLVM "C Backend", with improvements
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer)
+  > Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized and more)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
@@ -107,11 +139,17 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [raise-isayan/TunProxy](https://github.com/raise-isayan/TunProxy)
   > Android VPN interceptor to send HTTP and HTTPS traffic to a proxy
 
+### [sustrik](https://github.com/sustrik)
+- 🍴 👤 [sustrik](https://github.com/sustrik) Forked [c-bata/go-prompt](https://github.com/c-bata/go-prompt) to [Anapaya/go-prompt](https://github.com/Anapaya/go-prompt)
+  > Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
   > A Clash Client For OpenWrt
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
 
 
 ---
-*最后更新于 2026-03-09 14:05:21 UTC*
+*最后更新于 2026-03-09 15:55:38 UTC*
 *历史记录保存在 `archive` 目录中。*
