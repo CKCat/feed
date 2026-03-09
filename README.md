@@ -13,6 +13,8 @@
   > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
   > A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
+  > OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs,...
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
@@ -24,6 +26,8 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [chsbuffer/HostForge](https://github.com/chsbuffer/HostForge)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [dotnet/efcore](https://github.com/dotnet/efcore)
   > EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, upda...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [redis/redis-om-dotnet](https://github.com/redis/redis-om-dotnet)
+  > Object mapping, and more, for Redis and .NET
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-03-09 07:52:06 UTC*
+*最后更新于 2026-03-09 08:40:09 UTC*
 *历史记录保存在 `archive` 目录中。*
