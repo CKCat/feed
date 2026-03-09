@@ -60,6 +60,8 @@
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
   > AI agents running research on single-GPU nanochat training automatically
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mathew-cf/opencode-terminal-notifier](https://github.com/mathew-cf/opencode-terminal-notifier)
@@ -68,6 +70,12 @@
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
+  > Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+  > 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [refact0r/re-start](https://github.com/refact0r/re-start)
+  > a tui-style browser startpage
 
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
@@ -85,11 +93,17 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer)
   > Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized and more)
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter)
+  > Flutter Reverse Engineering Framework
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [raise-isayan/TunProxy](https://github.com/raise-isayan/TunProxy)
+  > Android VPN interceptor to send HTTP and HTTPS traffic to a proxy
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
   > A Clash Client For OpenWrt
 
 
 ---
-*最后更新于 2026-03-09 11:32:34 UTC*
+*最后更新于 2026-03-09 12:55:59 UTC*
 *历史记录保存在 `archive` 目录中。*
