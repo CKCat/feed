@@ -62,6 +62,8 @@
   > AI agents running research on single-GPU nanochat training automatically
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
+- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [riverqueue/river](https://github.com/riverqueue/river) to [tgdrive/river](https://github.com/tgdrive/river)
+  > Fast and reliable background jobs in Go
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mathew-cf/opencode-terminal-notifier](https://github.com/mathew-cf/opencode-terminal-notifier)
@@ -76,6 +78,12 @@
   > 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [refact0r/re-start](https://github.com/refact0r/re-start)
   > a tui-style browser startpage
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+  > 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, mar...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [wshobson/agents](https://github.com/wshobson/agents)
+  > Intelligent automation and multi-agent orchestration for Claude Code
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
+  > A configuration framework that enhances Claude Code with specialized commands, cognitive personas, a...
 
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
@@ -105,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-03-09 12:55:59 UTC*
+*最后更新于 2026-03-09 14:05:21 UTC*
 *历史记录保存在 `archive` 目录中。*
