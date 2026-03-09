@@ -18,9 +18,19 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)
+  > A certain block game
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [wailsapp/wails](https://github.com/wailsapp/wails)
+  > Create beautiful applications using Go
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ollama/ollama](https://github.com/ollama/ollama)
@@ -49,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-03-09 04:14:50 UTC*
+*最后更新于 2026-03-09 05:55:21 UTC*
 *历史记录保存在 `archive` 目录中。*
