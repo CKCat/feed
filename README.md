@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xnobody](https://github.com/0xnobody)
+- 🍴 👤 [0xnobody](https://github.com/0xnobody) Forked [NadavLor/windbg-ext-mcp](https://github.com/NadavLor/windbg-ext-mcp) to [0xnobody/windbg-ext-mcp](https://github.com/0xnobody/windbg-ext-mcp)
+  > WinDbg-ext-MCP bridges your favorite LLM client (like Cursor, Claude, or VS Code) with WinDbg, enabl...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
@@ -51,11 +55,19 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [halal-beef/tossery](https://github.com/halal-beef/tossery)
   > Bootloader unlock PoC for the Nokia 2.2 (wasp)
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tobi/qmd](https://github.com/tobi/qmd)
+  > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mathew-cf/opencode-terminal-notifier](https://github.com/mathew-cf/opencode-terminal-notifier)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
 
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
@@ -70,6 +82,8 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer)
+  > Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized and more)
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
@@ -77,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-03-09 10:41:44 UTC*
+*最后更新于 2026-03-09 11:32:34 UTC*
 *历史记录保存在 `archive` 目录中。*
