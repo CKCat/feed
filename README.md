@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/dotfiles](https://github.com/0xdea/dotfiles)
+  > My dotfiles for Linux and macOS
+
 ### [0xnobody](https://github.com/0xnobody)
 - 🍴 👤 [0xnobody](https://github.com/0xnobody) Forked [NadavLor/windbg-ext-mcp](https://github.com/NadavLor/windbg-ext-mcp) to [0xnobody/windbg-ext-mcp](https://github.com/0xnobody/windbg-ext-mcp)
   > WinDbg-ext-MCP bridges your favorite LLM client (like Cursor, Claude, or VS Code) with WinDbg, enabl...
@@ -120,6 +124,8 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
   > Perfect Green Screen Keys
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Prikaz98/smacs](https://github.com/Prikaz98/smacs)
+  > Short Emacs like editor (pronounce like shmaks or cyrillic шмакс)
 
 ### [konata](https://github.com/konata)
 - 🌟 👤 [konata](https://github.com/konata) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
@@ -153,5 +159,5 @@
 
 
 ---
-*最后更新于 2026-03-09 17:44:07 UTC*
+*最后更新于 2026-03-09 18:47:49 UTC*
 *历史记录保存在 `archive` 目录中。*
