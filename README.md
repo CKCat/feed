@@ -64,11 +64,18 @@
 ### [konata](https://github.com/konata)
 - 🌟 👤 [konata](https://github.com/konata) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe)
+  > resurrected LLVM "C Backend", with improvements
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
   > A Clash Client For OpenWrt
 
 
 ---
-*最后更新于 2026-03-09 09:45:17 UTC*
+*最后更新于 2026-03-09 10:41:44 UTC*
 *历史记录保存在 `archive` 目录中。*
