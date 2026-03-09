@@ -28,6 +28,8 @@
   > EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, upda...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [redis/redis-om-dotnet](https://github.com/redis/redis-om-dotnet)
   > Object mapping, and more, for Redis and .NET
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [devlooped/moq](https://github.com/devlooped/moq)
+  > The most popular and friendly mocking framework for .NET
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
@@ -38,6 +40,8 @@
   > Create beautiful applications using Go
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Octane0411/opencode-plugin-openspec](https://github.com/Octane0411/opencode-plugin-openspec)
+  > An OpenCode plugin that integrates OpenSpec, adding a dedicated 'openspec-plan' mode for creating an...
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ollama/ollama](https://github.com/ollama/ollama)
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-03-09 08:40:09 UTC*
+*最后更新于 2026-03-09 09:45:17 UTC*
 *历史记录保存在 `archive` 目录中。*
