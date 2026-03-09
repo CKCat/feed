@@ -84,6 +84,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
   > AI agents running research on single-GPU nanochat training automatically
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [karpathy/agenthub](https://github.com/karpathy/agenthub)
+  > GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tobi/qmd](https://github.com/tobi/qmd)
@@ -163,5 +165,5 @@
 
 
 ---
-*最后更新于 2026-03-09 22:24:58 UTC*
+*最后更新于 2026-03-09 23:24:44 UTC*
 *历史记录保存在 `archive` 目录中。*
