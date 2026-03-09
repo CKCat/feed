@@ -62,6 +62,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow)
   > 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all client...
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) to [Mufanc/MAA-Meow](https://github.com/Mufanc/MAA-Meow)
+  > 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all client...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [rigmar/HexRaysPyTools](https://github.com/rigmar/HexRaysPyTools)
@@ -151,5 +153,5 @@
 
 
 ---
-*最后更新于 2026-03-09 16:54:58 UTC*
+*最后更新于 2026-03-09 17:44:07 UTC*
 *历史记录保存在 `archive` 目录中。*
