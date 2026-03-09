@@ -21,6 +21,9 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)
   > A certain block game
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [chsbuffer/HostForge](https://github.com/chsbuffer/HostForge)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [dotnet/efcore](https://github.com/dotnet/efcore)
+  > EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, upda...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
@@ -59,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-03-09 06:58:19 UTC*
+*最后更新于 2026-03-09 07:52:06 UTC*
 *历史记录保存在 `archive` 目录中。*
