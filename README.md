@@ -83,6 +83,10 @@
   > GPU accelerated decision optimization 
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ThexXTURBOXx/dex2jar](https://github.com/ThexXTURBOXx/dex2jar)
+  > Tools to work with android .dex and java .class files
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mukulmantosh/awesome_goland](https://github.com/mukulmantosh/awesome_goland)
@@ -155,5 +159,5 @@
 
 
 ---
-*最后更新于 2026-03-10 21:26:12 UTC*
+*最后更新于 2026-03-10 22:25:16 UTC*
 *历史记录保存在 `archive` 目录中。*
