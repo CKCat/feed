@@ -50,6 +50,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+  > CUDA Templates and Python DSLs for High-Performance Linear Algebra
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot)
@@ -80,6 +82,13 @@
   > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [Akash-nath29/Coderrr](https://github.com/Akash-nath29/Coderrr)
+  > Your friendly neighbourhood Open Source Coding Agent
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fareedfauzi/PseudoNote](https://github.com/fareedfauzi/PseudoNote)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mr-karan/hodor](https://github.com/mr-karan/hodor)
+  > Agentic code reviewer for GitHub PRs and GitLab MRs. Multi-step reasoning with autonomous tool orche...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [thamaraiselvam/Routeweave](https://github.com/thamaraiselvam/Routeweave)
@@ -101,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-03-10 13:59:21 UTC*
+*最后更新于 2026-03-10 14:58:57 UTC*
 *历史记录保存在 `archive` 目录中。*
