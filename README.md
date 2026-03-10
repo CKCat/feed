@@ -54,6 +54,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [thesecretclub/SandboxBootkit](https://github.com/thesecretclub/SandboxBootkit)
   > Bootkit for Windows Sandbox to disable DSE/PatchGuard.
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [hiking90/rsbinder](https://github.com/hiking90/rsbinder)
+  > rsbinder provides crates implemented in pure Rust that make Binder IPC available on both Android and...
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
@@ -145,5 +149,5 @@
 
 
 ---
-*最后更新于 2026-03-10 17:43:16 UTC*
+*最后更新于 2026-03-10 18:42:09 UTC*
 *历史记录保存在 `archive` 目录中。*
