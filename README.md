@@ -16,6 +16,8 @@
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [nearai/ironclaw](https://github.com/nearai/ironclaw)
   > IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
+  > Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookL...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
@@ -37,6 +39,8 @@
   > Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma,...
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+  > Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
@@ -90,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-03-10 11:29:59 UTC*
+*最后更新于 2026-03-10 12:53:51 UTC*
 *历史记录保存在 `archive` 目录中。*
