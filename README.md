@@ -25,6 +25,8 @@
   > ZMQ and Messagepack Powered Remote Automation Plugin for x64dbg
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP)
   > Model Context Protocol for x64dbg & x32dbg
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [build-cpp/cmkr](https://github.com/build-cpp/cmkr)
+  > Modern build system based on CMake and TOML.
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
@@ -77,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-03-10 07:38:05 UTC*
+*最后更新于 2026-03-10 08:37:24 UTC*
 *历史记录保存在 `archive` 目录中。*
