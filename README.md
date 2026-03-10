@@ -49,6 +49,10 @@
   > Fully automatic censorship removal for language models
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [thesecretclub/SandboxBootkit](https://github.com/thesecretclub/SandboxBootkit)
+  > Bootkit for Windows Sandbox to disable DSE/PatchGuard.
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
@@ -67,6 +71,12 @@
   > CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
   > GPU accelerated decision optimization 
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [mukulmantosh/awesome_goland](https://github.com/mukulmantosh/awesome_goland)
+  > A curated collection of tips, tricks, and demonstration modules for mastering GoLand.
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot)
@@ -135,5 +145,5 @@
 
 
 ---
-*最后更新于 2026-03-10 16:05:18 UTC*
+*最后更新于 2026-03-10 17:43:16 UTC*
 *历史记录保存在 `archive` 目录中。*
