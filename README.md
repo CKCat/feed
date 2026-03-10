@@ -35,6 +35,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma,...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
@@ -88,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-03-10 10:35:48 UTC*
+*最后更新于 2026-03-10 11:29:59 UTC*
 *历史记录保存在 `archive` 目录中。*
