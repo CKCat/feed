@@ -8,9 +8,14 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [polybar/polybar](https://github.com/polybar/polybar)
   > A fast and easy-to-use status bar
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinted-terminal](https://github.com/tinted-theming/tinted-terminal)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [tinted-theming/tinted-terminal](https://github.com/tinted-theming/tinted-terminal) to [0xdea/tinted-terminal](https://github.com/0xdea/tinted-terminal)
 
 ### [19h](https://github.com/19h)
 - 🚀 👤 [19h](https://github.com/19h) Made [19h/dazhbog-gamayun](https://github.com/19h/dazhbog-gamayun) public
+
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+  > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr...
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
@@ -23,6 +28,8 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
   > CLI-Anything: Making ALL Software Agent-Native
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
+  > Build resilient language agents as graphs.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
@@ -47,11 +54,19 @@
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ShlokVFX/100-days-cuda](https://github.com/ShlokVFX/100-days-cuda)
+  > This repository documents my 100-day journey of learning and writing CUDA kernels.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ShlokVFX/100-days-cuda](https://github.com/ShlokVFX/100-days-cuda) to [crazyguitar/100-days-cuda](https://github.com/crazyguitar/100-days-cuda)
+  > This repository documents my 100-day journey of learning and writing CUDA kernels.
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
   > CUDA Templates and Python DSLs for High-Performance Linear Algebra
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+  > GPU accelerated decision optimization 
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot)
@@ -89,11 +104,21 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fareedfauzi/PseudoNote](https://github.com/fareedfauzi/PseudoNote)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mr-karan/hodor](https://github.com/mr-karan/hodor)
   > Agentic code reviewer for GitHub PRs and GitLab MRs. Multi-step reasoning with autonomous tool orche...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jundot/omlx](https://github.com/jundot/omlx)
+  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+  > Annotate and review coding agent plans visually, share with your team, send feedback to agents with ...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [thamaraiselvam/Routeweave](https://github.com/thamaraiselvam/Routeweave)
   > Scan once. Explore every endpoint, trace business logic, and see what breaks when your database chan...
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [andrewyng/context-hub](https://github.com/andrewyng/context-hub)
+
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [Eric-Ant/SelfInjectPE](https://github.com/Eric-Ant/SelfInjectPE)
+  > Run pe in memory without relocation table.
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [Kazuki-0147/Antigravity-Proxy](https://github.com/Kazuki-0147/Antigravity-Proxy)
@@ -110,5 +135,5 @@
 
 
 ---
-*最后更新于 2026-03-10 14:58:57 UTC*
+*最后更新于 2026-03-10 16:05:18 UTC*
 *历史记录保存在 `archive` 目录中。*
