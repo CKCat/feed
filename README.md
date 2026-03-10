@@ -9,6 +9,8 @@
   > A fast and easy-to-use status bar
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinted-terminal](https://github.com/tinted-theming/tinted-terminal)
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [tinted-theming/tinted-terminal](https://github.com/tinted-theming/tinted-terminal) to [0xdea/tinted-terminal](https://github.com/0xdea/tinted-terminal)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/base24-gnome-terminal](https://github.com/tinted-theming/base24-gnome-terminal)
+  > Base 24 themes for Gnome Terminal https://help.gnome.org/users/gnome-terminal/stable/
 
 ### [19h](https://github.com/19h)
 - 🚀 👤 [19h](https://github.com/19h) Made [19h/dazhbog-gamayun](https://github.com/19h/dazhbog-gamayun) public
@@ -16,6 +18,10 @@
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
   > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr...
+
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [blacktop/ipsw](https://github.com/blacktop/ipsw) to [ChiChou/ipsw](https://github.com/ChiChou/ipsw)
+  > iOS/macOS Research Swiss Army Knife
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
@@ -149,5 +155,5 @@
 
 
 ---
-*最后更新于 2026-03-10 19:35:42 UTC*
+*最后更新于 2026-03-10 20:29:36 UTC*
 *历史记录保存在 `archive` 目录中。*
