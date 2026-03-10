@@ -64,6 +64,9 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [hiking90/rsbinder](https://github.com/hiking90/rsbinder)
   > rsbinder provides crates implemented in pure Rust that make Binder IPC available on both Android and...
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [AncientJames/multivox](https://github.com/AncientJames/multivox)
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
@@ -159,5 +162,5 @@
 
 
 ---
-*最后更新于 2026-03-10 22:25:16 UTC*
+*最后更新于 2026-03-10 23:23:58 UTC*
 *历史记录保存在 `archive` 目录中。*
