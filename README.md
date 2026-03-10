@@ -7,6 +7,7 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [polybar/polybar](https://github.com/polybar/polybar)
   > A fast and easy-to-use status bar
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinted-terminal](https://github.com/tinted-theming/tinted-terminal)
 
 ### [19h](https://github.com/19h)
 - 🚀 👤 [19h](https://github.com/19h) Made [19h/dazhbog-gamayun](https://github.com/19h/dazhbog-gamayun) public
@@ -50,6 +51,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot)
+  > End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
@@ -73,6 +78,8 @@
   > An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
   > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+  > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [thamaraiselvam/Routeweave](https://github.com/thamaraiselvam/Routeweave)
@@ -94,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-03-10 12:53:51 UTC*
+*最后更新于 2026-03-10 13:59:21 UTC*
 *历史记录保存在 `archive` 目录中。*
