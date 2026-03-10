@@ -21,6 +21,8 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
   > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [dariushoule/x64dbg-automate](https://github.com/dariushoule/x64dbg-automate)
+  > ZMQ and Messagepack Powered Remote Automation Plugin for x64dbg
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
@@ -50,11 +52,19 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [thamaraiselvam/Routeweave](https://github.com/thamaraiselvam/Routeweave)
   > Scan once. Explore every endpoint, trace business logic, and see what breaks when your database chan...
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [Kazuki-0147/Antigravity-Proxy](https://github.com/Kazuki-0147/Antigravity-Proxy)
+  > OpenAI / Anthropic /Gemini兼容的 Antigravity 反代网关
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)
   > Skill Directory for OpenClaw
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+  > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
 
 ---
-*最后更新于 2026-03-10 05:42:31 UTC*
+*最后更新于 2026-03-10 06:43:21 UTC*
 *历史记录保存在 `archive` 目录中。*
