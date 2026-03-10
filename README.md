@@ -23,10 +23,16 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [dariushoule/x64dbg-automate](https://github.com/dariushoule/x64dbg-automate)
   > ZMQ and Messagepack Powered Remote Automation Plugin for x64dbg
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP)
+  > Model Context Protocol for x64dbg & x32dbg
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma,...
+
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
@@ -47,6 +53,10 @@
   > Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [cft0808/edict](https://github.com/cft0808/edict)
   > 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashbo...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)
+  > An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [thamaraiselvam/Routeweave](https://github.com/thamaraiselvam/Routeweave)
@@ -55,6 +65,7 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [Kazuki-0147/Antigravity-Proxy](https://github.com/Kazuki-0147/Antigravity-Proxy)
   > OpenAI / Anthropic /Gemini兼容的 Antigravity 反代网关
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [liuw1535/antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs)
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)
@@ -66,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-03-10 06:43:21 UTC*
+*最后更新于 2026-03-10 07:38:05 UTC*
 *历史记录保存在 `archive` 目录中。*
