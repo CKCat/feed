@@ -4,6 +4,19 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinted-nvim](https://github.com/tinted-theming/tinted-nvim)
+  > Neovim plugin for building tinted-theming colorscheme. Includes support for Treesitter and LSP highl...
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/base16-i3](https://github.com/tinted-theming/base16-i3)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/base16-polybar](https://github.com/tinted-theming/base16-polybar)
+  > Base16 template for polybar
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinted-tmux](https://github.com/tinted-theming/tinted-tmux)
+  > Base16 theme for tmux
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinted-sublime-text](https://github.com/tinted-theming/tinted-sublime-text)
+  > Base16 template for Sublime Text
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinty](https://github.com/tinted-theming/tinty)
+  > A base16 and base24 color scheme manager
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
 
@@ -51,6 +64,14 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bassimeledath/dispatch](https://github.com/bassimeledath/dispatch)
   > A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI w...
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
+  > Master Claude Code Hooks
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave)
+  > Proxy client
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
   > The Microsoft community Windows Package Manager manifest repository
@@ -75,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-03-11 06:49:07 UTC*
+*最后更新于 2026-03-11 07:40:52 UTC*
 *历史记录保存在 `archive` 目录中。*
