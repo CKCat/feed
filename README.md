@@ -27,6 +27,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [syoyo/tinygltf](https://github.com/syoyo/tinygltf)
+  > Header only C++11 tiny glTF 2.0 library
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [marben/irpc](https://github.com/marben/irpc)
   > A lightweight RPC generator for Go. No IDLs or reflection—just define a Go interface and generate ty...
@@ -71,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-03-11 05:45:31 UTC*
+*最后更新于 2026-03-11 06:49:07 UTC*
 *历史记录保存在 `archive` 目录中。*
