@@ -39,10 +39,16 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7)
   > Unreal Engine SDK Generator
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MrLfm/PS_Streaming_SDK_iOS](https://github.com/MrLfm/PS_Streaming_SDK_iOS)
+  > PS Streaming SDK for iOS
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng)
+  > Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
   > :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [philtabor/Deep-Q-Learning-Paper-To-Code](https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code)
@@ -73,6 +79,8 @@
   > IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [openakita/openakita](https://github.com/openakita/openakita)
   > An open-source AI assistant framework with skills and agent architecture
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [hamelsmu/claude-review-loop](https://github.com/hamelsmu/claude-review-loop)
+  > Claude Code plugin: automated code review loop with Codex
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
@@ -118,5 +126,5 @@
 
 
 ---
-*最后更新于 2026-03-11 10:35:34 UTC*
+*最后更新于 2026-03-11 11:30:48 UTC*
 *历史记录保存在 `archive` 目录中。*
