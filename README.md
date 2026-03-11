@@ -64,6 +64,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [andrewyng/context-hub](https://github.com/andrewyng/context-hub)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  > Hundreds of models & providers. One command to find what runs on your hardware.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) to [crazyguitar/llmfit](https://github.com/crazyguitar/llmfit)
+  > Hundreds of models & providers. One command to find what runs on your hardware.
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [syoyo/tinygltf](https://github.com/syoyo/tinygltf)
@@ -102,6 +106,8 @@
   > Deterministic mock LLM server for testing *across processes* — fixture-based routing with SSE stream...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill)
   > Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-supervisor](https://github.com/tintinweb/pi-supervisor)
+  > A Pi-Agent extension that supervises the coding agent and steers it toward a defined outcome. 
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
@@ -151,5 +157,5 @@
 
 
 ---
-*最后更新于 2026-03-11 20:30:19 UTC*
+*最后更新于 2026-03-11 21:29:21 UTC*
 *历史记录保存在 `archive` 目录中。*
