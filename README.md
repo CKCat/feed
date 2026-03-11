@@ -31,6 +31,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [marben/irpc](https://github.com/marben/irpc)
   > A lightweight RPC generator for Go. No IDLs or reflection—just define a Go interface and generate ty...
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [penpot/penpot](https://github.com/penpot/penpot)
+  > Penpot: The open-source design tool for design and code collaboration
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [batrachianai/toad](https://github.com/batrachianai/toad)
   > A unified interface for AI in your terminal.
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-03-11 04:07:05 UTC*
+*最后更新于 2026-03-11 05:45:31 UTC*
 *历史记录保存在 `archive` 目录中。*
