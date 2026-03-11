@@ -52,6 +52,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+  > A collective list of free APIs
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [philtabor/Deep-Q-Learning-Paper-To-Code](https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [philtabor/Deep-Q-Learning-Paper-To-Code](https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code) to [crazyguitar/Deep-Q-Learning-Paper-To-Code](https://github.com/crazyguitar/Deep-Q-Learning-Paper-To-Code)
@@ -96,6 +100,8 @@
   > my pi!
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CopilotKit/llmock](https://github.com/CopilotKit/llmock)
   > Deterministic mock LLM server for testing *across processes* — fixture-based routing with SSE stream...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill)
+  > Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
@@ -145,5 +151,5 @@
 
 
 ---
-*最后更新于 2026-03-11 18:50:03 UTC*
+*最后更新于 2026-03-11 19:38:59 UTC*
 *历史记录保存在 `archive` 目录中。*
