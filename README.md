@@ -68,6 +68,10 @@
   > Hundreds of models & providers. One command to find what runs on your hardware.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) to [crazyguitar/llmfit](https://github.com/crazyguitar/llmfit)
   > Hundreds of models & providers. One command to find what runs on your hardware.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic)
+  > ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autore...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) to [crazyguitar/atlas-gic](https://github.com/crazyguitar/atlas-gic)
+  > ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autore...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [syoyo/tinygltf](https://github.com/syoyo/tinygltf)
@@ -157,5 +161,5 @@
 
 
 ---
-*最后更新于 2026-03-11 22:23:38 UTC*
+*最后更新于 2026-03-11 23:21:48 UTC*
 *历史记录保存在 `archive` 目录中。*
