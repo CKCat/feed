@@ -20,6 +20,10 @@
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida)
   > Unofficial frida extension for VSCode
@@ -72,6 +76,10 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave)
   > Proxy client
 
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground)
+  > Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
   > The Microsoft community Windows Package Manager manifest repository
@@ -96,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-03-11 07:40:52 UTC*
+*最后更新于 2026-03-11 08:37:05 UTC*
 *历史记录保存在 `archive` 目录中。*
