@@ -16,6 +16,8 @@
   > Base16 template for Sublime Text
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tinted-theming/tinty](https://github.com/tinted-theming/tinty)
   > A base16 and base24 color scheme manager
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
+  > A light and configurable statusline/tabline plugin for Vim
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
@@ -31,6 +33,10 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7)
+  > Unreal Engine SDK Generator
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
@@ -61,6 +67,8 @@
   > A unified interface for AI in your terminal.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [buildermethods/agent-os](https://github.com/buildermethods/agent-os)
   > Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven ...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [superset-sh/superset](https://github.com/superset-sh/superset)
+  > IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
@@ -101,8 +109,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [jackwener/xhs-cli](https://github.com/jackwener/xhs-cli)
   > 小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)
+  > A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph repr...
 
 
 ---
-*最后更新于 2026-03-11 08:37:05 UTC*
+*最后更新于 2026-03-11 09:39:08 UTC*
 *历史记录保存在 `archive` 目录中。*
