@@ -81,12 +81,22 @@
   > An open-source AI assistant framework with skills and agent architecture
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [hamelsmu/claude-review-loop](https://github.com/hamelsmu/claude-review-loop)
   > Claude Code plugin: automated code review loop with Codex
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude)
+  > Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
   > IDA Domain API - Python interface for IDA Pro reverse engineering platform
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bassimeledath/dispatch](https://github.com/bassimeledath/dispatch)
   > A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI w...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahsaso/my-pi](https://github.com/noahsaso/my-pi)
+  > my pi!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CopilotKit/llmock](https://github.com/CopilotKit/llmock)
+  > Deterministic mock LLM server for testing *across processes* — fixture-based routing with SSE stream...
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
+  > 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
@@ -117,6 +127,10 @@
   > A reverse-engineering agent for IDA Pro and Binary Ninja
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ynsmroztas/AndroHunter](https://github.com/ynsmroztas/AndroHunter)
   > AndroHunter
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [starsong-consulting/GhydraMCP](https://github.com/starsong-consulting/GhydraMCP)
+  > Multi-instance Ghidra plugin with HATEOAS REST API and MCP bridge for AI-assisted reverse engineerin...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [jackwener/xhs-cli](https://github.com/jackwener/xhs-cli)
@@ -126,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-03-11 11:30:48 UTC*
+*最后更新于 2026-03-11 12:53:38 UTC*
 *历史记录保存在 `archive` 目录中。*
