@@ -59,6 +59,7 @@
   > Post-training with Tinker
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [andrewyng/context-hub](https://github.com/andrewyng/context-hub)
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [syoyo/tinygltf](https://github.com/syoyo/tinygltf)
@@ -139,8 +140,10 @@
   > 小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)
   > A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph repr...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [FalkorDB/falkordblite](https://github.com/FalkorDB/falkordblite)
+  > Embedded, zero-config FalkorDB for Python, start a local graph database with no setup.
 
 
 ---
-*最后更新于 2026-03-11 15:43:44 UTC*
+*最后更新于 2026-03-11 16:47:55 UTC*
 *历史记录保存在 `archive` 目录中。*
