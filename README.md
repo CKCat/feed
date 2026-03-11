@@ -25,6 +25,8 @@
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida)
@@ -69,6 +71,8 @@
   > Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven ...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [superset-sh/superset](https://github.com/superset-sh/superset)
   > IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [openakita/openakita](https://github.com/openakita/openakita)
+  > An open-source AI assistant framework with skills and agent architecture
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
@@ -114,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-03-11 09:39:08 UTC*
+*最后更新于 2026-03-11 10:35:34 UTC*
 *历史记录保存在 `archive` 目录中。*
