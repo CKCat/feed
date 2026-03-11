@@ -43,6 +43,8 @@
   > PS Streaming SDK for iOS
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng)
   > Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
+  > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
@@ -140,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-03-11 12:53:38 UTC*
+*最后更新于 2026-03-11 14:03:49 UTC*
 *历史记录保存在 `archive` 目录中。*
