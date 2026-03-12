@@ -117,7 +117,6 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [agent-sh/agentsys](https://github.com/agent-sh/agentsys)
   > AI writes code. This automates everything else · 15 plugins, 35 agents, and 32 skills · for Claude C...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [claudeforge/orchestrator](https://github.com/claudeforge/orchestrator)
-  > Autonomous Development System for Claude Code
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
@@ -153,5 +152,5 @@
 
 
 ---
-*最后更新于 2026-03-12 21:29:24 UTC*
+*最后更新于 2026-03-12 22:22:33 UTC*
 *历史记录保存在 `archive` 目录中。*
