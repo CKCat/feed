@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [secuworm2/frida-android-helper2](https://github.com/secuworm2/frida-android-helper2)
   > Frida Android utilities 2
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated)
+  > A cargo subcommand for displaying when Rust dependencies are out of date
+
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
@@ -149,5 +153,5 @@
 
 
 ---
-*最后更新于 2026-03-12 20:30:54 UTC*
+*最后更新于 2026-03-12 21:29:24 UTC*
 *历史记录保存在 `archive` 目录中。*
