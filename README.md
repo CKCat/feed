@@ -82,6 +82,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
   > CLI-Anything: Making ALL Software Agent-Native
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tgale96/grouped_gemm](https://github.com/tgale96/grouped_gemm)
+  > PyTorch bindings for CUTLASS grouped GEMM.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [tgale96/grouped_gemm](https://github.com/tgale96/grouped_gemm) to [crazyguitar/grouped_gemm](https://github.com/crazyguitar/grouped_gemm)
+  > PyTorch bindings for CUTLASS grouped GEMM.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
@@ -139,5 +143,5 @@
 
 
 ---
-*最后更新于 2026-03-12 18:49:47 UTC*
+*最后更新于 2026-03-12 19:39:59 UTC*
 *历史记录保存在 `archive` 目录中。*
