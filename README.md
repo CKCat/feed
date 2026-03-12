@@ -68,6 +68,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [espanso/espanso](https://github.com/espanso/espanso)
   > A Privacy-first, Cross-platform Text Expander written in Rust
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+  > Lightpanda: the headless browser designed for AI and automation
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
 
@@ -116,6 +120,8 @@
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [cfal/shoes](https://github.com/cfal/shoes) to [nzcv/shoes](https://github.com/nzcv/shoes)
   > A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snel...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+  > CLI-Anything: Making ALL Software Agent-Native
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
@@ -143,5 +149,5 @@
 
 
 ---
-*最后更新于 2026-03-12 19:39:59 UTC*
+*最后更新于 2026-03-12 20:30:54 UTC*
 *历史记录保存在 `archive` 目录中。*
