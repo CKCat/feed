@@ -12,6 +12,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [reactos/reactos](https://github.com/reactos/reactos)
   > A free Windows-compatible Operating System
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [tanweai/pua](https://github.com/tanweai/pua)
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
@@ -60,6 +64,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow)
   > Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rit...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
@@ -74,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-03-12 06:50:47 UTC*
+*最后更新于 2026-03-12 07:43:23 UTC*
 *历史记录保存在 `archive` 目录中。*
