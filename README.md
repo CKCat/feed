@@ -79,6 +79,10 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe)
   > tic-tac-toe in a single call to printf
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+  > CLI-Anything: Making ALL Software Agent-Native
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
@@ -135,5 +139,5 @@
 
 
 ---
-*最后更新于 2026-03-12 17:50:01 UTC*
+*最后更新于 2026-03-12 18:49:47 UTC*
 *历史记录保存在 `archive` 目录中。*
