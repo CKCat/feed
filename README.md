@@ -56,6 +56,9 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [espanso/espanso](https://github.com/espanso/espanso)
   > A Privacy-first, Cross-platform Text Expander written in Rust
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
@@ -79,10 +82,16 @@
   > Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rit...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
   > All-in-one AI framework & toolkit
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [agent-sh/agentsys](https://github.com/agent-sh/agentsys)
+  > AI writes code. This automates everything else · 15 plugins, 35 agents, and 32 skills · for Claude C...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [claudeforge/orchestrator](https://github.com/claudeforge/orchestrator)
+  > Autonomous Development System for Claude Code
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+- 🍴 👤 [nzcv](https://github.com/nzcv) Forked [cfal/shoes](https://github.com/cfal/shoes) to [nzcv/shoes](https://github.com/nzcv/shoes)
+  > A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snel...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
@@ -110,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-03-12 12:53:33 UTC*
+*最后更新于 2026-03-12 14:01:35 UTC*
 *历史记录保存在 `archive` 目录中。*
