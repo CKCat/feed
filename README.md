@@ -55,6 +55,10 @@
   > An app to monitor the (Codex) situation
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
   > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+  > A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plug...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow)
+  > Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rit...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-03-12 05:48:37 UTC*
+*最后更新于 2026-03-12 06:50:47 UTC*
 *历史记录保存在 `archive` 目录中。*
