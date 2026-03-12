@@ -14,7 +14,7 @@
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [tanweai/pua](https://github.com/tanweai/pua)
-  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -31,6 +31,8 @@
   > Access to Anthropic's safety-first language model APIs in C#
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [symgraph/IDAssist](https://github.com/symgraph/IDAssist)
   > AI-Powered Reverse Engineering Plugin for IDA Pro
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [wh0/nix-cache-view](https://github.com/wh0/nix-cache-view)
+  > in-browser .nar explorer
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
@@ -40,13 +42,13 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [bitwarden/server](https://github.com/bitwarden/server)
   > Bitwarden infrastructure/backend (API, database, Docker, etc).
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [tanweai/pua](https://github.com/tanweai/pua)
-  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)
   > Visual testing tool for MCP servers
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tanweai/pua](https://github.com/tanweai/pua)
-  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
@@ -83,10 +85,10 @@
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [webkubor/typora-Bloom-theme](https://github.com/webkubor/typora-Bloom-theme)
-  > A gentle Typora theme designed for long-term writing and reading.
+  > A calm Typora theme for long-form writing, focused reading, and aesthetic markdown publishing.
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Muyiiiii/Typora_Claude-Like_Theme](https://github.com/Muyiiiii/Typora_Claude-Like_Theme)
 
 
 ---
-*最后更新于 2026-03-12 08:38:02 UTC*
+*最后更新于 2026-03-12 09:38:58 UTC*
 *历史记录保存在 `archive` 目录中。*
