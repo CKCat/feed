@@ -45,6 +45,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)
   > Visual testing tool for MCP servers
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tanweai/pua](https://github.com/tanweai/pua)
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
@@ -75,6 +77,10 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [yaml/www.yaml.org](https://github.com/yaml/www.yaml.org)
   > The yaml.org website
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [dazzyddos/lsawhisper-bof](https://github.com/dazzyddos/lsawhisper-bof)
+  > A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA un...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [webkubor/typora-Bloom-theme](https://github.com/webkubor/typora-Bloom-theme)
   > A gentle Typora theme designed for long-term writing and reading.
@@ -82,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-03-12 07:43:23 UTC*
+*最后更新于 2026-03-12 08:38:02 UTC*
 *历史记录保存在 `archive` 目录中。*
