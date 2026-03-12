@@ -75,9 +75,17 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
+### [rootkiter](https://github.com/rootkiter)
+- 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [adibirzu/openclaw-security-monitor](https://github.com/adibirzu/openclaw-security-monitor)
+  > Proactive security monitoring for OpenClaw deployments. Detects ClawHavoc, AMOS stealer, CVE-2026-25...
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [yaml/www.yaml.org](https://github.com/yaml/www.yaml.org)
   > The yaml.org website
+
+### [wrlu](https://github.com/wrlu)
+- 🌟 👤 [wrlu](https://github.com/wrlu) Starred [werasik2aa/Huawei-Unlock-Tool](https://github.com/werasik2aa/Huawei-Unlock-Tool)
+  > Unlock bootloader / FRP Huawei
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [dazzyddos/lsawhisper-bof](https://github.com/dazzyddos/lsawhisper-bof)
@@ -90,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-03-12 09:38:58 UTC*
+*最后更新于 2026-03-12 10:35:15 UTC*
 *历史记录保存在 `archive` 目录中。*
