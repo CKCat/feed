@@ -15,6 +15,8 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+  > The agent engineering platform
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -54,9 +56,9 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [espanso/espanso](https://github.com/espanso/espanso)
   > A Privacy-first, Cross-platform Text Expander written in Rust
 
-### [Ylarod](https://github.com/Ylarod)
-- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [Ylarod/sub2api](https://github.com/Ylarod/sub2api)
-  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+### [caikelun](https://github.com/caikelun)
+- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
@@ -75,6 +77,8 @@
   > A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plug...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow)
   > Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rit...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
+  > All-in-one AI framework & toolkit
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
@@ -106,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-03-12 11:29:08 UTC*
+*最后更新于 2026-03-12 12:53:33 UTC*
 *历史记录保存在 `archive` 目录中。*
