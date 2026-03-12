@@ -7,6 +7,10 @@
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [adibirzu/openclaw-security-monitor](https://github.com/adibirzu/openclaw-security-monitor)
+  > Proactive security monitoring for OpenClaw deployments. Detects ClawHavoc, AMOS stealer, CVE-2026-25...
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [reactos/reactos](https://github.com/reactos/reactos)
@@ -35,6 +39,8 @@
   > AI-Powered Reverse Engineering Plugin for IDA Pro
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [wh0/nix-cache-view](https://github.com/wh0/nix-cache-view)
   > in-browser .nar explorer
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [tanweai/pua](https://github.com/tanweai/pua)
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
@@ -45,6 +51,8 @@
   > Bitwarden infrastructure/backend (API, database, Docker, etc).
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)
@@ -119,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-03-12 14:01:35 UTC*
+*最后更新于 2026-03-12 15:55:48 UTC*
 *历史记录保存在 `archive` 目录中。*
