@@ -50,6 +50,14 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [espanso/espanso](https://github.com/espanso/espanso)
+  > A Privacy-first, Cross-platform Text Expander written in Rust
+
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [Ylarod/sub2api](https://github.com/Ylarod/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
@@ -98,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-03-12 10:35:15 UTC*
+*最后更新于 2026-03-12 11:29:08 UTC*
 *历史记录保存在 `archive` 目录中。*
