@@ -127,6 +127,7 @@
   > The world's first agentic reverse engineer.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vxcozy/tome](https://github.com/vxcozy/tome)
   > Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 
 ### [peng-zhihui](https://github.com/peng-zhihui)
 - 🍴 👤 [peng-zhihui](https://github.com/peng-zhihui) Forked [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) to [peng-zhihui/cherry-studio](https://github.com/peng-zhihui/cherry-studio)
@@ -148,5 +149,5 @@
 
 
 ---
-*最后更新于 2026-03-13 16:36:35 UTC*
+*最后更新于 2026-03-13 17:31:51 UTC*
 *历史记录保存在 `archive` 目录中。*
