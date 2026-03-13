@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Magisk-Modules-Alt-Repo/sqlite3](https://github.com/Magisk-Modules-Alt-Repo/sqlite3)
+  > SQLite 3 Magisk Module for Android arm64-v8a, armeabi-v7a, x86 and x86_64. The releases can be found...
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
   > Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -70,6 +74,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [HarryWu99/funny_cute](https://github.com/HarryWu99/funny_cute) to [crazyguitar/funny_cute](https://github.com/crazyguitar/funny_cute)
   > Some funny cute/cuteDSL code snippets
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [sgInnora/alipay-deeplink-research](https://github.com/sgInnora/alipay-deeplink-research)
+  > Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full ...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)
   > Release repo for our SLAM Handbook
@@ -120,11 +128,15 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [EliranG/claude-duet](https://github.com/EliranG/claude-duet)
   > Two devs, one Claude. Share a Claude Code session in real-time with E2E encryption.
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 ### [ys1231](https://github.com/ys1231)
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) to [ys1231/Rikugan](https://github.com/ys1231/Rikugan)
   > A reverse-engineering agent for IDA Pro and Binary Ninja
 
 
 ---
-*最后更新于 2026-03-13 12:52:35 UTC*
+*最后更新于 2026-03-13 13:58:17 UTC*
 *历史记录保存在 `archive` 目录中。*
