@@ -20,6 +20,10 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
   > TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI t...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
+  > android 无痕probe 无痕hook kpm demo
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [XboxReplay/xboxlive-auth](https://github.com/XboxReplay/xboxlive-auth)
   > A lightweight, zero-dependency Xbox Network (Xbox Live) authentication library for Node.js with OAut...
@@ -73,10 +77,16 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [tover0314-w/opentypeless](https://github.com/tover0314-w/opentypeless)
   > Talkmore with Opentypeless. Type with your voice. Anywhere.    Talk - Recoding - Polish - Done!
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [alibaba/page-agent](https://github.com/alibaba/page-agent)
+  > JavaScript in-page GUI agent. Control web interfaces with natural language.
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
   > Clash Nyanpasu～(∠・ω< )⌒☆​
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [AndroidPatch/APatchDocs](https://github.com/AndroidPatch/APatchDocs)
+  > The documents repository of APatch Project.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [always-further/nono](https://github.com/always-further/nono)
@@ -98,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-03-13 08:35:47 UTC*
+*最后更新于 2026-03-13 09:35:38 UTC*
 *历史记录保存在 `archive` 目录中。*
