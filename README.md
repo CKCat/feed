@@ -12,6 +12,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
+  > android 无痕probe 无痕hook kpm demo
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-03-13 04:09:45 UTC*
+*最后更新于 2026-03-13 05:45:28 UTC*
 *历史记录保存在 `archive` 目录中。*
