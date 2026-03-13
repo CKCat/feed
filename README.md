@@ -9,10 +9,16 @@
   > Custom deserialization for fields that can be specified as multiple types.
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jonasbb/serde_with](https://github.com/jonasbb/serde_with)
   > This crate provides custom de/serialization helpers to use in combination with serde's `with`-annota...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [nightmarewalker/D-MemFS](https://github.com/nightmarewalker/D-MemFS)
+  > In-process virtual filesystem with hard quota for Python
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [always-further/nono](https://github.com/always-further/nono)
@@ -24,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-03-13 01:50:31 UTC*
+*最后更新于 2026-03-13 04:09:45 UTC*
 *历史记录保存在 `archive` 目录中。*
