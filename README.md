@@ -61,6 +61,8 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon)
   > :bowtie: Fast, configurable, shell plugin manager
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [hashicorp/vault](https://github.com/hashicorp/vault)
+  > A tool for secrets management, encryption as a service, and privileged access management
 
 ### [abcz316](https://github.com/abcz316)
 - 🌟 👤 [abcz316](https://github.com/abcz316) Starred [libtersafe/dfm_android_unicorn](https://github.com/libtersafe/dfm_android_unicorn)
@@ -77,6 +79,8 @@
   > Some funny cute/cuteDSL code snippets
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [HarryWu99/funny_cute](https://github.com/HarryWu99/funny_cute) to [crazyguitar/funny_cute](https://github.com/crazyguitar/funny_cute)
   > Some funny cute/cuteDSL code snippets
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning)
+  > Minimal and Clean Reinforcement Learning Examples
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [sgInnora/alipay-deeplink-research](https://github.com/sgInnora/alipay-deeplink-research)
@@ -142,5 +146,5 @@
 
 
 ---
-*最后更新于 2026-03-13 14:49:23 UTC*
+*最后更新于 2026-03-13 15:38:53 UTC*
 *历史记录保存在 `archive` 目录中。*
