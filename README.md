@@ -31,6 +31,10 @@
   > MCP server for Reqable local capture data
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Fumo-Unlockers/Xbox-Achievement-Unlocker](https://github.com/Fumo-Unlockers/Xbox-Achievement-Unlocker)
   > Achievement unlocker for xbox games (barely works but it does)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [DesolateVE/xal-cpp](https://github.com/DesolateVE/xal-cpp)
+  > Xbox Authentication Library for CPP
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Xbox-Game-Pass-bypass-o65a/.github](https://github.com/Xbox-Game-Pass-bypass-o65a/.github)
+  > Xbox Game Pass Bypass Tool 🎮 Access All Games Without Subscriptions or Limits
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
@@ -112,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-03-13 10:32:58 UTC*
+*最后更新于 2026-03-13 11:28:23 UTC*
 *历史记录保存在 `archive` 目录中。*
