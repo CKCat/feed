@@ -88,6 +88,14 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
   > Official inference framework for 1-bit LLMs
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit)
+  > Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [dhanji/g3](https://github.com/dhanji/g3)
+  > experiments in goose
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
+  > Knowledge Engine for AI Agent Memory in 6 lines of code
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
   > Clash Nyanpasu～(∠・ω< )⌒☆​
@@ -99,6 +107,8 @@
   > Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure k...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
   > The world's first agentic reverse engineer.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vxcozy/tome](https://github.com/vxcozy/tome)
+  > Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.
 
 ### [peng-zhihui](https://github.com/peng-zhihui)
 - 🍴 👤 [peng-zhihui](https://github.com/peng-zhihui) Forked [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) to [peng-zhihui/cherry-studio](https://github.com/peng-zhihui/cherry-studio)
@@ -116,5 +126,5 @@
 
 
 ---
-*最后更新于 2026-03-13 11:28:23 UTC*
+*最后更新于 2026-03-13 12:52:35 UTC*
 *历史记录保存在 `archive` 目录中。*
