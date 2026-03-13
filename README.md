@@ -148,6 +148,8 @@
   > Lightweight TCP/IP stack with no dynamic memory allocations
 - 🍴 👤 [p-ranav](https://github.com/p-ranav) Forked [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip) to [p-ranav/wolfip](https://github.com/p-ranav/wolfip)
   > Lightweight TCP/IP stack with no dynamic memory allocations
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [TomBadash/MouseControl](https://github.com/TomBadash/MouseControl)
+  > A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX...
 
 ### [peng-zhihui](https://github.com/peng-zhihui)
 - 🍴 👤 [peng-zhihui](https://github.com/peng-zhihui) Forked [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) to [peng-zhihui/cherry-studio](https://github.com/peng-zhihui/cherry-studio)
@@ -169,5 +171,5 @@
 
 
 ---
-*最后更新于 2026-03-13 20:30:18 UTC*
+*最后更新于 2026-03-13 21:29:18 UTC*
 *历史记录保存在 `archive` 目录中。*
