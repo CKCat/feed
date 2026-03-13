@@ -145,6 +145,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [folk-js/allio](https://github.com/folk-js/allio)
   > Experimental system to expose accessibility trees as read-write interfaces and augment existing apps...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [altunenes/parakeet-rs](https://github.com/altunenes/parakeet-rs)
+  > very fast speech-to-text, diarization, streaming (even in CPU) with NVIDIA Parakeet in Rust
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
@@ -174,5 +176,5 @@
 
 
 ---
-*最后更新于 2026-03-13 22:24:39 UTC*
+*最后更新于 2026-03-13 23:25:39 UTC*
 *历史记录保存在 `archive` 目录中。*
