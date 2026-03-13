@@ -58,6 +58,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [newren/git-filter-repo](https://github.com/newren/git-filter-repo)
   > Quickly rewrite git repository history (filter-branch replacement)
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [malb/lattice-estimator](https://github.com/malb/lattice-estimator)
+  > An attempt at a new LWE estimator
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
@@ -103,6 +107,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [nightmarewalker/D-MemFS](https://github.com/nightmarewalker/D-MemFS)
   > In-process virtual filesystem with hard quota for Python
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [gurgeous/tennis](https://github.com/gurgeous/tennis)
+  > stylish CSV tables in your terminal
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [tover0314-w/opentypeless](https://github.com/tover0314-w/opentypeless)
@@ -163,5 +169,5 @@
 
 
 ---
-*最后更新于 2026-03-13 19:28:33 UTC*
+*最后更新于 2026-03-13 20:30:18 UTC*
 *历史记录保存在 `archive` 目录中。*
