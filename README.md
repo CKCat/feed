@@ -58,6 +58,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon)
+  > :bowtie: Fast, configurable, shell plugin manager
+
 ### [abcz316](https://github.com/abcz316)
 - 🌟 👤 [abcz316](https://github.com/abcz316) Starred [libtersafe/dfm_android_unicorn](https://github.com/libtersafe/dfm_android_unicorn)
   > dfm simulation execution coordinate decryption scheme suitable for Android
@@ -138,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-03-13 13:58:17 UTC*
+*最后更新于 2026-03-13 14:49:23 UTC*
 *历史记录保存在 `archive` 目录中。*
