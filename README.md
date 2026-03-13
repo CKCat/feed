@@ -29,6 +29,8 @@
   > A lightweight, zero-dependency Xbox Network (Xbox Live) authentication library for Node.js with OAut...
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ElonJask/reqable-mcp](https://github.com/ElonJask/reqable-mcp)
   > MCP server for Reqable local capture data
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Fumo-Unlockers/Xbox-Achievement-Unlocker](https://github.com/Fumo-Unlockers/Xbox-Achievement-Unlocker)
+  > Achievement unlocker for xbox games (barely works but it does)
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
@@ -91,6 +93,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [always-further/nono](https://github.com/always-further/nono)
   > Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure k...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
+  > The world's first agentic reverse engineer.
 
 ### [peng-zhihui](https://github.com/peng-zhihui)
 - 🍴 👤 [peng-zhihui](https://github.com/peng-zhihui) Forked [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) to [peng-zhihui/cherry-studio](https://github.com/peng-zhihui/cherry-studio)
@@ -108,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-03-13 09:35:38 UTC*
+*最后更新于 2026-03-13 10:32:58 UTC*
 *历史记录保存在 `archive` 目录中。*
