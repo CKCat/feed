@@ -81,6 +81,8 @@
   > Some funny cute/cuteDSL code snippets
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning)
   > Minimal and Clean Reinforcement Learning Examples
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [namjaejeon/ksmbd](https://github.com/namjaejeon/ksmbd)
+  > ksmbd kernel server(SMB/CIFS server)
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [sgInnora/alipay-deeplink-research](https://github.com/sgInnora/alipay-deeplink-research)
@@ -146,5 +148,5 @@
 
 
 ---
-*最后更新于 2026-03-13 15:38:53 UTC*
+*最后更新于 2026-03-13 16:36:35 UTC*
 *历史记录保存在 `archive` 目录中。*
