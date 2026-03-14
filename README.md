@@ -91,6 +91,8 @@
   > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/levo](https://github.com/momo5502/levo)
   > 🪁 AOT binary translation toolchain
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sfikas/medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)
+  > A list of Medical imaging datasets.
 
 ### [oacia](https://github.com/oacia)
 - 🌟 👤 [oacia](https://github.com/oacia) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
@@ -98,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-03-14 22:22:10 UTC*
+*最后更新于 2026-03-14 23:24:14 UTC*
 *历史记录保存在 `archive` 目录中。*
