@@ -14,6 +14,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
   > CLI-Anything: Making ALL Software Agent-Native
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [zevorn/rt-claw](https://github.com/zevorn/rt-claw)
+  > Making AI Assistants Cheap Again!
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [cppstat/cppstat](https://github.com/cppstat/cppstat)
   > C and C++ Compiler Support Page
@@ -27,8 +31,6 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [chickendrop89/fastboot-oem-extractor](https://github.com/chickendrop89/fastboot-oem-extractor)
   > Extract hidden "fastboot oem" commands from firmware blobs
-- 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [SsageParuders/sub2api](https://github.com/SsageParuders/sub2api)
-  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [edk2-porting/oh-my-abl](https://github.com/edk2-porting/oh-my-abl)
@@ -79,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-03-14 16:27:34 UTC*
+*最后更新于 2026-03-14 17:24:08 UTC*
 *历史记录保存在 `archive` 目录中。*
