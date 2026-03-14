@@ -62,6 +62,8 @@
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [cocool97/adb_client](https://github.com/cocool97/adb_client)
   > Rust ADB (Android Debug Bridge) client library
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
+  > android 无痕probe 无痕hook kpm demo
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jina-ai/cli](https://github.com/jina-ai/cli)
@@ -81,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-03-14 17:24:08 UTC*
+*最后更新于 2026-03-14 18:33:56 UTC*
 *历史记录保存在 `archive` 目录中。*
