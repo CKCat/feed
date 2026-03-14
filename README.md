@@ -17,8 +17,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/rdmatop](https://github.com/crazyguitar/rdmatop)
   > htop-like TUI for real-time RDMA network monitoring.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Mes0903/Cpp-Miner](https://github.com/Mes0903/Cpp-Miner)
+  > A column introduce and explain modern C++ features. 
 
 
 ---
-*最后更新于 2026-03-14 05:42:13 UTC*
+*最后更新于 2026-03-14 06:41:13 UTC*
 *历史记录保存在 `archive` 目录中。*
