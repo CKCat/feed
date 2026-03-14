@@ -14,7 +14,11 @@
 - 🍴 👤 [baikaishiuc](https://github.com/baikaishiuc) Forked [openai/codex](https://github.com/openai/codex) to [baikaishiuc/codex](https://github.com/baikaishiuc/codex)
   > Lightweight coding agent that runs in your terminal
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/rdmatop](https://github.com/crazyguitar/rdmatop)
+  > htop-like TUI for real-time RDMA network monitoring.
+
 
 ---
-*最后更新于 2026-03-14 04:08:10 UTC*
+*最后更新于 2026-03-14 05:42:13 UTC*
 *历史记录保存在 `archive` 目录中。*
