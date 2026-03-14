@@ -35,6 +35,10 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [edk2-porting/oh-my-abl](https://github.com/edk2-porting/oh-my-abl)
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🍴 👤 [alexander-hanel](https://github.com/alexander-hanel) Forked [trailofbits/ml-file-formats](https://github.com/trailofbits/ml-file-formats) to [alexander-hanel/ml-file-formats](https://github.com/alexander-hanel/ml-file-formats)
+  > List of ML file formats
+
 ### [archibate](https://github.com/archibate)
 - 🍴 👤 [archibate](https://github.com/archibate) Forked [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) to [archibate/FireRedASR](https://github.com/archibate/FireRedASR)
   > Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving...
@@ -76,6 +80,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
   > Autonomous experiment loop extension for pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [calesennett/pi-codex-fast](https://github.com/calesennett/pi-codex-fast)
+  > pi extension that enables priority service tier for OpenAI/OpenAI Codex requests.
 
 ### [oacia](https://github.com/oacia)
 - 🌟 👤 [oacia](https://github.com/oacia) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
@@ -83,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-03-14 19:23:50 UTC*
+*最后更新于 2026-03-14 20:24:16 UTC*
 *历史记录保存在 `archive` 目录中。*
