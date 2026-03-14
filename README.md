@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [SsageParuders/sub2api](https://github.com/SsageParuders/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 ### [archibate](https://github.com/archibate)
 - 🍴 👤 [archibate](https://github.com/archibate) Forked [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) to [archibate/FireRedASR](https://github.com/archibate/FireRedASR)
   > Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving...
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-03-14 06:41:13 UTC*
+*最后更新于 2026-03-14 07:32:41 UTC*
 *历史记录保存在 `archive` 目录中。*
