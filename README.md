@@ -11,8 +11,8 @@
   > Android RASP project, Protect APK from any vulnerabilities.
 
 ### [SsageParuders](https://github.com/SsageParuders)
-- 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [SsageParuders/sub2api](https://github.com/SsageParuders/sub2api)
-  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [chickendrop89/fastboot-oem-extractor](https://github.com/chickendrop89/fastboot-oem-extractor)
+  > Extract hidden "fastboot oem" commands from firmware blobs
 
 ### [archibate](https://github.com/archibate)
 - 🍴 👤 [archibate](https://github.com/archibate) Forked [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) to [archibate/FireRedASR](https://github.com/archibate/FireRedASR)
@@ -36,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-03-14 09:29:06 UTC*
+*最后更新于 2026-03-14 10:24:16 UTC*
 *历史记录保存在 `archive` 目录中。*
