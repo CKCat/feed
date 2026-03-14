@@ -34,7 +34,11 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jina-ai/cli](https://github.com/jina-ai/cli)
   > All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
+  > Autonomous experiment loop extension for pi
+
 
 ---
-*最后更新于 2026-03-14 10:24:16 UTC*
+*最后更新于 2026-03-14 11:21:12 UTC*
 *历史记录保存在 `archive` 目录中。*
