@@ -82,6 +82,15 @@
   > Autonomous experiment loop extension for pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [calesennett/pi-codex-fast](https://github.com/calesennett/pi-codex-fast)
   > pi extension that enables priority service tier for OpenAI/OpenAI Codex requests.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RamXX/zettelvault](https://github.com/RamXX/zettelvault)
+  > Transform an Obsidian vault into PARA + Zettelkasten structure using DSPy and RLM
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/vmtrace](https://github.com/momo5502/vmtrace)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [uxlfoundation/oneTBB](https://github.com/uxlfoundation/oneTBB)
+  > oneAPI Threading Building Blocks (oneTBB)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NaC-L/corrosion](https://github.com/NaC-L/corrosion)
+  > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/levo](https://github.com/momo5502/levo)
+  > 🪁 AOT binary translation toolchain
 
 ### [oacia](https://github.com/oacia)
 - 🌟 👤 [oacia](https://github.com/oacia) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
@@ -89,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-03-14 20:24:16 UTC*
+*最后更新于 2026-03-14 21:23:03 UTC*
 *历史记录保存在 `archive` 目录中。*
