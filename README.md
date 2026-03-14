@@ -24,7 +24,11 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Mes0903/Cpp-Miner](https://github.com/Mes0903/Cpp-Miner)
   > A column introduce and explain modern C++ features. 
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jina-ai/cli](https://github.com/jina-ai/cli)
+  > All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes.
+
 
 ---
-*最后更新于 2026-03-14 07:32:41 UTC*
+*最后更新于 2026-03-14 08:30:33 UTC*
 *历史记录保存在 `archive` 目录中。*
