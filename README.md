@@ -10,9 +10,21 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [kikyps/GarudaDefender](https://github.com/kikyps/GarudaDefender) to [KuNgia09/GarudaDefender](https://github.com/KuNgia09/GarudaDefender)
   > Android RASP project, Protect APK from any vulnerabilities.
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+  > CLI-Anything: Making ALL Software Agent-Native
+
+### [RicterZ](https://github.com/RicterZ)
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [postlund/pyatv](https://github.com/postlund/pyatv) to [RicterZ/pyatv](https://github.com/RicterZ/pyatv)
+  > A client library for Apple TV and AirPlay devices
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [home-assistant/core](https://github.com/home-assistant/core) to [RicterZ/core](https://github.com/RicterZ/core)
+  > :house_with_garden: Open source home automation that puts local control and privacy first.
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [chickendrop89/fastboot-oem-extractor](https://github.com/chickendrop89/fastboot-oem-extractor)
   > Extract hidden "fastboot oem" commands from firmware blobs
+- 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [SsageParuders/sub2api](https://github.com/SsageParuders/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [archibate](https://github.com/archibate)
 - 🍴 👤 [archibate](https://github.com/archibate) Forked [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) to [archibate/FireRedASR](https://github.com/archibate/FireRedASR)
@@ -30,11 +42,17 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Mes0903/Cpp-Miner](https://github.com/Mes0903/Cpp-Miner)
   > A column introduce and explain modern C++ features. 
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [cocool97/adb_client](https://github.com/cocool97/adb_client)
+  > Rust ADB (Android Debug Bridge) client library
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [jina-ai/cli](https://github.com/jina-ai/cli)
   > All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
   > A collection of 100+ specialized Claude Code subagents covering a wide range of development use case...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
+  > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
@@ -42,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-03-14 13:42:57 UTC*
+*最后更新于 2026-03-14 14:25:35 UTC*
 *历史记录保存在 `archive` 目录中。*
