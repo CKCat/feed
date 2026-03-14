@@ -14,6 +14,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
   > CLI-Anything: Making ALL Software Agent-Native
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [cppstat/cppstat](https://github.com/cppstat/cppstat)
+  > C and C++ Compiler Support Page
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [postlund/pyatv](https://github.com/postlund/pyatv) to [RicterZ/pyatv](https://github.com/RicterZ/pyatv)
   > A client library for Apple TV and AirPlay devices
@@ -42,6 +46,14 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Mes0903/Cpp-Miner](https://github.com/Mes0903/Cpp-Miner)
   > A column introduce and explain modern C++ features. 
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [JetBrains/fernflower](https://github.com/JetBrains/fernflower)
+  > Decompiler from Java bytecode to Java, used in IntelliJ IDEA.
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zigzap/zap](https://github.com/zigzap/zap)
+  > blazingly fast backends in zig
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [cocool97/adb_client](https://github.com/cocool97/adb_client)
   > Rust ADB (Android Debug Bridge) client library
@@ -58,7 +70,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
   > Autonomous experiment loop extension for pi
 
+### [oacia](https://github.com/oacia)
+- 🌟 👤 [oacia](https://github.com/oacia) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+  > AirPods liberated from Apple's ecosystem.
+
 
 ---
-*最后更新于 2026-03-14 14:25:35 UTC*
+*最后更新于 2026-03-14 15:24:39 UTC*
 *历史记录保存在 `archive` 目录中。*
