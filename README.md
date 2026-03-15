@@ -8,6 +8,10 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [emoose/idaxex](https://github.com/emoose/idaxex)
   > Xbox/Xbox360 loader plugin for IDA 9, and xex1tool, supporting most known Xbox executable file forma...
 
+### [Bzi-Han](https://github.com/Bzi-Han)
+- 🌟 👤 [Bzi-Han](https://github.com/Bzi-Han) Starred [github/advisory-database](https://github.com/github/advisory-database)
+  > Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [slopus/happy](https://github.com/slopus/happy)
   > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
@@ -124,5 +128,5 @@
 
 
 ---
-*最后更新于 2026-03-15 22:24:07 UTC*
+*最后更新于 2026-03-15 23:25:53 UTC*
 *历史记录保存在 `archive` 目录中。*
