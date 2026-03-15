@@ -75,6 +75,8 @@
   > OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [louisnino/RLcode](https://github.com/louisnino/RLcode)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [louisnino/RLcode](https://github.com/louisnino/RLcode) to [crazyguitar/RLcode](https://github.com/crazyguitar/RLcode)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
+  > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Oct4Pie/toolbridge](https://github.com/Oct4Pie/toolbridge)
@@ -122,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-03-15 18:34:31 UTC*
+*最后更新于 2026-03-15 19:25:17 UTC*
 *历史记录保存在 `archive` 目录中。*
