@@ -110,11 +110,15 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [tiann/KernelSU](https://github.com/tiann/KernelSU)
   > A Kernel based root solution for Android
 
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse) to [smx-smx/YeetMouse](https://github.com/smx-smx/YeetMouse)
+  > Kernel module for mouse acceleration on Linux!
+
 ### [tinysec](https://github.com/tinysec)
 - 🚀 👤 [tinysec](https://github.com/tinysec) Made [tinysec/gitbot-e2e-test](https://github.com/tinysec/gitbot-e2e-test) public
   > E2E integration test for gitbot worker
 
 
 ---
-*最后更新于 2026-03-15 16:28:42 UTC*
+*最后更新于 2026-03-15 17:24:08 UTC*
 *历史记录保存在 `archive` 目录中。*
