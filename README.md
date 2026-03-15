@@ -14,6 +14,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node)
   > Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command ...
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
+  > free online AI resume editor，the only official website is  https://magicv.art
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [StevenLooman/async_upnp_client](https://github.com/StevenLooman/async_upnp_client) to [RicterZ/async_upnp_client](https://github.com/RicterZ/async_upnp_client)
   > Async UPnP Client for Python
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-03-15 08:33:21 UTC*
+*最后更新于 2026-03-15 09:31:10 UTC*
 *历史记录保存在 `archive` 目录中。*
