@@ -42,6 +42,12 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [louisnino/RLcode](https://github.com/louisnino/RLcode)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [louisnino/RLcode](https://github.com/louisnino/RLcode) to [crazyguitar/RLcode](https://github.com/crazyguitar/RLcode)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DCC-BS/docling-glm-ocr](https://github.com/DCC-BS/docling-glm-ocr)
+  > A docling plugin to integrate a remote hosted GLM-OCR OCR model into docling
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ArctykDev/obsidian-project-planner](https://github.com/ArctykDev/obsidian-project-planner)
+  > A beautiful, Microsoft Premium Planner style plugin for Obsidian
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Build your Agent Team - Multi-agent coordination platform — parses intent to structured Spec, routes...
@@ -56,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-03-15 10:26:11 UTC*
+*最后更新于 2026-03-15 11:22:57 UTC*
 *历史记录保存在 `archive` 目录中。*
