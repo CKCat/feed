@@ -28,6 +28,10 @@
 - 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [SsageParuders/sub2api](https://github.com/SsageParuders/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/gym](https://github.com/openai/gym)
   > A toolkit for developing and comparing reinforcement learning algorithms.
@@ -47,6 +51,8 @@
   > A docling plugin to integrate a remote hosted GLM-OCR OCR model into docling
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ArctykDev/obsidian-project-planner](https://github.com/ArctykDev/obsidian-project-planner)
   > A beautiful, Microsoft Premium Planner style plugin for Obsidian
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
+  > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
@@ -62,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-03-15 11:22:57 UTC*
+*最后更新于 2026-03-15 12:45:43 UTC*
 *历史记录保存在 `archive` 目录中。*
