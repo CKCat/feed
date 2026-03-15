@@ -33,6 +33,10 @@
   > PyTorch implementation of soft actor critic
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [pranz24/pytorch-soft-actor-critic](https://github.com/pranz24/pytorch-soft-actor-critic) to [crazyguitar/pytorch-soft-actor-critic](https://github.com/crazyguitar/pytorch-soft-actor-critic)
   > PyTorch implementation of soft actor critic
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/baselines](https://github.com/openai/baselines)
+  > OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [louisnino/RLcode](https://github.com/louisnino/RLcode)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [louisnino/RLcode](https://github.com/louisnino/RLcode) to [crazyguitar/RLcode](https://github.com/crazyguitar/RLcode)
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [tiann/KernelSU](https://github.com/tiann/KernelSU)
@@ -44,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-03-15 05:02:23 UTC*
+*最后更新于 2026-03-15 06:52:40 UTC*
 *历史记录保存在 `archive` 目录中。*
