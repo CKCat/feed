@@ -17,10 +17,20 @@
   > Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node)
   > Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command ...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+  > Secure and fast microVMs for serverless computing.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sigoden/aichat](https://github.com/sigoden/aichat)
+  > All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to...
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
   > free online AI resume editor，the only official website is  https://magicv.art
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [pq-crystals/security-estimates](https://github.com/pq-crystals/security-estimates)
+  > Security Estimation Scripts for Kyber and Dilithium
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [pq-crystals/kyber](https://github.com/pq-crystals/kyber)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [pq-crystals/dilithium](https://github.com/pq-crystals/dilithium)
 
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [StevenLooman/async_upnp_client](https://github.com/StevenLooman/async_upnp_client) to [RicterZ/async_upnp_client](https://github.com/RicterZ/async_upnp_client)
@@ -32,15 +42,23 @@
 - 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [SsageParuders/sub2api](https://github.com/SsageParuders/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [5ec1cff/resetprop-rs](https://github.com/5ec1cff/resetprop-rs) to [Kernel-SU/ksu_props](https://github.com/Kernel-SU/ksu_props)
+  > Powered by Copilot
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
   > A reverse-engineering agent for IDA Pro and Binary Ninja
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bjarneo/aether](https://github.com/bjarneo/aether)
   > Aether, create Omarchy themes the easy way.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [deemoun/PulseAPK-Core](https://github.com/deemoun/PulseAPK-Core)
-  > PulseAPK Core: Cross-Platform tool for working with APK files: Decompilation, Analysis, Compilation
+  > PulseAPK Core: Cross-Platform tool for working with APK files: Decompilation, Analysis, Building
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [deusyu/translate-book](https://github.com/deusyu/translate-book)
   > Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel suba...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab)
+  > A simple, pretty terminal tool that lets you search and download files from GitHub without leaving y...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
+  > A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to you...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/gym](https://github.com/openai/gym)
@@ -55,6 +73,10 @@
   > OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [louisnino/RLcode](https://github.com/louisnino/RLcode)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [louisnino/RLcode](https://github.com/louisnino/RLcode) to [crazyguitar/RLcode](https://github.com/crazyguitar/RLcode)
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [tanweai/pua](https://github.com/tanweai/pua)
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed ...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [emexos/emexOS](https://github.com/emexos/emexOS)
@@ -86,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-03-15 14:27:12 UTC*
+*最后更新于 2026-03-15 15:25:44 UTC*
 *历史记录保存在 `archive` 目录中。*
