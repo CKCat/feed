@@ -31,6 +31,8 @@
   > Security Estimation Scripts for Kyber and Dilithium
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [pq-crystals/kyber](https://github.com/pq-crystals/kyber)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [pq-crystals/dilithium](https://github.com/pq-crystals/dilithium)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [pq-code-package/mlkem-native](https://github.com/pq-code-package/mlkem-native)
+  > Secure, fast, and portable C90 implementation of ML-KEM / FIPS 203
 
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [StevenLooman/async_upnp_client](https://github.com/StevenLooman/async_upnp_client) to [RicterZ/async_upnp_client](https://github.com/RicterZ/async_upnp_client)
@@ -74,9 +76,15 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [louisnino/RLcode](https://github.com/louisnino/RLcode)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [louisnino/RLcode](https://github.com/louisnino/RLcode) to [crazyguitar/RLcode](https://github.com/crazyguitar/RLcode)
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Oct4Pie/toolbridge](https://github.com/Oct4Pie/toolbridge)
+  > Enable tool/function calling for any LLM, in OpenAI and Ollama API formats, adding universal functio...
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed ...
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [zhuowei/cheese](https://github.com/zhuowei/cheese)
+  > CVE-2025-21479 proof-of-concept, I think
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [emexos/emexOS](https://github.com/emexos/emexOS)
@@ -108,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-03-15 15:25:44 UTC*
+*最后更新于 2026-03-15 16:28:42 UTC*
 *历史记录保存在 `archive` 目录中。*
