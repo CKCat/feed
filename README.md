@@ -8,6 +8,10 @@
 - 🌟 👤 [19h](https://github.com/19h) Starred [emoose/idaxex](https://github.com/emoose/idaxex)
   > Xbox/Xbox360 loader plugin for IDA 9, and xex1tool, supporting most known Xbox executable file forma...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [slopus/happy](https://github.com/slopus/happy)
+  > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [clawdotnet/openclaw.net](https://github.com/clawdotnet/openclaw.net)
   > Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)
@@ -31,6 +35,10 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
   > A reverse-engineering agent for IDA Pro and Binary Ninja
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [bjarneo/aether](https://github.com/bjarneo/aether)
+  > Aether, create Omarchy themes the easy way.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [deemoun/PulseAPK-Core](https://github.com/deemoun/PulseAPK-Core)
+  > PulseAPK Core: Cross-Platform tool for working with APK files: Decompilation, Analysis, Compilation
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/gym](https://github.com/openai/gym)
@@ -53,6 +61,8 @@
   > A beautiful, Microsoft Premium Planner style plugin for Obsidian
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
   > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+  > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
@@ -68,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-03-15 12:45:43 UTC*
+*最后更新于 2026-03-15 13:43:44 UTC*
 *历史记录保存在 `archive` 目录中。*
