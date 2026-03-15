@@ -101,6 +101,8 @@
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dsidlo/FlexiTTS](https://github.com/dsidlo/FlexiTTS)
   > A simple powerful workflow for Text to AudioBook creation. Uses realistic AI Voices via Qwen3-TTS wi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rweijnen/MDView](https://github.com/rweijnen/MDView)
+  > Markdown viewer - Total Commander Lister plugin and standalone executable
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
@@ -120,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-03-15 17:24:08 UTC*
+*最后更新于 2026-03-15 18:34:31 UTC*
 *历史记录保存在 `archive` 目录中。*
