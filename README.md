@@ -39,6 +39,8 @@
   > Aether, create Omarchy themes the easy way.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [deemoun/PulseAPK-Core](https://github.com/deemoun/PulseAPK-Core)
   > PulseAPK Core: Cross-Platform tool for working with APK files: Decompilation, Analysis, Compilation
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [deusyu/translate-book](https://github.com/deusyu/translate-book)
+  > Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel suba...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/gym](https://github.com/openai/gym)
@@ -54,6 +56,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [louisnino/RLcode](https://github.com/louisnino/RLcode)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [louisnino/RLcode](https://github.com/louisnino/RLcode) to [crazyguitar/RLcode](https://github.com/crazyguitar/RLcode)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [emexos/emexOS](https://github.com/emexos/emexOS)
+  > The Official emexOS repo, discord server: https://discord.gg/Cbeg3gJzC7
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DCC-BS/docling-glm-ocr](https://github.com/DCC-BS/docling-glm-ocr)
   > A docling plugin to integrate a remote hosted GLM-OCR OCR model into docling
@@ -63,6 +69,8 @@
   > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dsidlo/FlexiTTS](https://github.com/dsidlo/FlexiTTS)
+  > A simple powerful workflow for Text to AudioBook creation. Uses realistic AI Voices via Qwen3-TTS wi...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
@@ -78,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-03-15 13:43:44 UTC*
+*最后更新于 2026-03-15 14:27:12 UTC*
 *历史记录保存在 `archive` 目录中。*
