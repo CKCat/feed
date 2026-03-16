@@ -40,11 +40,17 @@
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [basecamp/writebook](https://github.com/basecamp/writebook)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison)
+  > Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/linux](https://github.com/mt6572-mainline/linux)
   > Linux kernel source tree with patches for the MediaTek MT6572
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [TomKing062/unisoc_chipram_signcheck_exploit](https://github.com/TomKing062/unisoc_chipram_signcheck_exploit)
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser)
+  > An experimental Gecko-based web browser for iOS 14+.
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill)
@@ -64,6 +70,8 @@
   > The Uber Go Style Guide.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
   > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime)
+  > Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS,...
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
@@ -102,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-03-16 19:04:58 UTC*
+*最后更新于 2026-03-16 20:35:14 UTC*
 *历史记录保存在 `archive` 目录中。*
