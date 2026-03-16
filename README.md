@@ -34,6 +34,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [flora131/atomic](https://github.com/flora131/atomic)
   > Understand and research any codebase. Plan complex features. Ship them autonomously.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
+  > Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized appl...
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
@@ -44,10 +48,17 @@
   > Real-time terminal monitor for Ray clusters — track GPUs, jobs, and nodes like htop.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
   > A community collection of OpenClaw use cases for making life easier.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [devsisters/DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)
+  > Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [uber-go/guide](https://github.com/uber-go/guide)
   > The Uber Go Style Guide.
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
+  > File-driven AI trading agent engine for crypto and securities markets
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [hotseo123/jichangtizi-youhuima](https://github.com/hotseo123/jichangtizi-youhuima)
@@ -58,6 +69,10 @@
 ### [lc-soft](https://github.com/lc-soft)
 - 🍴 👤 [lc-soft](https://github.com/lc-soft) Forked [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) to [lc-soft/openfang](https://github.com/lc-soft/openfang)
   > Open-source Agent Operating System
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [CSIT-SG/AETHER](https://github.com/CSIT-SG/AETHER)
+  > An AI-powered reverse-engineering copilot for assisting tedious malware analysis in IDA Pro.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
@@ -77,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-03-16 13:04:19 UTC*
+*最后更新于 2026-03-16 14:56:25 UTC*
 *历史记录保存在 `archive` 目录中。*
