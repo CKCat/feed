@@ -24,9 +24,20 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/mu_feature_debugger](https://github.com/microsoft/mu_feature_debugger)
   > Project Mu based UEFI SW/FW debugger
 
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+  > 🎥      Make videos programmatically with React
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/raytop](https://github.com/crazyguitar/raytop)
   > Real-time terminal monitor for Ray clusters — track GPUs, jobs, and nodes like htop.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+  > A community collection of OpenClaw use cases for making life easier.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
+  > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
 
 ### [smx-smx](https://github.com/smx-smx)
 - 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [wdoekes/asterisk-chan-dongle](https://github.com/wdoekes/asterisk-chan-dongle) to [smx-smx/asterisk-chan-dongle](https://github.com/smx-smx/asterisk-chan-dongle)
@@ -38,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-03-16 05:11:47 UTC*
+*最后更新于 2026-03-16 07:11:59 UTC*
 *历史记录保存在 `archive` 目录中。*
