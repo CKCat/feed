@@ -54,6 +54,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [uber-go/guide](https://github.com/uber-go/guide)
   > The Uber Go Style Guide.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+  > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
@@ -92,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-03-16 14:56:25 UTC*
+*最后更新于 2026-03-16 16:05:09 UTC*
 *历史记录保存在 `archive` 目录中。*
