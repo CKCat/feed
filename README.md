@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [monokai-pro/zed](https://github.com/monokai-pro/zed)
+  > Monokai Pro for Zed (Community Edition)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [monokai-pro/zed](https://github.com/monokai-pro/zed) to [0xdea/monokai-pro-ce-zed](https://github.com/0xdea/monokai-pro-ce-zed)
+  > Monokai Pro for Zed (Community Edition)
+
 ### [0xnobody](https://github.com/0xnobody)
 - 🍴 👤 [0xnobody](https://github.com/0xnobody) Forked [tum-i4/obfuscation-benchmarks](https://github.com/tum-i4/obfuscation-benchmarks) to [0xnobody/obfuscation-benchmarks](https://github.com/0xnobody/obfuscation-benchmarks)
   > A set of programs used for benchmarking the strength of obfuscation
@@ -96,6 +102,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
   > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [serge1/COFFI](https://github.com/serge1/COFFI) to [scc-tw/COFFI](https://github.com/scc-tw/COFFI)
   > A header-only C++ library for accessing files in COFF binary format. (Including Windows PE/PE+ forma...
@@ -110,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-03-16 20:35:14 UTC*
+*最后更新于 2026-03-16 21:36:24 UTC*
 *历史记录保存在 `archive` 目录中。*
