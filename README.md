@@ -41,15 +41,27 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
   > A community collection of OpenClaw use cases for making life easier.
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [uber-go/guide](https://github.com/uber-go/guide)
+  > The Uber Go Style Guide.
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [hotseo123/jichangtizi-youhuima](https://github.com/hotseo123/jichangtizi-youhuima)
   > 一个最新机场优惠码汇总合集，已经更新到2026年3月，新年大促活动已经结束，当前机场活动都是每月的拉新活动或者站点促销活动，新用户的折扣力度比较大，部分机场站内活动叠加， 最高可享45折！本仓库每个月...
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [hotseo123/shida-jichang-tuijian](https://github.com/hotseo123/shida-jichang-tuijian)
   > 2026年十大靠谱优质稳定机场推荐(内附机场折扣优惠码) 🌟 真实体验整理，持续更新，省心翻墙必备清单，少踩坑，稳又好用。
 
+### [lc-soft](https://github.com/lc-soft)
+- 🍴 👤 [lc-soft](https://github.com/lc-soft) Forked [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) to [lc-soft/openfang](https://github.com/lc-soft/openfang)
+  > Open-source Agent Operating System
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
   > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
+
+### [scc-tw](https://github.com/scc-tw)
+- 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [serge1/COFFI](https://github.com/serge1/COFFI) to [scc-tw/COFFI](https://github.com/scc-tw/COFFI)
+  > A header-only C++ library for accessing files in COFF binary format. (Including Windows PE/PE+ forma...
 
 ### [smx-smx](https://github.com/smx-smx)
 - 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [wdoekes/asterisk-chan-dongle](https://github.com/wdoekes/asterisk-chan-dongle) to [smx-smx/asterisk-chan-dongle](https://github.com/smx-smx/asterisk-chan-dongle)
@@ -61,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-03-16 10:02:56 UTC*
+*最后更新于 2026-03-16 11:43:14 UTC*
 *历史记录保存在 `archive` 目录中。*
