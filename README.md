@@ -38,6 +38,11 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
   > Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized appl...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/linux](https://github.com/mt6572-mainline/linux)
+  > Linux kernel source tree with patches for the MediaTek MT6572
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [TomKing062/unisoc_chipram_signcheck_exploit](https://github.com/TomKing062/unisoc_chipram_signcheck_exploit)
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
@@ -94,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-03-16 16:05:09 UTC*
+*最后更新于 2026-03-16 17:57:16 UTC*
 *历史记录保存在 `archive` 目录中。*
