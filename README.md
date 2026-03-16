@@ -19,10 +19,16 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Geocld/PeaSyo](https://github.com/Geocld/PeaSyo)
   > Android next generation open-source remote play client for PlayStation.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [achievements-app/psn-api](https://github.com/achievements-app/psn-api)
+  > A JavaScript library that lets you get trophy, user, and game data from the PlayStation Network.
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/mu_feature_debugger](https://github.com/microsoft/mu_feature_debugger)
   > Project Mu based UEFI SW/FW debugger
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [flora131/atomic](https://github.com/flora131/atomic)
+  > Understand and research any codebase. Plan complex features. Ship them autonomously.
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill)
@@ -34,6 +40,12 @@
   > Real-time terminal monitor for Ray clusters — track GPUs, jobs, and nodes like htop.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
   > A community collection of OpenClaw use cases for making life easier.
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [hotseo123/jichangtizi-youhuima](https://github.com/hotseo123/jichangtizi-youhuima)
+  > 一个最新机场优惠码汇总合集，已经更新到2026年3月，新年大促活动已经结束，当前机场活动都是每月的拉新活动或者站点促销活动，新用户的折扣力度比较大，部分机场站内活动叠加， 最高可享45折！本仓库每个月...
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [hotseo123/shida-jichang-tuijian](https://github.com/hotseo123/shida-jichang-tuijian)
+  > 2026年十大靠谱优质稳定机场推荐(内附机场折扣优惠码) 🌟 真实体验整理，持续更新，省心翻墙必备清单，少踩坑，稳又好用。
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
@@ -49,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-03-16 07:11:59 UTC*
+*最后更新于 2026-03-16 08:52:39 UTC*
 *历史记录保存在 `archive` 目录中。*
