@@ -90,6 +90,12 @@
   > Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ntop/PF_RING](https://github.com/ntop/PF_RING)
   > High-speed packet processing framework
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yaof20/Flash-RL](https://github.com/yaof20/Flash-RL)
+  > Implementation for FP8/INT8 Rollout for RL training without performence drop.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit)
+  > Collection of reinforcement learning algorithms
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit) to [crazyguitar/rlkit](https://github.com/crazyguitar/rlkit)
+  > Collection of reinforcement learning algorithms
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [TaszkSecLabs/xiaomi-c400-pwn](https://github.com/TaszkSecLabs/xiaomi-c400-pwn)
@@ -126,6 +132,10 @@
   > TinyClaw is a team of personal agents that collaborate with each other
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)
+  > The awesome document factory
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mstingl/md2weasypdf](https://github.com/mstingl/md2weasypdf)
+  > Generate PDFs from Markdown Documents using Custom Layouts
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [CLARATION/Feather](https://github.com/CLARATION/Feather)
@@ -161,5 +171,5 @@
 
 
 ---
-*最后更新于 2026-03-17 22:29:34 UTC*
+*最后更新于 2026-03-17 23:29:16 UTC*
 *历史记录保存在 `archive` 目录中。*
