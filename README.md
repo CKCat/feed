@@ -11,6 +11,10 @@
   > Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
   > CLI-Anything: Making ALL Software Agent-Native
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
+  > AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory ...
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [alibaba/page-agent](https://github.com/alibaba/page-agent)
+  > JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/amulet2](https://github.com/d-kfmnn/amulet2)
@@ -112,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-03-17 09:52:54 UTC*
+*最后更新于 2026-03-17 10:47:27 UTC*
 *历史记录保存在 `archive` 目录中。*
