@@ -23,10 +23,16 @@
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [bmax121/APatch](https://github.com/bmax121/APatch)
+  > The patching of Android kernel and Android system
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) to [JingMatrix/RSS-to-Telegram-Bot](https://github.com/JingMatrix/RSS-to-Telegram-Bot)
   > A Telegram RSS bot that cares about your reading experience
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity)
+  > An overview of LLMs for cybersecurity.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
@@ -77,6 +83,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [luuquangvu/Gemini-FastAPI](https://github.com/luuquangvu/Gemini-FastAPI)
   > Web-based Gemini models wrapped into an OpenAI-compatible API.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF)
+  > An Android Storage Access Framework document provider for rclone
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
@@ -116,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-03-17 10:47:27 UTC*
+*最后更新于 2026-03-17 11:40:57 UTC*
 *历史记录保存在 `archive` 目录中。*
