@@ -42,6 +42,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [saileaxh/cpueaxh](https://github.com/saileaxh/cpueaxh)
   > Lightweight, dependency-free x86-64 CPU emulation library with Unicorn-like guest mode and direct ho...
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)
+  > reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
   > Extract Windows credentials directly from VM memory snapshots and virtual disks
@@ -51,12 +55,20 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
   > Usability-first dotfiles
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/raytop](https://github.com/crazyguitar/raytop)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
   > 🙌 OpenHands: AI-Driven Development
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [TaszkSecLabs/xiaomi-c400-pwn](https://github.com/TaszkSecLabs/xiaomi-c400-pwn)
+  > Exploits and jailbreak for Xiaomi Smart Cameras
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
+  > android 无痕probe 无痕hook kpm demo
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [luuquangvu/Gemini-FastAPI](https://github.com/luuquangvu/Gemini-FastAPI)
@@ -85,6 +97,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [gaasedelen/patching](https://github.com/gaasedelen/patching) to [ys1231/patching](https://github.com/ys1231/patching)
   > An Interactive Binary Patching Plugin for IDA Pro
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch)
+  > Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
+  > The open agent skills tool - npx skills
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
@@ -96,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-03-17 08:50:05 UTC*
+*最后更新于 2026-03-17 09:52:54 UTC*
 *历史记录保存在 `archive` 目录中。*
