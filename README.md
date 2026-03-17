@@ -66,6 +66,10 @@
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [bfengj/FakeToaGo](https://github.com/bfengj/FakeToaGo)
   > FakeToaGo
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [binref/agent](https://github.com/binref/agent)
+  > Language Model Agent Instructions for Binary Refinery
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
   > Usability-first dotfiles
@@ -77,6 +81,8 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/raytop](https://github.com/crazyguitar/raytop)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
   > 🙌 OpenHands: AI-Driven Development
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
+  > Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [TaszkSecLabs/xiaomi-c400-pwn](https://github.com/TaszkSecLabs/xiaomi-c400-pwn)
@@ -106,6 +112,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
   > Extract Windows credentials directly from VM memory snapshots and virtual disks
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)
+  > ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it ...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ansible/ansible](https://github.com/ansible/ansible)
   > Ansible is a radically simple IT automation platform that makes your applications and systems easier...
@@ -128,5 +138,5 @@
 
 
 ---
-*最后更新于 2026-03-17 13:04:50 UTC*
+*最后更新于 2026-03-17 14:52:54 UTC*
 *历史记录保存在 `archive` 目录中。*
