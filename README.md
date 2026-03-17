@@ -124,6 +124,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw)
   > TinyClaw is a team of personal agents that collaborate with each other
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+  > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)
@@ -155,5 +157,5 @@
 
 
 ---
-*最后更新于 2026-03-17 20:35:19 UTC*
+*最后更新于 2026-03-17 21:34:08 UTC*
 *历史记录保存在 `archive` 目录中。*
