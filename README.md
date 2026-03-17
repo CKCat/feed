@@ -16,10 +16,34 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/amulet2](https://github.com/d-kfmnn/amulet2)
   > AMulet 2. - A better AIG Multiplier Examination Tool 
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
+  > android 无痕probe 无痕hook kpm demo
+
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [saileaxh/cpueaxh](https://github.com/saileaxh/cpueaxh)
+  > Lightweight, dependency-free x86-64 CPU emulation library with Unicorn-like guest mode and direct ho...
+
+### [RicterZ](https://github.com/RicterZ)
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
+
+### [fjqisba](https://github.com/fjqisba)
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [EEEEhex/detx](https://github.com/EEEEhex/detx)
+  > deobf tx libtprt's obfuscation
+
+### [mahaloz](https://github.com/mahaloz)
+- 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [asphyxia-core/core](https://github.com/asphyxia-core/core) to [mahaloz/asphyxia-core](https://github.com/mahaloz/asphyxia-core)
+  > Asphyxia CORE
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [sethml/vscode-hashline-edit-tool](https://github.com/sethml/vscode-hashline-edit-tool)
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+  > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
+
 
 ---
-*最后更新于 2026-03-17 01:53:06 UTC*
+*最后更新于 2026-03-17 04:15:53 UTC*
 *历史记录保存在 `archive` 目录中。*
