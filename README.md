@@ -60,11 +60,27 @@
 - 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [asphyxia-core/core](https://github.com/asphyxia-core/core) to [mahaloz/asphyxia-core](https://github.com/mahaloz/asphyxia-core)
   > Asphyxia CORE
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ansible/ansible](https://github.com/ansible/ansible)
+  > Ansible is a radically simple IT automation platform that makes your applications and systems easier...
+
+### [ys1231](https://github.com/ys1231)
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [gaasedelen/patching](https://github.com/gaasedelen/patching) to [ys1231/patching](https://github.com/ys1231/patching)
+  > An Interactive Binary Patching Plugin for IDA Pro
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
   > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [NVIDIA/apex](https://github.com/NVIDIA/apex) to [yujincheng08/apex](https://github.com/yujincheng08/apex)
+  > A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
+
 
 ---
-*最后更新于 2026-03-17 05:56:27 UTC*
+*最后更新于 2026-03-17 07:05:01 UTC*
 *历史记录保存在 `archive` 目录中。*
