@@ -20,6 +20,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) to [JingMatrix/RSS-to-Telegram-Bot](https://github.com/JingMatrix/RSS-to-Telegram-Bot)
+  > A Telegram RSS bot that cares about your reading experience
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
   > Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic...
@@ -41,6 +45,8 @@
 ### [RicterZ](https://github.com/RicterZ)
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
   > Extract Windows credentials directly from VM memory snapshots and virtual disks
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [bfengj/FakeToaGo](https://github.com/bfengj/FakeToaGo)
+  > FakeToaGo
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
@@ -51,6 +57,14 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/raytop](https://github.com/crazyguitar/raytop)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
   > 🙌 OpenHands: AI-Driven Development
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [luuquangvu/Gemini-FastAPI](https://github.com/luuquangvu/Gemini-FastAPI)
+  > Web-based Gemini models wrapped into an OpenAI-compatible API.
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+  > "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
 ### [fjqisba](https://github.com/fjqisba)
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [EEEEhex/detx](https://github.com/EEEEhex/detx)
@@ -82,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-03-17 07:05:01 UTC*
+*最后更新于 2026-03-17 08:50:05 UTC*
 *历史记录保存在 `archive` 目录中。*
