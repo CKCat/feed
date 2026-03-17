@@ -47,6 +47,8 @@
   > TCG Trusted Platform Module
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/TPM-2.0-Parser](https://github.com/microsoft/TPM-2.0-Parser)
   > Parse TPM 2.0 Command and Response streams
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dotnet/extensions](https://github.com/dotnet/extensions)
+  > This repository contains a suite of libraries that provide facilities commonly needed when creating ...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [saileaxh/cpueaxh](https://github.com/saileaxh/cpueaxh)
@@ -82,7 +84,7 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
   > 🙌 OpenHands: AI-Driven Development
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
-  > Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞
+  > Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ntop/PF_RING](https://github.com/ntop/PF_RING)
   > High-speed packet processing framework
 
@@ -97,6 +99,8 @@
   > Web-based Gemini models wrapped into an OpenAI-compatible API.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF)
   > An Android Storage Access Framework document provider for rclone
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Vineflower/vineflower](https://github.com/Vineflower/vineflower)
+  > Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. For...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
@@ -138,7 +142,11 @@
 - 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [NVIDIA/apex](https://github.com/NVIDIA/apex) to [yujincheng08/apex](https://github.com/yujincheng08/apex)
   > A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [alibaba/page-agent](https://github.com/alibaba/page-agent)
+  > JavaScript in-page GUI agent. Control web interfaces with natural language.
+
 
 ---
-*最后更新于 2026-03-17 16:02:20 UTC*
+*最后更新于 2026-03-17 17:55:15 UTC*
 *历史记录保存在 `archive` 目录中。*
