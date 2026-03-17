@@ -83,6 +83,8 @@
   > 🙌 OpenHands: AI-Driven Development
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
   > Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ntop/PF_RING](https://github.com/ntop/PF_RING)
+  > High-speed packet processing framework
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [TaszkSecLabs/xiaomi-c400-pwn](https://github.com/TaszkSecLabs/xiaomi-c400-pwn)
@@ -138,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-03-17 14:52:54 UTC*
+*最后更新于 2026-03-17 16:02:20 UTC*
 *历史记录保存在 `archive` 目录中。*
