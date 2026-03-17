@@ -127,6 +127,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [CLARATION/Feather](https://github.com/CLARATION/Feather)
+  > Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Develo...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)
   > ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it ...
@@ -157,5 +161,5 @@
 
 
 ---
-*最后更新于 2026-03-17 21:34:08 UTC*
+*最后更新于 2026-03-17 22:29:34 UTC*
 *历史记录保存在 `archive` 目录中。*
