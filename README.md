@@ -104,6 +104,10 @@
   > This repository contains an IDA processor for loading and disassembling compiled yara rules.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
   > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NameetP/pdfmux](https://github.com/NameetP/pdfmux)
+  > PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
+  > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
@@ -141,5 +145,5 @@
 
 
 ---
-*最后更新于 2026-03-18 17:58:18 UTC*
+*最后更新于 2026-03-18 19:08:27 UTC*
 *历史记录保存在 `archive` 目录中。*
