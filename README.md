@@ -92,6 +92,12 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/newhook](https://github.com/niqiuqiux/newhook)
+  > arm64 inline hook
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan)
   > skill-security-scan is a command-line tool designed to scan and detect security risks in Claude Skil...
@@ -148,5 +154,5 @@
 
 
 ---
-*最后更新于 2026-03-18 20:32:05 UTC*
+*最后更新于 2026-03-18 21:30:53 UTC*
 *历史记录保存在 `archive` 目录中。*
