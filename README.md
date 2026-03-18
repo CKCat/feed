@@ -76,6 +76,10 @@
   > OpenShell is the safe, private runtime for autonomous AI agents.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
   > An API standard for single-agent reinforcement learning environments, with popular reference environ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES)
+  > An NES emulator in C++
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) to [crazyguitar/SimpleNES](https://github.com/crazyguitar/SimpleNES)
+  > An NES emulator in C++
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -137,5 +141,5 @@
 
 
 ---
-*最后更新于 2026-03-18 16:12:54 UTC*
+*最后更新于 2026-03-18 17:58:18 UTC*
 *历史记录保存在 `archive` 目录中。*
