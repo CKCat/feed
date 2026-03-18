@@ -32,6 +32,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [steipete/mcporter](https://github.com/steipete/mcporter)
   > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [rva3/simpleport](https://github.com/rva3/simpleport)
+  > Goodies for the serialport crate (and no_std too)
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) to [RicterZ/claude-code-proxy](https://github.com/RicterZ/claude-code-proxy)
   > Claude Code to OpenAI API Proxy
@@ -68,6 +72,10 @@
   > Modularized Implementation of Deep RL Algorithms in PyTorch
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
   > NVIDIA plugin for secure installation of OpenClaw
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+  > An API standard for single-agent reinforcement learning environments, with popular reference environ...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -118,12 +126,16 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
   > OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs,...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
+  > Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic...
 
 
 ---
-*最后更新于 2026-03-18 14:59:24 UTC*
+*最后更新于 2026-03-18 16:12:54 UTC*
 *历史记录保存在 `archive` 目录中。*
