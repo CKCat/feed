@@ -32,6 +32,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [steipete/mcporter](https://github.com/steipete/mcporter)
   > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 
+### [RicterZ](https://github.com/RicterZ)
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) to [RicterZ/claude-code-proxy](https://github.com/RicterZ/claude-code-proxy)
+  > Claude Code to OpenAI API Proxy
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Tinnci/cattysend](https://github.com/Tinnci/cattysend)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [UrkeJH/ShizukuDhizuku-list](https://github.com/UrkeJH/ShizukuDhizuku-list)
@@ -62,6 +66,8 @@
   > Modularized Implementation of Deep RL Algorithms in PyTorch
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) to [crazyguitar/DeepRL](https://github.com/crazyguitar/DeepRL)
   > Modularized Implementation of Deep RL Algorithms in PyTorch
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
+  > NVIDIA plugin for secure installation of OpenClaw
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -74,6 +80,10 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan)
   > skill-security-scan is a command-line tool designed to scan and detect security risks in Claude Skil...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
+  > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA)
@@ -115,5 +125,5 @@
 
 
 ---
-*最后更新于 2026-03-18 13:04:07 UTC*
+*最后更新于 2026-03-18 14:59:24 UTC*
 *历史记录保存在 `archive` 目录中。*
