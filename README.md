@@ -80,10 +80,13 @@
   > An NES emulator in C++
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) to [crazyguitar/SimpleNES](https://github.com/crazyguitar/SimpleNES)
   > An NES emulator in C++
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [FlashSampling/FlashSampling](https://github.com/FlashSampling/FlashSampling)
+  > FlashSampling: Fast and Memory-Efficient Exact Sampling (https://huggingface.co/papers/2603.15854)
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [dabiggm0e/autoresearch-opencode](https://github.com/dabiggm0e/autoresearch-opencode)
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
@@ -145,5 +148,5 @@
 
 
 ---
-*最后更新于 2026-03-18 19:08:27 UTC*
+*最后更新于 2026-03-18 20:32:05 UTC*
 *历史记录保存在 `archive` 目录中。*
