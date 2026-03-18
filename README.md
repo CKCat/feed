@@ -8,6 +8,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+  > Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
 ### [MegatronKing](https://github.com/MegatronKing)
 - 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget) to [reqable/markdown_widget](https://github.com/reqable/markdown_widget)
   > 📖Rendering markdown by flutter！Welcome for pr and issue.
@@ -17,6 +21,8 @@
   > Fast and reasonably complete (framebuffer) terminal emulator. (Mirror of https://codeberg.org/Mintsu...
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Textualize/textual](https://github.com/Textualize/textual)
+  > The lean application framework for Python.  Build sophisticated user interfaces with a simple Python...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [svg-project/flash-kmeans](https://github.com/svg-project/flash-kmeans)
@@ -72,6 +78,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA)
   > Make your IDA Lazy!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milankovo/YaraVM](https://github.com/milankovo/YaraVM)
+  > This repository contains an IDA processor for loading and disassembling compiled yara rules.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
+  > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
@@ -105,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-03-18 11:42:32 UTC*
+*最后更新于 2026-03-18 13:04:07 UTC*
 *历史记录保存在 `archive` 目录中。*
