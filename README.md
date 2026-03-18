@@ -8,6 +8,16 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget) to [reqable/markdown_widget](https://github.com/reqable/markdown_widget)
+  > 📖Rendering markdown by flutter！Welcome for pr and issue.
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Mintsuki/Flanterm](https://github.com/Mintsuki/Flanterm)
+  > Fast and reasonably complete (framebuffer) terminal emulator. (Mirror of https://codeberg.org/Mintsu...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [svg-project/flash-kmeans](https://github.com/svg-project/flash-kmeans)
   > Fast and memory-efficient exact kmeans
@@ -48,6 +58,8 @@
   > playwright for windows computer use 
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
   > Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [vercel-labs/ralph-loop-agent](https://github.com/vercel-labs/ralph-loop-agent)
+  > Continuous Autonomy for the AI SDK
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
@@ -57,11 +69,15 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng)
   > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+  > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
   > OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs,...
 
 
 ---
-*最后更新于 2026-03-18 06:00:13 UTC*
+*最后更新于 2026-03-18 07:49:33 UTC*
 *历史记录保存在 `archive` 目录中。*
