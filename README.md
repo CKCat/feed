@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk) to [0xeb/ida-sdk](https://github.com/0xeb/ida-sdk)
+  > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
@@ -123,6 +127,7 @@
   > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rofl0r/microsocks](https://github.com/rofl0r/microsocks)
   > tiny, portable SOCKS5 server with very moderate resource usage
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/pizza](https://github.com/williballenthin/pizza) to [mrexodia/pizza](https://github.com/mrexodia/pizza)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
@@ -160,5 +165,5 @@
 
 
 ---
-*最后更新于 2026-03-18 22:28:44 UTC*
+*最后更新于 2026-03-18 23:27:56 UTC*
 *历史记录保存在 `archive` 目录中。*
