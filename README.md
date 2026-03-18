@@ -67,6 +67,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan)
   > skill-security-scan is a command-line tool designed to scan and detect security risks in Claude Skil...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA)
+  > Make your IDA Lazy!
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
   > playwright for windows computer use 
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-03-18 09:50:33 UTC*
+*最后更新于 2026-03-18 10:49:46 UTC*
 *历史记录保存在 `archive` 目录中。*
