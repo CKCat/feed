@@ -23,6 +23,8 @@
   > Fast and memory-efficient exact kmeans
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
   > OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw)....
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [steipete/mcporter](https://github.com/steipete/mcporter)
+  > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Tinnci/cattysend](https://github.com/Tinnci/cattysend)
@@ -86,6 +88,12 @@
   > IDA/Binary Ninja Plugin to automatically identify and set enums for standard functions
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng)
   > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [libxposed/example](https://github.com/libxposed/example)
+  > Example module
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [libxposed/api](https://github.com/libxposed/api)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [libxposed/service](https://github.com/libxposed/service)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [kkkbbb/rustFrida](https://github.com/kkkbbb/rustFrida)
+  > xxxxx
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
@@ -97,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-03-18 10:49:46 UTC*
+*最后更新于 2026-03-18 11:42:32 UTC*
 *历史记录保存在 `archive` 目录中。*
