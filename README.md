@@ -21,6 +21,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [svg-project/flash-kmeans](https://github.com/svg-project/flash-kmeans)
   > Fast and memory-efficient exact kmeans
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+  > OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw)....
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [Tinnci/cattysend](https://github.com/Tinnci/cattysend)
@@ -52,6 +54,10 @@
   > Modularized Implementation of Deep RL Algorithms in PyTorch
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) to [crazyguitar/DeepRL](https://github.com/crazyguitar/DeepRL)
   > Modularized Implementation of Deep RL Algorithms in PyTorch
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
@@ -87,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-03-18 08:43:21 UTC*
+*最后更新于 2026-03-18 09:50:33 UTC*
 *历史记录保存在 `archive` 目录中。*
