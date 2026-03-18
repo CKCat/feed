@@ -49,6 +49,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [beorn/termless](https://github.com/beorn/termless)
   > Like Playwright, but for terminal apps — headless testing across xterm.js, Ghostty, Alacritty, WezTe...
 
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [uutils/coreutils](https://github.com/uutils/coreutils) to [can1357/coreutils](https://github.com/can1357/coreutils)
+  > Cross-platform Rust rewrite of the GNU coreutils
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ikostrikov/pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail)
   > PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable...
@@ -117,6 +121,8 @@
   > PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
   > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rofl0r/microsocks](https://github.com/rofl0r/microsocks)
+  > tiny, portable SOCKS5 server with very moderate resource usage
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
@@ -154,5 +160,5 @@
 
 
 ---
-*最后更新于 2026-03-18 21:30:53 UTC*
+*最后更新于 2026-03-18 22:28:44 UTC*
 *历史记录保存在 `archive` 目录中。*
