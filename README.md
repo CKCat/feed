@@ -48,10 +48,18 @@
   > An OpenAI Gym interface to Super Mario Bros. & Super Mario Bros. 2 (Lost Levels) on The NES
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Kautenja/gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) to [crazyguitar/gym-super-mario-bros](https://github.com/crazyguitar/gym-super-mario-bros)
   > An OpenAI Gym interface to Super Mario Bros. & Super Mario Bros. 2 (Lost Levels) on The NES
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
+  > Modularized Implementation of Deep RL Algorithms in PyTorch
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) to [crazyguitar/DeepRL](https://github.com/crazyguitar/DeepRL)
+  > Modularized Implementation of Deep RL Algorithms in PyTorch
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan)
+  > skill-security-scan is a command-line tool designed to scan and detect security risks in Claude Skil...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
@@ -79,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-03-18 07:49:33 UTC*
+*最后更新于 2026-03-18 08:43:21 UTC*
 *历史记录保存在 `archive` 目录中。*
