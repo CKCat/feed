@@ -56,6 +56,9 @@
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace)
   > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [skilldrick/easy6502](https://github.com/skilldrick/easy6502)
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
   > A framework for efficient model inference with omni-modality models
@@ -88,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-03-19 20:33:24 UTC*
+*最后更新于 2026-03-19 21:32:21 UTC*
 *历史记录保存在 `archive` 目录中。*
