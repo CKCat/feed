@@ -29,6 +29,12 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
   > omo; the best agent harness - previously oh-my-opencode
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [asciinema/agg](https://github.com/asciinema/agg)
+  > asciinema gif generator
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store)
+  > Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gmuxapp/gmux](https://github.com/gmuxapp/gmux)
@@ -49,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-03-19 06:55:57 UTC*
+*最后更新于 2026-03-19 07:45:52 UTC*
 *历史记录保存在 `archive` 目录中。*
