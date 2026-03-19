@@ -19,6 +19,12 @@
   > Avalonia-based UI Library inspired by shadcn and Suki UI Library
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [AndnixSH/Il2CppDumper-GUI](https://github.com/AndnixSH/Il2CppDumper-GUI)
   > Simple GUI version of Il2CppDumper
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer)
+  > Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
+
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [tiann/hapi](https://github.com/tiann/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
@@ -43,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-03-19 05:55:41 UTC*
+*最后更新于 2026-03-19 06:55:57 UTC*
 *历史记录保存在 `archive` 目录中。*
