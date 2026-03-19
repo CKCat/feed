@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr)
+  > 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
@@ -98,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-03-19 22:24:50 UTC*
+*最后更新于 2026-03-19 23:26:50 UTC*
 *历史记录保存在 `archive` 目录中。*
