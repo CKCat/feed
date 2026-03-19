@@ -12,6 +12,12 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mzky/m4s-converter](https://github.com/mzky/m4s-converter)
   > 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+  > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [kkkbbb/rustFrida](https://github.com/kkkbbb/rustFrida)
+  > xxxxx
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker)
   > JavaScript Reverse Tools -- JS逆向工具
@@ -77,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-03-19 11:33:06 UTC*
+*最后更新于 2026-03-19 12:57:46 UTC*
 *历史记录保存在 `archive` 目录中。*
