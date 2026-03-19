@@ -27,6 +27,8 @@
   > XLink-Service is a minimal Node/Express REST API that finalizes Microsoft device flow, returns a com...
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Insomnicc/Microsoft-Code-Checker](https://github.com/Insomnicc/Microsoft-Code-Checker)
   > Very old project, more than a year or two. A Microsoft Code checker, to check whether a code is rede...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
+  > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [tiann/hapi](https://github.com/tiann/hapi)
@@ -61,6 +63,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sigoden/dufs](https://github.com/sigoden/dufs)
+  > A file server that supports static serving, uploading, searching, accessing control, webdav...
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [TeFuirnever/Machine-Learning-in-Action](https://github.com/TeFuirnever/Machine-Learning-in-Action)
   > ⚡️⚡️⚡️《机器学习实战》代码（基于Python3）🚀
@@ -71,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-03-19 09:39:38 UTC*
+*最后更新于 2026-03-19 10:36:37 UTC*
 *历史记录保存在 `archive` 目录中。*
