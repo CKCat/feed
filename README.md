@@ -21,6 +21,8 @@
   > Simple GUI version of Il2CppDumper
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer)
   > Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xiaoweigege/akamai2.0-sensor_data](https://github.com/xiaoweigege/akamai2.0-sensor_data)
+  > sensor_data, akamai-bm-telemetry, _abck, sbsd, bm_s  bypass
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [tiann/hapi](https://github.com/tiann/hapi)
@@ -31,10 +33,20 @@
   > omo; the best agent harness - previously oh-my-opencode
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [asciinema/agg](https://github.com/asciinema/agg)
   > asciinema gif generator
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+  > Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI A...
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store)
   > Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace)
+  > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
+  > A framework for efficient model inference with omni-modality models
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gmuxapp/gmux](https://github.com/gmuxapp/gmux)
@@ -55,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-03-19 07:45:52 UTC*
+*最后更新于 2026-03-19 08:38:13 UTC*
 *历史记录保存在 `archive` 目录中。*
