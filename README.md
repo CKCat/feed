@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mzky/m4s-converter](https://github.com/mzky/m4s-converter)
+  > 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker)
   > JavaScript Reverse Tools -- JS逆向工具
@@ -35,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-03-19 04:26:37 UTC*
+*最后更新于 2026-03-19 05:55:41 UTC*
 *历史记录保存在 `archive` 目录中。*
