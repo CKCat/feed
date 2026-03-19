@@ -64,6 +64,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gmuxapp/gmux](https://github.com/gmuxapp/gmux)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/unbun](https://github.com/can1357/unbun)
   > Python utility for extracting Bun standalone JS bundles.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
+  > OpenClaw-RL: Train any agent simply by talking
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc)
@@ -83,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-03-19 15:51:41 UTC*
+*最后更新于 2026-03-19 16:54:24 UTC*
 *历史记录保存在 `archive` 目录中。*
