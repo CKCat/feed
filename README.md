@@ -29,7 +29,11 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [TeFuirnever/Machine-Learning-in-Action](https://github.com/TeFuirnever/Machine-Learning-in-Action)
   > ⚡️⚡️⚡️《机器学习实战》代码（基于Python3）🚀
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
+  > A terminal workspace with batteries included
+
 
 ---
-*最后更新于 2026-03-19 01:58:19 UTC*
+*最后更新于 2026-03-19 04:26:37 UTC*
 *历史记录保存在 `archive` 目录中。*
