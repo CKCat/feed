@@ -58,6 +58,8 @@
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [skilldrick/easy6502](https://github.com/skilldrick/easy6502)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
@@ -69,6 +71,8 @@
   > Python utility for extracting Bun standalone JS bundles.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
   > OpenClaw-RL: Train any agent simply by talking
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
+  > A fast, helpful, and open-source document parser
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc)
@@ -77,6 +81,9 @@
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sigoden/dufs](https://github.com/sigoden/dufs)
   > A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager)
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [TeFuirnever/Machine-Learning-in-Action](https://github.com/TeFuirnever/Machine-Learning-in-Action)
@@ -91,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-03-19 21:32:21 UTC*
+*最后更新于 2026-03-19 22:24:50 UTC*
 *历史记录保存在 `archive` 目录中。*
