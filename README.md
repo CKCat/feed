@@ -23,6 +23,10 @@
   > Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xiaoweigege/akamai2.0-sensor_data](https://github.com/xiaoweigege/akamai2.0-sensor_data)
   > sensor_data, akamai-bm-telemetry, _abck, sbsd, bm_s  bypass
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Daniel-Ric/XLink-Service](https://github.com/Daniel-Ric/XLink-Service)
+  > XLink-Service is a minimal Node/Express REST API that finalizes Microsoft device flow, returns a com...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Insomnicc/Microsoft-Code-Checker](https://github.com/Insomnicc/Microsoft-Code-Checker)
+  > Very old project, more than a year or two. A Microsoft Code checker, to check whether a code is rede...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [tiann/hapi](https://github.com/tiann/hapi)
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-03-19 08:38:13 UTC*
+*最后更新于 2026-03-19 09:39:38 UTC*
 *历史记录保存在 `archive` 目录中。*
