@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory)
+  > Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [louis-e/arnis](https://github.com/louis-e/arnis)
   > Generate any location from the real world in Minecraft with a high level of detail.
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [SCDR/sc-codehandler](https://github.com/SCDR/sc-codehandler)
   > 软著代码整理工具
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [tanweai/pua](https://github.com/tanweai/pua)
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed ...
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts)
+  > 分享一下自创以及打野得到的各种优质prompt
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
@@ -39,6 +47,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [crytic/ida-evm](https://github.com/crytic/ida-evm)
   > IDA Processor Module for the Ethereum Virtual Machine (EVM)
+
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [symgraph/IDAssist](https://github.com/symgraph/IDAssist)
+  > AI-Powered Reverse Engineering Plugin for IDA Pro
 
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
@@ -96,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-03-20 12:53:20 UTC*
+*最后更新于 2026-03-20 13:59:17 UTC*
 *历史记录保存在 `archive` 目录中。*
