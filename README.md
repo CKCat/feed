@@ -71,6 +71,20 @@
   > Unified KV Cache Compression Methods for Auto-Regressive Models
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
   > 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/parameter-golf](https://github.com/openai/parameter-golf)
+  > Train the smallest LM you can that fits in 16MB. Best model wins!
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
+  > A time-series database for high-performance real-time analytics packaged as a Postgres extension
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+  > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
+  > Identity-aware VPN and proxy for remote access to anything, anywhere.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+  > Find, verify, and analyze leaked credentials
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
@@ -114,5 +128,5 @@
 
 
 ---
-*最后更新于 2026-03-20 16:39:13 UTC*
+*最后更新于 2026-03-20 17:33:16 UTC*
 *历史记录保存在 `archive` 目录中。*
