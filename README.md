@@ -134,11 +134,15 @@
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [laginimaineb/unify_trustlet](https://github.com/laginimaineb/unify_trustlet) to [veritas501/unify_trustlet](https://github.com/veritas501/unify_trustlet)
   > Unifies ".mdt" and ".bXX" files into a complete Trustlet
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tw93/Kaku](https://github.com/tw93/Kaku)
   > 🎃 A fast, out-of-the-box terminal built for AI coding.
 
 
 ---
-*最后更新于 2026-03-20 22:25:09 UTC*
+*最后更新于 2026-03-20 23:25:49 UTC*
 *历史记录保存在 `archive` 目录中。*
