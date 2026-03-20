@@ -73,6 +73,10 @@
   > 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status ...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/parameter-golf](https://github.com/openai/parameter-golf)
   > Train the smallest LM you can that fits in 16MB. Best model wins!
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [bugzmanov/nes_ebook](https://github.com/bugzmanov/nes_ebook)
+  > A mini book on writing NES emulator using rust lang
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [bugzmanov/nes_ebook](https://github.com/bugzmanov/nes_ebook) to [crazyguitar/nes_ebook](https://github.com/crazyguitar/nes_ebook)
+  > A mini book on writing NES emulator using rust lang
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
@@ -97,6 +101,10 @@
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDBG
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn)
@@ -130,5 +138,5 @@
 
 
 ---
-*最后更新于 2026-03-20 20:28:08 UTC*
+*最后更新于 2026-03-20 21:26:47 UTC*
 *历史记录保存在 `archive` 目录中。*
