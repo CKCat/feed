@@ -24,6 +24,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wavedrom/bitfield](https://github.com/wavedrom/bitfield)
   > :cake: bit field diagram renderer
 
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
+  > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish...
+
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [cctv18/oppo_oplus_realme_sm8850](https://github.com/cctv18/oppo_oplus_realme_sm8850) to [bet4it/oppo_oplus_realme_sm8850](https://github.com/bet4it/oppo_oplus_realme_sm8850)
   > An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8850 series in a completely new way...
@@ -64,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-03-20 06:50:42 UTC*
+*最后更新于 2026-03-20 07:43:06 UTC*
 *历史记录保存在 `archive` 目录中。*
