@@ -52,7 +52,11 @@
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [laginimaineb/unify_trustlet](https://github.com/laginimaineb/unify_trustlet) to [veritas501/unify_trustlet](https://github.com/veritas501/unify_trustlet)
   > Unifies ".mdt" and ".bXX" files into a complete Trustlet
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tw93/Kaku](https://github.com/tw93/Kaku)
+  > 🎃 A fast, out-of-the-box terminal built for AI coding.
+
 
 ---
-*最后更新于 2026-03-20 04:11:51 UTC*
+*最后更新于 2026-03-20 05:49:47 UTC*
 *历史记录保存在 `archive` 目录中。*
