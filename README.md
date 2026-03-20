@@ -103,6 +103,8 @@
   > Tiny process execution for humans — a better child_process
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MaliNamNam/pi-phone](https://github.com/MaliNamNam/pi-phone)
   >  A phone-first remote UI for Pi that lets you drive a real Pi session from your phone.  pi-phone sta...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [runablehq/mini-browser](https://github.com/runablehq/mini-browser)
+  > An agent first browser cli
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
@@ -128,5 +130,5 @@
 
 
 ---
-*最后更新于 2026-03-20 19:35:13 UTC*
+*最后更新于 2026-03-20 20:28:08 UTC*
 *历史记录保存在 `archive` 目录中。*
