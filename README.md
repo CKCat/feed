@@ -7,6 +7,8 @@
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [louis-e/arnis](https://github.com/louis-e/arnis)
   > Generate any location from the real world in Minecraft with a high level of detail.
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [SCDR/sc-codehandler](https://github.com/SCDR/sc-codehandler)
+  > 软著代码整理工具
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
@@ -31,6 +33,8 @@
   > Unified KV Cache Compression Methods for Auto-Regressive Models
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Zefan-Cai/KVCache-Factory](https://github.com/Zefan-Cai/KVCache-Factory) to [crazyguitar/KVCache-Factory](https://github.com/crazyguitar/KVCache-Factory)
   > Unified KV Cache Compression Methods for Auto-Regressive Models
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+  > 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status ...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [pinobatch/little-things-nes](https://github.com/pinobatch/little-things-nes)
@@ -43,6 +47,8 @@
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
   > GLM-OCR: Accurate ×  Fast × Comprehensive
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
+  > MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [TaszkSecLabs/xiaomi-c400-pwn](https://github.com/TaszkSecLabs/xiaomi-c400-pwn)
@@ -58,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-03-20 05:49:47 UTC*
+*最后更新于 2026-03-20 06:50:42 UTC*
 *历史记录保存在 `archive` 目录中。*
