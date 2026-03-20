@@ -24,6 +24,12 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wavedrom/bitfield](https://github.com/wavedrom/bitfield)
   > :cake: bit field diagram renderer
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
+  > 为 AI Agent 设计的 JS 逆向 MCP Server，内置反检测，基于 chrome-devtools-mcp 重构 | JS reverse engineering MCP server ...
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
   > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish...
@@ -40,6 +46,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
   > 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status ...
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
+  > CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [pinobatch/little-things-nes](https://github.com/pinobatch/little-things-nes)
   > One-off tech demos and test ROMs for NES
@@ -47,6 +57,10 @@
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDBG
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
+  > Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you a...
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
@@ -68,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-03-20 07:43:06 UTC*
+*最后更新于 2026-03-20 08:36:52 UTC*
 *历史记录保存在 `archive` 目录中。*
