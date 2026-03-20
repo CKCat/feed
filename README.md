@@ -87,6 +87,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn)
   > Tiny process execution for humans — a better child_process
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MaliNamNam/pi-phone](https://github.com/MaliNamNam/pi-phone)
+  >  A phone-first remote UI for Pi that lets you drive a real Pi session from your phone.  pi-phone sta...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
@@ -112,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-03-20 15:39:44 UTC*
+*最后更新于 2026-03-20 16:39:13 UTC*
 *历史记录保存在 `archive` 目录中。*
