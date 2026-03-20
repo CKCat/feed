@@ -20,6 +20,12 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit)
   > Distributed Application Framework for .NET
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [bmax121/APatch](https://github.com/bmax121/APatch)
+  > The patching of Android kernel and Android system
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kirillkovalenko/nssm](https://github.com/kirillkovalenko/nssm)
+  > Non-Sucking Service Manager
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wavedrom/bitfield](https://github.com/wavedrom/bitfield)
   > :cake: bit field diagram renderer
@@ -82,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-03-20 09:37:21 UTC*
+*最后更新于 2026-03-20 10:34:38 UTC*
 *历史记录保存在 `archive` 目录中。*
