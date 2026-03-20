@@ -113,6 +113,8 @@
   >  A phone-first remote UI for Pi that lets you drive a real Pi session from your phone.  pi-phone sta...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [runablehq/mini-browser](https://github.com/runablehq/mini-browser)
   > An agent first browser cli
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
@@ -138,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-03-20 21:26:47 UTC*
+*最后更新于 2026-03-20 22:25:09 UTC*
 *历史记录保存在 `archive` 目录中。*
