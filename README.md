@@ -36,6 +36,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
   > A reverse-engineering agent for IDA Pro and Binary Ninja
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [crytic/ida-evm](https://github.com/crytic/ida-evm)
+  > IDA Processor Module for the Ethereum Virtual Machine (EVM)
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
   > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish...
@@ -64,6 +68,10 @@
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDBG
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn)
+  > Tiny process execution for humans — a better child_process
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
   > Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you a...
@@ -88,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-03-20 11:28:59 UTC*
+*最后更新于 2026-03-20 12:53:20 UTC*
 *历史记录保存在 `archive` 目录中。*
