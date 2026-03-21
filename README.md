@@ -12,6 +12,14 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
   > An Open-Source Asynchronous Coding Agent
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lducas/leaky-LWE-Estimator](https://github.com/lducas/leaky-LWE-Estimator)
+  > A sage Toolkit for mounting/estimating attacks on LWE with Side Information
+
+### [T5ive](https://github.com/T5ive)
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [Batchhh/Alloy-ios](https://github.com/Batchhh/Alloy-ios) to [T5ive/Alloy-ios](https://github.com/T5ive/Alloy-ios)
+  > high-performance, mod menu, memory-safe framework, hooking & patching & breakpoints at runtime
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)
   > AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
@@ -62,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-03-21 07:30:37 UTC*
+*最后更新于 2026-03-21 08:28:37 UTC*
 *历史记录保存在 `archive` 目录中。*
