@@ -81,6 +81,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justram/pi-serini](https://github.com/justram/pi-serini)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thesophiaxu/contextd](https://github.com/thesophiaxu/contextd)
   > An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, a...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deathbyknowledge/ripgit](https://github.com/deathbyknowledge/ripgit)
+  > A fast, searchable, self-hosted Git remote built with Durable Objects
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [n00py/Outpacket](https://github.com/n00py/Outpacket)
@@ -98,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-03-21 14:23:33 UTC*
+*最后更新于 2026-03-21 15:22:14 UTC*
 *历史记录保存在 `archive` 目录中。*
