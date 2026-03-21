@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
+
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
   > 12 Lessons to Get Started Building AI Agents
@@ -57,6 +60,9 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/catclaw](https://github.com/evilbinary/catclaw)
   > catclaw
 
+### [ganyao114](https://github.com/ganyao114)
+- 🚀 👤 [ganyao114](https://github.com/ganyao114) Made [ganyao114/ida-pro-plugin](https://github.com/ganyao114/ida-pro-plugin) public
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -90,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-03-21 10:22:54 UTC*
+*最后更新于 2026-03-21 11:20:02 UTC*
 *历史记录保存在 `archive` 目录中。*
