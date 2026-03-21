@@ -67,6 +67,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [shlinkio/shlink](https://github.com/shlinkio/shlink)
   > The definitive self-hosted URL shortener
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [erspicu/AprNes](https://github.com/erspicu/AprNes)
+  > a simple nes emulator
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/catclaw](https://github.com/evilbinary/catclaw)
   > catclaw
@@ -113,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-03-21 20:22:19 UTC*
+*最后更新于 2026-03-21 21:21:17 UTC*
 *历史记录保存在 `archive` 目录中。*
