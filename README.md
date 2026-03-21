@@ -31,6 +31,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [langgenius/dify](https://github.com/langgenius/dify)
   > Production-ready platform for agentic workflow development.
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/catclaw](https://github.com/evilbinary/catclaw)
+  > catclaw
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -38,6 +42,10 @@
   > Minimal terminal-based password manager
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
   > A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
+  > QuickJS, the Next Generation: a mighty JavaScript engine
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justram/pi-serini](https://github.com/justram/pi-serini)
@@ -50,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-03-21 05:37:53 UTC*
+*最后更新于 2026-03-21 06:38:19 UTC*
 *历史记录保存在 `archive` 目录中。*
