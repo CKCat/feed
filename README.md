@@ -36,6 +36,8 @@
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S)
+  > A SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supp...
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [tylerharvey/Ioniq5_CAN](https://github.com/tylerharvey/Ioniq5_CAN)
@@ -100,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-03-21 15:22:14 UTC*
+*最后更新于 2026-03-21 16:25:36 UTC*
 *历史记录保存在 `archive` 目录中。*
