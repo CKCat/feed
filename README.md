@@ -28,6 +28,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [dreamscached/obsidian-simple-steam-auth](https://github.com/dreamscached/obsidian-simple-steam-auth)
   > Generate Steam Guard codes right in your Obsidian vault.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Eric-Song-Nop/mobvibe](https://github.com/Eric-Song-Nop/mobvibe)
+  > Just a open Claude Code Remote Control
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lducas/leaky-LWE-Estimator](https://github.com/lducas/leaky-LWE-Estimator)
   > A sage Toolkit for mounting/estimating attacks on LWE with Side Information
@@ -96,6 +100,9 @@
   > An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, a...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deathbyknowledge/ripgit](https://github.com/deathbyknowledge/ripgit)
   > A fast, searchable, self-hosted Git remote built with Durable Objects
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling)
+  > A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascunt...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) to [sekaiacg/gbl_root_canoe](https://github.com/sekaiacg/gbl_root_canoe)
@@ -117,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-03-21 21:21:17 UTC*
+*最后更新于 2026-03-21 22:20:45 UTC*
 *历史记录保存在 `archive` 目录中。*
