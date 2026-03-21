@@ -55,6 +55,8 @@
   > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [imj01y/trace-ui](https://github.com/imj01y/trace-ui)
   > 高性能 ARM64 执行 trace 可视化分析工具
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [shlinkio/shlink](https://github.com/shlinkio/shlink)
+  > The definitive self-hosted URL shortener
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/catclaw](https://github.com/evilbinary/catclaw)
@@ -96,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-03-21 12:41:11 UTC*
+*最后更新于 2026-03-21 13:39:49 UTC*
 *历史记录保存在 `archive` 目录中。*
