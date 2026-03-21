@@ -12,6 +12,12 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
   > An Open-Source Asynchronous Coding Agent
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos)
+  > LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [dreamscached/obsidian-simple-steam-auth](https://github.com/dreamscached/obsidian-simple-steam-auth)
+  > Generate Steam Guard codes right in your Obsidian vault.
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lducas/leaky-LWE-Estimator](https://github.com/lducas/leaky-LWE-Estimator)
   > A sage Toolkit for mounting/estimating attacks on LWE with Side Information
@@ -42,6 +48,10 @@
   > Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [langgenius/dify](https://github.com/langgenius/dify)
   > Production-ready platform for agentic workflow development.
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace)
+  > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [imj01y/trace-ui](https://github.com/imj01y/trace-ui)
+  > 高性能 ARM64 执行 trace 可视化分析工具
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/catclaw](https://github.com/evilbinary/catclaw)
@@ -64,11 +74,21 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thesophiaxu/contextd](https://github.com/thesophiaxu/contextd)
   > An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, a...
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [n00py/Outpacket](https://github.com/n00py/Outpacket)
+  > This cheatsheet maps common impacket workflows to their modern alternatives 
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [skelsec/minikerberos](https://github.com/skelsec/minikerberos)
+  > Kerberos manipulation library in pure Python
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
   > Scripts to build a trimmed-down Windows 11 image.
 
 
 ---
-*最后更新于 2026-03-21 09:28:17 UTC*
+*最后更新于 2026-03-21 10:22:54 UTC*
 *历史记录保存在 `archive` 目录中。*
