@@ -4,6 +4,13 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🌟 👤 [0xeb](https://github.com/0xeb) Starred [sandialabs/ctadl](https://github.com/sandialabs/ctadl)
+  > CTADL is a static taint analysis tool
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [sandialabs/ctadl](https://github.com/sandialabs/ctadl) to [lallouslab/ctadl](https://github.com/lallouslab/ctadl)
+  > CTADL is a static taint analysis tool
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL) to [lallouslab/BinCodeQL](https://github.com/lallouslab/BinCodeQL)
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
 
@@ -106,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-03-21 19:21:20 UTC*
+*最后更新于 2026-03-21 20:22:19 UTC*
 *历史记录保存在 `archive` 目录中。*
