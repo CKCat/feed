@@ -12,6 +12,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
   > An Open-Source Asynchronous Coding Agent
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)
+  > AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [tylerharvey/Ioniq5_CAN](https://github.com/tylerharvey/Ioniq5_CAN)
 
@@ -20,6 +24,12 @@
   > Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manag...
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
   > ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn ho...
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
+  > Rembg is a tool to remove images background
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+  > Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [langgenius/dify](https://github.com/langgenius/dify)
+  > Production-ready platform for agentic workflow development.
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
@@ -40,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-03-21 04:02:43 UTC*
+*最后更新于 2026-03-21 05:37:53 UTC*
 *历史记录保存在 `archive` 目录中。*
