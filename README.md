@@ -16,6 +16,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)
   > AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
 
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [tylerharvey/Ioniq5_CAN](https://github.com/tylerharvey/Ioniq5_CAN)
 
@@ -58,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-03-21 06:38:19 UTC*
+*最后更新于 2026-03-21 07:30:37 UTC*
 *历史记录保存在 `archive` 目录中。*
