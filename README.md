@@ -7,6 +7,12 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [hotjp/long-run-agent](https://github.com/hotjp/long-run-agent)
   > 🔧 LRA - AI Agent长任务超稳定执行框架 ⚡ 轻量 | pip一键安装｜突破上下文限制 📌 7种状态管理 | Long-Running AI Agent Framework • One-c...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
+  > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xunchahaha/mi_nobl_root](https://github.com/xunchahaha/mi_nobl_root)
+  > 小米免解bl的ksu+lsp方案
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
@@ -14,5 +20,5 @@
 
 
 ---
-*最后更新于 2026-03-22 04:23:34 UTC*
+*最后更新于 2026-03-22 05:51:20 UTC*
 *历史记录保存在 `archive` 目录中。*
