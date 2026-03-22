@@ -46,6 +46,16 @@
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [prusa3d/Prusa-Link-Web](https://github.com/prusa3d/Prusa-Link-Web) to [bkerler/Prusa-Link-Web](https://github.com/bkerler/Prusa-Link-Web)
   > Prusa Web interface resources
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [prusa3d/Prusa-ESP32-Nic-FW](https://github.com/prusa3d/Prusa-ESP32-Nic-FW) to [bkerler/Prusa-ESP32-Nic-FW](https://github.com/bkerler/Prusa-ESP32-Nic-FW)
+  > ESP32 as generic network interface over UART
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SourMesen/Mesen](https://github.com/SourMesen/Mesen)
+  > Mesen is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2)
+  > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) to [crazyguitar/Mesen2](https://github.com/crazyguitar/Mesen2)
+  > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [anthropics/skills](https://github.com/anthropics/skills)
@@ -62,6 +72,10 @@
   > 🔧 LRA - AI Agent长任务超稳定执行框架 ⚡ 轻量 | pip一键安装｜突破上下文限制 📌 7种状态管理 | Long-Running AI Agent Framework • One-c...
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
   > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [DosX-dev/SafeNova](https://github.com/DosX-dev/SafeNova)
+  > Encrypted file vault that lives entirely in your browser — no server, no account.
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [weedonandscott/trolley](https://github.com/weedonandscott/trolley)
@@ -107,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-03-22 17:22:33 UTC*
+*最后更新于 2026-03-22 18:32:34 UTC*
 *历史记录保存在 `archive` 目录中。*
