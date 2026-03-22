@@ -108,6 +108,10 @@
 ### [p-ranav](https://github.com/p-ranav)
 - 🍴 👤 [p-ranav](https://github.com/p-ranav) Forked [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) to [p-ranav/cpp-httplib](https://github.com/p-ranav/cpp-httplib)
   > A C++ header-only HTTP/HTTPS server and client library
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
+- 🍴 👤 [p-ranav](https://github.com/p-ranav) Forked [karpathy/autoresearch](https://github.com/karpathy/autoresearch) to [p-ranav/autoresearch](https://github.com/p-ranav/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
@@ -135,5 +139,5 @@
 
 
 ---
-*最后更新于 2026-03-22 22:21:28 UTC*
+*最后更新于 2026-03-22 23:23:58 UTC*
 *历史记录保存在 `archive` 目录中。*
