@@ -74,6 +74,12 @@
   > A personal tutor extension for pi that adapts to your  learning style, remembers what you're learnin...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [rweijnen/MDView](https://github.com/rweijnen/MDView) to [mrexodia/MDView](https://github.com/mrexodia/MDView)
   > Markdown viewer - Total Commander Lister plugin and standalone executable
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coctostan/pi-hashline-readmap](https://github.com/coctostan/pi-hashline-readmap)
+  > A unified pi-coding-agent extension combining hash-anchored file editing with structural code maps
+
+### [p-ranav](https://github.com/p-ranav)
+- 🍴 👤 [p-ranav](https://github.com/p-ranav) Forked [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) to [p-ranav/cpp-httplib](https://github.com/p-ranav/cpp-httplib)
+  > A C++ header-only HTTP/HTTPS server and client library
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
@@ -101,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-03-22 16:26:40 UTC*
+*最后更新于 2026-03-22 17:22:33 UTC*
 *历史记录保存在 `archive` 目录中。*
