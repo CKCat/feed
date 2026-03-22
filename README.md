@@ -7,6 +7,14 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard)
+  > TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy p...
+
+### [T5ive](https://github.com/T5ive)
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) to [T5ive/reynard-browser](https://github.com/T5ive/reynard-browser)
+  > An experimental Gecko-based web browser for iOS 14+.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
@@ -27,6 +35,14 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [denismrvoljak/pi-tutor](https://github.com/denismrvoljak/pi-tutor)
   > A personal tutor extension for pi that adapts to your  learning style, remembers what you're learnin...
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
+  > Cloud replacement for vacuum robots enabling local-only operation
+
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [psmux/psmux](https://github.com/psmux/psmux)
+  > Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, a...
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xunchahaha/mi_nobl_root](https://github.com/xunchahaha/mi_nobl_root)
   > 小米免解bl的ksu+lsp方案
@@ -41,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-03-22 12:43:16 UTC*
+*最后更新于 2026-03-22 13:41:05 UTC*
 *历史记录保存在 `archive` 目录中。*
