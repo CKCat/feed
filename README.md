@@ -22,6 +22,12 @@
   > A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [ohroy/hexo-abbrlink](https://github.com/ohroy/hexo-abbrlink) to [Mufanc/hexo-abbrlink](https://github.com/Mufanc/hexo-abbrlink)
   > create one and only link for every post for hexo
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
+  > Autonomous AI development loop for Claude Code with intelligent exit detection
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
+  > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+  > There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha...
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [itzmeanjan/ml-kem](https://github.com/itzmeanjan/ml-kem)
@@ -90,6 +96,8 @@
   > Markdown viewer - Total Commander Lister plugin and standalone executable
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coctostan/pi-hashline-readmap](https://github.com/coctostan/pi-hashline-readmap)
   > A unified pi-coding-agent extension combining hash-anchored file editing with structural code maps
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenCppCoverage/OpenCppCoverage](https://github.com/OpenCppCoverage/OpenCppCoverage)
+  > OpenCppCoverage is an open source code coverage tool for C++ under Windows.
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🍴 👤 [p-ranav](https://github.com/p-ranav) Forked [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) to [p-ranav/cpp-httplib](https://github.com/p-ranav/cpp-httplib)
@@ -121,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-03-22 18:32:34 UTC*
+*最后更新于 2026-03-22 19:22:49 UTC*
 *历史记录保存在 `archive` 目录中。*
