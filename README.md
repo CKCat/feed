@@ -4,16 +4,34 @@
 
 ## 今日动态
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [explosion/spacy-models](https://github.com/explosion/spacy-models)
+  > 💫  Models for the spaCy Natural Language Processing (NLP) library
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+  > Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard)
   > TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy p...
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [itzmeanjan/ml-kem](https://github.com/itzmeanjan/ml-kem)
+  > NIST FIPS 203 (ML-KEM) standard compliant, C++20, fully `constexpr`, header-only library
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
+  > An ergonomic Rust HTTP Client with TLS fingerprint
+
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) to [T5ive/reynard-browser](https://github.com/T5ive/reynard-browser)
   > An experimental Gecko-based web browser for iOS 14+.
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [ccsert/opencode-review-gitea](https://github.com/ccsert/opencode-review-gitea)
+  > AI-powered PR review for Gitea/Forgejo built on OpenCode. Runs in Gitea Actions, fetches PR diffs, a...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [anthropics/skills](https://github.com/anthropics/skills)
@@ -47,6 +65,10 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xunchahaha/mi_nobl_root](https://github.com/xunchahaha/mi_nobl_root)
   > 小米免解bl的ksu+lsp方案
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
+  > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [R41N3RZUF477/QuickAssist_UAC_Bypass](https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass)
   > UAC Bypass using UIAccess program QuickAssist
@@ -57,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-03-22 14:24:40 UTC*
+*最后更新于 2026-03-22 15:22:40 UTC*
 *历史记录保存在 `archive` 目录中。*
