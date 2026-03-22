@@ -17,6 +17,10 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [weedonandscott/trolley](https://github.com/weedonandscott/trolley)
   > Run terminal apps anywhere 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amanhij/Zikkaron](https://github.com/amanhij/Zikkaron)
+  > Biologically-inspired persistent memory engine for Claude Code. 26 cognitive subsystems, Hopfield ne...
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xunchahaha/mi_nobl_root](https://github.com/xunchahaha/mi_nobl_root)
   > 小米免解bl的ksu+lsp方案
@@ -31,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-03-22 10:23:45 UTC*
+*最后更新于 2026-03-22 11:20:41 UTC*
 *历史记录保存在 `archive` 目录中。*
