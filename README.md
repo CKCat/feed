@@ -10,6 +10,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
   > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [weedonandscott/trolley](https://github.com/weedonandscott/trolley)
+  > Run terminal apps anywhere 
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xunchahaha/mi_nobl_root](https://github.com/xunchahaha/mi_nobl_root)
   > 小米免解bl的ksu+lsp方案
@@ -20,5 +24,5 @@
 
 
 ---
-*最后更新于 2026-03-22 05:51:20 UTC*
+*最后更新于 2026-03-22 06:46:28 UTC*
 *历史记录保存在 `archive` 目录中。*
