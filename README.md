@@ -66,6 +66,8 @@
   > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) to [crazyguitar/Mesen2](https://github.com/crazyguitar/Mesen2)
   > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio)
+  > A quick and easy to use drag and drop retro game creator for your favourite handheld video game syst...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [anthropics/skills](https://github.com/anthropics/skills)
@@ -133,5 +135,5 @@
 
 
 ---
-*最后更新于 2026-03-22 21:22:33 UTC*
+*最后更新于 2026-03-22 22:21:28 UTC*
 *历史记录保存在 `archive` 目录中。*
