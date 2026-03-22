@@ -7,6 +7,10 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [hotjp/long-run-agent](https://github.com/hotjp/long-run-agent)
   > 🔧 LRA - AI Agent长任务超稳定执行框架 ⚡ 轻量 | pip一键安装｜突破上下文限制 📌 7种状态管理 | Long-Running AI Agent Framework • One-c...
@@ -20,6 +24,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amanhij/Zikkaron](https://github.com/amanhij/Zikkaron)
   > Biologically-inspired persistent memory engine for Claude Code. 26 cognitive subsystems, Hopfield ne...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [denismrvoljak/pi-tutor](https://github.com/denismrvoljak/pi-tutor)
+  > A personal tutor extension for pi that adapts to your  learning style, remembers what you're learnin...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xunchahaha/mi_nobl_root](https://github.com/xunchahaha/mi_nobl_root)
@@ -35,5 +41,5 @@
 
 
 ---
-*最后更新于 2026-03-22 11:20:41 UTC*
+*最后更新于 2026-03-22 12:43:16 UTC*
 *历史记录保存在 `archive` 目录中。*
