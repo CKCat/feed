@@ -17,9 +17,19 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard)
   > TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy p...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [giscus/giscus](https://github.com/giscus/giscus)
+  > A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [ohroy/hexo-abbrlink](https://github.com/ohroy/hexo-abbrlink) to [Mufanc/hexo-abbrlink](https://github.com/Mufanc/hexo-abbrlink)
+  > create one and only link for every post for hexo
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [itzmeanjan/ml-kem](https://github.com/itzmeanjan/ml-kem)
   > NIST FIPS 203 (ML-KEM) standard compliant, C++20, fully `constexpr`, header-only library
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [eshard/pixel6-boot](https://github.com/eshard/pixel6-boot)
+- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [eshard/pixel6-boot](https://github.com/eshard/pixel6-boot) to [R0rt1z2/pixel6-boot](https://github.com/R0rt1z2/pixel6-boot)
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
@@ -33,9 +43,19 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [ccsert/opencode-review-gitea](https://github.com/ccsert/opencode-review-gitea)
   > AI-powered PR review for Gitea/Forgejo built on OpenCode. Runs in Gitea Actions, fetches PR diffs, a...
 
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [prusa3d/Prusa-Link-Web](https://github.com/prusa3d/Prusa-Link-Web) to [bkerler/Prusa-Link-Web](https://github.com/bkerler/Prusa-Link-Web)
+  > Prusa Web interface resources
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [0x676e67/wreq](https://github.com/0x676e67/wreq) to [Shirasuki/wreq](https://github.com/Shirasuki/wreq)
+  > An ergonomic Rust HTTP Client with TLS fingerprint
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
+  > An ergonomic Rust HTTP Client with TLS fingerprint
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [hotjp/long-run-agent](https://github.com/hotjp/long-run-agent)
@@ -52,6 +72,8 @@
   > Biologically-inspired persistent memory engine for Claude Code. 26 cognitive subsystems, Hopfield ne...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [denismrvoljak/pi-tutor](https://github.com/denismrvoljak/pi-tutor)
   > A personal tutor extension for pi that adapts to your  learning style, remembers what you're learnin...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [rweijnen/MDView](https://github.com/rweijnen/MDView) to [mrexodia/MDView](https://github.com/mrexodia/MDView)
+  > Markdown viewer - Total Commander Lister plugin and standalone executable
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
@@ -79,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-03-22 15:22:40 UTC*
+*最后更新于 2026-03-22 16:26:40 UTC*
 *历史记录保存在 `archive` 目录中。*
