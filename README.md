@@ -8,6 +8,10 @@
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [explosion/spacy-models](https://github.com/explosion/spacy-models)
   > 💫  Models for the spaCy Natural Language Processing (NLP) library
 
+### [Chainfire](https://github.com/Chainfire)
+- 🌟 👤 [Chainfire](https://github.com/Chainfire) Starred [simsustech/unocss-preset-quasar](https://github.com/simsustech/unocss-preset-quasar)
+  > UnoCSS preset for Quasar Framework
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
@@ -129,5 +133,5 @@
 
 
 ---
-*最后更新于 2026-03-22 20:23:25 UTC*
+*最后更新于 2026-03-22 21:22:33 UTC*
 *历史记录保存在 `archive` 目录中。*
