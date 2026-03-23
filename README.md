@@ -11,6 +11,8 @@
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [chen08209/flutter_distributor](https://github.com/chen08209/flutter_distributor) to [5ec1cff/flutter_distributor](https://github.com/5ec1cff/flutter_distributor)
   > An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop sol...
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Ylarod/minidump-parser](https://github.com/Ylarod/minidump-parser)
+  > A CLI tool for parsing Qualcomm minidump/rawdump (`Raw_Dmp!`) files.
 
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
@@ -66,6 +68,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
   > easy vibe 👋 一起 vibe｜ Learn Vibe Coding From 0 to 1｜ Vibe Coding 零基础｜产品原型、AI 与全栈多平台开发教程｜Tutorial on P...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
+  > Autonomous AI development loop for Claude Code with intelligent exit detection
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [usestrix/strix](https://github.com/usestrix/strix)
@@ -78,6 +82,10 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [boydfd/claw-agent-dashboard](https://github.com/boydfd/claw-agent-dashboard)
   > A powerful web-based dashboard for managing OpenClaw AI agents. Monitor system health, browse worksp...
+
+### [scc-tw](https://github.com/scc-tw)
+- 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [badlogic/pi-mono](https://github.com/badlogic/pi-mono) to [scc-tw/pi-mono](https://github.com/scc-tw/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [epistelli/xptmrt](https://github.com/epistelli/xptmrt)
@@ -97,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-03-23 10:58:56 UTC*
+*最后更新于 2026-03-23 11:48:42 UTC*
 *历史记录保存在 `archive` 目录中。*
