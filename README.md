@@ -51,6 +51,11 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
   > Community-contributed instructions, agents, skills, and configurations to help you make the most of ...
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [LGLTeam/Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu) to [T5ive/Android-Mod-Menu](https://github.com/T5ive/Android-Mod-Menu)
+- 🚀 👤 [T5ive](https://github.com/T5ive) Made [T5ive/DbOps](https://github.com/T5ive/DbOps) public
+
+### [archibate](https://github.com/archibate)
+- 🌟 👤 [archibate](https://github.com/archibate) Starred [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api)
+  > 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stas00/ml-engineering](https://github.com/stas00/ml-engineering)
@@ -61,6 +66,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [crmulliner/adbi](https://github.com/crmulliner/adbi)
   > Android Dynamic Binary Instrumentation Toolkit  
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [boydfd/claw-agent-dashboard](https://github.com/boydfd/claw-agent-dashboard)
+  > A powerful web-based dashboard for managing OpenClaw AI agents. Monitor system health, browse worksp...
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [epistelli/xptmrt](https://github.com/epistelli/xptmrt)
@@ -80,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-03-23 08:00:19 UTC*
+*最后更新于 2026-03-23 09:58:48 UTC*
 *历史记录保存在 `archive` 目录中。*
