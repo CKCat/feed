@@ -11,6 +11,10 @@
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [root-project/cling](https://github.com/root-project/cling) to [lallouslab/cling-1](https://github.com/lallouslab/cling-1)
   > The cling C++ interpreter
+- 🚀 👤 [0xeb](https://github.com/0xeb) Made [0xeb/clinglite](https://github.com/0xeb/clinglite) public
+  > Clinglite is a lightweight C++ wrapper on top of Cling (the interactive C++ interpreter from CERN)
+- 🚀 👤 [0xeb](https://github.com/0xeb) Made [allthingsida/idacpp](https://github.com/allthingsida/idacpp) public
+  > A C++ REPL for IDA Pro / IDA C++ SDK
 
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [chen08209/flutter_distributor](https://github.com/chen08209/flutter_distributor) to [5ec1cff/flutter_distributor](https://github.com/5ec1cff/flutter_distributor)
@@ -139,5 +143,5 @@
 
 
 ---
-*最后更新于 2026-03-23 17:51:26 UTC*
+*最后更新于 2026-03-23 18:50:56 UTC*
 *历史记录保存在 `archive` 目录中。*
