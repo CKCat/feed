@@ -91,6 +91,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [epistelli/xptmrt](https://github.com/epistelli/xptmrt)
   > Time Machine Runtime for Windows XP
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
   > An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -105,5 +109,5 @@
 
 
 ---
-*最后更新于 2026-03-23 11:48:42 UTC*
+*最后更新于 2026-03-23 13:00:23 UTC*
 *历史记录保存在 `archive` 目录中。*
