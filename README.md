@@ -103,7 +103,7 @@
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
-  > iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)
+  > iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [crmulliner/adbi](https://github.com/crmulliner/adbi)
@@ -143,5 +143,5 @@
 
 
 ---
-*最后更新于 2026-03-23 18:50:56 UTC*
+*最后更新于 2026-03-23 19:45:37 UTC*
 *历史记录保存在 `archive` 目录中。*
