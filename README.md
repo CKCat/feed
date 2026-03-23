@@ -37,6 +37,14 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
   > DuckDB is an analytical in-process SQL database management system
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [wuji-labs/nopua](https://github.com/wuji-labs/nopua)
+  > 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 ...
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [wuji-labs/nopua](https://github.com/wuji-labs/nopua)
+  > 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 ...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
   > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
@@ -44,9 +52,19 @@
   > Community-contributed instructions, agents, skills, and configurations to help you make the most of ...
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [LGLTeam/Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu) to [T5ive/Android-Mod-Menu](https://github.com/T5ive/Android-Mod-Menu)
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stas00/ml-engineering](https://github.com/stas00/ml-engineering)
+  > Machine Learning Engineering Open Book
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [stas00/ml-engineering](https://github.com/stas00/ml-engineering) to [crazyguitar/ml-engineering](https://github.com/crazyguitar/ml-engineering)
+  > Machine Learning Engineering Open Book
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [crmulliner/adbi](https://github.com/crmulliner/adbi)
   > Android Dynamic Binary Instrumentation Toolkit  
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [epistelli/xptmrt](https://github.com/epistelli/xptmrt)
+  > Time Machine Runtime for Windows XP
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
@@ -62,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-03-23 06:08:46 UTC*
+*最后更新于 2026-03-23 08:00:19 UTC*
 *历史记录保存在 `archive` 目录中。*
