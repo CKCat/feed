@@ -72,6 +72,10 @@
   > Machine Learning Engineering Open Book
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [stas00/ml-engineering](https://github.com/stas00/ml-engineering) to [crazyguitar/ml-engineering](https://github.com/crazyguitar/ml-engineering)
   > Machine Learning Engineering Open Book
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
+  > Beginner, advanced, expert level Rust training material
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [microsoft/RustTraining](https://github.com/microsoft/RustTraining) to [crazyguitar/RustTraining](https://github.com/crazyguitar/RustTraining)
+  > Beginner, advanced, expert level Rust training material
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
@@ -143,5 +147,5 @@
 
 
 ---
-*最后更新于 2026-03-23 22:28:37 UTC*
+*最后更新于 2026-03-23 23:29:11 UTC*
 *历史记录保存在 `archive` 目录中。*
