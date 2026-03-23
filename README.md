@@ -8,6 +8,10 @@
 - 🌟 👤 [0bbedCode](https://github.com/0bbedCode) Starred [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper)
   > eBPF-Based DexDumper for Android
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [root-project/cling](https://github.com/root-project/cling) to [lallouslab/cling-1](https://github.com/lallouslab/cling-1)
+  > The cling C++ interpreter
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [chen08209/flutter_distributor](https://github.com/chen08209/flutter_distributor) to [5ec1cff/flutter_distributor](https://github.com/5ec1cff/flutter_distributor)
   > An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop sol...
@@ -93,6 +97,10 @@
 - 🍴 👤 [iGio90](https://github.com/iGio90) Forked [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) to [iGio90/claude-plugins-official](https://github.com/iGio90/claude-plugins-official)
   > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
+  > iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [crmulliner/adbi](https://github.com/crmulliner/adbi)
   > Android Dynamic Binary Instrumentation Toolkit  
@@ -131,5 +139,5 @@
 
 
 ---
-*最后更新于 2026-03-23 16:56:57 UTC*
+*最后更新于 2026-03-23 17:51:26 UTC*
 *历史记录保存在 `archive` 目录中。*
