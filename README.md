@@ -65,6 +65,20 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [stas00/ml-engineering](https://github.com/stas00/ml-engineering) to [crazyguitar/ml-engineering](https://github.com/crazyguitar/ml-engineering)
   > Machine Learning Engineering Open Book
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+  > A cross-platform GUI library for Rust, inspired by Elm
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+  > Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter a...
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in)
+  > 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hgarrereyn/LibAFL-FrameShift](https://github.com/hgarrereyn/LibAFL-FrameShift)
+  > FrameShift prototype implementation in LibAFL
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
   > easy vibe 👋 一起 vibe｜ Learn Vibe Coding From 0 to 1｜ Vibe Coding 零基础｜产品原型、AI 与全栈多平台开发教程｜Tutorial on P...
@@ -74,6 +88,10 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI hackers to find and fix your app’s vulnerabilities.
+
+### [iGio90](https://github.com/iGio90)
+- 🍴 👤 [iGio90](https://github.com/iGio90) Forked [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) to [iGio90/claude-plugins-official](https://github.com/iGio90/claude-plugins-official)
+  > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [crmulliner/adbi](https://github.com/crmulliner/adbi)
@@ -90,6 +108,10 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [epistelli/xptmrt](https://github.com/epistelli/xptmrt)
   > Time Machine Runtime for Windows XP
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [coder/wush](https://github.com/coder/wush)
+  > simplest & fastest way to transfer files between computers via WireGuard
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
@@ -109,5 +131,5 @@
 
 
 ---
-*最后更新于 2026-03-23 13:00:23 UTC*
+*最后更新于 2026-03-23 14:51:16 UTC*
 *历史记录保存在 `archive` 目录中。*
