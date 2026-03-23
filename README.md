@@ -63,6 +63,14 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [stas00/ml-engineering](https://github.com/stas00/ml-engineering) to [crazyguitar/ml-engineering](https://github.com/crazyguitar/ml-engineering)
   > Machine Learning Engineering Open Book
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+  > easy vibe 👋 一起 vibe｜ Learn Vibe Coding From 0 to 1｜ Vibe Coding 零基础｜产品原型、AI 与全栈多平台开发教程｜Tutorial on P...
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > Open-source AI hackers to find and fix your app’s vulnerabilities.
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [crmulliner/adbi](https://github.com/crmulliner/adbi)
   > Android Dynamic Binary Instrumentation Toolkit  
@@ -89,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-03-23 09:58:48 UTC*
+*最后更新于 2026-03-23 10:58:56 UTC*
 *历史记录保存在 `archive` 目录中。*
