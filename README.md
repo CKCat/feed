@@ -122,6 +122,10 @@
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [devcontainers/cli](https://github.com/devcontainers/cli) to [mrexodia/cli](https://github.com/mrexodia/cli)
   > A reference implementation for the specification that can create and configure a dev container from ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/idacpp](https://github.com/allthingsida/idacpp)
+  > A C++ REPL for IDA Pro / IDA C++ SDK
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/clinglite](https://github.com/0xeb/clinglite)
+  > Clinglite is a lightweight C++ wrapper on top of Cling (the interactive C++ interpreter from CERN)
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Nesquick0/TracyUnrealPlugin](https://github.com/Nesquick0/TracyUnrealPlugin)
@@ -153,5 +157,5 @@
 
 
 ---
-*最后更新于 2026-03-24 21:34:37 UTC*
+*最后更新于 2026-03-24 22:27:10 UTC*
 *历史记录保存在 `archive` 目录中。*
