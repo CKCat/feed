@@ -20,6 +20,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Miuzarte/ScrcpyForAndroid](https://github.com/Miuzarte/ScrcpyForAndroid)
   > Scrcpy android client
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m...
@@ -55,10 +59,12 @@
   > A typst package for creating diagrams of network protocols, memory layouts, register definitions or ...
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo)
   > 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign &...
-- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) to [Mufanc/JKVideo](https://github.com/Mufanc/JKVideo)
-  > 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign &...
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [HellOwhatAs/bili-live](https://github.com/HellOwhatAs/bili-live) to [Mufanc/bili-live](https://github.com/Mufanc/bili-live)
   > A TUI / GUI tool for starting and stopping live streams on bilibili.com, capable of providing the RT...
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [vsjha18/nsetools](https://github.com/vsjha18/nsetools)
+  > Realtime Data From National Stock Exchange (India)
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
@@ -86,6 +92,12 @@
   > Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python pack...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+  > The agent engineering platform
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
+  > Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backen...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
+  > Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost ...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
@@ -133,5 +145,5 @@
 
 
 ---
-*最后更新于 2026-03-24 16:03:44 UTC*
+*最后更新于 2026-03-24 17:53:28 UTC*
 *历史记录保存在 `archive` 目录中。*
