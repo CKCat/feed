@@ -98,6 +98,12 @@
   > Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backen...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
   > Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [huggingface/hf-mount](https://github.com/huggingface/hf-mount)
+  > Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sfujim/TD3](https://github.com/sfujim/TD3)
+  > Author's PyTorch implementation of TD3 for OpenAI gym tasks
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+  > Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
@@ -114,6 +120,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [devcontainers/cli](https://github.com/devcontainers/cli) to [mrexodia/cli](https://github.com/mrexodia/cli)
+  > A reference implementation for the specification that can create and configure a dev container from ...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Nesquick0/TracyUnrealPlugin](https://github.com/Nesquick0/TracyUnrealPlugin)
@@ -145,5 +153,5 @@
 
 
 ---
-*最后更新于 2026-03-24 18:58:28 UTC*
+*最后更新于 2026-03-24 19:54:17 UTC*
 *历史记录保存在 `archive` 目录中。*
