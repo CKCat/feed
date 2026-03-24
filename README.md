@@ -84,10 +84,16 @@
   > Give your agents the power of the Hugging Face ecosystem
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [PyO3/maturin](https://github.com/PyO3/maturin)
   > Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python pack...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
   > Plugin for JADX to integrate MCP server
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)
+  > [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online ...
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE)
@@ -127,5 +133,5 @@
 
 
 ---
-*最后更新于 2026-03-24 14:54:30 UTC*
+*最后更新于 2026-03-24 16:03:44 UTC*
 *历史记录保存在 `archive` 目录中。*
