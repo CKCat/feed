@@ -9,6 +9,8 @@
   > 梳理下自己之前写过的文章
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [AndroidPatch/ap_policy](https://github.com/AndroidPatch/ap_policy)
   > For APatch runing policy 
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Miuzarte/ScrcpyForAndroid](https://github.com/Miuzarte/ScrcpyForAndroid)
+  > Scrcpy android client
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -17,6 +19,10 @@
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [DarkNavySecurity/web3-skills](https://github.com/DarkNavySecurity/web3-skills)
   > Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit...
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
+  > iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
@@ -73,6 +79,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Nesquick0/TracyUnrealPlugin](https://github.com/Nesquick0/TracyUnrealPlugin)
+  > Tracy Profiler - Unreal plugin
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Helicone/helicone](https://github.com/Helicone/helicone)
   > 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC ...
@@ -87,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-03-24 11:42:35 UTC*
+*最后更新于 2026-03-24 13:04:49 UTC*
 *历史记录保存在 `archive` 目录中。*
