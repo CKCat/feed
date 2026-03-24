@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  > Hundreds of models & providers. One command to find what runs on your hardware.
+
+### [0xeb](https://github.com/0xeb)
+- 🌟 👤 [0xeb](https://github.com/0xeb) Starred [cea-sec/miasm](https://github.com/cea-sec/miasm)
+  > Reverse engineering framework in Python
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [WooyunDota/DroidDrops](https://github.com/WooyunDota/DroidDrops)
   > 梳理下自己之前写过的文章
@@ -49,6 +57,8 @@
   > 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign &...
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) to [Mufanc/JKVideo](https://github.com/Mufanc/JKVideo)
   > 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign &...
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [HellOwhatAs/bili-live](https://github.com/HellOwhatAs/bili-live) to [Mufanc/bili-live](https://github.com/Mufanc/bili-live)
+  > A TUI / GUI tool for starting and stopping live streams on bilibili.com, capable of providing the RT...
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
@@ -75,6 +85,14 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [PyO3/maturin](https://github.com/PyO3/maturin)
   > Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python pack...
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE)
+  > DarkSword webkit exploit captured ITW
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
@@ -91,11 +109,23 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [slowmist/slowmist-agent-security](https://github.com/slowmist/slowmist-agent-security)
   > SlowMist Agent Security Skill: A comprehensive security review framework for AI agents operating in ...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [marswaveai/TypeNo](https://github.com/marswaveai/TypeNo)
+  > A free, open source, privacy-first voice input app for macOS.
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml)
+  > Machine learning on FPGAs using HLS
+
 
 ---
-*最后更新于 2026-03-24 13:04:49 UTC*
+*最后更新于 2026-03-24 14:54:30 UTC*
 *历史记录保存在 `archive` 目录中。*
