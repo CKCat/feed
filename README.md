@@ -131,6 +131,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Nesquick0/TracyUnrealPlugin](https://github.com/Nesquick0/TracyUnrealPlugin)
   > Tracy Profiler - Unreal plugin
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [ROCm/hcc](https://github.com/ROCm/hcc)
+  > HCC is an Open Source, Optimizing C++ Compiler for Heterogeneous Compute currently for the ROCm GPU ...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Helicone/helicone](https://github.com/Helicone/helicone)
   > 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC ...
@@ -157,5 +161,5 @@
 
 
 ---
-*最后更新于 2026-03-24 22:27:10 UTC*
+*最后更新于 2026-03-24 23:28:57 UTC*
 *历史记录保存在 `archive` 目录中。*
