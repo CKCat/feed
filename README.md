@@ -39,6 +39,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jomaway/typst-bytefield](https://github.com/jomaway/typst-bytefield)
   > A typst package for creating diagrams of network protocols, memory layouts, register definitions or ...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo)
+  > 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign &...
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) to [Mufanc/JKVideo](https://github.com/Mufanc/JKVideo)
+  > 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign &...
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
@@ -69,6 +73,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [Helicone/helicone](https://github.com/Helicone/helicone)
+  > 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC ...
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [slowmist/slowmist-agent-security](https://github.com/slowmist/slowmist-agent-security)
   > SlowMist Agent Security Skill: A comprehensive security review framework for AI agents operating in ...
@@ -79,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-03-24 08:49:24 UTC*
+*最后更新于 2026-03-24 09:52:57 UTC*
 *历史记录保存在 `archive` 目录中。*
