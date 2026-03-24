@@ -4,9 +4,19 @@
 
 ## 今日动态
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m...
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
+  > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon)
   > Capture and analyze the high-level performance characteristics of graphics applications on Windows.
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jomaway/typst-bytefield](https://github.com/jomaway/typst-bytefield)
+  > A typst package for creating diagrams of network protocols, memory layouts, register definitions or ...
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
@@ -15,8 +25,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [huggingface/skills](https://github.com/huggingface/skills)
   > Give your agents the power of the Hugging Face ecosystem
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [PyO3/maturin](https://github.com/PyO3/maturin)
+  > Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python pack...
 
 
 ---
-*最后更新于 2026-03-24 01:51:02 UTC*
+*最后更新于 2026-03-24 04:16:22 UTC*
 *历史记录保存在 `archive` 目录中。*
