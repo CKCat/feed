@@ -15,6 +15,9 @@
   > A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plug...
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
   > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [olelehmann100kMRR/autoresearch-skill](https://github.com/olelehmann100kMRR/autoresearch-skill)
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
@@ -25,6 +28,8 @@
   > DirectX Capabilities Viewer utility (dxcapsviewer.exe)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
   > Model Context Protocol Servers
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MikeWuPing/emulator-uefi-shell-app](https://github.com/MikeWuPing/emulator-uefi-shell-app)
+  > 本技能可以为 Claude Code 提供 UEFI Shell 应用程序开发的完整知识库，涵盖从环境搭建到调试部署的全流程. This skill provides Claude Code with...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [geelen/mcp-remote](https://github.com/geelen/mcp-remote)
@@ -65,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-03-25 09:51:00 UTC*
+*最后更新于 2026-03-25 10:44:37 UTC*
 *历史记录保存在 `archive` 目录中。*
