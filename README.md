@@ -16,6 +16,10 @@
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [microsoft/DxCapsViewer](https://github.com/microsoft/DxCapsViewer)
+  > DirectX Capabilities Viewer utility (dxcapsviewer.exe)
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [geelen/mcp-remote](https://github.com/geelen/mcp-remote)
 
@@ -31,6 +35,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
   > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [wkdwodud199/BurpAiAnalyzer](https://github.com/wkdwodud199/BurpAiAnalyzer)
+  > Check the CVE,CCE,CWE vulnerabilities with AI Analyzer.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [0xeb/clinglite](https://github.com/0xeb/clinglite)
   > Clinglite is a lightweight C++ wrapper on top of Cling (the interactive C++ interpreter from CERN)
@@ -43,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-03-25 07:10:41 UTC*
+*最后更新于 2026-03-25 08:46:55 UTC*
 *历史记录保存在 `archive` 目录中。*
