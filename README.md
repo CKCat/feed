@@ -38,6 +38,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [geelen/mcp-remote](https://github.com/geelen/mcp-remote)
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) to [NyaMisty/dnsdock](https://github.com/NyaMisty/dnsdock)
+  > DNS service discovery for Docker containers
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera)
   > Retro-futuristic open-source camera with custom hardware and film-like rendering
@@ -85,6 +89,10 @@
   > PTX ISA 9.1 documentation converted to searchable markdown. Includes Claude Code skill for CUDA deve...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [technillogue/ptx-isa-markdown](https://github.com/technillogue/ptx-isa-markdown) to [crazyguitar/ptx-isa-markdown](https://github.com/crazyguitar/ptx-isa-markdown)
   > PTX ISA 9.1 documentation converted to searchable markdown. Includes Claude Code skill for CUDA deve...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [StuartSul/gpu-experiments](https://github.com/StuartSul/gpu-experiments)
+  > A collection of GPU experiments and benchmarks for my personal understanding and research.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [StuartSul/gpu-experiments](https://github.com/StuartSul/gpu-experiments) to [crazyguitar/gpu-experiments](https://github.com/crazyguitar/gpu-experiments)
+  > A collection of GPU experiments and benchmarks for my personal understanding and research.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
@@ -142,5 +150,5 @@
 
 
 ---
-*最后更新于 2026-03-25 21:35:40 UTC*
+*最后更新于 2026-03-25 22:32:14 UTC*
 *历史记录保存在 `archive` 目录中。*
