@@ -34,6 +34,14 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [geelen/mcp-remote](https://github.com/geelen/mcp-remote)
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera)
+  > Retro-futuristic open-source camera with custom hardware and film-like rendering
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [lqqyt2423/go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)
+  > mitmproxy implemented with golang. 用 Golang 实现的中间人攻击（Man-in-the-middle），解析、监测、篡改 HTTP/HTTPS 流量。
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF)
   > CVE-2026-20687: AppleSEPKeyStore Use-After-Free — iOS/macOS kernel vulnerability (patched in 26.4)
@@ -53,6 +61,8 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [allthingsida/idacpp](https://github.com/allthingsida/idacpp)
   > A C++ REPL for IDA Pro / IDA C++ SDK
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
@@ -61,6 +71,10 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [wkdwodud199/BurpAiAnalyzer](https://github.com/wkdwodud199/BurpAiAnalyzer)
   > Check the CVE,CCE,CWE vulnerabilities with AI Analyzer.
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+  > Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes you...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+  > Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [0xeb/clinglite](https://github.com/0xeb/clinglite)
@@ -82,7 +96,11 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base)
+  > YARA signature and IOC database for my scanners and tools
+
 
 ---
-*最后更新于 2026-03-25 13:02:38 UTC*
+*最后更新于 2026-03-25 14:55:33 UTC*
 *历史记录保存在 `archive` 目录中。*
