@@ -34,6 +34,14 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [geelen/mcp-remote](https://github.com/geelen/mcp-remote)
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF)
+  > CVE-2026-20687: AppleSEPKeyStore Use-After-Free — iOS/macOS kernel vulnerability (patched in 26.4)
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF)
+  > CVE-2026-20687: AppleSEPKeyStore Use-After-Free — iOS/macOS kernel vulnerability (patched in 26.4)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/nvshmem](https://github.com/NVIDIA/nvshmem) to [crazyguitar/nvshmem](https://github.com/crazyguitar/nvshmem)
   > NVIDIA NVSHMEM is a parallel programming interface for NVIDIA GPUs based on OpenSHMEM. NVSHMEM can s...
@@ -59,6 +67,8 @@
   > Clinglite is a lightweight C++ wrapper on top of Cling (the interactive C++ interpreter from CERN)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [allthingsida/idacpp](https://github.com/allthingsida/idacpp)
   > A C++ REPL for IDA Pro / IDA C++ SDK
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+  > Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
@@ -68,7 +78,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS)
   > Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
+  > Make You Happy!
+
 
 ---
-*最后更新于 2026-03-25 11:39:03 UTC*
+*最后更新于 2026-03-25 13:02:38 UTC*
 *历史记录保存在 `archive` 目录中。*
