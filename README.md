@@ -111,6 +111,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
   > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [millionco/expect](https://github.com/millionco/expect)
+  > Let agents test your code in a real browser
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS)
@@ -132,5 +134,5 @@
 
 
 ---
-*最后更新于 2026-03-25 17:55:46 UTC*
+*最后更新于 2026-03-25 18:53:57 UTC*
 *历史记录保存在 `archive` 目录中。*
