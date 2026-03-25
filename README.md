@@ -50,9 +50,21 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF)
   > CVE-2026-20687: AppleSEPKeyStore Use-After-Free — iOS/macOS kernel vulnerability (patched in 26.4)
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [backslashxx/mountify](https://github.com/backslashxx/mountify)
+  > Globally mounted modules via OverlayFS.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/nvshmem](https://github.com/NVIDIA/nvshmem) to [crazyguitar/nvshmem](https://github.com/crazyguitar/nvshmem)
   > NVIDIA NVSHMEM is a parallel programming interface for NVIDIA GPUs based on OpenSHMEM. NVSHMEM can s...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [jiseongHAN/Super-Mario-RL](https://github.com/jiseongHAN/Super-Mario-RL)
+  > 🍄Reinforcement Learning: Super Mario Bros with dueling dqn🍄
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [jiseongHAN/Super-Mario-RL](https://github.com/jiseongHAN/Super-Mario-RL) to [crazyguitar/Super-Mario-RL](https://github.com/crazyguitar/Super-Mario-RL)
+  > 🍄Reinforcement Learning: Super Mario Bros with dueling dqn🍄
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
+  > PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for D...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c) to [crazyguitar/pytorch-a3c](https://github.com/crazyguitar/pytorch-a3c)
+  > PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for D...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
@@ -92,6 +104,12 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS)
   > Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [aoguai/Sesame-AG](https://github.com/aoguai/Sesame-AG)
+  > Sesame-AG
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [aoguai/Sesame-AG](https://github.com/aoguai/Sesame-AG) to [sekaiacg/Sesame-AG](https://github.com/sekaiacg/Sesame-AG)
+  > Sesame-AG
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
@@ -102,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-03-25 14:55:33 UTC*
+*最后更新于 2026-03-25 16:08:09 UTC*
 *历史记录保存在 `archive` 目录中。*
