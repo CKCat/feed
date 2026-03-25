@@ -129,6 +129,7 @@
   > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [millionco/expect](https://github.com/millionco/expect)
   > Let agents test your code in a real browser
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remote-exercise-framework/ref](https://github.com/remote-exercise-framework/ref)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS)
@@ -150,5 +151,5 @@
 
 
 ---
-*最后更新于 2026-03-25 22:32:14 UTC*
+*最后更新于 2026-03-25 23:31:09 UTC*
 *历史记录保存在 `archive` 目录中。*
