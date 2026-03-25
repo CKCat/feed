@@ -8,6 +8,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
   > Static analysis for GitHub Actions
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) to [lallouslab/BH-Conferences](https://github.com/lallouslab/BH-Conferences)
+  > Conference presentation slides
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -37,6 +41,8 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera)
   > Retro-futuristic open-source camera with custom hardware and film-like rendering
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google)
+  > Completely block Google and its services
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [lqqyt2423/go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)
@@ -65,6 +71,12 @@
   > PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for D...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c) to [crazyguitar/pytorch-a3c](https://github.com/crazyguitar/pytorch-a3c)
   > PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for D...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vy007vikas/PyTorch-ActorCriticRL](https://github.com/vy007vikas/PyTorch-ActorCriticRL)
+  > PyTorch implementation of DDPG algorithm for continuous action reinforcement learning problem.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [vy007vikas/PyTorch-ActorCriticRL](https://github.com/vy007vikas/PyTorch-ActorCriticRL) to [crazyguitar/PyTorch-ActorCriticRL](https://github.com/crazyguitar/PyTorch-ActorCriticRL)
+  > PyTorch implementation of DDPG algorithm for continuous action reinforcement learning problem.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [radixark/miles](https://github.com/radixark/miles)
+  > Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
@@ -120,5 +132,5 @@
 
 
 ---
-*最后更新于 2026-03-25 16:08:09 UTC*
+*最后更新于 2026-03-25 17:55:46 UTC*
 *历史记录保存在 `archive` 目录中。*
