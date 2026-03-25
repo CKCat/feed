@@ -60,6 +60,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [backslashxx/mountify](https://github.com/backslashxx/mountify)
   > Globally mounted modules via OverlayFS.
 
+### [coderforlife](https://github.com/coderforlife)
+- 🌟 👤 [coderforlife](https://github.com/coderforlife) Starred [coderforlife/yarc](https://github.com/coderforlife/yarc)
+  > Yet Another Roomba Controller - Python library for controlling iRobot Roomba and Create devices
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/nvshmem](https://github.com/NVIDIA/nvshmem) to [crazyguitar/nvshmem](https://github.com/crazyguitar/nvshmem)
   > NVIDIA NVSHMEM is a parallel programming interface for NVIDIA GPUs based on OpenSHMEM. NVSHMEM can s...
@@ -77,6 +81,10 @@
   > PyTorch implementation of DDPG algorithm for continuous action reinforcement learning problem.
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [radixark/miles](https://github.com/radixark/miles)
   > Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [technillogue/ptx-isa-markdown](https://github.com/technillogue/ptx-isa-markdown)
+  > PTX ISA 9.1 documentation converted to searchable markdown. Includes Claude Code skill for CUDA deve...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [technillogue/ptx-isa-markdown](https://github.com/technillogue/ptx-isa-markdown) to [crazyguitar/ptx-isa-markdown](https://github.com/crazyguitar/ptx-isa-markdown)
+  > PTX ISA 9.1 documentation converted to searchable markdown. Includes Claude Code skill for CUDA deve...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
@@ -134,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-03-25 20:34:43 UTC*
+*最后更新于 2026-03-25 21:35:40 UTC*
 *历史记录保存在 `archive` 目录中。*
