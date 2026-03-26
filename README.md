@@ -32,6 +32,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/smali](https://github.com/google/smali)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [google/smali](https://github.com/google/smali) to [Mufanc/smali](https://github.com/Mufanc/smali)
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Siguza/ios-resources](https://github.com/Siguza/ios-resources)
+  > Useful resources for iOS hacking
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)
   > List of awesome open source apps for Android. Updated daily!
@@ -43,6 +47,10 @@
   > An agentic skills framework & software development methodology that works.
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [keon/deep-q-learning](https://github.com/keon/deep-q-learning)
+  > Minimal Deep Q Learning (DQN & DDQN) implementations in Keras
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
@@ -73,6 +81,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
   > Community-contributed instructions, agents, skills, and configurations to help you make the most of ...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/entrix](https://github.com/phodal/entrix)
+  > A Harness Engineering tool for turning quality rules, architecture constraints, and validation steps...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [openai/codex](https://github.com/openai/codex)
@@ -88,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-03-26 15:00:18 UTC*
+*最后更新于 2026-03-26 16:56:56 UTC*
 *历史记录保存在 `archive` 目录中。*
