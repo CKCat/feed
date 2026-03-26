@@ -85,6 +85,7 @@
   > A better c++filt and a better undname.exe, in one binary.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrphrazer/binary-cartography](https://github.com/mrphrazer/binary-cartography)
   > Technical webinars on reverse engineering, malware analysis, and software protection.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmg-egg/slides-harness-engineering-with-pi](https://github.com/dmg-egg/slides-harness-engineering-with-pi)
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore)
@@ -110,5 +111,5 @@
 
 
 ---
-*最后更新于 2026-03-26 22:26:06 UTC*
+*最后更新于 2026-03-26 23:29:02 UTC*
 *历史记录保存在 `archive` 目录中。*
