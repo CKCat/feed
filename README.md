@@ -14,6 +14,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed ...
 
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
+  > 基础反检测 frida-server / Basic anti-detection frida-server
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [SriramGDev/grobner-basis](https://github.com/SriramGDev/grobner-basis)
   > Implementations of Faugère's F4 and F5 algorithms.
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-03-26 09:58:08 UTC*
+*最后更新于 2026-03-26 10:56:50 UTC*
 *历史记录保存在 `archive` 目录中。*
