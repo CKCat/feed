@@ -8,6 +8,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE)
   > DarkSword webkit exploit captured ITW
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🍴 👤 [AeonLucid](https://github.com/AeonLucid) Forked [Rckov/tls-client-sharp](https://github.com/Rckov/tls-client-sharp) to [AeonLucid/tls-client-sharp](https://github.com/AeonLucid/tls-client-sharp)
+  > .NET wrapper for bogdanfinn/tls-client: HTTP/2 and HTTP/3 client with configurable TLS fingerprints.
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)
   > ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
@@ -104,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-03-26 18:00:13 UTC*
+*最后更新于 2026-03-26 19:20:04 UTC*
 *历史记录保存在 `archive` 目录中。*
