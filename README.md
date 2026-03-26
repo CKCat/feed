@@ -60,11 +60,15 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [VisionR1/TargetedFix](https://github.com/VisionR1/TargetedFix)
+  > "Fix" FP in the apps you want with a target list.
+
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [suxuang/myIPTV](https://github.com/suxuang/myIPTV) to [yujincheng08/myIPTV](https://github.com/yujincheng08/myIPTV)
   > 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告
 
 
 ---
-*最后更新于 2026-03-26 08:50:57 UTC*
+*最后更新于 2026-03-26 09:58:08 UTC*
 *历史记录保存在 `archive` 目录中。*
