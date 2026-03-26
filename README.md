@@ -25,6 +25,8 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
   > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
+  > Beginner, advanced, expert level Rust training material
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/smali](https://github.com/google/smali)
@@ -74,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-03-26 10:56:50 UTC*
+*最后更新于 2026-03-26 11:50:40 UTC*
 *历史记录保存在 `archive` 目录中。*
