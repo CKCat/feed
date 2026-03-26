@@ -42,6 +42,10 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [nico/demumble](https://github.com/nico/demumble)
+  > A better c++filt and a better undname.exe, in one binary.
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
   > Beginner, advanced, expert level Rust training material
@@ -53,6 +57,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrymunro/nelson](https://github.com/harrymunro/nelson)
   > Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating pr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nico/demumble](https://github.com/nico/demumble)
+  > A better c++filt and a better undname.exe, in one binary.
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore)
@@ -76,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-03-26 11:50:40 UTC*
+*最后更新于 2026-03-26 13:07:13 UTC*
 *历史记录保存在 `archive` 目录中。*
