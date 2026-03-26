@@ -26,6 +26,12 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/smali](https://github.com/google/smali)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [google/smali](https://github.com/google/smali) to [Mufanc/smali](https://github.com/Mufanc/smali)
 
+### [bmax121](https://github.com/bmax121)
+- 🌟 👤 [bmax121](https://github.com/bmax121) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [bmax121](https://github.com/bmax121) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -34,9 +40,17 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
   > Beginner, advanced, expert level Rust training material
 
+### [mahaloz](https://github.com/mahaloz)
+- 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [gianlucasb/hallucinator](https://github.com/gianlucasb/hallucinator)
+  > A tool to detect potentially hallucinated or fabricated references in academic PDF papers.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrymunro/nelson](https://github.com/harrymunro/nelson)
   > Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating pr...
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore)
+  > Parse and write macOS .DS_Store files from Swift
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
@@ -46,7 +60,11 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [suxuang/myIPTV](https://github.com/suxuang/myIPTV) to [yujincheng08/myIPTV](https://github.com/yujincheng08/myIPTV)
+  > 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告
+
 
 ---
-*最后更新于 2026-03-26 07:03:31 UTC*
+*最后更新于 2026-03-26 08:50:57 UTC*
 *历史记录保存在 `archive` 目录中。*
