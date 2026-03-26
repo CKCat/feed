@@ -51,6 +51,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [keon/deep-q-learning](https://github.com/keon/deep-q-learning)
   > Minimal Deep Q Learning (DQN & DDQN) implementations in Keras
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL)
+  > Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools, with 10x f...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) to [crazyguitar/AgileRL](https://github.com/crazyguitar/AgileRL)
+  > Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools, with 10x f...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
@@ -59,6 +63,8 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [nico/demumble](https://github.com/nico/demumble)
   > A better c++filt and a better undname.exe, in one binary.
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intel/libipt](https://github.com/intel/libipt)
+  > libipt - an Intel(R) Processor Trace decoder library
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
@@ -98,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-03-26 16:56:56 UTC*
+*最后更新于 2026-03-26 18:00:13 UTC*
 *历史记录保存在 `archive` 目录中。*
