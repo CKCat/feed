@@ -32,6 +32,12 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [google/smali](https://github.com/google/smali)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [google/smali](https://github.com/google/smali) to [Mufanc/smali](https://github.com/Mufanc/smali)
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)
+  > List of awesome open source apps for Android. Updated daily!
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [linuxmobile/shin](https://github.com/linuxmobile/shin)
+  > A study in structural evolution. An elegant NixOS environment designed to move with the rhythm of yo...
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
@@ -82,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-03-26 13:07:13 UTC*
+*最后更新于 2026-03-26 15:00:18 UTC*
 *历史记录保存在 `archive` 目录中。*
