@@ -66,6 +66,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
+  > 🖍️ Convert anything to markdown. Mark it.
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
   > Playing Pokemon Red with Reinforcement Learning
@@ -83,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-03-27 10:43:23 UTC*
+*最后更新于 2026-03-27 11:38:59 UTC*
 *历史记录保存在 `archive` 目录中。*
