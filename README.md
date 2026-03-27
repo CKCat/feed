@@ -53,6 +53,8 @@
   > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
   > Beginner, advanced, expert level Rust training material
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
+  > Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
@@ -92,6 +94,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [topkernel/Rux](https://github.com/topkernel/Rux)
   > Yet another Linux-like kernel in Rust—fully AI-generated.Full POSIX & Linux ABI compatible: run any ...
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
+  > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
   > 🖍️ Convert anything to markdown. Mark it.
@@ -127,5 +133,5 @@
 
 
 ---
-*最后更新于 2026-03-27 20:34:44 UTC*
+*最后更新于 2026-03-27 21:31:00 UTC*
 *历史记录保存在 `archive` 目录中。*
