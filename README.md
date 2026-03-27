@@ -66,6 +66,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [shariqiqbal2810/maddpg-pytorch](https://github.com/shariqiqbal2810/maddpg-pytorch)
   > PyTorch Implementation of MADDPG (Lowe et. al. 2017)
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server)
+  > MCP server for JADX-AI Plugin
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
@@ -87,6 +91,10 @@
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
   > Playing Pokemon Red with Reinforcement Learning
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [godot-rust/gdext](https://github.com/godot-rust/gdext)
+  > Rust bindings for Godot 4
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript)
+  > Learn Godot's GDScript programming language from zero, right in your browser, for free.
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI) to [sunwm518/FFmpegFreeUI](https://github.com/sunwm518/FFmpegFreeUI)
@@ -105,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-03-27 14:14:13 UTC*
+*最后更新于 2026-03-27 15:49:45 UTC*
 *历史记录保存在 `archive` 目录中。*
