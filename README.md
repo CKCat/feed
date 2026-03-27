@@ -74,6 +74,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [rizinorg/cutter](https://github.com/rizinorg/cutter)
+  > Free and Open Source Reverse Engineering Platform powered by rizin
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
@@ -113,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-03-27 16:51:34 UTC*
+*最后更新于 2026-03-27 17:46:53 UTC*
 *历史记录保存在 `archive` 目录中。*
