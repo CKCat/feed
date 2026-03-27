@@ -25,6 +25,12 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [In3tinct/Androidmeda](https://github.com/In3tinct/Androidmeda)
   > AI Security tool to deobfuscate and find any potential vulnerabilities in android apps.
+- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [skylot/jadx](https://github.com/skylot/jadx) to [LLeavesG/jadx](https://github.com/LLeavesG/jadx)
+  > Dex to Java decompiler
+- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) to [LLeavesG/Mobile-Security-Framework-MobSF](https://github.com/LLeavesG/Mobile-Security-Framework-MobSF)
+  > Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Window...
+- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [androguard/androguard](https://github.com/androguard/androguard) to [LLeavesG/androguard](https://github.com/LLeavesG/androguard)
+  > Reverse engineering and pentesting for Android applications 
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
@@ -77,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-03-27 08:46:46 UTC*
+*最后更新于 2026-03-27 09:51:32 UTC*
 *历史记录保存在 `archive` 目录中。*
