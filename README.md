@@ -65,6 +65,12 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [shariqiqbal2810/maddpg-pytorch](https://github.com/shariqiqbal2810/maddpg-pytorch)
   > PyTorch Implementation of MADDPG (Lowe et. al. 2017)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vietnh1009/Super-mario-bros-A3C-pytorch](https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch)
+  > Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [vietnh1009/Super-mario-bros-A3C-pytorch](https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch) to [crazyguitar/Super-mario-bros-A3C-pytorch](https://github.com/crazyguitar/Super-mario-bros-A3C-pytorch)
+  > Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gem...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server)
@@ -117,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-03-27 17:46:53 UTC*
+*最后更新于 2026-03-27 18:51:40 UTC*
 *历史记录保存在 `archive` 目录中。*
