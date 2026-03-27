@@ -98,6 +98,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itigges22/ATLAS](https://github.com/itigges22/ATLAS)
   > Adaptive Test-time Learning and Autonomous Specialization
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+  > Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacr...
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
   > Playing Pokemon Red with Reinforcement Learning
@@ -123,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-03-27 19:39:03 UTC*
+*最后更新于 2026-03-27 20:34:44 UTC*
 *历史记录保存在 `archive` 目录中。*
