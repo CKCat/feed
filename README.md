@@ -103,6 +103,12 @@
   > 🖍️ Convert anything to markdown. Mark it.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itigges22/ATLAS](https://github.com/itigges22/ATLAS)
   > Adaptive Test-time Learning and Autonomous Specialization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deplo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zensical/zensical](https://github.com/zensical/zensical)
+  > A modern static site generator by the Material for MkDocs team
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pr0me/xtride](https://github.com/pr0me/xtride)
+  > Source code for XTRIDE: "Practical Type Inference: High-Throughput Recovery of Real-World Structures...
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
@@ -133,5 +139,5 @@
 
 
 ---
-*最后更新于 2026-03-27 21:31:00 UTC*
+*最后更新于 2026-03-27 22:27:58 UTC*
 *历史记录保存在 `archive` 目录中。*
