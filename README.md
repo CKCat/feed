@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [dr34mhacks/JwtAuditor](https://github.com/dr34mhacks/JwtAuditor)
   > JWT Auditor – Analyze, break, and understand your tokens like a pro.
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+  > Find, verify, and analyze leaked credentials
+
 ### [1401199262](https://github.com/1401199262)
 - 🌟 👤 [1401199262](https://github.com/1401199262) Starred [long123king/long123king.github.io](https://github.com/long123king/long123king.github.io)
   > personal blog
@@ -77,6 +81,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
   > 🖍️ Convert anything to markdown. Mark it.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itigges22/ATLAS](https://github.com/itigges22/ATLAS)
+  > Adaptive Test-time Learning and Autonomous Specialization
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
@@ -99,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-03-27 12:59:12 UTC*
+*最后更新于 2026-03-27 14:14:13 UTC*
 *历史记录保存在 `archive` 目录中。*
