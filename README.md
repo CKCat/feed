@@ -40,6 +40,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
   > Beginner, advanced, expert level Rust training material
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
+  > Protect your SSH keys with your Mac's Secure Enclave
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
   > Protect your SSH keys with your Mac's Secure Enclave
@@ -47,6 +51,14 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [shariqiqbal2810/maddpg-pytorch](https://github.com/shariqiqbal2810/maddpg-pytorch)
   > PyTorch Implementation of MADDPG (Lowe et. al. 2017)
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [tiann/hapi](https://github.com/tiann/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
@@ -59,7 +71,11 @@
   > One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 A...
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+
 
 ---
-*最后更新于 2026-03-27 07:02:16 UTC*
+*最后更新于 2026-03-27 08:46:46 UTC*
 *历史记录保存在 `archive` 目录中。*
