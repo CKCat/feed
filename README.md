@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [dr34mhacks/JwtAuditor](https://github.com/dr34mhacks/JwtAuditor)
+  > JWT Auditor – Analyze, break, and understand your tokens like a pro.
+
 ### [1401199262](https://github.com/1401199262)
 - 🌟 👤 [1401199262](https://github.com/1401199262) Starred [long123king/long123king.github.io](https://github.com/long123king/long123king.github.io)
   > personal blog
@@ -66,6 +70,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [topkernel/Rux](https://github.com/topkernel/Rux)
+  > Yet another Linux-like kernel in Rust—fully AI-generated.Full POSIX & Linux ABI compatible: run any ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
   > 🖍️ Convert anything to markdown. Mark it.
@@ -73,6 +81,10 @@
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
   > Playing Pokemon Red with Reinforcement Learning
+
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI) to [sunwm518/FFmpegFreeUI](https://github.com/sunwm518/FFmpegFreeUI)
+  > 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
@@ -87,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-03-27 11:38:59 UTC*
+*最后更新于 2026-03-27 12:59:12 UTC*
 *历史记录保存在 `archive` 目录中。*
