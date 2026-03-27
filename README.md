@@ -11,24 +11,55 @@
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [minsight-ai-info/AI-Search-Hub](https://github.com/minsight-ai-info/AI-Search-Hub)
+  > One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 A...
 
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+  > Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desk...
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [In3tinct/Androidmeda](https://github.com/In3tinct/Androidmeda)
   > AI Security tool to deobfuscate and find any potential vulnerabilities in android apps.
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
+  > CodeNomad: The command center that puts AI coding on steroids.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)
+  > The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TheDecipherist/claude-code-mastery-project-starter-kit](https://github.com/TheDecipherist/claude-code-mastery-project-starter-kit)
+  > The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V1-V5.
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+  > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)
+  > Beginner, advanced, expert level Rust training material
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
+  > Protect your SSH keys with your Mac's Secure Enclave
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [shariqiqbal2810/maddpg-pytorch](https://github.com/shariqiqbal2810/maddpg-pytorch)
   > PyTorch Implementation of MADDPG (Lowe et. al. 2017)
 
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
+  > Playing Pokemon Red with Reinforcement Learning
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [minsight-ai-info/AI-Search-Hub](https://github.com/minsight-ai-info/AI-Search-Hub)
+  > One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 A...
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
 
 ---
-*最后更新于 2026-03-27 05:03:57 UTC*
+*最后更新于 2026-03-27 07:02:16 UTC*
 *历史记录保存在 `archive` 目录中。*
