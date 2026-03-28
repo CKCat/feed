@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Chainfire](https://github.com/Chainfire)
+- 🌟 👤 [Chainfire](https://github.com/Chainfire) Starred [anoyomoose/q2-fresh-paint-md3e](https://github.com/anoyomoose/q2-fresh-paint-md3e)
+  > Fresh Paint for Quasar 2.x: Material Design 3 Expressive
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [humania-org/humanize](https://github.com/humania-org/humanize)
   > LLM IS AS GOOD AS YOU ARE
@@ -29,8 +33,13 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)
+  > All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a sing...
 
 
 ---
-*最后更新于 2026-03-28 10:28:29 UTC*
+*最后更新于 2026-03-28 11:25:10 UTC*
 *历史记录保存在 `archive` 目录中。*
