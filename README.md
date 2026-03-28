@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [caikelun](https://github.com/caikelun)
+- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stanford-scs/jai](https://github.com/stanford-scs/jai)
+  > Jail your AI agent
+
 
 ---
-*最后更新于 2026-03-28 04:18:57 UTC*
+*最后更新于 2026-03-28 05:54:32 UTC*
 *历史记录保存在 `archive` 目录中。*
