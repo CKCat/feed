@@ -52,11 +52,17 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
   > Mobile Shell
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+  > SGLang is a high-performance serving framework for large language models and multimodal models.
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)
   > All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a sing...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)
+  > High-performance AI coding agent CLI written in Rust with zero unsafe code
 
 
 ---
-*最后更新于 2026-03-28 14:29:14 UTC*
+*最后更新于 2026-03-28 15:27:52 UTC*
 *历史记录保存在 `archive` 目录中。*
