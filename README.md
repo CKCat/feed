@@ -33,7 +33,16 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)
+  > 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app require...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [simeji/jid](https://github.com/simeji/jid)
+  > json incremental digger
+
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
+  > Mobile Shell
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)
@@ -41,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-03-28 11:25:10 UTC*
+*最后更新于 2026-03-28 12:48:17 UTC*
 *历史记录保存在 `archive` 目录中。*
