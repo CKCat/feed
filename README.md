@@ -16,6 +16,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [humania-org/humanize](https://github.com/humania-org/humanize)
   > LLM IS AS GOOD AS YOU ARE
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
@@ -43,6 +47,9 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)
   > 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app require...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [playday3008/GhidraClangPoweredParse](https://github.com/playday3008/GhidraClangPoweredParse)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daandemeyer/reproc](https://github.com/daandemeyer/reproc)
+  > A cross-platform (C99/C++11) process library
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [simeji/jid](https://github.com/simeji/jid)
@@ -64,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-03-28 15:27:52 UTC*
+*最后更新于 2026-03-28 16:29:53 UTC*
 *历史记录保存在 `archive` 目录中。*
