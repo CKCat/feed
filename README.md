@@ -50,6 +50,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [playday3008/GhidraClangPoweredParse](https://github.com/playday3008/GhidraClangPoweredParse)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daandemeyer/reproc](https://github.com/daandemeyer/reproc)
   > A cross-platform (C99/C++11) process library
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [svkozak/pi-acp](https://github.com/svkozak/pi-acp)
+  > ACP adapter for pi coding agent
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [simeji/jid](https://github.com/simeji/jid)
@@ -71,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-03-28 19:27:14 UTC*
+*最后更新于 2026-03-28 20:26:32 UTC*
 *历史记录保存在 `archive` 目录中。*
