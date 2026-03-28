@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) to [lallouslab/eDBG](https://github.com/lallouslab/eDBG)
+  > eBPF-based lightweight debugger for Android with MCP support
+
 ### [Chainfire](https://github.com/Chainfire)
 - 🌟 👤 [Chainfire](https://github.com/Chainfire) Starred [anoyomoose/q2-fresh-paint-md3e](https://github.com/anoyomoose/q2-fresh-paint-md3e)
   > Fresh Paint for Quasar 2.x: Material Design 3 Expressive
@@ -26,6 +30,10 @@
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [linqiu919/trae2api](https://github.com/linqiu919/trae2api)
+
+### [h311d1n3r](https://github.com/h311d1n3r)
+- 🌟 👤 [h311d1n3r](https://github.com/h311d1n3r) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
+  > The Z3 Theorem Prover
 
 ### [lzpong](https://github.com/lzpong)
 - 🌟 👤 [lzpong](https://github.com/lzpong) Starred [saghul/txiki.js](https://github.com/saghul/txiki.js)
@@ -50,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-03-28 13:49:07 UTC*
+*最后更新于 2026-03-28 14:29:14 UTC*
 *历史记录保存在 `archive` 目录中。*
