@@ -20,6 +20,9 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [niri-wm/niri](https://github.com/niri-wm/niri)
   > A scrollable-tiling Wayland compositor.
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [linqiu919/trae2api](https://github.com/linqiu919/trae2api)
+
 ### [lzpong](https://github.com/lzpong)
 - 🌟 👤 [lzpong](https://github.com/lzpong) Starred [saghul/txiki.js](https://github.com/saghul/txiki.js)
   > A tiny JavaScript runtime
@@ -29,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-03-28 09:33:22 UTC*
+*最后更新于 2026-03-28 10:28:29 UTC*
 *历史记录保存在 `archive` 目录中。*
