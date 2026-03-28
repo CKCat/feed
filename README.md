@@ -20,6 +20,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [rva3/marvell-hdd-reverse-engineering](https://github.com/rva3/marvell-hdd-reverse-engineering)
+  > attempt to reverse engineer marvell HDD SoCs and boot Linux
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
@@ -76,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-03-28 22:25:47 UTC*
+*最后更新于 2026-03-28 23:28:01 UTC*
 *历史记录保存在 `archive` 目录中。*
