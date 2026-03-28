@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [humania-org/humanize](https://github.com/humania-org/humanize)
+  > LLM IS AS GOOD AS YOU ARE
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
@@ -12,7 +16,11 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stanford-scs/jai](https://github.com/stanford-scs/jai)
   > Jail your AI agent
 
+### [lzpong](https://github.com/lzpong)
+- 🌟 👤 [lzpong](https://github.com/lzpong) Starred [saghul/txiki.js](https://github.com/saghul/txiki.js)
+  > A tiny JavaScript runtime
+
 
 ---
-*最后更新于 2026-03-28 06:55:00 UTC*
+*最后更新于 2026-03-28 07:42:26 UTC*
 *历史记录保存在 `archive` 目录中。*
