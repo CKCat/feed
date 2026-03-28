@@ -27,6 +27,7 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stanford-scs/jai](https://github.com/stanford-scs/jai)
   > Jail your AI agent
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [audreyt/moltbot-sandbox](https://github.com/audreyt/moltbot-sandbox)
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [niri-wm/niri](https://github.com/niri-wm/niri)
@@ -52,6 +53,8 @@
   > A cross-platform (C99/C++11) process library
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [svkozak/pi-acp](https://github.com/svkozak/pi-acp)
   > ACP adapter for pi coding agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dariushoule/x64dbg-rippy](https://github.com/dariushoule/x64dbg-rippy)
+  > AI reverse engineering assistant for x64dbg. Embeds a chat panel directly in the debugger with tool-...
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [simeji/jid](https://github.com/simeji/jid)
@@ -73,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-03-28 20:26:32 UTC*
+*最后更新于 2026-03-28 21:26:50 UTC*
 *历史记录保存在 `archive` 目录中。*
