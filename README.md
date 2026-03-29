@@ -79,6 +79,10 @@
 - 🍴 👤 [rootkiter](https://github.com/rootkiter) Forked [udpcat/Cross-Compilers](https://github.com/udpcat/Cross-Compilers) to [rootkiter/Cross-Compilers](https://github.com/rootkiter/Cross-Compilers)
   > A mirror of uclibc.org cross-compilers.
 
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [thiekus/sa-radioex](https://github.com/thiekus/sa-radioex) to [smx-smx/sa-radioex](https://github.com/smx-smx/sa-radioex)
+  > GTA San Andreas internet radio extension
+
 ### [therealdreg](https://github.com/therealdreg)
 - 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/umsakazo](https://github.com/therealdreg/umsakazo)
   > NanoVNA RF learning board with SMA connectors for practical demos, experiments, and teaching.
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-03-29 19:29:34 UTC*
+*最后更新于 2026-03-29 20:27:45 UTC*
 *历史记录保存在 `archive` 目录中。*
