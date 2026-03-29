@@ -29,6 +29,10 @@
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [libmtp/libmtp](https://github.com/libmtp/libmtp) to [Ylarod/libmtp](https://github.com/Ylarod/libmtp)
   > A library to access MTP (Media Transfer Protocol) Devices.
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [dsl-learn/cuda-magic](https://github.com/dsl-learn/cuda-magic)
+  > fake CUTLASS to get peformance
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Boweii22/Code-graph](https://github.com/Boweii22/Code-graph)
   > Turn any GitHub repo into an interactive knowledge graph. Ask questions in plain English.
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-03-29 07:55:05 UTC*
+*最后更新于 2026-03-29 08:36:34 UTC*
 *历史记录保存在 `archive` 目录中。*
