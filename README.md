@@ -39,6 +39,9 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [dsl-learn/cuda-magic](https://github.com/dsl-learn/cuda-magic)
   > fake CUTLASS to get peformance
 
+### [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines)
+- 🚀 👤 [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines) Made [cutecatsandvirtualmachines/BCStampi](https://github.com/cutecatsandvirtualmachines/BCStampi) public
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Boweii22/Code-graph](https://github.com/Boweii22/Code-graph)
   > Turn any GitHub repo into an interactive knowledge graph. Ask questions in plain English.
@@ -58,6 +61,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent](https://github.com/mrexodia/agent)
   > Build your own coding agent.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ioncodes/chipi](https://github.com/ioncodes/chipi)
+  > A declarative instruction decoder and disassembler generator using a custom DSL
 
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [udpcat/Cross-Compilers](https://github.com/udpcat/Cross-Compilers)
@@ -77,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-03-29 12:49:39 UTC*
+*最后更新于 2026-03-29 13:51:12 UTC*
 *历史记录保存在 `archive` 目录中。*
