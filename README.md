@@ -8,6 +8,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)
+  > the holly uncodexify instructions - letting GPT create uncodexified UI
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
   > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -44,6 +48,8 @@
   > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [quailyquaily/coe](https://github.com/quailyquaily/coe)
   > A zero-GUI Linux voice input tool. Press a hotkey, speak, press again, and the corrected text is pas...
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
+  > Glamourous agentic coding for all 💘
 
 ### [lzpong](https://github.com/lzpong)
 - 🌟 👤 [lzpong](https://github.com/lzpong) Starred [zufuliu/notepad4](https://github.com/zufuliu/notepad4)
@@ -66,8 +72,10 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) to [yuchuangu85/hexo-theme-butterfly](https://github.com/yuchuangu85/hexo-theme-butterfly)
   >  🦋 A Hexo Theme: Butterfly
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [larksuite/cli](https://github.com/larksuite/cli)
+  > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
 
 ---
-*最后更新于 2026-03-29 11:25:54 UTC*
+*最后更新于 2026-03-29 12:49:39 UTC*
 *历史记录保存在 `archive` 目录中。*
