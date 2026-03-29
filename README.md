@@ -26,6 +26,8 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) to [Ylarod/android-udev-rules](https://github.com/Ylarod/android-udev-rules)
   > Android udev rules list aimed to be the most comprehensive on the net
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [libmtp/libmtp](https://github.com/libmtp/libmtp) to [Ylarod/libmtp](https://github.com/Ylarod/libmtp)
+  > A library to access MTP (Media Transfer Protocol) Devices.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Boweii22/Code-graph](https://github.com/Boweii22/Code-graph)
@@ -36,6 +38,10 @@
   > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [quailyquaily/coe](https://github.com/quailyquaily/coe)
   > A zero-GUI Linux voice input tool. Press a hotkey, speak, press again, and the corrected text is pas...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent](https://github.com/mrexodia/agent)
+  > Build your own coding agent.
 
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [udpcat/Cross-Compilers](https://github.com/udpcat/Cross-Compilers)
@@ -49,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-03-29 06:59:09 UTC*
+*最后更新于 2026-03-29 07:55:05 UTC*
 *历史记录保存在 `archive` 目录中。*
