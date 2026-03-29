@@ -12,6 +12,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
   > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)
+  > WebAssembly (Wasm) arch support for the Linux kernel
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [vladmarian20005/EmbeddedFinder](https://github.com/vladmarian20005/EmbeddedFinder)
   > Semantic file search for your local filesystem. Ask questions in plain English — find what you need ...
@@ -30,6 +34,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [alvinunreal/awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)
   > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [quailyquaily/coe](https://github.com/quailyquaily/coe)
+  > A zero-GUI Linux voice input tool. Press a hotkey, speak, press again, and the corrected text is pas...
 
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [udpcat/Cross-Compilers](https://github.com/udpcat/Cross-Compilers)
@@ -43,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-03-29 05:07:53 UTC*
+*最后更新于 2026-03-29 06:59:09 UTC*
 *历史记录保存在 `archive` 目录中。*
