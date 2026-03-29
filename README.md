@@ -12,6 +12,9 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)
   > the holly uncodexify instructions - letting GPT create uncodexified UI
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [MhmRdd/google-rkp-sw](https://github.com/MhmRdd/google-rkp-sw)
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
   > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -44,6 +47,8 @@
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [fuqiuluo/amice](https://github.com/fuqiuluo/amice)
+  > A Rust implementation of Obfuscator-LLVM (OLLVM) passes
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla)
@@ -95,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-03-29 21:28:18 UTC*
+*最后更新于 2026-03-29 22:27:27 UTC*
 *历史记录保存在 `archive` 目录中。*
