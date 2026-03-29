@@ -8,6 +8,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🌟 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Starred [Sanheiii/ok-star-resonance](https://github.com/Sanheiii/ok-star-resonance)
+  > 基于ok-script的星痕共鸣自动工具
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)
   > the holly uncodexify instructions - letting GPT create uncodexified UI
@@ -49,6 +53,8 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [fuqiuluo/amice](https://github.com/fuqiuluo/amice)
   > A Rust implementation of Obfuscator-LLVM (OLLVM) passes
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
+  > CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla)
@@ -98,7 +104,11 @@
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+  > Build and run agents you can see, understand and trust.
+
 
 ---
-*最后更新于 2026-03-29 22:27:27 UTC*
+*最后更新于 2026-03-29 23:28:38 UTC*
 *历史记录保存在 `archive` 目录中。*
