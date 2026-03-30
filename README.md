@@ -20,6 +20,10 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
+  > RikkaHub is an Android APP that supports for multiple LLM providers.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [LunFengChen/unidbg](https://github.com/LunFengChen/unidbg)
   > 魔改版unidbg
@@ -54,6 +58,14 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [zouyipeng/kernel-tracker.github.io](https://github.com/zouyipeng/kernel-tracker.github.io)
   > openEyes
 
+### [jovibor](https://github.com/jovibor)
+- 🍴 👤 [jovibor](https://github.com/jovibor) Forked [microsoft/STL](https://github.com/microsoft/STL) to [jovibor/STL](https://github.com/jovibor/STL)
+  > MSVC's implementation of the C++ Standard Library.
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [wukongdaily/RunFilesBuilder](https://github.com/wukongdaily/RunFilesBuilder) to [sekaiacg/RunFilesBuilder](https://github.com/sekaiacg/RunFilesBuilder)
+  > 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt用的run自解压包
+
 ### [smx-smx](https://github.com/smx-smx)
 - 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [gameflorist/dunedynasty](https://github.com/gameflorist/dunedynasty)
   > Dune Dynasty is a remaster / enhancement of the classic real-time strategy game Dune II by Westwood ...
@@ -73,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-03-30 09:07:50 UTC*
+*最后更新于 2026-03-30 10:58:36 UTC*
 *历史记录保存在 `archive` 目录中。*
