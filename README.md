@@ -53,6 +53,9 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [LunFengChen/unidbg](https://github.com/LunFengChen/unidbg)
   > 魔改版unidbg
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [VibingJustSpeakIt/Vibing](https://github.com/VibingJustSpeakIt/Vibing)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
   > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
@@ -82,6 +85,10 @@
 ### [jovibor](https://github.com/jovibor)
 - 🍴 👤 [jovibor](https://github.com/jovibor) Forked [microsoft/STL](https://github.com/microsoft/STL) to [jovibor/STL](https://github.com/jovibor/STL)
   > MSVC's implementation of the C++ Standard Library.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [agentlogs/agentlogs](https://github.com/agentlogs/agentlogs)
+  > Collaboration in the age of agentic engineering
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [wukongdaily/RunFilesBuilder](https://github.com/wukongdaily/RunFilesBuilder) to [sekaiacg/RunFilesBuilder](https://github.com/sekaiacg/RunFilesBuilder)
@@ -116,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-03-30 18:55:46 UTC*
+*最后更新于 2026-03-30 19:54:23 UTC*
 *历史记录保存在 `archive` 目录中。*
