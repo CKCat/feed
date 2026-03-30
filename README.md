@@ -19,6 +19,10 @@
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [RamuneIDA/Ramune-ida](https://github.com/RamuneIDA/Ramune-ida)
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sfiruch/SATInterface](https://github.com/sfiruch/SATInterface)
+  > Library to formulate SAT problems in .NET
+
 ### [Fare9](https://github.com/Fare9)
 - 🌟 👤 [Fare9](https://github.com/Fare9) Starred [jalopezg-git/h5hep](https://github.com/jalopezg-git/h5hep)
   > Header-only library to read/write simple HEP data in HDF5.
@@ -123,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-03-30 20:41:20 UTC*
+*最后更新于 2026-03-30 21:38:53 UTC*
 *历史记录保存在 `archive` 目录中。*
