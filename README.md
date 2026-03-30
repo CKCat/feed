@@ -66,6 +66,8 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
   > Open-Source Frontier Voice AI
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/catclaw](https://github.com/evilbinary/catclaw)
+  > catclaw
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [zouyipeng/kernel-tracker.github.io](https://github.com/zouyipeng/kernel-tracker.github.io)
@@ -106,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-03-30 13:19:58 UTC*
+*最后更新于 2026-03-30 15:00:25 UTC*
 *历史记录保存在 `archive` 目录中。*
