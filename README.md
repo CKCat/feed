@@ -19,6 +19,10 @@
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [RamuneIDA/Ramune-ida](https://github.com/RamuneIDA/Ramune-ida)
 
+### [Fare9](https://github.com/Fare9)
+- 🌟 👤 [Fare9](https://github.com/Fare9) Starred [jalopezg-git/h5hep](https://github.com/jalopezg-git/h5hep)
+  > Header-only library to read/write simple HEP data in HDF5.
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -58,6 +62,8 @@
   > Reinforcement learning tutorials
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) to [crazyguitar/claude-howto](https://github.com/crazyguitar/claude-howto)
   > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Dao-AILab/gram-newton-schulz](https://github.com/Dao-AILab/gram-newton-schulz)
+  > Fast Polar Decomposition for Muon
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/libNiPass](https://github.com/niqiuqiux/libNiPass)
@@ -80,6 +86,8 @@
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [wukongdaily/RunFilesBuilder](https://github.com/wukongdaily/RunFilesBuilder) to [sekaiacg/RunFilesBuilder](https://github.com/sekaiacg/RunFilesBuilder)
   > 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt用的run自解压包
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [penguinyzsh/janus](https://github.com/penguinyzsh/janus)
+  > An LSPosed module for enhancing Xiaomi's Smart Rear Display
 
 ### [smx-smx](https://github.com/smx-smx)
 - 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [gameflorist/dunedynasty](https://github.com/gameflorist/dunedynasty)
@@ -108,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-03-30 15:00:25 UTC*
+*最后更新于 2026-03-30 16:52:11 UTC*
 *历史记录保存在 `archive` 目录中。*
