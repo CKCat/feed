@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [20000s](https://github.com/20000s)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [flankerhqd/outlook-skill](https://github.com/flankerhqd/outlook-skill)
+  > AI coding assistant skill for Microsoft Outlook on Mac — query, search, draft emails and manage cale...
+
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
@@ -32,8 +40,10 @@
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [MhmRdd/google-rkp-sw](https://github.com/MhmRdd/google-rkp-sw)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [larksuite/cli](https://github.com/larksuite/cli)
+  > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
 
 ---
-*最后更新于 2026-03-30 05:21:09 UTC*
+*最后更新于 2026-03-30 07:22:31 UTC*
 *历史记录保存在 `archive` 目录中。*
