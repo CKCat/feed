@@ -4,8 +4,18 @@
 
 ## 今日动态
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+  > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [pythonlessons/Reinforcement_Learning](https://github.com/pythonlessons/Reinforcement_Learning)
+  > Reinforcement learning tutorials
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [pythonlessons/Reinforcement_Learning](https://github.com/pythonlessons/Reinforcement_Learning) to [crazyguitar/Reinforcement_Learning](https://github.com/crazyguitar/Reinforcement_Learning)
+  > Reinforcement learning tutorials
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) to [crazyguitar/claude-howto](https://github.com/crazyguitar/claude-howto)
   > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
 
 ### [evilbinary](https://github.com/evilbinary)
@@ -25,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-03-30 02:08:45 UTC*
+*最后更新于 2026-03-30 05:21:09 UTC*
 *历史记录保存在 `archive` 目录中。*
