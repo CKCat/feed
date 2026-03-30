@@ -16,6 +16,9 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [ggggmllll/AndProxyDemo](https://github.com/ggggmllll/AndProxyDemo)
   > Android library for intercepting Binder transactions and system calls via GOT hook and seccomp, enab...
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [RamuneIDA/Ramune-ida](https://github.com/RamuneIDA/Ramune-ida)
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -39,6 +42,12 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE)
   > DarkSword webkit exploit captured ITW
+- 🚀 👤 [R0rt1z2](https://github.com/R0rt1z2) Made [R0rt1z2/idmetool](https://github.com/R0rt1z2/idmetool) public
+  > C tool / library to manipulate Amazon's IDME partition
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [LunFengChen/unidbg](https://github.com/LunFengChen/unidbg)
+  > 魔改版unidbg
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
@@ -49,6 +58,10 @@
   > Reinforcement learning tutorials
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) to [crazyguitar/claude-howto](https://github.com/crazyguitar/claude-howto)
   > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/libNiPass](https://github.com/niqiuqiux/libNiPass)
+  > some enhanced llvm pass
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
@@ -75,6 +88,14 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [veritas501/agent-handoff](https://github.com/veritas501/agent-handoff)
+  > Generate structured handoff summaries for seamless cross-session continuation
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [flankerhqd/outlook-skill](https://github.com/flankerhqd/outlook-skill)
+  > AI coding assistant skill for Microsoft Outlook on Mac — query, search, draft emails and manage cale...
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE)
+  > DarkSword webkit exploit captured ITW
+
 ### [wrlu](https://github.com/wrlu)
 - 🌟 👤 [wrlu](https://github.com/wrlu) Starred [veritas501/agent-handoff](https://github.com/veritas501/agent-handoff)
   > Generate structured handoff summaries for seamless cross-session continuation
@@ -85,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-03-30 11:56:19 UTC*
+*最后更新于 2026-03-30 13:19:58 UTC*
 *历史记录保存在 `archive` 目录中。*
