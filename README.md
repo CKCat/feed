@@ -8,6 +8,12 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
   > Linux running inside a PDF file via a RISC-V emulator
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
+  > Identity-aware VPN and proxy for remote access to anything, anywhere.
+- 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+  > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
   > Claude Code v2.1.88 Source Code
@@ -159,5 +165,5 @@
 
 
 ---
-*最后更新于 2026-03-31 17:54:05 UTC*
+*最后更新于 2026-03-31 18:58:03 UTC*
 *历史记录保存在 `archive` 目录中。*
