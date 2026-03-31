@@ -124,7 +124,7 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
-  > Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
+  > Claude Code in Rust & a Breakdown of How it Works
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [phodal/claude-code-sourcemap](https://github.com/phodal/claude-code-sourcemap)
@@ -165,5 +165,5 @@
 
 
 ---
-*最后更新于 2026-03-31 20:40:31 UTC*
+*最后更新于 2026-03-31 21:35:51 UTC*
 *历史记录保存在 `archive` 目录中。*
