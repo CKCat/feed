@@ -20,6 +20,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MicrosoftDocs/winrt-api](https://github.com/MicrosoftDocs/winrt-api)
   > WinRT reference content for developing Microsoft Universal Windows Platform (UWP) apps
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [glitchedgitz/grroxy](https://github.com/glitchedgitz/grroxy)
+  > A cyber security toolkit blending manual testing with AI Agents
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-03-31 07:08:23 UTC*
+*最后更新于 2026-03-31 08:55:01 UTC*
 *历史记录保存在 `archive` 目录中。*
