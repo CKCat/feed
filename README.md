@@ -16,9 +16,17 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
   > Open-source mobile security testing suite for iOS and Android. Previously Passionfruit
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
+  > 1 script run the vphone
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MicrosoftDocs/winrt-api](https://github.com/MicrosoftDocs/winrt-api)
   > WinRT reference content for developing Microsoft Universal Windows Platform (UWP) apps
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [toadster172/.DMPSTER](https://github.com/toadster172/.DMPSTER)
+  > Leapster 2 homebrew BIOS / cart dumper
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [glitchedgitz/grroxy](https://github.com/glitchedgitz/grroxy)
@@ -48,6 +56,9 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [mvdnes/rboy](https://github.com/mvdnes/rboy) to [crazyguitar/rboy](https://github.com/crazyguitar/rboy)
   > A Gameboy Emulator in Rust
 
+### [deathmemory](https://github.com/deathmemory)
+- 🍴 👤 [deathmemory](https://github.com/deathmemory) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [deathmemory/claude-code-sourcemap](https://github.com/deathmemory/claude-code-sourcemap)
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
   > 基于eBPF的堆栈追踪工具
@@ -55,6 +66,10 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Textualize/textual](https://github.com/Textualize/textual)
   > The lean application framework for Python.  Build sophisticated user interfaces with a simple Python...
+
+### [lxraa](https://github.com/lxraa)
+- 🍴 👤 [lxraa](https://github.com/lxraa) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lxraa/claude-code](https://github.com/lxraa/claude-code)
+  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
@@ -68,6 +83,8 @@
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ucbepic/DataAgentBench](https://github.com/ucbepic/DataAgentBench)
   > Benchmark for data agents
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [mohsenph69/Godot-MTerrain-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin)
+  > A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
@@ -76,7 +93,9 @@
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- 🍴 👤 [waruqi](https://github.com/waruqi) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [waruqi/claude-code](https://github.com/waruqi/claude-code)
+  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -86,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-03-31 10:03:06 UTC*
+*最后更新于 2026-03-31 11:45:15 UTC*
 *历史记录保存在 `archive` 目录中。*
