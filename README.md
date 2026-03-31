@@ -137,6 +137,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [guanshan/ClaudeCode](https://github.com/guanshan/ClaudeCode)
   > come from https://x.com/Fried_rice/status/2038894956459290963
 
+### [stong](https://github.com/stong)
+- 🌟 👤 [stong](https://github.com/stong) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ucbepic/DataAgentBench](https://github.com/ucbepic/DataAgentBench)
   > Benchmark for data agents
@@ -165,5 +169,5 @@
 
 
 ---
-*最后更新于 2026-03-31 21:35:51 UTC*
+*最后更新于 2026-03-31 22:31:44 UTC*
 *历史记录保存在 `archive` 目录中。*
