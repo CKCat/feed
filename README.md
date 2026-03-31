@@ -34,7 +34,7 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
   > 1 script run the vphone
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [fscarmen/warp-sh](https://github.com/fscarmen/warp-sh)
   > WARP script is move to: https://gitlab.com/fscarmen/warp
 
@@ -83,9 +83,9 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [mvdnes/rboy](https://github.com/mvdnes/rboy) to [crazyguitar/rboy](https://github.com/crazyguitar/rboy)
   > A Gameboy Emulator in Rust
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [crazyguitar/claw-code](https://github.com/crazyguitar/claw-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [hangsman/claude-code-source](https://github.com/hangsman/claude-code-source)
@@ -96,9 +96,9 @@
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [dqzg12300/claude-code](https://github.com/dqzg12300/claude-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
@@ -106,7 +106,7 @@
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Textualize/textual](https://github.com/Textualize/textual)
@@ -114,7 +114,7 @@
 
 ### [lxraa](https://github.com/lxraa)
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [lxraa/claude-code](https://github.com/lxraa/claude-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
@@ -139,7 +139,7 @@
 
 ### [stong](https://github.com/stong)
 - 🌟 👤 [stong](https://github.com/stong) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ucbepic/DataAgentBench](https://github.com/ucbepic/DataAgentBench)
@@ -157,9 +157,9 @@
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [waruqi/claude-code](https://github.com/waruqi/claude-code)
-  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -167,7 +167,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
   > Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | c...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+
 
 ---
-*最后更新于 2026-03-31 22:31:44 UTC*
+*最后更新于 2026-03-31 23:30:39 UTC*
 *历史记录保存在 `archive` 目录中。*
