@@ -4,8 +4,16 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
+  > Linux running inside a PDF file via a RISC-V emulator
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
+  > Open-source mobile security testing suite for iOS and Android. Previously Passionfruit
+
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
   > Open-source mobile security testing suite for iOS and Android. Previously Passionfruit
 
 ### [MiroKaku](https://github.com/MiroKaku)
@@ -21,6 +29,20 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet)
   > Python Cheat Sheet
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mgba-emu/mgba](https://github.com/mgba-emu/mgba)
+  > mGBA Game Boy Advance Emulator
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [mgba-emu/mgba](https://github.com/mgba-emu/mgba) to [crazyguitar/mgba](https://github.com/crazyguitar/mgba)
+  > mGBA Game Boy Advance Emulator
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [raphamorim/gameboy](https://github.com/raphamorim/gameboy)
+  > The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [raphamorim/gameboy](https://github.com/raphamorim/gameboy) to [crazyguitar/gameboy](https://github.com/crazyguitar/gameboy)
+  > The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [drhelius/Gearboy](https://github.com/drhelius/Gearboy) to [crazyguitar/Gearboy](https://github.com/crazyguitar/Gearboy)
+  > Game Boy / Gameboy Color emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD a...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mvdnes/rboy](https://github.com/mvdnes/rboy)
+  > A Gameboy Emulator in Rust
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [mvdnes/rboy](https://github.com/mvdnes/rboy) to [crazyguitar/rboy](https://github.com/crazyguitar/rboy)
+  > A Gameboy Emulator in Rust
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
@@ -50,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-03-31 05:06:19 UTC*
+*最后更新于 2026-03-31 07:08:23 UTC*
 *历史记录保存在 `archive` 目录中。*
