@@ -59,6 +59,11 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eigenform/perfect](https://github.com/eigenform/perfect)
+  > x86 JIT playground for documenting and exploring microarchitectural implementation details
+
+### [phodal](https://github.com/phodal)
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [phodal/claude-code-sourcemap](https://github.com/phodal/claude-code-sourcemap)
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ucbepic/DataAgentBench](https://github.com/ucbepic/DataAgentBench)
@@ -67,6 +72,11 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
   > Open-Source Frontier Voice AI
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -76,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-03-31 08:55:01 UTC*
+*最后更新于 2026-03-31 10:03:06 UTC*
 *历史记录保存在 `archive` 目录中。*
