@@ -19,10 +19,21 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
   > 1 script run the vphone
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MicrosoftDocs/winrt-api](https://github.com/MicrosoftDocs/winrt-api)
   > WinRT reference content for developing Microsoft Universal Windows Platform (UWP) apps
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [57xv/r3-aio](https://github.com/57xv/r3-aio)
+  > r3 aio is an all in one multi tool that contains account checkers, xbox followers, imap checker, for...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)
+  > Runnable ClaudeCode source code
+- 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) to [MiroKaku/claude-code-rev](https://github.com/MiroKaku/claude-code-rev)
+  > Runnable ClaudeCode source code
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [toadster172/.DMPSTER](https://github.com/toadster172/.DMPSTER)
@@ -69,7 +80,7 @@
 
 ### [lxraa](https://github.com/lxraa)
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lxraa/claude-code](https://github.com/lxraa/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
@@ -91,11 +102,14 @@
   > Open-Source Frontier Voice AI
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [summershrimp/claude-code](https://github.com/summershrimp/claude-code)
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [waruqi/claude-code](https://github.com/waruqi/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -105,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-03-31 11:45:15 UTC*
+*最后更新于 2026-03-31 13:10:50 UTC*
 *历史记录保存在 `archive` 目录中。*
