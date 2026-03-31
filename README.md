@@ -8,6 +8,14 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
   > Linux running inside a PDF file via a RISC-V emulator
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
+  > Claude Code v2.1.88 Source Code
+- 🍴 👤 [Al1ex](https://github.com/Al1ex) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [Al1ex/claude-code-source-code](https://github.com/Al1ex/claude-code-source-code)
+  > Claude Code v2.1.88 Source Code
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
   > Open-source mobile security testing suite for iOS and Android. Previously Passionfruit
@@ -19,8 +27,8 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
   > 1 script run the vphone
-- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MicrosoftDocs/winrt-api](https://github.com/MicrosoftDocs/winrt-api)
@@ -67,8 +75,18 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [mvdnes/rboy](https://github.com/mvdnes/rboy) to [crazyguitar/rboy](https://github.com/crazyguitar/rboy)
   > A Gameboy Emulator in Rust
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [hangsman/claude-code-source](https://github.com/hangsman/claude-code-source)
+  > claude code source map v2.1.88
+
 ### [deathmemory](https://github.com/deathmemory)
 - 🍴 👤 [deathmemory](https://github.com/deathmemory) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [deathmemory/claude-code-sourcemap](https://github.com/deathmemory/claude-code-sourcemap)
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [dqzg12300/claude-code](https://github.com/dqzg12300/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
@@ -79,14 +97,18 @@
   > The lean application framework for Python.  Build sophisticated user interfaces with a simple Python...
 
 ### [lxraa](https://github.com/lxraa)
-- 🍴 👤 [lxraa](https://github.com/lxraa) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lxraa/claude-code](https://github.com/lxraa/claude-code)
-  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
+- 🍴 👤 [lxraa](https://github.com/lxraa) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [lxraa/claude-code](https://github.com/lxraa/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eigenform/perfect](https://github.com/eigenform/perfect)
   > x86 JIT playground for documenting and exploring microarchitectural implementation details
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+  > Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
 
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [phodal/claude-code-sourcemap](https://github.com/phodal/claude-code-sourcemap)
@@ -106,10 +128,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [summershrimp/claude-code](https://github.com/summershrimp/claude-code)
 
 ### [waruqi](https://github.com/waruqi)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
-- 🍴 👤 [waruqi](https://github.com/waruqi) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [waruqi/claude-code](https://github.com/waruqi/claude-code)
-  > An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-code...
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [waruqi](https://github.com/waruqi) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [waruqi/claude-code](https://github.com/waruqi/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -119,5 +141,5 @@
 
 
 ---
-*最后更新于 2026-03-31 13:10:50 UTC*
+*最后更新于 2026-03-31 14:58:16 UTC*
 *历史记录保存在 `archive` 目录中。*
