@@ -6,7 +6,7 @@
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [hangsman/claude-code-source](https://github.com/hangsman/claude-code-source)
   > claude code source map v2.1.88
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
@@ -14,7 +14,7 @@
 
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 
 ### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [muellerberndt/frida-detection](https://github.com/muellerberndt/frida-detection)
@@ -26,10 +26,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
   > Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
 - 🍴 👤 [ErodedElk](https://github.com/ErodedElk) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [ErodedElk/claw-code](https://github.com/ErodedElk/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [yetone/voice-input-src](https://github.com/yetone/voice-input-src)
@@ -43,6 +43,9 @@
   > Open-Source Frontier Voice AI
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
   > Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature...
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [57xv/r3-aio](https://github.com/57xv/r3-aio) to [MiroKaku/r3-aio](https://github.com/MiroKaku/r3-aio)
@@ -70,9 +73,9 @@
 
 ### [Penguin38](https://github.com/Penguin38)
 - 🌟 👤 [Penguin38](https://github.com/Penguin38) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 - 🍴 👤 [Penguin38](https://github.com/Penguin38) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [Penguin38/claw-code](https://github.com/Penguin38/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply)
@@ -84,7 +87,9 @@
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Open-Source Frontier Voice AI
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)
@@ -101,6 +106,8 @@
   > rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatib...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [rll/rllab](https://github.com/rll/rllab) to [crazyguitar/rllab](https://github.com/crazyguitar/rllab)
   > rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatib...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SemiAnalysisAI/microbench-blackwell](https://github.com/SemiAnalysisAI/microbench-blackwell)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [SemiAnalysisAI/microbench-blackwell](https://github.com/SemiAnalysisAI/microbench-blackwell) to [crazyguitar/microbench-blackwell](https://github.com/crazyguitar/microbench-blackwell)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Abdenasser/neohtop-cli](https://github.com/Abdenasser/neohtop-cli)
@@ -114,11 +121,15 @@
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
   > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [jesse-ai/jesse](https://github.com/jesse-ai/jesse)
   > An advanced crypto trading bot written in Python
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [CouleeApps/sludge_content_sidebar](https://github.com/CouleeApps/sludge_content_sidebar)
+  > Inject sludge directly into your reversing workflow
 
 ### [lxraa](https://github.com/lxraa)
 - 🌟 👤 [lxraa](https://github.com/lxraa) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
@@ -165,5 +176,5 @@
 
 
 ---
-*最后更新于 2026-04-01 15:00:58 UTC*
+*最后更新于 2026-04-01 16:50:08 UTC*
 *历史记录保存在 `archive` 目录中。*
