@@ -82,6 +82,10 @@
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [RicterZ/IDEA-MCP-Toolkit](https://github.com/RicterZ/IDEA-MCP-Toolkit)
   > IDEA MCP Toolkit plugin
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)
   > An advanced Web Panel • Built for SagerNet/Sing-Box
@@ -130,6 +134,13 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub)
   > Free educational content on reverse engineering and malware analysis from the FLARE team
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ARM-software/patrace](https://github.com/ARM-software/patrace)
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+  > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
   > Research on Coding Agents
@@ -154,5 +165,5 @@
 
 
 ---
-*最后更新于 2026-04-01 13:14:31 UTC*
+*最后更新于 2026-04-01 15:00:58 UTC*
 *历史记录保存在 `archive` 目录中。*
