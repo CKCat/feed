@@ -28,10 +28,20 @@
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
   > Open-Source Frontier Voice AI
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+  > Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [57xv/r3-aio](https://github.com/57xv/r3-aio) to [MiroKaku/r3-aio](https://github.com/MiroKaku/r3-aio)
   > r3 aio is an all in one multi tool that contains account checkers, xbox followers, imap checker, for...
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [NyaMistyTemp/claude-code](https://github.com/NyaMistyTemp/claude-code)
+  > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)
+  > An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ### [bmax121](https://github.com/bmax121)
 - 🍴 👤 [bmax121](https://github.com/bmax121) Forked [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) to [bmax121/everything-claude-code](https://github.com/bmax121/everything-claude-code)
@@ -73,6 +83,10 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
   > It will be revised soon.
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [jkool702/forkrun](https://github.com/jkool702/forkrun)
+  > NUMA-Aware Contention-Free Dynamically-Auto-Tuning Bash-Native Streaming Parallelization Engine
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
@@ -81,7 +95,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
+  > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+
 
 ---
-*最后更新于 2026-04-01 05:21:05 UTC*
+*最后更新于 2026-04-01 07:15:52 UTC*
 *历史记录保存在 `archive` 目录中。*
