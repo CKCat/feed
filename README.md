@@ -37,6 +37,14 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [SingleStepTests/8088](https://github.com/SingleStepTests/8088)
+  > A Hardware-Generated CPU Test Suite for the Intel 8088 
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [SingleStepTests/80286](https://github.com/SingleStepTests/80286)
+  > A Hardware-Generated CPU Test Suite for the Intel 80286
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [SingleStepTests/80386](https://github.com/SingleStepTests/80386)
+  > A Hardware-Generated CPU Test Suite for the Intel 80386
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [NyaMistyTemp/claude-code](https://github.com/NyaMistyTemp/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
@@ -44,6 +52,8 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)
+  > Programming in assembly language tutorial
 
 ### [Penguin38](https://github.com/Penguin38)
 - 🌟 👤 [Penguin38](https://github.com/Penguin38) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -74,6 +84,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [cyfcyfff/investment](https://github.com/cyfcyfff/investment)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [iflytek/skillhub](https://github.com/iflytek/skillhub)
+  > Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, gov...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -116,8 +128,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [scalar/scalar](https://github.com/scalar/scalar)
+  > Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Clien...
 
 
 ---
-*最后更新于 2026-04-01 09:00:10 UTC*
+*最后更新于 2026-04-01 10:12:37 UTC*
 *历史记录保存在 `archive` 目录中。*
