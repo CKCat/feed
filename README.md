@@ -9,8 +9,16 @@
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [hangsman/claude-code-source](https://github.com/hangsman/claude-code-source)
   > claude code source map v2.1.88
-- 🌟 👤 [20000s](https://github.com/20000s) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
+
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [muellerberndt/frida-detection](https://github.com/muellerberndt/frida-detection)
+  > A couple of methods for detecting Frida on Android.
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
@@ -61,6 +69,14 @@
 - 🍴 👤 [Penguin38](https://github.com/Penguin38) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [Penguin38/claw-code](https://github.com/Penguin38/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply)
+  > Replay USB messages from Wireshark (.cap) files
+
+### [RicterZ](https://github.com/RicterZ)
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [RicterZ/IDEA-MCP-Toolkit](https://github.com/RicterZ/IDEA-MCP-Toolkit)
+  > IDEA MCP Toolkit plugin
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)
   > An advanced Web Panel • Built for SagerNet/Sing-Box
@@ -91,7 +107,7 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-  > Claude Code in Rust & a Breakdown of How it Works
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [jesse-ai/jesse](https://github.com/jesse-ai/jesse)
   > An advanced crypto trading bot written in Python
 
@@ -110,8 +126,8 @@
   > Free educational content on reverse engineering and malware analysis from the FLARE team
 
 ### [satan1a](https://github.com/satan1a)
-- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [jkool702/forkrun](https://github.com/jkool702/forkrun)
@@ -133,5 +149,5 @@
 
 
 ---
-*最后更新于 2026-04-01 10:12:37 UTC*
+*最后更新于 2026-04-01 11:50:31 UTC*
 *历史记录保存在 `archive` 目录中。*
