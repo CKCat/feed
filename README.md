@@ -31,6 +31,11 @@
 - 🍴 👤 [ErodedElk](https://github.com/ErodedElk) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [ErodedElk/claw-code](https://github.com/ErodedElk/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [yetone/voice-input-src](https://github.com/yetone/voice-input-src)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [whitelewi1-ctrl/dji-rc2-research](https://github.com/whitelewi1-ctrl/dji-rc2-research)
+  > DJI RC2 遥控器逆向探索记录 — Root, Framework Patch, 变砖救援, DJI Assistant 2 协议分析 | DJI RC2 Controller Reverse E...
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
@@ -149,5 +154,5 @@
 
 
 ---
-*最后更新于 2026-04-01 11:50:31 UTC*
+*最后更新于 2026-04-01 13:14:31 UTC*
 *历史记录保存在 `archive` 目录中。*
