@@ -108,6 +108,8 @@
   > rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatib...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [SemiAnalysisAI/microbench-blackwell](https://github.com/SemiAnalysisAI/microbench-blackwell)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [SemiAnalysisAI/microbench-blackwell](https://github.com/SemiAnalysisAI/microbench-blackwell) to [crazyguitar/microbench-blackwell](https://github.com/crazyguitar/microbench-blackwell)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [OpenRLHF/OpenRLHF-M](https://github.com/OpenRLHF/OpenRLHF-M)
+  > An Easy-to-use, Scalable and High-performance RLHF Framework designed for Multimodal Models.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Abdenasser/neohtop-cli](https://github.com/Abdenasser/neohtop-cli)
@@ -176,5 +178,5 @@
 
 
 ---
-*最后更新于 2026-04-01 16:50:08 UTC*
+*最后更新于 2026-04-01 17:46:25 UTC*
 *历史记录保存在 `archive` 目录中。*
