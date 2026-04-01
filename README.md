@@ -114,6 +114,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Abdenasser/neohtop-cli](https://github.com/Abdenasser/neohtop-cli)
   > All the power of NeoHtop, right in your terminal. Real-time CPU sparklines, memory bars, process tre...
+- 🍴 👤 [eteran](https://github.com/eteran) Forked [HarnessLab/claw-code-agent](https://github.com/HarnessLab/claw-code-agent) to [eteran/claw-code-agent](https://github.com/eteran/claw-code-agent)
+  >  Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external de...
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [cyfcyfff/investment](https://github.com/cyfcyfff/investment)
@@ -178,5 +180,5 @@
 
 
 ---
-*最后更新于 2026-04-01 22:34:02 UTC*
+*最后更新于 2026-04-01 23:33:16 UTC*
 *历史记录保存在 `archive` 目录中。*
