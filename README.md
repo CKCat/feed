@@ -57,6 +57,8 @@
   > 基于 APatch 开发的内核级别ROOT方案!
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [snapspecter/mitmproxy-mcp](https://github.com/snapspecter/mitmproxy-mcp)
   > MCP Server that wraps mitmproxy and exposes it as a tool to any MCP client, allows your AI agents to...
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [imj01y/trace-ui](https://github.com/imj01y/trace-ui)
+  > 高性能 ARM64 执行 trace 可视化分析工具
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -72,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-04-02 10:56:33 UTC*
+*最后更新于 2026-04-02 11:44:50 UTC*
 *历史记录保存在 `archive` 目录中。*
