@@ -30,6 +30,20 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill)
   > 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [schellingb/TinySoundFont](https://github.com/schellingb/TinySoundFont)
+  > SoundFont2 synthesizer library in a single C/C++ file
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nitro-shoe/super-small-font](https://github.com/nitro-shoe/super-small-font)
+  > Minuscule (15 kB) soundfont.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [aaronsgiles/ymfm](https://github.com/aaronsgiles/ymfm)
+  > BSD-licensed Yamaha FM sound cores (OPM, OPN, OPL, and others)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [devinacker/ymfmidi](https://github.com/devinacker/ymfmidi)
+  > OPL3 MIDI player using the ymfm emulation core
+
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher)
+  > A lightweight Python tool to clean AI refusal responses from Codex CLI session files
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker)
   > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
@@ -74,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-04-02 11:44:50 UTC*
+*最后更新于 2026-04-02 13:05:53 UTC*
 *历史记录保存在 `archive` 目录中。*
