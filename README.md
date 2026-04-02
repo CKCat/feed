@@ -30,6 +30,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill)
   > 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [alihassan143/flutter-packages](https://github.com/alihassan143/flutter-packages)
+  > Html To Pdf
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [schellingb/TinySoundFont](https://github.com/schellingb/TinySoundFont)
   > SoundFont2 synthesizer library in a single C/C++ file
@@ -65,6 +69,14 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [slothy-optimizer/slothy](https://github.com/slothy-optimizer/slothy)
   > Assembly super-optimization via constraint solving
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mefistotelis/ida-pro-loadmap](https://github.com/mefistotelis/ida-pro-loadmap)
+  > Plugin for IDA Pro disassembler which allows loading .map files.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-ida-py3-plugin](https://github.com/symgrate/symgrate2-ida-py3-plugin)
+  > Symgrate plugin for IDA Pro versions with Python 3 support (7.4+)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-lib](https://github.com/symgrate/symgrate2-lib)
+  > Python3 library for Symgrate
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch)
@@ -88,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-04-02 13:05:53 UTC*
+*最后更新于 2026-04-02 14:52:23 UTC*
 *历史记录保存在 `archive` 目录中。*
