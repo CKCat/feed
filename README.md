@@ -64,6 +64,12 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [86Box/86Box](https://github.com/86Box/86Box)
   > Emulator of x86-based machines.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [maaslalani/sheets](https://github.com/maaslalani/sheets)
+  > Terminal based spreadsheet tool
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+  > Style definitions for nice terminal layouts 👄
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
   > Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compati...
@@ -79,6 +85,8 @@
   > Symgrate plugin for IDA Pro versions with Python 3 support (7.4+)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-lib](https://github.com/symgrate/symgrate2-lib)
   > Python3 library for Symgrate
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PSPDFKit/pdf-to-markdown](https://github.com/PSPDFKit/pdf-to-markdown)
+  > Standalone CLI wrapper and docs for Nutrient's PDF-to-Markdown extractor
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ggggmllll/AndProxyDemo](https://github.com/ggggmllll/AndProxyDemo)
@@ -106,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-04-02 21:34:11 UTC*
+*最后更新于 2026-04-02 22:28:07 UTC*
 *历史记录保存在 `archive` 目录中。*
