@@ -44,6 +44,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [quantumiracle/Popular-RL-Algorithms](https://github.com/quantumiracle/Popular-RL-Algorithms) to [crazyguitar/Popular-RL-Algorithms](https://github.com/crazyguitar/Popular-RL-Algorithms)
   > PyTorch implementation of Soft Actor-Critic (SAC), Twin Delayed DDPG (TD3), Actor-Critic (AC/A2C), P...
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+  > Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compati...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [slothy-optimizer/slothy](https://github.com/slothy-optimizer/slothy)
   > Assembly super-optimization via constraint solving
@@ -51,6 +55,8 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch)
   > 基于 APatch 开发的内核级别ROOT方案!
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [snapspecter/mitmproxy-mcp](https://github.com/snapspecter/mitmproxy-mcp)
+  > MCP Server that wraps mitmproxy and exposes it as a tool to any MCP client, allows your AI agents to...
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -66,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-04-02 09:58:18 UTC*
+*最后更新于 2026-04-02 10:56:33 UTC*
 *历史记录保存在 `archive` 目录中。*
