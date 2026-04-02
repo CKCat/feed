@@ -28,6 +28,12 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch)
   > 基于 APatch 开发的内核级别ROOT方案!
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+  > omo; the best agent harness - previously oh-my-opencode
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
@@ -36,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-04-02 04:59:39 UTC*
+*最后更新于 2026-04-02 06:14:54 UTC*
 *历史记录保存在 `archive` 目录中。*
