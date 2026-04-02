@@ -61,6 +61,8 @@
   > PyTorch implementation of Soft Actor-Critic (SAC), Twin Delayed DDPG (TD3), Actor-Critic (AC/A2C), P...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [quantumiracle/Popular-RL-Algorithms](https://github.com/quantumiracle/Popular-RL-Algorithms) to [crazyguitar/Popular-RL-Algorithms](https://github.com/crazyguitar/Popular-RL-Algorithms)
   > PyTorch implementation of Soft Actor-Critic (SAC), Twin Delayed DDPG (TD3), Actor-Critic (AC/A2C), P...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [86Box/86Box](https://github.com/86Box/86Box)
+  > Emulator of x86-based machines.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
@@ -104,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-04-02 20:32:06 UTC*
+*最后更新于 2026-04-02 21:34:11 UTC*
 *历史记录保存在 `archive` 目录中。*
