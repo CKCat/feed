@@ -78,6 +78,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-lib](https://github.com/symgrate/symgrate2-lib)
   > Python3 library for Symgrate
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ggggmllll/AndProxyDemo](https://github.com/ggggmllll/AndProxyDemo)
+  > Android library for intercepting Binder transactions and system calls via GOT hook and seccomp, enab...
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch)
   > 基于 APatch 开发的内核级别ROOT方案!
@@ -100,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-04-02 15:57:49 UTC*
+*最后更新于 2026-04-02 16:59:06 UTC*
 *历史记录保存在 `archive` 目录中。*
