@@ -12,6 +12,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
   > AI Agent 源码深度研究报告
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [ptal/turbo](https://github.com/ptal/turbo)
+  > A constraint solver purely on GPUs (CUDA)
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)
   > A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with ...
@@ -25,6 +29,10 @@
   > 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. 
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill)
   > 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker)
+  > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [fandango-fuzzer/fandango](https://github.com/fandango-fuzzer/fandango)
@@ -58,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-04-02 08:04:22 UTC*
+*最后更新于 2026-04-02 09:58:18 UTC*
 *历史记录保存在 `archive` 目录中。*
