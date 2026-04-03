@@ -55,6 +55,12 @@
   > FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2...
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [screego/server](https://github.com/screego/server)
   > screen sharing for developers https://screego.net/
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste)
+  > Universal Clipboard for Every Device
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [mbuesch/transfer](https://github.com/mbuesch/transfer)
+  > File Transfer App
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [kidfromjupiter/nearby](https://github.com/kidfromjupiter/nearby)
+  > 🔗 Linux implementation of Google's Nearby Connections, Nearby Presence, Fast Pair and QuickShare
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
@@ -98,8 +104,10 @@
   > An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, A...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
+  > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era....
 
 
 ---
-*最后更新于 2026-04-03 09:49:54 UTC*
+*最后更新于 2026-04-03 10:39:13 UTC*
 *历史记录保存在 `archive` 目录中。*
