@@ -4,8 +4,56 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Anionex/banana-slides](https://github.com/Anionex/banana-slides)
+  > 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [hacdias/webdav](https://github.com/hacdias/webdav)
+  > A simple and standalone WebDAV server.
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security)
+  > awesome game security [Welcome to PR]
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
+  > 🚀 The fast, Pythonic way to build MCP servers and clients.
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+  > Browser automation CLI for AI agents
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
+  > Yet another llvm based obfuscator based on goron.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
+  > AI Agent 源码深度研究报告
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive) to [crazyguitar/ai-agent-deep-dive](https://github.com/crazyguitar/ai-agent-deep-dive)
+  > AI Agent 源码深度研究报告
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [shengyu-meng/ClawLibrary](https://github.com/shengyu-meng/ClawLibrary)
+  > ClawLibrary is a 2D pixel-game-style control interface for OpenClaw.  It turns OpenClaw's generated ...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [shengyu-meng/ClawLibrary](https://github.com/shengyu-meng/ClawLibrary) to [crazyguitar/ClawLibrary](https://github.com/crazyguitar/ClawLibrary)
+  > ClawLibrary is a 2D pixel-game-style control interface for OpenClaw.  It turns OpenClaw's generated ...
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
+  > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era....
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter)
+  > 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ 
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mikeyobrien/rho](https://github.com/mikeyobrien/rho)
+  > An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, A...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
 
 ---
-*最后更新于 2026-04-03 02:02:32 UTC*
+*最后更新于 2026-04-03 05:01:51 UTC*
 *历史记录保存在 `archive` 目录中。*
