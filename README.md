@@ -93,6 +93,10 @@
   > Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) to [crazyguitar/lmnr](https://github.com/crazyguitar/lmnr)
   > Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [XinJingHao/SAC-Discrete-Pytorch](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
+  > A clean and robust Pytorch implementation of SAC on discrete action space
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [XinJingHao/SAC-Discrete-Pytorch](https://github.com/XinJingHao/SAC-Discrete-Pytorch) to [crazyguitar/SAC-Discrete-Pytorch](https://github.com/crazyguitar/SAC-Discrete-Pytorch)
+  > A clean and robust Pytorch implementation of SAC on discrete action space
 
 ### [danbev](https://github.com/danbev)
 - 🍴 👤 [danbev](https://github.com/danbev) Forked [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) to [danbev/FFmpeg](https://github.com/danbev/FFmpeg)
@@ -153,5 +157,5 @@
 
 
 ---
-*最后更新于 2026-04-03 20:32:27 UTC*
+*最后更新于 2026-04-03 21:30:36 UTC*
 *历史记录保存在 `archive` 目录中。*
