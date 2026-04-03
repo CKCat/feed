@@ -15,12 +15,18 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security)
   > awesome game security [Welcome to PR]
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [bedrock-tool/bedrocktool](https://github.com/bedrock-tool/bedrocktool)
+  > a mostly working minecraft bedrock tool for downloading server worlds, skins and others
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
   > 🚀 The fast, Pythonic way to build MCP servers and clients.
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [umami-software/umami](https://github.com/umami-software/umami)
+  > Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytic...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
@@ -29,6 +35,10 @@
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [doraemonkeys/WindSend](https://github.com/doraemonkeys/WindSend)
+  > Quickly and securely sync clipboard, transfer files and directories between devices. 快速安全的同步剪切板，传输文件...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
@@ -46,6 +56,8 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [biniamf/ai-reverse-engineering](https://github.com/biniamf/ai-reverse-engineering)
+  > AI-Assisted Reverse Engineering with Ghidra
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [hqnicolas/RK3568-hardware-design](https://github.com/hqnicolas/RK3568-hardware-design)
@@ -70,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-04-03 07:03:18 UTC*
+*最后更新于 2026-04-03 08:49:51 UTC*
 *历史记录保存在 `archive` 目录中。*
