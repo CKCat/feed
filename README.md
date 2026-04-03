@@ -67,6 +67,8 @@
   > 🔗 Linux implementation of Google's Nearby Connections, Nearby Presence, Fast Pair and QuickShare
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [veritas501/ida-hub-agent-skills](https://github.com/veritas501/ida-hub-agent-skills)
   > Orchestrate multiple IDA Pro instances through a central Hub, enabling AI agents to perform complex ...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+  > Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
@@ -92,6 +94,14 @@
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [hqnicolas/RK3568-hardware-design](https://github.com/hqnicolas/RK3568-hardware-design)
+
+### [hackcatml](https://github.com/hackcatml)
+- 🍴 👤 [hackcatml](https://github.com/hackcatml) Forked [wkdwodud199/BurpAiAnalyzer](https://github.com/wkdwodud199/BurpAiAnalyzer) to [hackcatml/BurpAiAnalyzer](https://github.com/hackcatml/BurpAiAnalyzer)
+  > Check the CVE,CCE,CWE vulnerabilities with AI Analyzer.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+  > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [justjavac/moonbit-walkdir](https://github.com/justjavac/moonbit-walkdir)
@@ -119,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-04-03 12:57:26 UTC*
+*最后更新于 2026-04-03 14:02:31 UTC*
 *历史记录保存在 `archive` 目录中。*
