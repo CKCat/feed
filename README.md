@@ -22,6 +22,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+  > Notes of the book System Desgin Interview - An Insider's Guide
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
@@ -35,17 +39,28 @@
   > ClawLibrary is a 2D pixel-game-style control interface for OpenClaw.  It turns OpenClaw's generated ...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [shengyu-meng/ClawLibrary](https://github.com/shengyu-meng/ClawLibrary) to [crazyguitar/ClawLibrary](https://github.com/crazyguitar/ClawLibrary)
   > ClawLibrary is a 2D pixel-game-style control interface for OpenClaw.  It turns OpenClaw's generated ...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [karpathy/autoresearch](https://github.com/karpathy/autoresearch) to [crazyguitar/autoresearch](https://github.com/crazyguitar/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [hqnicolas/RK3568-hardware-design](https://github.com/hqnicolas/RK3568-hardware-design)
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [justjavac/moonbit-walkdir](https://github.com/justjavac/moonbit-walkdir)
+  > A deterministic walkdir library for MoonBit.
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era....
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter)
   > 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ 
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [zai-org/GLM-skills](https://github.com/zai-org/GLM-skills)
+  > Official skills for the GLM family of models.
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mikeyobrien/rho](https://github.com/mikeyobrien/rho)
@@ -55,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-04-03 05:01:51 UTC*
+*最后更新于 2026-04-03 07:03:18 UTC*
 *历史记录保存在 `archive` 目录中。*
