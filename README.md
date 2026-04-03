@@ -35,6 +35,10 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [umami-software/umami](https://github.com/umami-software/umami)
   > Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytic...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+  > Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Mode...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+  > 🧡 Everything is RSSible
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [libevent/libevent](https://github.com/libevent/libevent)
@@ -149,5 +153,5 @@
 
 
 ---
-*最后更新于 2026-04-03 18:41:50 UTC*
+*最后更新于 2026-04-03 19:35:45 UTC*
 *历史记录保存在 `archive` 目录中。*
