@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+  > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Anionex/banana-slides](https://github.com/Anionex/banana-slides)
   > 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区...
@@ -115,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-04-03 11:35:19 UTC*
+*最后更新于 2026-04-03 12:57:26 UTC*
 *历史记录保存在 `archive` 目录中。*
