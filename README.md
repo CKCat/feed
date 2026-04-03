@@ -61,6 +61,8 @@
   > File Transfer App
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [kidfromjupiter/nearby](https://github.com/kidfromjupiter/nearby)
   > 🔗 Linux implementation of Google's Nearby Connections, Nearby Presence, Fast Pair and QuickShare
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [veritas501/ida-hub-agent-skills](https://github.com/veritas501/ida-hub-agent-skills)
+  > Orchestrate multiple IDA Pro instances through a central Hub, enabling AI agents to perform complex ...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
@@ -91,6 +93,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [justjavac/moonbit-walkdir](https://github.com/justjavac/moonbit-walkdir)
   > A deterministic walkdir library for MoonBit.
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [antgroup/ClawAegis](https://github.com/antgroup/ClawAegis)
+  > ClawAegis is a lightweight plugin providing full-lifecycle runtime protection for OpenClaw.
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era....
@@ -109,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-04-03 10:39:13 UTC*
+*最后更新于 2026-04-03 11:35:19 UTC*
 *历史记录保存在 `archive` 目录中。*
