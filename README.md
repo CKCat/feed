@@ -28,6 +28,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [umami-software/umami](https://github.com/umami-software/umami)
   > Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytic...
 
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [libevent/libevent](https://github.com/libevent/libevent)
+  > Event notification library
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
   > Notes of the book System Desgin Interview - An Insider's Guide
@@ -39,6 +43,18 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [doraemonkeys/WindSend](https://github.com/doraemonkeys/WindSend)
   > Quickly and securely sync clipboard, transfer files and directories between devices. 快速安全的同步剪切板，传输文件...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [reqable/reqable-app](https://github.com/reqable/reqable-app)
+  > Reqable issue track repo
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [9001/copyparty](https://github.com/9001/copyparty)
+  > Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, m...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [openziti/zrok](https://github.com/openziti/zrok)
+  > Secure internet sharing made simple.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [id-root/Synapse](https://github.com/id-root/Synapse)
+  > Synapse is a high-performance, peer-to-peer file transfer system designed for Local Area Networks. W...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [nuwainfo/ffl](https://github.com/nuwainfo/ffl)
+  > FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [screego/server](https://github.com/screego/server)
+  > screen sharing for developers https://screego.net/
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
@@ -58,6 +74,9 @@
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [biniamf/ai-reverse-engineering](https://github.com/biniamf/ai-reverse-engineering)
   > AI-Assisted Reverse Engineering with Ghidra
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [arminbiere/kissat](https://github.com/arminbiere/kissat)
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [hqnicolas/RK3568-hardware-design](https://github.com/hqnicolas/RK3568-hardware-design)
@@ -82,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-04-03 08:49:51 UTC*
+*最后更新于 2026-04-03 09:49:54 UTC*
 *历史记录保存在 `archive` 目录中。*
