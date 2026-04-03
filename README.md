@@ -8,6 +8,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
   > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)
+  > "OpenHarness: Open Agent Harness"
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Anionex/banana-slides](https://github.com/Anionex/banana-slides)
   > 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区...
@@ -81,6 +85,10 @@
   > ClawLibrary is a 2D pixel-game-style control interface for OpenClaw.  It turns OpenClaw's generated ...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [karpathy/autoresearch](https://github.com/karpathy/autoresearch) to [crazyguitar/autoresearch](https://github.com/crazyguitar/autoresearch)
   > AI agents running research on single-GPU nanochat training automatically
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr)
+  > Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) to [crazyguitar/lmnr](https://github.com/crazyguitar/lmnr)
+  > Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register)
@@ -111,6 +119,10 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [antgroup/ClawAegis](https://github.com/antgroup/ClawAegis)
   > ClawAegis is a lightweight plugin providing full-lifecycle runtime protection for OpenClaw.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
+  > Chromium running inside your terminal
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era....
@@ -129,5 +141,5 @@
 
 
 ---
-*最后更新于 2026-04-03 14:02:31 UTC*
+*最后更新于 2026-04-03 15:36:52 UTC*
 *历史记录保存在 `archive` 目录中。*
