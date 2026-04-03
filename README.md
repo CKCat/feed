@@ -101,6 +101,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [biniamf/ai-reverse-engineering](https://github.com/biniamf/ai-reverse-engineering)
   > AI-Assisted Reverse Engineering with Ghidra
 
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [arminbiere/kissat](https://github.com/arminbiere/kissat)
 
@@ -145,5 +149,5 @@
 
 
 ---
-*最后更新于 2026-04-03 16:36:20 UTC*
+*最后更新于 2026-04-03 17:31:26 UTC*
 *历史记录保存在 `archive` 目录中。*
