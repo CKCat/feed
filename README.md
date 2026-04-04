@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [erictli/scratch](https://github.com/erictli/scratch)
   > A minimalist, offline-first markdown note-taking app
@@ -25,6 +29,12 @@
   > Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer s...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
+  > We had a problem - and now, publicly, a solution :)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ivoszbg/baikonur](https://github.com/ivoszbg/baikonur)
+  > baikonur lol
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/skills](https://github.com/dotnet/skills)
@@ -50,11 +60,15 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platf...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
+  > We had a problem - and now, publicly, a solution :)
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko)
   > Agentic review of Linux Kernel code changes
 
 
 ---
-*最后更新于 2026-04-04 11:26:22 UTC*
+*最后更新于 2026-04-04 12:48:40 UTC*
 *历史记录保存在 `archive` 目录中。*
