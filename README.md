@@ -29,6 +29,8 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/skills](https://github.com/dotnet/skills)
   > Repository for skills to assist AI coding agents with .NET and C#
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [lasect/discodb](https://github.com/lasect/discodb)
+  > relational database stored 100% in a discord guild built with go
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english)
@@ -54,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-04-04 10:29:25 UTC*
+*最后更新于 2026-04-04 11:26:22 UTC*
 *历史记录保存在 `archive` 目录中。*
