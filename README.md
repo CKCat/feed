@@ -10,6 +10,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [Enderfga/openclaw-claude-code](https://github.com/Enderfga/openclaw-claude-code)
   > OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of to...
 
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [luisbocanegra/kurve](https://github.com/luisbocanegra/kurve)
+  > Audio visualizer widget powered by CAVA for the KDE Plasma Desktop
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
   > We had a problem - and now, publicly, a solution :)
@@ -114,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-04-04 22:25:42 UTC*
+*最后更新于 2026-04-04 23:27:23 UTC*
 *历史记录保存在 `archive` 目录中。*
