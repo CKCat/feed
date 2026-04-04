@@ -8,6 +8,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
+  > We had a problem - and now, publicly, a solution :)
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [erictli/scratch](https://github.com/erictli/scratch)
   > A minimalist, offline-first markdown note-taking app
@@ -41,6 +45,12 @@
   > Repository for skills to assist AI coding agents with .NET and C#
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [lasect/discodb](https://github.com/lasect/discodb)
   > relational database stored 100% in a discord guild built with go
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+  > The media player for language learning, with dual subtitles, AI-generated subtitles, real-time trans...
+
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [fatedier/frp](https://github.com/fatedier/frp)
+  > A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english)
@@ -60,6 +70,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platf...
 
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [ColinLeung-NiloCat/UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
+  > A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
   > We had a problem - and now, publicly, a solution :)
@@ -70,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-04-04 12:48:40 UTC*
+*最后更新于 2026-04-04 13:50:53 UTC*
 *历史记录保存在 `archive` 目录中。*
