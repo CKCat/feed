@@ -26,6 +26,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/skills](https://github.com/dotnet/skills)
+  > Repository for skills to assist AI coding agents with .NET and C#
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english)
   > A collection of awesome study resources for learners of English.
@@ -35,6 +39,10 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
   > The Context Optimization Layer for LLM Applications
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+  > A unified library of SOTA model optimization techniques like quantization, pruning, distillation, sp...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
@@ -46,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-04-04 06:57:02 UTC*
+*最后更新于 2026-04-04 07:48:39 UTC*
 *历史记录保存在 `archive` 目录中。*
