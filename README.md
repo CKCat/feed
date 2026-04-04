@@ -80,6 +80,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
   > A unified library of SOTA model optimization techniques like quantization, pruning, distillation, sp...
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [ExTV/Podroid](https://github.com/ExTV/Podroid)
+  > Rootless Podman for Android — run Linux containers on your phone
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platf...
@@ -110,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-04-04 21:27:53 UTC*
+*最后更新于 2026-04-04 22:25:42 UTC*
 *历史记录保存在 `archive` 目录中。*
