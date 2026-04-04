@@ -9,6 +9,22 @@
   > A minimalist, offline-first markdown note-taking app
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [aoguai/LiYing](https://github.com/aoguai/LiYing)
+  > LiYing is an automated photo processing program designed for automating the post-processing workflow...
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)
+  > RDP Wrapper Library
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap)
+  > RDP Wrapper Library
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
+  > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli)
+  > Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer s...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english)
@@ -24,7 +40,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platf...
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko)
+  > Agentic review of Linux Kernel code changes
+
 
 ---
-*最后更新于 2026-04-04 05:54:24 UTC*
+*最后更新于 2026-04-04 06:57:02 UTC*
 *历史记录保存在 `archive` 目录中。*
