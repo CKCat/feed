@@ -58,6 +58,7 @@
   > relational database stored 100% in a discord guild built with go
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
   > The media player for language learning, with dual subtitles, AI-generated subtitles, real-time trans...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [asawicki/nexum](https://github.com/asawicki/nexum)
 
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [fatedier/frp](https://github.com/fatedier/frp)
@@ -81,6 +82,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platf...
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon)
+  > 腾讯安全智能渗透挑战赛获奖团队答辩材料及项目列表
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus)
   > Windows的开源C盘强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
@@ -103,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-04-04 16:31:23 UTC*
+*最后更新于 2026-04-04 17:26:48 UTC*
 *历史记录保存在 `archive` 目录中。*
