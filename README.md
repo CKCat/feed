@@ -35,6 +35,8 @@
   > Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer s...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns)
+  > DNS over HTTPS config profiles for iOS & macOS
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
@@ -108,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-04-04 19:28:11 UTC*
+*最后更新于 2026-04-04 20:27:16 UTC*
 *历史记录保存在 `archive` 目录中。*
