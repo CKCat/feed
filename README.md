@@ -43,6 +43,10 @@
   > baikonur lol
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/exynos990-payloads](https://github.com/halal-beef/exynos990-payloads)
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [clice-io/clice](https://github.com/clice-io/clice)
+  > A next-generation C++ language server for modern C++, focused on high performance and deep code inte...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/skills](https://github.com/dotnet/skills)
   > Repository for skills to assist AI coding agents with .NET and C#
@@ -95,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-04-04 14:30:26 UTC*
+*最后更新于 2026-04-04 15:27:57 UTC*
 *历史记录保存在 `archive` 目录中。*
