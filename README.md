@@ -10,7 +10,11 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
+  > The Context Optimization Layer for LLM Applications
+
 
 ---
-*最后更新于 2026-04-04 01:55:12 UTC*
+*最后更新于 2026-04-04 04:15:06 UTC*
 *历史记录保存在 `archive` 目录中。*
