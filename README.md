@@ -7,6 +7,8 @@
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [Enderfga/openclaw-claude-code](https://github.com/Enderfga/openclaw-claude-code)
+  > OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of to...
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
@@ -39,6 +41,7 @@
   > We had a problem - and now, publicly, a solution :)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ivoszbg/baikonur](https://github.com/ivoszbg/baikonur)
   > baikonur lol
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [halal-beef/exynos990-payloads](https://github.com/halal-beef/exynos990-payloads)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/skills](https://github.com/dotnet/skills)
@@ -70,6 +73,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/routa](https://github.com/phodal/routa)
   > Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platf...
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus)
+  > Windows的开源C盘强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ColinLeung-NiloCat/UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
   > A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
@@ -82,7 +89,11 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko)
   > Agentic review of Linux Kernel code changes
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Meowmycks/trustme](https://github.com/Meowmycks/trustme)
+  > BOF to impersonate TrustedInstaller via DISM API trigger and thread impersonation
+
 
 ---
-*最后更新于 2026-04-04 13:50:53 UTC*
+*最后更新于 2026-04-04 14:30:26 UTC*
 *历史记录保存在 `archive` 目录中。*
