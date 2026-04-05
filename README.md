@@ -23,6 +23,8 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [weidai11/cryptopp](https://github.com/weidai11/cryptopp)
   > free C++ class library of cryptographic schemes
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [VDavid003/exynos-usbdl](https://github.com/VDavid003/exynos-usbdl)
@@ -49,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-04-05 18:38:52 UTC*
+*最后更新于 2026-04-05 19:31:14 UTC*
 *历史记录保存在 `archive` 目录中。*
