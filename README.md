@@ -30,6 +30,14 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [VDavid003/exynos-usbdl](https://github.com/VDavid003/exynos-usbdl)
   > Unsigned code loader for Exynos BootROM
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [ZehMatt/ida-pro-mcp](https://github.com/ZehMatt/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [mazeworks-security/Simplifier](https://github.com/mazeworks-security/Simplifier)
+  > Efficient general mixed boolean-arithmetic (MBA) simplifier
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
   > An open-source database of AI models.
@@ -51,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-04-05 21:27:45 UTC*
+*最后更新于 2026-04-05 22:27:23 UTC*
 *历史记录保存在 `archive` 目录中。*
