@@ -22,7 +22,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
   > An open-source database of AI models.
 
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [bdunderscore/modular-avatar](https://github.com/bdunderscore/modular-avatar)
+
 
 ---
-*最后更新于 2026-04-05 12:51:21 UTC*
+*最后更新于 2026-04-05 13:52:52 UTC*
 *历史记录保存在 `archive` 目录中。*
