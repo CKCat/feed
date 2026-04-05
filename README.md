@@ -37,7 +37,11 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
   > Stealthy Linux Kernel Rootkit for modern kernels (6x)
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
+  > Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+
 
 ---
-*最后更新于 2026-04-05 16:32:31 UTC*
+*最后更新于 2026-04-05 17:27:28 UTC*
 *历史记录保存在 `archive` 目录中。*
