@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [AlexLiuDev233/remove_hyperos_haptic_whitelist](https://github.com/AlexLiuDev233/remove_hyperos_haptic_whitelist)
+  > Customize HyperOS A2H whitelist
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
   > Financial data platform for analysts, quants and AI agents.
@@ -25,7 +29,11 @@
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [bdunderscore/modular-avatar](https://github.com/bdunderscore/modular-avatar)
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > Stealthy Linux Kernel Rootkit for modern kernels (6x)
+
 
 ---
-*最后更新于 2026-04-05 14:32:46 UTC*
+*最后更新于 2026-04-05 15:28:48 UTC*
 *历史记录保存在 `archive` 目录中。*
