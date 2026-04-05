@@ -26,6 +26,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
   > An open-source database of AI models.
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [AlexLiuDev233/remove_hyperos_haptic_whitelist](https://github.com/AlexLiuDev233/remove_hyperos_haptic_whitelist)
+  > Customize HyperOS A2H whitelist
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [bdunderscore/modular-avatar](https://github.com/bdunderscore/modular-avatar)
 
@@ -35,5 +39,5 @@
 
 
 ---
-*最后更新于 2026-04-05 15:28:48 UTC*
+*最后更新于 2026-04-05 16:32:31 UTC*
 *历史记录保存在 `archive` 目录中。*
