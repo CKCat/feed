@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) to [0xdea/claurst](https://github.com/0xdea/claurst)
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [AlexLiuDev233/remove_hyperos_haptic_whitelist](https://github.com/AlexLiuDev233/remove_hyperos_haptic_whitelist)
   > Customize HyperOS A2H whitelist
@@ -43,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-04-05 17:27:28 UTC*
+*最后更新于 2026-04-05 18:38:52 UTC*
 *历史记录保存在 `archive` 目录中。*
