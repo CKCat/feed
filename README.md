@@ -4,9 +4,19 @@
 
 ## 今日动态
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+  > Financial data platform for analysts, quants and AI agents.
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [weidai11/cryptopp](https://github.com/weidai11/cryptopp)
   > free C++ class library of cryptographic schemes
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [VDavid003/exynos-usbdl](https://github.com/VDavid003/exynos-usbdl)
+  > Unsigned code loader for Exynos BootROM
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
@@ -14,5 +24,5 @@
 
 
 ---
-*最后更新于 2026-04-05 11:26:42 UTC*
+*最后更新于 2026-04-05 12:51:21 UTC*
 *历史记录保存在 `archive` 目录中。*
