@@ -19,6 +19,8 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
   > Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+  > Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
@@ -27,6 +29,12 @@
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [kcat/openal-soft](https://github.com/kcat/openal-soft) to [ZehMatt/openal-soft](https://github.com/ZehMatt/openal-soft)
   > OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) to [crazyguitar/LiteRT-LM](https://github.com/crazyguitar/LiteRT-LM)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)
+  > PersonaPlex code.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate)
@@ -52,6 +60,10 @@
   > Open schema + CLI for repo-local agent trace capture, review, and upload to Hugging Face Hub.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AndreiMuntea/etwkm](https://github.com/AndreiMuntea/etwkm)
 
+### [osm0sis](https://github.com/osm0sis)
+- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+  > Fix Play Integrity <A13 verdicts, allowing custom fields and props
+
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [sunwm518/krypton-devirtualizer](https://github.com/sunwm518/krypton-devirtualizer)
   > .NET Reactor devirtualizer
@@ -68,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-04-06 22:32:48 UTC*
+*最后更新于 2026-04-06 23:32:26 UTC*
 *历史记录保存在 `archive` 目录中。*
