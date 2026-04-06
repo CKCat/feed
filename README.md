@@ -50,6 +50,7 @@
   > Bridge local AI coding sessions between Pi, Claude Code, and Codex.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JayFarei/opentraces](https://github.com/JayFarei/opentraces)
   > Open schema + CLI for repo-local agent trace capture, review, and upload to Hugging Face Hub.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AndreiMuntea/etwkm](https://github.com/AndreiMuntea/etwkm)
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [sunwm518/krypton-devirtualizer](https://github.com/sunwm518/krypton-devirtualizer)
@@ -67,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-04-06 19:50:56 UTC*
+*最后更新于 2026-04-06 20:34:51 UTC*
 *历史记录保存在 `archive` 目录中。*
