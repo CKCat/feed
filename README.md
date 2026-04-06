@@ -30,6 +30,8 @@
   > Single-pass SSA compiler for Python 3.13: hand-written lexer, token-to-bytecode parser, adaptive VM ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/pi-share-hf](https://github.com/badlogic/pi-share-hf)
   > Collect, review, and upload redacted pi session files to a Hugging Face dataset
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge)
+  > Bridge local AI coding sessions between Pi, Claude Code, and Codex.
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [sunwm518/krypton-devirtualizer](https://github.com/sunwm518/krypton-devirtualizer)
@@ -47,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-04-06 14:42:49 UTC*
+*最后更新于 2026-04-06 15:42:28 UTC*
 *历史记录保存在 `archive` 目录中。*
