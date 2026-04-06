@@ -25,7 +25,11 @@
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [sunwm518/krypton-devirtualizer](https://github.com/sunwm518/krypton-devirtualizer)
   > .NET Reactor devirtualizer
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Cobalt-Strike/bof_template](https://github.com/Cobalt-Strike/bof_template)
+  > A Beacon Object File (BOF) is a compiled C program, written to a convention that allows it to execut...
+
 
 ---
-*最后更新于 2026-04-06 10:53:15 UTC*
+*最后更新于 2026-04-06 11:45:46 UTC*
 *历史记录保存在 `archive` 目录中。*
