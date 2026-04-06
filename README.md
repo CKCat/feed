@@ -8,9 +8,17 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
   > A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
   > All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a...
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [kcat/openal-soft](https://github.com/kcat/openal-soft) to [ZehMatt/openal-soft](https://github.com/ZehMatt/openal-soft)
+  > OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate)
@@ -29,7 +37,13 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Cobalt-Strike/bof_template](https://github.com/Cobalt-Strike/bof_template)
   > A Beacon Object File (BOF) is a compiled C program, written to a convention that allows it to execut...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+  > Use Codex from Claude Code to review code or delegate tasks.
+
 
 ---
-*最后更新于 2026-04-06 11:45:46 UTC*
+*最后更新于 2026-04-06 13:03:10 UTC*
 *历史记录保存在 `archive` 目录中。*
