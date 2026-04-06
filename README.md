@@ -31,6 +31,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate)
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim)
+  > Automatic indentation style detection for Neovim
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
   > Fast, accurate & comprehensive text measurement & layout
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-04-06 18:54:14 UTC*
+*最后更新于 2026-04-06 19:50:56 UTC*
 *历史记录保存在 `archive` 目录中。*
