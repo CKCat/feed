@@ -8,6 +8,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
   > A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
+  > All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate)
 
@@ -23,5 +27,5 @@
 
 
 ---
-*最后更新于 2026-04-06 09:05:00 UTC*
+*最后更新于 2026-04-06 10:53:15 UTC*
 *历史记录保存在 `archive` 目录中。*
