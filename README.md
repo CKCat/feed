@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0bbedCode](https://github.com/0bbedCode)
+- 🌟 👤 [0bbedCode](https://github.com/0bbedCode) Starred [XHUBERTH/NekoCheck](https://github.com/XHUBERTH/NekoCheck)
+  > Tracking of malware embedded into Nekogram
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
   > A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
@@ -23,6 +31,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate)
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+  > Fast, accurate & comprehensive text measurement & layout
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [santifer/career-ops](https://github.com/santifer/career-ops)
   > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
@@ -32,6 +44,8 @@
   > Collect, review, and upload redacted pi session files to a Hugging Face dataset
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge)
   > Bridge local AI coding sessions between Pi, Claude Code, and Codex.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JayFarei/opentraces](https://github.com/JayFarei/opentraces)
+  > Open schema + CLI for repo-local agent trace capture, review, and upload to Hugging Face Hub.
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [sunwm518/krypton-devirtualizer](https://github.com/sunwm518/krypton-devirtualizer)
@@ -49,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-04-06 15:42:28 UTC*
+*最后更新于 2026-04-06 16:42:06 UTC*
 *历史记录保存在 `archive` 目录中。*
