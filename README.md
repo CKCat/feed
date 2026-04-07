@@ -25,10 +25,22 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShiftLeftSecurity/codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph)
+  > Code Property Graph: specification, query language, and utilities
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fraunhofer-AISEC/cpg](https://github.com/Fraunhofer-AISEC/cpg)
+  > A library to extract Code Property Graphs from C/C++, Java, Go, Python, Ruby and every other languag...
+
+### [romainthomas](https://github.com/romainthomas)
+- 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)
   > Security Scanner for Agent Skills
+
+### [scc-tw](https://github.com/scc-tw)
+- 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [rizsotto/Bear](https://github.com/rizsotto/Bear) to [scc-tw/Bear](https://github.com/scc-tw/Bear)
+  > Bear is a tool that generates a compilation database for clang tooling.
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
@@ -45,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-04-07 07:11:28 UTC*
+*最后更新于 2026-04-07 08:58:09 UTC*
 *历史记录保存在 `archive` 目录中。*
