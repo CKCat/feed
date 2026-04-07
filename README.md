@@ -42,6 +42,14 @@
   > A TurboQuant inference server
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ericcurtin/inferrs](https://github.com/ericcurtin/inferrs) to [crazyguitar/inferrs](https://github.com/crazyguitar/inferrs)
   > A TurboQuant inference server
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+  > "DeepTutor: Agent-Native Personalized Learning Assistant"
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) to [crazyguitar/DeepTutor](https://github.com/crazyguitar/DeepTutor)
+  > "DeepTutor: Agent-Native Personalized Learning Assistant"
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [santifer/career-ops](https://github.com/santifer/career-ops)
+  > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [santifer/career-ops](https://github.com/santifer/career-ops) to [crazyguitar/career-ops](https://github.com/crazyguitar/career-ops)
+  > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
@@ -66,6 +74,10 @@
   > x86-64 virtualizing obfuscator written in Rust
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [appcuarium/synapptic](https://github.com/appcuarium/synapptic)
   > Just like the elite potential of a high-drive Belgian Malinois, an AI system's raw capabilities are ...
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers)
+  > Collection of stream cipher algorithms
 
 ### [romainthomas](https://github.com/romainthomas)
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
@@ -104,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-04-07 16:54:11 UTC*
+*最后更新于 2026-04-07 17:56:11 UTC*
 *历史记录保存在 `archive` 目录中。*
