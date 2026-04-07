@@ -13,6 +13,10 @@
   > 数字生命卡兹克开源的 AI Skills 合集
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, p...
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+  > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [joeseesun/qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design)
+  > 一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [vercel-labs/portless](https://github.com/vercel-labs/portless)
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-04-07 11:51:20 UTC*
+*最后更新于 2026-04-07 13:12:54 UTC*
 *历史记录保存在 `archive` 目录中。*
