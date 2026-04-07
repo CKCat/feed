@@ -23,7 +23,7 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)
   > 数字生命卡兹克开源的 AI Skills 合集
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, p...
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o...
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
   > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [joeseesun/qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design)
@@ -63,6 +63,10 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
   > A reverse-engineering agent for IDA Pro and Binary Ninja
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [SublimeText-Markdown/MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)
+  > Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
   > x86-64 virtualizing obfuscator written in Rust
@@ -82,6 +86,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers)
   > Collection of stream cipher algorithms
+
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [MMw-Unibo/INSANE](https://github.com/MMw-Unibo/INSANE)
+  > Kernel Bypass Networking Made Easy: a uniform interface, multiple supported stacks (XDP, DPDK, RDMA)
 
 ### [romainthomas](https://github.com/romainthomas)
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
@@ -120,5 +128,5 @@
 
 
 ---
-*最后更新于 2026-04-07 19:02:43 UTC*
+*最后更新于 2026-04-07 20:42:20 UTC*
 *历史记录保存在 `archive` 目录中。*
