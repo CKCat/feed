@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [XRSec/scrcpy-mobile](https://github.com/XRSec/scrcpy-mobile)
+  > Ported scrcpy for mobile platforms, to remotely control Android devices on your Android phone.
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
@@ -43,6 +47,8 @@
   > A library to extract Code Property Graphs from C/C++, Java, Go, Python, Ruby and every other languag...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
   > x86-64 virtualizing obfuscator written in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [appcuarium/synapptic](https://github.com/appcuarium/synapptic)
+  > Just like the elite potential of a high-drive Belgian Malinois, an AI system's raw capabilities are ...
 
 ### [romainthomas](https://github.com/romainthomas)
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
@@ -56,9 +62,19 @@
 - 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [rizsotto/Bear](https://github.com/rizsotto/Bear) to [scc-tw/Bear](https://github.com/scc-tw/Bear)
   > Bear is a tool that generates a compilation database for clang tooling.
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [google-deepmind/gemma](https://github.com/google-deepmind/gemma)
+  > Gemma open-weight LLM library, from Google DeepMind
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer)
+  > Repository hosting the bluehammer vulnerability
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent)
+  > A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemin...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [madeye/meow](https://github.com/madeye/meow)
@@ -71,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-04-07 13:12:54 UTC*
+*最后更新于 2026-04-07 15:04:42 UTC*
 *历史记录保存在 `archive` 目录中。*
