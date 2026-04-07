@@ -91,6 +91,10 @@
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [MMw-Unibo/INSANE](https://github.com/MMw-Unibo/INSANE)
   > Kernel Bypass Networking Made Easy: a uniform interface, multiple supported stacks (XDP, DPDK, RDMA)
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [rooootdev/lara](https://github.com/rooootdev/lara)
+  > WIP darksword kexploit implement
+
 ### [romainthomas](https://github.com/romainthomas)
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
   > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
@@ -128,5 +132,5 @@
 
 
 ---
-*最后更新于 2026-04-07 20:42:20 UTC*
+*最后更新于 2026-04-07 21:38:48 UTC*
 *历史记录保存在 `archive` 目录中。*
