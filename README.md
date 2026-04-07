@@ -50,6 +50,10 @@
   > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [santifer/career-ops](https://github.com/santifer/career-ops) to [crazyguitar/career-ops](https://github.com/crazyguitar/career-ops)
   > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [seungeunrho/minimalRL](https://github.com/seungeunrho/minimalRL)
+  > Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [seungeunrho/minimalRL](https://github.com/seungeunrho/minimalRL) to [crazyguitar/minimalRL](https://github.com/crazyguitar/minimalRL)
+  > Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
@@ -116,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-04-07 17:56:11 UTC*
+*最后更新于 2026-04-07 19:02:43 UTC*
 *历史记录保存在 `archive` 目录中。*
