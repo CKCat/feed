@@ -22,6 +22,14 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)
   > Painless E2E Automation for Mobile and Web
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+  > Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Mode...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
+  > x86-64 virtualizing obfuscator written in Rust
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -59,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-04-07 10:10:18 UTC*
+*最后更新于 2026-04-07 11:51:20 UTC*
 *历史记录保存在 `archive` 目录中。*
