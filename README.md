@@ -22,6 +22,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)
   > Painless E2E Automation for Mobile and Web
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
+  > The highest-scoring AI memory system ever benchmarked. And it's free.
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)
   > Security Scanner for Agent Skills
@@ -36,8 +40,10 @@
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [madeye/mihomo-rust](https://github.com/madeye/mihomo-rust)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mooncat-greenpy/Ghidra_GolangAnalyzerExtension](https://github.com/mooncat-greenpy/Ghidra_GolangAnalyzerExtension)
   > Analyze Golang with Ghidra
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > herd your agents. terminal workspace manager for AI coding agents.
 
 
 ---
-*最后更新于 2026-04-07 05:06:21 UTC*
+*最后更新于 2026-04-07 07:11:28 UTC*
 *历史记录保存在 `archive` 目录中。*
