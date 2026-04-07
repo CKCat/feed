@@ -29,6 +29,8 @@
   > Code Property Graph: specification, query language, and utilities
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fraunhofer-AISEC/cpg](https://github.com/Fraunhofer-AISEC/cpg)
   > A library to extract Code Property Graphs from C/C++, Java, Go, Python, Ruby and every other languag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
+  > x86-64 virtualizing obfuscator written in Rust
 
 ### [romainthomas](https://github.com/romainthomas)
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
@@ -57,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-04-07 08:58:09 UTC*
+*最后更新于 2026-04-07 10:10:18 UTC*
 *历史记录保存在 `archive` 目录中。*
