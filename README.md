@@ -43,9 +43,16 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl)
   > 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。mu...
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > Stealthy Linux Kernel Rootkit for modern kernels (6x)
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation)
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [GabrielTecuceanu/tsman](https://github.com/GabrielTecuceanu/tsman)
@@ -72,11 +79,15 @@
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) to [veritas501/claude-to-im](https://github.com/veritas501/claude-to-im)
   > Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or F...
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+  > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [variar/klogg](https://github.com/variar/klogg)
   > Really fast log explorer based on glogg project
 
 
 ---
-*最后更新于 2026-04-08 13:14:15 UTC*
+*最后更新于 2026-04-08 15:06:20 UTC*
 *历史记录保存在 `archive` 目录中。*
