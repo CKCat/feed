@@ -16,6 +16,8 @@
   > Specification and documentation for Agent Skills
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [superset-sh/superset](https://github.com/superset-sh/superset)
   > Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tanweai/pua](https://github.com/tanweai/pua)
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed ...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification)
@@ -30,6 +32,8 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [google/highwayhash](https://github.com/google/highwayhash)
   > Fast strong hash functions: SipHash/HighwayHash
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [visualizevalue/jackbutcher.md](https://github.com/visualizevalue/jackbutcher.md)
+  > A writing profile distilled from 50,000 tweets.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -54,11 +58,15 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
   > Lightweight TCP/IP stack with no dynamic memory allocations
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [facebookexperimental/semcode](https://github.com/facebookexperimental/semcode)
+  > semcode
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [variar/klogg](https://github.com/variar/klogg)
   > Really fast log explorer based on glogg project
 
 
 ---
-*最后更新于 2026-04-08 08:56:57 UTC*
+*最后更新于 2026-04-08 10:09:02 UTC*
 *历史记录保存在 `archive` 目录中。*
