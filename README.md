@@ -9,6 +9,8 @@
   > 基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o...
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [steipete/summarize](https://github.com/steipete/summarize)
+  > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [5ec1cff/zygisk-module-template](https://github.com/5ec1cff/zygisk-module-template)
@@ -34,6 +36,10 @@
   > Fast strong hash functions: SipHash/HighwayHash
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [visualizevalue/jackbutcher.md](https://github.com/visualizevalue/jackbutcher.md)
   > A writing profile distilled from 50,000 tweets.
+
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl)
+  > 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。mu...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -68,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-04-08 10:09:02 UTC*
+*最后更新于 2026-04-08 11:52:25 UTC*
 *历史记录保存在 `archive` 目录中。*
