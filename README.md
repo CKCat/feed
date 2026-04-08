@@ -51,6 +51,9 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
   > Stealthy Linux Kernel Rootkit for modern kernels (6x)
 
+### [can1357](https://github.com/can1357)
+- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/pulsar-jdbc](https://github.com/can1357/pulsar-jdbc) public
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -97,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-04-08 20:43:25 UTC*
+*最后更新于 2026-04-08 21:38:18 UTC*
 *历史记录保存在 `archive` 目录中。*
