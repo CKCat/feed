@@ -8,7 +8,7 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [sdyckjq-lab/llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill)
   > 基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o...
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any fo...
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [steipete/summarize](https://github.com/steipete/summarize)
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -97,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-04-08 18:07:23 UTC*
+*最后更新于 2026-04-08 19:56:46 UTC*
 *历史记录保存在 `archive` 目录中。*
