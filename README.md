@@ -11,6 +11,8 @@
   > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o...
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [steipete/summarize](https://github.com/steipete/summarize)
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [5ec1cff/zygisk-module-template](https://github.com/5ec1cff/zygisk-module-template)
@@ -67,6 +69,8 @@
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [facebookexperimental/semcode](https://github.com/facebookexperimental/semcode)
   > semcode
+- 🍴 👤 [veritas501](https://github.com/veritas501) Forked [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) to [veritas501/claude-to-im](https://github.com/veritas501/claude-to-im)
+  > Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or F...
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [variar/klogg](https://github.com/variar/klogg)
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-04-08 11:52:25 UTC*
+*最后更新于 2026-04-08 13:14:15 UTC*
 *历史记录保存在 `archive` 目录中。*
