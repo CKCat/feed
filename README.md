@@ -12,6 +12,10 @@
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [5ec1cff/zygisk-module-template](https://github.com/5ec1cff/zygisk-module-template)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+  > Specification and documentation for Agent Skills
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [superset-sh/superset](https://github.com/superset-sh/superset)
+  > Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification)
@@ -43,6 +47,12 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tjmlabs/AgentRun](https://github.com/tjmlabs/AgentRun)
+  > The easiest, and fastest way to run AI-generated Python code safely
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeianMao/triattention](https://github.com/WeianMao/triattention)
+  > TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw lo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
+  > Lightweight TCP/IP stack with no dynamic memory allocations
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [variar/klogg](https://github.com/variar/klogg)
@@ -50,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-04-08 07:13:29 UTC*
+*最后更新于 2026-04-08 08:56:57 UTC*
 *历史记录保存在 `archive` 目录中。*
