@@ -33,6 +33,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Upinel/BetterRDP](https://github.com/Upinel/BetterRDP)
   > This is to enable 60fps and GPU acceleration on RDP connection
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [shirayukiimountain/dpt-unpack](https://github.com/shirayukiimountain/dpt-unpack)
+  > A command-line tool written in Kotlin designed to statically unpack Android applications that are pr...
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [google/highwayhash](https://github.com/google/highwayhash)
   > Fast strong hash functions: SipHash/HighwayHash
@@ -46,6 +50,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
   > Stealthy Linux Kernel Rootkit for modern kernels (6x)
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
+  > The highest-scoring AI memory system ever benchmarked. And it's free.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -89,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-04-08 15:06:20 UTC*
+*最后更新于 2026-04-08 16:57:20 UTC*
 *历史记录保存在 `archive` 目录中。*
