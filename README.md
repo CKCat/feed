@@ -4,9 +4,19 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [sdex/ActivityManager](https://github.com/sdex/ActivityManager)
+  > Launch any application activity
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
+
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [yofine/skills](https://github.com/yofine/skills)
+  > yofine's agent skills
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Ashesh3/superset-windows](https://github.com/Ashesh3/superset-windows)
@@ -78,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-04-09 11:53:08 UTC*
+*最后更新于 2026-04-09 13:20:25 UTC*
 *历史记录保存在 `archive` 目录中。*
