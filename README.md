@@ -77,6 +77,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
+  > A Mac OS X bootloader for the Nintendo Wii.
+
 ### [maiyao1988](https://github.com/maiyao1988)
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
   > Plugin for JADX to integrate MCP server
@@ -109,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-04-09 21:42:03 UTC*
+*最后更新于 2026-04-09 22:37:14 UTC*
 *历史记录保存在 `archive` 目录中。*
