@@ -34,7 +34,7 @@
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any fo...
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lkrg-org/lkrg](https://github.com/lkrg-org/lkrg)
   > Linux Kernel Runtime Guard
 
@@ -56,6 +56,12 @@
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register)
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intelxed/xed](https://github.com/intelxed/xed)
+  > The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64...
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intelpt/WindowsIntelPT](https://github.com/intelpt/WindowsIntelPT)
+  > This driver implements the Intel Processor Trace functionality in Intel Skylake architecture for Mic...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
@@ -95,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-04-09 15:19:21 UTC*
+*最后更新于 2026-04-09 17:03:50 UTC*
 *历史记录保存在 `archive` 目录中。*
