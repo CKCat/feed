@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Ashesh3/superset-windows](https://github.com/Ashesh3/superset-windows)
   > IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine - now on Windows
@@ -23,8 +27,6 @@
   > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any fo...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lkrg-org/lkrg](https://github.com/lkrg-org/lkrg)
   > Linux Kernel Runtime Guard
-- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [kaifcodec/gender-detect](https://github.com/kaifcodec/gender-detect)
-  > ⚡ Ultra-fast name-to-gender prediction engine. Uses mmap and binary search for <0.1ms lookups. Featu...
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
@@ -76,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-04-09 10:10:16 UTC*
+*最后更新于 2026-04-09 11:53:08 UTC*
 *历史记录保存在 `archive` 目录中。*
