@@ -54,6 +54,10 @@
 - 🍴 👤 [bmax121](https://github.com/bmax121) Forked [garrytan/gstack](https://github.com/garrytan/gstack) to [bmax121/gstack](https://github.com/bmax121/gstack)
   > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register)
 
@@ -101,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-04-09 17:03:50 UTC*
+*最后更新于 2026-04-09 19:00:28 UTC*
 *历史记录保存在 `archive` 目录中。*
