@@ -54,6 +54,9 @@
 - 🍴 👤 [bmax121](https://github.com/bmax121) Forked [garrytan/gstack](https://github.com/garrytan/gstack) to [bmax121/gstack](https://github.com/bmax121/gstack)
   > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register)
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
   > llama-benchy - llama-bench style benchmarking tool for all backends
@@ -67,6 +70,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
   > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf) to [mrexodia/nx2elf](https://github.com/mrexodia/nx2elf)
+  > Convert Nintendo Switch executable files to ELFs
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
@@ -88,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-04-09 13:20:25 UTC*
+*最后更新于 2026-04-09 15:19:21 UTC*
 *历史记录保存在 `archive` 目录中。*
