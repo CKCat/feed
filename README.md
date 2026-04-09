@@ -59,6 +59,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
+  > Tile primitives for speedy kernels
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register)
@@ -107,5 +109,5 @@
 
 
 ---
-*最后更新于 2026-04-09 20:44:20 UTC*
+*最后更新于 2026-04-09 21:42:03 UTC*
 *历史记录保存在 `archive` 目录中。*
