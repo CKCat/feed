@@ -37,6 +37,8 @@
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lkrg-org/lkrg](https://github.com/lkrg-org/lkrg)
   > Linux Kernel Runtime Guard
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB)
+  > Download. Flash. Boot. The all-in-one macOS USB creator
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
@@ -105,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-04-09 19:00:28 UTC*
+*最后更新于 2026-04-09 20:44:20 UTC*
 *历史记录保存在 `archive` 目录中。*
