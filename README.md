@@ -23,6 +23,8 @@
   > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any fo...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lkrg-org/lkrg](https://github.com/lkrg-org/lkrg)
   > Linux Kernel Runtime Guard
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [kaifcodec/gender-detect](https://github.com/kaifcodec/gender-detect)
+  > ⚡ Ultra-fast name-to-gender prediction engine. Uses mmap and binary search for <0.1ms lookups. Featu...
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
@@ -69,8 +71,10 @@
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet)
   > 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [flet-dev/flet](https://github.com/flet-dev/flet)
+  > Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend...
 
 
 ---
-*最后更新于 2026-04-09 08:18:37 UTC*
+*最后更新于 2026-04-09 10:10:16 UTC*
 *历史记录保存在 `archive` 目录中。*
