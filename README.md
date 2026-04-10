@@ -65,6 +65,9 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [sampsyo/bril](https://github.com/sampsyo/bril) to [crazyguitar/bril](https://github.com/crazyguitar/bril)
   > an educational compiler intermediate representation
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL)
   > An implementation of OpenGL 3.x-ish in clean C
@@ -90,6 +93,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
@@ -127,5 +132,5 @@
 
 
 ---
-*最后更新于 2026-04-10 15:50:33 UTC*
+*最后更新于 2026-04-10 16:46:41 UTC*
 *历史记录保存在 `archive` 目录中。*
