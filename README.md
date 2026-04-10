@@ -102,16 +102,6 @@
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
   > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-  > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-  > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
-  > WebAssembly Toolkit for Go
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit)
-  > Linux-native "fake root" for implementing rootless containers
-
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -148,5 +138,5 @@
 
 
 ---
-*最后更新于 2026-04-10 21:33:46 UTC*
+*最后更新于 2026-04-10 22:33:50 UTC*
 *历史记录保存在 `archive` 目录中。*
