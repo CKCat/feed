@@ -39,6 +39,10 @@
   > 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats)
   > Keyboard & Mouse Stats for macOS/Windows
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+  > A modular graph-based Retrieval-Augmented Generation (RAG) system
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) to [NyaMisty/claude-code-hub](https://github.com/NyaMisty/claude-code-hub)
@@ -95,6 +99,8 @@
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
+  > WebAssembly Toolkit for Go
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
@@ -132,5 +138,5 @@
 
 
 ---
-*最后更新于 2026-04-10 16:46:41 UTC*
+*最后更新于 2026-04-10 17:44:01 UTC*
 *历史记录保存在 `archive` 目录中。*
