@@ -7,6 +7,8 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/plist_recon](https://github.com/0xbinder/plist_recon)
   > This tool parses the binary or XML `Info.plist` file found in Apple applications (IPA/APP) to extrac...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
+  > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
@@ -21,6 +23,8 @@
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [kingsword09/droid-patch](https://github.com/kingsword09/droid-patch)
+  > CLI tool to patch the droid binary with various modifications.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
@@ -114,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-04-10 10:50:17 UTC*
+*最后更新于 2026-04-10 11:44:23 UTC*
 *历史记录保存在 `archive` 目录中。*
