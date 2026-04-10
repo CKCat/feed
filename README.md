@@ -102,6 +102,10 @@
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
   > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design)
+  > Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -138,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-04-10 22:33:50 UTC*
+*最后更新于 2026-04-10 23:31:59 UTC*
 *历史记录保存在 `archive` 目录中。*
