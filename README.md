@@ -44,6 +44,9 @@
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) to [NyaMisty/claude-code-hub](https://github.com/NyaMisty/claude-code-hub)
   > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -118,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-04-10 11:44:23 UTC*
+*最后更新于 2026-04-10 13:02:42 UTC*
 *历史记录保存在 `archive` 目录中。*
