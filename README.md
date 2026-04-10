@@ -52,6 +52,10 @@
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) to [NyaMisty/claude-code-hub](https://github.com/NyaMisty/claude-code-hub)
   > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID)
+  > reverse engineering Gemini's SynthID detection
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
 
@@ -144,5 +148,5 @@
 
 
 ---
-*最后更新于 2026-04-10 20:31:46 UTC*
+*最后更新于 2026-04-10 21:33:46 UTC*
 *历史记录保存在 `archive` 目录中。*
