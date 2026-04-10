@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/plist_recon](https://github.com/0xbinder/plist_recon)
+  > This tool parses the binary or XML `Info.plist` file found in Apple applications (IPA/APP) to extrac...
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
   > Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop...
@@ -14,6 +18,9 @@
 ### [JLospinoso](https://github.com/JLospinoso)
 - 🌟 👤 [JLospinoso](https://github.com/JLospinoso) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
@@ -32,6 +39,12 @@
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) to [NyaMisty/claude-code-hub](https://github.com/NyaMisty/claude-code-hub)
   > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+  > Specification and documentation for Agent Skills
 
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [noahware/hyper-reV](https://github.com/noahware/hyper-reV)
@@ -83,6 +96,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [PumpkinDemo/JEB-Light](https://github.com/PumpkinDemo/JEB-Light)
+  > Play JEB without GUI
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [G3et/Search_Viewer](https://github.com/G3et/Search_Viewer)
   > 集Fofa、Hunter鹰图、Shodan、360 quake、Zoomeye 钟馗之眼、censys 为一体的空间测绘gui图形界面化工具，支持一键采集爬取和导出fofa、shodan等数据，方便快...
@@ -97,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-04-10 09:05:10 UTC*
+*最后更新于 2026-04-10 10:50:17 UTC*
 *历史记录保存在 `archive` 目录中。*
