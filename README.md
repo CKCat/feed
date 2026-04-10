@@ -26,6 +26,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats)
   > Keyboard & Mouse Stats for macOS/Windows
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) to [NyaMisty/claude-code-hub](https://github.com/NyaMisty/claude-code-hub)
+  > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sampsyo/bril](https://github.com/sampsyo/bril)
   > an educational compiler intermediate representation
@@ -44,6 +48,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
 
+### [maiyao1988](https://github.com/maiyao1988)
+- 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
+  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
@@ -51,6 +59,12 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Numbersf/FxxkLocaion](https://github.com/Numbersf/FxxkLocaion)
+  > 绕过Fakelocation Pro验证获取永久Pro，且绕过黑名单验证并添加GNSS Hook精准定位使其部分严格检测GPS应用接受模拟定位结果的Lsposed模块
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [Numbersf/FxxkLocaion](https://github.com/Numbersf/FxxkLocaion) to [sekaiacg/FxxkLocaion](https://github.com/sekaiacg/FxxkLocaion)
+  > 绕过Fakelocation Pro验证获取永久Pro，且绕过黑名单验证并添加GNSS Hook精准定位使其部分严格检测GPS应用接受模拟定位结果的Lsposed模块
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
@@ -62,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-04-10 05:22:05 UTC*
+*最后更新于 2026-04-10 07:22:52 UTC*
 *历史记录保存在 `archive` 目录中。*
