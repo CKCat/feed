@@ -76,6 +76,8 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [albond/DGX_Spark_Qwen3.5-122B-A10B-AR-INT4](https://github.com/albond/DGX_Spark_Qwen3.5-122B-A10B-AR-INT4)
+  > Qwen3.5-122B-A10B on DGX Spark: 28.3 → 51 tok/s (+80%)
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🍴 👤 [hfiref0x](https://github.com/hfiref0x) Forked [andreacristaldi/DefenderRules](https://github.com/andreacristaldi/DefenderRules) to [hfiref0x/DefenderRulesPlus](https://github.com/hfiref0x/DefenderRulesPlus)
@@ -107,6 +109,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [PumpkinDemo/JEB-Light](https://github.com/PumpkinDemo/JEB-Light)
   > Play JEB without GUI
 
+### [waruqi](https://github.com/waruqi)
+- 🍴 👤 [waruqi](https://github.com/waruqi) Forked [curl/curl](https://github.com/curl/curl) to [xmake-mirror/curl](https://github.com/xmake-mirror/curl)
+  > A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, F...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [G3et/Search_Viewer](https://github.com/G3et/Search_Viewer)
   > 集Fofa、Hunter鹰图、Shodan、360 quake、Zoomeye 钟馗之眼、censys 为一体的空间测绘gui图形界面化工具，支持一键采集爬取和导出fofa、shodan等数据，方便快...
@@ -121,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-04-10 13:02:42 UTC*
+*最后更新于 2026-04-10 14:44:11 UTC*
 *历史记录保存在 `archive` 目录中。*
