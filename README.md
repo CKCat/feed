@@ -14,6 +14,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
   > Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop...
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
+  > Universal memory layer for AI Agents
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [AlphaFin-proj/AlphaFin](https://github.com/AlphaFin-proj/AlphaFin)
 
@@ -101,6 +105,8 @@
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
   > WebAssembly Toolkit for Go
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit)
+  > Linux-native "fake root" for implementing rootless containers
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
@@ -138,5 +144,5 @@
 
 
 ---
-*最后更新于 2026-04-10 17:44:01 UTC*
+*最后更新于 2026-04-10 18:46:56 UTC*
 *历史记录保存在 `archive` 目录中。*
