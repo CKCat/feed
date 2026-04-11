@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [hiking90/rsbinder](https://github.com/hiking90/rsbinder)
   > rsbinder provides crates implemented in pure Rust that make Binder IPC available on both Android and...
@@ -16,5 +19,5 @@
 
 
 ---
-*最后更新于 2026-04-11 01:59:29 UTC*
+*最后更新于 2026-04-11 04:26:44 UTC*
 *历史记录保存在 `archive` 目录中。*
