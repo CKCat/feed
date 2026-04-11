@@ -43,6 +43,13 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye)
   > Yet another barcode scanner for Android
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [Kernel-SU/lkmloader.ko](https://github.com/Kernel-SU/lkmloader.ko)
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
   > Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
@@ -93,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-04-11 22:28:05 UTC*
+*最后更新于 2026-04-11 23:30:07 UTC*
 *历史记录保存在 `archive` 目录中。*
