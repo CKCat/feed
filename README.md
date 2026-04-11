@@ -38,10 +38,8 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
-  > A library for building applications in a consistent and understandable way, with composition, testin...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+  > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [a2d2-dev/claude-top](https://github.com/a2d2-dev/claude-top)
@@ -54,6 +52,7 @@
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/payload_extract_rs](https://github.com/YuKongA/payload_extract_rs)
   > [Multiplatform] Android OTA payload.bin extractor
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Kernel-SU/lkmloader.ko](https://github.com/Kernel-SU/lkmloader.ko)
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [ElCapor/xmake-professional-skill](https://github.com/ElCapor/xmake-professional-skill)
@@ -64,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-04-11 12:51:37 UTC*
+*最后更新于 2026-04-11 13:53:36 UTC*
 *历史记录保存在 `archive` 目录中。*
