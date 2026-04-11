@@ -24,6 +24,8 @@
   > rsbinder provides crates implemented in pure Rust that make Binder IPC available on both Android and...
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) to [chenxiaolong/BinaryEye](https://github.com/chenxiaolong/BinaryEye)
@@ -40,6 +42,8 @@
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+  > Kronos: A Foundation Model for the Language of Financial Markets
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [a2d2-dev/claude-top](https://github.com/a2d2-dev/claude-top)
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-04-11 13:53:36 UTC*
+*最后更新于 2026-04-11 14:33:45 UTC*
 *历史记录保存在 `archive` 目录中。*
