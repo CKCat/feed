@@ -9,6 +9,8 @@
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [BetterAndroid/Adbrowser](https://github.com/BetterAndroid/Adbrowser)
+  > A modern cross-platform Android file manager powered by ADB.
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -28,9 +30,17 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye)
   > Yet another barcode scanner for Android
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
+  > Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+  > A library for building applications in a consistent and understandable way, with composition, testin...
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [JonathanSalwan/Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection)
@@ -38,11 +48,12 @@
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/payload_extract_rs](https://github.com/YuKongA/payload_extract_rs)
+  > [Multiplatform] Android OTA payload.bin extractor
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [dvb01/BorDebug](https://github.com/dvb01/BorDebug) to [sonyps5201314/BorDebug](https://github.com/sonyps5201314/BorDebug)
 
 
 ---
-*最后更新于 2026-04-11 08:38:50 UTC*
+*最后更新于 2026-04-11 09:36:25 UTC*
 *历史记录保存在 `archive` 目录中。*
