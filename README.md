@@ -23,6 +23,12 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [stephanstapel/ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp)
   > Open source C# e-invoicing library. Enables creating and reading ZUGFeRD invoices.
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [jrzanol/anomalia](https://github.com/jrzanol/anomalia)
+  > Real-time network traffic analyzer for online game servers with plugin-based protocol decoding, bot ...
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [AlSch092/UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat)
+  > UltimateAnticheat is an open source usermode anti-cheat system made to detect and prevent common att...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [hiking90/rsbinder](https://github.com/hiking90/rsbinder)
   > rsbinder provides crates implemented in pure Rust that make Binder IPC available on both Android and...
@@ -87,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-04-11 20:28:40 UTC*
+*最后更新于 2026-04-11 21:29:23 UTC*
 *历史记录保存在 `archive` 目录中。*
