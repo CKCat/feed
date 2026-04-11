@@ -49,6 +49,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp)
+  > Headless Ghidra MCP server — giving AI agents deep reverse-engineering capabilities.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [a2d2-dev/claude-top](https://github.com/a2d2-dev/claude-top)
   > Terminal UI for monitoring Claude Code token and cost usage
@@ -71,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-04-11 16:32:43 UTC*
+*最后更新于 2026-04-11 17:27:59 UTC*
 *历史记录保存在 `archive` 目录中。*
