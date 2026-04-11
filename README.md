@@ -17,7 +17,11 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye)
   > Yet another barcode scanner for Android
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [JonathanSalwan/Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection)
+  > Playing with the Tigress software protection. Break some of its protections and solve their reverse ...
+
 
 ---
-*最后更新于 2026-04-11 04:26:44 UTC*
+*最后更新于 2026-04-11 05:58:16 UTC*
 *历史记录保存在 `archive` 目录中。*
