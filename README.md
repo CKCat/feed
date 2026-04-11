@@ -44,6 +44,10 @@
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
   > Kronos: A Foundation Model for the Language of Financial Markets
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local)
+  > Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cl...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [a2d2-dev/claude-top](https://github.com/a2d2-dev/claude-top)
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-04-11 14:33:45 UTC*
+*最后更新于 2026-04-11 15:30:04 UTC*
 *历史记录保存在 `archive` 目录中。*
