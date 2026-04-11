@@ -8,6 +8,8 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [BetterAndroid/Adbrowser](https://github.com/BetterAndroid/Adbrowser)
   > A modern cross-platform Android file manager powered by ADB.
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
+  > A web-based frontend for RetroArch
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -20,6 +22,8 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [hiking90/rsbinder](https://github.com/hiking90/rsbinder)
   > rsbinder provides crates implemented in pure Rust that make Binder IPC available on both Android and...
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) to [chenxiaolong/BinaryEye](https://github.com/chenxiaolong/BinaryEye)
@@ -39,6 +43,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
   > A library for building applications in a consistent and understandable way, with composition, testin...
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [a2d2-dev/claude-top](https://github.com/a2d2-dev/claude-top)
+  > Terminal UI for monitoring Claude Code token and cost usage
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [JonathanSalwan/Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection)
   > Playing with the Tigress software protection. Break some of its protections and solve their reverse ...
@@ -47,10 +55,14 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/payload_extract_rs](https://github.com/YuKongA/payload_extract_rs)
   > [Multiplatform] Android OTA payload.bin extractor
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [ElCapor/xmake-professional-skill](https://github.com/ElCapor/xmake-professional-skill)
+  > Claude Skills for the XMake Build System
+
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [MhmRdd/google-rkp-sw](https://github.com/MhmRdd/google-rkp-sw)
 
 
 ---
-*最后更新于 2026-04-11 11:27:26 UTC*
+*最后更新于 2026-04-11 12:51:37 UTC*
 *历史记录保存在 `archive` 目录中。*
