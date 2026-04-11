@@ -55,6 +55,10 @@
 - 🍴 👤 [momo5502](https://github.com/momo5502) Forked [mrphrazer/ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp) to [momo5502/ghidra-headless-mcp](https://github.com/momo5502/ghidra-headless-mcp)
   > Headless Ghidra MCP server — giving AI agents deep reverse-engineering capabilities.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)
+  > A Claude skill for developing WebGPU applications with Three.js
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [a2d2-dev/claude-top](https://github.com/a2d2-dev/claude-top)
   > Terminal UI for monitoring Claude Code token and cost usage
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-04-11 18:39:24 UTC*
+*最后更新于 2026-04-11 19:32:21 UTC*
 *历史记录保存在 `archive` 目录中。*
