@@ -11,6 +11,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
   > A web-based frontend for RetroArch
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+  > 🔥 The Web Data API for AI - Power AI agents with clean web data
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -58,6 +62,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)
   > A Claude skill for developing WebGPU applications with Three.js
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CSIT-SG/AETHER](https://github.com/CSIT-SG/AETHER)
+  > An AI-powered reverse-engineering copilot for assisting tedious malware analysis in IDA Pro.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [a2d2-dev/claude-top](https://github.com/a2d2-dev/claude-top)
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-04-11 19:32:21 UTC*
+*最后更新于 2026-04-11 20:28:40 UTC*
 *历史记录保存在 `archive` 目录中。*
