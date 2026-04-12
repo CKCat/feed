@@ -23,6 +23,8 @@
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
+  > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
 
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [JiaboLi-GitHub/renderdoc-mcp](https://github.com/JiaboLi-GitHub/renderdoc-mcp)
@@ -42,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-04-12 07:09:42 UTC*
+*最后更新于 2026-04-12 08:42:39 UTC*
 *历史记录保存在 `archive` 目录中。*
