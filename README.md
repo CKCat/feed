@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+  > 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status ...
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MhmRdd/google-rkp-sw](https://github.com/MhmRdd/google-rkp-sw)
 
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-04-12 11:31:31 UTC*
+*最后更新于 2026-04-12 12:55:15 UTC*
 *历史记录保存在 `archive` 目录中。*
