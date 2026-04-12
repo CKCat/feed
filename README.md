@@ -8,6 +8,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [spaceraccoon/vulnerability-spoiler-alert](https://github.com/spaceraccoon/vulnerability-spoiler-alert)
   > A monitoring hub that watches popular open-source repositories and uses AI to detect when commits ar...
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) to [lallouslab/claw-code](https://github.com/lallouslab/claw-code)
+  > The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. ...
+
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
   > 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status ...
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-04-12 15:33:12 UTC*
+*最后更新于 2026-04-12 16:34:31 UTC*
 *历史记录保存在 `archive` 目录中。*
