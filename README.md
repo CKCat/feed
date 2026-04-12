@@ -19,6 +19,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [aappleby/smhasher](https://github.com/aappleby/smhasher)
   > Automatically exported from code.google.com/p/smhasher
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [flatimage/flatimage](https://github.com/flatimage/flatimage)
   > FlatImage, a hybrid of Flatpak sandboxing with AppImage portability
@@ -36,6 +40,8 @@
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [graphitemaster/incbin](https://github.com/graphitemaster/incbin)
   > Include binary files in C/C++
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
@@ -64,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-04-12 14:45:44 UTC*
+*最后更新于 2026-04-12 15:33:12 UTC*
 *历史记录保存在 `archive` 目录中。*
