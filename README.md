@@ -45,6 +45,10 @@
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [open-ani/animeko](https://github.com/open-ani/animeko)
   > 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [t3rm1n4l/go-mega](https://github.com/t3rm1n4l/go-mega) to [chenxiaolong/go-mega](https://github.com/chenxiaolong/go-mega)
+  > A client library in go for mega.co.nz storage service
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [graphitemaster/incbin](https://github.com/graphitemaster/incbin)
   > Include binary files in C/C++
@@ -78,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-04-12 20:32:01 UTC*
+*最后更新于 2026-04-12 21:31:21 UTC*
 *历史记录保存在 `archive` 目录中。*
