@@ -24,10 +24,18 @@
   > FlatImage, a hybrid of Flatpak sandboxing with AppImage portability
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [pkgforge/soar](https://github.com/pkgforge/soar)
   > A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|R...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [xplshn/dbin](https://github.com/xplshn/dbin)
+  > 📦 Poor man's package manager. +4164 statically linked binaries in the default repos [automated build...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [apapamarkou/appimage-integrator](https://github.com/apapamarkou/appimage-integrator)
+  > A simple, non-intrusive AppImage integrator that automatically adds AppImages to desktop menus with ...
 
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [open-ani/animeko](https://github.com/open-ani/animeko)
   > 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [graphitemaster/incbin](https://github.com/graphitemaster/incbin)
+  > Include binary files in C/C++
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
@@ -56,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-04-12 13:58:28 UTC*
+*最后更新于 2026-04-12 14:45:44 UTC*
 *历史记录保存在 `archive` 目录中。*
