@@ -71,6 +71,12 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iamfakeguru/claude-md](https://github.com/iamfakeguru/claude-md)
+  > Production-grade agent directives for Claude Code
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV)
+  > Official Nuvio Android TV Repository
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
+  > Official Nuvio WebOS, TizenOS Repository
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -82,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-04-12 22:29:59 UTC*
+*最后更新于 2026-04-12 23:31:11 UTC*
 *历史记录保存在 `archive` 目录中。*
