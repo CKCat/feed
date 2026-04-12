@@ -22,6 +22,10 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [aappleby/smhasher](https://github.com/aappleby/smhasher)
   > Automatically exported from code.google.com/p/smhasher
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
+  > Garry's Opinionated OpenClaw/Hermes Agent Brain
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-04-12 18:42:09 UTC*
+*最后更新于 2026-04-12 19:36:45 UTC*
 *历史记录保存在 `archive` 目录中。*
