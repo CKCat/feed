@@ -42,7 +42,11 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
+  > A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course fo...
+
 
 ---
-*最后更新于 2026-04-12 10:35:30 UTC*
+*最后更新于 2026-04-12 11:31:31 UTC*
 *历史记录保存在 `archive` 目录中。*
