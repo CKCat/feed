@@ -15,10 +15,14 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
   > 为 AI Agent 设计的 JS 逆向 MCP Server，内置反检测，基于 chrome-devtools-mcp 重构 | JS reverse engineering MCP server ...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
+  > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xstongxue/best-skills](https://github.com/xstongxue/best-skills)
   > 通用高质量 Skills 合集🔥
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Barebit/x86reference](https://github.com/Barebit/x86reference)
@@ -48,9 +52,29 @@
 - 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil)
+  > cc完整版，含手册，编译等
+
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [Gcenx/macports-wine](https://github.com/Gcenx/macports-wine)
+  > MacPorts overlay for building wine on macOS
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
+  > 4-5x faster Qwen3.5 on ASUS GX10 / DGX Spark — Hybrid INT4+FP8 + MTP via one shell script
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp)
+  > Complete Unreal Engine development toolkit exposed as MCP tools.
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [progmboy/openprocmon](https://github.com/progmboy/openprocmon)
+  > open source process monitor
 
 ### [veritas501](https://github.com/veritas501)
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) to [veritas501/CLIProxyAPI](https://github.com/veritas501/CLIProxyAPI)
@@ -65,6 +89,8 @@
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, Ope...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
@@ -72,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-04-13 07:57:54 UTC*
+*最后更新于 2026-04-13 09:59:02 UTC*
 *历史记录保存在 `archive` 目录中。*
