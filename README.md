@@ -34,6 +34,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [tunis4/Fishix](https://github.com/tunis4/Fishix)
   > A hobby kernel with Linux binary compatibility.
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project...
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
   > Karabiner-Elements is a powerful tool for customizing keyboards on macOS
@@ -61,6 +65,8 @@
   > The agent that grows with you
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [crazyguitar/hermes-agent](https://github.com/crazyguitar/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [docker/compose-for-agents](https://github.com/docker/compose-for-agents)
+  > Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestratin...
 
 ### [dmaivel](https://github.com/dmaivel)
 - 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
@@ -166,5 +172,5 @@
 
 
 ---
-*最后更新于 2026-04-13 19:10:30 UTC*
+*最后更新于 2026-04-13 20:50:42 UTC*
 *历史记录保存在 `archive` 目录中。*
