@@ -50,6 +50,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -67,6 +71,8 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
   > Mathematical Expression Parser and JIT Compiler
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [Gcenx/macports-wine](https://github.com/Gcenx/macports-wine)
@@ -81,6 +87,20 @@
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [HackingLZ/defender_overview](https://github.com/HackingLZ/defender_overview)
   > Overview of MS Defender 
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [protesilaos/modus-themes-exporter](https://github.com/protesilaos/modus-themes-exporter)
+  > Export a Modus themes to another application
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey)
+  > Perfect Green Screen Keys made EZ!
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [alexandremendoncaalvaro/CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime)
+  > Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Di...
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JamesNyeVRGuy/CorridorKey-Cloud](https://github.com/JamesNyeVRGuy/CorridorKey-Cloud)
+  > Perfect Green Screen Keys - In the Cloud!
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [99oblivius/CorridorKey-Engine](https://github.com/99oblivius/CorridorKey-Engine)
+  > Faster Green Screen Keys — async multi-GPU inference engine for professional VFX pipelines
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
@@ -100,9 +120,17 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp)
   > Complete Unreal Engine development toolkit exposed as MCP tools.
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor)
+  > pure frontend ipa signing page.
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [progmboy/openprocmon](https://github.com/progmboy/openprocmon)
   > open source process monitor
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor)
+  > pure frontend ipa signing page.
 
 ### [veritas501](https://github.com/veritas501)
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) to [veritas501/CLIProxyAPI](https://github.com/veritas501/CLIProxyAPI)
@@ -123,6 +151,10 @@
   > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [junegunn/fzf](https://github.com/junegunn/fzf)
   > :cherry_blossom: A command-line fuzzy finder
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+  > Teams-first Multi-agent orchestration for Claude Code
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
@@ -132,5 +164,5 @@
 
 
 ---
-*最后更新于 2026-04-13 15:13:28 UTC*
+*最后更新于 2026-04-13 17:00:15 UTC*
 *历史记录保存在 `archive` 目录中。*
