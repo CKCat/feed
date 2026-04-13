@@ -11,6 +11,8 @@
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unison-code/unison](https://github.com/unison-code/unison)
   > Unison's source code 
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
@@ -123,6 +125,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mcowger/plexus](https://github.com/mcowger/plexus)
+  > Unified API gateway for multiple AI providers (OpenAI, Anthropic, Gemini, etc.). Switch models and p...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp)
@@ -172,5 +176,5 @@
 
 
 ---
-*最后更新于 2026-04-13 20:50:42 UTC*
+*最后更新于 2026-04-13 21:43:54 UTC*
 *历史记录保存在 `archive` 目录中。*
