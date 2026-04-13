@@ -75,6 +75,8 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
   > 4-5x faster Qwen3.5 on ASUS GX10 / DGX Spark — Hybrid INT4+FP8 + MTP via one shell script
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [HackingLZ/defender_overview](https://github.com/HackingLZ/defender_overview)
@@ -117,12 +119,18 @@
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, Ope...
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+  > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [junegunn/fzf](https://github.com/junegunn/fzf)
+  > :cherry_blossom: A command-line fuzzy finder
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
   > LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interl...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [google/magika](https://github.com/google/magika)
+  > Fast and accurate AI powered file content types detection 
 
 
 ---
-*最后更新于 2026-04-13 13:19:46 UTC*
+*最后更新于 2026-04-13 15:13:28 UTC*
 *历史记录保存在 `archive` 目录中。*
