@@ -31,6 +31,8 @@
   > X86 Opcode and Instruction Reference
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [AyHa1810/touhou-midi-collection](https://github.com/AyHa1810/touhou-midi-collection)
   > A collection of TouHou MIDIs
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [tunis4/Fishix](https://github.com/tunis4/Fishix)
+  > A hobby kernel with Linux binary compatibility.
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
@@ -164,5 +166,5 @@
 
 
 ---
-*最后更新于 2026-04-13 17:00:15 UTC*
+*最后更新于 2026-04-13 19:10:30 UTC*
 *历史记录保存在 `archive` 目录中。*
