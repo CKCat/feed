@@ -38,6 +38,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [upstash/context7](https://github.com/upstash/context7)
   > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [axoltl/HubCap](https://github.com/axoltl/HubCap)
+  > ChromeCast HubCap exploit
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [mayocream/koharu](https://github.com/mayocream/koharu)
   > ML-powered manga translator, written in Rust.
@@ -72,13 +76,23 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
   > 4-5x faster Qwen3.5 on ASUS GX10 / DGX Spark — Hybrid INT4+FP8 + MTP via one shell script
 
+### [hfiref0x](https://github.com/hfiref0x)
+- 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [HackingLZ/defender_overview](https://github.com/HackingLZ/defender_overview)
+  > Overview of MS Defender 
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)
   > The MiniZinc compiler
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp)
@@ -110,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-04-13 11:22:26 UTC*
+*最后更新于 2026-04-13 13:19:46 UTC*
 *历史记录保存在 `archive` 目录中。*
