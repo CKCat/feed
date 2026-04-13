@@ -38,6 +38,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [upstash/context7](https://github.com/upstash/context7)
   > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
+### [RicterZ](https://github.com/RicterZ)
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [mayocream/koharu](https://github.com/mayocream/koharu)
+  > ML-powered manga translator, written in Rust.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
@@ -56,6 +60,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil)
   > cc完整版，含手册，编译等
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
+  > Mathematical Expression Parser and JIT Compiler
+
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [Gcenx/macports-wine](https://github.com/Gcenx/macports-wine)
   > MacPorts overlay for building wine on macOS
@@ -67,6 +75,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)
+  > The MiniZinc compiler
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp)
@@ -98,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-04-13 09:59:02 UTC*
+*最后更新于 2026-04-13 11:22:26 UTC*
 *历史记录保存在 `archive` 目录中。*
