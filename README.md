@@ -101,6 +101,8 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [protesilaos/modus-themes-exporter](https://github.com/protesilaos/modus-themes-exporter)
   > Export a Modus themes to another application
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [google/bloaty](https://github.com/google/bloaty)
+  > Bloaty: a size profiler for binaries
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey)
@@ -131,6 +133,12 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [db-lyon/ue-mcp](https://github.com/db-lyon/ue-mcp)
   > Complete Unreal Engine development toolkit exposed as MCP tools.
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftLibXML](https://github.com/rhx/SwiftLibXML) to [frida/SwiftLibXML](https://github.com/frida/SwiftLibXML)
+  > A simple object-oriented Swift API around libxml2
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/gir2swift](https://github.com/rhx/gir2swift) to [frida/gir2swift](https://github.com/frida/gir2swift)
+  > A simple GIR parser in Swift for creating Swift types for a .gir file
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor)
@@ -176,5 +184,5 @@
 
 
 ---
-*最后更新于 2026-04-13 22:39:35 UTC*
+*最后更新于 2026-04-13 23:39:12 UTC*
 *历史记录保存在 `archive` 目录中。*
