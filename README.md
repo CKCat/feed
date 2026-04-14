@@ -32,6 +32,10 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [0xE1337/thesis-figure-skill](https://github.com/0xE1337/thesis-figure-skill)
   > 🎓 Claude Skill: Paste your paper text, auto-generate publication-ready LaTeX/TikZ diagrams. 粘贴论文文案，自...
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [miscusi-peek/cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge)
+  > Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, ...
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Areo-Joe/chrome-acp](https://github.com/Areo-Joe/chrome-acp)
   > Connect to ACP agent in browser.
@@ -57,6 +61,10 @@
   > The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official ...
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [1nchaos/adata](https://github.com/1nchaos/adata)
   > 免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股...
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
@@ -106,6 +114,12 @@
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus) to [veritas501/CLIProxyAPIPlus](https://github.com/veritas501/CLIProxyAPIPlus)
   > The Plus version of CLIProxyAPI
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG)
+  > eBPF-based lightweight debugger for Android with MCP support
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
@@ -116,5 +130,5 @@
 
 
 ---
-*最后更新于 2026-04-14 14:48:00 UTC*
+*最后更新于 2026-04-14 16:04:53 UTC*
 *历史记录保存在 `archive` 目录中。*
