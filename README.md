@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
+  > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -34,11 +38,21 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stanford-iris-lab/meta-harness-tbench2-artifact](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact)
   > Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) to [dqzg12300/awesome-openclaw-skills](https://github.com/dqzg12300/awesome-openclaw-skills)
+  > The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official ...
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AvaotaSBC/AvaotaF1](https://github.com/AvaotaSBC/AvaotaF1)
+  > AvaotaF1 is a tiny RISC-V 32 Linux SBC based on Allwinner V821
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [ZengboJamesWang/dgx-spark-vllm-gemma4-26b-uncensored](https://github.com/ZengboJamesWang/dgx-spark-vllm-gemma4-26b-uncensored)
   > High-performance uncensored Gemma-4-26B inference on NVIDIA DGX Spark using vLLM - 45+ tok/s
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xku/kon](https://github.com/0xku/kon)
   > Kon is a minimal coding agent (and also a highly opinionated one)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [AEON-7/vllm-dflash](https://github.com/AEON-7/vllm-dflash)
+  > DFlash vLLM for DGX Spark — Plug & Play Block-Diffusion Speculative Decoding
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -51,6 +65,12 @@
   > Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: htt...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crokily/pi-discord-gateway](https://github.com/Crokily/pi-discord-gateway)
   > Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [agentsmd/agents.md](https://github.com/agentsmd/agents.md) to [mrexodia/agents.md](https://github.com/mrexodia/agents.md)
+  > AGENTS.md — a simple, open format for guiding coding agents
+
+### [veritas501](https://github.com/veritas501)
+- 🍴 👤 [veritas501](https://github.com/veritas501) Forked [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus) to [veritas501/CLIProxyAPIPlus](https://github.com/veritas501/CLIProxyAPIPlus)
+  > The Plus version of CLIProxyAPI
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
@@ -62,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-04-14 07:25:57 UTC*
+*最后更新于 2026-04-14 09:14:25 UTC*
 *历史记录保存在 `archive` 目录中。*
