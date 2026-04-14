@@ -54,6 +54,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AvaotaSBC/AvaotaF1](https://github.com/AvaotaSBC/AvaotaF1)
   > AvaotaF1 is a tiny RISC-V 32 Linux SBC based on Allwinner V821
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TriptoAfsin/md-viewer-pwa](https://github.com/TriptoAfsin/md-viewer-pwa)
+  > A sleek, lightweight Progressive Web App for viewing Markdown files on any device
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [ZengboJamesWang/dgx-spark-vllm-gemma4-26b-uncensored](https://github.com/ZengboJamesWang/dgx-spark-vllm-gemma4-26b-uncensored)
   > High-performance uncensored Gemma-4-26B inference on NVIDIA DGX Spark using vLLM - 45+ tok/s
@@ -96,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-04-14 10:59:30 UTC*
+*最后更新于 2026-04-14 12:03:35 UTC*
 *历史记录保存在 `archive` 目录中。*
