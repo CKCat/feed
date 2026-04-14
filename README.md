@@ -32,6 +32,9 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [0xE1337/thesis-figure-skill](https://github.com/0xE1337/thesis-figure-skill)
   > 🎓 Claude Skill: Paste your paper text, auto-generate publication-ready LaTeX/TikZ diagrams. 粘贴论文文案，自...
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [shakevsky/keybuster](https://github.com/shakevsky/keybuster)
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [miscusi-peek/cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge)
   > Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, ...
@@ -114,6 +117,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
   > An experimental tutorial mode for Pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
@@ -151,5 +156,5 @@
 
 
 ---
-*最后更新于 2026-04-14 22:41:25 UTC*
+*最后更新于 2026-04-14 23:39:01 UTC*
 *历史记录保存在 `archive` 目录中。*
