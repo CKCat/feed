@@ -106,9 +106,17 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
+  > A Swift wrapper around glib-2.x that is largely auto-generated from gobject-introspection
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [killerprojecte/REAREye](https://github.com/killerprojecte/REAREye)
   > Another yet Xposed module for Xiaomi rear screen
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [openai/openai-dotnet](https://github.com/openai/openai-dotnet)
+  > The official .NET library for the OpenAI API
 
 ### [veritas501](https://github.com/veritas501)
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus) to [veritas501/CLIProxyAPIPlus](https://github.com/veritas501/CLIProxyAPIPlus)
@@ -130,5 +138,5 @@
 
 
 ---
-*最后更新于 2026-04-14 16:04:53 UTC*
+*最后更新于 2026-04-14 18:01:20 UTC*
 *历史记录保存在 `archive` 目录中。*
