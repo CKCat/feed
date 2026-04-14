@@ -10,6 +10,12 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy)
   > Install and debug iPhone apps from the command line, without using Xcode
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Deep clean and optimize your Mac.
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+  > Elegant reading of real-time and hottest news
+
 ### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
@@ -49,6 +55,12 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) to [dqzg12300/awesome-openclaw-skills](https://github.com/dqzg12300/awesome-openclaw-skills)
   > The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official ...
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [1nchaos/adata](https://github.com/1nchaos/adata)
+  > 免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
+  > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AvaotaSBC/AvaotaF1](https://github.com/AvaotaSBC/AvaotaF1)
@@ -65,6 +77,10 @@
   > Kon is a minimal coding agent (and also a highly opinionated one)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [AEON-7/vllm-dflash](https://github.com/AEON-7/vllm-dflash)
   > DFlash vLLM for DGX Spark — Plug & Play Block-Diffusion Speculative Decoding
+
+### [mengxipeng1122](https://github.com/mengxipeng1122)
+- 🌟 👤 [mengxipeng1122](https://github.com/mengxipeng1122) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Ghidra MCP Server — 194 MCP tools for AI-powered reverse engineering. GUI plugin + headless server, ...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -100,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-04-14 12:03:35 UTC*
+*最后更新于 2026-04-14 14:48:00 UTC*
 *历史记录保存在 `archive` 目录中。*
