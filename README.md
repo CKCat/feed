@@ -18,6 +18,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Areo-Joe/chrome-acp](https://github.com/Areo-Joe/chrome-acp)
   > Connect to ACP agent in browser.
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🍴 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Forked [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public) to [ThatNotEasy/ctf-2026-challenges-public](https://github.com/ThatNotEasy/ctf-2026-challenges-public)
+  > Public repository of 2026 crackmes.one CTF RE challenge
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)
   > ✨ Making your shell magical
@@ -39,6 +43,14 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dwsy/pi-session-manager](https://github.com/Dwsy/pi-session-manager)
+  > Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: htt...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crokily/pi-discord-gateway](https://github.com/Crokily/pi-discord-gateway)
+  > Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
@@ -50,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-04-14 05:20:22 UTC*
+*最后更新于 2026-04-14 07:25:57 UTC*
 *历史记录保存在 `archive` 目录中。*
