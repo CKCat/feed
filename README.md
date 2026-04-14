@@ -114,6 +114,10 @@
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
   > A Swift wrapper around glib-2.x that is largely auto-generated from gobject-introspection
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
+  > Chromium running inside your terminal
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [killerprojecte/REAREye](https://github.com/killerprojecte/REAREye)
   > Another yet Xposed module for Xiaomi rear screen
@@ -142,5 +146,5 @@
 
 
 ---
-*最后更新于 2026-04-14 20:02:52 UTC*
+*最后更新于 2026-04-14 21:48:40 UTC*
 *历史记录保存在 `archive` 目录中。*
