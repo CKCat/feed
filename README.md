@@ -43,6 +43,10 @@
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🍴 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Forked [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public) to [ThatNotEasy/ctf-2026-challenges-public](https://github.com/ThatNotEasy/ctf-2026-challenges-public)
   > Public repository of 2026 crackmes.one CTF RE challenge
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [ollama/ollama-python](https://github.com/ollama/ollama-python)
+  > Ollama Python library
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [ollama/ollama](https://github.com/ollama/ollama)
+  > Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)
@@ -109,6 +113,7 @@
   > Rust rewrite of BOCHS emulator
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
   > An experimental tutorial mode for Pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
@@ -146,5 +151,5 @@
 
 
 ---
-*最后更新于 2026-04-14 21:48:40 UTC*
+*最后更新于 2026-04-14 22:41:25 UTC*
 *历史记录保存在 `archive` 目录中。*
