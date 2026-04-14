@@ -69,6 +69,8 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
   > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
+  > Rayon: A data parallelism library for Rust
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AvaotaSBC/AvaotaF1](https://github.com/AvaotaSBC/AvaotaF1)
@@ -105,6 +107,8 @@
   > AGENTS.md — a simple, open format for guiding coding agents
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
+  > An experimental tutorial mode for Pi
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
@@ -138,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-04-14 18:01:20 UTC*
+*最后更新于 2026-04-14 20:02:52 UTC*
 *历史记录保存在 `archive` 目录中。*
