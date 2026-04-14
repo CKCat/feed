@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [hackcatml/frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy)
+  > Burp proxy flutter apps
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy)
+  > Install and debug iPhone apps from the command line, without using Xcode
+
 ### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -67,6 +75,12 @@
   > Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [agentsmd/agents.md](https://github.com/agentsmd/agents.md) to [mrexodia/agents.md](https://github.com/mrexodia/agents.md)
   > AGENTS.md — a simple, open format for guiding coding agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [killerprojecte/REAREye](https://github.com/killerprojecte/REAREye)
+  > Another yet Xposed module for Xiaomi rear screen
 
 ### [veritas501](https://github.com/veritas501)
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus) to [veritas501/CLIProxyAPIPlus](https://github.com/veritas501/CLIProxyAPIPlus)
@@ -82,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-04-14 09:14:25 UTC*
+*最后更新于 2026-04-14 10:59:30 UTC*
 *历史记录保存在 `archive` 目录中。*
