@@ -31,6 +31,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [continuedev/continue](https://github.com/continuedev/continue)
   > ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage)
+  > 下一代Python的web自动化过检测框架。RuyiPage is a Python-based Firefox automation framework built on the next-gene...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ForNeVeR/Oddities](https://github.com/ForNeVeR/Oddities)
   > .NET libraries supporting several old and obscure data formats: DIB, MRB, NE, SHG, WinHelp.
@@ -55,11 +59,18 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything)
   > Run any GUI app in the terminal❗
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [h0x0er/ebpf-skill](https://github.com/h0x0er/ebpf-skill)
+  > An eBPF skill for coding agents
+
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [rbmm/Camera](https://github.com/rbmm/Camera)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc)
@@ -93,8 +104,10 @@
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tmate-io/tmate](https://github.com/tmate-io/tmate)
   > Instant Terminal Sharing
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor)
+  > pure frontend ipa signing page.
 
 
 ---
-*最后更新于 2026-04-15 13:18:13 UTC*
+*最后更新于 2026-04-15 15:03:24 UTC*
 *历史记录保存在 `archive` 目录中。*
