@@ -57,6 +57,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
   > 基于Python的开源量化交易平台开发框架
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [brainboxdotcc/retro-rocket](https://github.com/brainboxdotcc/retro-rocket)
+  > Retro Rocket BASIC Powered Operating System
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [plait-board/drawnix](https://github.com/plait-board/drawnix)
   > 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, free...
@@ -86,6 +90,8 @@
   > Unlocking qualcomm bootloader via gbl exploit.
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kasnria001/qualcomm_cmdline_injection_exploit](https://github.com/kasnria001/qualcomm_cmdline_injection_exploit)
   > Disable SeLinux on some qualcomm devices via cmdline injection
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Cleafy/Malfixer](https://github.com/Cleafy/Malfixer)
+  > MalFixer is a comprehensive toolkit for inspecting and recovering malformed Android APK files
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc) to [sekaiacg/qualcomm_avb_exploit_poc](https://github.com/sekaiacg/qualcomm_avb_exploit_poc)
@@ -122,5 +128,5 @@
 
 
 ---
-*最后更新于 2026-04-15 16:59:37 UTC*
+*最后更新于 2026-04-15 18:10:28 UTC*
 *历史记录保存在 `archive` 目录中。*
