@@ -54,6 +54,10 @@
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [kserve/kserve](https://github.com/kserve/kserve)
   > Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framewo...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent)
+  > A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner A...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent) to [crazyguitar/scalable_agent](https://github.com/crazyguitar/scalable_agent)
+  > A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner A...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [P4nda0s/elf-dump-fixer](https://github.com/P4nda0s/elf-dump-fixer)
@@ -142,5 +146,5 @@
 
 
 ---
-*最后更新于 2026-04-15 21:48:47 UTC*
+*最后更新于 2026-04-15 22:38:11 UTC*
 *历史记录保存在 `archive` 目录中。*
