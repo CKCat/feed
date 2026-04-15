@@ -52,6 +52,8 @@
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [google-research/timesfm](https://github.com/google-research/timesfm) to [crazyguitar/timesfm](https://github.com/crazyguitar/timesfm)
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [kserve/kserve](https://github.com/kserve/kserve)
+  > Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framewo...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [P4nda0s/elf-dump-fixer](https://github.com/P4nda0s/elf-dump-fixer)
@@ -140,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-04-15 20:00:56 UTC*
+*最后更新于 2026-04-15 21:48:47 UTC*
 *历史记录保存在 `archive` 目录中。*
