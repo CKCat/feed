@@ -74,6 +74,7 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [brainboxdotcc/retro-rocket](https://github.com/brainboxdotcc/retro-rocket)
   > Retro Rocket BASIC Powered Operating System
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [cushycush/qml-language-server](https://github.com/cushycush/qml-language-server)
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [plait-board/drawnix](https://github.com/plait-board/drawnix)
@@ -98,6 +99,12 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [earendil-works/gondolin](https://github.com/earendil-works/gondolin) to [mrexodia/gondolin](https://github.com/mrexodia/gondolin)
+  > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quarkslab/whvp](https://github.com/quarkslab/whvp)
+  > PoC for a snapshot-based coverage-guided fuzzer targeting Windows kernel components
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marirs/smda-rs](https://github.com/marirs/smda-rs)
+  > SMDA is a minimalist recursive disassembler library
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) to [frida/SwiftGtk](https://github.com/frida/SwiftGtk)
@@ -146,5 +153,5 @@
 
 
 ---
-*最后更新于 2026-04-15 22:38:11 UTC*
+*最后更新于 2026-04-15 23:38:31 UTC*
 *历史记录保存在 `archive` 目录中。*
