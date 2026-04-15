@@ -38,6 +38,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ForNeVeR/Oddities](https://github.com/ForNeVeR/Oddities)
   > .NET libraries supporting several old and obscure data formats: DIB, MRB, NE, SHG, WinHelp.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip)
+  > The 7-Zip derivative intended for macOS
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
@@ -46,6 +48,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
   > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [P4nda0s/elf-dump-fixer](https://github.com/P4nda0s/elf-dump-fixer)
+  > Android ELF .so memory dumper and fixer for rebuilding dumped libraries into analyzable ELF files.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
@@ -66,6 +72,9 @@
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [rbmm/Camera](https://github.com/rbmm/Camera)
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [horsicq/peid_widget](https://github.com/horsicq/peid_widget)
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
 
@@ -77,6 +86,10 @@
   > Unlocking qualcomm bootloader via gbl exploit.
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kasnria001/qualcomm_cmdline_injection_exploit](https://github.com/kasnria001/qualcomm_cmdline_injection_exploit)
   > Disable SeLinux on some qualcomm devices via cmdline injection
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc) to [sekaiacg/qualcomm_avb_exploit_poc](https://github.com/sekaiacg/qualcomm_avb_exploit_poc)
+  > Unlocking qualcomm bootloader
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
@@ -109,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-04-15 15:03:24 UTC*
+*最后更新于 2026-04-15 16:59:37 UTC*
 *历史记录保存在 `archive` 目录中。*
