@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [xming521/WeClone](https://github.com/xming521/WeClone)
   > 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs...
@@ -36,14 +40,27 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything)
   > Run any GUI app in the terminal❗
 
+### [hfiref0x](https://github.com/hfiref0x)
+- 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [rbmm/Camera](https://github.com/rbmm/Camera)
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kasnria001/qualcomm_cmdline_injection_exploit](https://github.com/kasnria001/qualcomm_cmdline_injection_exploit)
+  > Disable SeLinux on some qualcomm devices via cmdline injection
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [DeviceFarmer/adbkit](https://github.com/DeviceFarmer/adbkit)
   > A pure Node.js client for the Android Debug Bridge.
+
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-io/xmake-skills](https://github.com/xmake-io/xmake-skills)
+  > Agent Skills for Xmake
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
@@ -58,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-04-15 09:15:40 UTC*
+*最后更新于 2026-04-15 10:55:45 UTC*
 *历史记录保存在 `archive` 目录中。*
