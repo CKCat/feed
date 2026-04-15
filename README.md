@@ -4,11 +4,20 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [android/skills](https://github.com/android/skills)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Starnoh254/KRA_App_Backend](https://github.com/Starnoh254/KRA_App_Backend)
+  > A Spring Boot backend service that integrates with the KRA API to automate NIL return filing for ind...
+
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
   > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
+
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [lifting-bits/remill](https://github.com/lifting-bits/remill)
+  > Library for lifting machine code to LLVM bitcode
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [xming521/WeClone](https://github.com/xming521/WeClone)
@@ -33,6 +42,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
   > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
+  > 基于Python的开源量化交易平台开发框架
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [plait-board/drawnix](https://github.com/plait-board/drawnix)
@@ -64,6 +77,10 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-io/xmake-skills](https://github.com/xmake-io/xmake-skills)
   > Agent Skills for Xmake
 
+### [wrlu](https://github.com/wrlu)
+- 🌟 👤 [wrlu](https://github.com/wrlu) Starred [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)
+  > Run sing-box/mihomo as client in shell
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
   > A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...
@@ -74,8 +91,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tmate-io/tmate](https://github.com/tmate-io/tmate)
+  > Instant Terminal Sharing
 
 
 ---
-*最后更新于 2026-04-15 11:55:00 UTC*
+*最后更新于 2026-04-15 13:18:13 UTC*
 *历史记录保存在 `archive` 目录中。*
