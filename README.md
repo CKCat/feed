@@ -8,6 +8,10 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [xming521/WeClone](https://github.com/xming521/WeClone)
   > 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs...
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [MatrixEditor/pairipcore-vm](https://github.com/MatrixEditor/pairipcore-vm)
+  > Research on the internal workings of Google's Play Integrity Protect Virtual Machine (VM) with tools...
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [continuedev/continue](https://github.com/continuedev/continue)
   > ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -31,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-04-15 05:20:28 UTC*
+*最后更新于 2026-04-15 07:26:19 UTC*
 *历史记录保存在 `archive` 目录中。*
