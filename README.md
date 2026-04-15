@@ -7,6 +7,8 @@
 ### [Al1ex](https://github.com/Al1ex)
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
   > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [larksuite/cli](https://github.com/larksuite/cli)
+  > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [xming521/WeClone](https://github.com/xming521/WeClone)
@@ -75,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-04-15 10:55:45 UTC*
+*最后更新于 2026-04-15 11:55:00 UTC*
 *历史记录保存在 `archive` 目录中。*
