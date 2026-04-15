@@ -48,6 +48,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
   > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
+  > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [google-research/timesfm](https://github.com/google-research/timesfm) to [crazyguitar/timesfm](https://github.com/crazyguitar/timesfm)
+  > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [P4nda0s/elf-dump-fixer](https://github.com/P4nda0s/elf-dump-fixer)
@@ -56,6 +60,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
   > 基于Python的开源量化交易平台开发框架
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [jcrist/msgspec](https://github.com/jcrist/msgspec)
+  > A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and T...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [brainboxdotcc/retro-rocket](https://github.com/brainboxdotcc/retro-rocket)
@@ -84,6 +92,10 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) to [frida/SwiftGtk](https://github.com/frida/SwiftGtk)
+  > A Swift wrapper around gtk-3.x and gtk-4.x that is largely auto-generated from gobject-introspection
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc)
@@ -128,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-04-15 18:10:28 UTC*
+*最后更新于 2026-04-15 20:00:56 UTC*
 *历史记录保存在 `archive` 目录中。*
