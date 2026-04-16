@@ -8,13 +8,26 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
   > Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [HexHive/beanpod_fiasco](https://github.com/HexHive/beanpod_fiasco)
+
+### [Kr328](https://github.com/Kr328)
+- 🍴 👤 [Kr328](https://github.com/Kr328) Forked [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper) to [Kr328/eBPFDexDumper](https://github.com/Kr328/eBPFDexDumper)
+  > eBPF-Based DexDumper for Android
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [aoyunyang/spider-king-skill](https://github.com/aoyunyang/spider-king-skill)
   > Protocol-first reverse engineering skill for turning hostile web clients into pure-protocol Python c...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [lainswork/shellcode-factory](https://github.com/lainswork/shellcode-factory)
+  > shellcode 生成框架
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [dwarvesf/hidden](https://github.com/dwarvesf/hidden)
   > An ultra-light MacOS utility that helps hide menu bar icons
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
+  > The Red Sun vulnerability repository
 
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) to [bet4it/wemeet-wayland-screenshare](https://github.com/bet4it/wemeet-wayland-screenshare)
@@ -38,6 +51,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
   > Elegant reading of real-time and hottest news
 
+### [hfiref0x](https://github.com/hfiref0x)
+- 🚀 👤 [hfiref0x](https://github.com/hfiref0x) Made [hfiref0x/WDSigEx](https://github.com/hfiref0x/WDSigEx) public
+  > Parse Windows Defender extracted signature databases, enumerate threat records, export threat chunks...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
   > yk packages
@@ -53,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-04-16 09:15:23 UTC*
+*最后更新于 2026-04-16 10:59:22 UTC*
 *历史记录保存在 `archive` 目录中。*
