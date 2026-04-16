@@ -44,6 +44,16 @@
   > A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [DLR-RM/rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
   > A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimi...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm)
+  > Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm) to [crazyguitar/tiny-vllm](https://github.com/crazyguitar/tiny-vllm)
+  > Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
+  > Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x les...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) to [crazyguitar/GenericAgent](https://github.com/crazyguitar/GenericAgent)
+  > Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x les...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [EvoMap/evolver](https://github.com/EvoMap/evolver)
+  > The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TheUltimateFoxOS/horizon](https://github.com/TheUltimateFoxOS/horizon)
@@ -119,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-04-16 22:36:16 UTC*
+*最后更新于 2026-04-16 23:37:02 UTC*
 *历史记录保存在 `archive` 目录中。*
