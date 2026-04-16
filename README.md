@@ -50,6 +50,8 @@
   > Handwriting animation for the web. Supports any font or text.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
   > Elegant reading of real-time and hottest news
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)
+  > BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, p...
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🚀 👤 [hfiref0x](https://github.com/hfiref0x) Made [hfiref0x/WDSigEx](https://github.com/hfiref0x/WDSigEx) public
@@ -61,6 +63,32 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xataio/xata](https://github.com/xataio/xata)
   > Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGObject](https://github.com/rhx/SwiftGObject) to [frida/SwiftGObject](https://github.com/frida/SwiftGObject)
+  > A wrapper around gobject-2.x for the Swift Package Manager
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGdkPixbuf](https://github.com/rhx/SwiftGdkPixbuf) to [frida/SwiftGdkPixbuf](https://github.com/frida/SwiftGdkPixbuf)
+  > A Swift wrapper around GdkPixbuf-2.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGdk](https://github.com/rhx/SwiftGdk) to [frida/SwiftGdk](https://github.com/frida/SwiftGdk)
+  > A Swift wrapper around gdk-3.x and gdk-4.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftPango](https://github.com/rhx/SwiftPango) to [frida/SwiftPango](https://github.com/frida/SwiftPango)
+  > A Swift wrapper around pango-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftCairo](https://github.com/rhx/SwiftCairo) to [frida/SwiftCairo](https://github.com/frida/SwiftCairo)
+  > A Swift wrapper around cairo-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGraphene](https://github.com/rhx/SwiftGraphene) to [frida/SwiftGraphene](https://github.com/frida/SwiftGraphene)
+  > A Swift wrapper around graphene-1.x that is largely auto-generated from gobject-introspection.
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftAtk](https://github.com/rhx/SwiftAtk) to [frida/SwiftAtk](https://github.com/frida/SwiftAtk)
+  > A Swift wrapper around atk-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftHarfBuzz](https://github.com/rhx/SwiftHarfBuzz) to [frida/SwiftHarfBuzz](https://github.com/frida/SwiftHarfBuzz)
+  > A Swift wrapper around harfbuzz-4.x that is largely auto-generated from gobject-introspection.
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGsk](https://github.com/rhx/SwiftGsk) to [frida/SwiftGsk](https://github.com/frida/SwiftGsk)
+  > A Swift wrapper around gsk-4.x that is largely auto-generated from gobject-introspection.
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftPangoCairo](https://github.com/rhx/SwiftPangoCairo) to [frida/SwiftPangoCairo](https://github.com/frida/SwiftPangoCairo)
+  > A Swift wrapper around pangocairo-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGModule](https://github.com/rhx/SwiftGModule) to [frida/SwiftGModule](https://github.com/frida/SwiftGModule)
+  > A Swift wrapper around gmodule-2.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGIO](https://github.com/rhx/SwiftGIO) to [frida/SwiftGIO](https://github.com/frida/SwiftGIO)
+  > A wrapper around gio-2.x for the Swift Package Manager
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [Lebski/Claude-Code-Controller](https://github.com/Lebski/Claude-Code-Controller)
 
@@ -69,7 +97,11 @@
   > Unlocking qualcomm bootloader
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/gbl_root_canoe](https://github.com/sekaiacg/gbl_root_canoe)
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+  > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
+
 
 ---
-*最后更新于 2026-04-16 12:03:52 UTC*
+*最后更新于 2026-04-16 14:51:55 UTC*
 *历史记录保存在 `archive` 目录中。*
