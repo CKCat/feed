@@ -44,7 +44,14 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xataio/xata](https://github.com/xataio/xata)
   > Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [Lebski/Claude-Code-Controller](https://github.com/Lebski/Claude-Code-Controller)
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
+  > Unlocking qualcomm bootloader
+
 
 ---
-*最后更新于 2026-04-16 05:27:28 UTC*
+*最后更新于 2026-04-16 07:27:11 UTC*
 *历史记录保存在 `archive` 目录中。*
