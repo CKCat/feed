@@ -67,8 +67,9 @@
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/gbl_root_canoe](https://github.com/sekaiacg/gbl_root_canoe)
 
 
 ---
-*最后更新于 2026-04-16 10:59:22 UTC*
+*最后更新于 2026-04-16 12:03:52 UTC*
 *历史记录保存在 `archive` 目录中。*
