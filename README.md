@@ -37,6 +37,14 @@
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) to [bet4it/wemeet-wayland-screenshare](https://github.com/bet4it/wemeet-wayland-screenshare)
   > 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with Tencent Wemeet on Linux ...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
+  > A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) to [crazyguitar/stable-baselines](https://github.com/crazyguitar/stable-baselines)
+  > A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [DLR-RM/rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
+  > A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimi...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TheUltimateFoxOS/horizon](https://github.com/TheUltimateFoxOS/horizon)
   > Rewrite of the FoxOS kernel
@@ -111,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-04-16 18:06:03 UTC*
+*最后更新于 2026-04-16 19:57:48 UTC*
 *历史记录保存在 `archive` 目录中。*
