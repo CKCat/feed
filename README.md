@@ -34,15 +34,29 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch)
   > Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+  > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
 
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
   > The Red Sun vulnerability repository
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [cbwang505/RedSun](https://github.com/cbwang505/RedSun)
   > The Red Sun vulnerability repository
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
+  > Autonomous experiment loop extension for pi
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) to [crazyguitar/pi-autoresearch](https://github.com/crazyguitar/pi-autoresearch)
+  > Autonomous experiment loop extension for pi
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz) to [dqzg12300/stackplz](https://github.com/dqzg12300/stackplz)
@@ -85,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-04-17 14:52:37 UTC*
+*最后更新于 2026-04-17 15:57:06 UTC*
 *历史记录保存在 `archive` 目录中。*
