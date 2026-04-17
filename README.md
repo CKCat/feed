@@ -38,6 +38,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [cnitlrt/AutoTeam](https://github.com/cnitlrt/AutoTeam)
+  > ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -92,6 +96,10 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [linkcd/hexo-skill](https://github.com/linkcd/hexo-skill)
   > claude skill for hexo blogging framework
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+  > The agent engineering platform
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+  > 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs)
@@ -99,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-04-17 16:55:56 UTC*
+*最后更新于 2026-04-17 17:47:48 UTC*
 *历史记录保存在 `archive` 目录中。*
