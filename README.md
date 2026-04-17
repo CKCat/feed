@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
   > Stealthy Linux Kernel Rootkit for modern kernels (6x)
 
+### [Ahora57](https://github.com/Ahora57)
+- 🌟 👤 [Ahora57](https://github.com/Ahora57) Starred [xsh3llsh0ck/poc](https://github.com/xsh3llsh0ck/poc)
+  > Collection of my PoC's for various vulnerabilities.
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
@@ -30,6 +34,10 @@
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [cbwang505/RedSun](https://github.com/cbwang505/RedSun)
   > The Red Sun vulnerability repository
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz) to [dqzg12300/stackplz](https://github.com/dqzg12300/stackplz)
+  > 基于eBPF的堆栈追踪工具
+
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) to [eastmountyxz/scientific-agent-skills](https://github.com/eastmountyxz/scientific-agent-skills)
   > A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing...
@@ -50,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-04-17 05:24:44 UTC*
+*最后更新于 2026-04-17 07:27:52 UTC*
 *历史记录保存在 `archive` 目录中。*
