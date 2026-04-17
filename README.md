@@ -34,6 +34,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch)
   > Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [cbwang505](https://github.com/cbwang505)
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
   > The Red Sun vulnerability repository
@@ -81,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-04-17 10:51:51 UTC*
+*最后更新于 2026-04-17 11:49:45 UTC*
 *历史记录保存在 `archive` 目录中。*
