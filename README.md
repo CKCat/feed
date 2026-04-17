@@ -89,6 +89,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
   > Autonomous experiment loop extension for pi
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
+  > Modern Xposed Framework
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
@@ -107,5 +111,5 @@
 
 
 ---
-*最后更新于 2026-04-17 17:47:48 UTC*
+*最后更新于 2026-04-17 18:55:44 UTC*
 *历史记录保存在 `archive` 目录中。*
