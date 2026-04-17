@@ -12,6 +12,10 @@
 - 🌟 👤 [Ahora57](https://github.com/Ahora57) Starred [xsh3llsh0ck/poc](https://github.com/xsh3llsh0ck/poc)
   > Collection of my PoC's for various vulnerabilities.
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+  > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
@@ -52,11 +56,18 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
   > A Binary Genetic Traits Lexer Framework
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing)
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [linkcd/hexo-skill](https://github.com/linkcd/hexo-skill)
+  > claude skill for hexo blogging framework
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs)
   > Rust implementation of Tailscale (preview, experimental)
 
 
 ---
-*最后更新于 2026-04-17 07:27:52 UTC*
+*最后更新于 2026-04-17 09:13:31 UTC*
 *历史记录保存在 `archive` 目录中。*
