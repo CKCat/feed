@@ -4,9 +4,16 @@
 
 ## 今日动态
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill)
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
   > Python Command-Line Ghidra MCP
+
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [virjar/team-talk](https://github.com/virjar/team-talk)
+  > 团队协作沟通软件，打算做成开源免费的钉钉/飞书，预期使用5年时间完成这个巨大的目标。
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
@@ -16,5 +23,5 @@
 
 
 ---
-*最后更新于 2026-04-18 02:04:01 UTC*
+*最后更新于 2026-04-18 05:03:36 UTC*
 *历史记录保存在 `archive` 目录中。*
