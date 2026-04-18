@@ -31,6 +31,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB)
   > OpenKB: Open LLM Knowledge Base
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [wuwangzhang1216/abliterix](https://github.com/wuwangzhang1216/abliterix)
+  > Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteratio...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
   > A Mac OS X bootloader for the Nintendo Wii.
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-04-18 10:36:46 UTC*
+*最后更新于 2026-04-18 11:31:50 UTC*
 *历史记录保存在 `archive` 目录中。*
