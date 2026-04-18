@@ -61,6 +61,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
   > A Mac OS X bootloader for the Nintendo Wii.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
+  > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
+
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [GNOME/gtk](https://github.com/GNOME/gtk) to [frida/gtk](https://github.com/frida/gtk)
   > Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-04-18 21:31:33 UTC*
+*最后更新于 2026-04-18 22:30:58 UTC*
 *历史记录保存在 `archive` 目录中。*
