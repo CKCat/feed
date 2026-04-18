@@ -8,6 +8,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher)
+  > A plugin manager for Fish
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sshearer-f8n/dEFIant](https://github.com/sshearer-f8n/dEFIant)
   > 92KB graphical UEFI diagnostic toolkit. Windows 3.1-style GUI. Boots from USB on any UEFI machine.
@@ -19,6 +23,10 @@
   > Fast and local neural text-to-speech engine
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source voice synthesis studio
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs)
+  > Rust implementation of Tailscale (preview, experimental)
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill)
@@ -59,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-04-18 14:00:18 UTC*
+*最后更新于 2026-04-18 15:34:39 UTC*
 *历史记录保存在 `archive` 目录中。*
