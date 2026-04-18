@@ -8,6 +8,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sshearer-f8n/dEFIant](https://github.com/sshearer-f8n/dEFIant)
+  > 92KB graphical UEFI diagnostic toolkit. Windows 3.1-style GUI. Boots from USB on any UEFI machine.
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [rhasspy/piper](https://github.com/rhasspy/piper)
   > A fast, local neural text to speech system
@@ -47,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-04-18 11:31:50 UTC*
+*最后更新于 2026-04-18 12:55:56 UTC*
 *历史记录保存在 `archive` 目录中。*
