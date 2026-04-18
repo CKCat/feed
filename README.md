@@ -23,6 +23,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [christianhelle/refitter](https://github.com/christianhelle/refitter)
+  > A tool for generating Refit interfaces and contracts from OpenAPI (Swagger) specifications
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
   > Python Command-Line Ghidra MCP
@@ -49,7 +53,11 @@
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source voice synthesis studio
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-...
+
 
 ---
-*最后更新于 2026-04-18 12:55:56 UTC*
+*最后更新于 2026-04-18 14:00:18 UTC*
 *历史记录保存在 `archive` 目录中。*
