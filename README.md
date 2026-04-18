@@ -4,6 +4,18 @@
 
 ## 今日动态
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [rhasspy/piper](https://github.com/rhasspy/piper)
+  > A fast, local neural text to speech system
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
+  > Fast and local neural text-to-speech engine
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+  > The open-source voice synthesis studio
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill)
 
@@ -23,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-04-18 05:03:36 UTC*
+*最后更新于 2026-04-18 07:02:44 UTC*
 *历史记录保存在 `archive` 目录中。*
