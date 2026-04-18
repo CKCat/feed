@@ -44,6 +44,8 @@
   > Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5, InternLM3, Ll...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [modelscope/ms-swift](https://github.com/modelscope/ms-swift) to [crazyguitar/ms-swift](https://github.com/crazyguitar/ms-swift)
   > Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5, InternLM3, Ll...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [batrachianai/toad](https://github.com/batrachianai/toad)
+  > A unified interface for AI in your terminal.
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [virjar/team-talk](https://github.com/virjar/team-talk)
@@ -81,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-04-18 22:30:58 UTC*
+*最后更新于 2026-04-18 23:31:14 UTC*
 *历史记录保存在 `archive` 目录中。*
