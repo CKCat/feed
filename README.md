@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [browser-use/browser-harness](https://github.com/browser-use/browser-harness)
+  > Self-healing browser harness that enables LLMs to complete any task.
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -25,6 +29,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+  > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🍴 👤 [alexander-hanel](https://github.com/alexander-hanel) Forked [openai/codex](https://github.com/openai/codex) to [alexander-hanel/codex](https://github.com/alexander-hanel/codex)
   > Lightweight coding agent that runs in your terminal
@@ -41,6 +49,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AlexBlackmore/roms](https://github.com/AlexBlackmore/roms)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AlexBlackmore/roms](https://github.com/AlexBlackmore/roms) to [crazyguitar/roms](https://github.com/crazyguitar/roms)
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Shirasuki/OpenClandes](https://github.com/Shirasuki/OpenClandes)
+  > 一个不完全开源的Claude/Codex/Gemini拼车项目!
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [mlhher/late](https://github.com/mlhher/late)
   > Orchestrate an AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral ...
@@ -48,6 +60,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
   > The ultimate Yugioh database.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [icedevml/tinypki](https://github.com/icedevml/tinypki)
+  > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
@@ -67,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-04-19 15:34:33 UTC*
+*最后更新于 2026-04-19 16:36:12 UTC*
 *历史记录保存在 `archive` 目录中。*
