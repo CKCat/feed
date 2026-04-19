@@ -49,6 +49,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
   > The ultimate Yugioh database.
 
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+  > OSS implementation of the TCG TPM2 Software Stack (TSS2)
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-04-19 13:58:41 UTC*
+*最后更新于 2026-04-19 14:48:21 UTC*
 *历史记录保存在 `archive` 目录中。*
