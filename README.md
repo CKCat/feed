@@ -8,6 +8,12 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [mrmike/android-source-explorer-mcp](https://github.com/mrmike/android-source-explorer-mcp)
+  > MCP server for exploring AOSP internals and Jetpack libraries
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+  > AirPods liberated from Apple's ecosystem.
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -57,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-04-19 12:55:21 UTC*
+*最后更新于 2026-04-19 13:58:41 UTC*
 *历史记录保存在 `archive` 目录中。*
