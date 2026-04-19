@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-04-19 08:50:33 UTC*
+*最后更新于 2026-04-19 09:43:18 UTC*
 *历史记录保存在 `archive` 目录中。*
