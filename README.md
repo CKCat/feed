@@ -62,6 +62,8 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [mlhher/late](https://github.com/mlhher/late)
   > Orchestrate an AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral ...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/katana](https://github.com/projectdiscovery/katana)
+  > A next-generation crawling and spidering framework.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
@@ -74,6 +76,8 @@
   > Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
   > Compile agent conversations!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MineDojo/Voyager](https://github.com/MineDojo/Voyager)
+  > An Open-Ended Embodied Agent with Large Language Models
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-04-19 22:31:20 UTC*
+*最后更新于 2026-04-19 23:33:04 UTC*
 *历史记录保存在 `archive` 目录中。*
