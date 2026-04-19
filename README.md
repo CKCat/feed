@@ -9,7 +9,7 @@
   > Self-healing browser harness that enables LLMs to complete any task.
 
 ### [LLeavesG](https://github.com/LLeavesG)
-- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
 ### [Mufanc](https://github.com/Mufanc)
@@ -64,6 +64,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [icedevml/tinypki](https://github.com/icedevml/tinypki)
   > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sctg-development/sctgdesk-server](https://github.com/sctg-development/sctgdesk-server)
+  > Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for s...
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
@@ -83,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-04-19 17:32:38 UTC*
+*最后更新于 2026-04-19 18:43:07 UTC*
 *历史记录保存在 `archive` 目录中。*
