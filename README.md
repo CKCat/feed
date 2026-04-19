@@ -25,6 +25,8 @@
   > cryptography is a package designed to expose cryptographic primitives and recipes to Python develope...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [commaai/openpilot](https://github.com/commaai/openpilot)
   > openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system o...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy)
+  > Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker)
@@ -48,6 +50,10 @@
   > A dynamic library providing Virtualization-based process isolation capabilities
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AlexBlackmore/roms](https://github.com/AlexBlackmore/roms)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AlexBlackmore/roms](https://github.com/AlexBlackmore/roms) to [crazyguitar/roms](https://github.com/crazyguitar/roms)
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [google/highway](https://github.com/google/highway)
+  > Performance-portable, length-agnostic SIMD with runtime dispatch
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Shirasuki/OpenClandes](https://github.com/Shirasuki/OpenClandes)
@@ -85,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-04-19 19:38:45 UTC*
+*最后更新于 2026-04-19 20:33:54 UTC*
 *历史记录保存在 `archive` 目录中。*
