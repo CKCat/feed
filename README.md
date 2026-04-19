@@ -43,6 +43,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
   > The ultimate Yugioh database.
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+  > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
   > Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wi...
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-04-19 09:43:18 UTC*
+*最后更新于 2026-04-19 10:35:36 UTC*
 *历史记录保存在 `archive` 目录中。*
