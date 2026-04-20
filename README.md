@@ -33,6 +33,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
   > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
@@ -49,6 +53,10 @@
 - 🌟 👤 [jart](https://github.com/jart) Starred [mafik/actually-portable-vulkan](https://github.com/mafik/actually-portable-vulkan)
   > Shipping games should be simple. One binary to show Vulkan window on all platforms.
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [imputnet/cobalt](https://github.com/imputnet/cobalt)
+  > best way to save what you love
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
@@ -62,7 +70,13 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+  > GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+
 
 ---
-*最后更新于 2026-04-20 05:37:20 UTC*
+*最后更新于 2026-04-20 08:01:19 UTC*
 *历史记录保存在 `archive` 目录中。*
