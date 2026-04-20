@@ -25,6 +25,10 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [taisuii/rusda](https://github.com/taisuii/rusda) to [KuNgia09/rusda](https://github.com/KuNgia09/rusda)
   > 对frida 的patch，产物可直接下载Release
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
+  > Modern Xposed Framework
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xjzhi/MPScan](https://github.com/xjzhi/MPScan)
   > MPScan 是一款为安全研究人员与开发者设计的 Windows GUI 一体化工具，专用于对微信小程序进行自动化安全审计。
@@ -37,9 +41,21 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sodnpoo/fernly](https://github.com/sodnpoo/fernly)
+  > Fernvale research OS
+
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [symgraph/IDAssist](https://github.com/symgraph/IDAssist) to [bkerler/IDAssist](https://github.com/bkerler/IDAssist)
+  > AI-Powered Reverse Engineering Plugin for IDA Pro
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [deepanshut041/Reinforcement-Learning](https://github.com/deepanshut041/Reinforcement-Learning)
+  > Implementations of Deep Reinforcement Learning Algorithms and Bench-marking with PyTorch
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [deepanshut041/Reinforcement-Learning](https://github.com/deepanshut041/Reinforcement-Learning) to [crazyguitar/Reinforcement-Learning-notebook](https://github.com/crazyguitar/Reinforcement-Learning-notebook)
+  > Implementations of Deep Reinforcement Learning Algorithms and Bench-marking with PyTorch
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [dream1986/nesrom](https://github.com/dream1986/nesrom)
@@ -48,6 +64,8 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
   > Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost ...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+  > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [mafik/actually-portable-vulkan](https://github.com/mafik/actually-portable-vulkan)
@@ -70,6 +88,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
   > GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -78,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-04-20 08:01:19 UTC*
+*最后更新于 2026-04-20 10:44:38 UTC*
 *历史记录保存在 `archive` 目录中。*
