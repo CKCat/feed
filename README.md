@@ -102,6 +102,14 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [asmjit/asmjit](https://github.com/asmjit/asmjit) to [es3n1n/asmjit](https://github.com/es3n1n/asmjit)
   > Low-latency machine code generation
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [teabound/rophi](https://github.com/teabound/rophi)
+  > Injecting code by recompiling shellcode into a ROP chain.
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [wyattferguson/chip8-emulator](https://github.com/wyattferguson/chip8-emulator)
+  > Chip-8 Emulator in Python
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
@@ -133,6 +141,12 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
+  > An analysis and static deobfuscation of codedefender.io protected samples. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [teabound/rophi](https://github.com/teabound/rophi)
+  > Injecting code by recompiling shellcode into a ROP chain.
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [AgentFlocks/flocks](https://github.com/AgentFlocks/flocks)
   > Flocks is an agentic SecOps platform.
@@ -154,5 +168,5 @@
 
 
 ---
-*最后更新于 2026-04-20 20:03:25 UTC*
+*最后更新于 2026-04-20 21:42:38 UTC*
 *历史记录保存在 `archive` 目录中。*
