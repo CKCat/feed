@@ -19,6 +19,10 @@
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [taisuii/rusda](https://github.com/taisuii/rusda)
   > 对frida 的patch，产物可直接下载Release
@@ -54,6 +58,12 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
+  > A library for mechanistic interpretability of GPT-style language models
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
 
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [symgraph/IDAssist](https://github.com/symgraph/IDAssist) to [bkerler/IDAssist](https://github.com/bkerler/IDAssist)
@@ -70,6 +80,14 @@
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [dream1986/nesrom](https://github.com/dream1986/nesrom)
   > nes游戏合集
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [asmjit/asmjit](https://github.com/asmjit/asmjit) to [es3n1n/asmjit](https://github.com/es3n1n/asmjit)
+  > Low-latency machine code generation
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
@@ -118,5 +136,5 @@
 
 
 ---
-*最后更新于 2026-04-20 12:01:09 UTC*
+*最后更新于 2026-04-20 14:46:06 UTC*
 *历史记录保存在 `archive` 目录中。*
