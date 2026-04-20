@@ -33,6 +33,12 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xjzhi/MPScan](https://github.com/xjzhi/MPScan)
   > MPScan 是一款为安全研究人员与开发者设计的 Windows GUI 一体化工具，专用于对微信小程序进行自动化安全审计。
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor)
+  > Aptio V UEFI Editor: an alternative to AMIBCP
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [LongSoft/IFRExtractor-RS](https://github.com/LongSoft/IFRExtractor-RS)
+  > Rust utility to extract UEFI IFR data into human-readable text
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
   > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
@@ -44,6 +50,10 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sodnpoo/fernly](https://github.com/sodnpoo/fernly)
   > Fernvale research OS
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [symgraph/IDAssist](https://github.com/symgraph/IDAssist) to [bkerler/IDAssist](https://github.com/bkerler/IDAssist)
@@ -67,6 +77,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [kenwheeler/brogrammer-theme](https://github.com/kenwheeler/brogrammer-theme)
+  > Brogrammer is a flat sexy Sublime Text theme. Pushups not included.
+
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [mafik/actually-portable-vulkan](https://github.com/mafik/actually-portable-vulkan)
   > Shipping games should be simple. One binary to show Vulkan window on all platforms.
@@ -74,6 +88,10 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [imputnet/cobalt](https://github.com/imputnet/cobalt)
   > best way to save what you love
+
+### [lc-soft](https://github.com/lc-soft)
+- 🍴 👤 [lc-soft](https://github.com/lc-soft) Forked [anomalyco/models.dev](https://github.com/anomalyco/models.dev) to [lc-soft/models.dev](https://github.com/lc-soft/models.dev)
+  > An open-source database of AI models.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -100,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-04-20 10:44:38 UTC*
+*最后更新于 2026-04-20 12:01:09 UTC*
 *历史记录保存在 `archive` 目录中。*
