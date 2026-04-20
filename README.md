@@ -62,6 +62,8 @@
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
   > A library for mechanistic interpretability of GPT-style language models
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)
+  > Examples in the MLX framework
 
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP)
@@ -150,5 +152,5 @@
 
 
 ---
-*最后更新于 2026-04-20 16:05:32 UTC*
+*最后更新于 2026-04-20 17:54:19 UTC*
 *历史记录保存在 `archive` 目录中。*
