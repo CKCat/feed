@@ -32,6 +32,8 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
   > Modern Xposed Framework
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
+  > (kpm) (for Android hackers)Hide your frida and debuggers
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xjzhi/MPScan](https://github.com/xjzhi/MPScan)
@@ -61,6 +63,12 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
   > A library for mechanistic interpretability of GPT-style language models
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP)
+  > An MCP extension for Ghidra
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
@@ -76,6 +84,10 @@
   > Implementations of Deep Reinforcement Learning Algorithms and Bench-marking with PyTorch
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [deepanshut041/Reinforcement-Learning](https://github.com/deepanshut041/Reinforcement-Learning) to [crazyguitar/Reinforcement-Learning-notebook](https://github.com/crazyguitar/Reinforcement-Learning-notebook)
   > Implementations of Deep Reinforcement Learning Algorithms and Bench-marking with PyTorch
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane)
+  > A Pure Rust based LLM, VLM, VLA, TTS, OCR Inference Engine, powering by Candle & Rust. Alternate to ...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane) to [crazyguitar/Crane](https://github.com/crazyguitar/Crane)
+  > A Pure Rust based LLM, VLM, VLA, TTS, OCR Inference Engine, powering by Candle & Rust. Alternate to ...
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [dream1986/nesrom](https://github.com/dream1986/nesrom)
@@ -98,6 +110,8 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [kenwheeler/brogrammer-theme](https://github.com/kenwheeler/brogrammer-theme)
   > Brogrammer is a flat sexy Sublime Text theme. Pushups not included.
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
+  > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
 
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [mafik/actually-portable-vulkan](https://github.com/mafik/actually-portable-vulkan)
@@ -136,5 +150,5 @@
 
 
 ---
-*最后更新于 2026-04-20 14:46:06 UTC*
+*最后更新于 2026-04-20 16:05:32 UTC*
 *历史记录保存在 `archive` 目录中。*
