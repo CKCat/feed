@@ -38,6 +38,8 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xjzhi/MPScan](https://github.com/xjzhi/MPScan)
   > MPScan 是一款为安全研究人员与开发者设计的 Windows GUI 一体化工具，专用于对微信小程序进行自动化安全审计。
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
+  > LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE...
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor)
@@ -56,6 +58,10 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sodnpoo/fernly](https://github.com/sodnpoo/fernly)
   > Fernvale research OS
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
+  > (kpm) (for Android hackers)Hide your frida and debuggers
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
@@ -123,6 +129,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [mafik/actually-portable-vulkan](https://github.com/mafik/actually-portable-vulkan)
   > Shipping games should be simple. One binary to show Vulkan window on all platforms.
@@ -168,5 +178,5 @@
 
 
 ---
-*最后更新于 2026-04-20 22:39:50 UTC*
+*最后更新于 2026-04-20 23:39:08 UTC*
 *历史记录保存在 `archive` 目录中。*
