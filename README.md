@@ -124,6 +124,12 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [TWRP-Test/android_se_omapi](https://github.com/TWRP-Test/android_se_omapi)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [TWRP-Test/android_se_omapi](https://github.com/TWRP-Test/android_se_omapi) to [sekaiacg/android_se_omapi](https://github.com/sekaiacg/android_se_omapi)
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use)
+  > 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [formulahendry/vscode-acp](https://github.com/formulahendry/vscode-acp)
+  > Agent Client Protocol client for VS Code — connect to any ACP-compatible AI coding agent (Claude, Co...
+
 ### [stong](https://github.com/stong)
 - 🍴 👤 [stong](https://github.com/stong) Forked [privacy-ethereum/sonobe](https://github.com/privacy-ethereum/sonobe) to [stong/sonobe](https://github.com/stong/sonobe)
   > Experimental folding schemes library
@@ -140,5 +146,5 @@
 
 
 ---
-*最后更新于 2026-04-21 21:41:19 UTC*
+*最后更新于 2026-04-21 22:35:29 UTC*
 *历史记录保存在 `archive` 目录中。*
