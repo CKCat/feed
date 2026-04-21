@@ -68,6 +68,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
   > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [spectrelang/spectre](https://github.com/spectrelang/spectre)
+  > Spectre programming language
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source voice synthesis studio
@@ -104,6 +108,10 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [TWRP-Test/android_se_omapi](https://github.com/TWRP-Test/android_se_omapi)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [TWRP-Test/android_se_omapi](https://github.com/TWRP-Test/android_se_omapi) to [sekaiacg/android_se_omapi](https://github.com/sekaiacg/android_se_omapi)
 
+### [stong](https://github.com/stong)
+- 🍴 👤 [stong](https://github.com/stong) Forked [privacy-ethereum/sonobe](https://github.com/privacy-ethereum/sonobe) to [stong/sonobe](https://github.com/stong/sonobe)
+  > Experimental folding schemes library
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [SymbioticSec/hermes-decomp](https://github.com/SymbioticSec/hermes-decomp)
   > A powerful decompiler that lets you reverse-engineer React Native mobile apps by converting their co...
@@ -116,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-04-21 17:59:00 UTC*
+*最后更新于 2026-04-21 19:21:59 UTC*
 *历史记录保存在 `archive` 目录中。*
