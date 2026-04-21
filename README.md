@@ -22,9 +22,17 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy)
   > Initial Access and Post-Exploitation Tool for Entra ID and M365 with a browser-based GUI
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [AEduardo-dev/flk](https://github.com/AEduardo-dev/flk)
+  > Flakes development environments management tool
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [kengz/awesome-deep-rl](https://github.com/kengz/awesome-deep-rl)
@@ -34,11 +42,19 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) to [crazyguitar/FinceptTerminal](https://github.com/crazyguitar/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)
+  > 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single...
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source voice synthesis studio
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA)
   > This is the official website for TuriX Computer-use-Agent
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
+  > Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lob...
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [unixshells/clone](https://github.com/unixshells/clone)
@@ -60,7 +76,11 @@
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [SymbioticSec/hermes-decomp](https://github.com/SymbioticSec/hermes-decomp) to [ys1231/hermes-decomp](https://github.com/ys1231/hermes-decomp)
   > A powerful decompiler that lets you reverse-engineer React Native mobile apps by converting their co...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [plainhub/plain-app](https://github.com/plainhub/plain-app)
+  > 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access...
+
 
 ---
-*最后更新于 2026-04-21 11:03:09 UTC*
+*最后更新于 2026-04-21 13:18:51 UTC*
 *历史记录保存在 `archive` 目录中。*
