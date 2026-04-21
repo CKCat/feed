@@ -55,6 +55,12 @@
   > A curated list of awesome Deep Reinforcement Learning resources.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) to [crazyguitar/FinceptTerminal](https://github.com/crazyguitar/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [crazyguitar/OpenMythos](https://github.com/crazyguitar/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
+  > LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)
@@ -110,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-04-21 16:56:53 UTC*
+*最后更新于 2026-04-21 17:59:00 UTC*
 *历史记录保存在 `archive` 目录中。*
