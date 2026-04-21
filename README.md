@@ -15,6 +15,8 @@
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
+  > Unlocking qualcomm bootloader
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [aospbooks/aosp-internal-book](https://github.com/aospbooks/aosp-internal-book)
@@ -35,6 +37,16 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
+  > LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [kmackay/micro-ecc](https://github.com/kmackay/micro-ecc)
+  > ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [PQClean/PQClean](https://github.com/PQClean/PQClean)
+  > Clean, portable, tested implementations of post-quantum cryptography
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [romainmarcoux/malicious-ip](https://github.com/romainmarcoux/malicious-ip)
+  > Aggregation of lists of malicious IP addresses, to be blocked in the WAN > LAN direction, integrated...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
@@ -124,5 +136,5 @@
 
 
 ---
-*最后更新于 2026-04-21 19:21:59 UTC*
+*最后更新于 2026-04-21 20:48:35 UTC*
 *历史记录保存在 `archive` 目录中。*
