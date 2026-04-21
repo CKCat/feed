@@ -52,6 +52,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
+  > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [AEduardo-dev/flk](https://github.com/AEduardo-dev/flk)
   > Flakes development environments management tool
@@ -136,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-04-21 20:48:35 UTC*
+*最后更新于 2026-04-21 21:41:19 UTC*
 *历史记录保存在 `archive` 目录中。*
