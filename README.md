@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xnobody](https://github.com/0xnobody)
+- 🌟 👤 [0xnobody](https://github.com/0xnobody) Starred [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
+  > HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [PumpkinDemo/android-poc-app-template](https://github.com/PumpkinDemo/android-poc-app-template)
   > Used for AI agents to generate PoC apps.
@@ -31,6 +35,10 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
+  > Unlocking qualcomm bootloader
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [AEduardo-dev/flk](https://github.com/AEduardo-dev/flk)
@@ -64,6 +72,14 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
   > Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lob...
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+  > Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+  > An open-source AI agent that lives in your terminal.
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [unixshells/clone](https://github.com/unixshells/clone)
   > Minimal VMM for multi-tenant dev shells and serverless
@@ -73,6 +89,10 @@
   > Stop prompting. Start specifying.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+
+### [scc-tw](https://github.com/scc-tw)
+- 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [scc-tw/llvm-project](https://github.com/scc-tw/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [TWRP-Test/android_se_omapi](https://github.com/TWRP-Test/android_se_omapi)
@@ -90,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-04-21 15:09:33 UTC*
+*最后更新于 2026-04-21 16:56:53 UTC*
 *历史记录保存在 `archive` 目录中。*
