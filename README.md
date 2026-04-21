@@ -12,6 +12,10 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [aospbooks/aosp-internal-book](https://github.com/aospbooks/aosp-internal-book)
+  > The book introduces the internal of AOSP
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
@@ -46,6 +50,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [TWRP-Test/android_se_omapi](https://github.com/TWRP-Test/android_se_omapi)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [TWRP-Test/android_se_omapi](https://github.com/TWRP-Test/android_se_omapi) to [sekaiacg/android_se_omapi](https://github.com/sekaiacg/android_se_omapi)
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [SymbioticSec/hermes-decomp](https://github.com/SymbioticSec/hermes-decomp)
   > A powerful decompiler that lets you reverse-engineer React Native mobile apps by converting their co...
@@ -54,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-04-21 09:21:59 UTC*
+*最后更新于 2026-04-21 11:03:09 UTC*
 *历史记录保存在 `archive` 目录中。*
