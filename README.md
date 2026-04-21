@@ -25,6 +25,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+  > Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just o...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
@@ -33,6 +35,10 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [AEduardo-dev/flk](https://github.com/AEduardo-dev/flk)
   > Flakes development environments management tool
+
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
+  > Unlocking qualcomm bootloader
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [kengz/awesome-deep-rl](https://github.com/kengz/awesome-deep-rl)
@@ -45,6 +51,8 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)
   > 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single...
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+  > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
@@ -82,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-04-21 13:18:51 UTC*
+*最后更新于 2026-04-21 15:09:33 UTC*
 *历史记录保存在 `archive` 目录中。*
