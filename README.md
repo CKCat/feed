@@ -12,6 +12,12 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+  > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy)
+  > Initial Access and Post-Exploitation Tool for Entra ID and M365 with a browser-based GUI
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
@@ -48,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-04-21 05:24:02 UTC*
+*最后更新于 2026-04-21 07:44:14 UTC*
 *历史记录保存在 `archive` 目录中。*
