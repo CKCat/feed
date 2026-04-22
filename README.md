@@ -11,6 +11,8 @@
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger)
   > Open-source AI-driven quantitative trading platform for crypto, stocks, and forex with backtesting, ...
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant)
@@ -68,11 +70,24 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [freemocap/freemocap](https://github.com/freemocap/freemocap)
   > Free Motion Capture for Everyone 💀✨
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [google-research/reasoning-bank](https://github.com/google-research/reasoning-bank)
+
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [metaist/cosmofy](https://github.com/metaist/cosmofy)
+  > Cosmopolitan Python Bundler
+
 ### [liangkangnan](https://github.com/liangkangnan)
 - 🌟 👤 [liangkangnan](https://github.com/liangkangnan) Starred [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe)
   > Firmware source and binaries for the RP2040-based Debug Probe accessory
 - 🍴 👤 [liangkangnan](https://github.com/liangkangnan) Forked [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) to [liangkangnan/debugprobe](https://github.com/liangkangnan/debugprobe)
   > Firmware source and binaries for the RP2040-based Debug Probe accessory
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
+  > Produce redistributable builds of Python
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [tomerfiliba-org/rpyc](https://github.com/tomerfiliba-org/rpyc)
+  > RPyC (Remote Python Call) - A transparent and symmetric RPC library for python
 
 ### [ys1231](https://github.com/ys1231)
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [zitoxxx/eCaptureBurp](https://github.com/zitoxxx/eCaptureBurp) to [ys1231/eCaptureBurp](https://github.com/ys1231/eCaptureBurp)
@@ -86,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-04-22 09:16:56 UTC*
+*最后更新于 2026-04-22 11:01:50 UTC*
 *历史记录保存在 `archive` 目录中。*
