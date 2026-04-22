@@ -24,6 +24,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [jimmy-park/openssl-cmake](https://github.com/jimmy-park/openssl-cmake) to [MegatronKing/openssl-cmake-build](https://github.com/MegatronKing/openssl-cmake-build)
+  > Build and integrate OpenSSL from CMake with parallel builds
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [cheatdeveloper73/modded-voyager](https://github.com/cheatdeveloper73/modded-voyager)
   > bypass to the p2c(s) that I have run over the past few months.
@@ -39,6 +43,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [brianluft/heirloom](https://github.com/brianluft/heirloom)
   > Heirloom apps — Modernized File Manager and Program Manager for Windows
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [scarsty/cifa](https://github.com/scarsty/cifa)
+  > 一个简易类C语法脚本
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [CPunch/Laika](https://github.com/CPunch/Laika)
@@ -48,6 +54,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
@@ -55,6 +65,14 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
   > Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [freemocap/freemocap](https://github.com/freemocap/freemocap)
+  > Free Motion Capture for Everyone 💀✨
+
+### [liangkangnan](https://github.com/liangkangnan)
+- 🌟 👤 [liangkangnan](https://github.com/liangkangnan) Starred [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe)
+  > Firmware source and binaries for the RP2040-based Debug Probe accessory
+- 🍴 👤 [liangkangnan](https://github.com/liangkangnan) Forked [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) to [liangkangnan/debugprobe](https://github.com/liangkangnan/debugprobe)
+  > Firmware source and binaries for the RP2040-based Debug Probe accessory
 
 ### [ys1231](https://github.com/ys1231)
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [zitoxxx/eCaptureBurp](https://github.com/zitoxxx/eCaptureBurp) to [ys1231/eCaptureBurp](https://github.com/ys1231/eCaptureBurp)
@@ -68,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-04-22 07:27:54 UTC*
+*最后更新于 2026-04-22 09:16:56 UTC*
 *历史记录保存在 `archive` 目录中。*
