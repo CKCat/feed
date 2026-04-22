@@ -20,6 +20,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
   > A lightweight, powerful framework for multi-agent workflows
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
+  > pierre’s open source code
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
   > A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cu...
@@ -148,5 +152,5 @@
 
 
 ---
-*最后更新于 2026-04-22 21:48:00 UTC*
+*最后更新于 2026-04-22 22:43:26 UTC*
 *历史记录保存在 `archive` 目录中。*
