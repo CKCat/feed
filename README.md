@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [19h](https://github.com/19h)
+- 🍴 👤 [19h](https://github.com/19h) Forked [cola-io/codex-acp](https://github.com/cola-io/codex-acp) to [19h/codex-acp](https://github.com/19h/codex-acp)
+  > An Agent Client Protocol (ACP)–compatible agent that bridges the OpenAI Codex runtime with ACP clien...
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
@@ -58,6 +62,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [WindowsNT351/CE-Collections](https://github.com/WindowsNT351/CE-Collections)
   > Collections of Windows CE images and Emulator
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
+  > A free, source-available and fair-code licensed mac app cleaner
+
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [CPunch/Laika](https://github.com/CPunch/Laika)
   > Cross-platform RAT, written in C
@@ -73,6 +81,10 @@
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement)
+  > 二创爆改，懒得提交给原仓库了
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Radarr/Radarr](https://github.com/Radarr/Radarr)
@@ -120,8 +132,10 @@
   > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pandaadir05/snoop](https://github.com/pandaadir05/snoop)
+  > A modern syscall tracer built on eBPF. Think strace, but with a real TUI, smart filters, TLS decrypt...
 
 
 ---
-*最后更新于 2026-04-22 15:09:46 UTC*
+*最后更新于 2026-04-22 16:58:32 UTC*
 *历史记录保存在 `archive` 目录中。*
