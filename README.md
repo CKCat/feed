@@ -82,6 +82,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+  > MCP Server for Ghidra
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
@@ -97,6 +101,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Radarr/Radarr](https://github.com/Radarr/Radarr)
   > Movie organizer/manager for usenet and torrent users.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [drhelius/Geargrafx](https://github.com/drhelius/Geargrafx)
+  > PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
@@ -152,5 +158,5 @@
 
 
 ---
-*最后更新于 2026-04-22 22:43:26 UTC*
+*最后更新于 2026-04-22 23:42:13 UTC*
 *历史记录保存在 `archive` 目录中。*
