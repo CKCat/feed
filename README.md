@@ -117,6 +117,13 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux)
   > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/JoyoseEdit](https://github.com/YuKongA/JoyoseEdit)
+
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [Burnt-o/CEER](https://github.com/Burnt-o/CEER)
+  > Halo CE Enemy Randomiser
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
   > Produce redistributable builds of Python
@@ -137,5 +144,5 @@
 
 
 ---
-*最后更新于 2026-04-22 18:03:29 UTC*
+*最后更新于 2026-04-22 20:02:22 UTC*
 *历史记录保存在 `archive` 目录中。*
