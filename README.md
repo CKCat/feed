@@ -16,6 +16,14 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
   > A lightweight, powerful framework for multi-agent workflows
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
+  > A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cu...
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [aospbooks/aosp-internal-book](https://github.com/aospbooks/aosp-internal-book)
+  > The book introduces the internal of AOSP
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
@@ -43,6 +51,12 @@
   > 一个简易类C语法脚本
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [WangNianyi2001/Fluid-Weiqi](https://github.com/WangNianyi2001/Fluid-Weiqi)
   > A Weiqi (Go) variant where the stones are fluid.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [bbbradsmith/binxelview](https://github.com/bbbradsmith/binxelview)
+  > Binxelview binary image explorer
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [WindowsNT351/shiftgbencoder](https://github.com/WindowsNT351/shiftgbencoder)
+  > ShiftGB to GB2312 encoder for IBM Multistation and NEC PC98
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [WindowsNT351/CE-Collections](https://github.com/WindowsNT351/CE-Collections)
+  > Collections of Windows CE images and Emulator
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [CPunch/Laika](https://github.com/CPunch/Laika)
@@ -59,6 +73,10 @@
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Radarr/Radarr](https://github.com/Radarr/Radarr)
+  > Movie organizer/manager for usenet and torrent users.
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
@@ -105,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-04-22 13:19:55 UTC*
+*最后更新于 2026-04-22 15:09:46 UTC*
 *历史记录保存在 `archive` 目录中。*
