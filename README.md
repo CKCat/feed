@@ -13,14 +13,8 @@
   > Open-source AI-driven quantitative trading platform for crypto, stocks, and forex with backtesting, ...
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
   > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant)
-  > 崩坏：星穹铁道全自动 三月七小助手
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Shasnow/StarRailAssistant](https://github.com/Shasnow/StarRailAssistant)
-  > 崩坏星穹铁道自动化助手，帮你完成从启动到退出的崩铁日常 | 多账号托管 | 货币战争自动化
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script)
-  > 现代Python游戏自动化框架(支持Windows/模拟器/浏览器)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+  > A lightweight, powerful framework for multi-agent workflows
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
@@ -47,6 +41,8 @@
   > Heirloom apps — Modernized File Manager and Program Manager for Windows
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [scarsty/cifa](https://github.com/scarsty/cifa)
   > 一个简易类C语法脚本
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [WangNianyi2001/Fluid-Weiqi](https://github.com/WangNianyi2001/Fluid-Weiqi)
+  > A Weiqi (Go) variant where the stones are fluid.
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [CPunch/Laika](https://github.com/CPunch/Laika)
@@ -83,6 +79,14 @@
 - 🍴 👤 [liangkangnan](https://github.com/liangkangnan) Forked [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) to [liangkangnan/debugprobe](https://github.com/liangkangnan/debugprobe)
   > Firmware source and binaries for the RP2040-based Debug Probe accessory
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
+  > MimIR is my Intermediate Representation
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux)
+  > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone)
   > Produce redistributable builds of Python
@@ -101,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-04-22 11:01:50 UTC*
+*最后更新于 2026-04-22 13:19:55 UTC*
 *历史记录保存在 `archive` 目录中。*
