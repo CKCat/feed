@@ -19,6 +19,12 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [msuhanov/dfir_ntfs](https://github.com/msuhanov/dfir_ntfs)
   > An NTFS/FAT parser for digital forensics & incident response
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [electron/asar](https://github.com/electron/asar)
+  > Simple extensive tar-like archive format with indexing
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [erictli/scratch](https://github.com/erictli/scratch)
+  > A minimalist, offline-first markdown note-taking app
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
@@ -29,6 +35,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [charliedream1/ai_quant_trade](https://github.com/charliedream1/ai_quant_trade)
   > 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘...
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
@@ -50,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-04-23 07:46:00 UTC*
+*最后更新于 2026-04-23 09:24:15 UTC*
 *历史记录保存在 `archive` 目录中。*
