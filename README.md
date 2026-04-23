@@ -10,6 +10,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
   > The Magic Mask for Android
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [slymax/zedokai](https://github.com/slymax/zedokai)
+  > a theme for Zed based on the Monokai Pro color scheme
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
@@ -43,6 +47,10 @@
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [erictli/scratch](https://github.com/erictli/scratch)
   > A minimalist, offline-first markdown note-taking app
+
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [dojoe/Twonkie](https://github.com/dojoe/Twonkie) to [bkerler/Twonkie](https://github.com/bkerler/Twonkie)
+  > A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mor...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
@@ -85,6 +93,8 @@
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [rustymagnet3000](https://github.com/rustymagnet3000)
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/cloudflare](https://github.com/rustymagnet3000/cloudflare)
@@ -106,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-04-23 19:03:03 UTC*
+*最后更新于 2026-04-23 20:48:37 UTC*
 *历史记录保存在 `archive` 目录中。*
