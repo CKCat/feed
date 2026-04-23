@@ -84,6 +84,10 @@
 - 🌟 👤 [j-hc](https://github.com/j-hc) Starred [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
   > A Rust port of shadowsocks
 
+### [mahaloz](https://github.com/mahaloz)
+- 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
@@ -95,6 +99,10 @@
   > Build and query a graph database representation of source code
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [notsnakesilent/VMPStatic](https://github.com/notsnakesilent/VMPStatic)
+  > A static VMProtect unpacker for PE files, supports VMProtect 1.x–3.x and rebuilding unpacked PE imag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-claude-plugins](https://github.com/HexRaysSA/ida-claude-plugins)
+  > IDA Claude Code Plugins
 
 ### [rustymagnet3000](https://github.com/rustymagnet3000)
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/cloudflare](https://github.com/rustymagnet3000/cloudflare)
@@ -116,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-04-23 22:40:03 UTC*
+*最后更新于 2026-04-23 23:41:28 UTC*
 *历史记录保存在 `archive` 目录中。*
