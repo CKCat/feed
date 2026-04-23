@@ -8,6 +8,12 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
+  > (kpm) (for Android hackers)Hide your frida and debuggers
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [apkunpacker/MagiskDetection](https://github.com/apkunpacker/MagiskDetection)
+  > Collection of Some Publically Available POC Apps to Detect Root/Magisk presence.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Loping151/TGDSign](https://github.com/Loping151/TGDSign)
   > 塔吉多（幻塔、异环）签到 for GSUID_CORE
@@ -48,6 +54,14 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go)
   > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
+  > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [XiaoTong6666/FuseFixer](https://github.com/XiaoTong6666/FuseFixer)
+  > （本模块属于仿制品）感谢5ec1cff佬提供的原型模块作为参考喵
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [SJTU-IPADS/SkVM](https://github.com/SJTU-IPADS/SkVM)
   > The Language Virtual Machine for Agent Skills
@@ -60,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-04-23 09:24:15 UTC*
+*最后更新于 2026-04-23 11:04:40 UTC*
 *历史记录保存在 `archive` 目录中。*
