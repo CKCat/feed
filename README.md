@@ -33,6 +33,12 @@
   > An NTFS/FAT parser for digital forensics & incident response
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [electron/asar](https://github.com/electron/asar)
   > Simple extensive tar-like archive format with indexing
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code)
+  > The Google Sans Code font family
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [erictli/scratch](https://github.com/erictli/scratch)
@@ -77,6 +83,8 @@
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
 
 ### [rustymagnet3000](https://github.com/rustymagnet3000)
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/cloudflare](https://github.com/rustymagnet3000/cloudflare)
@@ -98,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-04-23 15:49:39 UTC*
+*最后更新于 2026-04-23 17:16:25 UTC*
 *历史记录保存在 `archive` 目录中。*
