@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🍴 👤 [0xbinder](https://github.com/0xbinder) Forked [opa334/Dopamine](https://github.com/opa334/Dopamine) to [0xbinder/Dopamine](https://github.com/0xbinder/Dopamine)
+  > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+  > The Magic Mask for Android
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
@@ -54,9 +60,17 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go)
   > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single...
 
+### [j-hc](https://github.com/j-hc)
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [XTLS/Xray-install](https://github.com/XTLS/Xray-install)
+  > Easiest way to install & upgrade Xray
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+
+### [rustymagnet3000](https://github.com/rustymagnet3000)
+- 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/cloudflare](https://github.com/rustymagnet3000/cloudflare)
+  > Manage Cloudflare via Terraform.
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [XiaoTong6666/FuseFixer](https://github.com/XiaoTong6666/FuseFixer)
@@ -74,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-04-23 11:04:40 UTC*
+*最后更新于 2026-04-23 13:21:21 UTC*
 *历史记录保存在 `archive` 目录中。*
