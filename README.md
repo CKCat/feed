@@ -48,6 +48,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [charliedream1/ai_quant_trade](https://github.com/charliedream1/ai_quant_trade)
   > 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
+  > A collection of modern/faster/saner alternatives to common unix commands.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
@@ -63,10 +67,16 @@
 ### [j-hc](https://github.com/j-hc)
 - 🌟 👤 [j-hc](https://github.com/j-hc) Starred [XTLS/Xray-install](https://github.com/XTLS/Xray-install)
   > Easiest way to install & upgrade Xray
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  > A Rust port of shadowsocks
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) to [mrexodia/lucebox-hub](https://github.com/mrexodia/lucebox-hub)
+  > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
+  > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 
 ### [rustymagnet3000](https://github.com/rustymagnet3000)
 - 🌟 👤 [rustymagnet3000](https://github.com/rustymagnet3000) Starred [rustymagnet3000/cloudflare](https://github.com/rustymagnet3000/cloudflare)
@@ -74,7 +84,7 @@
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [XiaoTong6666/FuseFixer](https://github.com/XiaoTong6666/FuseFixer)
-  > （本模块属于仿制品）感谢5ec1cff佬提供的原型模块作为参考喵
+  > 想删库了，好烦
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [SJTU-IPADS/SkVM](https://github.com/SJTU-IPADS/SkVM)
@@ -88,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-04-23 13:21:21 UTC*
+*最后更新于 2026-04-23 15:49:39 UTC*
 *历史记录保存在 `archive` 目录中。*
