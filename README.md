@@ -20,6 +20,12 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [msuhanov/dfir_ntfs](https://github.com/msuhanov/dfir_ntfs)
   > An NTFS/FAT parser for digital forensics & incident response
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
+  > FlashKDA: high-performance Kimi Delta Attention kernels
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA) to [crazyguitar/FlashKDA](https://github.com/crazyguitar/FlashKDA)
+  > FlashKDA: high-performance Kimi Delta Attention kernels
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [charliedream1/ai_quant_trade](https://github.com/charliedream1/ai_quant_trade)
   > 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘...
@@ -29,6 +35,8 @@
   > Fast passive subdomain enumeration tool.
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
   > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and bu...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go)
+  > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [SJTU-IPADS/SkVM](https://github.com/SJTU-IPADS/SkVM)
@@ -42,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-04-23 05:26:40 UTC*
+*最后更新于 2026-04-23 07:46:00 UTC*
 *历史记录保存在 `archive` 目录中。*
