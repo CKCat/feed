@@ -49,8 +49,8 @@
   > CLI for Trading API
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser)
-  > Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of maskin...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [isaacbrodsky/duckdb-zipfs](https://github.com/isaacbrodsky/duckdb-zipfs) to [mrexodia/duckdb-zipfs](https://github.com/mrexodia/duckdb-zipfs)
+  > DuckDB extension to read files within zip archives.
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
@@ -70,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-04-24 13:16:40 UTC*
+*最后更新于 2026-04-24 15:05:09 UTC*
 *历史记录保存在 `archive` 目录中。*
