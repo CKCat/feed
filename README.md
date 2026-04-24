@@ -18,6 +18,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [MJx0/AndUEDumper](https://github.com/MJx0/AndUEDumper)
   > Android Unreal Engine Dumper Tool
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [harmoninux/Harmonix](https://github.com/harmoninux/Harmonix)
+  > A terminal for running Linux ELF binary on HarmonyOS PC.
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-04-24 07:57:59 UTC*
+*最后更新于 2026-04-24 09:48:00 UTC*
 *历史记录保存在 `archive` 目录中。*
