@@ -56,6 +56,9 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
   > ⚙️🦀 Build modular and scalable LLM Applications in Rust
 
+### [tacesrever](https://github.com/tacesrever)
+- 🌟 👤 [tacesrever](https://github.com/tacesrever) Starred [chrishayuk/larql](https://github.com/chrishayuk/larql)
+
 ### [wrlu](https://github.com/wrlu)
 - 🌟 👤 [wrlu](https://github.com/wrlu) Starred [wrlu/jebmcp](https://github.com/wrlu/jebmcp)
 
@@ -67,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-04-24 11:03:33 UTC*
+*最后更新于 2026-04-24 13:16:40 UTC*
 *历史记录保存在 `archive` 目录中。*
