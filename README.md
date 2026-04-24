@@ -22,6 +22,13 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [harmoninux/Harmonix](https://github.com/harmoninux/Harmonix)
   > A terminal for running Linux ELF binary on HarmonyOS PC.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [tesgth032/mailapi](https://github.com/tesgth032/mailapi)
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
@@ -33,6 +40,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
   > 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
@@ -47,10 +58,6 @@
 ### [jart](https://github.com/jart)
 - 🍴 👤 [jart](https://github.com/jart) Forked [alpacahq/cli](https://github.com/alpacahq/cli) to [jart/cli](https://github.com/jart/cli)
   > CLI for Trading API
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [isaacbrodsky/duckdb-zipfs](https://github.com/isaacbrodsky/duckdb-zipfs) to [mrexodia/duckdb-zipfs](https://github.com/mrexodia/duckdb-zipfs)
-  > DuckDB extension to read files within zip archives.
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
@@ -70,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-04-24 15:05:09 UTC*
+*最后更新于 2026-04-24 16:52:12 UTC*
 *历史记录保存在 `archive` 目录中。*
