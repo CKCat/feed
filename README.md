@@ -48,6 +48,10 @@
 - 🍴 👤 [jart](https://github.com/jart) Forked [alpacahq/cli](https://github.com/alpacahq/cli) to [jart/cli](https://github.com/jart/cli)
   > CLI for Trading API
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser)
+  > Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of maskin...
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
   > ⚙️🦀 Build modular and scalable LLM Applications in Rust
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-04-24 09:48:00 UTC*
+*最后更新于 2026-04-24 11:03:33 UTC*
 *历史记录保存在 `archive` 目录中。*
