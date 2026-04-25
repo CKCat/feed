@@ -7,6 +7,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+  > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [magiblot/tvision](https://github.com/magiblot/tvision)
   > A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross...
@@ -25,5 +29,5 @@
 
 
 ---
-*最后更新于 2026-04-25 09:49:34 UTC*
+*最后更新于 2026-04-25 10:39:51 UTC*
 *历史记录保存在 `archive` 目录中。*
