@@ -4,12 +4,20 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+  > This is the Rust course used by the Android team at Google. It provides you the material to quickly ...
+
 ### [KaisenAmin](https://github.com/KaisenAmin)
 - 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [python/cpython](https://github.com/python/cpython)
   > The Python programming language
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [containerd/nerdctl](https://github.com/containerd/nerdctl)
+  > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
@@ -32,6 +40,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview)
   > Hosts a local server in your workspace for you to preview your webpages. 
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
+  > A research prototype of a human-centered web agent
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
@@ -39,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-04-25 14:03:11 UTC*
+*最后更新于 2026-04-25 15:36:48 UTC*
 *历史记录保存在 `archive` 目录中。*
