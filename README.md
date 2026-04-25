@@ -23,6 +23,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [containerd/nerdctl](https://github.com/containerd/nerdctl)
   > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) to [chenxiaolong/MediaInfo](https://github.com/chenxiaolong/MediaInfo)
+  > Convenient unified display of the most relevant technical and tag data for video and audio files.
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
   > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-04-25 22:33:10 UTC*
+*最后更新于 2026-04-25 23:34:12 UTC*
 *历史记录保存在 `archive` 目录中。*
