@@ -29,11 +29,15 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview)
+  > Hosts a local server in your workspace for you to preview your webpages. 
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 
 ---
-*最后更新于 2026-04-25 12:57:20 UTC*
+*最后更新于 2026-04-25 14:03:11 UTC*
 *历史记录保存在 `archive` 目录中。*
