@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KaisenAmin](https://github.com/KaisenAmin)
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [python/cpython](https://github.com/python/cpython)
+  > The Python programming language
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
@@ -22,6 +26,8 @@
   > A small, powerful, open-source CLI coding agent that works with open models.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zblurx/dploot](https://github.com/zblurx/dploot)
   > DPAPI looting remotely and locally in Python
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
@@ -29,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-04-25 10:39:51 UTC*
+*最后更新于 2026-04-25 11:35:35 UTC*
 *历史记录保存在 `archive` 目录中。*
