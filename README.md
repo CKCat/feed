@@ -15,6 +15,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [containerd/nerdctl](https://github.com/containerd/nerdctl)
   > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-04-25 15:36:48 UTC*
+*最后更新于 2026-04-25 16:37:21 UTC*
 *历史记录保存在 `archive` 目录中。*
