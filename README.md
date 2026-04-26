@@ -11,6 +11,8 @@
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock)
   > 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在...
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
@@ -53,6 +55,10 @@
   > Lossless abliteration of Qwen3.6-27B with NVFP4 hardware quantization for DGX Spark / Blackwell. BF1...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [AEON-7/Qwen3.6-NVFP4-DFlash](https://github.com/AEON-7/Qwen3.6-NVFP4-DFlash)
   > Qwen3.6-35B-A3B-heretic NVFP4 + DFlash speculative decoding on DGX Spark (GB10/sm_121a). Source-buil...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [epinna/tplmap](https://github.com/epinna/tplmap)
+  > Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [vladko312/SSTImap](https://github.com/vladko312/SSTImap)
+  > Automatic SSTI detection tool with interactive interface
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
@@ -68,10 +74,24 @@
   > A tiny educational decompiler that helps people understand how decompilation works.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) to [mrexodia/python-github-backup](https://github.com/mrexodia/python-github-backup)
   > backup a github user or organization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/pi-draw](https://github.com/mitsuhiko/pi-draw)
+  > For when you want to draw something for the clanker
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IgorWarzocha/pi-auto-reasoning-tool](https://github.com/IgorWarzocha/pi-auto-reasoning-tool)
+  > A tool that allows the agent to change its reasoning levels.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
+  > 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)
+  > open-source healthcare ai
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
+  > Tools for merging pretrained large language models.
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [nasuiyile/cache-cat](https://github.com/nasuiyile/cache-cat)
   >  A high-performance, highly available, and strongly consistent cache library
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [clashv2ray-hub/clashfree](https://github.com/clashv2ray-hub/clashfree)
+  > clash节点、免费clash节点、最新clash免费节点订阅地址、clash免费节点每日更新、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Wind...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [lakehq/sail](https://github.com/lakehq/sail)
@@ -79,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-04-26 14:06:30 UTC*
+*最后更新于 2026-04-26 15:38:45 UTC*
 *历史记录保存在 `archive` 目录中。*
