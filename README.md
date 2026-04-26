@@ -34,6 +34,15 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [state-spaces/mamba](https://github.com/state-spaces/mamba) to [crazyguitar/mamba](https://github.com/crazyguitar/mamba)
   > Mamba SSM architecture
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
+  > Interactive web dashboard to monitor and analyze your coding agent API costs.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-27b-single-3090](https://github.com/noonghunna/qwen36-27b-single-3090)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-dual-3090](https://github.com/noonghunna/qwen36-dual-3090)
+  > Qwen3.6-27B on dual RTX 3090 — TP=2 recipe, vLLM nightly, MTP + fp8 KV, validated for concurrent ser...
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [nasuiyile/cache-cat](https://github.com/nasuiyile/cache-cat)
   >  A high-performance, highly available, and strongly consistent cache library
@@ -44,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-04-26 08:56:43 UTC*
+*最后更新于 2026-04-26 09:53:51 UTC*
 *历史记录保存在 `archive` 目录中。*
