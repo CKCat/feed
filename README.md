@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
+  > [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最...
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock)
   > 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在...
@@ -20,6 +24,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ArthurHeymans/rflasher](https://github.com/ArthurHeymans/rflasher)
   > Blazing fast SPI NOR flash programming
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [thClaws/thClaws](https://github.com/thClaws/thClaws)
+  > Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign...
+
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [arajay/7d2d](https://github.com/arajay/7d2d)
   > 7 Days to Die: Mod Collection and Custom Modlets
@@ -33,6 +41,10 @@
   > Mamba SSM architecture
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [state-spaces/mamba](https://github.com/state-spaces/mamba) to [crazyguitar/mamba](https://github.com/crazyguitar/mamba)
   > Mamba SSM architecture
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash)
+  > Lossless abliteration of Qwen3.6-27B with NVFP4 hardware quantization for DGX Spark / Blackwell. BF1...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
@@ -57,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-04-26 11:36:37 UTC*
+*最后更新于 2026-04-26 12:59:37 UTC*
 *历史记录保存在 `archive` 目录中。*
