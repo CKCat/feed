@@ -37,6 +37,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
   > Interactive web dashboard to monitor and analyze your coding agent API costs.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-27b-single-3090](https://github.com/noonghunna/qwen36-27b-single-3090)
@@ -55,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-04-26 10:42:01 UTC*
+*最后更新于 2026-04-26 11:36:37 UTC*
 *历史记录保存在 `archive` 目录中。*
