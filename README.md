@@ -8,9 +8,17 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock)
   > 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
 ### [MlgmXyysd](https://github.com/MlgmXyysd)
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [tltangliang/open-HAT-PCIe](https://github.com/tltangliang/open-HAT-PCIe)
   > A boring board, converting the Pi's PCIe HAT into a PCIe x1 card. 
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ArthurHeymans/rflasher](https://github.com/ArthurHeymans/rflasher)
+  > Blazing fast SPI NOR flash programming
 
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [arajay/7d2d](https://github.com/arajay/7d2d)
@@ -36,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-04-26 07:24:15 UTC*
+*最后更新于 2026-04-26 08:56:43 UTC*
 *历史记录保存在 `archive` 目录中。*
