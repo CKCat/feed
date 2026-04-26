@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock)
+  > 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在...
+
+### [MlgmXyysd](https://github.com/MlgmXyysd)
+- 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [tltangliang/open-HAT-PCIe](https://github.com/tltangliang/open-HAT-PCIe)
+  > A boring board, converting the Pi's PCIe HAT into a PCIe x1 card. 
+
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [arajay/7d2d](https://github.com/arajay/7d2d)
   > 7 Days to Die: Mod Collection and Custom Modlets
@@ -13,6 +21,14 @@
   > Lossless DFlash speculative decoding for MLX on Apple Silicon
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [bstnxbt/dflash-mlx](https://github.com/bstnxbt/dflash-mlx) to [crazyguitar/dflash-mlx](https://github.com/crazyguitar/dflash-mlx)
   > Lossless DFlash speculative decoding for MLX on Apple Silicon
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [state-spaces/mamba](https://github.com/state-spaces/mamba)
+  > Mamba SSM architecture
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [state-spaces/mamba](https://github.com/state-spaces/mamba) to [crazyguitar/mamba](https://github.com/crazyguitar/mamba)
+  > Mamba SSM architecture
+
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [nasuiyile/cache-cat](https://github.com/nasuiyile/cache-cat)
+  >  A high-performance, highly available, and strongly consistent cache library
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [lakehq/sail](https://github.com/lakehq/sail)
@@ -20,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-04-26 05:35:48 UTC*
+*最后更新于 2026-04-26 07:24:15 UTC*
 *历史记录保存在 `archive` 目录中。*
