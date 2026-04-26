@@ -42,6 +42,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-27b-single-3090](https://github.com/noonghunna/qwen36-27b-single-3090)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-dual-3090](https://github.com/noonghunna/qwen36-dual-3090)
   > Qwen3.6-27B on dual RTX 3090 — TP=2 recipe, vLLM nightly, MTP + fp8 KV, validated for concurrent ser...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [nasuiyile/cache-cat](https://github.com/nasuiyile/cache-cat)
@@ -53,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-04-26 09:53:51 UTC*
+*最后更新于 2026-04-26 10:42:01 UTC*
 *历史记录保存在 `archive` 目录中。*
