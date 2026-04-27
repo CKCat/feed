@@ -67,10 +67,16 @@
   > A kernel library written in tilelang
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)
+  > Implement a reasoning LLM in PyTorch from scratch, step by step
 
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)
   > HTML5 video speed controller (for Google Chrome)
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/arm64_kernel_hook](https://github.com/niqiuqiux/arm64_kernel_hook)
+  > arm64 kernel inline hook form KernelPatch
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [BoredDevNL/BoredOS](https://github.com/BoredDevNL/BoredOS)
@@ -146,5 +152,5 @@
 
 
 ---
-*最后更新于 2026-04-27 21:58:02 UTC*
+*最后更新于 2026-04-27 22:56:22 UTC*
 *历史记录保存在 `archive` 目录中。*
