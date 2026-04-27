@@ -18,6 +18,12 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine)
+  > A mobile security risk control solution including an SDK and a management platform.
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine) to [KuNgia09/RiskEngine](https://github.com/KuNgia09/RiskEngine)
+  > A mobile security risk control solution including an SDK and a management platform.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [weolar/minielectron](https://github.com/weolar/minielectron)
   > A lightweight version of the cross-platform development framework Electron, compatible with all usag...
@@ -37,6 +43,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Goochbeater/ENI-Hooks-for-Claude-Code](https://github.com/Goochbeater/ENI-Hooks-for-Claude-Code)
   > Kings game
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
@@ -103,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-04-27 13:45:22 UTC*
+*最后更新于 2026-04-27 15:44:04 UTC*
 *历史记录保存在 `archive` 目录中。*
