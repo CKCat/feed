@@ -7,6 +7,12 @@
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills)
   > A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill)
+  >   用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+  > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+  > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
@@ -25,6 +31,8 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [marin-m/vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf)
   > A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol ta...
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [nccgroup/umap](https://github.com/nccgroup/umap)
+  > The USB host security assessment tool
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
@@ -47,6 +55,19 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+  > A powerful little TUI framework 🏗
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s-arash/ascent](https://github.com/s-arash/ascent)
+  > Logic programming in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sherif-fanous/pi-rtk](https://github.com/sherif-fanous/pi-rtk)
+  > Pi coding agent extension that routes bash commands through rtk for LLM token savings.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf)
+  > Convert Nintendo Switch executable files to ELFs
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [JiaboLi-GitHub/renderdoc-mcp](https://github.com/JiaboLi-GitHub/renderdoc-mcp)
@@ -60,6 +81,10 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Thoxy67/zig-pe](https://github.com/Thoxy67/zig-pe)
   > Reflective PE loader written in Zig. Loads and executes native and .NET PE files directly from memor...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local)
+  > Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 t...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -68,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-04-27 08:17:43 UTC*
+*最后更新于 2026-04-27 11:00:30 UTC*
 *历史记录保存在 `archive` 目录中。*
