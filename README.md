@@ -58,6 +58,10 @@
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)
   > HTML5 video speed controller (for Google Chrome)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [BoredDevNL/BoredOS](https://github.com/BoredDevNL/BoredOS)
+  > A modern x86_64 hobbyist operating system built from the ground up.
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
   > A tiny educational decompiler that helps people understand how decompilation works.
@@ -113,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-04-27 15:44:04 UTC*
+*最后更新于 2026-04-27 17:18:38 UTC*
 *历史记录保存在 `archive` 目录中。*
