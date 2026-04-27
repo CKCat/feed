@@ -14,6 +14,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
@@ -39,6 +43,8 @@
   > A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol ta...
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [nccgroup/umap](https://github.com/nccgroup/umap)
   > The USB host security assessment tool
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [qualcomm/minkipc](https://github.com/qualcomm/minkipc)
+  > Libraries that implement and clients that utilize the Mink-IPC interface
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Goochbeater/ENI-Hooks-for-Claude-Code](https://github.com/Goochbeater/ENI-Hooks-for-Claude-Code)
@@ -53,6 +59,14 @@
   > Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [LigphiDonk/academic-figure-generator](https://github.com/LigphiDonk/academic-figure-generator)
   > AI 驱动的学术论文配图生成平台。上传论文 → AI 分析内容生成 Prompt → 一键生成高质量科研配图，还有配套的skill可在主流agent中使用
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [drhelius/Gearcoleco](https://github.com/drhelius/Gearcoleco)
+  > ColecoVision emulator and debugger for macOS, Windows, Linux, BSD and RetroArch.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)
+  > A kernel library written in tilelang
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+  >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)
@@ -76,6 +90,14 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
   > A powerful little TUI framework 🏗
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Hanqaqa/Easyduino](https://github.com/Hanqaqa/Easyduino)
+  > Easily dive into different PCB KiCad designs of the most popular microcontroller devboards
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s-arash/ascent](https://github.com/s-arash/ascent)
@@ -88,6 +110,8 @@
   > Convert Nintendo Switch executable files to ELFs
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/binsync](https://github.com/binsync/binsync) to [mrexodia/binsync](https://github.com/mrexodia/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [JiaboLi-GitHub/renderdoc-mcp](https://github.com/JiaboLi-GitHub/renderdoc-mcp)
@@ -96,6 +120,11 @@
 ### [romainthomas](https://github.com/romainthomas)
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [pypa/manylinux](https://github.com/pypa/manylinux)
   > Python wheels that work on any linux (almost)
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [sekaiacg/Duck-Detector-Refactoring](https://github.com/sekaiacg/Duck-Detector-Refactoring)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/Duck-Detector-Refactoring](https://github.com/sekaiacg/Duck-Detector-Refactoring)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
@@ -117,5 +146,5 @@
 
 
 ---
-*最后更新于 2026-04-27 17:18:38 UTC*
+*最后更新于 2026-04-27 19:14:39 UTC*
 *历史记录保存在 `archive` 目录中。*
