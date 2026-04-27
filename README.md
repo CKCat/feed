@@ -34,6 +34,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [nccgroup/umap](https://github.com/nccgroup/umap)
   > The USB host security assessment tool
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Goochbeater/ENI-Hooks-for-Claude-Code](https://github.com/Goochbeater/ENI-Hooks-for-Claude-Code)
+  > Kings game
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
   > Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
@@ -68,10 +72,16 @@
   > Pi coding agent extension that routes bash commands through rtk for LLM token savings.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf)
   > Convert Nintendo Switch executable files to ELFs
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/binsync](https://github.com/binsync/binsync) to [mrexodia/binsync](https://github.com/mrexodia/binsync)
+  > A reversing plugin for cross-decompiler collaboration, built on git. 
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [JiaboLi-GitHub/renderdoc-mcp](https://github.com/JiaboLi-GitHub/renderdoc-mcp)
   > An MCP server for RenderDoc: Empowering AI assistants to analyze GPU frame captures and debug graphi...
+
+### [romainthomas](https://github.com/romainthomas)
+- 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [pypa/manylinux](https://github.com/pypa/manylinux)
+  > Python wheels that work on any linux (almost)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
@@ -93,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-04-27 11:00:30 UTC*
+*最后更新于 2026-04-27 13:45:22 UTC*
 *历史记录保存在 `archive` 目录中。*
