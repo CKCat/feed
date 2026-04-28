@@ -56,6 +56,10 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [torvalds/linux](https://github.com/torvalds/linux)
   > Linux kernel source tree
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [siderolabs/talos](https://github.com/siderolabs/talos)
+  > Talos Linux is a modern Linux distribution built for Kubernetes.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
   > Create real electronics with Typescript and React
@@ -68,6 +72,9 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eshard/TTA-CTF](https://github.com/eshard/TTA-CTF)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/libbs](https://github.com/binsync/libbs) to [mrexodia/libbs](https://github.com/mrexodia/libbs)
+  > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
 
 ### [reveny](https://github.com/reveny)
 - 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Habit-Tracker](https://github.com/reveny/Android-Habit-Tracker) public
@@ -97,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-04-28 13:57:05 UTC*
+*最后更新于 2026-04-28 16:07:04 UTC*
 *历史记录保存在 `archive` 目录中。*
