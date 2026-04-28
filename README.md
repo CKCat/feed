@@ -50,6 +50,10 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [ayyucedemirbas/Windows-Research-Kernel-WRK-](https://github.com/ayyucedemirbas/Windows-Research-Kernel-WRK-)
   > Windows Research Kernel Source Code
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bkerler/AMIE](https://github.com/bkerler/AMIE)
+  > A Minimalist Instruction Extender for the ARM architecture and IDA Pro
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -102,6 +106,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [yhirose](https://github.com/yhirose)
+- 🍴 👤 [yhirose](https://github.com/yhirose) Forked [onetrueawk/awk](https://github.com/onetrueawk/awk) to [yhirose/awk](https://github.com/yhirose/awk)
+  > One true awk
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [TracerQi/openperfetto](https://github.com/TracerQi/openperfetto)
   > Perfetto + AI Agent sidebar - Implementing Trace Automated Analysis
@@ -122,5 +130,5 @@
 
 
 ---
-*最后更新于 2026-04-28 20:12:46 UTC*
+*最后更新于 2026-04-28 21:54:05 UTC*
 *历史记录保存在 `archive` 目录中。*
