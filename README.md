@@ -11,6 +11,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
   > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+
 ### [AlienwareHe](https://github.com/AlienwareHe)
 - 🌟 👤 [AlienwareHe](https://github.com/AlienwareHe) Starred [waterkokoro/eval-dominator](https://github.com/waterkokoro/eval-dominator)
   > 基于OpenCompass的可视化评测系统。Visual Evaluation System Based on OpenCompass
@@ -32,6 +36,10 @@
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [berabuddies/agentflow](https://github.com/berabuddies/agentflow)
   > Orchestrate thousands of agents and harnesses as a graph programatically
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
@@ -59,6 +67,10 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [siderolabs/talos](https://github.com/siderolabs/talos)
   > Talos Linux is a modern Linux distribution built for Kubernetes.
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+  > Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 language...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
@@ -104,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-04-28 16:07:04 UTC*
+*最后更新于 2026-04-28 18:14:50 UTC*
 *历史记录保存在 `archive` 目录中。*
