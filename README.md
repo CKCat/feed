@@ -97,6 +97,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eshard/TTA-CTF](https://github.com/eshard/TTA-CTF)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/libbs](https://github.com/binsync/libbs) to [mrexodia/libbs](https://github.com/mrexodia/libbs)
   > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/llvmkit](https://github.com/r3bb1t/llvmkit)
 
 ### [reveny](https://github.com/reveny)
 - 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Habit-Tracker](https://github.com/reveny/Android-Habit-Tracker) public
@@ -130,5 +131,5 @@
 
 
 ---
-*最后更新于 2026-04-28 21:54:05 UTC*
+*最后更新于 2026-04-28 22:54:09 UTC*
 *历史记录保存在 `archive` 目录中。*
