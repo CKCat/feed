@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
+  > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
+
 ### [AlienwareHe](https://github.com/AlienwareHe)
 - 🌟 👤 [AlienwareHe](https://github.com/AlienwareHe) Starred [waterkokoro/eval-dominator](https://github.com/waterkokoro/eval-dominator)
   > 基于OpenCompass的可视化评测系统。Visual Evaluation System Based on OpenCompass
@@ -11,6 +15,10 @@
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [zhuyansen/agent-skills-hub](https://github.com/zhuyansen/agent-skills-hub)
   > Discover and compare open-source Agent Skills, tools & MCP servers — with quality scoring, trending ...
+
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [berabuddies/agentflow](https://github.com/berabuddies/agentflow)
+  > Orchestrate thousands of agents and harnesses as a graph programatically
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
@@ -43,6 +51,13 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
   > Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
+
+### [reveny](https://github.com/reveny)
+- 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Habit-Tracker](https://github.com/reveny/Android-Habit-Tracker) public
+  > A minimalist Android habit tracker app
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [TracerQi/openperfetto](https://github.com/TracerQi/openperfetto)
   > Perfetto + AI Agent sidebar - Implementing Trace Automated Analysis
@@ -57,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-04-28 08:24:37 UTC*
+*最后更新于 2026-04-28 11:01:57 UTC*
 *历史记录保存在 `archive` 目录中。*
