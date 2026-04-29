@@ -90,6 +90,9 @@
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA)
   > high-performance linear attention kernel library built on TileLang
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim)
+  > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament)
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -113,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-04-29 19:19:57 UTC*
+*最后更新于 2026-04-29 21:00:38 UTC*
 *历史记录保存在 `archive` 目录中。*
