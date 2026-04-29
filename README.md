@@ -93,6 +93,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim)
   > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marizperoj/mps-talkie](https://github.com/marizperoj/mps-talkie)
+  > Apple MPS-only inference for Talkie 13B
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -116,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-04-29 21:00:38 UTC*
+*最后更新于 2026-04-29 22:53:16 UTC*
 *历史记录保存在 `archive` 目录中。*
