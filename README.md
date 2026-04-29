@@ -41,6 +41,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [idlesauce/umtx2](https://github.com/idlesauce/umtx2)
   > A webkit-based kernel exploit and jailbreak for PS5
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
   > Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...
@@ -56,6 +60,12 @@
   > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [openai/symphony](https://github.com/openai/symphony) to [crazyguitar/symphony](https://github.com/crazyguitar/symphony)
   > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [google-deepmind/dqn](https://github.com/google-deepmind/dqn)
+  > Lua/Torch implementation of DQN (Nature, 2015)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [google-deepmind/dqn](https://github.com/google-deepmind/dqn) to [crazyguitar/dqn](https://github.com/crazyguitar/dqn)
+  > Lua/Torch implementation of DQN (Nature, 2015)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [carlovalenti/TRiP](https://github.com/carlovalenti/TRiP)
@@ -103,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-04-29 17:24:58 UTC*
+*最后更新于 2026-04-29 19:19:57 UTC*
 *历史记录保存在 `archive` 目录中。*
