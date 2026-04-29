@@ -29,6 +29,8 @@
   > A repository containing many free shaders to use with ghostty (the terminal)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [rose-pine/wallpapers](https://github.com/rose-pine/wallpapers)
   > Soho vibes for Wallpapers
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jasonlong/ghostty-theme-icons](https://github.com/jasonlong/ghostty-theme-icons)
+  > Ghostty icons based on popular terminal colorschemes
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Textualize/rich](https://github.com/Textualize/rich)
@@ -43,6 +45,10 @@
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
   > Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
+  > Linux payload implementing the HV exploit and a custom bootloader
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/srt-slurm](https://github.com/NVIDIA/srt-slurm)
   > NVIDIA Inference Benchmarks provide recipes in ready-to-use templates for evaluating platform speed....
@@ -54,6 +60,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [carlovalenti/TRiP](https://github.com/carlovalenti/TRiP)
   > A complete transformer engine in C — inference, training, chat, vision.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [hchenqi/ViewDesign](https://github.com/hchenqi/ViewDesign)
+  > A C++ GUI library
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools)
@@ -70,6 +78,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA)
+  > high-performance linear attention kernel library built on TileLang
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -88,8 +98,10 @@
   > Manage sandboxed parallel claude code sessions on git worktrees
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)
   > A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary process...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pnpm/pacquet](https://github.com/pnpm/pacquet)
+  > The official pnpm rewrite in Rust
 
 
 ---
-*最后更新于 2026-04-29 15:09:46 UTC*
+*最后更新于 2026-04-29 17:24:58 UTC*
 *历史记录保存在 `archive` 目录中。*
