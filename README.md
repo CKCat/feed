@@ -24,6 +24,12 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [lqs/retrotick](https://github.com/lqs/retrotick)
   > 💾 Run .exe in browser — x86/ARM emulator with reimplemented Win32/WinCE/Win16/DOS APIs in pure TypeS...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders)
+  > A repository containing many free shaders to use with ghostty (the terminal)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [rose-pine/wallpapers](https://github.com/rose-pine/wallpapers)
+  > Soho vibes for Wallpapers
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Textualize/rich](https://github.com/Textualize/rich)
   > Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -85,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-04-29 12:14:59 UTC*
+*最后更新于 2026-04-29 15:09:46 UTC*
 *历史记录保存在 `archive` 目录中。*
