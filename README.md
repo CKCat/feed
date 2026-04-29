@@ -28,6 +28,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Textualize/rich](https://github.com/Textualize/rich)
   > Rich is a Python library for rich text and beautiful formatting in the terminal.
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [leveldown-security/SVD-Loader-Ghidra](https://github.com/leveldown-security/SVD-Loader-Ghidra)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
+  > Linux payload implementing the HV exploit and a custom bootloader
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [idlesauce/umtx2](https://github.com/idlesauce/umtx2)
+  > A webkit-based kernel exploit and jailbreak for PS5
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
@@ -41,9 +45,21 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [openai/symphony](https://github.com/openai/symphony) to [crazyguitar/symphony](https://github.com/crazyguitar/symphony)
   > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [carlovalenti/TRiP](https://github.com/carlovalenti/TRiP)
+  > A complete transformer engine in C — inference, training, chat, vision.
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools)
+  > 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SeraphimSerapis/vllm-tune](https://github.com/SeraphimSerapis/vllm-tune)
   > vLLM Tune consolidates MoE and FP8 dense GEMM kernel tuning into a single command
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [westfox-5/GhidraMetrics](https://github.com/westfox-5/GhidraMetrics)
+  > A Ghidra plugin for native code metrics
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
@@ -69,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-04-29 10:52:44 UTC*
+*最后更新于 2026-04-29 12:14:59 UTC*
 *历史记录保存在 `archive` 目录中。*
