@@ -55,6 +55,8 @@
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [RaphaelIT7/VPhysics-Jolt](https://github.com/RaphaelIT7/VPhysics-Jolt) to [ZehMatt/VPhysics-Jolt](https://github.com/ZehMatt/VPhysics-Jolt)
   > Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [RaphaelIT7/mini-source-sdk](https://github.com/RaphaelIT7/mini-source-sdk) to [ZehMatt/mini-source-sdk](https://github.com/ZehMatt/mini-source-sdk)
+  > A minified version of Source SDK with support for VS 2022
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [chainer/chainerrl](https://github.com/chainer/chainerrl)
@@ -68,6 +70,8 @@
   > CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take s...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)
   > Autonomous Hacking Agent for Red Team
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Plaaasma/FlashQLA-Blackwell](https://github.com/Plaaasma/FlashQLA-Blackwell)
+  > FlashQLA TileLang GDN kernels ported to NVIDIA Blackwell consumer (GB10 / DGX Spark)
 
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [calvinbeighle/revblc](https://github.com/calvinbeighle/revblc)
@@ -89,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-04-30 15:06:06 UTC*
+*最后更新于 2026-04-30 17:16:55 UTC*
 *历史记录保存在 `archive` 目录中。*
