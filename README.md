@@ -47,6 +47,8 @@
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Comprehensive-Wall28/Nvidia-Fedora-Guide](https://github.com/Comprehensive-Wall28/Nvidia-Fedora-Guide)
+  > A complete guide on getting Nvidia's Proprietary drivers for Fedora desktops (Workstation, KDE and A...
 
 ### [R3x](https://github.com/R3x)
 - 🍴 👤 [R3x](https://github.com/R3x) Forked [klee/klee](https://github.com/klee/klee) to [R3x/klee](https://github.com/R3x/klee)
@@ -93,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-04-30 17:16:55 UTC*
+*最后更新于 2026-04-30 19:15:10 UTC*
 *历史记录保存在 `archive` 目录中。*
