@@ -10,6 +10,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [corelan/mona3](https://github.com/corelan/mona3)
   > Repository for mona v3 - Corelan's exploit dev tool for Windbg, WindbgX etc
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+  > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [codeganesh/BlazorScreenRecorder](https://github.com/codeganesh/BlazorScreenRecorder)
   > A simple screen recorder app in Blazor
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-05-01 20:48:09 UTC*
+*最后更新于 2026-05-01 21:50:21 UTC*
 *历史记录保存在 `archive` 目录中。*
