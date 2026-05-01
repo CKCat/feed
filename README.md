@@ -7,10 +7,16 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef)
   > A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [corelan/mona3](https://github.com/corelan/mona3)
+  > Repository for mona v3 - Corelan's exploit dev tool for Windbg, WindbgX etc
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [codeganesh/BlazorScreenRecorder](https://github.com/codeganesh/BlazorScreenRecorder)
   > A simple screen recorder app in Blazor
+
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
+  > List of awesome reverse engineering resources
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts)
@@ -44,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-05-01 13:19:51 UTC*
+*最后更新于 2026-05-01 14:52:25 UTC*
 *历史记录保存在 `archive` 目录中。*
