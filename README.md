@@ -48,7 +48,11 @@
 - 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) to [scc-tw/wgpu](https://github.com/scc-tw/wgpu)
   > A cross-platform, safe, pure-Rust graphics API.
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [vercel-labs/wterm](https://github.com/vercel-labs/wterm)
+  > A terminal emulator for the web
+
 
 ---
-*最后更新于 2026-05-01 15:54:32 UTC*
+*最后更新于 2026-05-01 16:54:58 UTC*
 *历史记录保存在 `archive` 目录中。*
