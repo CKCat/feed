@@ -16,6 +16,12 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) to [crazyguitar/gpt-2-ts](https://github.com/crazyguitar/gpt-2-ts)
 
+### [gerhart01](https://github.com/gerhart01)
+- 🍴 👤 [gerhart01](https://github.com/gerhart01) Forked [ivellioscolin/pykd](https://github.com/ivellioscolin/pykd) to [gerhart01/pykd](https://github.com/gerhart01/pykd)
+  > A pykd maintenance fork
+- 🍴 👤 [gerhart01](https://github.com/gerhart01) Forked [ivellioscolin/pykd-ext](https://github.com/ivellioscolin/pykd-ext) to [gerhart01/pykd-ext](https://github.com/gerhart01/pykd-ext)
+  > A pykd-ext maintenance fork
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🍴 👤 [hackcatml](https://github.com/hackcatml) Forked [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) to [hackcatml/openclaude](https://github.com/hackcatml/openclaude)
   > runs anywhere. uses anything
@@ -38,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-05-01 08:57:47 UTC*
+*最后更新于 2026-05-01 10:24:34 UTC*
 *历史记录保存在 `archive` 目录中。*
