@@ -14,6 +14,11 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
   > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [codeganesh/BlazorScreenRecorder](https://github.com/codeganesh/BlazorScreenRecorder)
   > A simple screen recorder app in Blazor
@@ -40,6 +45,12 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
   >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [manhvn135/wah](https://github.com/manhvn135/wah)
+  > 🌐 Interpret WebAssembly 3.0 in a single C header file, offering compact and portable support for the...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lifthrasiir/wah](https://github.com/lifthrasiir/wah)
+  > WebAssembly interpreter in a Header (WAH)
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK)
   > Open XML SDK by Microsoft
@@ -58,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-05-01 21:50:21 UTC*
+*最后更新于 2026-05-01 22:45:41 UTC*
 *历史记录保存在 `archive` 目录中。*
