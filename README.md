@@ -4,9 +4,31 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef)
+  > A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [codeganesh/BlazorScreenRecorder](https://github.com/codeganesh/BlazorScreenRecorder)
+  > A simple screen recorder app in Blazor
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) to [crazyguitar/gpt-2-ts](https://github.com/crazyguitar/gpt-2-ts)
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🍴 👤 [hackcatml](https://github.com/hackcatml) Forked [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) to [hackcatml/openclaude](https://github.com/hackcatml/openclaude)
   > runs anywhere. uses anything
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
+  >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK)
+  > Open XML SDK by Microsoft
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [VolodymyrBaydalka/docxjs](https://github.com/VolodymyrBaydalka/docxjs)
+  > Docx rendering library
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) to [scc-tw/ruffle](https://github.com/scc-tw/ruffle)
@@ -16,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-05-01 06:13:32 UTC*
+*最后更新于 2026-05-01 08:57:47 UTC*
 *历史记录保存在 `archive` 目录中。*
