@@ -12,6 +12,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [cairn-dev/cairn](https://github.com/cairn-dev/cairn)
   > A background agent system for automating end-to-end software engineering tasks, direct from your git...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [zerx-lab/warp](https://github.com/zerx-lab/warp)
+  > OpenWarp is a free version of the open source client based on warp
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lucienhuangfu/eLLM](https://github.com/lucienhuangfu/eLLM)
   > eLLM can infer LLM on CPUs faster than on GPUs
@@ -28,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-05-02 10:47:28 UTC*
+*最后更新于 2026-05-02 11:41:40 UTC*
 *历史记录保存在 `archive` 目录中。*
