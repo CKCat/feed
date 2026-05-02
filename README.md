@@ -26,6 +26,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [ghliu/pytorch-ddpg](https://github.com/ghliu/pytorch-ddpg) to [crazyguitar/pytorch-ddpg](https://github.com/crazyguitar/pytorch-ddpg)
   > Implementation of the Deep Deterministic Policy Gradient (DDPG) using PyTorch
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/lib0xc](https://github.com/microsoft/lib0xc)
+  > Safe(ish) C programming library
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lifthrasiir/wah](https://github.com/lifthrasiir/wah)
   > WebAssembly interpreter in a Header (WAH)
@@ -40,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-05-02 15:41:58 UTC*
+*最后更新于 2026-05-02 16:41:51 UTC*
 *历史记录保存在 `archive` 目录中。*
