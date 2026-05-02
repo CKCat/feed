@@ -41,8 +41,12 @@
   > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
   > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/TritonTranslator](https://github.com/Colton1skees/TritonTranslator) to [mrexodia/TritonTranslator](https://github.com/mrexodia/TritonTranslator)
+  > Standalone static version of Triton's x86/x64 translator
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/LLVMSharp](https://github.com/Colton1skees/LLVMSharp) to [mrexodia/LLVMSharp](https://github.com/mrexodia/LLVMSharp)
+  > LLVM bindings for .NET Standard written in C# using ClangSharp
 
 
 ---
-*最后更新于 2026-05-02 18:54:21 UTC*
+*最后更新于 2026-05-02 19:52:40 UTC*
 *历史记录保存在 `archive` 目录中。*
