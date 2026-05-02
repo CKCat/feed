@@ -24,6 +24,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lucienhuangfu/eLLM](https://github.com/lucienhuangfu/eLLM)
   > eLLM can infer LLM on CPUs faster than on GPUs
 
+### [ThatNotEasy](https://github.com/ThatNotEasy)
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [nkga/cheat-driver](https://github.com/nkga/cheat-driver)
+  > Kernel mode driver for reading/writing process memory. C/Win32.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ghliu/pytorch-ddpg](https://github.com/ghliu/pytorch-ddpg)
   > Implementation of the Deep Deterministic Policy Gradient (DDPG) using PyTorch
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-05-02 21:36:57 UTC*
+*最后更新于 2026-05-02 22:37:08 UTC*
 *历史记录保存在 `archive` 目录中。*
