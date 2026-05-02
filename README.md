@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD)
   > Android app for emulating mass storage devices over USB
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [bint-disasm/bint-disasm.github.io](https://github.com/bint-disasm/bint-disasm.github.io)
+  > web frontend for the bin't binary analysis tool 
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [cairn-dev/cairn](https://github.com/cairn-dev/cairn)
   > A background agent system for automating end-to-end software engineering tasks, direct from your git...
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-05-02 19:52:40 UTC*
+*最后更新于 2026-05-02 20:37:43 UTC*
 *历史记录保存在 `archive` 目录中。*
