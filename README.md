@@ -30,7 +30,15 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lifthrasiir/wah](https://github.com/lifthrasiir/wah)
   > WebAssembly interpreter in a Header (WAH)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
+  > Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
+  > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
+  > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+
 
 ---
-*最后更新于 2026-05-02 14:42:16 UTC*
+*最后更新于 2026-05-02 15:41:58 UTC*
 *历史记录保存在 `archive` 目录中。*
