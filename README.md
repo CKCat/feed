@@ -22,6 +22,10 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [tobilg/ai-observer](https://github.com/tobilg/ai-observer)
   > Unified local observability for AI coding assistants
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
+  > Orchestrate coding agents remotely from your phone, desktop and CLI
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) to [crazyguitar/TradingAgents](https://github.com/crazyguitar/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -32,7 +36,14 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR)
+  > C++ ggml runtime hub for multilingual ASR models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispEmbed](https://github.com/CrispStrobe/CrispEmbed)
+  > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
+
 
 ---
-*最后更新于 2026-05-03 13:02:29 UTC*
+*最后更新于 2026-05-03 14:44:32 UTC*
 *历史记录保存在 `archive` 目录中。*
