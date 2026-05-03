@@ -60,8 +60,16 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispEmbed](https://github.com/CrispStrobe/CrispEmbed)
   > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard)
+  > Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development (SDD) for AI coding assistants.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
+  > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/libghidra](https://github.com/0xeb/libghidra)
+  > SDK for automating Ghidra from Python, Rust, and C++. Decompile, rename, annotate, inspect symbols/t...
 
 
 ---
-*最后更新于 2026-05-03 20:38:54 UTC*
+*最后更新于 2026-05-03 21:38:27 UTC*
 *历史记录保存在 `archive` 目录中。*
