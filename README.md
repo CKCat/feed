@@ -33,10 +33,18 @@
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) to [crazyguitar/copy-fail-CVE-2026-31431](https://github.com/crazyguitar/copy-fail-CVE-2026-31431)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [hkust-nlp/KernelGYM](https://github.com/hkust-nlp/KernelGYM)
+  > [KernelGYM & Dr. Kernel] A distributed GPU environment and a collection of RL training methods to su...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [hkust-nlp/KernelGYM](https://github.com/hkust-nlp/KernelGYM) to [crazyguitar/KernelGYM](https://github.com/crazyguitar/KernelGYM)
+  > [KernelGYM & Dr. Kernel] A distributed GPU environment and a collection of RL training methods to su...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR)
@@ -47,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-05-03 16:44:38 UTC*
+*最后更新于 2026-05-03 17:43:06 UTC*
 *历史记录保存在 `archive` 目录中。*
