@@ -15,6 +15,8 @@
   > Subscribe to US stock earnings dates from your calendar app
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
   > 😼 优雅地使用基于 clash/mihomo 的代理环境
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill)
+  > drawio-skill — From Text to Professional Diagrams. An Agent Skill (SKILL.md) that generates draw.io ...
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [tobilg/ai-observer](https://github.com/tobilg/ai-observer)
@@ -32,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-05-03 09:25:09 UTC*
+*最后更新于 2026-05-03 10:51:58 UTC*
 *历史记录保存在 `archive` 目录中。*
