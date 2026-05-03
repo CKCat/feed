@@ -20,6 +20,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill)
   > drawio-skill — From Text to Professional Diagrams. An Agent Skill (SKILL.md) that generates draw.io ...
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🌟 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Starred [AICodo/pve-emu-realpc](https://github.com/AICodo/pve-emu-realpc)
+  > PVE Debain Ubuntu ArchLinux virtual machine emulates a physical machine（pve Debian Ubuntu ArchLinux虚...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [tobilg/ai-observer](https://github.com/tobilg/ai-observer)
   > Unified local observability for AI coding assistants
@@ -71,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-05-03 22:36:58 UTC*
+*最后更新于 2026-05-03 23:40:38 UTC*
 *历史记录保存在 `archive` 目录中。*
