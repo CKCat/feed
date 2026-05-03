@@ -28,6 +28,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate coding agents remotely from your phone, desktop and CLI
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+  > The best-benchmarked open-source AI memory system. And it's free.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) to [crazyguitar/TradingAgents](https://github.com/crazyguitar/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -59,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-05-03 19:53:03 UTC*
+*最后更新于 2026-05-03 20:38:54 UTC*
 *历史记录保存在 `archive` 目录中。*
