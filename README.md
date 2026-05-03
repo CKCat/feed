@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [thomasdullien/vulpine](https://github.com/thomasdullien/vulpine)
   > Vulpine: multi-agent vulnerability-development pipeline for Claude Code and OpenCode
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [zed-industries/zed](https://github.com/zed-industries/zed) to [0xdea/zed](https://github.com/0xdea/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [jason5ng32/OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal)
@@ -30,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-05-03 07:58:37 UTC*
+*最后更新于 2026-05-03 09:25:09 UTC*
 *历史记录保存在 `archive` 目录中。*
