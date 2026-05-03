@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [thomasdullien/vulpine](https://github.com/thomasdullien/vulpine)
+  > Vulpine: multi-agent vulnerability-development pipeline for Claude Code and OpenCode
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [jason5ng32/OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal)
   > Subscribe to US stock earnings dates from your calendar app
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
   > 😼 优雅地使用基于 clash/mihomo 的代理环境
+
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [tobilg/ai-observer](https://github.com/tobilg/ai-observer)
+  > Unified local observability for AI coding assistants
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) to [crazyguitar/TradingAgents](https://github.com/crazyguitar/TradingAgents)
@@ -22,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-05-03 05:55:31 UTC*
+*最后更新于 2026-05-03 07:58:37 UTC*
 *历史记录保存在 `archive` 目录中。*
