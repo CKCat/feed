@@ -38,6 +38,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [hkust-nlp/KernelGYM](https://github.com/hkust-nlp/KernelGYM) to [crazyguitar/KernelGYM](https://github.com/crazyguitar/KernelGYM)
   > [KernelGYM & Dr. Kernel] A distributed GPU environment and a collection of RL training methods to su...
 
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs)
+  > An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-05-03 17:43:06 UTC*
+*最后更新于 2026-05-03 18:54:51 UTC*
 *历史记录保存在 `archive` 目录中。*
