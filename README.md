@@ -8,6 +8,22 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
   > ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告...
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+  > TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [OpenYSM/YSMParser](https://github.com/OpenYSM/YSMParser)
+  > A Parser to recover Yes-Steve-Model Encrypted Binaries.
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [pavel-krivanek/legacy-cc](https://github.com/pavel-krivanek/legacy-cc)
+  > Legacy C compiler for PDP-11 from 1972/3
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)
   > Custom cursor shaders for ghostty (trails and ripple/pulse effects)
@@ -28,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-05-04 06:08:57 UTC*
+*最后更新于 2026-05-04 09:14:33 UTC*
 *历史记录保存在 `archive` 目录中。*
