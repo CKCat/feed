@@ -58,6 +58,8 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix)
   > Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi...
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
+  > Community fork of PlayCover
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
@@ -70,6 +72,8 @@
   > Persistent autonomous goals for pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
+  > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-05-04 19:24:22 UTC*
+*最后更新于 2026-05-04 21:05:15 UTC*
 *历史记录保存在 `archive` 目录中。*
