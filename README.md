@@ -24,6 +24,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [pavel-krivanek/legacy-cc](https://github.com/pavel-krivanek/legacy-cc)
   > Legacy C compiler for PDP-11 from 1972/3
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)
   > Custom cursor shaders for ghostty (trails and ripple/pulse effects)
@@ -38,11 +42,23 @@
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
   > Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Window...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
+  > Persistent autonomous goals for pi
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/bint-disasm.github.io](https://github.com/bint-disasm/bint-disasm.github.io)
+  > web frontend for the bin't binary analysis tool 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
+  > Persistent autonomous goals for pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
+  > bintbit is a bitvector theory SMT solver and CDCL SAT solver
+
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
   > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 UI framework built on OpenGL and G...
 
 
 ---
-*最后更新于 2026-05-04 09:14:33 UTC*
+*最后更新于 2026-05-04 11:45:12 UTC*
 *历史记录保存在 `archive` 目录中。*
