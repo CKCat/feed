@@ -8,6 +8,13 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
   > ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告...
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [jonhoo/inferno](https://github.com/jonhoo/inferno)
+  > A Rust port of FlameGraph
+
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman2](https://github.com/d-kfmnn/talisman2)
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -32,6 +39,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)
   > Custom cursor shaders for ghostty (trails and ripple/pulse effects)
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [AngeloJacobo/DDR3-Notes](https://github.com/AngeloJacobo/DDR3-Notes)
+  > My notes for DDR3 SDRAM controller
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [0Chencc/clawgod](https://github.com/0Chencc/clawgod)
   > This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the offic...
@@ -41,6 +52,8 @@
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
   > Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Window...
+- 🍴 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Forked [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) to [ThatNotEasy/scrcpy](https://github.com/ThatNotEasy/scrcpy)
+  > Display and control your Android device
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
@@ -60,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-05-04 11:45:12 UTC*
+*最后更新于 2026-05-04 13:51:14 UTC*
 *历史记录保存在 `archive` 目录中。*
