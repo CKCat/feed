@@ -55,6 +55,10 @@
 - 🍴 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Forked [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) to [ThatNotEasy/scrcpy](https://github.com/ThatNotEasy/scrcpy)
   > Display and control your Android device
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix)
+  > Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
   > Persistent autonomous goals for pi
@@ -73,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-05-04 13:51:14 UTC*
+*最后更新于 2026-05-04 15:59:05 UTC*
 *历史记录保存在 `archive` 目录中。*
