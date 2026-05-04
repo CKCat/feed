@@ -74,6 +74,12 @@
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/cobra](https://github.com/binsnake/cobra)
+  > rust port of TrailOfBits Cobra project
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-05-04 21:05:15 UTC*
+*最后更新于 2026-05-04 22:54:49 UTC*
 *历史记录保存在 `archive` 目录中。*
