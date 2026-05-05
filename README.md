@@ -28,6 +28,8 @@
 - 🚀 👤 [SsageParuders](https://github.com/SsageParuders) Made [AITokenHub/.github](https://github.com/AITokenHub/.github) public
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [xykt/IPQuality](https://github.com/xykt/IPQuality)
   > IP质量检测脚本 - IP Quality Check Script
+- 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [AITokenHub/github-readme-stats](https://github.com/AITokenHub/github-readme-stats)
+  > :zap: Dynamically generated stats for your github readmes
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sultagendev/sultagen](https://github.com/sultagendev/sultagen)
@@ -52,6 +54,8 @@
   > Token-efficient MCP adapter for Pi coding agent
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
   > Token-efficient MCP adapter for Pi coding agent
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre)
+  > Ghidra decompiler in your browser
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
@@ -69,10 +73,13 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [basarat/typescript-book](https://github.com/basarat/typescript-book)
   > :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Op...
 
+### [stong](https://github.com/stong)
+- 🍴 👤 [stong](https://github.com/stong) Forked [defi-wonderland/interop-sdk](https://github.com/defi-wonderland/interop-sdk) to [stong/interop-sdk](https://github.com/stong/interop-sdk)
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
 
 
 ---
-*最后更新于 2026-05-05 18:07:34 UTC*
+*最后更新于 2026-05-05 20:04:54 UTC*
 *历史记录保存在 `archive` 目录中。*
