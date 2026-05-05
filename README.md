@@ -26,6 +26,8 @@
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🚀 👤 [SsageParuders](https://github.com/SsageParuders) Made [AITokenHub/.github](https://github.com/AITokenHub/.github) public
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [xykt/IPQuality](https://github.com/xykt/IPQuality)
+  > IP质量检测脚本 - IP Quality Check Script
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sultagendev/sultagen](https://github.com/sultagendev/sultagen)
@@ -51,6 +53,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
   > Token-efficient MCP adapter for Pi coding agent
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
+  > A fully syscalled C/C++ userland anti-debugging library and CLI for Windows, designed to protect sof...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML)
   > ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. ...
@@ -60,11 +66,13 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
   > PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ profess...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [basarat/typescript-book](https://github.com/basarat/typescript-book)
+  > :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Op...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
 
 
 ---
-*最后更新于 2026-05-05 16:21:35 UTC*
+*最后更新于 2026-05-05 18:07:34 UTC*
 *历史记录保存在 `archive` 目录中。*
