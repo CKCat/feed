@@ -60,6 +60,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
   > A fully syscalled C/C++ userland anti-debugging library and CLI for Windows, designed to protect sof...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+  > DSPy: The framework for programming—not prompting—language models
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML)
@@ -81,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-05-05 20:04:54 UTC*
+*最后更新于 2026-05-05 21:58:14 UTC*
 *历史记录保存在 `archive` 目录中。*
