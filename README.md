@@ -20,9 +20,6 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/usb-map-gui](https://github.com/Mq-b/usb-map-gui)
   > usb-map-gui 便于编辑和查看 Linux usb 设备
 
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [MtkWifiRev/MtkWifiTools](https://github.com/MtkWifiRev/MtkWifiTools)
-
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sultagendev/sultagen](https://github.com/sultagendev/sultagen)
   > "SULTAGEN: The #1 AI Prompt Engineering Engine for Unfiltered Logic. Optimized for GPT-4, Claude 3.5...
@@ -32,15 +29,23 @@
 ### [momo5502](https://github.com/momo5502)
 - 🍴 👤 [momo5502](https://github.com/momo5502) Forked [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard) to [momo5502/agent-cost-dashboard](https://github.com/momo5502/agent-cost-dashboard)
   > Interactive web dashboard to monitor and analyze your coding agent API costs.
+- 🍴 👤 [momo5502](https://github.com/momo5502) Forked [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) to [momo5502/pi-mcp-adapter](https://github.com/momo5502/pi-mcp-adapter)
+  > Token-efficient MCP adapter for Pi coding agent
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
+  > Token-efficient MCP adapter for Pi coding agent
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML)
   > ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. ...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
+  > PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ profess...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
 
 
 ---
-*最后更新于 2026-05-05 08:03:57 UTC*
+*最后更新于 2026-05-05 10:42:59 UTC*
 *历史记录保存在 `archive` 目录中。*
