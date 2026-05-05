@@ -60,6 +60,8 @@
   > Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi...
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
   > Community fork of PlayCover
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [reticulatedpines/magiclantern_simplified](https://github.com/reticulatedpines/magiclantern_simplified)
+  > A Git based version of Magic Lantern, for those unwilling or unable to work using Mercurial.  The va...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
@@ -80,6 +82,12 @@
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/cobra](https://github.com/binsnake/cobra)
   > rust port of TrailOfBits Cobra project
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shnarazk/splr](https://github.com/shnarazk/splr)
+  > A modern (trail saving, clause subsumption/vivification, learning-rate based selecting, rephrase) CD...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jix/varisat](https://github.com/jix/varisat)
+  > SAT solver written in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrjabs/rustsat](https://github.com/chrjabs/rustsat)
+  > This library aims to provide implementations of elements commonly used in the development on softwar...
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
@@ -87,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-05-04 22:54:49 UTC*
+*最后更新于 2026-05-04 23:51:49 UTC*
 *历史记录保存在 `archive` 目录中。*
