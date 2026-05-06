@@ -4,12 +4,33 @@
 
 ## 今日动态
 
+### [0xSh4dy](https://github.com/0xSh4dy)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/Todo-App](https://github.com/Mahiisss/Todo-App)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/network-posture-scanner](https://github.com/Mahiisss/network-posture-scanner)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/bazario-support-ai](https://github.com/Mahiisss/bazario-support-ai)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/military-asset-management](https://github.com/Mahiisss/military-asset-management)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/AI-Pipeline-Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/Weather-Model](https://github.com/Mahiisss/Weather-Model)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/Web-scrapper](https://github.com/Mahiisss/Web-scrapper)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/Ai-Workflow-Pipeline-Builder](https://github.com/Mahiisss/Ai-Workflow-Pipeline-Builder)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/Task-Automation-API](https://github.com/Mahiisss/Task-Automation-API)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/Trade-Opportunities-API-](https://github.com/Mahiisss/Trade-Opportunities-API-)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/trade-opportunities-api](https://github.com/Mahiisss/trade-opportunities-api)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/youtube-offline-summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/ai-todo-app](https://github.com/Mahiisss/ai-todo-app)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [Mahiisss/Social-media-backend-api](https://github.com/Mahiisss/Social-media-backend-api)
+
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [cellebrite-labs/sandblaster](https://github.com/cellebrite-labs/sandblaster)
   > Reversing the Apple sandbox
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
+
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+  > Production-grade engineering skills for AI coding agents.
 
 ### [Dr-TSNG](https://github.com/Dr-TSNG)
 - 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) to [Dr-TSNG/fcitx5-android](https://github.com/Dr-TSNG/fcitx5-android)
@@ -32,12 +53,20 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [jipika/WaifuX](https://github.com/jipika/WaifuX)
   > macos (mac) Wallhaven · MotionBG · Anime | 壁纸 · 动态壁纸 · 番剧
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [calesthio/Crucix](https://github.com/calesthio/Crucix)
+  > Your personal intelligence agent. Watches the world from multiple data sources and pings you when so...
 
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [Mic92/nix-update](https://github.com/Mic92/nix-update) to [bet4it/nix-update](https://github.com/bet4it/nix-update)
   > Swiss-knife for updating nix packages.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [userfhy/SSLProxyManager-Tauri](https://github.com/userfhy/SSLProxyManager-Tauri)
   > SSLProxyManager is a local proxy management tool built with Tauri and Rust. It supports HTTP/HTTPS r...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [stenzek/duckstation](https://github.com/stenzek/duckstation)
+  > Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
@@ -88,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-05-06 14:01:14 UTC*
+*最后更新于 2026-05-06 16:24:32 UTC*
 *历史记录保存在 `archive` 目录中。*
