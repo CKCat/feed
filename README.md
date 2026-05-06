@@ -64,6 +64,10 @@
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [athasdev/athas](https://github.com/athasdev/athas) to [bet4it/athas](https://github.com/bet4it/athas)
   > A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI ag...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ROCm/aiter](https://github.com/ROCm/aiter)
+  > AI Tensor Engine for ROCm
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
@@ -122,5 +126,5 @@
 
 
 ---
-*最后更新于 2026-05-06 20:19:03 UTC*
+*最后更新于 2026-05-06 21:53:39 UTC*
 *历史记录保存在 `archive` 目录中。*
