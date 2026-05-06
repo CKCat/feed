@@ -61,6 +61,8 @@
   > Swiss-knife for updating nix packages.
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [userfhy/SSLProxyManager-Tauri](https://github.com/userfhy/SSLProxyManager-Tauri)
   > SSLProxyManager is a local proxy management tool built with Tauri and Rust. It supports HTTP/HTTPS r...
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [athasdev/athas](https://github.com/athasdev/athas) to [bet4it/athas](https://github.com/bet4it/athas)
+  > A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI ag...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
@@ -117,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-05-06 16:24:32 UTC*
+*最后更新于 2026-05-06 18:13:15 UTC*
 *历史记录保存在 `archive` 目录中。*
