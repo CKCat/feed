@@ -102,6 +102,9 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
   > Get 10X more out of Claude Code, Codex or any coding agent
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/Vector](https://github.com/superturtlee/Vector)
   > Modern Xposed Framework
@@ -119,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-05-06 18:13:15 UTC*
+*最后更新于 2026-05-06 20:19:03 UTC*
 *历史记录保存在 `archive` 目录中。*
