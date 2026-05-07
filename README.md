@@ -46,11 +46,16 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [looplj/axonhub](https://github.com/looplj/axonhub)
   > ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost c...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
   > The best agent harness.
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [liuzhengdongfortest/CodeStable](https://github.com/liuzhengdongfortest/CodeStable)
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [microsoft/igvm](https://github.com/microsoft/igvm)
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)
@@ -59,6 +64,8 @@
   > Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [elicpeter/nyx](https://github.com/elicpeter/nyx)
   > Multi-language static analysis with cross-file taint tracking. Scan your repo, triage findings in yo...
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Tool to build & run portable, lightweight, self-contained virtual machines.
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
@@ -91,6 +98,8 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [shuyu-labs/Windows-MCP.Net](https://github.com/shuyu-labs/Windows-MCP.Net)
+  > A .NET-based Windows desktop automation MCP (Model Context Protocol) server that provides AI assista...
 
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [roberthawdon/s1mp3](https://github.com/roberthawdon/s1mp3)
@@ -123,5 +132,5 @@
 
 
 ---
-*最后更新于 2026-05-07 16:08:36 UTC*
+*最后更新于 2026-05-07 18:23:47 UTC*
 *历史记录保存在 `archive` 目录中。*
