@@ -4,6 +4,11 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+  > LSPosed Framework
+
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -13,6 +18,10 @@
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)
   > ai reverse 一把梭
+
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+  > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki)
@@ -30,9 +39,15 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [looplj/axonhub](https://github.com/looplj/axonhub)
   > ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost c...
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)
+  > Re-Connectable secure remote shell
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
   > Optimize prompts, code, and more with AI-powered Reflective Text Evolution
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [wild-linker/wild](https://github.com/wild-linker/wild)
+  > A very fast linker for Linux
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp)
@@ -43,6 +58,10 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [matthart1983/syswatch](https://github.com/matthart1983/syswatch)
+  > Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, sessio...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [pinksawtooth/VS_Code_dark_modern_theme](https://github.com/pinksawtooth/VS_Code_dark_modern_theme)
@@ -55,6 +74,10 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+  > Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [szdyg/pdb_proxy](https://github.com/szdyg/pdb_proxy)
@@ -71,7 +94,13 @@
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager)
+  > Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser pro...
+
 
 ---
-*最后更新于 2026-05-07 11:07:14 UTC*
+*最后更新于 2026-05-07 13:59:01 UTC*
 *历史记录保存在 `archive` 目录中。*
