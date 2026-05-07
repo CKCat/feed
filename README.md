@@ -32,14 +32,22 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
   > Optimize prompts, code, and more with AI-powered Reflective Text Evolution
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp)
+  > A MCP server for our beloved terminal multiplexer tmux.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [szdyg/pdb_proxy](https://github.com/szdyg/pdb_proxy)
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [fyrlove/r0zygisk](https://github.com/fyrlove/r0zygisk)
+  > The New Standalone implementation of Zygisk with more detection bypass technology
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [yilongmd/zafrida-ui](https://github.com/yilongmd/zafrida-ui)
   > A Frida UI tool window inside PyCharm / JetBrains IDEs.
 
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-05-07 05:58:36 UTC*
+*最后更新于 2026-05-07 08:42:07 UTC*
 *历史记录保存在 `archive` 目录中。*
