@@ -35,13 +35,30 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [valentinbreiz/nativeaot-patcher](https://github.com/valentinbreiz/nativeaot-patcher)
   > POC of CosmosOS gen3
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Cateners/gardendless-android](https://github.com/Cateners/gardendless-android)
+  > PvZ2 Gardendless Android Port
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [rva3/CVE-2026-40003](https://github.com/rva3/CVE-2026-40003)
+  > ZXIC/Sanechips BootROM exploit
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [looplj/axonhub](https://github.com/looplj/axonhub)
   > ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost c...
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
+  > The best agent harness.
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [liuzhengdongfortest/CodeStable](https://github.com/liuzhengdongfortest/CodeStable)
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)
   > Re-Connectable secure remote shell
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
+  > Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [elicpeter/nyx](https://github.com/elicpeter/nyx)
+  > Multi-language static analysis with cross-file taint tracking. Scan your repo, triage findings in yo...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
@@ -75,6 +92,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
 
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [roberthawdon/s1mp3](https://github.com/roberthawdon/s1mp3)
+  > A fork/mirror of wiRe's tools
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
   > Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
@@ -102,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-05-07 13:59:01 UTC*
+*最后更新于 2026-05-07 16:08:36 UTC*
 *历史记录保存在 `archive` 目录中。*
