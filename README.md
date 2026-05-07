@@ -101,6 +101,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [shuyu-labs/Windows-MCP.Net](https://github.com/shuyu-labs/Windows-MCP.Net)
   > A .NET-based Windows desktop automation MCP (Model Context Protocol) server that provides AI assista...
 
+### [stong](https://github.com/stong)
+- 🚀 👤 [stong](https://github.com/stong) Made [v12-security/v12-issues](https://github.com/v12-security/v12-issues) public
+  > Public issue tracker for V12
+
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [roberthawdon/s1mp3](https://github.com/roberthawdon/s1mp3)
   > A fork/mirror of wiRe's tools
@@ -132,5 +136,5 @@
 
 
 ---
-*最后更新于 2026-05-07 18:23:47 UTC*
+*最后更新于 2026-05-07 20:11:29 UTC*
 *历史记录保存在 `archive` 目录中。*
