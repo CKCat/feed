@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [trailofbits/skills](https://github.com/trailofbits/skills) to [0xdea/tob-skills](https://github.com/0xdea/tob-skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)
@@ -35,10 +37,24 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp)
   > A MCP server for our beloved terminal multiplexer tmux.
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
+  > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [pinksawtooth/VS_Code_dark_modern_theme](https://github.com/pinksawtooth/VS_Code_dark_modern_theme)
+  > for Ghidra GUI
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
+  > PDF/Image to Markdown converter using Claude Code leveraging vision
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [szdyg/pdb_proxy](https://github.com/szdyg/pdb_proxy)
@@ -57,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-05-07 08:42:07 UTC*
+*最后更新于 2026-05-07 11:07:14 UTC*
 *历史记录保存在 `archive` 目录中。*
