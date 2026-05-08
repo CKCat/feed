@@ -11,6 +11,10 @@
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
   > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
+- 🍴 👤 [ErodedElk](https://github.com/ErodedElk) Forked [KSroido/ML-stock-selector](https://github.com/KSroido/ML-stock-selector) to [ErodedElk/ML-stock-selector](https://github.com/ErodedElk/ML-stock-selector)
+  > ML-stock-selector
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [KSroido/ML-stock-selector](https://github.com/KSroido/ML-stock-selector)
+  > ML-stock-selector
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [rh1tech/frank-386](https://github.com/rh1tech/frank-386)
@@ -23,6 +27,7 @@
   > Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measurement (NeurIPS 2...
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [habom2310/Heart-rate-measurement-using-camera](https://github.com/habom2310/Heart-rate-measurement-using-camera)
   > real time application to measure heart rate
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [kerlos/pordee](https://github.com/kerlos/pordee)
@@ -65,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-05-08 11:09:49 UTC*
+*最后更新于 2026-05-08 13:25:40 UTC*
 *历史记录保存在 `archive` 目录中。*
