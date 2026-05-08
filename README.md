@@ -37,6 +37,9 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
   > 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
+
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [warpdotdev/warp](https://github.com/warpdotdev/warp) to [bet4it/warp](https://github.com/bet4it/warp)
   > Warp is an agentic development environment, born out of the terminal.
@@ -58,6 +61,16 @@
   > This flake provides a bleeding edge LazyVim  home-manager module, allowing you to install and config...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [wochap/nix-config](https://github.com/wochap/nix-config)
   > Personal NixOS configuration
+
+### [mahaloz](https://github.com/mahaloz)
+- 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
+  > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stp/stp](https://github.com/stp/stp)
+  > Simple Theorem Prover, an efficient SMT solver for bitvectors
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xlatbx59/Bshld](https://github.com/xlatbx59/Bshld)
+  > Devirtualizer for binaryshield
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
@@ -106,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-05-08 17:13:00 UTC*
+*最后更新于 2026-05-08 19:12:27 UTC*
 *历史记录保存在 `archive` 目录中。*
