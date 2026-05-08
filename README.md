@@ -62,6 +62,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [wochap/nix-config](https://github.com/wochap/nix-config)
   > Personal NixOS configuration
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+
 ### [mahaloz](https://github.com/mahaloz)
 - 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
   > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -119,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-05-08 20:56:12 UTC*
+*最后更新于 2026-05-08 21:58:22 UTC*
 *历史记录保存在 `archive` 目录中。*
