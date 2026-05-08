@@ -54,6 +54,10 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
   > 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi...
 
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer) to [sunwm518/binaryshield-devirtualizer](https://github.com/sunwm518/binaryshield-devirtualizer)
+  > LLVM based devirtualizer for the binaryshield software protector.
+
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [fdd4s/portable_music_player_avi_video_converter_tool_2025](https://github.com/fdd4s/portable_music_player_avi_video_converter_tool_2025)
   > scripts to convert videos into several portable music players formats
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-05-08 13:25:40 UTC*
+*最后更新于 2026-05-08 15:18:50 UTC*
 *历史记录保存在 `archive` 目录中。*
