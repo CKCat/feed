@@ -40,6 +40,12 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [vllm-project/recipes](https://github.com/vllm-project/recipes) to [crazyguitar/recipes](https://github.com/crazyguitar/recipes)
   > Common recipes to run vLLM
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [axboe/liburing](https://github.com/axboe/liburing)
+  > Library providing helpers for the Linux kernel io_uring support
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+  > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+
 ### [liangkangnan](https://github.com/liangkangnan)
 - 🍴 👤 [liangkangnan](https://github.com/liangkangnan) Forked [risclite/R8051](https://github.com/risclite/R8051) to [liangkangnan/R8051](https://github.com/liangkangnan/R8051)
   >  8051 soft CPU core. 700-lines statements for 111 instructions . Fully synthesizable Verilog-2001 co...
@@ -64,6 +70,16 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [koaaN/arbextract](https://github.com/koaaN/arbextract)
   > A binary tool to extract "ARB (Anti-Rollback)" from xbl_config.img
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [cellebrite-labs/FunctionInliner](https://github.com/cellebrite-labs/FunctionInliner)
+  > An IDA plugin that eases reversing of binaries that have been code-size-optimized with function outl...
+
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [tomaz1/MP3-player_Video_converter_for_P20-Player](https://github.com/tomaz1/MP3-player_Video_converter_for_P20-Player)
+  > Scripts to convert videos for portable music player (P20 Player)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [fdd4s/portable_mp3_player_video_converter_tools](https://github.com/fdd4s/portable_mp3_player_video_converter_tools)
+  > scripts to convert videos into several portable mp3 players formats with ffmpeg
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
@@ -77,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-05-09 15:48:46 UTC*
+*最后更新于 2026-05-09 16:51:08 UTC*
 *历史记录保存在 `archive` 目录中。*
