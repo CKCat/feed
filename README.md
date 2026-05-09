@@ -50,6 +50,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
   > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin)
+  > Convert OCI images into polyglot ELF+tar executables that run without Docker
+
 ### [liangkangnan](https://github.com/liangkangnan)
 - 🍴 👤 [liangkangnan](https://github.com/liangkangnan) Forked [risclite/R8051](https://github.com/risclite/R8051) to [liangkangnan/R8051](https://github.com/liangkangnan/R8051)
   >  8051 soft CPU core. 700-lines statements for 111 instructions . Fully synthesizable Verilog-2001 co...
@@ -83,6 +87,8 @@
   > Scripts to convert videos for portable music player (P20 Player)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [fdd4s/portable_mp3_player_video_converter_tools](https://github.com/fdd4s/portable_mp3_player_video_converter_tools)
   > scripts to convert videos into several portable mp3 players formats with ffmpeg
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [fdd4s/matterport-downloader](https://github.com/fdd4s/matterport-downloader)
+  > Download Skybox panoramic photos of Matterport houses
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
@@ -97,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-05-09 21:39:26 UTC*
+*最后更新于 2026-05-09 22:39:01 UTC*
 *历史记录保存在 `archive` 目录中。*
