@@ -29,6 +29,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland)
   > Dynamic Island for MacOS — with Extensions
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jeffthebside/OkProxyConf](https://github.com/jeffthebside/OkProxyConf)
 
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-05-09 18:56:01 UTC*
+*最后更新于 2026-05-09 19:56:17 UTC*
 *历史记录保存在 `archive` 目录中。*
