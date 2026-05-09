@@ -17,6 +17,9 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash)
   > Your Spotify + YouTube Music library & daily mixes, offline in lossless FLAC. Free and open source f...
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jeffthebside/OkProxyConf](https://github.com/jeffthebside/OkProxyConf)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [verl-project/verl-recipe](https://github.com/verl-project/verl-recipe)
   > A set of examples based on verl for end-to-end RL training recipes.
@@ -37,6 +40,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [CCXLV/fluxqueue](https://github.com/CCXLV/fluxqueue)
   > A lightweight, high-throughput task queue for Python, written in Rust.
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [koaaN/arbextract](https://github.com/koaaN/arbextract)
+  > A binary tool to extract "ARB (Anti-Rollback)" from xbl_config.img
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
@@ -45,8 +52,10 @@
   > The agent that grows with you
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
   > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
+  > Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyo...
 
 
 ---
-*最后更新于 2026-05-09 09:15:49 UTC*
+*最后更新于 2026-05-09 10:54:34 UTC*
 *历史记录保存在 `archive` 目录中。*
