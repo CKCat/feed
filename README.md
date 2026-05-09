@@ -32,6 +32,10 @@
 - 🍴 👤 [liangkangnan](https://github.com/liangkangnan) Forked [risclite/R8051](https://github.com/risclite/R8051) to [liangkangnan/R8051](https://github.com/liangkangnan/R8051)
   >  8051 soft CPU core. 700-lines statements for 111 instructions . Fully synthesizable Verilog-2001 co...
 
+### [momo5502](https://github.com/momo5502)
+- 🍴 👤 [momo5502](https://github.com/momo5502) Forked [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) to [momo5502/llvm-cbe](https://github.com/momo5502/llvm-cbe)
+  > resurrected LLVM "C Backend", with improvements
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [sub07/winri](https://github.com/sub07/winri)
   > A window scrolling tiler for Windows 11. Inspired by Niri
@@ -39,6 +43,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [CCXLV/fluxqueue](https://github.com/CCXLV/fluxqueue)
   > A lightweight, high-throughput task queue for Python, written in Rust.
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [radareorg/r2ai](https://github.com/radareorg/r2ai) to [frida/r2ai](https://github.com/frida/r2ai)
+  > LLM-based reversing for radare2
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [koaaN/arbextract](https://github.com/koaaN/arbextract)
@@ -57,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-05-09 10:54:34 UTC*
+*最后更新于 2026-05-09 11:48:06 UTC*
 *历史记录保存在 `archive` 目录中。*
