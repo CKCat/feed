@@ -69,6 +69,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [CCXLV/fluxqueue](https://github.com/CCXLV/fluxqueue)
   > A lightweight, high-throughput task queue for Python, written in Rust.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  > :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaivePr...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [dswd/vpncloud](https://github.com/dswd/vpncloud)
+  > Peer-to-peer VPN
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [radareorg/r2ai](https://github.com/radareorg/r2ai) to [frida/r2ai](https://github.com/frida/r2ai)
@@ -103,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-05-09 22:39:01 UTC*
+*最后更新于 2026-05-09 23:43:04 UTC*
 *历史记录保存在 `archive` 目录中。*
