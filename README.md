@@ -7,6 +7,10 @@
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced)
+  > 🔍 全网最全的网易云音乐API接口 || A revival project for NeteaseCloudMusicApi Node.js Services (Half Refactor & En...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies](https://github.com/achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies)
   > Reimagining the SDA application in better shape.
@@ -73,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-05-09 14:47:21 UTC*
+*最后更新于 2026-05-09 15:48:46 UTC*
 *历史记录保存在 `archive` 目录中。*
