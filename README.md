@@ -15,6 +15,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)
+  > Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dai4uoy/hookglot](https://github.com/dai4uoy/hookglot)
 
@@ -34,6 +38,12 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [progfolio/elpaca](https://github.com/progfolio/elpaca)
   > An elisp package manager
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
+  > An x86-64 code virtualizer for VM based obfuscation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stuxnet147/Themida-Research](https://github.com/stuxnet147/Themida-Research)
+  > Themida 3.x research
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools)
   > Tools for handling firmwares of DJI products, with focus on quadcopters.
@@ -43,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-05-10 10:10:38 UTC*
+*最后更新于 2026-05-10 11:48:12 UTC*
 *历史记录保存在 `archive` 目录中。*
