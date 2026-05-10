@@ -24,6 +24,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)
   > Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-05-10 21:47:28 UTC*
+*最后更新于 2026-05-10 22:42:17 UTC*
 *历史记录保存在 `archive` 目录中。*
