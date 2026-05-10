@@ -11,6 +11,10 @@
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dai4uoy/hookglot](https://github.com/dai4uoy/hookglot)
 
@@ -30,7 +34,14 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [progfolio/elpaca](https://github.com/progfolio/elpaca)
   > An elisp package manager
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools)
+  > Tools for handling firmwares of DJI products, with focus on quadcopters.
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [arata-nvm/chibidec](https://github.com/arata-nvm/chibidec)
+  > A chibi decompiler implementation for ARM64 Mach-O
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [KikyoNanakusa/TinyDec_HLA](https://github.com/KikyoNanakusa/TinyDec_HLA)
+
 
 ---
-*最后更新于 2026-05-10 08:50:20 UTC*
+*最后更新于 2026-05-10 10:10:38 UTC*
 *历史记录保存在 `archive` 目录中。*
