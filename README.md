@@ -48,6 +48,10 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [progfolio/elpaca](https://github.com/progfolio/elpaca)
   > An elisp package manager
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [0xeb/vibe-re](https://github.com/0xeb/vibe-re)
+  > A collection of vibe reverse engineered binaries and malware (for educational purposes only)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
   > An x86-64 code virtualizer for VM based obfuscation
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-05-10 18:57:31 UTC*
+*最后更新于 2026-05-10 19:58:52 UTC*
 *历史记录保存在 `archive` 目录中。*
