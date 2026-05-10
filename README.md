@@ -34,6 +34,10 @@
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [generalaction/emdash](https://github.com/generalaction/emdash) to [bet4it/emdash](https://github.com/bet4it/emdash)
   > Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in ...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rasbt/llm-architecture-gallery](https://github.com/rasbt/llm-architecture-gallery)
+  > LLM Architecture Gallery source data
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix)
   > Manages Podman containers and networks on NixOS via Quadlet.
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-05-10 20:56:16 UTC*
+*最后更新于 2026-05-10 21:47:28 UTC*
 *历史记录保存在 `archive` 目录中。*
