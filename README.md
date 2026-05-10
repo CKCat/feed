@@ -14,6 +14,7 @@
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -22,6 +23,9 @@
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)
   > Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dai4uoy/hookglot](https://github.com/dai4uoy/hookglot)
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-05-10 15:50:29 UTC*
+*最后更新于 2026-05-10 16:51:37 UTC*
 *历史记录保存在 `archive` 目录中。*
