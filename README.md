@@ -37,6 +37,8 @@
   > Standard folder structure for Nix projects
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Keyruu/shinyflakes](https://github.com/Keyruu/shinyflakes)
   > ✨❄️ my nix* configurations (NixOS, NeoVim, Quadlet)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mohsen1/tsz](https://github.com/mohsen1/tsz)
+  > A performance-first TypeScript checker
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [progfolio/elpaca](https://github.com/progfolio/elpaca)
@@ -57,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-05-10 13:10:59 UTC*
+*最后更新于 2026-05-10 14:49:17 UTC*
 *历史记录保存在 `archive` 目录中。*
