@@ -8,6 +8,10 @@
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [himself65/finance-skills](https://github.com/himself65/finance-skills)
+  > A collection of skills for AI financial analysis and trading.
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-05-10 11:48:12 UTC*
+*最后更新于 2026-05-10 13:10:59 UTC*
 *历史记录保存在 `archive` 目录中。*
