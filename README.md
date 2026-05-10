@@ -57,7 +57,10 @@
   > A chibi decompiler implementation for ARM64 Mach-O
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [KikyoNanakusa/TinyDec_HLA](https://github.com/KikyoNanakusa/TinyDec_HLA)
 
+### [vvb2060](https://github.com/vvb2060)
+- 🚀 👤 [vvb2060](https://github.com/vvb2060) Made [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) public
+
 
 ---
-*最后更新于 2026-05-10 14:49:17 UTC*
+*最后更新于 2026-05-10 15:50:29 UTC*
 *历史记录保存在 `archive` 目录中。*
