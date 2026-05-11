@@ -7,6 +7,8 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida)
   > Injects frida gadget using zygisk to bypass anti-tamper checks.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [frankheat/noxen](https://github.com/frankheat/noxen)
+  > Android interception tool for component communication and attack-surface mapping
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
@@ -22,6 +24,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps)
   > A drop in replacement for slmgr script
 
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [MurkyYT/cs2-map-icons](https://github.com/MurkyYT/cs2-map-icons)
+  > Automatically updated Counter-Strike 2 official map icons from game files
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Shodan-40/GrindrPlus](https://github.com/Shodan-40/GrindrPlus)
   > Xposed Module that unlocks and adds unique features to the Grindr app
@@ -29,6 +35,10 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [razvandimescu/numa](https://github.com/razvandimescu/numa)
   > Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy)
+  > wooyun-legacy skill for claude code 
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
 
 ### [Whitebird0](https://github.com/Whitebird0)
 - 🌟 👤 [Whitebird0](https://github.com/Whitebird0) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
@@ -72,6 +82,13 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [wjakob/nanobind](https://github.com/wjakob/nanobind)
   > nanobind: tiny and efficient C++/Python bindings
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SwagSoftware/KisakBlack](https://github.com/SwagSoftware/KisakBlack)
+  > BLOPS Open Source Reimplementation
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike)
+  > 100% Open Source CSGO
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SwagSoftware/kisak-thug](https://github.com/SwagSoftware/kisak-thug)
+  > Tony Hawk's Underground
 
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
@@ -89,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-05-11 16:29:57 UTC*
+*最后更新于 2026-05-11 18:55:26 UTC*
 *历史记录保存在 `archive` 目录中。*
