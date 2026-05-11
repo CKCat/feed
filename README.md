@@ -10,6 +10,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [frankheat/noxen](https://github.com/frankheat/noxen)
   > Android interception tool for component communication and attack-surface mapping
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+  > Ghidra is a software reverse engineering (SRE) framework
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
@@ -106,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-05-11 20:45:15 UTC*
+*最后更新于 2026-05-11 22:03:38 UTC*
 *历史记录保存在 `archive` 目录中。*
