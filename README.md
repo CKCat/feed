@@ -66,6 +66,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stuxnet147/Themida-Research](https://github.com/stuxnet147/Themida-Research)
   > Themida 3.x research
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [elastic/kibana](https://github.com/elastic/kibana)
+  > Your window into all of your data
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools)
   > Tools for handling firmwares of DJI products, with focus on quadcopters.
@@ -78,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-05-10 22:42:17 UTC*
+*最后更新于 2026-05-10 23:49:07 UTC*
 *历史记录保存在 `archive` 目录中。*
