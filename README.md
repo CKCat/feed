@@ -22,17 +22,32 @@
 - 🌟 👤 [Whitebird0](https://github.com/Whitebird0) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
   > A CLI-first, headless, AI-native IDA Pro bridge built on Unix philosophy.
 
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
+
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [NullPrivate/NullPrivate](https://github.com/NullPrivate/NullPrivate)
   > Exploring the value that private DNS can bring us. 
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [mos1128/ccg-gateway](https://github.com/mos1128/ccg-gateway) to [bet4it/ccg-gateway](https://github.com/bet4it/ccg-gateway)
+  > 为 Claude Code、Codex、Gemini CLI 打造的效率工具，集智能网关与配置管理于一体
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
   > A framework for few-shot evaluation of language models.
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit)
+  > The Ultimate tmux Status Bar Framework
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+  > Collections of awesome neovim plugins.
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Ccccccccvvm/dsp_bypass](https://github.com/Ccccccccvvm/dsp_bypass)
   > APatch/KernelPatch KPM that masks root-framework sepolicy rules from userspace SELinux probes (e.g. ...
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [luix93/DGX-Spark-ComfyUI](https://github.com/luix93/DGX-Spark-ComfyUI)
+  > An optimized setup for running ComfyUI on DGX Spark
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
@@ -43,10 +58,16 @@
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
+  > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
+  > A CLI-first, headless, AI-native IDA Pro bridge built on Unix philosophy.
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
 
 ---
-*最后更新于 2026-05-11 10:35:22 UTC*
+*最后更新于 2026-05-11 13:45:26 UTC*
 *历史记录保存在 `archive` 目录中。*
