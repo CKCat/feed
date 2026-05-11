@@ -14,9 +14,21 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [XHY-ChuJian/FluentUIStyle](https://github.com/XHY-ChuJian/FluentUIStyle)
+  > QStyle FluentUI3 Windows11Style
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps)
   > A drop in replacement for slmgr script
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Shodan-40/GrindrPlus](https://github.com/Shodan-40/GrindrPlus)
+  > Xposed Module that unlocks and adds unique features to the Grindr app
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [razvandimescu/numa](https://github.com/razvandimescu/numa)
+  > Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
 
 ### [Whitebird0](https://github.com/Whitebird0)
 - 🌟 👤 [Whitebird0](https://github.com/Whitebird0) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
@@ -40,6 +52,8 @@
   > The Ultimate tmux Status Bar Framework
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
   > Collections of awesome neovim plugins.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+  > Persists tmux environment across system restarts.
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Ccccccccvvm/dsp_bypass](https://github.com/Ccccccccvvm/dsp_bypass)
@@ -55,6 +69,10 @@
 - 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) to [kin9-0rz/Open-AutoGLM](https://github.com/kin9-0rz/Open-AutoGLM)
   > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [wjakob/nanobind](https://github.com/wjakob/nanobind)
+  > nanobind: tiny and efficient C++/Python bindings
+
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
@@ -66,8 +84,10 @@
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
+- 🍴 👤 [veritas501](https://github.com/veritas501) Forked [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) to [veritas501/gpt_image_playground](https://github.com/veritas501/gpt_image_playground)
+  > 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 
 
 ---
-*最后更新于 2026-05-11 13:45:26 UTC*
+*最后更新于 2026-05-11 16:29:57 UTC*
 *历史记录保存在 `archive` 目录中。*
