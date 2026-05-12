@@ -17,11 +17,15 @@
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🚀 👤 [MouriNaruto](https://github.com/MouriNaruto) Made [qietv/cargo-cpp-project](https://github.com/qietv/cargo-cpp-project) public
-  > Template of building your C/C++ projects using Rust cargo infrastructure
+  > Template for building C/C++ projects with Rust Cargo infrastructure.
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang)
+  > 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [TimAnthonyAlexander/demo-anticheat](https://github.com/TimAnthonyAlexander/demo-anticheat)
@@ -62,6 +66,24 @@
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Gridea-Pro/gridea-pro](https://github.com/Gridea-Pro/gridea-pro)
   > Gridea Pro - 下一代桌面静态博客写作客户端 —— 像用 Notion 一样写博客。
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [shawnxie94/readrops-lumina](https://github.com/shawnxie94/readrops-lumina)
+  > Android RSS 阅读器，基于 Readrops 并集成 Lumina 采集能力
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [readrops/Readrops](https://github.com/readrops/Readrops)
+  > Android multi-services RSS client
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+  > A full-featured download manager — rebuilt from the ground up
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Ccccccccvvm/dsp_bypass](https://github.com/Ccccccccvvm/dsp_bypass)
+  > APatch/KernelPatch KPM that masks root-framework sepolicy rules from userspace SELinux probes (e.g. ...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [symgraph/IDAssist](https://github.com/symgraph/IDAssist)
+  > AI-Powered Reverse Engineering Plugin for IDA Pro
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [KernelSU-Next/KPatch-Next-Module](https://github.com/KernelSU-Next/KPatch-Next-Module)
+  > Standalone implementation of KPM support for Magisk/KernelSU
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy)
+  > Tunnel (TUN) interface for SOCKS and HTTP proxies
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [iam567/LifeManga](https://github.com/iam567/LifeManga)
+  > ios swift swiftui openai gpt-image manga ai-art
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [godot-rust/gdext](https://github.com/godot-rust/gdext)
@@ -76,6 +98,10 @@
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [toon-format/toon](https://github.com/toon-format/toon)
   > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+- 🍴 👤 [veritas501](https://github.com/veritas501) Forked [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng) to [veritas501/d810-ng-idahub](https://github.com/veritas501/d810-ng-idahub)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs)
@@ -87,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-05-12 09:34:11 UTC*
+*最后更新于 2026-05-12 11:51:02 UTC*
 *历史记录保存在 `archive` 目录中。*
