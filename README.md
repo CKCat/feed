@@ -78,6 +78,10 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
   > A full-featured download manager — rebuilt from the ground up
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
+  > Skills: Binary deobfuscation of O-LLVM-like protected binaries
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Ccccccccvvm/dsp_bypass](https://github.com/Ccccccccvvm/dsp_bypass)
   > APatch/KernelPatch KPM that masks root-framework sepolicy rules from userspace SELinux probes (e.g. ...
@@ -109,6 +113,8 @@
   > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng) to [veritas501/d810-ng-idahub](https://github.com/veritas501/d810-ng-idahub)
   > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+- 🍴 👤 [veritas501](https://github.com/veritas501) Forked [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) to [veritas501/obsidian-pdf-plus](https://github.com/veritas501/obsidian-pdf-plus)
+  > PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindi...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs)
@@ -122,5 +128,5 @@
 
 
 ---
-*最后更新于 2026-05-12 14:13:58 UTC*
+*最后更新于 2026-05-12 17:07:06 UTC*
 *历史记录保存在 `archive` 目录中。*
