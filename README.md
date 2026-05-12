@@ -82,6 +82,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Ccccccccvvm/dsp_bypass](https://github.com/Ccccccccvvm/dsp_bypass)
   > APatch/KernelPatch KPM that masks root-framework sepolicy rules from userspace SELinux probes (e.g. ...
@@ -128,5 +132,5 @@
 
 
 ---
-*最后更新于 2026-05-12 17:07:06 UTC*
+*最后更新于 2026-05-12 19:45:17 UTC*
 *历史记录保存在 `archive` 目录中。*
