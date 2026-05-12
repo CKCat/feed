@@ -46,6 +46,10 @@
   > Let's boot U-Boot as DA (without mtkclient)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [androidrbox/mediatek-preloader-tools](https://github.com/androidrbox/mediatek-preloader-tools)
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+  > Annotate and review coding agent plans and code diffs visually, share with your team, send feedback ...
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
@@ -136,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-05-12 21:16:15 UTC*
+*最后更新于 2026-05-12 22:57:11 UTC*
 *历史记录保存在 `archive` 目录中。*
