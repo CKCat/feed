@@ -130,7 +130,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal and CUDA
 
+### [zodiacon](https://github.com/zodiacon)
+- 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
+
 
 ---
-*最后更新于 2026-05-12 19:45:17 UTC*
+*最后更新于 2026-05-12 21:16:15 UTC*
 *历史记录保存在 `archive` 目录中。*
