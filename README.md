@@ -15,8 +15,14 @@
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🍴 👤 [ErodedElk](https://github.com/ErodedElk) Forked [cnwuwil/finireport-llm-wiki](https://github.com/cnwuwil/finireport-llm-wiki) to [ErodedElk/finireport-llm-wiki](https://github.com/ErodedElk/finireport-llm-wiki)
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Fatmike-GH/PELoader](https://github.com/Fatmike-GH/PELoader)
+  > A Windows PE loader / manual mapper for executables (x86 and x64) with full TLS (Thread Local Storag...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🚀 👤 [MouriNaruto](https://github.com/MouriNaruto) Made [qietv/cargo-cpp-project](https://github.com/qietv/cargo-cpp-project) public
+  > Template for building C/C++ projects with Rust Cargo infrastructure.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [qietv/cargo-cpp-project](https://github.com/qietv/cargo-cpp-project)
   > Template for building C/C++ projects with Rust Cargo infrastructure.
 
 ### [Mrack](https://github.com/Mrack)
@@ -34,7 +40,6 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [dmz2001TH/carplay-android](https://github.com/dmz2001TH/carplay-android)
-  > Apple CarPlay protocol implementation for Android - Target: Nissan Almera 2025
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/linux](https://github.com/mt6572-mainline/linux)
   > Linux kernel source tree with patches for the MediaTek MT6572
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/da-boot](https://github.com/mt6572-mainline/da-boot)
@@ -92,6 +97,8 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
   > An evolving how-to guide for securing a Linux server.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [y0k4i-1337/frida4burp](https://github.com/y0k4i-1337/frida4burp)
+  > A set of scripts to facilitate HTTP interception on mobile apps
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
@@ -110,8 +117,10 @@
   > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace) to [ys1231/GumTrace](https://github.com/ys1231/GumTrace)
   > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal and CUDA
 
 
 ---
-*最后更新于 2026-05-12 11:51:02 UTC*
+*最后更新于 2026-05-12 14:13:58 UTC*
 *历史记录保存在 `archive` 目录中。*
