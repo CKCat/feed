@@ -68,6 +68,12 @@
   > Collections of awesome neovim plugins.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
   > Persists tmux environment across system restarts.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [coder/mux](https://github.com/coder/mux)
+  > A desktop app for isolated, parallel agentic development
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [coder/ghostty-web](https://github.com/coder/ghostty-web)
+  > Ghostty for the web with xterm.js API compatibility
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)
+  > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi,...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Ccccccccvvm/dsp_bypass](https://github.com/Ccccccccvvm/dsp_bypass)
@@ -110,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-05-11 22:03:38 UTC*
+*最后更新于 2026-05-11 23:54:55 UTC*
 *历史记录保存在 `archive` 目录中。*
