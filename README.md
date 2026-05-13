@@ -110,11 +110,15 @@
 - 🚀 👤 [stong](https://github.com/stong) Made [v12-security/pocs](https://github.com/v12-security/pocs) public
   > poc it like it's hot
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [v12-security/pocs](https://github.com/v12-security/pocs)
+  > poc it like it's hot
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system)
   > test
 
 
 ---
-*最后更新于 2026-05-13 13:08:12 UTC*
+*最后更新于 2026-05-13 16:15:34 UTC*
 *历史记录保存在 `archive` 目录中。*
