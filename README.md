@@ -12,6 +12,17 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Neruaka/LOL-account-Manager](https://github.com/Neruaka/LOL-account-Manager)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [techchrism/valorant-api-docs](https://github.com/techchrism/valorant-api-docs)
+  > Automatically generated documentation for Valorant API endpoints the client uses internally
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [NotGAspegic/lol-dashboard](https://github.com/NotGAspegic/lol-dashboard)
+  > Farsight Analytics is a machine-learning-powered analytics platform for League of Legends that proce...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [tanishqmanuja/valorant-api-client](https://github.com/tanishqmanuja/valorant-api-client)
+  > 💢 VAPIC is a type safe implementation of an API Client for VALORANT.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [JelleBwns/lol-client-api](https://github.com/JelleBwns/lol-client-api)
+  > reconstructed league client aspects fully from scratch
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
   > 内核驱动开发工具包 (Kernel Driver Development Kit)
@@ -19,12 +30,17 @@
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [micw/docker-lxc](https://github.com/micw/docker-lxc)
   > Run stateful lxc containers managed by docker
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [RuriOSS/rurima](https://github.com/RuriOSS/rurima)
+  > Run docker & LXC images without docker or LXC program, without kernel features support, even without...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
   > SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [agentrebench/AgentRE-Bench](https://github.com/agentrebench/AgentRE-Bench)
   > AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse...
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ItsVixano/huawei_firmware](https://github.com/ItsVixano/huawei_firmware)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)
@@ -39,6 +55,10 @@
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) to [bet4it/nixpkgs](https://github.com/bet4it/nixpkgs)
   > Nix Packages collection & NixOS
 
+### [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines)
+- 🌟 👤 [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines) Starred [banda59/VMP-devirtualize-project](https://github.com/banda59/VMP-devirtualize-project)
+  > vmprotect devirtualization lab
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [rokicool/gsd-opencode](https://github.com/rokicool/gsd-opencode)
   > Get-Shit-Done by TACHES for OpenCode
@@ -50,6 +70,10 @@
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [MatcherAny/whitelist.pac](https://github.com/MatcherAny/whitelist.pac)
   > 自己使用的白名单pac文件，不定时更新常见域名
+
+### [h311d1n3r](https://github.com/h311d1n3r)
+- 🌟 👤 [h311d1n3r](https://github.com/h311d1n3r) Starred [toby-bro/microtaint](https://github.com/toby-bro/microtaint)
+  > Lightweight bit-precise taint rule generator for assembly
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
@@ -92,5 +116,5 @@
 
 
 ---
-*最后更新于 2026-05-13 10:22:43 UTC*
+*最后更新于 2026-05-13 13:08:12 UTC*
 *历史记录保存在 `archive` 目录中。*
