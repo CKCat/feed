@@ -8,6 +8,10 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
   > A collective list of free APIs
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [massive-com/client-python](https://github.com/massive-com/client-python)
+  > The official Python client library for the Massive.com REST and WebSocket API.
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
@@ -96,6 +100,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler)
   > Writing a compiler in a week-end
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FutureComputing4AI/Reverse-Engineering-Function-Search](https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Duntss/IDA-ZVM-Disassembler](https://github.com/Duntss/IDA-ZVM-Disassembler)
+  > Disassembler for Zeus VM custom instruction set for IDA Pro, based on OALabs one.
 
 ### [noxke](https://github.com/noxke)
 - 🍴 👤 [noxke](https://github.com/noxke) Forked [ShirkNeko/Action_OnePlus_MKSU_SUSFS](https://github.com/ShirkNeko/Action_OnePlus_MKSU_SUSFS) to [noxke/Action_OnePlus_MKSU_SUSFS](https://github.com/noxke/Action_OnePlus_MKSU_SUSFS)
@@ -121,5 +127,5 @@
 
 
 ---
-*最后更新于 2026-05-13 18:54:06 UTC*
+*最后更新于 2026-05-13 20:28:54 UTC*
 *历史记录保存在 `archive` 目录中。*
