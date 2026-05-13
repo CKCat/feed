@@ -55,6 +55,10 @@
   > An easy and powerful Rust HTTP Client
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [rust-native-tls/rust-native-tls](https://github.com/rust-native-tls/rust-native-tls) to [Ylarod/rust-native-tls](https://github.com/Ylarod/rust-native-tls)
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+  > :computer: C++ Functional Terminal User Interface. :heart:
+
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) to [bet4it/nixpkgs](https://github.com/bet4it/nixpkgs)
   > Nix Packages collection & NixOS
@@ -127,5 +131,5 @@
 
 
 ---
-*最后更新于 2026-05-13 20:28:54 UTC*
+*最后更新于 2026-05-13 22:07:18 UTC*
 *历史记录保存在 `archive` 目录中。*
