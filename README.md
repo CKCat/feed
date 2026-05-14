@@ -55,6 +55,14 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [suyiiyii/AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI)
   > AutoGLM 的现代化 Web 图形界面 - 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [NepMods/InjectARM64](https://github.com/NepMods/InjectARM64)
+  > Inject ARM-64 is designed to facilitate the injection of cheats into ARM-64/ARM-32 architecture devi...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ispointer/ExternalMenu](https://github.com/ispointer/ExternalMenu)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ispointer/LibGrabber](https://github.com/ispointer/LibGrabber)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [NepMods/NativeModMenu](https://github.com/NepMods/NativeModMenu)
+  > NativeModMenu
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
   > DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proo...
@@ -83,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-05-14 16:57:57 UTC*
+*最后更新于 2026-05-14 18:55:13 UTC*
 *历史记录保存在 `archive` 目录中。*
