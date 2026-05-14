@@ -98,15 +98,6 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
   > A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable teleme...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [f0rki/mapping-high-level-constructs-to-llvm-ir](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
-  > A guide that explains how high level programming language constructs are mapped to the LLVM intermed...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler)
-  > Writing a compiler in a week-end
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FutureComputing4AI/Reverse-Engineering-Function-Search](https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Duntss/IDA-ZVM-Disassembler](https://github.com/Duntss/IDA-ZVM-Disassembler)
-  > Disassembler for Zeus VM custom instruction set for IDA Pro, based on OALabs one.
-
 ### [noxke](https://github.com/noxke)
 - 🍴 👤 [noxke](https://github.com/noxke) Forked [ShirkNeko/Action_OnePlus_MKSU_SUSFS](https://github.com/ShirkNeko/Action_OnePlus_MKSU_SUSFS) to [noxke/Action_OnePlus_MKSU_SUSFS](https://github.com/noxke/Action_OnePlus_MKSU_SUSFS)
   > 使用Github Action自动编译一加SukiSU内核
@@ -131,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-05-13 22:07:18 UTC*
+*最后更新于 2026-05-13 23:53:45 UTC*
 *历史记录保存在 `archive` 目录中。*
