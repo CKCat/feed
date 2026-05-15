@@ -77,10 +77,15 @@
   > Automated LLVM bug reproducer reduction service
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster)
   > An image-to-world skillset for Claude.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Brentdevent/S2x](https://github.com/Brentdevent/S2x)
+  > A custom Call of Duty®: WWII client providing modding, and client-side improvements.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [trycua/cua](https://github.com/trycua/cua)
   > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/yedie_root_canoe](https://github.com/superturtlee/yedie_root_canoe)
 
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
@@ -101,8 +106,12 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel)
   > Modern, fast and obfuscated VPN protocol
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [madeye/meow-ios](https://github.com/madeye/meow-ios)
+  > iOS port of meow — VPN/proxy client for iOS 26, powered by mihomo-rust
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [madeye/trans_proxy](https://github.com/madeye/trans_proxy)
+  > Transparent proxy for macOS and Linux that intercepts TCP traffic via pf/nftables and forwards it th...
 
 
 ---
-*最后更新于 2026-05-15 16:06:00 UTC*
+*最后更新于 2026-05-15 18:19:51 UTC*
 *历史记录保存在 `archive` 目录中。*
