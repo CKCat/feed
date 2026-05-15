@@ -29,10 +29,24 @@
   > Pulsefire is a modern and flexible Riot Games Python SDK.
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MingweiSamuel/Riven](https://github.com/MingweiSamuel/Riven)
   > Riot API Library for Rust
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VShopApp/mobile](https://github.com/VShopApp/mobile)
+  > Check your game shop with ease.
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [cli/cli](https://github.com/cli/cli)
   > GitHub’s official command line tool
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/AudioPlayer](https://github.com/Mq-b/AudioPlayer)
+  > 一个简洁的 C++17 音频播放库，基于 miniaudio
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [jdnei/mitce](https://github.com/jdnei/mitce)
+  > mitce机场官方地址
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
@@ -40,11 +54,9 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [OwenPawl/ghidra-re-skill](https://github.com/OwenPawl/ghidra-re-skill)
   > Codex Ghidra reverse engineering skill with headless workflows, bug-hunting bundles, and a live brid...
 
-### [can1357](https://github.com/can1357)
-- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/roboomp](https://github.com/can1357/roboomp) public
-  > Self-hosted GitHub triage-and-fix bot that drives oh-my-pi (omp) to classify issues, reproduce bugs,...
-- 🌟 👤 [can1357](https://github.com/can1357) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+  > An AI prompt optimizer for writing better prompts and getting better AI results.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
@@ -72,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-05-15 06:31:22 UTC*
+*最后更新于 2026-05-15 09:44:39 UTC*
 *历史记录保存在 `archive` 目录中。*
