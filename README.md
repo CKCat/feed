@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) to [0xdea/zizmor](https://github.com/0xdea/zizmor)
+  > Static analysis for GitHub Actions
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
@@ -31,6 +35,8 @@
   > Riot API Library for Rust
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VShopApp/mobile](https://github.com/VShopApp/mobile)
   > Check your game shop with ease.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [KebsCS/LeagueClientDebugger](https://github.com/KebsCS/LeagueClientDebugger)
+  > View and modify all requests sent and received by the League Client and Riot Client. Works on League...
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [cli/cli](https://github.com/cli/cli)
@@ -39,6 +45,8 @@
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/AudioPlayer](https://github.com/Mq-b/AudioPlayer)
   > 一个简洁的 C++17 音频播放库，基于 miniaudio
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
@@ -62,6 +70,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
   > Automated LLVM bug reproducer reduction service
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [trycua/cua](https://github.com/trycua/cua)
+  > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
@@ -77,6 +89,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Fuzion24/JustTrustMe](https://github.com/Fuzion24/JustTrustMe)
   > An xposed module that disables SSL certificate checking for the purposes of auditing an app with cer...
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [frida/frida](https://github.com/frida/frida) to [ys1231/frida](https://github.com/ys1231/frida)
+  > Clone this repo to build Frida
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [liandu2024/clash](https://github.com/liandu2024/clash) to [ys1231/clash](https://github.com/ys1231/clash)
+  > OpenClash 完美配置，请参考油管视频来配置：https://www.youtube.com/watch?v=S2l_0g4EOHk
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel)
@@ -84,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-05-15 09:44:39 UTC*
+*最后更新于 2026-05-15 11:52:55 UTC*
 *历史记录保存在 `archive` 目录中。*
