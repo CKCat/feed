@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) to [0xdea/zizmor](https://github.com/0xdea/zizmor)
+  > Static analysis for GitHub Actions
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
+
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
+  > A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
@@ -20,9 +28,55 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [wuji-labs/nopua](https://github.com/wuji-labs/nopua)
   > 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 ...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [D3-vin/hcaptcha-challenger](https://github.com/D3-vin/hcaptcha-challenger)
+  > 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Kyagara/equinox](https://github.com/Kyagara/equinox)
+  > Library for all Riot Games APIs written in Golang.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ianhco/pulsefire](https://github.com/ianhco/pulsefire)
+  > Pulsefire is a modern and flexible Riot Games Python SDK.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MingweiSamuel/Riven](https://github.com/MingweiSamuel/Riven)
+  > Riot API Library for Rust
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VShopApp/mobile](https://github.com/VShopApp/mobile)
+  > Check your game shop with ease.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [KebsCS/LeagueClientDebugger](https://github.com/KebsCS/LeagueClientDebugger)
+  > View and modify all requests sent and received by the League Client and Riot Client. Works on League...
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [cli/cli](https://github.com/cli/cli)
+  > GitHub’s official command line tool
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/AudioPlayer](https://github.com/Mq-b/AudioPlayer)
+  > 一个简洁的 C++17 音频播放库，基于 miniaudio
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [vul337/CiRCLE](https://github.com/vul337/CiRCLE)
+  > CiRCLE: Recovering Complex Data Structures in Binaries beyond Fragmentation (IEEE S&P 2026)
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [jdnei/mitce](https://github.com/jdnei/mitce)
+  > mitce机场官方地址
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
+  > Anti-LLM obfuscation via finger counting 
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [OwenPawl/ghidra-re-skill](https://github.com/OwenPawl/ghidra-re-skill)
+  > Codex Ghidra reverse engineering skill with headless workflows, bug-hunting bundles, and a live brid...
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
   > An AI prompt optimizer for writing better prompts and getting better AI results.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
+  > Automated LLVM bug reproducer reduction service
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster)
+  > An image-to-world skillset for Claude.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [trycua/cua](https://github.com/trycua/cua)
@@ -31,6 +85,10 @@
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
   > A feature-rich command-line audio/video downloader
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
+  > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Fuzion24/JustTrustMe](https://github.com/Fuzion24/JustTrustMe)
@@ -46,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-05-15 13:59:01 UTC*
+*最后更新于 2026-05-15 16:06:00 UTC*
 *历史记录保存在 `archive` 目录中。*
