@@ -62,6 +62,8 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ispointer/LibGrabber](https://github.com/ispointer/LibGrabber)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [NepMods/NativeModMenu](https://github.com/NepMods/NativeModMenu)
   > NativeModMenu
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [oMasko/kail_location](https://github.com/oMasko/kail_location)
+  > 路线模拟，位置模拟，导航模拟，步频模拟，虚拟定位，nfc模拟
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
@@ -85,11 +87,15 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [m-sec-org/BreachWeave](https://github.com/m-sec-org/BreachWeave)
   > 智能渗透Agent Manager/Observer/Solver 多角色架构，基于 pi-mono SDK。
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+  > Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, G...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [celery/celery](https://github.com/celery/celery)
   > Distributed Task Queue (development branch)
 
 
 ---
-*最后更新于 2026-05-14 22:07:09 UTC*
+*最后更新于 2026-05-14 23:54:31 UTC*
 *历史记录保存在 `archive` 目录中。*
