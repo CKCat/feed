@@ -69,8 +69,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
+  > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 
 
 ---
-*最后更新于 2026-05-16 14:53:01 UTC*
+*最后更新于 2026-05-16 15:55:12 UTC*
 *历史记录保存在 `archive` 目录中。*
