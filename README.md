@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix)
+  > 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BlossomiShymae/Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net)
   > 🪡 A .NET helper development tool for the LCU and Game Client! 
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-05-16 09:48:14 UTC*
+*最后更新于 2026-05-16 10:59:46 UTC*
 *历史记录保存在 `archive` 目录中。*
