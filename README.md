@@ -20,6 +20,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ekvanox/latcha](https://github.com/ekvanox/latcha)
   > Lacha is an unbreakable CAPTCHA that uses hidden image structures only humans perceive.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [openai/codex](https://github.com/openai/codex) to [NyaMisty/codex_fork](https://github.com/NyaMisty/codex_fork)
+  > Lightweight coding agent that runs in your terminal
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [GithubPhobos/Echo](https://github.com/GithubPhobos/Echo)
   > A blazing-fast, offline push-to-talk voice assistant. Features real-time Whisper.net transcription, ...
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-05-16 15:55:12 UTC*
+*最后更新于 2026-05-16 16:55:46 UTC*
 *历史记录保存在 `archive` 目录中。*
