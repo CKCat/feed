@@ -16,6 +16,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BlossomiShymae/Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net)
   > 🪡 A .NET helper development tool for the LCU and Game Client! 
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ekvanox/latcha](https://github.com/ekvanox/latcha)
+  > Lacha is an unbreakable CAPTCHA that uses hidden image structures only humans perceive.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [GithubPhobos/Echo](https://github.com/GithubPhobos/Echo)
   > A blazing-fast, offline push-to-talk voice assistant. Features real-time Whisper.net transcription, ...
@@ -31,6 +35,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [YGCODES1/LinuxGU-](https://github.com/YGCODES1/LinuxGU-)
+  > Linux 0.11 And Gui Code ! 
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [0xSero/ai-data-extraction](https://github.com/0xSero/ai-data-extraction)
@@ -50,6 +56,10 @@
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [XiaoTong6666/FuseHide](https://github.com/XiaoTong6666/FuseHide) to [sekaiacg/FuseHide](https://github.com/sekaiacg/FuseHide)
   > 烦，随时想删库，无人在意，自娱自乐罢了
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma)
+  > CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an ...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [shikijs/shiki](https://github.com/shikijs/shiki)
   > A beautiful yet powerful syntax highlighter
@@ -62,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-05-16 13:43:24 UTC*
+*最后更新于 2026-05-16 14:53:01 UTC*
 *历史记录保存在 `archive` 目录中。*
