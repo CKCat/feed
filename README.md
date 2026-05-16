@@ -20,8 +20,16 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [0xSero/ai-data-extraction](https://github.com/0xSero/ai-data-extraction)
+  > extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
+  > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 
 ### [sekaiacg](https://github.com/sekaiacg)
@@ -40,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-05-16 07:59:34 UTC*
+*最后更新于 2026-05-16 09:48:14 UTC*
 *历史记录保存在 `archive` 目录中。*
