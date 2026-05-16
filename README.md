@@ -35,6 +35,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [BBuf/kernel-pilot](https://github.com/BBuf/kernel-pilot)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [BBuf/kernel-pilot](https://github.com/BBuf/kernel-pilot) to [crazyguitar/kernel-pilot](https://github.com/crazyguitar/kernel-pilot)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
@@ -78,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-05-16 16:55:46 UTC*
+*最后更新于 2026-05-16 17:53:58 UTC*
 *历史记录保存在 `archive` 目录中。*
