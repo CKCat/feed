@@ -8,9 +8,17 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix)
   > 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
+  > Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BlossomiShymae/Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net)
   > 🪡 A .NET helper development tool for the LCU and Game Client! 
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [GithubPhobos/Echo](https://github.com/GithubPhobos/Echo)
+  > A blazing-fast, offline push-to-talk voice assistant. Features real-time Whisper.net transcription, ...
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [openai/privacy-filter](https://github.com/openai/privacy-filter)
@@ -45,6 +53,8 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [shikijs/shiki](https://github.com/shikijs/shiki)
   > A beautiful yet powerful syntax highlighter
+- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat) to [yuchuangu85/typora-theme-phycat](https://github.com/yuchuangu85/typora-theme-phycat)
+  > 一款精心打磨过的多色多功能Typora主题
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [larksuite/cli](https://github.com/larksuite/cli)
@@ -52,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-05-16 11:58:24 UTC*
+*最后更新于 2026-05-16 13:43:24 UTC*
 *历史记录保存在 `archive` 目录中。*
