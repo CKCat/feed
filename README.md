@@ -40,6 +40,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [cao-awa/Kora](https://github.com/cao-awa/Kora)
+  > Kora is an experimental Kotlin web server framework built on Netty,  high performance, compile-time,...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-05-17 13:13:13 UTC*
+*最后更新于 2026-05-17 14:52:50 UTC*
 *历史记录保存在 `archive` 目录中。*
