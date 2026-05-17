@@ -24,6 +24,10 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
   > A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplu...
 
+### [MlgmXyysd](https://github.com/MlgmXyysd)
+- 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [will127534/PCIe3_Hub](https://github.com/will127534/PCIe3_Hub)
+  > A opensource PCIe 3.0 Hub design based on ASM2806 with Raspberry Pi 5's PCIe FPC connector design
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -48,7 +52,11 @@
 - 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [qosmio/openwrt-ipq](https://github.com/qosmio/openwrt-ipq) to [kdrag0n/openwrt-ipq](https://github.com/kdrag0n/openwrt-ipq)
   > NSS Fork of OpenWrt targeting Qualcomm IPQ807x/6018
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
+  > Linux payload implementing HV exploits to run a custom bootloader
+
 
 ---
-*最后更新于 2026-05-17 09:02:13 UTC*
+*最后更新于 2026-05-17 11:01:58 UTC*
 *历史记录保存在 `archive` 目录中。*
