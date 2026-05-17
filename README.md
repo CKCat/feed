@@ -39,6 +39,8 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist)
   > 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [dolthub/dolt](https://github.com/dolthub/dolt)
+  > Dolt – Git for Data
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ilyakurdyukov/mousecam](https://github.com/ilyakurdyukov/mousecam)
@@ -75,8 +77,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
   > Linux payload implementing HV exploits to run a custom bootloader
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
+  > A GameCube/Wii emulator and debugger written in Rust.
 
 
 ---
-*最后更新于 2026-05-17 16:55:32 UTC*
+*最后更新于 2026-05-17 17:56:09 UTC*
 *历史记录保存在 `archive` 目录中。*
