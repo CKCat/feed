@@ -36,6 +36,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ilyakurdyukov/mousecam](https://github.com/ilyakurdyukov/mousecam)
   > ADNS USB Mouse Camera
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
@@ -58,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-05-17 11:01:58 UTC*
+*最后更新于 2026-05-17 13:13:13 UTC*
 *历史记录保存在 `archive` 目录中。*
