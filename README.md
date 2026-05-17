@@ -32,6 +32,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist)
+  > 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ilyakurdyukov/mousecam](https://github.com/ilyakurdyukov/mousecam)
   > ADNS USB Mouse Camera
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-05-17 14:52:50 UTC*
+*最后更新于 2026-05-17 15:55:55 UTC*
 *历史记录保存在 `archive` 目录中。*
