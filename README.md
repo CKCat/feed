@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [Ap0dexMe0](https://github.com/Ap0dexMe0)
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
   > YellowKey Bitlocker Bypass Vulnerability
@@ -11,10 +15,22 @@
   > MCP server for JADX-AI Plugin
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [NeoTheCapt/RedteamAgent](https://github.com/NeoTheCapt/RedteamAgent)
   > An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenC...
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
+  > A curated list of awesome Ghidra materials
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [angr/angr](https://github.com/angr/angr)
+  > A powerful and user-friendly binary analysis platform!
+
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+  > A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplu...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ilyakurdyukov/mousecam](https://github.com/ilyakurdyukov/mousecam)
+  > ADNS USB Mouse Camera
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
@@ -28,7 +44,11 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak)
   > Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mi...
 
+### [kdrag0n](https://github.com/kdrag0n)
+- 🍴 👤 [kdrag0n](https://github.com/kdrag0n) Forked [qosmio/openwrt-ipq](https://github.com/qosmio/openwrt-ipq) to [kdrag0n/openwrt-ipq](https://github.com/kdrag0n/openwrt-ipq)
+  > NSS Fork of OpenWrt targeting Qualcomm IPQ807x/6018
+
 
 ---
-*最后更新于 2026-05-17 06:19:44 UTC*
+*最后更新于 2026-05-17 09:02:13 UTC*
 *历史记录保存在 `archive` 目录中。*
