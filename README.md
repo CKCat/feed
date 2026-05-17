@@ -50,6 +50,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) to [chenxiaolong/syncthing-fork](https://github.com/chenxiaolong/syncthing-fork)
+  > Syncthing-Fork - A Syncthing Wrapper for Android.
+
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [cao-awa/Kora](https://github.com/cao-awa/Kora)
   > Kora is an experimental Kotlin web server framework built on Netty,  high performance, compile-time,...
@@ -82,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-05-17 19:08:25 UTC*
+*最后更新于 2026-05-17 20:45:00 UTC*
 *历史记录保存在 `archive` 目录中。*
