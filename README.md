@@ -84,7 +84,13 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
   > A GameCube/Wii emulator and debugger written in Rust.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
+
 
 ---
-*最后更新于 2026-05-17 21:51:45 UTC*
+*最后更新于 2026-05-17 22:50:12 UTC*
 *历史记录保存在 `archive` 目录中。*
