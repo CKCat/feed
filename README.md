@@ -24,6 +24,10 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
   > A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplu...
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [pressly/goose](https://github.com/pressly/goose)
+  > A database migration tool. Supports SQL migrations and Go functions. 
+
 ### [MlgmXyysd](https://github.com/MlgmXyysd)
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [will127534/PCIe3_Hub](https://github.com/will127534/PCIe3_Hub)
   > A opensource PCIe 3.0 Hub design based on ASM2806 with Raspberry Pi 5's PCIe FPC connector design
@@ -56,6 +60,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [tianon/gosu](https://github.com/tianon/gosu)
   > Simple Go-based setuid+setgid+setgroups+exec
 
+### [gerhart01](https://github.com/gerhart01)
+- 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [cbwang505/SecurekernelIUMDebug](https://github.com/cbwang505/SecurekernelIUMDebug)
+  > debug isolated usermode process on Nested Virtualization guest vm 
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak)
   > Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mi...
@@ -70,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-05-17 15:55:55 UTC*
+*最后更新于 2026-05-17 16:55:32 UTC*
 *历史记录保存在 `archive` 目录中。*
