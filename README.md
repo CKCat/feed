@@ -54,6 +54,12 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Martichou/rquickshare](https://github.com/Martichou/rquickshare)
   > Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/LinkToWindows](https://github.com/YuKongA/LinkToWindows)
+  > [Zygisk] 添加完整的连接到 Windows 支持
 
 ### [smx-smx](https://github.com/smx-smx)
 - 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [tschicki/PS2-Portable](https://github.com/tschicki/PS2-Portable)
@@ -61,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-05-18 11:07:12 UTC*
+*最后更新于 2026-05-18 15:23:01 UTC*
 *历史记录保存在 `archive` 目录中。*
