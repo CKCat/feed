@@ -4,13 +4,30 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [vierystein/HashSync](https://github.com/vierystein/HashSync)
+  > Future-proof data synchronization at scale through next-generation hashsync-optimization and intelli...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [vierystein/QueueCore](https://github.com/vierystein/QueueCore)
+  > Professional QueueCore queuecore-engine with QueueCore-optimized scalable-architecture and enterpris...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/fryda](https://github.com/0xbinder/fryda)
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [tanishqmanuja/valorant-api-client](https://github.com/tanishqmanuja/valorant-api-client) to [MiroKaku/valorant-api-client](https://github.com/MiroKaku/valorant-api-client)
+  > 💢 VAPIC is a type safe implementation of an API Client for VALORANT.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ChillMagic/OneFileChat](https://github.com/ChillMagic/OneFileChat)
   > One file, one chat
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [eclipse-oniro4openharmony/device_board_oniro](https://github.com/eclipse-oniro4openharmony/device_board_oniro)
+  > Oniro board support packages
 
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [mguentner/cannelloni](https://github.com/mguentner/cannelloni)
   > a SocketCAN over Ethernet tunnel
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker)
@@ -34,7 +51,15 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
   > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Martichou/rquickshare](https://github.com/Martichou/rquickshare)
+  > Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
+
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [tschicki/PS2-Portable](https://github.com/tschicki/PS2-Portable)
+  > A custom designed PS2 Portable
+
 
 ---
-*最后更新于 2026-05-18 06:57:04 UTC*
+*最后更新于 2026-05-18 11:07:12 UTC*
 *历史记录保存在 `archive` 目录中。*
