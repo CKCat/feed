@@ -19,6 +19,20 @@
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [tanishqmanuja/valorant-api-client](https://github.com/tanishqmanuja/valorant-api-client) to [MiroKaku/valorant-api-client](https://github.com/MiroKaku/valorant-api-client)
   > 💢 VAPIC is a type safe implementation of an API Client for VALORANT.
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [ChillMagic/OneFileChat](https://github.com/ChillMagic/OneFileChat)
+  > One file, one chat
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [eclipse-oniro4openharmony/device_board_oniro](https://github.com/eclipse-oniro4openharmony/device_board_oniro)
+  > Oniro board support packages
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [mguentner/cannelloni](https://github.com/mguentner/cannelloni)
+  > a SocketCAN over Ethernet tunnel
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker)
   > New version checker for software releases
@@ -39,6 +53,18 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [charlax/professional-programming](https://github.com/charlax/professional-programming)
   > A collection of learning resources for curious software engineers
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Martichou/rquickshare](https://github.com/Martichou/rquickshare)
+  > Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/LinkToWindows](https://github.com/YuKongA/LinkToWindows)
   > [Zygisk] 添加完整的连接到 Windows 支持
@@ -49,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-05-18 17:57:40 UTC*
+*最后更新于 2026-05-18 19:47:05 UTC*
 *历史记录保存在 `archive` 目录中。*
