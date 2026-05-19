@@ -4,9 +4,6 @@
 
 ## 今日动态
 
-### [Admirepowered](https://github.com/Admirepowered)
-- 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [EmanuelCN/kernel_xiaomi_sm8250](https://github.com/EmanuelCN/kernel_xiaomi_sm8250) to [Admirepowered/kernel_xiaomi_sm8250](https://github.com/Admirepowered/kernel_xiaomi_sm8250)
-
 ### [Fare9](https://github.com/Fare9)
 - 🌟 👤 [Fare9](https://github.com/Fare9) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
   > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
@@ -92,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-05-19 16:15:24 UTC*
+*最后更新于 2026-05-19 18:57:17 UTC*
 *历史记录保存在 `archive` 目录中。*
