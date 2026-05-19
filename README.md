@@ -4,15 +4,32 @@
 
 ## 今日动态
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [EmanuelCN/kernel_xiaomi_sm8250](https://github.com/EmanuelCN/kernel_xiaomi_sm8250) to [Admirepowered/kernel_xiaomi_sm8250](https://github.com/Admirepowered/kernel_xiaomi_sm8250)
+
+### [Fare9](https://github.com/Fare9)
+- 🌟 👤 [Fare9](https://github.com/Fare9) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
+- 🌟 👤 [Fare9](https://github.com/Fare9) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [sigoden/dufs](https://github.com/sigoden/dufs)
   > A file server that supports static serving, uploading, searching, accessing control, webdav...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList)
   > A new AList Fork to Anti Trust Crisis
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [go-ego/gse](https://github.com/go-ego/gse)
+  > Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [google/highway](https://github.com/google/highway)
   > Performance-portable, length-agnostic SIMD with runtime dispatch
+- 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [ocornut/imgui](https://github.com/ocornut/imgui) to [K7ware/imgui](https://github.com/K7ware/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+  > Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [google/aarch64-esr-decoder](https://github.com/google/aarch64-esr-decoder)
@@ -51,6 +68,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
   > Binary ninja symbolic execution library
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+  > A community-supported supercharged document management system: scan, index and archive all your docu...
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)
   > Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It f...
@@ -71,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-05-19 12:05:18 UTC*
+*最后更新于 2026-05-19 16:15:24 UTC*
 *历史记录保存在 `archive` 目录中。*
