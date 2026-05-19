@@ -44,6 +44,8 @@
   > Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet)
   > 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+  > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
@@ -52,6 +54,8 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)
   > Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It f...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Uevo001/magiskboot-linux](https://github.com/Uevo001/magiskboot-linux)
+  > Official magiskboot form Magisk (topjohnwu) source code, use GitHub Actions to build everyday.
 
 ### [stong](https://github.com/stong)
 - 🌟 👤 [stong](https://github.com/stong) Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
@@ -61,7 +65,11 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [microsoft/maro](https://github.com/microsoft/maro)
   > Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Serv...
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
+  > Transparent Proxy with Mihomo on OpenWrt.
+
 
 ---
-*最后更新于 2026-05-19 08:28:16 UTC*
+*最后更新于 2026-05-19 12:05:18 UTC*
 *历史记录保存在 `archive` 目录中。*
