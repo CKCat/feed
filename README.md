@@ -12,6 +12,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/CVE-2026-0073](https://github.com/0xbinder/CVE-2026-0073)
   > An automated exploit for CVE-2026-0073 (Android ADB TLS Auth Bypass). Features a built-in mDNS/Zeroc...
 
+### [AloneMonkey](https://github.com/AloneMonkey)
+- 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
+
 ### [JLospinoso](https://github.com/JLospinoso)
 - 🌟 👤 [JLospinoso](https://github.com/JLospinoso) Starred [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
   > The programming language for agents
@@ -70,7 +74,11 @@
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [eza-community/eza](https://github.com/eza-community/eza)
   > A modern alternative to ls
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [fasiondog/hikyuu](https://github.com/fasiondog/hikyuu)
+  > Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
+
 
 ---
-*最后更新于 2026-05-20 12:20:24 UTC*
+*最后更新于 2026-05-20 16:22:10 UTC*
 *历史记录保存在 `archive` 目录中。*
