@@ -19,6 +19,8 @@
 ### [JLospinoso](https://github.com/JLospinoso)
 - 🌟 👤 [JLospinoso](https://github.com/JLospinoso) Starred [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
   > The programming language for agents
+- 🚀 👤 [JLospinoso](https://github.com/JLospinoso) Made [JLospinoso/c-constructs-still-dont-work-cpp](https://github.com/JLospinoso/c-constructs-still-dont-work-cpp) public
+  > Companion examples for C constructs that still do not work in C++
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [shatyuka/valist](https://github.com/shatyuka/valist)
@@ -35,6 +37,10 @@
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [museslabs/phonto](https://github.com/museslabs/phonto)
+  > GPU-accelerated video wallpaper program for wayland compositors and macos
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
@@ -58,6 +64,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [NoobieDog/TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing)
   > A repo for TPM sniffing greatness
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [patryk4815/potato-rce](https://github.com/patryk4815/potato-rce)
+  > Just potato-rce, No nginx-poolslip exploit. 
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -80,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-05-20 16:22:10 UTC*
+*最后更新于 2026-05-20 19:21:31 UTC*
 *历史记录保存在 `archive` 目录中。*
