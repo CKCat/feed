@@ -38,6 +38,16 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+  > Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) to [crazyguitar/academic-research-skills](https://github.com/crazyguitar/academic-research-skills)
+  > Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+  > Learn it. Build it. Ship it for others.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) to [crazyguitar/ai-engineering-from-scratch](https://github.com/crazyguitar/ai-engineering-from-scratch)
+  > Learn it. Build it. Ship it for others.
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [museslabs/phonto](https://github.com/museslabs/phonto)
   > GPU-accelerated video wallpaper program for wayland compositors and macos
@@ -90,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-05-20 21:49:00 UTC*
+*最后更新于 2026-05-20 23:09:00 UTC*
 *历史记录保存在 `archive` 目录中。*
