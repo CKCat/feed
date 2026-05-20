@@ -9,6 +9,16 @@
   > Link Identity Editor. Put real or fake signatures in a Mach-O.
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [wh1te4ever/kfund](https://github.com/wh1te4ever/kfund)
   > kfund, short for my fun with kfd exploit.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0xbinder/CVE-2026-0073](https://github.com/0xbinder/CVE-2026-0073)
+  > An automated exploit for CVE-2026-0073 (Android ADB TLS Auth Bypass). Features a built-in mDNS/Zeroc...
+
+### [JLospinoso](https://github.com/JLospinoso)
+- 🌟 👤 [JLospinoso](https://github.com/JLospinoso) Starred [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
+  > The programming language for agents
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [shatyuka/valist](https://github.com/shatyuka/valist)
+  > A header-only C++ library for constructing `va_list` argument lists at runtime.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
@@ -40,9 +50,17 @@
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) to [lxraa/Il2CppDumper](https://github.com/lxraa/Il2CppDumper)
   > Unity il2cpp reverse engineer
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [NoobieDog/TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing)
+  > A repo for TPM sniffing greatness
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+  > Kronos: A Foundation Model for the Language of Financial Markets
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [sharkdp/fd](https://github.com/sharkdp/fd)
@@ -54,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-05-20 09:25:25 UTC*
+*最后更新于 2026-05-20 12:20:24 UTC*
 *历史记录保存在 `archive` 目录中。*
