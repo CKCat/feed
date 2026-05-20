@@ -4,13 +4,29 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ProcursusTeam/ldid](https://github.com/ProcursusTeam/ldid)
+  > Link Identity Editor. Put real or fake signatures in a Mach-O.
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [wh1te4ever/kfund](https://github.com/wh1te4ever/kfund)
+  > kfund, short for my fun with kfd exploit.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
   > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [wattostudios/GameExtractor](https://github.com/wattostudios/GameExtractor)
+  > Reads and writes thousands of different archive and image formats used in games.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [luk-gg/UnrealExporter](https://github.com/luk-gg/UnrealExporter)
+  > Batch file exporter for Unreal Engine games.
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+  > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [LeoKemp223/NextBoard](https://github.com/LeoKemp223/NextBoard)
+  > 面向硬件产品PCB方案设计的AI Agent，Agent会自动帮你进行需求确认，实时分析国内外各类芯片技术方案，进行器件选型，下载datasheet，输出BOM表，计算价格，输出模块原理图，最终整合成...
 
 ### [evilpan](https://github.com/evilpan)
 - 🍴 👤 [evilpan](https://github.com/evilpan) Forked [sipeed/picoclaw](https://github.com/sipeed/picoclaw) to [evilpan/picoclaw](https://github.com/evilpan/picoclaw)
@@ -28,7 +44,15 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [sharkdp/fd](https://github.com/sharkdp/fd)
+  > A simple, fast and user-friendly alternative to 'find'
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+  > A cat(1) clone with wings.
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [eza-community/eza](https://github.com/eza-community/eza)
+  > A modern alternative to ls
+
 
 ---
-*最后更新于 2026-05-20 05:00:59 UTC*
+*最后更新于 2026-05-20 09:25:25 UTC*
 *历史记录保存在 `archive` 目录中。*
