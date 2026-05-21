@@ -52,6 +52,12 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
+  > A GameCube/Wii emulator and debugger written in Rust.
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [marin-m/pbtk](https://github.com/marin-m/pbtk)
+  > A toolset for reverse engineering and fuzzing Protobuf-based apps
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [0xeb/ghidrasql-skills](https://github.com/0xeb/ghidrasql-skills)
   > Claude Code skills for ghidrasql — live SQL interface for Ghidra analysis and annotation workflows
@@ -80,6 +86,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)
   > 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat)
+  > Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 ...
+
 ### [mahaloz](https://github.com/mahaloz)
 - 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
@@ -104,7 +114,10 @@
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
   > Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [qriousec/colony_agent](https://github.com/qriousec/colony_agent)
+
 
 ---
-*最后更新于 2026-05-21 19:48:51 UTC*
+*最后更新于 2026-05-21 21:24:22 UTC*
 *历史记录保存在 `archive` 目录中。*
