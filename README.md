@@ -52,6 +52,12 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [0xeb/ghidrasql-skills](https://github.com/0xeb/ghidrasql-skills)
+  > Claude Code skills for ghidrasql — live SQL interface for Ghidra analysis and annotation workflows
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli)
+  > Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer s...
+
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [spool-lab/spool](https://github.com/spool-lab/spool) to [bet4it/spool](https://github.com/bet4it/spool)
   > Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) ...
@@ -81,10 +87,16 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
   > Packer/Protector for x86-64 ELF binaries on Linux
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+  > A vector index built on TurboQuant, written in Rust with Python bindings
 
 ### [oleavr](https://github.com/oleavr)
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
@@ -92,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-05-21 14:12:23 UTC*
+*最后更新于 2026-05-21 17:28:59 UTC*
 *历史记录保存在 `archive` 目录中。*
