@@ -97,6 +97,8 @@
   > Packer/Protector for x86-64 ELF binaries on Linux
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
   > A vector index built on TurboQuant, written in Rust with Python bindings
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [oleavr](https://github.com/oleavr)
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
@@ -104,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-05-21 17:28:59 UTC*
+*最后更新于 2026-05-21 19:48:51 UTC*
 *历史记录保存在 `archive` 目录中。*
