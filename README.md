@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [frankheat/deeplink-impersonation-poc](https://github.com/frankheat/deeplink-impersonation-poc)
   > PoC of Android deep link abuse for app impersonation
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw)
+  > Validate and Run GitHub Actions locally.
+
 ### [JLospinoso](https://github.com/JLospinoso)
 - 🌟 👤 [JLospinoso](https://github.com/JLospinoso) Starred [JLospinoso/c-constructs-still-dont-work-cpp](https://github.com/JLospinoso/c-constructs-still-dont-work-cpp)
   > Companion examples for C constructs that still do not work cleanly in C++.
@@ -56,6 +60,10 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan)
   > 各厂家 Coding Plan 实际价值对比
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Z-Proj/ZenOS](https://github.com/Z-Proj/ZenOS)
+  > The ZenOS Operating System: x86_64 Hobby OS
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
@@ -75,8 +83,8 @@
   > A Rust decompiler built on top of angr
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [davidism/gha-update](https://github.com/davidism/gha-update) to [mrexodia/gha-update](https://github.com/mrexodia/gha-update)
-  > Update GitHub Actions version pins in GitHub workflow files.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
 
 ### [oleavr](https://github.com/oleavr)
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
@@ -84,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-05-21 10:37:50 UTC*
+*最后更新于 2026-05-21 14:12:23 UTC*
 *历史记录保存在 `archive` 目录中。*
