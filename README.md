@@ -36,19 +36,53 @@
 - 🌟 👤 [LeadroyaL](https://github.com/LeadroyaL) Starred [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan)
   > 各厂家 Coding Plan 实际价值对比
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Kayy9961/Valorant-Checker](https://github.com/Kayy9961/Valorant-Checker)
+  > Advanced VALORANT checker with auto-login, proxy support, multi-region (NA/EU/AP/KR/LATAM/BR), and D...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [mingkuang-Chuyu/OllamaHub](https://github.com/mingkuang-Chuyu/OllamaHub)
   > 将多个AI模型挂载为一个虚拟的本地Ollama服务，方便Vistual Studio Copilot Chat接入。
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
 
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [spool-lab/spool](https://github.com/spool-lab/spool) to [bet4it/spool](https://github.com/bet4it/spool)
   > Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) ...
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan)
+  > 各厂家 Coding Plan 实际价值对比
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)
+  > 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
+
 ### [mahaloz](https://github.com/mahaloz)
 - 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [davidism/gha-update](https://github.com/davidism/gha-update) to [mrexodia/gha-update](https://github.com/mrexodia/gha-update)
+  > Update GitHub Actions version pins in GitHub workflow files.
+
+### [oleavr](https://github.com/oleavr)
+- 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
+  > Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
+
 
 ---
-*最后更新于 2026-05-21 06:55:03 UTC*
+*最后更新于 2026-05-21 10:37:50 UTC*
 *历史记录保存在 `archive` 目录中。*
