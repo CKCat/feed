@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)
+  > Android马甲包生成垃圾代码插件
+
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books)
+  > AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, ...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)
   > Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for...
@@ -22,6 +30,10 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [kerlos/pordee](https://github.com/kerlos/pordee)
   > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
+
+### [axhlzy](https://github.com/axhlzy)
+- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)
+  > Android马甲包生成垃圾代码插件
 
 ### [deathmemory](https://github.com/deathmemory)
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [sk-zk/streetlevel](https://github.com/sk-zk/streetlevel)
@@ -43,6 +55,10 @@
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [Escartem/AnimeStudio](https://github.com/Escartem/AnimeStudio) to [lxraa/AnimeStudio](https://github.com/lxraa/AnimeStudio)
   > Asset extraction tool for unity games, supports GI 6.0+, HSR 4.0+, ZZZ 2.2+ and many more (*ﾟ∀ﾟ*)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [mrexodia/remill](https://github.com/mrexodia/remill)
+  > Library for lifting machine code to LLVM bitcode
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [yinkaisheng/ByteRtcDemo](https://github.com/yinkaisheng/ByteRtcDemo)
   > Python wrapper of Byte RTC Win C++ SDK, PyQt5 Demo for Byte RTC Win C++ SDK
@@ -63,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-05-22 10:21:29 UTC*
+*最后更新于 2026-05-22 13:28:13 UTC*
 *历史记录保存在 `archive` 目录中。*
