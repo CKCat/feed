@@ -4,12 +4,28 @@
 
 ## 今日动态
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)
+  > Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for...
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
   > 🏞 A lightweight, versatile image viewer
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Ch1nChun/ImGuiMenu-s](https://github.com/Ch1nChun/ImGuiMenu-s)
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bengris32/linux-mtk](https://github.com/bengris32/linux-mtk)
+  > Linux kernel source tree
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [kerlos/pordee](https://github.com/kerlos/pordee)
+  > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
+
+### [deathmemory](https://github.com/deathmemory)
+- 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [sk-zk/streetlevel](https://github.com/sk-zk/streetlevel)
+  > download panoramas and metadata from Street View, Look Around, and more
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [antirez/ds4](https://github.com/antirez/ds4)
@@ -23,6 +39,22 @@
 - 🚀 👤 [iwxyi](https://github.com/iwxyi) Made [lyixi/LianPayHub](https://github.com/lyixi/LianPayHub) public
   > 【联付中枢】企业级多APP统一支付与会员管理后端框架
 
+### [lxraa](https://github.com/lxraa)
+- 🍴 👤 [lxraa](https://github.com/lxraa) Forked [Escartem/AnimeStudio](https://github.com/Escartem/AnimeStudio) to [lxraa/AnimeStudio](https://github.com/lxraa/AnimeStudio)
+  > Asset extraction tool for unity games, supports GI 6.0+, HSR 4.0+, ZZZ 2.2+ and many more (*ﾟ∀ﾟ*)
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [yinkaisheng/ByteRtcDemo](https://github.com/yinkaisheng/ByteRtcDemo)
+  > Python wrapper of Byte RTC Win C++ SDK, PyQt5 Demo for Byte RTC Win C++ SDK
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security)
+  > A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [google/jsir](https://github.com/google/jsir)
+  > Next-generation JavaScript analysis tooling
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [KNSoft/WinUseAgent](https://github.com/KNSoft/WinUseAgent)
   > Windows Use Agent, helps agents use Windows better
@@ -31,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-05-22 06:50:20 UTC*
+*最后更新于 2026-05-22 10:21:29 UTC*
 *历史记录保存在 `archive` 目录中。*
