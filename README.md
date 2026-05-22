@@ -63,6 +63,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [yinkaisheng/ByteRtcDemo](https://github.com/yinkaisheng/ByteRtcDemo)
   > Python wrapper of Byte RTC Win C++ SDK, PyQt5 Demo for Byte RTC Win C++ SDK
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse)
+  > GitHub Copilot plugin for Eclipse IDE
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security)
   > A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
@@ -79,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-05-22 13:28:13 UTC*
+*最后更新于 2026-05-22 16:21:42 UTC*
 *历史记录保存在 `archive` 目录中。*
