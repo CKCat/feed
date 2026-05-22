@@ -7,6 +7,9 @@
 ### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)
   > Android马甲包生成垃圾代码插件
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [bitter/android-jni-bridge](https://github.com/bitter/android-jni-bridge)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [PAGalaxyLab/YAHFA](https://github.com/PAGalaxyLab/YAHFA)
+  > Yet Another Hook Framework for ART
 
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books)
@@ -27,9 +30,17 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bengris32/linux-mtk](https://github.com/bengris32/linux-mtk)
   > Linux kernel source tree
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [xhongc/ai_story](https://github.com/xhongc/ai_story)
+  > AI视频, AI动漫,AI 短剧,AI漫剧自动化生成工具
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [kerlos/pordee](https://github.com/kerlos/pordee)
   > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [PintaProject/Pinta](https://github.com/PintaProject/Pinta)
+  > Simple GTK Paint Program
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)
@@ -51,6 +62,10 @@
 - 🚀 👤 [iwxyi](https://github.com/iwxyi) Made [lyixi/LianPayHub](https://github.com/lyixi/LianPayHub) public
   > 【联付中枢】企业级多APP统一支付与会员管理后端框架
 
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [aittalam/pi-llamafile](https://github.com/aittalam/pi-llamafile)
+  > Pi extension that supervises local llamafile-served model processes
+
 ### [lxraa](https://github.com/lxraa)
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [Escartem/AnimeStudio](https://github.com/Escartem/AnimeStudio) to [lxraa/AnimeStudio](https://github.com/lxraa/AnimeStudio)
   > Asset extraction tool for unity games, supports GI 6.0+, HSR 4.0+, ZZZ 2.2+ and many more (*ﾟ∀ﾟ*)
@@ -59,9 +74,16 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [mrexodia/remill](https://github.com/mrexodia/remill)
   > Library for lifting machine code to LLVM bitcode
 
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)
+  > :palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilatio...
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [yinkaisheng/ByteRtcDemo](https://github.com/yinkaisheng/ByteRtcDemo)
   > Python wrapper of Byte RTC Win C++ SDK, PyQt5 Demo for Byte RTC Win C++ SDK
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [oleavr/vphone-cli](https://github.com/oleavr/vphone-cli)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse)
@@ -83,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-05-22 16:21:42 UTC*
+*最后更新于 2026-05-22 18:50:54 UTC*
 *历史记录保存在 `archive` 目录中。*
