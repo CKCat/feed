@@ -23,6 +23,12 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [xdqi/anyfs](https://github.com/xdqi/anyfs)
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [thananon/9arm-skills](https://github.com/thananon/9arm-skills)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mit-han-lab/kernel-design-agents](https://github.com/mit-han-lab/kernel-design-agents)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
@@ -32,11 +38,15 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
   > 🛡️ Advanced PE obfuscation & protection detector. Scans binaries for Obfus.h signatures, anti-debug ...
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+  > Experience macOS just like before
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
   > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
 
 
 ---
-*最后更新于 2026-05-23 07:28:34 UTC*
+*最后更新于 2026-05-23 09:48:32 UTC*
 *历史记录保存在 `archive` 目录中。*
