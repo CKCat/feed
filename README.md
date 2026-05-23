@@ -33,6 +33,7 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [thananon/9arm-skills](https://github.com/thananon/9arm-skills)
 
 ### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mit-han-lab/kernel-design-agents](https://github.com/mit-han-lab/kernel-design-agents)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
   > A framework for efficient model inference with omni-modality models
 
@@ -51,6 +52,10 @@
   > Experience macOS just like before
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [BitKFu/BlueTheme](https://github.com/BitKFu/BlueTheme)
   > Missing Blue Theme for Visual Studio 2026
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [lordmilko/ClrDebug](https://github.com/lordmilko/ClrDebug)
+  > Managed wrappers around the .NET Unmanaged API
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [lordmilko/PESpy](https://github.com/lordmilko/PESpy)
+  > Reverse engineering toolkit for Microsoft compiler generated files
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
@@ -58,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-05-23 19:16:22 UTC*
+*最后更新于 2026-05-23 20:45:27 UTC*
 *历史记录保存在 `archive` 目录中。*
