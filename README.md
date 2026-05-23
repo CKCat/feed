@@ -36,16 +36,14 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mit-han-lab/kernel-design-agents](https://github.com/mit-han-lab/kernel-design-agents)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
   > A framework for efficient model inference with omni-modality models
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [vllm-project/vllm](https://github.com/vllm-project/vllm) to [crazyguitar/vllm](https://github.com/crazyguitar/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [Tencent/VulnGym](https://github.com/Tencent/VulnGym)
   > VulnGym: A Real-World, Project-Level Vulnerability Benchmark for White-Box Vulnerability-Hunting Age...
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [frankheat/deeplink-impersonation-poc](https://github.com/frankheat/deeplink-impersonation-poc)
   > PoC of Android deep link abuse for app impersonation
-
-### [horsicq](https://github.com/horsicq)
-- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
-  > 🛡️ Advanced PE obfuscation & protection detector. Scans binaries for Obfus.h signatures, anti-debug ...
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
@@ -63,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-05-23 21:51:16 UTC*
+*最后更新于 2026-05-23 22:50:14 UTC*
 *历史记录保存在 `archive` 目录中。*
