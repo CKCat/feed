@@ -22,6 +22,7 @@
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper)
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [xdqi/anyfs](https://github.com/xdqi/anyfs)
@@ -47,6 +48,8 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
   > Experience macOS just like before
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [BitKFu/BlueTheme](https://github.com/BitKFu/BlueTheme)
+  > Missing Blue Theme for Visual Studio 2026
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
@@ -54,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-05-23 13:17:42 UTC*
+*最后更新于 2026-05-23 14:57:34 UTC*
 *历史记录保存在 `archive` 目录中。*
