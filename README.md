@@ -17,8 +17,16 @@
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [MiroKaku/oh-my-pi](https://github.com/MiroKaku/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mit-han-lab/kernel-design-agents](https://github.com/mit-han-lab/kernel-design-agents)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
+  > A framework for efficient model inference with omni-modality models
 
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
@@ -30,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-05-23 04:36:30 UTC*
+*最后更新于 2026-05-23 07:28:34 UTC*
 *历史记录保存在 `archive` 目录中。*
