@@ -16,6 +16,8 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [MiroKaku/oh-my-pi](https://github.com/MiroKaku/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+- 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [kanren3/windbg-mcp-rs](https://github.com/kanren3/windbg-mcp-rs) to [MiroKaku/windbg-mcp-rs](https://github.com/MiroKaku/windbg-mcp-rs)
+  > A WinDbg plugin that turns the current debugging session into an MCP server for command docs, debugg...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -31,7 +33,6 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [thananon/9arm-skills](https://github.com/thananon/9arm-skills)
 
 ### [crazyguitar](https://github.com/crazyguitar)
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mit-han-lab/kernel-design-agents](https://github.com/mit-han-lab/kernel-design-agents)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
   > A framework for efficient model inference with omni-modality models
 
@@ -57,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-05-23 14:57:34 UTC*
+*最后更新于 2026-05-23 16:03:30 UTC*
 *历史记录保存在 `archive` 目录中。*
