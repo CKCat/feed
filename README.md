@@ -34,6 +34,12 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
   > A framework for efficient model inference with omni-modality models
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [Tencent/VulnGym](https://github.com/Tencent/VulnGym)
+  > VulnGym: A Real-World, Project-Level Vulnerability Benchmark for White-Box Vulnerability-Hunting Age...
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [frankheat/deeplink-impersonation-poc](https://github.com/frankheat/deeplink-impersonation-poc)
+  > PoC of Android deep link abuse for app impersonation
+
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
   > 🛡️ Advanced PE obfuscation & protection detector. Scans binaries for Obfus.h signatures, anti-debug ...
@@ -48,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-05-23 09:48:32 UTC*
+*最后更新于 2026-05-23 13:17:42 UTC*
 *历史记录保存在 `archive` 目录中。*
