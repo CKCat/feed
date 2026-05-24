@@ -12,6 +12,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
   > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [razvandimescu/numa](https://github.com/razvandimescu/numa)
+  > Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [aimardcr/ArtHook](https://github.com/aimardcr/ArtHook)
   > Self-contained, dependency-free ART method hooking for Android 8–15. ArtMethod-level, lock-free.
@@ -40,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-05-24 16:56:48 UTC*
+*最后更新于 2026-05-24 17:58:05 UTC*
 *历史记录保存在 `archive` 目录中。*
