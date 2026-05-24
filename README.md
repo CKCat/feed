@@ -33,9 +33,17 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [hackerhouse-opensource/pyongyang_2407](https://github.com/hackerhouse-opensource/pyongyang_2407)
   > Pyongyang 2407 - Android ROM from North Korea, modified to run on WBW5511_MAINBOARD_P2 devices. Rele...
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [s4dr0t1/project-based-tutorials-in-c](https://github.com/s4dr0t1/project-based-tutorials-in-c)
+  > Copy of the abandoned repository: https://github.com/rby90/project-based-tutorials-in-c
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged)
   > Unprivileged NGINX Dockerfiles
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robert-yates/gdbserver9x](https://github.com/robert-yates/gdbserver9x)
+  > A primitive GDB server for debugging 32bit exes on retro windows OS'
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-05-24 20:51:33 UTC*
+*最后更新于 2026-05-24 21:52:44 UTC*
 *历史记录保存在 `archive` 目录中。*
