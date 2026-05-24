@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [HeChuanRiver/MiliraXian_NeiyuLaw](https://github.com/HeChuanRiver/MiliraXian_NeiyuLaw)
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
@@ -41,8 +44,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
   > Utility to convert between various subscription format
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
+  > 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hy...
 
 
 ---
-*最后更新于 2026-05-24 17:58:05 UTC*
+*最后更新于 2026-05-24 19:22:46 UTC*
 *历史记录保存在 `archive` 目录中。*
