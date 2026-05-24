@@ -8,6 +8,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+  > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [aimardcr/ArtHook](https://github.com/aimardcr/ArtHook)
   > Self-contained, dependency-free ART method hooking for Android 8–15. ArtMethod-level, lock-free.
@@ -36,5 +40,5 @@
 
 
 ---
-*最后更新于 2026-05-24 15:00:18 UTC*
+*最后更新于 2026-05-24 16:56:48 UTC*
 *历史记录保存在 `archive` 目录中。*
