@@ -22,10 +22,19 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [hackerhouse-opensource/pyongyang_2407](https://github.com/hackerhouse-opensource/pyongyang_2407)
   > Pyongyang 2407 - Android ROM from North Korea, modified to run on WBW5511_MAINBOARD_P2 devices. Rele...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged)
+  > Unprivileged NGINX Dockerfiles
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
+  > Utility to convert between various subscription format
 
 
 ---
-*最后更新于 2026-05-24 13:18:58 UTC*
+*最后更新于 2026-05-24 15:00:18 UTC*
 *历史记录保存在 `archive` 目录中。*
