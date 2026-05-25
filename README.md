@@ -48,6 +48,10 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
   > An easy-to-use, high-performance dex deobfuscation library.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [kframework/X86-64-semantics](https://github.com/kframework/X86-64-semantics)
+  > Semantics of x86-64 in K
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
   > drop-in copy-on-write replacement for `git worktree add`
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-05-25 15:47:25 UTC*
+*最后更新于 2026-05-25 17:40:16 UTC*
 *历史记录保存在 `archive` 目录中。*
