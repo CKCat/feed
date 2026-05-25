@@ -36,6 +36,14 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [CZEMacLeod/C3D.Extensions.Aspire](https://github.com/CZEMacLeod/C3D.Extensions.Aspire)
   > Extensions for Microsoft Aspire
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mikf/gallery-dl](https://github.com/mikf/gallery-dl)
+  > Command-line program to download image galleries and collections from several image hosting sites
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+  > Automatically provision and manage TLS certificates in Kubernetes
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
   > An easy-to-use, high-performance dex deobfuscation library.
@@ -47,6 +55,10 @@
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [Unity-Technologies/UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference)
   > Unity C# reference source code.
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [u-boot/u-boot](https://github.com/u-boot/u-boot)
+  > "Das U-Boot" Source Tree
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [darlinghq/darling](https://github.com/darlinghq/darling)
@@ -62,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-05-25 12:26:20 UTC*
+*最后更新于 2026-05-25 15:47:25 UTC*
 *历史记录保存在 `archive` 目录中。*
