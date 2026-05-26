@@ -12,11 +12,29 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [uccl-project/mKernel](https://github.com/uccl-project/mKernel)
+  > mKernel: fast multi-node, multi-GPU fused kernels
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [yuninxia/hands-on-simd-programming](https://github.com/yuninxia/hands-on-simd-programming)
+  > 🧩 Hands-on SIMD Programming with C++
+
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [Xzhong6/CTIExpert](https://github.com/Xzhong6/CTIExpert) to [eastmountyxz/CTIExpert](https://github.com/eastmountyxz/CTIExpert)
   > The source code and datasets used by CTIExpert
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [Xzhong6/CTIExpert](https://github.com/Xzhong6/CTIExpert)
   > The source code and datasets used by CTIExpert
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [google/souper](https://github.com/google/souper)
+  > A superoptimizer for LLVM IR
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 
 ### [xiaoweiChen](https://github.com/xiaoweiChen)
 - 🍴 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [xiaoweiChen/github-readme-stats](https://github.com/xiaoweiChen/github-readme-stats)
@@ -34,7 +52,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
   > 分流规则、重写写规则及脚本。
 
+### [zu1k](https://github.com/zu1k)
+- 🍴 👤 [zu1k](https://github.com/zu1k) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [zu1k/sub2api](https://github.com/zu1k/sub2api)
+  > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 
 ---
-*最后更新于 2026-05-26 05:02:07 UTC*
+*最后更新于 2026-05-26 08:38:37 UTC*
 *历史记录保存在 `archive` 目录中。*
