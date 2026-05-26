@@ -16,12 +16,22 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [tmate-io/tmate-ssh-server](https://github.com/tmate-io/tmate-ssh-server)
+  > tmate SSH server
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Mashopy/mtkpower_hint_parser](https://github.com/Mashopy/mtkpower_hint_parser)
+  > Create an Actions list for pixel-libperfmgr from MTKPower hints
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [uccl-project/mKernel](https://github.com/uccl-project/mKernel)
   > mKernel: fast multi-node, multi-GPU fused kernels
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [yuninxia/hands-on-simd-programming](https://github.com/yuninxia/hands-on-simd-programming)
@@ -75,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-05-26 16:38:46 UTC*
+*最后更新于 2026-05-26 19:15:28 UTC*
 *历史记录保存在 `archive` 目录中。*
