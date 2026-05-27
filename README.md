@@ -7,6 +7,10 @@
 ### [0xdea](https://github.com/0xdea)
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [zed-industries/extensions](https://github.com/zed-industries/extensions) to [0xdea/zed-extensions](https://github.com/0xdea/zed-extensions)
   > Extensions for the Zed editor
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [zed-industries/extensions](https://github.com/zed-industries/extensions)
+  > Extensions for the Zed editor
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
 ### [0xeb](https://github.com/0xeb)
 - 🌟 👤 [0xeb](https://github.com/0xeb) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
@@ -68,6 +72,8 @@
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > Hardening code obfuscation against automated attacks
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [mrexodia/loki](https://github.com/mrexodia/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [datalab-to/marker](https://github.com/datalab-to/marker)
@@ -89,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-05-27 20:59:46 UTC*
+*最后更新于 2026-05-27 22:46:07 UTC*
 *历史记录保存在 `archive` 目录中。*
