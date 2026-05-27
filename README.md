@@ -10,6 +10,10 @@
 - 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [dropbear-software/punycoder](https://github.com/dropbear-software/punycoder) to [reqable/punycoder](https://github.com/reqable/punycoder)
   > Punycoder is a well tested Dart implementation of the RFC 3492 Punycode specification
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [hetima/resx-designer](https://github.com/hetima/resx-designer)
+  > resx editor for VS Code. Edit all locale files simultaneously in a unified grid view.
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
@@ -17,6 +21,18 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [SuperCoolPencil/Janus](https://github.com/SuperCoolPencil/Janus)
   > an ext4 driver for windows.
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [PLSysSec/haybale](https://github.com/PLSysSec/haybale)
+  > Symbolic execution of LLVM IR with an engine written in Rust
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)
+  > A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)
+  > Run OpenAI Codex Desktop on Linux - automated installer
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
@@ -45,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-05-27 11:44:13 UTC*
+*最后更新于 2026-05-27 15:32:31 UTC*
 *历史记录保存在 `archive` 目录中。*
