@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [zed-industries/extensions](https://github.com/zed-industries/extensions) to [0xdea/zed-extensions](https://github.com/0xdea/zed-extensions)
+  > Extensions for the Zed editor
+
+### [0xeb](https://github.com/0xeb)
+- 🌟 👤 [0xeb](https://github.com/0xeb) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
   > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
@@ -21,6 +29,12 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [hetima/resx-designer](https://github.com/hetima/resx-designer)
   > resx editor for VS Code. Edit all locale files simultaneously in a unified grid view.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -75,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-05-27 18:23:25 UTC*
+*最后更新于 2026-05-27 20:59:46 UTC*
 *历史记录保存在 `archive` 目录中。*
