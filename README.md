@@ -10,6 +10,21 @@
 - 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [dropbear-software/punycoder](https://github.com/dropbear-software/punycoder) to [reqable/punycoder](https://github.com/reqable/punycoder)
   > Punycoder is a well tested Dart implementation of the RFC 3492 Punycode specification
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [SuperCoolPencil/Janus](https://github.com/SuperCoolPencil/Janus)
+  > an ext4 driver for windows.
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk)
+  > 为前端设计的无需 Python、无需后端服务的获取股票数据 JavaScript SDK。
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
@@ -30,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-05-27 07:59:08 UTC*
+*最后更新于 2026-05-27 11:44:13 UTC*
 *历史记录保存在 `archive` 目录中。*
