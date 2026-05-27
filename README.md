@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
+  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
+
 ### [MegatronKing](https://github.com/MegatronKing)
 - 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [dropbear-software/punycoder](https://github.com/dropbear-software/punycoder)
   > Punycoder is a well tested Dart implementation of the RFC 3492 Punycode specification
 - 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [dropbear-software/punycoder](https://github.com/dropbear-software/punycoder) to [reqable/punycoder](https://github.com/reqable/punycoder)
   > Punycoder is a well tested Dart implementation of the RFC 3492 Punycode specification
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Picrew/awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness)
+  > An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [hetima/resx-designer](https://github.com/hetima/resx-designer)
@@ -44,6 +52,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [datalab-to/marker](https://github.com/datalab-to/marker)
@@ -59,7 +69,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [electric-sql/pglite](https://github.com/electric-sql/pglite)
+  > Embeddable Postgres with real-time, reactive bindings.
+
 
 ---
-*最后更新于 2026-05-27 15:32:31 UTC*
+*最后更新于 2026-05-27 18:23:25 UTC*
 *历史记录保存在 `archive` 目录中。*
