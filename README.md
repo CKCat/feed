@@ -4,9 +4,19 @@
 
 ## 今日动态
 
+### [MegatronKing](https://github.com/MegatronKing)
+- 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [dropbear-software/punycoder](https://github.com/dropbear-software/punycoder)
+  > Punycoder is a well tested Dart implementation of the RFC 3492 Punycode specification
+- 🍴 👤 [MegatronKing](https://github.com/MegatronKing) Forked [dropbear-software/punycoder](https://github.com/dropbear-software/punycoder) to [reqable/punycoder](https://github.com/reqable/punycoder)
+  > Punycoder is a well tested Dart implementation of the RFC 3492 Punycode specification
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [datalab-to/marker](https://github.com/datalab-to/marker)
+  > Convert PDF to markdown + JSON quickly with high accuracy
 
 ### [xhawk18](https://github.com/xhawk18)
 - 🍴 👤 [xhawk18](https://github.com/xhawk18) Forked [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) to [xhawk18/dioxus](https://github.com/xhawk18/dioxus)
@@ -20,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-05-27 03:28:39 UTC*
+*最后更新于 2026-05-27 07:59:08 UTC*
 *历史记录保存在 `archive` 目录中。*
