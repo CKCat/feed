@@ -4,6 +4,13 @@
 
 ## 今日动态
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
+  > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 UI framework built on OpenGL and G...
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
   > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -25,8 +32,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [sunnysab/ths-favorite](https://github.com/sunnysab/ths-favorite)
   > 同花顺自选 API.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [sunnysab/qmt-parser](https://github.com/sunnysab/qmt-parser)
+  > Rust parser for MiniQMT/QMT local market data, finance files, and dividend metadata.
 
 
 ---
-*最后更新于 2026-05-28 12:23:10 UTC*
+*最后更新于 2026-05-28 16:51:50 UTC*
 *历史记录保存在 `archive` 目录中。*
