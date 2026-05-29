@@ -36,6 +36,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boredchilada/piptastic](https://github.com/boredchilada/piptastic)
+  > Its not fantastic, its piptastic - Dependency auditor for Python projects: drift vs PyPI, known CVEs...
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
@@ -46,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-05-29 10:42:42 UTC*
+*最后更新于 2026-05-29 13:56:39 UTC*
 *历史记录保存在 `archive` 目录中。*
