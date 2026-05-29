@@ -30,6 +30,12 @@
 - 🌟 👤 [bsauce](https://github.com/bsauce) Starred [hershate/Meta-skill](https://github.com/hershate/Meta-skill)
   > 一套完全基于提示词工程的AI工作体系，用于快速将想法转化为实际skill
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [starry-sky6688/MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms)
+  >  Implementations of IQL, QMIX, VDN, COMA, QTRAN, MAVEN, CommNet, DyMA-CL, and G2ANet on SMAC,  the d...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [starry-sky6688/MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) to [crazyguitar/MARL-Algorithms](https://github.com/crazyguitar/MARL-Algorithms)
+  >  Implementations of IQL, QMIX, VDN, COMA, QTRAN, MAVEN, CommNet, DyMA-CL, and G2ANet on SMAC,  the d...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
@@ -64,6 +70,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
   > The best browser for both you and your AI agents work in parallel.
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [soui4/swinx](https://github.com/soui4/swinx)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [ezpzai/codex-computer-use-windows](https://github.com/ezpzai/codex-computer-use-windows)
+  > Codex can use `computer use` in Windows
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
@@ -74,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-05-29 17:32:48 UTC*
+*最后更新于 2026-05-29 20:19:08 UTC*
 *历史记录保存在 `archive` 目录中。*
