@@ -8,6 +8,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [connorjaydunn/BinaryShield](https://github.com/connorjaydunn/BinaryShield) to [lallouslab/BinaryShield](https://github.com/lallouslab/BinaryShield)
   > An x86-64 Code Virtualizer
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [dvab-sarma/android_local_manifest](https://github.com/dvab-sarma/android_local_manifest)
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [dvab-sarma/android_local_manifest](https://github.com/dvab-sarma/android_local_manifest) to [KuNgia09/android_local_manifest](https://github.com/KuNgia09/android_local_manifest)
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [rcarmo/go-busybox](https://github.com/rcarmo/go-busybox) to [NyaMisty/go-busybox](https://github.com/NyaMisty/go-busybox)
   > A sandboxable port of busybox for AI agents
@@ -21,10 +25,16 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [getkin/kin-openapi](https://github.com/getkin/kin-openapi)
+  > OpenAPI 3.0 and 3.1 (and Swagger v2) implementation for Go (parsing, converting, validation, and mor...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
+  > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
@@ -36,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-05-29 06:52:28 UTC*
+*最后更新于 2026-05-29 10:42:42 UTC*
 *历史记录保存在 `archive` 目录中。*
