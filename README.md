@@ -52,6 +52,10 @@
 - 🍴 👤 [enenH](https://github.com/enenH) Forked [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp) to [enenH/ida-multi-mcp](https://github.com/enenH/ida-multi-mcp)
   > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki)
+  > Hardening code obfuscation against automated attacks
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-05-29 20:19:08 UTC*
+*最后更新于 2026-05-29 22:26:46 UTC*
 *历史记录保存在 `archive` 目录中。*
