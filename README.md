@@ -17,6 +17,10 @@
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [The-SNEK-Initiative/SNEK_Blue-War-Hammer](https://github.com/The-SNEK-Initiative/SNEK_Blue-War-Hammer)
   > Blue Hammer by Nightmare-Eclipse Vulnerability Documentation & Reimplementation.
 
+### [KaisenAmin](https://github.com/KaisenAmin)
+- 🍴 👤 [KaisenAmin](https://github.com/KaisenAmin) Forked [oz123/awesome-c](https://github.com/oz123/awesome-c) to [KaisenAmin/awesome-c](https://github.com/KaisenAmin/awesome-c)
+  > A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all...
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook)
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
@@ -57,13 +61,22 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [passteque/gluetun](https://github.com/passteque/gluetun)
   > VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN o...
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [enenH/AndroidImgui](https://github.com/enenH/AndroidImgui)
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [alexedwards/flow](https://github.com/alexedwards/flow)
   > A delightfully tiny but powerful HTTP router for Go web applications
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [SMCGames/Paper-Mario-ReCut](https://github.com/SMCGames/Paper-Mario-ReCut)
+  > A PC Port of Paper Mario for N64
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [AmberLJC/LLMSys-PaperList](https://github.com/AmberLJC/LLMSys-PaperList)
   > Large Language Model (LLM) Systems Paper List
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [jprx/fractal](https://github.com/jprx/fractal)
+  > Fractal is an operating system for microarchitecture reverse engineering
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -80,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-05-30 18:06:31 UTC*
+*最后更新于 2026-05-30 20:06:21 UTC*
 *历史记录保存在 `archive` 目录中。*
