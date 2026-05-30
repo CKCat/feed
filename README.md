@@ -7,9 +7,21 @@
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xflux/BioNTdrv](https://github.com/0xflux/BioNTdrv) to [lallouslab/BioNTdrv](https://github.com/lallouslab/BioNTdrv)
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter)
+  > Flutter Reverse Engineering Framework
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter)
+  > Flutter Reverse Engineering Framework
+
 ### [Ap0dexMe0](https://github.com/Ap0dexMe0)
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [The-SNEK-Initiative/SNEK_Blue-War-Hammer](https://github.com/The-SNEK-Initiative/SNEK_Blue-War-Hammer)
   > Blue Hammer by Nightmare-Eclipse Vulnerability Documentation & Reimplementation.
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook)
+  > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook) to [KuNgia09/xiaojianbang-stealth-hook](https://github.com/KuNgia09/xiaojianbang-stealth-hook)
+  > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [mui/material-ui](https://github.com/mui/material-ui)
@@ -66,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-05-30 15:03:13 UTC*
+*最后更新于 2026-05-30 16:59:09 UTC*
 *历史记录保存在 `archive` 目录中。*
