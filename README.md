@@ -50,6 +50,8 @@
   > A full-featured download manager — rebuilt from the ground up
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Open-Less/openless](https://github.com/Open-Less/openless)
   > Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice i...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Code...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [passteque/gluetun](https://github.com/passteque/gluetun)
@@ -78,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-05-30 16:59:09 UTC*
+*最后更新于 2026-05-30 18:06:31 UTC*
 *历史记录保存在 `archive` 目录中。*
