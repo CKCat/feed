@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [The-SNEK-Initiative/SNEK_Blue-War-Hammer](https://github.com/The-SNEK-Initiative/SNEK_Blue-War-Hammer)
+  > Blue Hammer by Nightmare-Eclipse Vulnerability Documentation & Reimplementation.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [mui/material-ui](https://github.com/mui/material-ui)
   > Material UI: Comprehensive React component library that implements Google's Material Design. Free fo...
@@ -17,6 +21,16 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nuskey8/DotWasm](https://github.com/nuskey8/DotWasm)
   > A WebAssembly runtime implemented in C# for .NET
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/lis-simulator](https://github.com/Mq-b/lis-simulator)
+  > 基于ASTM 协议的 TCP/Serial LIS 模拟器
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [vicnaum/bun-demincer](https://github.com/vicnaum/bun-demincer)
+  > Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
+  > Build, evaluate, and integrate long-term memory for self-evolving agents.
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [passteque/gluetun](https://github.com/passteque/gluetun)
@@ -35,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-05-30 07:38:27 UTC*
+*最后更新于 2026-05-30 09:56:43 UTC*
 *历史记录保存在 `archive` 目录中。*
