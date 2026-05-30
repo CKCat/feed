@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xflux/BioNTdrv](https://github.com/0xflux/BioNTdrv) to [lallouslab/BioNTdrv](https://github.com/lallouslab/BioNTdrv)
+
 ### [Ap0dexMe0](https://github.com/Ap0dexMe0)
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [The-SNEK-Initiative/SNEK_Blue-War-Hammer](https://github.com/The-SNEK-Initiative/SNEK_Blue-War-Hammer)
   > Blue Hammer by Nightmare-Eclipse Vulnerability Documentation & Reimplementation.
@@ -38,6 +41,8 @@
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [PatchRequest/PeregrineAntiCheat](https://github.com/PatchRequest/PeregrineAntiCheat)
+  > An educational anti-cheat system for learning Windows kernel programming, process monitoring, and ch...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -49,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-05-30 09:56:43 UTC*
+*最后更新于 2026-05-30 11:20:20 UTC*
 *历史记录保存在 `archive` 目录中。*
