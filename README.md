@@ -34,10 +34,22 @@
   > Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
   > Build, evaluate, and integrate long-term memory for self-evolving agents.
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+  > A full-featured download manager — rebuilt from the ground up
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Open-Less/openless](https://github.com/Open-Less/openless)
+  > Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice i...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [passteque/gluetun](https://github.com/passteque/gluetun)
   > VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN o...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [alexedwards/flow](https://github.com/alexedwards/flow)
+  > A delightfully tiny but powerful HTTP router for Go web applications
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [AmberLJC/LLMSys-PaperList](https://github.com/AmberLJC/LLMSys-PaperList)
+  > Large Language Model (LLM) Systems Paper List
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -54,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-05-30 11:20:20 UTC*
+*最后更新于 2026-05-30 13:22:00 UTC*
 *历史记录保存在 `archive` 目录中。*
