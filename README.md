@@ -26,6 +26,10 @@
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla) to [ZehMatt/bitwuzla](https://github.com/ZehMatt/bitwuzla)
   > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
+  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [aimardcr/akane-injector](https://github.com/aimardcr/akane-injector)
   > A kernel-assisted shared-library injector for Android. Loads any .so into a target process without p...
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-05-31 21:57:18 UTC*
+*最后更新于 2026-05-31 23:01:22 UTC*
 *历史记录保存在 `archive` 目录中。*
