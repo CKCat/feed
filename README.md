@@ -25,13 +25,21 @@
 ### [nzcv](https://github.com/nzcv)
 - 🚀 👤 [nzcv](https://github.com/nzcv) Made [nzcv/idevice](https://github.com/nzcv/idevice) public
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Ch0pin/iris](https://github.com/Ch0pin/iris)
+  > Intent Runtime Inspection System
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook)
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook) to [sekaiacg/xiaojianbang-stealth-hook](https://github.com/sekaiacg/xiaojianbang-stealth-hook)
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [jgm/pandoc](https://github.com/jgm/pandoc)
+  > Universal markup converter
+
 
 ---
-*最后更新于 2026-05-31 14:41:22 UTC*
+*最后更新于 2026-05-31 16:03:47 UTC*
 *历史记录保存在 `archive` 目录中。*
