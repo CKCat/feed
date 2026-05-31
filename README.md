@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)
   > 对于DeepSeek-V4角色扮演的特殊控制指令的说明
@@ -25,5 +29,5 @@
 
 
 ---
-*最后更新于 2026-05-31 03:29:17 UTC*
+*最后更新于 2026-05-31 07:42:08 UTC*
 *历史记录保存在 `archive` 目录中。*
