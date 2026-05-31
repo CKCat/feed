@@ -34,6 +34,10 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [yjun123/e-waste](https://github.com/yjun123/e-waste)
   > electronic waste collection. 数码视讯 Q5, 泰奇猫 TQC-A01, 贝壳云 Beikeyun P1, 网心云 OEC Turbo,   外贸盒子 A5X Max,FM...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat)
+  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
+
 ### [nzcv](https://github.com/nzcv)
 - 🚀 👤 [nzcv](https://github.com/nzcv) Made [nzcv/idevice](https://github.com/nzcv/idevice) public
 
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-05-31 17:58:13 UTC*
+*最后更新于 2026-05-31 19:23:11 UTC*
 *历史记录保存在 `archive` 目录中。*
