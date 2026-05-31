@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [danosito/afterbird](https://github.com/danosito/afterbird)
   > trying to reborn the amazing bird browser
 
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)
+  > 美股指南
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
   > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -18,9 +22,17 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Wawona/Wawona](https://github.com/Wawona/Wawona)
   > A native macOS Wayland Compositor
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla) to [ZehMatt/bitwuzla](https://github.com/ZehMatt/bitwuzla)
+  > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [aimardcr/akane-injector](https://github.com/aimardcr/akane-injector)
   > A kernel-assisted shared-library injector for Android. Loads any .so into a target process without p...
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [yjun123/e-waste](https://github.com/yjun123/e-waste)
+  > electronic waste collection. 数码视讯 Q5, 泰奇猫 TQC-A01, 贝壳云 Beikeyun P1, 网心云 OEC Turbo,   外贸盒子 A5X Max,FM...
 
 ### [nzcv](https://github.com/nzcv)
 - 🚀 👤 [nzcv](https://github.com/nzcv) Made [nzcv/idevice](https://github.com/nzcv/idevice) public
@@ -41,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-05-31 16:03:47 UTC*
+*最后更新于 2026-05-31 17:58:13 UTC*
 *历史记录保存在 `archive` 目录中。*
