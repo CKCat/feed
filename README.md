@@ -1,65 +1,28 @@
-# 每日 GitHub 动态 (2026-05-31)
+# 每日 GitHub 动态 (2026-06-01)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [5ec1cff](https://github.com/5ec1cff)
-- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [danosito/afterbird](https://github.com/danosito/afterbird)
-  > trying to reborn the amazing bird browser
-
-### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
-- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)
-  > 美股指南
-
-### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [lallouslab/MogVMP](https://github.com/lallouslab/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [victorchen96/deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)
-  > 对于DeepSeek-V4角色扮演的特殊控制指令的说明
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Wawona/Wawona](https://github.com/Wawona/Wawona)
-  > A native macOS Wayland Compositor
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [AOMediaCodec/avm](https://github.com/AOMediaCodec/avm)
+  > AVM (AOM Video Model) is the reference software for AV2 codec from Alliance for Open Media (https://...
 
-### [ZehMatt](https://github.com/ZehMatt)
-- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla) to [ZehMatt/bitwuzla](https://github.com/ZehMatt/bitwuzla)
-  > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [honeyandme/RAGQnASystem](https://github.com/honeyandme/RAGQnASystem)
+  > 本项目设计了一个基于 RAG 与大模型技术的医疗问答系统，利用 DiseaseKG 数据集与 Neo4j 构  建知识图谱，结合 BERT 的命名实体识别和 34b 大模型的意图识别，通过精确的知识检...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+  > TUI components for Bubble Tea 🫧
 
-### [archercreat](https://github.com/archercreat)
-- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
-  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
-
-### [axhlzy](https://github.com/axhlzy)
-- 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [aimardcr/akane-injector](https://github.com/aimardcr/akane-injector)
-  > A kernel-assisted shared-library injector for Android. Loads any .so into a target process without p...
-
-### [bet4it](https://github.com/bet4it)
-- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [yjun123/e-waste](https://github.com/yjun123/e-waste)
-  > electronic waste collection. 数码视讯 Q5, 泰奇猫 TQC-A01, 贝壳云 Beikeyun P1, 网心云 OEC Turbo,   外贸盒子 A5X Max,FM...
-
-### [eversinc33](https://github.com/eversinc33)
-- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat)
-  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
-
-### [nzcv](https://github.com/nzcv)
-- 🚀 👤 [nzcv](https://github.com/nzcv) Made [nzcv/idevice](https://github.com/nzcv/idevice) public
-
-### [pwnipc](https://github.com/pwnipc)
-- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Ch0pin/iris](https://github.com/Ch0pin/iris)
-  > Intent Runtime Inspection System
-
-### [sekaiacg](https://github.com/sekaiacg)
-- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook)
-  > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
-- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook) to [sekaiacg/xiaojianbang-stealth-hook](https://github.com/sekaiacg/xiaojianbang-stealth-hook)
-  > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
-
-### [yuchuangu85](https://github.com/yuchuangu85)
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [jgm/pandoc](https://github.com/jgm/pandoc)
-  > Universal markup converter
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
+  > Public repository of 2026 crackmes.one CTF RE challenge
 
 
 ---
-*最后更新于 2026-05-31 23:01:22 UTC*
+*最后更新于 2026-06-01 03:41:06 UTC*
 *历史记录保存在 `archive` 目录中。*
