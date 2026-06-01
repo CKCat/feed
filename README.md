@@ -20,6 +20,12 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [AccessKit/accesskit](https://github.com/AccessKit/accesskit)
   > Accessibility infrastructure for UI toolkits
 
+### [Penguin38](https://github.com/Penguin38)
+- 🌟 👤 [Penguin38](https://github.com/Penguin38) Starred [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw)
+  > An LLVM/Clang/LLD based mingw-w64 toolchain
+- 🍴 👤 [Penguin38](https://github.com/Penguin38) Forked [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) to [Penguin38/llvm-mingw](https://github.com/Penguin38/llvm-mingw)
+  > An LLVM/Clang/LLD based mingw-w64 toolchain
+
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Invis1ble-2/Grenade_Helper](https://github.com/Invis1ble-2/Grenade_Helper)
   > A CS2 Grenade Helper App
@@ -30,11 +36,19 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [stanford-cs336/assignment1-basics](https://github.com/stanford-cs336/assignment1-basics)
+  > Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
   > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [dasguptaabhranil/kobalt](https://github.com/dasguptaabhranil/kobalt)
+  > Kobalt kernel source code, a x86_64 kernel written in C and ASM. Features driver security, EEVDF sch...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [honeyandme/RAGQnASystem](https://github.com/honeyandme/RAGQnASystem)
@@ -65,8 +79,10 @@
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [ilyakurdyukov/smartlink_flash](https://github.com/ilyakurdyukov/smartlink_flash)
   > Smartlink firmware dumper for Linux
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [ilyakurdyukov/actions_flash](https://github.com/ilyakurdyukov/actions_flash)
+  > Actions ATJ2127/ATJ2157 firmware dumper for Linux
 
 
 ---
-*最后更新于 2026-06-01 15:52:36 UTC*
+*最后更新于 2026-06-01 20:13:59 UTC*
 *历史记录保存在 `archive` 目录中。*
