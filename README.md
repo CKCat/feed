@@ -35,6 +35,10 @@
 ### [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
 - 🌟 👤 [githubuser0xFFFF](https://github.com/githubuser0xFFFF) Starred [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
+  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000)
   > Envision a future where everyone can read all the code of an educational operating system.
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-06-02 18:36:19 UTC*
+*最后更新于 2026-06-02 21:45:11 UTC*
 *历史记录保存在 `archive` 目录中。*
