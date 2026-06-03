@@ -48,6 +48,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [unovue/reka-ui](https://github.com/unovue/reka-ui)
   > An open-source UI component library for building high-quality, accessible design systems and web app...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [quarkslab/arybo](https://github.com/quarkslab/arybo)
+  > Manipulation, canonicalization and identification of mixed boolean-arithmetic symbolic expressions
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ ...
@@ -61,10 +65,6 @@
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [duanebester/gooey](https://github.com/duanebester/gooey)
   > Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered appl...
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
-  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [truelockmc/streambert](https://github.com/truelockmc/streambert)
@@ -101,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-06-03 21:45:11 UTC*
+*最后更新于 2026-06-03 23:39:55 UTC*
 *历史记录保存在 `archive` 目录中。*
