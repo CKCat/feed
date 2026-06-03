@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [lifting-bits/remill](https://github.com/lifting-bits/remill)
+  > Library for lifting machine code to LLVM bitcode
+
 ### [Bzi-Han](https://github.com/Bzi-Han)
 - 🍴 👤 [Bzi-Han](https://github.com/Bzi-Han) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [Bzi-Han/opencode](https://github.com/Bzi-Han/opencode)
   > The open source coding agent.
@@ -15,6 +19,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [verus-lang/verus](https://github.com/verus-lang/verus)
   > Verified Rust for low-level systems code
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [0xAA55/ex2000](https://github.com/0xAA55/ex2000)
+  > A minimum size Win32 3D game written in NASM
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [huggingface/Mongoku](https://github.com/huggingface/Mongoku)
@@ -30,13 +36,24 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2)
   > Official inference repo for FLUX.2 models
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [t0asts/DIE-engine-web](https://github.com/t0asts/DIE-engine-web)
+  > Detect It Easy but in your browser.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
   > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
 
+### [phodal](https://github.com/phodal)
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [aliyun/alibabacloud-aiops-skills](https://github.com/aliyun/alibabacloud-aiops-skills) to [phodal-archive/alibabacloud-aiops-skills](https://github.com/phodal-archive/alibabacloud-aiops-skills)
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [zhuowei/nexus7-baremetal](https://github.com/zhuowei/nexus7-baremetal)
   > Baremetal development for the Nexus 7 2012 (Grouper) and Nexus 6P (Angler)
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)
+  > 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [creativetimofficial/ui](https://github.com/creativetimofficial/ui)
@@ -54,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-06-03 08:51:14 UTC*
+*最后更新于 2026-06-03 13:12:31 UTC*
 *历史记录保存在 `archive` 目录中。*
