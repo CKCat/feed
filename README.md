@@ -26,6 +26,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [huggingface/Mongoku](https://github.com/huggingface/Mongoku)
   > 🔥The Web-scale GUI for MongoDB
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  > Self-hosted AI workspace. 
+
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [perilouswithadollarsign/cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src)
   > Leak of CS:GO Source code, provided by yours truly so go rep me
@@ -63,6 +67,10 @@
 - 🍴 👤 [therealdreg](https://github.com/therealdreg) Forked [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) to [therealdreg/hackrf](https://github.com/therealdreg/hackrf)
   > low cost software radio platform
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+  > DSPy: The framework for programming—not prompting—language models
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [microsoft/coreutils](https://github.com/microsoft/coreutils)
   > Coreutils for Windows: Installer & Packaging
@@ -71,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-06-03 13:12:31 UTC*
+*最后更新于 2026-06-03 18:19:47 UTC*
 *历史记录保存在 `archive` 目录中。*
