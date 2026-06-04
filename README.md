@@ -19,6 +19,8 @@
   > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, an...
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
   > EAapp模拟器 By Misaka_Mikoto_01 And CrazyZhang666
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+  > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ZangXuanyi/getting-started-handout](https://github.com/ZangXuanyi/getting-started-handout)
@@ -32,6 +34,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [razvandimescu/gopdf](https://github.com/razvandimescu/gopdf)
+  > Pure Go PDF library — text extraction, merge, search, overlay, redaction. No CGo, no dependencies. M...
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
@@ -40,9 +46,26 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/arybo](https://github.com/quarkslab/arybo)
   > Manipulation, canonicalization and identification of mixed boolean-arithmetic symbolic expressions
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yogthos/wavescope-mcp](https://github.com/yogthos/wavescope-mcp)
+  > Wavelet-based multi-resolution context management for LLMs via MCP
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mbbill/mind-expander](https://github.com/mbbill/mind-expander)
   > An infinite-canvas workspace for coding with AI agents.
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [DavidBuchanan314/rabbit_r1_boot_notes](https://github.com/DavidBuchanan314/rabbit_r1_boot_notes)
+  > Documenting the boot process of the Rabbit R1 (MediaTek mt6765, k65v1_64_bsp, Android 13)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Comsecuris/mtk-baseband-sanctuary](https://github.com/Comsecuris/mtk-baseband-sanctuary)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [cyrozap/mediatek-lte-baseband-re](https://github.com/cyrozap/mediatek-lte-baseband-re)
+  > Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [frederic/exynos-usbdl](https://github.com/frederic/exynos-usbdl)
+  > Unsigned code loader for Exynos BootROM
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
+  > Fix Play Integrity verdicts.
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [chromium/chromium](https://github.com/chromium/chromium)
@@ -54,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-06-04 08:17:06 UTC*
+*最后更新于 2026-06-04 11:49:10 UTC*
 *历史记录保存在 `archive` 目录中。*
