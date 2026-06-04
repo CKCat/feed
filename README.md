@@ -26,6 +26,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ZangXuanyi/getting-started-handout](https://github.com/ZangXuanyi/getting-started-handout)
   > 北京大学计算机基础能力手册
 
+### [bsauce](https://github.com/bsauce)
+- 🌟 👤 [bsauce](https://github.com/bsauce) Starred [Captain-AI-Hub/Sarma](https://github.com/Captain-AI-Hub/Sarma)
+  > An AI-IDE for idapro
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVlabs/SparDA](https://github.com/NVlabs/SparDA)
   > Sparse Decoupled Attention for Efficient Long-Context LLM Inference
@@ -53,6 +57,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mbbill/mind-expander](https://github.com/mbbill/mind-expander)
   > An infinite-canvas workspace for coding with AI agents.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [structurizr/structurizr](https://github.com/structurizr/structurizr)
+  > Structurizr is a "models as code" tool designed for the C4 model.
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [DavidBuchanan314/rabbit_r1_boot_notes](https://github.com/DavidBuchanan314/rabbit_r1_boot_notes)
@@ -62,6 +68,7 @@
   > Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [frederic/exynos-usbdl](https://github.com/frederic/exynos-usbdl)
   > Unsigned code loader for Exynos BootROM
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [981213/mtk_uartboot](https://github.com/981213/mtk_uartboot)
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
@@ -77,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-06-04 11:49:10 UTC*
+*最后更新于 2026-06-04 14:51:32 UTC*
 *历史记录保存在 `archive` 目录中。*
