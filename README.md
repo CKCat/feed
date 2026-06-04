@@ -34,6 +34,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVlabs/SparDA](https://github.com/NVlabs/SparDA)
   > Sparse Decoupled Attention for Efficient Long-Context LLM Inference
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ZyphrZero/chatgpt2api](https://github.com/ZyphrZero/chatgpt2api)
+  > 基于Go语言编写的ChatGPT官网接口纯协议的逆向实现GPT-Image-2生图，兼容多OpenAI接口协议，在线批量生成图像
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
@@ -59,6 +63,8 @@
   > An infinite-canvas workspace for coding with AI agents.
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [structurizr/structurizr](https://github.com/structurizr/structurizr)
   > Structurizr is a "models as code" tool designed for the C4 model.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [DavidBuchanan314/rabbit_r1_boot_notes](https://github.com/DavidBuchanan314/rabbit_r1_boot_notes)
@@ -84,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-06-04 14:51:32 UTC*
+*最后更新于 2026-06-04 17:43:00 UTC*
 *历史记录保存在 `archive` 目录中。*
