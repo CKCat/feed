@@ -26,6 +26,14 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ZangXuanyi/getting-started-handout](https://github.com/ZangXuanyi/getting-started-handout)
   > 北京大学计算机基础能力手册
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS)
+  > Miso TTS is an 8 billion, highly emotive text-to-speech model
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🍴 👤 [alexander-hanel](https://github.com/alexander-hanel) Forked [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) to [alexander-hanel/ML-For-Beginners](https://github.com/alexander-hanel/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
 ### [bsauce](https://github.com/bsauce)
 - 🌟 👤 [bsauce](https://github.com/bsauce) Starred [Captain-AI-Hub/Sarma](https://github.com/Captain-AI-Hub/Sarma)
   > An AI-IDE for idapro
@@ -37,6 +45,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ZyphrZero/chatgpt2api](https://github.com/ZyphrZero/chatgpt2api)
   > 基于Go语言编写的ChatGPT官网接口纯协议的逆向实现GPT-Image-2生图，兼容多OpenAI接口协议，在线批量生成图像
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [LeenHawk/gproxy](https://github.com/LeenHawk/gproxy)
+  > gproxy is a Rust-based multi-channel LLM proxy that exposes OpenAI / Claude / Gemini-style APIs thro...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
@@ -90,5 +100,5 @@
 
 
 ---
-*最后更新于 2026-06-04 17:43:00 UTC*
+*最后更新于 2026-06-04 20:00:53 UTC*
 *历史记录保存在 `archive` 目录中。*
