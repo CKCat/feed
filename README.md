@@ -52,6 +52,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [drclcomputers/ASMOS](https://github.com/drclcomputers/ASMOS)
+  > I should change its name. I rewrote the full OS in C, using ASM just in the boot loader and kernel e...
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [razvandimescu/gopdf](https://github.com/razvandimescu/gopdf)
   > Pure Go PDF library — text extraction, merge, search, overlay, redaction. No CGo, no dependencies. M...
@@ -100,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-06-04 20:00:53 UTC*
+*最后更新于 2026-06-04 22:17:51 UTC*
 *历史记录保存在 `archive` 目录中。*
