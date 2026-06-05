@@ -50,9 +50,15 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
   > Binary diff tool for PE (EXE/DLL) and ELF files. Compares two binaries, resolves virtual addresses, ...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nbulsi/cirsat](https://github.com/nbulsi/cirsat)
+  > A circuit-based Boolean satisfiability (SAT) solver
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
   > A Ghidra agentic reverse engineering skill.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy)
+  > The code coverage tool for Python
 
 ### [scc-tw](https://github.com/scc-tw)
 - 🍴 👤 [scc-tw](https://github.com/scc-tw) Forked [BenjaminRi/winresource](https://github.com/BenjaminRi/winresource) to [scc-tw/winresource](https://github.com/scc-tw/winresource)
@@ -70,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-06-05 15:50:06 UTC*
+*最后更新于 2026-06-05 17:50:42 UTC*
 *历史记录保存在 `archive` 目录中。*
