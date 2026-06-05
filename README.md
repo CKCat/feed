@@ -42,11 +42,15 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
   > Binary diff tool for PE (EXE/DLL) and ELF files. Compares two binaries, resolves virtual addresses, ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
+  > A Ghidra agentic reverse engineering skill.
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
   > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
 
 
 ---
-*最后更新于 2026-06-05 09:39:41 UTC*
+*最后更新于 2026-06-05 12:33:36 UTC*
 *历史记录保存在 `archive` 目录中。*
