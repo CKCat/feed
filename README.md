@@ -26,6 +26,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [brenogonzaga/tauri-plugin-audio-recorder](https://github.com/brenogonzaga/tauri-plugin-audio-recorder)
   > Cross-platform audio recording plugin for Tauri 2.x applications. Provides audio recording functiona...
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Somnusochi/VLM-AutoYOLO](https://github.com/Somnusochi/VLM-AutoYOLO)
+  > AI Auto Annotation & YOLO Training Pipeline, End-to-end object detection auto-labeling and YOLO trai...
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
   > A Ghidra agentic reverse engineering skill.
@@ -83,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-06-05 21:22:27 UTC*
+*最后更新于 2026-06-05 23:04:40 UTC*
 *历史记录保存在 `archive` 目录中。*
