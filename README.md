@@ -26,6 +26,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [brenogonzaga/tauri-plugin-audio-recorder](https://github.com/brenogonzaga/tauri-plugin-audio-recorder)
   > Cross-platform audio recording plugin for Tauri 2.x applications. Provides audio recording functiona...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
+  > A Ghidra agentic reverse engineering skill.
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
   > Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSoc...
@@ -45,6 +49,9 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
   > All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Expl...
+
+### [hhj4ck](https://github.com/hhj4ck)
+- 🌟 👤 [hhj4ck](https://github.com/hhj4ck) Starred [hhj4ck/BreakEthereumPhone](https://github.com/hhj4ck/BreakEthereumPhone)
 
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
@@ -76,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-06-05 17:50:42 UTC*
+*最后更新于 2026-06-05 19:49:34 UTC*
 *历史记录保存在 `archive` 目录中。*
