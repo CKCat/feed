@@ -4,13 +4,31 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Zulenka/ProjectSaturn](https://github.com/Zulenka/ProjectSaturn)
+  > Project Saturn provides Opera, Chrome, and FireFox capabilities while striving to provide fixes and ...
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Andrea-lyz/TEESimulator-RS-Online](https://github.com/Andrea-lyz/TEESimulator-RS-Online)
+  > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [Andrea-lyz/TEESimulator-RS-Online](https://github.com/Andrea-lyz/TEESimulator-RS-Online) to [KuNgia09/TEESimulator-RS-Online](https://github.com/KuNgia09/TEESimulator-RS-Online)
+  > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
   > Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kwsimons/AnimaSSH](https://github.com/kwsimons/AnimaSSH)
+  > AnimaSSH installs an OpenSSH SSH/SFTP server on a retail Xbox that has been compromised via Collater...
 
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
   > Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSoc...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [pedropark99/zig-book](https://github.com/pedropark99/zig-book)
+  > An open, technical and introductory book for the Zig programming language 📚📖
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle)
@@ -20,7 +38,15 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
   > All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Expl...
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
+  > Binary diff tool for PE (EXE/DLL) and ELF files. Compares two binaries, resolves virtual addresses, ...
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
+  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
+
 
 ---
-*最后更新于 2026-06-05 05:12:42 UTC*
+*最后更新于 2026-06-05 09:39:41 UTC*
 *历史记录保存在 `archive` 目录中。*
