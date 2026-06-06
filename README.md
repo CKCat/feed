@@ -31,9 +31,15 @@
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [farbrausch/fr_public](https://github.com/farbrausch/fr_public)
   > Farbrausch demo tools 2001-2011
 
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
   > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
+  > Python library for running a MicroPython sandbox using WebAssembly
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
@@ -53,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-06-06 19:16:39 UTC*
+*最后更新于 2026-06-06 21:00:06 UTC*
 *历史记录保存在 `archive` 目录中。*
