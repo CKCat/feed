@@ -27,13 +27,25 @@
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [dqzg12300/sub2api](https://github.com/dqzg12300/sub2api)
   > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [farbrausch/fr_public](https://github.com/farbrausch/fr_public)
+  > Farbrausch demo tools 2001-2011
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
   > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
 
+### [osm0sis](https://github.com/osm0sis)
+- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+  > Fix Play Integrity <A13 verdicts, allowing custom fields and props
+
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [cpaczek/skylight](https://github.com/cpaczek/skylight)
   > Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live ...
+
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [bgens/dnSpyExAI](https://github.com/bgens/dnSpyExAI) to [sunwm518/dnSpyExAI](https://github.com/sunwm518/dnSpyExAI)
+  > GPT-5 Integration into dnSpyEx to facilitate reversing, hack/cheat/exploit, and vulnerability resear...
 
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [tytydraco/ffmpeg-yp3-patch](https://github.com/tytydraco/ffmpeg-yp3-patch)
@@ -41,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-06-06 17:08:04 UTC*
+*最后更新于 2026-06-06 19:16:39 UTC*
 *历史记录保存在 `archive` 目录中。*
