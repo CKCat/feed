@@ -12,6 +12,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Something-Mighty/vk_dxgi](https://github.com/Something-Mighty/vk_dxgi)
   > vk_dxgi is a small, single-header C++ library that lets a Vulkan application take full control of it...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty)
+  > OpenCode plugin for interactive PTY management - run background processes, send input, read output w...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [rclone/rclone-openapi](https://github.com/rclone/rclone-openapi)
   > OpenAPI 3.1 specification for the Rclone RC API
@@ -19,6 +23,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [dqzg12300/sub2api](https://github.com/dqzg12300/sub2api)
   > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
+  > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [cpaczek/skylight](https://github.com/cpaczek/skylight)
@@ -30,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-06-06 11:22:30 UTC*
+*最后更新于 2026-06-06 13:24:27 UTC*
 *历史记录保存在 `archive` 目录中。*
