@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [SHORiN-KiWATA/Shorin-ArchLinux-Guide](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide)
+  > 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Something-Mighty/vk_dxgi](https://github.com/Something-Mighty/vk_dxgi)
   > vk_dxgi is a small, single-header C++ library that lets a Vulkan application take full control of it...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [rclone/rclone-openapi](https://github.com/rclone/rclone-openapi)
+  > OpenAPI 3.1 specification for the Rclone RC API
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [dqzg12300/sub2api](https://github.com/dqzg12300/sub2api)
@@ -22,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-06-06 06:27:24 UTC*
+*最后更新于 2026-06-06 09:22:37 UTC*
 *历史记录保存在 `archive` 目录中。*
