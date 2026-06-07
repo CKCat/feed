@@ -29,6 +29,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [tomlinyuan/EUI-NEO-Android](https://github.com/tomlinyuan/EUI-NEO-Android)
   > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 UI framework built on OpenGL and G...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/swiftshader](https://github.com/google/swiftshader)
+  > SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is t...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
   > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
@@ -39,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-06-07 15:21:46 UTC*
+*最后更新于 2026-06-07 17:12:47 UTC*
 *历史记录保存在 `archive` 目录中。*
