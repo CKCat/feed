@@ -1,51 +1,22 @@
-# 每日 GitHub 动态 (2026-06-07)
+# 每日 GitHub 动态 (2026-06-08)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [0xdea](https://github.com/0xdea)
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
-  > Run compilers interactively from your web browser and interact with the assembly
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [thinkst/package-proxy](https://github.com/thinkst/package-proxy)
-  > Inline proxy for software package registries to provide observability and policy controls to install...
+### [0xnobody](https://github.com/0xnobody)
+- 🌟 👤 [0xnobody](https://github.com/0xnobody) Starred [RobbyLinson/CheckEmailLight](https://github.com/RobbyLinson/CheckEmailLight)
+  > Automated Email Warning System
 
-### [ErodedElk](https://github.com/ErodedElk)
-- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [mootdx/mootdx](https://github.com/mootdx/mootdx)
-  > 通达信数据读取的一个简便使用封装
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [unsound/refsprogs](https://github.com/unsound/refsprogs)
-  > ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
-
-### [Mq-b](https://github.com/Mq-b)
-- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [fengyinggzr/ComItem](https://github.com/fengyinggzr/ComItem)
-
-### [crazyguitar](https://github.com/crazyguitar)
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
-  > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [openprose/prose](https://github.com/openprose/prose)
-  > A new kind of language for a new kind of computer
-
-### [enenH](https://github.com/enenH)
-- 🌟 👤 [enenH](https://github.com/enenH) Starred [tomlinyuan/EUI-NEO-Android](https://github.com/tomlinyuan/EUI-NEO-Android)
-  > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 UI framework built on OpenGL and G...
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/swiftshader](https://github.com/google/swiftshader)
-  > SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is t...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
-  > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
-
-### [sunface](https://github.com/sunface)
-- 🌟 👤 [sunface](https://github.com/sunface) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-  > Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: determi...
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+  > Let's use AI to Earn!
 
 
 ---
-*最后更新于 2026-06-07 23:01:31 UTC*
+*最后更新于 2026-06-08 03:38:50 UTC*
 *历史记录保存在 `archive` 目录中。*
