@@ -42,6 +42,14 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+  > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+  > A vector index built on TurboQuant, written in Rust with Python bindings
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) to [crazyguitar/turbovec](https://github.com/crazyguitar/turbovec)
+  > A vector index built on TurboQuant, written in Rust with Python bindings
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
   > Automate Docker container image updates
@@ -104,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-06-08 17:20:10 UTC*
+*最后更新于 2026-06-08 20:09:41 UTC*
 *历史记录保存在 `archive` 目录中。*
