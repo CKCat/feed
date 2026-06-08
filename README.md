@@ -35,6 +35,8 @@
   > Stores your data in ICMP ping packets
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [benjojo/dnsfs](https://github.com/benjojo/dnsfs)
   > Store your data in others DNS resolver cache
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Chevey339/kelivo](https://github.com/Chevey339/kelivo)
+  > A Flutter LLM Chat Client. Support Mobile & Desktop.
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
@@ -54,17 +56,31 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
   > Let's use AI to Earn!
 
+### [mpast](https://github.com/mpast)
+- 🍴 👤 [mpast](https://github.com/mpast) Forked [plusuncold/autiobooks](https://github.com/plusuncold/autiobooks) to [mpast/autiobooks](https://github.com/mpast/autiobooks)
+  > Automatically convert epubs to audiobooks
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
   > This project aims to compare and evaluate the telemetry of various EDR products.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
+  > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [emoon/minifb](https://github.com/emoon/minifb)
+  > MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
+
+### [xiaoweiChen](https://github.com/xiaoweiChen)
+- 🌟 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Starred [xiaoweiChen/Minimal-CMake](https://github.com/xiaoweiChen/Minimal-CMake)
+  > 《Minimal CMake》的非专业个人翻译
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [BlackSnufkin/PT-ToolKit](https://github.com/BlackSnufkin/PT-ToolKit)
@@ -88,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-06-08 13:03:27 UTC*
+*最后更新于 2026-06-08 17:20:10 UTC*
 *历史记录保存在 `archive` 目录中。*
