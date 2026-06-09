@@ -8,6 +8,23 @@
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [modelscope/FunASR](https://github.com/modelscope/FunASR)
   > Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emot...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
+  > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dhoard/codex-profiles](https://github.com/dhoard/codex-profiles)
+  > Codex profiles
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nianzs/sub2api](https://github.com/nianzs/sub2api)
+  > 由于官方维护kiro渠道的意愿不高, 因此此仓库维护了一个与官方分支长期稳定合并的Kiro支持fork。支持模拟缓存! 分组可调模拟比例,已支持 opus4.8 感谢@gogoing1024
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
@@ -37,7 +54,10 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
   > A visual no-code theme editor for shadcn/ui components
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server)
+
 
 ---
-*最后更新于 2026-06-09 05:01:42 UTC*
+*最后更新于 2026-06-09 09:35:51 UTC*
 *历史记录保存在 `archive` 目录中。*
