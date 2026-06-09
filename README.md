@@ -16,6 +16,8 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
+  > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dhoard/codex-profiles](https://github.com/dhoard/codex-profiles)
@@ -35,6 +37,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [google/perfetto](https://github.com/google/perfetto)
   > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
+### [ihciah](https://github.com/ihciah)
+- 🚀 👤 [ihciah](https://github.com/ihciah) Made [ihciah/dns-nftsetter](https://github.com/ihciah/dns-nftsetter) public
+  > Update the nft set based on the captured DNS results.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 
@@ -50,14 +56,30 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
   > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [slopus/happy](https://github.com/slopus/happy)
+  > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
   > A visual no-code theme editor for shadcn/ui components
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [tailscale/golink](https://github.com/tailscale/golink)
+  > A private shortlink service for tailnets
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs)
+  > Rust implementation of Magic Wormhole, with new features and enhancements
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
+  > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [fczllc/Chemical-Lab](https://github.com/fczllc/Chemical-Lab)
+  > 初中高中化学教材学习的辅助趣味系统
 
 
 ---
-*最后更新于 2026-06-09 09:35:51 UTC*
+*最后更新于 2026-06-09 12:33:39 UTC*
 *历史记录保存在 `archive` 目录中。*
