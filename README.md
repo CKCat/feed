@@ -44,6 +44,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nianzs/sub2api](https://github.com/nianzs/sub2api)
   > 由于官方维护kiro渠道的意愿不高, 因此此仓库维护了一个与官方分支长期稳定合并的Kiro支持fork。支持模拟缓存! 分组可调模拟比例,已支持 opus4.8 感谢@gogoing1024
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [adewynter/aoe2-circuits](https://github.com/adewynter/aoe2-circuits)
+  > For the paper 'If LLMs Have Human-Like Attributes, Then so Does Age of Empires II'
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
@@ -108,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-06-09 20:14:35 UTC*
+*最后更新于 2026-06-09 22:21:06 UTC*
 *历史记录保存在 `archive` 目录中。*
