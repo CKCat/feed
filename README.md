@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [uutils/coreutils](https://github.com/uutils/coreutils)
+  > Cross-platform Rust rewrite of the GNU coreutils
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [uutils/coreutils](https://github.com/uutils/coreutils) to [0xdea/coreutils](https://github.com/0xdea/coreutils)
+  > Cross-platform Rust rewrite of the GNU coreutils
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [modelscope/FunASR](https://github.com/modelscope/FunASR)
   > Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emot...
@@ -19,9 +25,16 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
   > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AndreiKud/ReSmali](https://github.com/AndreiKud/ReSmali)
+  > Smali language plugin for IntelliJ IDEA
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dhoard/codex-profiles](https://github.com/dhoard/codex-profiles)
   > Codex profiles
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [mixiate/RCTGen2](https://github.com/mixiate/RCTGen2)
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nianzs/sub2api](https://github.com/nianzs/sub2api)
@@ -41,8 +54,18 @@
 - 🚀 👤 [ihciah](https://github.com/ihciah) Made [ihciah/dns-nftsetter](https://github.com/ihciah/dns-nftsetter) public
   > Update the nft set based on the captured DNS results.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [de2nis/GLOVE](https://github.com/de2nis/GLOVE)
+  > GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between an OpenGL ap...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [stjordanis/GLOVE-1](https://github.com/stjordanis/GLOVE-1)
+  > GLOVE (GL Over Vulkan) is a cross-platform software library that acts as an intermediate layer betwe...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [estkme-group/lpac](https://github.com/estkme-group/lpac)
+  > C-based eUICC LPA
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode)
+  > Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extensio...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [shenjianZ/DeviceDeck](https://github.com/shenjianZ/DeviceDeck)
@@ -81,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-06-09 12:33:39 UTC*
+*最后更新于 2026-06-09 15:51:42 UTC*
 *历史记录保存在 `archive` 目录中。*
