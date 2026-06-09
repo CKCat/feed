@@ -35,6 +35,10 @@
 
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [mixiate/RCTGen2](https://github.com/mixiate/RCTGen2)
+- 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl-lsp](https://github.com/behl-lang/behl-lsp) public
+  > Language Server Protocol implementation for the Behl scripting language. Provides diagnostics, symbo...
+- 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl-vscode](https://github.com/behl-lang/behl-vscode) public
+  > Behl language support for Visual Studio Code. Syntax highlighting plus rich editing features (diagno...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [nianzs/sub2api](https://github.com/nianzs/sub2api)
@@ -104,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-06-09 17:59:07 UTC*
+*最后更新于 2026-06-09 20:14:35 UTC*
 *历史记录保存在 `archive` 目录中。*
