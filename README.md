@@ -11,6 +11,8 @@
   > A memory safe implementation of sudo and su.
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) to [0xdea/sudo-rs](https://github.com/0xdea/sudo-rs)
   > A memory safe implementation of sudo and su.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > agent multiplexer that lives in your terminal.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [miunasu/ShadowScheduler](https://github.com/miunasu/ShadowScheduler)
@@ -44,6 +46,10 @@
 ### [lxraa](https://github.com/lxraa)
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [F8LEFT/SoFixer](https://github.com/F8LEFT/SoFixer) to [lxraa/SoFixer](https://github.com/lxraa/SoFixer)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [zed-industries/zed](https://github.com/zed-industries/zed) to [mrexodia/zed](https://github.com/mrexodia/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG)
   > ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
@@ -59,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-06-10 09:52:19 UTC*
+*最后更新于 2026-06-10 12:53:33 UTC*
 *历史记录保存在 `archive` 目录中。*
