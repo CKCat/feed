@@ -32,6 +32,14 @@
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench)
+  > LiveBench: A Challenging, Contamination-Free LLM Benchmark
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+  > A straightforward method for training your LLM, from downloading data to generating text.
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) to [crazyguitar/train-llm-from-scratch](https://github.com/crazyguitar/train-llm-from-scratch)
+  > A straightforward method for training your LLM, from downloading data to generating text.
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [oracle/opengrok](https://github.com/oracle/opengrok)
@@ -49,6 +57,12 @@
   > An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
   > A Kubernetes device plugin to schedule generic Linux devices
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [bruits/satteri](https://github.com/bruits/satteri)
+  > High-performance Markdown and MDX processing for the JavaScript ecosystem
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [flafmg/RecompOne](https://github.com/flafmg/RecompOne)
+  > Static ps1 recompiler (WIP)
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [liuziangexit/EmbedICCProfile](https://github.com/liuziangexit/EmbedICCProfile)
@@ -90,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-06-10 19:31:45 UTC*
+*最后更新于 2026-06-10 21:57:43 UTC*
 *历史记录保存在 `archive` 目录中。*
