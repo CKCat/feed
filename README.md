@@ -14,6 +14,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [ciaranm/glasgow-subgraph-solver](https://github.com/ciaranm/glasgow-subgraph-solver)
+  > A solver for subgraph isomorphism problems, based upon a series of papers by subsets of McCreesh, Pr...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [miunasu/ShadowScheduler](https://github.com/miunasu/ShadowScheduler)
   > PoC for covert persistence via Windows Push Task Scheduler (WPTaskScheduler) RPC interface — invisib...
@@ -25,9 +29,23 @@
   > Smali language plugin for IntelliJ IDEA
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t)
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [oracle/opengrok](https://github.com/oracle/opengrok)
   > OpenGrok is a fast and usable source code search and cross reference engine, written in Java
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NVIDIA/enroot](https://github.com/NVIDIA/enroot)
+  > A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [apptainer/apptainer](https://github.com/apptainer/apptainer)
+  > Apptainer: Application containers for Linux
+
+### [es3n1n](https://github.com/es3n1n)
+- 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [redpwn/jail](https://github.com/redpwn/jail) to [es3n1n/jail](https://github.com/es3n1n/jail)
+  > An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [liuziangexit/EmbedICCProfile](https://github.com/liuziangexit/EmbedICCProfile)
@@ -63,7 +81,11 @@
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [fdd4s/dictionary_for_portable_mp3_players_rockstar_yp3](https://github.com/fdd4s/dictionary_for_portable_mp3_players_rockstar_yp3)
   > Tools for read, edit and write dictionary format files for portable mp3 players RockStar YP3
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [magicsword-io/LOLBASline](https://github.com/magicsword-io/LOLBASline)
+  > Baseline a Windows System against LOLBAS
+
 
 ---
-*最后更新于 2026-06-10 12:53:33 UTC*
+*最后更新于 2026-06-10 16:32:26 UTC*
 *历史记录保存在 `archive` 目录中。*
