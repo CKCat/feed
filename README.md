@@ -42,10 +42,13 @@
   > A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [apptainer/apptainer](https://github.com/apptainer/apptainer)
   > Apptainer: Application containers for Linux
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [redpwn/jail](https://github.com/redpwn/jail) to [es3n1n/jail](https://github.com/es3n1n/jail)
   > An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
+  > A Kubernetes device plugin to schedule generic Linux devices
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [liuziangexit/EmbedICCProfile](https://github.com/liuziangexit/EmbedICCProfile)
@@ -87,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-06-10 16:32:26 UTC*
+*最后更新于 2026-06-10 19:31:45 UTC*
 *历史记录保存在 `archive` 目录中。*
