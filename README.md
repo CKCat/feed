@@ -10,6 +10,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [soteria-tools/soteria](https://github.com/soteria-tools/soteria)
   > Sound static analysis for the masses.
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [dariushoule/x64dbg-automate](https://github.com/dariushoule/x64dbg-automate)
+  > ZMQ and Messagepack Powered Remote Automation Plugin for x64dbg
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [qhencoder/SysRestoreDriver](https://github.com/qhencoder/SysRestoreDriver)
   > Windows kernel-mode reboot-restore driver — NTFS volume filter with copy-on-write redirection
@@ -41,6 +45,9 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)
   > ⛏️ Turning data into a visual language for better thinking with Skills.
 
+### [programminghoch10](https://github.com/programminghoch10)
+- 🍴 👤 [programminghoch10](https://github.com/programminghoch10) Forked [TheMuppets/proprietary_vendor_samsung_gta4xls](https://github.com/TheMuppets/proprietary_vendor_samsung_gta4xls) to [programminghoch10/proprietary_vendor_samsung_gta4xls](https://github.com/programminghoch10/proprietary_vendor_samsung_gta4xls)
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xiaojianbang8888/OLLVM_Deobfuscator](https://github.com/xiaojianbang8888/OLLVM_Deobfuscator)
   > OLLVM Deobfuscation Tool
@@ -55,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-06-11 12:41:41 UTC*
+*最后更新于 2026-06-11 16:51:02 UTC*
 *历史记录保存在 `archive` 目录中。*
