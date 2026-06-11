@@ -9,6 +9,8 @@
   > Zellic's audits, publications, and reports
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [soteria-tools/soteria](https://github.com/soteria-tools/soteria)
   > Sound static analysis for the masses.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [rust-stdx/stdx](https://github.com/rust-stdx/stdx)
+  > Rust's extended standard library: simplicity, performance and supply chain security for everyone.
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [dariushoule/x64dbg-automate](https://github.com/dariushoule/x64dbg-automate)
@@ -24,6 +26,12 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
   > LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sungaila/PDFtoImage](https://github.com/sungaila/PDFtoImage)
+  > A .NET library to render PDF files into images.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler)
+  > Compile Zod schemas into zero-overhead validation functions at build time
 
 ### [archibate](https://github.com/archibate)
 - 🍴 👤 [archibate](https://github.com/archibate) Forked [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) to [archibate/cc-connect](https://github.com/archibate/cc-connect)
@@ -62,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-06-11 16:51:02 UTC*
+*最后更新于 2026-06-11 19:32:51 UTC*
 *历史记录保存在 `archive` 目录中。*
