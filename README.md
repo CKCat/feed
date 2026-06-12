@@ -4,6 +4,43 @@
 
 ## 今日动态
 
+### [20000s](https://github.com/20000s)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
+
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail)
+  > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-...
+- 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [maillab/cloud-mail](https://github.com/maillab/cloud-mail) to [Admirepowered/cloud-mail](https://github.com/Admirepowered/cloud-mail)
+  > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VeroFess/AsmKit](https://github.com/VeroFess/AsmKit)
+  > AsmKit is a pure-C typed assembler/disassembler and instruction metadata library.
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+  > A fancy self-hosted monitoring tool
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stas00/the-art-of-debugging](https://github.com/stas00/the-art-of-debugging)
+  > The Art of Debugging Open Book
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
+  > GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
+  > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
+  > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/libdisplay](https://github.com/superturtlee/libdisplay)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/oppo_oplus_realme_sm8850](https://github.com/superturtlee/oppo_oplus_realme_sm8850)
@@ -26,7 +63,11 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [maskelihileci/Retrospective_Analysis](https://github.com/maskelihileci/Retrospective_Analysis)
   > Retrospective Analysis
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
+
 
 ---
-*最后更新于 2026-06-12 03:36:40 UTC*
+*最后更新于 2026-06-12 08:21:48 UTC*
 *历史记录保存在 `archive` 目录中。*
