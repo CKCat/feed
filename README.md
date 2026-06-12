@@ -31,6 +31,9 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
   > A fancy self-hosted monitoring tool
 
+### [affggh](https://github.com/affggh)
+- 🍴 👤 [affggh](https://github.com/affggh) Forked [LineageOS/android_kernel_wingtech_msm8916](https://github.com/LineageOS/android_kernel_wingtech_msm8916) to [affggh/android_kernel_wingtech_msm8916](https://github.com/affggh/android_kernel_wingtech_msm8916)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stas00/the-art-of-debugging](https://github.com/stas00/the-art-of-debugging)
   > The Art of Debugging Open Book
@@ -39,15 +42,27 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
   > GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Aki2k/BEDaisy](https://github.com/Aki2k/BEDaisy)
+  > reverse engineering of bedaisy.sys (battleyes kernel driver) - Aki2k/BEDaisy
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
   > An offensive data enrichment pipeline
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [google/jsir](https://github.com/google/jsir)
   > Next-generation JavaScript analysis tooling
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
+  > A git client based on the IntelliJ platform
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
@@ -81,8 +96,10 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
 
 
 ---
-*最后更新于 2026-06-12 12:16:01 UTC*
+*最后更新于 2026-06-12 16:14:48 UTC*
 *历史记录保存在 `archive` 目录中。*
