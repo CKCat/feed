@@ -6,7 +6,7 @@
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-  > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
+  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
 
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail)
@@ -15,6 +15,10 @@
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [nil0x42/phpsploit](https://github.com/nil0x42/phpsploit)
+  > Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [jwangkun/claude-for-financial-services-cn](https://github.com/jwangkun/claude-for-financial-services-cn)
@@ -111,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-06-12 21:28:41 UTC*
+*最后更新于 2026-06-12 23:13:51 UTC*
 *历史记录保存在 `archive` 目录中。*
