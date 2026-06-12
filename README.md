@@ -16,6 +16,10 @@
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [jwangkun/claude-for-financial-services-cn](https://github.com/jwangkun/claude-for-financial-services-cn)
+  >  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VeroFess/AsmKit](https://github.com/VeroFess/AsmKit)
   > AsmKit is a pure-C typed assembler/disassembler and instruction metadata library.
@@ -93,6 +97,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [maskelihileci/Retrospective_Analysis](https://github.com/maskelihileci/Retrospective_Analysis)
   > Retrospective Analysis
 
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [AltraMayor/f3](https://github.com/AltraMayor/f3)
+  > F3 - Fight Flash Fraud
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
@@ -101,5 +109,5 @@
 
 
 ---
-*最后更新于 2026-06-12 16:14:48 UTC*
+*最后更新于 2026-06-12 19:02:01 UTC*
 *历史记录保存在 `archive` 目录中。*
