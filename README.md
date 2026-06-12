@@ -13,10 +13,16 @@
   > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-...
 - 🍴 👤 [Admirepowered](https://github.com/Admirepowered) Forked [maillab/cloud-mail](https://github.com/maillab/cloud-mail) to [Admirepowered/cloud-mail](https://github.com/Admirepowered/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
+  > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [VeroFess/AsmKit](https://github.com/VeroFess/AsmKit)
   > AsmKit is a pure-C typed assembler/disassembler and instruction metadata library.
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning)
+  > Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)
@@ -36,6 +42,12 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
+  > An offensive data enrichment pipeline
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [google/jsir](https://github.com/google/jsir)
+  > Next-generation JavaScript analysis tooling
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
@@ -58,6 +70,9 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/android_kernel_common_oneplus_sm8850](https://github.com/superturtlee/android_kernel_common_oneplus_sm8850)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/ReSukiSU](https://github.com/superturtlee/ReSukiSU)
   > A KernelSU based root solution for Android
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/anland](https://github.com/superturtlee/anland)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/droidland](https://github.com/superturtlee/droidland)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/weston](https://github.com/superturtlee/weston)
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [maskelihileci/Retrospective_Analysis](https://github.com/maskelihileci/Retrospective_Analysis)
@@ -69,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-06-12 08:21:48 UTC*
+*最后更新于 2026-06-12 12:16:01 UTC*
 *历史记录保存在 `archive` 目录中。*
