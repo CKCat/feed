@@ -25,7 +25,13 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [pineforge-4pass/pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine)
   > Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retooling-io/workshop-nohat25](https://github.com/retooling-io/workshop-nohat25)
+  > Ghost in the Machine: Live Fire Threat Actor Dissection
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CynicRus/DWARFHelper](https://github.com/CynicRus/DWARFHelper)
+  > DWARFHelper is a plugin for x64dbg, designed to load DWARF debug symbols from executable files (e.g....
+
 
 ---
-*最后更新于 2026-06-13 07:42:41 UTC*
+*最后更新于 2026-06-13 10:25:15 UTC*
 *历史记录保存在 `archive` 目录中。*
