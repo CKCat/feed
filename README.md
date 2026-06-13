@@ -11,6 +11,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
   > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu)
+  > 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [LegNeato/rust-gpu-chimera](https://github.com/LegNeato/rust-gpu-chimera)
+  > Demo project showing a single Rust codebase running on CPU and directly on GPUs
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ItsVixano/android_vendor_lineage-priv_keys](https://github.com/ItsVixano/android_vendor_lineage-priv_keys)
@@ -19,6 +23,10 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [databasus/databasus](https://github.com/databasus/databasus)
   > PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
+
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) to [can1357/cmux](https://github.com/can1357/cmux)
+  > Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [aristocratos/btop](https://github.com/aristocratos/btop)
@@ -29,13 +37,7 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [pineforge-4pass/pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine)
   > Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retooling-io/workshop-nohat25](https://github.com/retooling-io/workshop-nohat25)
-  > Ghost in the Machine: Live Fire Threat Actor Dissection
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CynicRus/DWARFHelper](https://github.com/CynicRus/DWARFHelper)
-  > DWARFHelper is a plugin for x64dbg, designed to load DWARF debug symbols from executable files (e.g....
-
 
 ---
-*最后更新于 2026-06-13 12:22:36 UTC*
+*最后更新于 2026-06-13 14:57:38 UTC*
 *历史记录保存在 `archive` 目录中。*
