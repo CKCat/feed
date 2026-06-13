@@ -20,6 +20,10 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ItsVixano/android_vendor_lineage-priv_keys](https://github.com/ItsVixano/android_vendor_lineage-priv_keys)
   > Template for signing LineageOS 20.0 > builds with `dev-keys`
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [databasus/databasus](https://github.com/databasus/databasus)
   > PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -39,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-06-13 16:15:40 UTC*
+*最后更新于 2026-06-13 18:04:36 UTC*
 *历史记录保存在 `archive` 目录中。*
