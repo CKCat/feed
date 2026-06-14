@@ -4,6 +4,32 @@
 
 ## 今日动态
 
+### [KaisenAmin](https://github.com/KaisenAmin)
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [KaisenAmin/c_std](https://github.com/KaisenAmin/c_std)
+  > Implementation of C++ standard libraries in C
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [ned14/llfio](https://github.com/ned14/llfio)
+  > P1031 low level file i/o and filesystem library for the C++ standard
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [netdata/netdata](https://github.com/netdata/netdata)
+  > The fastest path to AI-powered full stack observability, even for lean teams.
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [citusdata/citus](https://github.com/citusdata/citus)
+  > Distributed PostgreSQL as an extension
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+  > OBS Studio - Free and open source software for live streaming and screen recording
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  > Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on ...
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [sonic-net/sonic-buildimage](https://github.com/sonic-net/sonic-buildimage)
+  > Scripts which perform an installable binary image build for SONiC
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [mpv-player/mpv](https://github.com/mpv-player/mpv)
+  > 🎥 Command line media player
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [php/php-src](https://github.com/php/php-src)
+  > The PHP Interpreter
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+  > How to create an OS from scratch
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [rvaiya/keyd](https://github.com/rvaiya/keyd)
+  > A key remapping daemon for linux.
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
+  > Android application for running Windows applications with Wine and Box86/Box64
+
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
   > VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L...
@@ -38,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-06-14 21:07:41 UTC*
+*最后更新于 2026-06-14 23:04:59 UTC*
 *历史记录保存在 `archive` 目录中。*
