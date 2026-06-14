@@ -21,6 +21,10 @@
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT)
+  > Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k to...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [hkgai-official/Moss](https://github.com/hkgai-official/Moss)
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-06-14 13:54:58 UTC*
+*最后更新于 2026-06-14 15:47:24 UTC*
 *历史记录保存在 `archive` 目录中。*
