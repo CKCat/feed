@@ -16,6 +16,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
   > Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constrain...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/perfetto](https://github.com/google/perfetto)
+  > Production-grade client-side tracing, profiling, and analysis for complex software systems.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justrach/codedb](https://github.com/justrach/codedb)
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
@@ -34,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-06-14 17:17:01 UTC*
+*最后更新于 2026-06-14 19:21:11 UTC*
 *历史记录保存在 `archive` 目录中。*
