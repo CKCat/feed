@@ -8,6 +8,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
   > VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L...
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [corkami/collisions](https://github.com/corkami/collisions)
+  > Hash collisions and exploitations
+
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
   > Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constrain...
@@ -24,5 +28,5 @@
 
 
 ---
-*最后更新于 2026-06-14 09:27:59 UTC*
+*最后更新于 2026-06-14 11:53:29 UTC*
 *历史记录保存在 `archive` 目录中。*
