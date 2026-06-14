@@ -25,8 +25,10 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [hkgai-official/Moss](https://github.com/hkgai-official/Moss)
   > MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [NervJS/taro](https://github.com/NervJS/taro)
+  > 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 
 
 ---
-*最后更新于 2026-06-14 11:53:29 UTC*
+*最后更新于 2026-06-14 13:54:58 UTC*
 *历史记录保存在 `archive` 目录中。*
