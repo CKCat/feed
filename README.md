@@ -4,11 +4,17 @@
 
 ## 今日动态
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that checks its own work.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
   > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [DMSQ-creator/ProxySwitch](https://github.com/DMSQ-creator/ProxySwitch)
   > 专业级 Chrome 代理管理工具。支持自动分流、GFWList 云端备份及自定义规则。Professional-grade Chrome proxy management tool. Support...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
@@ -20,6 +26,10 @@
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [chompie1337/s8_2019_2215_poc_exynos](https://github.com/chompie1337/s8_2019_2215_poc_exynos)
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 ### [cinit](https://github.com/cinit)
 - 🍴 👤 [cinit](https://github.com/cinit) Forked [secdev/scapy](https://github.com/secdev/scapy) to [cinit/scapy](https://github.com/cinit/scapy)
@@ -36,6 +46,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [thecodearcher/limen](https://github.com/thecodearcher/limen)
   > Modern, composable authentication for Go
+- 🚀 👤 [divyam234](https://github.com/divyam234) Made [divyam234/gatehouse](https://github.com/divyam234/gatehouse) public
+  > PostgreSQL-backed identity control plane and forward-auth gateway built with Better Auth, Hono, Reac...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
@@ -53,6 +65,16 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
   > 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoD...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ioncodes/sogen-sandbox-escape](https://github.com/ioncodes/sogen-sandbox-escape)
+  > sogen vulkan host arbitrary r/w into sandbox escape
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joske/yserver](https://github.com/joske/yserver)
+  > A modern X11 server written from scratch in Rust.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wizardengineer/psprecomp](https://github.com/wizardengineer/psprecomp)
+  > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper)
   > The most powerful Unreal Engine Dumper and Editor for UE 4.19 - 5.3
@@ -63,10 +85,16 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+  > An extremely fast bundler for the web
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [msm8916-mainline/lk2nd](https://github.com/msm8916-mainline/lk2nd)
   > Custom bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [MG1937/InformalNotes](https://github.com/MG1937/InformalNotes)
+  > Informal Research Notes
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [greatscottgadgets/cynthion](https://github.com/greatscottgadgets/cynthion)
+  > USB test instrument
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [avast/hexrays-demo](https://github.com/avast/hexrays-demo)
@@ -76,11 +104,11 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
 
-### [tinysec](https://github.com/tinysec)
-- 🚀 👤 [tinysec](https://github.com/tinysec) Made [tinysec/z3](https://github.com/tinysec/z3) public
-  > Z3 4.16.0 fork that builds dependency-free libraries for Windows & Linux.
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate)
+  > 支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/...
 
 
 ---
-*最后更新于 2026-06-15 10:21:04 UTC*
+*最后更新于 2026-06-15 16:14:02 UTC*
 *历史记录保存在 `archive` 目录中。*
