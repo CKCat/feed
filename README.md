@@ -1,68 +1,51 @@
-# 每日 GitHub 动态 (2026-06-14)
+# 每日 GitHub 动态 (2026-06-15)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [KaisenAmin](https://github.com/KaisenAmin)
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [KaisenAmin/c_std](https://github.com/KaisenAmin/c_std)
-  > Implementation of C++ standard libraries in C
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [ned14/llfio](https://github.com/ned14/llfio)
-  > P1031 low level file i/o and filesystem library for the C++ standard
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [netdata/netdata](https://github.com/netdata/netdata)
-  > The fastest path to AI-powered full stack observability, even for lean teams.
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [citusdata/citus](https://github.com/citusdata/citus)
-  > Distributed PostgreSQL as an extension
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-  > OBS Studio - Free and open source software for live streaming and screen recording
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-  > Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on ...
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [sonic-net/sonic-buildimage](https://github.com/sonic-net/sonic-buildimage)
-  > Scripts which perform an installable binary image build for SONiC
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [mpv-player/mpv](https://github.com/mpv-player/mpv)
-  > 🎥 Command line media player
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [php/php-src](https://github.com/php/php-src)
-  > The PHP Interpreter
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
-  > How to create an OS from scratch
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [rvaiya/keyd](https://github.com/rvaiya/keyd)
-  > A key remapping daemon for linux.
-- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
-  > Android application for running Windows applications with Wine and Box86/Box64
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
+  > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
-### [Mq-b](https://github.com/Mq-b)
-- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-  > VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L...
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
+  > 云微WOC，云微信，自由连接
 
-### [Panchajanya1999](https://github.com/Panchajanya1999)
-- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [corkami/collisions](https://github.com/corkami/collisions)
-  > Hash collisions and exploitations
+### [cinit](https://github.com/cinit)
+- 🍴 👤 [cinit](https://github.com/cinit) Forked [secdev/scapy](https://github.com/secdev/scapy) to [cinit/scapy](https://github.com/cinit/scapy)
+  > Scapy: the Python-based interactive packet manipulation program & library.
 
-### [enenH](https://github.com/enenH)
-- 🌟 👤 [enenH](https://github.com/enenH) Starred [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
-  > Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constrain...
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
+  > We write your reusable computer vision tools. 💜
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)
+  > PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the comm...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [YOOTeam/OpenPPT](https://github.com/YOOTeam/OpenPPT)
+  > AIPPT Online editor，Base On ChatPPT， supports document editing services throughout the entire proces...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image)
+  > ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/perfetto](https://github.com/google/perfetto)
-  > Production-grade client-side tracing, profiling, and analysis for complex software systems.
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper)
+  > The most powerful Unreal Engine Dumper and Editor for UE 4.19 - 5.3
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justrach/codedb](https://github.com/justrach/codedb)
-  > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-  > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT)
-  > Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k to...
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [js6pak/libil2cpp-archive](https://github.com/js6pak/libil2cpp-archive)
 
 ### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [hkgai-official/Moss](https://github.com/hkgai-official/Moss)
-  > MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [NervJS/taro](https://github.com/NervJS/taro)
-  > 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [avast/hexrays-demo](https://github.com/avast/hexrays-demo)
+  > IDA SDK tech demo
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
+  > Run virtual machine on Android Phones
 
 
 ---
-*最后更新于 2026-06-14 23:04:59 UTC*
+*最后更新于 2026-06-15 03:54:59 UTC*
 *历史记录保存在 `archive` 目录中。*
