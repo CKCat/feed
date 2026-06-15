@@ -15,6 +15,8 @@
   > 专业级 Chrome 代理管理工具。支持自动分流、GFWList 云端备份及自定义规则。Professional-grade Chrome proxy management tool. Support...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
   > Plugin for JADX to integrate MCP server
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [JunaMeinhold/RimModManager](https://github.com/JunaMeinhold/RimModManager)
+  > A RimWorld mod manager written in C#
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
@@ -30,6 +32,10 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [google/perfetto](https://github.com/google/perfetto)
+  > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
 ### [cinit](https://github.com/cinit)
 - 🍴 👤 [cinit](https://github.com/cinit) Forked [secdev/scapy](https://github.com/secdev/scapy) to [cinit/scapy](https://github.com/cinit/scapy)
@@ -53,6 +59,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
   > The batteries-included agent harness.
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [ribt/dtmf-decoder](https://github.com/ribt/dtmf-decoder)
+  > Extract phone numbers from an audio recording of the dial tones.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
   > We write your reusable computer vision tools. 💜
@@ -74,6 +84,8 @@
   > A modern X11 server written from scratch in Rust.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wizardengineer/psprecomp](https://github.com/wizardengineer/psprecomp)
   > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
+  > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper)
@@ -110,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-06-15 16:14:02 UTC*
+*最后更新于 2026-06-15 20:22:23 UTC*
 *历史记录保存在 `archive` 目录中。*
