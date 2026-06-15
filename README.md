@@ -86,6 +86,8 @@
   > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
   > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
+  > Tool to statically recompile N64 games into native executables
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper)
@@ -122,5 +124,5 @@
 
 
 ---
-*最后更新于 2026-06-15 20:22:23 UTC*
+*最后更新于 2026-06-15 22:59:53 UTC*
 *历史记录保存在 `archive` 目录中。*
