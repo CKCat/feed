@@ -95,6 +95,12 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
+  > Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/privacy-filter.cpp](https://github.com/localai-org/privacy-filter.cpp)
+  > OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/mesa-for-android-container](https://github.com/superturtlee/mesa-for-android-container)
   > A Mesa build for containers on Android (Proot, Chroot, LXC, etc.), to support hardware acceleration ...
@@ -111,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-06-16 18:02:52 UTC*
+*最后更新于 2026-06-16 21:40:16 UTC*
 *历史记录保存在 `archive` 目录中。*
