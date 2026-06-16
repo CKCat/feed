@@ -19,6 +19,10 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [LIJI32/MIP](https://github.com/LIJI32/MIP)
+  > MIP – macOS Injection Platform
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
@@ -62,10 +66,16 @@
   > PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
   > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, an...
+- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [openchamber/openchamber](https://github.com/openchamber/openchamber) to [divyam234/openchamber](https://github.com/divyam234/openchamber)
+  > Desktop and web interface for OpenCode AI agent
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
   > Plugin for JADX to integrate MCP server
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [derailed/k9s](https://github.com/derailed/k9s)
+  > 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Gekkio/GhidraBoy](https://github.com/Gekkio/GhidraBoy)
@@ -80,6 +90,10 @@
   > SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [openai/human-eval](https://github.com/openai/human-eval)
   > Code for the paper "Evaluating Large Language Models Trained on Code"
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
+  > Run virtual machine on Android Phones
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/mesa-for-android-container](https://github.com/superturtlee/mesa-for-android-container)
@@ -97,5 +111,5 @@
 
 
 ---
-*最后更新于 2026-06-16 12:49:55 UTC*
+*最后更新于 2026-06-16 18:02:52 UTC*
 *历史记录保存在 `archive` 目录中。*
