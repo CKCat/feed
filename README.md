@@ -4,6 +4,13 @@
 
 ## 今日动态
 
+### [20000s](https://github.com/20000s)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
+
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum)
+  > Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities...
+
 ### [Ap0dexMe0](https://github.com/Ap0dexMe0)
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [IBM/crypto-masterkey-keystore](https://github.com/IBM/crypto-masterkey-keystore)
   > Custom KeyStore implementations for Master Keys
@@ -12,15 +19,53 @@
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
+  > Run virtual machine on Android Phones
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)
   > The customization marketplace for Windows programs: https://windhawk.net/
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [zhizhuodemao/miniapp-cdp-mcp](https://github.com/zhizhuodemao/miniapp-cdp-mcp)
+  > 微信小程序逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Antigravity）能够直接通过 Chrome DevTools Protocol (CDP) 调试和分...
 
 ### [MlgmXyysd](https://github.com/MlgmXyysd)
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [bensuperpc/rtl9210](https://github.com/bensuperpc/rtl9210)
   > All RTL9210(A/B) firmwares, tools, dump ect...
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)
+  > 🎭 AI 驱动的中文小说创作助手。三层递进式智能问答、跨会话偏好记忆、中断续写、每章必留悬念钩子、自动校验修复。长篇小说一次性全稿完成。
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [minikin/cargo-crap](https://github.com/minikin/cargo-crap)
+  > Change Risk Anti-Patterns (CRAP) metric for Rust projects
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [domternal/domternal](https://github.com/domternal/domternal)
+  > Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors o...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+  > A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirr...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [udecode/plate](https://github.com/udecode/plate)
+  > Rich-text editor with AI and shadcn/ui
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)
+  > Desktop and web interface for OpenCode AI agent
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+  > simple terminal UI for git commands
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Nystik-gh/ignis](https://github.com/Nystik-gh/ignis)
+  > Run Obsidian as a self-hosted web app. Not remote desktop, an actual web app.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
+  > PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+  > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, an...
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Gekkio/GhidraBoy](https://github.com/Gekkio/GhidraBoy)
@@ -36,6 +81,14 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [openai/human-eval](https://github.com/openai/human-eval)
   > Code for the paper "Evaluating Large Language Models Trained on Code"
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/mesa-for-android-container](https://github.com/superturtlee/mesa-for-android-container)
+  > A Mesa build for containers on Android (Proot, Chroot, LXC, etc.), to support hardware acceleration ...
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [Chaxiraxi/Virtuailor](https://github.com/Chaxiraxi/Virtuailor)
+  > IDAPython tool for creating automatic C++ virtual tables in IDA Pro
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ ...
@@ -44,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-06-16 07:23:22 UTC*
+*最后更新于 2026-06-16 12:49:55 UTC*
 *历史记录保存在 `archive` 目录中。*
