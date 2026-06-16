@@ -55,6 +55,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [udecode/plate](https://github.com/udecode/plate)
   > Rich-text editor with AI and shadcn/ui
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [OALabs/asftriage](https://github.com/OALabs/asftriage)
+  > LLM Agent Session Forensics Tool
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)
   > Desktop and web interface for OpenCode AI agent
@@ -117,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-06-16 21:40:16 UTC*
+*最后更新于 2026-06-16 23:21:30 UTC*
 *历史记录保存在 `archive` 目录中。*
