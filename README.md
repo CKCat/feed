@@ -18,6 +18,10 @@
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [sailfishos-open/hwcrypt](https://github.com/sailfishos-open/hwcrypt)
   > Encryption using hardware backed keys
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [tr00/eqsat-mod-ac](https://github.com/tr00/eqsat-mod-ac)
+  > Prototype implementation of AC-aware e-matching 
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser)
   > xdg-desktop-portal backend for choosing files with your favorite file chooser
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-06-17 21:57:38 UTC*
+*最后更新于 2026-06-17 23:27:22 UTC*
 *历史记录保存在 `archive` 目录中。*
