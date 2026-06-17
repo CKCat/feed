@@ -18,12 +18,36 @@
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [sailfishos-open/hwcrypt](https://github.com/sailfishos-open/hwcrypt)
   > Encryption using hardware backed keys
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [hunkyburrito/xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser)
+  > xdg-desktop-portal backend for choosing files with your favorite file chooser
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Vigilans/hv_vmsmb](https://github.com/Vigilans/hv_vmsmb)
+  > Linux kernel module for Hyper-V Virtual SMB shares (HCS/WSL2)
+
 ### [T5ive](https://github.com/T5ive)
-- 🚀 👤 [T5ive](https://github.com/T5ive) Made [T5ive/skill-navigator](https://github.com/T5ive/skill-navigator) public
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [kerlos/pordee](https://github.com/kerlos/pordee) to [T5ive/pordee](https://github.com/T5ive/pordee)
+  > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) to [T5ive/andrej-karpathy-skills](https://github.com/T5ive/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [madskristensen/vs-agent-plugins](https://github.com/madskristensen/vs-agent-plugins) to [T5ive/vs-agent-plugins](https://github.com/T5ive/vs-agent-plugins)
+
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [p-e-w/heretic](https://github.com/p-e-w/heretic) to [bkerler/heretic](https://github.com/bkerler/heretic)
+  > Fully automatic censorship removal for language models
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer)
   > FlashInfer: Kernel Library for LLM Serving
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [Muirey03/CVE-2022-42864](https://github.com/Muirey03/CVE-2022-42864)
+  > Proof-of-concept for the CVE-2022-42864 IOHIDFamily race condition
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [snowarch/iNiR](https://github.com/snowarch/iNiR)
+  > A Niri shell illogical-impulse based - with some modifications..
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
@@ -69,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-06-17 12:55:00 UTC*
+*最后更新于 2026-06-17 16:37:01 UTC*
 *历史记录保存在 `archive` 目录中。*
