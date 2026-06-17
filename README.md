@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python)
   > Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀
@@ -35,6 +39,12 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
   > FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xdea/rhabdomancer](https://github.com/0xdea/rhabdomancer)
+  > Vulnerability research assistant that locates calls to potentially insecure API functions in a binar...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
+  > A virtual monitor for screen sharing
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)
   > This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be i...
@@ -45,11 +55,19 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [dogu-team/gamium](https://github.com/dogu-team/gamium)
   > Multiple game engine sdk for scripting the behavior of game users
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [mito753/Kernel-Exploit-Dojo](https://github.com/mito753/Kernel-Exploit-Dojo)
+  > CTF kernel exploitation notes, PoCs, exploits, and writeups.
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [rclone/rclone](https://github.com/rclone/rclone)
+  > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [zhaojunmin/skill](https://github.com/zhaojunmin/skill)
   > a skill to understand a repo 
 
 
 ---
-*最后更新于 2026-06-17 08:59:40 UTC*
+*最后更新于 2026-06-17 12:55:00 UTC*
 *历史记录保存在 `archive` 目录中。*
