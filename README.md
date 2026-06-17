@@ -10,11 +10,30 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [hect0x7/jmcomic-ai](https://github.com/hect0x7/jmcomic-ai)
   > 禁漫天堂 Agent Skills / AI 原生 JMComic 助手：通过 MCP 与 Skills 将 JMComic 注入你的 AI Agent. / AI-powered JMComic a...
 
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [sailfishos-open/hwcrypt](https://github.com/sailfishos-open/hwcrypt)
+  > Encryption using hardware backed keys
+
+### [T5ive](https://github.com/T5ive)
+- 🚀 👤 [T5ive](https://github.com/T5ive) Made [T5ive/skill-navigator](https://github.com/T5ive/skill-navigator) public
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer)
+  > FlashInfer: Kernel Library for LLM Serving
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+  > Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses AP...
+
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) to [eastmountyxz/ultralytics](https://github.com/eastmountyxz/ultralytics)
   > Ultralytics YOLO 🚀
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
   > Ultralytics YOLO 🚀
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+  > FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)
@@ -32,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-06-17 03:43:30 UTC*
+*最后更新于 2026-06-17 08:59:40 UTC*
 *历史记录保存在 `archive` 目录中。*
