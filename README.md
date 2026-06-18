@@ -27,7 +27,11 @@
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [bkerler/mtkclient](https://github.com/bkerler/mtkclient)
   > Mediatek Flash and Repair Utility
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [MaorSabag/Adaptix-StealthPalace](https://github.com/MaorSabag/Adaptix-StealthPalace)
+  > Crystal Palace RDLL loader for Adaptix C2 with Ekko sleep obfuscation, IAT hooking via PICO, and per...
+
 
 ---
-*最后更新于 2026-06-18 08:42:00 UTC*
+*最后更新于 2026-06-18 12:21:30 UTC*
 *历史记录保存在 `archive` 目录中。*
