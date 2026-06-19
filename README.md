@@ -20,11 +20,15 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/CodersRoundTable](https://github.com/kernullist/CodersRoundTable)
+  > Gamified code review: four legendary tech personas debate your source code with real-time speech bub...
+
 ### [stong](https://github.com/stong)
 - 🌟 👤 [stong](https://github.com/stong) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
   > An A12/A13 SecureROM exploit
 
 
 ---
-*最后更新于 2026-06-19 17:19:51 UTC*
+*最后更新于 2026-06-19 19:44:38 UTC*
 *历史记录保存在 `archive` 目录中。*
