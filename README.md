@@ -8,6 +8,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [williballenthin/idawilli](https://github.com/williballenthin/idawilli)
   > IDA Pro resources, scripts, and configurations
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock)
+  > Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
   > A collection of NixOS modules covering hardware quirks.
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-06-19 11:18:26 UTC*
+*最后更新于 2026-06-19 14:57:15 UTC*
 *历史记录保存在 `archive` 目录中。*
