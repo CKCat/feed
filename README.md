@@ -16,6 +16,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
   > A collection of NixOS modules covering hardware quirks.
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace)
+  > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-06-19 19:44:38 UTC*
+*最后更新于 2026-06-19 21:06:01 UTC*
 *历史记录保存在 `archive` 目录中。*
