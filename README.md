@@ -16,7 +16,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [iamEvanYT/objc-js](https://github.com/iamEvanYT/objc-js)
   > objc-js is an Objective-C bridge for Node.js.
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
+  > Apple Silicon device emulator.
+
 
 ---
-*最后更新于 2026-06-20 11:13:50 UTC*
+*最后更新于 2026-06-20 13:54:13 UTC*
 *历史记录保存在 `archive` 目录中。*
