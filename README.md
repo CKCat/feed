@@ -4,11 +4,19 @@
 
 ## 今日动态
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+  > AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and A...
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/sys](https://github.com/golang/sys) to [chenxiaolong/golang-x-sys](https://github.com/chenxiaolong/golang-x-sys)
   > [mirror] Go packages for low-level interaction with the operating system
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [iamEvanYT/objc-js](https://github.com/iamEvanYT/objc-js)
+  > objc-js is an Objective-C bridge for Node.js.
+
 
 ---
-*最后更新于 2026-06-20 05:09:30 UTC*
+*最后更新于 2026-06-20 08:49:37 UTC*
 *历史记录保存在 `archive` 目录中。*
