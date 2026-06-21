@@ -11,6 +11,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Koustubh12345/TenSei-Upscale-image](https://github.com/Koustubh12345/TenSei-Upscale-image)
   > A sleek, intuitive Android application for upscaling and enhancing image quality locally on your dev...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [fdjftmczxh/IL2CPP-Dumper](https://github.com/fdjftmczxh/IL2CPP-Dumper)
+  > signature scanning based il2cpp dumper for android
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ ...
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [skywind3000/kcp](https://github.com/skywind3000/kcp)
@@ -18,5 +22,5 @@
 
 
 ---
-*最后更新于 2026-06-21 18:17:00 UTC*
+*最后更新于 2026-06-21 20:22:07 UTC*
 *历史记录保存在 `archive` 目录中。*
