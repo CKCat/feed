@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [howardlau1999/rdmapp](https://github.com/howardlau1999/rdmapp)
+  > C++ interfaces for RDMA access
+
 
 ---
-*最后更新于 2026-06-22 00:07:49 UTC*
+*最后更新于 2026-06-22 06:25:24 UTC*
 *历史记录保存在 `archive` 目录中。*
