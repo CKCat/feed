@@ -5,14 +5,8 @@
 ## 今日动态
 
 ### [0xdea](https://github.com/0xdea)
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/bincrypter](https://github.com/hackerschoice/bincrypter)
-  > Pack/Encrypt/Obfuscate ELF + SHELL scripts
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
-  > An AI-powered security review GitHub Action using Claude to analyze code changes for security vulner...
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
-  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
-  > Headless IDA Pro MCP Server
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [andreisss/KslDump](https://github.com/andreisss/KslDump)
+  > KslDump — Why bring your own knife when Defender already left one in the kitchen?
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LRFP-Team/LRFP](https://github.com/LRFP-Team/LRFP)
@@ -21,6 +15,8 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)
@@ -39,6 +35,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks)
   > XBOW Validation Benchmarks
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)
+  > Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1...
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [UltraSina/androidReverse](https://github.com/UltraSina/androidReverse)
   > Android reverse engineering entirely on-device. Radare2 binary analysis, 8 Java decompilers, Flutter...
@@ -47,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-06-22 17:28:08 UTC*
+*最后更新于 2026-06-22 20:40:51 UTC*
 *历史记录保存在 `archive` 目录中。*
