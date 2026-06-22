@@ -7,6 +7,12 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/bincrypter](https://github.com/hackerschoice/bincrypter)
   > Pack/Encrypt/Obfuscate ELF + SHELL scripts
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
+  > An AI-powered security review GitHub Action using Claude to analyze code changes for security vulner...
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
 
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LRFP-Team/LRFP](https://github.com/LRFP-Team/LRFP)
@@ -19,6 +25,7 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)
   > A lightweight Node.js private proxy registry
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [luogu-dev/judge-env](https://github.com/luogu-dev/judge-env)
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [howardlau1999/rdmapp](https://github.com/howardlau1999/rdmapp)
@@ -40,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-06-22 12:46:28 UTC*
+*最后更新于 2026-06-22 17:28:08 UTC*
 *历史记录保存在 `archive` 目录中。*
