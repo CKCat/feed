@@ -48,6 +48,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
   > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nova452/ComfyUI-ConditioningKrea2Rebalance](https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance)
+  > A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 al...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhoujun94511/WebAppFlaskauto-iOS](https://github.com/zhoujun94511/WebAppFlaskauto-iOS)
@@ -63,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-06-23 21:43:28 UTC*
+*最后更新于 2026-06-23 23:05:48 UTC*
 *历史记录保存在 `archive` 目录中。*
