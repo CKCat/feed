@@ -4,9 +4,24 @@
 
 ## 今日动态
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
+### [Gui774ume](https://github.com/Gui774ume)
+- 🌟 👤 [Gui774ume](https://github.com/Gui774ume) Starred [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent)
+  > Main repository for Datadog Agent
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
   > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
+
+### [konata](https://github.com/konata)
+- 🌟 👤 [konata](https://github.com/konata) Starred [konata/UnsealedSdk](https://github.com/konata/UnsealedSdk)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash)
+  > Fully uncensored, capability-enhanced abliteration of Qwen3.6-27B. NVFP4 + z-lab DFlash speculative ...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhoujun94511/WebAppFlaskauto-iOS](https://github.com/zhoujun94511/WebAppFlaskauto-iOS)
@@ -18,5 +33,5 @@
 
 
 ---
-*最后更新于 2026-06-23 04:56:45 UTC*
+*最后更新于 2026-06-23 08:28:52 UTC*
 *历史记录保存在 `archive` 目录中。*
