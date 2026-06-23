@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau)
+  > Java decompiler, assembler, and disassembler
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -23,11 +27,15 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhoujun94511/WebAppFlaskauto-iOS](https://github.com/zhoujun94511/WebAppFlaskauto-iOS)
   > 📱基于Web的IOS设备群控平台--A browser-based iOS device control and management platform, supporting real-time s...
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+  > The universal proxy platform
+
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
   > An A12/A13 SecureROM exploit
 
 
 ---
-*最后更新于 2026-06-23 11:57:20 UTC*
+*最后更新于 2026-06-23 14:53:35 UTC*
 *历史记录保存在 `archive` 目录中。*
