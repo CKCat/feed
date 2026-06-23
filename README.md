@@ -20,6 +20,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
   > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [pola-rs/polars](https://github.com/pola-rs/polars)
+  > Extremely fast Query Engine for DataFrames, written in Rust
+
 ### [konata](https://github.com/konata)
 - 🌟 👤 [konata](https://github.com/konata) Starred [konata/UnsealedSdk](https://github.com/konata/UnsealedSdk)
 
@@ -37,5 +41,5 @@
 
 
 ---
-*最后更新于 2026-06-23 14:53:35 UTC*
+*最后更新于 2026-06-23 17:14:30 UTC*
 *历史记录保存在 `archive` 目录中。*
