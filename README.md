@@ -19,10 +19,6 @@
 ### [konata](https://github.com/konata)
 - 🌟 👤 [konata](https://github.com/konata) Starred [konata/UnsealedSdk](https://github.com/konata/UnsealedSdk)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash)
-  > Fully uncensored, capability-enhanced abliteration of Qwen3.6-27B. NVFP4 + z-lab DFlash speculative ...
-
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhoujun94511/WebAppFlaskauto-iOS](https://github.com/zhoujun94511/WebAppFlaskauto-iOS)
   > 📱基于Web的IOS设备群控平台--A browser-based iOS device control and management platform, supporting real-time s...
@@ -33,5 +29,5 @@
 
 
 ---
-*最后更新于 2026-06-23 08:28:52 UTC*
+*最后更新于 2026-06-23 11:57:20 UTC*
 *历史记录保存在 `archive` 目录中。*
