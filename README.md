@@ -25,6 +25,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [fmhy/edit](https://github.com/fmhy/edit)
   > Make changes to FMHY
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [trycua/cua](https://github.com/trycua/cua)
+  > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [usebruno/bruno](https://github.com/usebruno/bruno)
   > Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -36,11 +40,15 @@
 ### [gsingh93](https://github.com/gsingh93)
 - 🌟 👤 [gsingh93](https://github.com/gsingh93) Starred [96jsalinas/Poker-Game-Analyzer](https://github.com/96jsalinas/Poker-Game-Analyzer)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
 
 
 ---
-*最后更新于 2026-06-24 13:18:24 UTC*
+*最后更新于 2026-06-24 16:16:19 UTC*
 *历史记录保存在 `archive` 目录中。*
