@@ -47,8 +47,12 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor)
+  > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) to [mrexodia/spark-doctor](https://github.com/mrexodia/spark-doctor)
+  > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
 
 
 ---
-*最后更新于 2026-06-24 16:16:19 UTC*
+*最后更新于 2026-06-24 18:48:42 UTC*
 *历史记录保存在 `archive` 目录中。*
