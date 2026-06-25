@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hvprvtr/lsass-from-ram-fix](https://github.com/hvprvtr/lsass-from-ram-fix)
+  > Script for fix lsass.exe dump extracted from full RAM dump
+
 ### [19h](https://github.com/19h)
 - 🍴 👤 [19h](https://github.com/19h) Forked [rust-vmm/linux-loader](https://github.com/rust-vmm/linux-loader) to [19h/linux-loader](https://github.com/19h/linux-loader)
   > Linux kernel loader
@@ -39,7 +43,11 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
+  > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int...
+
 
 ---
-*最后更新于 2026-06-25 08:55:38 UTC*
+*最后更新于 2026-06-25 11:38:28 UTC*
 *历史记录保存在 `archive` 目录中。*
