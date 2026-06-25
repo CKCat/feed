@@ -34,10 +34,6 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
-### [tytydraco](https://github.com/tytydraco)
-- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
-  > Firmware for the Xteink X3 and X4 e-paper display readers
-
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
   > A simple and easy-to-use library to enjoy videogames programming
@@ -50,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-06-25 19:54:19 UTC*
+*最后更新于 2026-06-25 21:28:32 UTC*
 *历史记录保存在 `archive` 目录中。*
