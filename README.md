@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hvprvtr/lsass-from-ram-fix](https://github.com/hvprvtr/lsass-from-ram-fix)
   > Script for fix lsass.exe dump extracted from full RAM dump
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+  > An extremely fast Python package and project manager, written in Rust.
 
 ### [19h](https://github.com/19h)
 - 🍴 👤 [19h](https://github.com/19h) Forked [rust-vmm/linux-loader](https://github.com/rust-vmm/linux-loader) to [19h/linux-loader](https://github.com/19h/linux-loader)
@@ -18,13 +20,6 @@
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
-
-### [canyie](https://github.com/canyie)
-- 🌟 👤 [canyie](https://github.com/canyie) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
-  > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
@@ -49,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-06-25 11:38:28 UTC*
+*最后更新于 2026-06-25 14:24:12 UTC*
 *历史记录保存在 `archive` 目录中。*
