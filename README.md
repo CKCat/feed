@@ -12,6 +12,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [oacia/stalker_trace_so](https://github.com/oacia/stalker_trace_so)
   > 一个IDA插件，利用frida-stalker在加载so时打印出所有函数调用，解决frida-trace无法在so加载时trace的问题
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
@@ -30,11 +34,21 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
+  > Firmware for the Xteink X3 and X4 e-paper display readers
+
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
+  > A simple and easy-to-use library to enjoy videogames programming
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [google/filament](https://github.com/google/filament)
+  > Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, a...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
   > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int...
 
 
 ---
-*最后更新于 2026-06-25 17:09:21 UTC*
+*最后更新于 2026-06-25 19:54:19 UTC*
 *历史记录保存在 `archive` 目录中。*
