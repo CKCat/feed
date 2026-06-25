@@ -4,12 +4,6 @@
 
 ## 今日动态
 
-### [0xdea](https://github.com/0xdea)
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hvprvtr/lsass-from-ram-fix](https://github.com/hvprvtr/lsass-from-ram-fix)
-  > Script for fix lsass.exe dump extracted from full RAM dump
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
-  > An extremely fast Python package and project manager, written in Rust.
-
 ### [19h](https://github.com/19h)
 - 🍴 👤 [19h](https://github.com/19h) Forked [rust-vmm/linux-loader](https://github.com/rust-vmm/linux-loader) to [19h/linux-loader](https://github.com/19h/linux-loader)
   > Linux kernel loader
@@ -21,11 +15,9 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
-  > Presentation Slides for Developers
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Xeeynamo/ff7-decomp](https://github.com/Xeeynamo/ff7-decomp)
+  > Matching decomp of Final Fantasy VII for PlayStation 1
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [antimof/UxPlay](https://github.com/antimof/UxPlay)
@@ -44,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-06-25 14:24:12 UTC*
+*最后更新于 2026-06-25 17:09:21 UTC*
 *历史记录保存在 `archive` 目录中。*
