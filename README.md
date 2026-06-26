@@ -35,6 +35,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
   > DECX - Decompiler + X
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
+  > Framework for evaluating and improving agents 
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kyronix-project/kyronix](https://github.com/kyronix-project/kyronix)
   > Operating system that sucks less
@@ -89,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-06-26 18:28:36 UTC*
+*最后更新于 2026-06-26 20:43:59 UTC*
 *历史记录保存在 `archive` 目录中。*
