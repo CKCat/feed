@@ -29,6 +29,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
   > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
+  > DECX - Decompiler + X
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) to [chenxiaolong/android-emulator-runner](https://github.com/chenxiaolong/android-emulator-runner)
   > A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on ma...
@@ -73,8 +77,12 @@
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android)
+  > The Github home of Orbot: Tor on Android (Also available on gitlab!)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk)
+  > Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 
 
 ---
-*最后更新于 2026-06-26 10:24:25 UTC*
+*最后更新于 2026-06-26 13:07:55 UTC*
 *历史记录保存在 `archive` 目录中。*
