@@ -57,6 +57,10 @@
   > Personal AI, On Personal Devices
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
+  > A specialized version of iced-x86 for binary lifting
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Arsylk/jnilog](https://github.com/Arsylk/jnilog)
   > Modern & pretty native library for logging all the jni native calls with args formatting and all the...
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-06-26 16:12:40 UTC*
+*最后更新于 2026-06-26 18:28:36 UTC*
 *历史记录保存在 `archive` 目录中。*
