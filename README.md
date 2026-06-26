@@ -7,6 +7,20 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [iebb/mithka](https://github.com/iebb/mithka)
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [joseFloresMoreno/xcloud-switch](https://github.com/joseFloresMoreno/xcloud-switch)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [nafields/stratix](https://github.com/nafields/stratix)
+  > Native tvOS Xbox Game Pass cloud gaming client for Apple TV — xCloud and xHome streaming, built in S...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [liangzhaoyuan12/XLink](https://github.com/liangzhaoyuan12/XLink)
+  > 一个用于XBox主机手柄和音频的串流程序
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [wishstudio/flinux](https://github.com/wishstudio/flinux)
+  > Foreign LINUX - Run unmodified Linux applications inside Windows.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cloudwego/kitex](https://github.com/cloudwego/kitex)
   > Go RPC framework with high-performance and strong-extensibility for building micro-services.
@@ -33,11 +47,34 @@
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
   > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill...
 
+### [maiyao1988](https://github.com/maiyao1988)
+- 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
+  > Personal AI, On Personal Devices
+- 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
+  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Arsylk/jnilog](https://github.com/Arsylk/jnilog)
   > Modern & pretty native library for logging all the jni native calls with args formatting and all the...
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
+  > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll) to [sekaiacg/bad-epoll](https://github.com/sekaiacg/bad-epoll)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [J-jaeyoung/security-research](https://github.com/J-jaeyoung/security-research) to [sekaiacg/security-research](https://github.com/sekaiacg/security-research)
+  > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4)
+  > AV/EDR evasion via direct and indirect system calls Windows NT 3.1 through Windows 11 24H2 · x64 · x...
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint)
 
 
 ---
-*最后更新于 2026-06-26 06:58:10 UTC*
+*最后更新于 2026-06-26 10:24:25 UTC*
 *历史记录保存在 `archive` 目录中。*
