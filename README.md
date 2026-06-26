@@ -16,6 +16,8 @@
   > Native tvOS Xbox Game Pass cloud gaming client for Apple TV — xCloud and xHome streaming, built in S...
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [liangzhaoyuan12/XLink](https://github.com/liangzhaoyuan12/XLink)
   > 一个用于XBox主机手柄和音频的串流程序
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [gnif/LookingGlass](https://github.com/gnif/LookingGlass)
+  > An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [wishstudio/flinux](https://github.com/wishstudio/flinux)
@@ -33,10 +35,6 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
   > DECX - Decompiler + X
 
-### [chenxiaolong](https://github.com/chenxiaolong)
-- 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) to [chenxiaolong/android-emulator-runner](https://github.com/chenxiaolong/android-emulator-runner)
-  > A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on ma...
-
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kyronix-project/kyronix](https://github.com/kyronix-project/kyronix)
   > Operating system that sucks less
@@ -51,14 +49,13 @@
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
   > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill...
 
+### [konata](https://github.com/konata)
+- 🌟 👤 [konata](https://github.com/konata) Starred [konata/Markity](https://github.com/konata/Markity)
+
 ### [maiyao1988](https://github.com/maiyao1988)
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
   > Personal AI, On Personal Devices
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
-  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Arsylk/jnilog](https://github.com/Arsylk/jnilog)
@@ -70,6 +67,10 @@
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll) to [sekaiacg/bad-epoll](https://github.com/sekaiacg/bad-epoll)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [J-jaeyoung/security-research](https://github.com/J-jaeyoung/security-research) to [sekaiacg/security-research](https://github.com/sekaiacg/security-research)
   > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
+
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [theubusu/7zip_fmt_plugins](https://github.com/theubusu/7zip_fmt_plugins)
+  > My 7zip format plugin(s)
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4)
@@ -84,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-06-26 13:07:55 UTC*
+*最后更新于 2026-06-26 16:12:40 UTC*
 *历史记录保存在 `archive` 目录中。*
