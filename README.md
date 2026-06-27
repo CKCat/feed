@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [m0ck1ng/sect](https://github.com/m0ck1ng/sect)
+  > [USENIX Security'26] The first kernel-native concurrency fuzzing framework for Linux, powered by eBP...
+
 
 ---
-*最后更新于 2026-06-27 00:02:50 UTC*
+*最后更新于 2026-06-27 04:50:25 UTC*
 *历史记录保存在 `archive` 目录中。*
