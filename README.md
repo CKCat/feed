@@ -39,6 +39,8 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [oguzgundogdu/OguzOS-arm](https://github.com/oguzgundogdu/OguzOS-arm)
   > Minimal ARM64 (AArch64) operating system written in freestanding C++17 — QEMU virt / UTM on macOS
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
+  > Android in docker solution with noVNC supported and video recording
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoxor4d/gta4-rtx](https://github.com/xoxor4d/gta4-rtx)
@@ -54,8 +56,10 @@
   > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run frontier AI locally.
 
 
 ---
-*最后更新于 2026-06-27 17:58:38 UTC*
+*最后更新于 2026-06-27 19:37:06 UTC*
 *历史记录保存在 `archive` 目录中。*
