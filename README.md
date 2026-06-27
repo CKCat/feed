@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
+  > Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of ...
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [m0ck1ng/sect](https://github.com/m0ck1ng/sect)
   > [USENIX Security'26] The first kernel-native concurrency fuzzing framework for Linux, powered by eBP...
@@ -36,6 +40,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [oguzgundogdu/OguzOS-arm](https://github.com/oguzgundogdu/OguzOS-arm)
   > Minimal ARM64 (AArch64) operating system written in freestanding C++17 — QEMU virt / UTM on macOS
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoxor4d/gta4-rtx](https://github.com/xoxor4d/gta4-rtx)
+  > GTAIV RTX Remix Compatibility Mod
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-06-27 16:01:48 UTC*
+*最后更新于 2026-06-27 17:58:38 UTC*
 *历史记录保存在 `archive` 目录中。*
