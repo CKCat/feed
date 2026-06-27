@@ -27,8 +27,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
+  > A software SIM card.
 
 
 ---
-*最后更新于 2026-06-27 12:06:38 UTC*
+*最后更新于 2026-06-27 14:26:19 UTC*
 *历史记录保存在 `archive` 目录中。*
