@@ -58,8 +58,10 @@
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 
 ---
-*最后更新于 2026-06-27 20:58:28 UTC*
+*最后更新于 2026-06-27 22:07:13 UTC*
 *历史记录保存在 `archive` 目录中。*
