@@ -14,6 +14,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [idiotdeveloper/Android-Exploitation-Lab](https://github.com/idiotdeveloper/Android-Exploitation-Lab)
   > Learn Android offensive security through practical labs covering JNI, native exploitation, IPC attac...
 
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)
+  > Scanning APK file for URIs, endpoints & secrets.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
   > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework
@@ -39,6 +43,7 @@
   > VMProtect 3.x Anti-debug Method Improved
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
   > A dynamic library providing Virtualization-based process isolation capabilities
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/eac_cr3_shuffle](https://github.com/SamuelTulach/eac_cr3_shuffle)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
@@ -61,7 +66,11 @@
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
   > AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a v...
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [locus-x64/ida-adreno-qrisc](https://github.com/locus-x64/ida-adreno-qrisc)
+  > Reverse-engineering toolkit for Qualcomm Adreno GPU command-processor (CP) microcode: the 32-bit mic...
+
 
 ---
-*最后更新于 2026-06-28 17:05:04 UTC*
+*最后更新于 2026-06-28 19:13:32 UTC*
 *历史记录保存在 `archive` 目录中。*
