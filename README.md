@@ -40,6 +40,16 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michaelw9999/advanced-gguf-quantizer](https://github.com/michaelw9999/advanced-gguf-quantizer)
   > A CUDA-accelerated GGUF quantization tool for NVFP4/MXFP6/Q_K, utilizing layer by layer quantization...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/apex-quant](https://github.com/localai-org/apex-quant)
+  >  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+  > FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+  > llama.cpp fork with additional SOTA quants and improved performance
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [croll83/llama.cpp-dgx](https://github.com/croll83/llama.cpp-dgx)
+  > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
+  > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
@@ -47,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-06-28 13:39:02 UTC*
+*最后更新于 2026-06-28 15:15:02 UTC*
 *历史记录保存在 `archive` 目录中。*
