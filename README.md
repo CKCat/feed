@@ -7,6 +7,8 @@
 ### [Ap0dexMe0](https://github.com/Ap0dexMe0)
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
   > Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of ...
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+  > Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [m0ck1ng/sect](https://github.com/m0ck1ng/sect)
@@ -63,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-06-27 22:07:13 UTC*
+*最后更新于 2026-06-27 23:58:17 UTC*
 *历史记录保存在 `archive` 目录中。*
