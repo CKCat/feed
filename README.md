@@ -14,6 +14,12 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [idiotdeveloper/Android-Exploitation-Lab](https://github.com/idiotdeveloper/Android-Exploitation-Lab)
   > Learn Android offensive security through practical labs covering JNI, native exploitation, IPC attac...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
+  > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [sudoevolve/material-components-qml](https://github.com/sudoevolve/material-components-qml)
+  > Modular and customizable Material Design UI components for qml
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
@@ -57,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-06-28 15:15:02 UTC*
+*最后更新于 2026-06-28 17:05:04 UTC*
 *历史记录保存在 `archive` 目录中。*
