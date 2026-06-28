@@ -65,6 +65,10 @@
   > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
   > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/claude-memory-health](https://github.com/alexknowshtml/claude-memory-health)
+  > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coolthor/musubi](https://github.com/coolthor/musubi)
+  > Musubi (結び) — a knowledge-graph companion for flat-file markdown note systems. Ties your notes toget...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
@@ -76,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-06-28 20:57:21 UTC*
+*最后更新于 2026-06-28 22:03:15 UTC*
 *历史记录保存在 `archive` 目录中。*
