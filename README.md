@@ -18,6 +18,10 @@
 - 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)
   > Scanning APK file for URIs, endpoints & secrets.
 
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [ev-sys/evsys-sdk](https://github.com/ev-sys/evsys-sdk)
+  > Infrastructure for thousands of task-specialised models that learn continuously from every interacti...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
   > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-06-28 19:13:32 UTC*
+*最后更新于 2026-06-28 20:57:21 UTC*
 *历史记录保存在 `archive` 目录中。*
