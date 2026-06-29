@@ -38,6 +38,10 @@
   > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) to [crazyguitar/mini-sglang](https://github.com/crazyguitar/mini-sglang)
   > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+  > A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI la...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) to [crazyguitar/gpu-perf-engineering-resources](https://github.com/crazyguitar/gpu-perf-engineering-resources)
+  > A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI la...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [roothide/Palera1n-roothide](https://github.com/roothide/Palera1n-roothide)
@@ -95,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-06-29 21:22:30 UTC*
+*最后更新于 2026-06-29 22:52:50 UTC*
 *历史记录保存在 `archive` 目录中。*
