@@ -55,6 +55,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [86Box/86Box](https://github.com/86Box/86Box)
   > Emulator of x86-based machines.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dockur/macos](https://github.com/dockur/macos)
+  > MacOS inside a Docker container.
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace)
   > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-06-29 17:32:39 UTC*
+*最后更新于 2026-06-29 19:51:35 UTC*
 *历史记录保存在 `archive` 目录中。*
