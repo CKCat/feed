@@ -4,15 +4,28 @@
 
 ## 今日动态
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [gglucass/headroom-desktop](https://github.com/gglucass/headroom-desktop)
+  > Unlock 2x more Claude Code and Codex usage
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [builtbybel/FluentTweaker](https://github.com/builtbybel/FluentTweaker)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+  > SimpleX - the first messaging network operating without user identifiers of any kind - 100% private ...
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  > An incremental parsing system for programming tools
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepcoldy/botmux](https://github.com/deepcoldy/botmux)
   > Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topi...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mlc-ai/modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys)
-  > modern gpu programming
+  > A tutorial on modern GPU programming for machine learning systems
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [mlc-ai/modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) to [crazyguitar/modern-gpu-programming-for-mlsys](https://github.com/crazyguitar/modern-gpu-programming-for-mlsys)
-  > modern gpu programming
+  > A tutorial on modern GPU programming for machine learning systems
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
   > 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
@@ -38,7 +51,6 @@
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
-  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [ethanhq/cc-fleet](https://github.com/ethanhq/cc-fleet)
@@ -46,9 +58,12 @@
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
-  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+
+### [ylcangel](https://github.com/ylcangel)
+- 🌟 👤 [ylcangel](https://github.com/ylcangel) Starred [ylcangel/a_bogus](https://github.com/ylcangel/a_bogus)
+  > 抖音web a_bogus算法，对应版本V 1.0.1.19-fix.01， 本实现只提供js版本，其他语言实现请参照js代码自行实现
 
 
 ---
-*最后更新于 2026-06-29 05:27:40 UTC*
+*最后更新于 2026-06-29 10:50:18 UTC*
 *历史记录保存在 `archive` 目录中。*
