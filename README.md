@@ -20,6 +20,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
   > An incremental parsing system for programming tools
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tiann/hapi](https://github.com/tiann/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepcoldy/botmux](https://github.com/deepcoldy/botmux)
@@ -61,6 +63,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cweijan/vscode-office](https://github.com/cweijan/vscode-office)
   > Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
+  > Vulnerability detection framework by Binarly's REsearch team
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
 
@@ -85,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-06-29 14:45:22 UTC*
+*最后更新于 2026-06-29 17:32:39 UTC*
 *历史记录保存在 `archive` 目录中。*
