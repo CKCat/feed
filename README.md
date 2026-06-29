@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
+  > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
@@ -33,9 +37,17 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) to [crazyguitar/mini-sglang](https://github.com/crazyguitar/mini-sglang)
   > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [roothide/Palera1n-roothide](https://github.com/roothide/Palera1n-roothide)
+  > palera1n(roothide) aka palehide for ios15.0 to ios18.99999
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
   > AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker not...
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [duoan/TorchCode](https://github.com/duoan/TorchCode)
+  > 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with ...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [86Box/86Box](https://github.com/86Box/86Box)
@@ -59,11 +71,19 @@
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [hunvreus/basecoat](https://github.com/hunvreus/basecoat)
+  > A components library built with Tailwind CSS that works with any web stack.
+
 ### [ylcangel](https://github.com/ylcangel)
 - 🌟 👤 [ylcangel](https://github.com/ylcangel) Starred [ylcangel/a_bogus](https://github.com/ylcangel/a_bogus)
   > 抖音web a_bogus算法，对应版本V 1.0.1.19-fix.01， 本实现只提供js版本，其他语言实现请参照js代码自行实现
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
+  > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
+
 
 ---
-*最后更新于 2026-06-29 10:50:18 UTC*
+*最后更新于 2026-06-29 14:45:22 UTC*
 *历史记录保存在 `archive` 目录中。*
