@@ -19,9 +19,17 @@
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [GrapheneOS-Archive/platform_cts](https://github.com/GrapheneOS-Archive/platform_cts)
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [nicolargo/glances](https://github.com/nicolargo/glances) to [crazyguitar/glances](https://github.com/crazyguitar/glances)
+  > Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operati...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [wentbackward/nv-monitor](https://github.com/wentbackward/nv-monitor) to [crazyguitar/nv-monitor](https://github.com/crazyguitar/nv-monitor)
+  > Lightweight nVidia telemetry and terminal system monitor - built for any architecture - Jetson, GB10...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [divyam234/hydra](https://github.com/divyam234/hydra)
   > Hydra Download Manager
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [louislam/dockge](https://github.com/louislam/dockge)
+  > A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
@@ -43,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-06-30 04:59:33 UTC*
+*最后更新于 2026-06-30 08:34:35 UTC*
 *历史记录保存在 `archive` 目录中。*
