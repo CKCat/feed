@@ -26,6 +26,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Vikramaditya015/samsung-android-lpe](https://github.com/Vikramaditya015/samsung-android-lpe)
   > Poc for CVE-2026-20980, CVE-2026-20981, CVE-2026-20982
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent)
+  > "VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking"
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)
   > Beautiful map components. 100% Free, Zero config, one command setup.
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-06-30 17:03:57 UTC*
+*最后更新于 2026-06-30 19:49:54 UTC*
 *历史记录保存在 `archive` 目录中。*
