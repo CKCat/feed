@@ -12,9 +12,21 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [sgkdev/ipv6_frag_escape](https://github.com/sgkdev/ipv6_frag_escape)
   > Linux LPE - Reliable Jail/Container Escape 
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [lfdevs/mesa-for-android-container](https://github.com/lfdevs/mesa-for-android-container)
+  > A Mesa build for containers on Android (PRoot, Chroot, LXC, Droidspaces, etc.), to support hardware ...
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Womsxd/MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools)
+  > Womsxd/AutoMihoyoBBS，米游社相关脚本
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Vikramaditya015/samsung-android-lpe](https://github.com/Vikramaditya015/samsung-android-lpe)
   > Poc for CVE-2026-20980, CVE-2026-20981, CVE-2026-20982
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)
+  > Beautiful map components. 100% Free, Zero config, one command setup.
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [GrapheneOS-Archive/platform_cts](https://github.com/GrapheneOS-Archive/platform_cts)
@@ -48,10 +60,14 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
+  > DFlash: Block Diffusion for Flash Speculative Decoding
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [gally16/LLM-Jailbreaking-Guide](https://github.com/gally16/LLM-Jailbreaking-Guide)
   > LLM Jailbreaking Guide主流大语言模型越狱指南
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)
+  > A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and det...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
@@ -61,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-06-30 11:42:50 UTC*
+*最后更新于 2026-06-30 14:10:59 UTC*
 *历史记录保存在 `archive` 目录中。*
