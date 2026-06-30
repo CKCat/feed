@@ -15,6 +15,8 @@
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [lfdevs/mesa-for-android-container](https://github.com/lfdevs/mesa-for-android-container)
   > A Mesa build for containers on Android (PRoot, Chroot, LXC, Droidspaces, etc.), to support hardware ...
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [tryigit/CleveresTricky](https://github.com/tryigit/CleveresTricky)
+  > Advanced Spoofing Module for Android
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Womsxd/MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools)
@@ -42,6 +44,12 @@
   > Hydra Download Manager
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [louislam/dockge](https://github.com/louislam/dockge)
   > A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+
+### [eastmountyxz](https://github.com/eastmountyxz)
+- 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [anthropics/skills](https://github.com/anthropics/skills) to [eastmountyxz/skills](https://github.com/eastmountyxz/skills)
+  > Public repository for Agent Skills
+- 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
@@ -77,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-06-30 14:10:59 UTC*
+*最后更新于 2026-06-30 17:03:57 UTC*
 *历史记录保存在 `archive` 目录中。*
