@@ -41,15 +41,25 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [hyperliquid-dex/hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk)
   > SDK for Hyperliquid API trading with Python.
 
+### [locus-x64](https://github.com/locus-x64)
+- 🌟 👤 [locus-x64](https://github.com/locus-x64) Starred [locus-x64/ida-adreno-qrisc](https://github.com/locus-x64/ida-adreno-qrisc)
+  > Reverse-engineering toolkit for Qualcomm Adreno GPU command-processor (CP) microcode: the 32-bit mic...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [gally16/LLM-Jailbreaking-Guide](https://github.com/gally16/LLM-Jailbreaking-Guide)
+  > LLM Jailbreaking Guide主流大语言模型越狱指南
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+  > AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 
 ---
-*最后更新于 2026-06-30 08:34:35 UTC*
+*最后更新于 2026-06-30 11:42:50 UTC*
 *历史记录保存在 `archive` 目录中。*
