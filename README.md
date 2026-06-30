@@ -55,6 +55,10 @@
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
+  > A git client based on the IntelliJ platform
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
   > Desktop app to manage markdown knowledge bases
@@ -74,6 +78,8 @@
   > Docker configuration for running VLLM on dual DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
   > DFlash: Block Diffusion for Flash Speculative Decoding
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [gally16/LLM-Jailbreaking-Guide](https://github.com/gally16/LLM-Jailbreaking-Guide)
@@ -89,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-06-30 21:24:59 UTC*
+*最后更新于 2026-06-30 23:07:53 UTC*
 *历史记录保存在 `archive` 目录中。*
