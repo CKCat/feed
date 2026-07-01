@@ -48,6 +48,10 @@
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) to [crazyguitar/rust-ibverbs](https://github.com/crazyguitar/rust-ibverbs)
   > Bindings for RDMA ibverbs through rdma-core
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+  > 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
   > Software simulation for Android hardware-backed key pairs with key attestation
@@ -91,10 +95,18 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/orchard](https://github.com/openai/orchard)
   > Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/boringtun](https://github.com/cloudflare/boringtun)
+  > Userspace WireGuard® Implementation in Rust
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
   > Sandboxie Plus & Classic
+
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [mirror/x264](https://github.com/mirror/x264)
+  > x264 Git mirror
+- 🍴 👤 [tytydraco](https://github.com/tytydraco) Forked [mirror/x264](https://github.com/mirror/x264) to [tytydraco/x264-yp3-patch](https://github.com/tytydraco/x264-yp3-patch)
+  > x264 Git mirror
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE)
@@ -102,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-07-01 17:10:55 UTC*
+*最后更新于 2026-07-01 19:48:20 UTC*
 *历史记录保存在 `archive` 目录中。*
