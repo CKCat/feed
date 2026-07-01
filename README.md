@@ -8,6 +8,10 @@
 - 🚀 👤 [0xeb](https://github.com/0xeb) Made [0xeb/libxsql-rs](https://github.com/0xeb/libxsql-rs) public
   > Rust port of libxsql C++
 
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [jolleyDesign/tudo](https://github.com/jolleyDesign/tudo)
+  > Fast, local, keyboard driven todo list TUI
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [kimjammer/Neuro](https://github.com/kimjammer/Neuro)
   > A recreation of Neuro-Sama originally created in 7 days.
@@ -15,6 +19,10 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [caigg188/LDStatusPro](https://github.com/caigg188/LDStatusPro)
   > 一款功能强大的 Linux.do 社区增强工具以及相关综合服务开源项目。包含油猴脚本、LD士多项目前端源码、LDStatusPro官网源码。
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
+  > AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
@@ -33,6 +41,12 @@
   > LLVM based static binary analysis framework 
 - 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [Colton1skees/Dna](https://github.com/Colton1skees/Dna) to [cbwang505/Dna](https://github.com/cbwang505/Dna)
   > LLVM based static binary analysis framework 
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs)
+  > Bindings for RDMA ibverbs through rdma-core
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) to [crazyguitar/rust-ibverbs](https://github.com/crazyguitar/rust-ibverbs)
+  > Bindings for RDMA ibverbs through rdma-core
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
@@ -88,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-07-01 14:42:45 UTC*
+*最后更新于 2026-07-01 17:10:55 UTC*
 *历史记录保存在 `archive` 目录中。*
