@@ -30,7 +30,7 @@
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [osecurio/mtkview](https://github.com/osecurio/mtkview)
-  > A BinaryNinja loader plugin for MTK Preloaders
+  > A BinaryNinja loader plugin for MTK Preloaders and Little Kernels
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
@@ -100,6 +100,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
   > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lostb1t/Gelato](https://github.com/lostb1t/Gelato)
+  > Jellyfin Stremio Integration Plugin
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/orchard](https://github.com/openai/orchard)
@@ -123,5 +125,5 @@
 
 
 ---
-*最后更新于 2026-07-01 21:24:15 UTC*
+*最后更新于 2026-07-01 23:10:53 UTC*
 *历史记录保存在 `archive` 目录中。*
