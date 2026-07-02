@@ -49,6 +49,10 @@
   > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
   > Godot reverse engineering tools
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) to [mrexodia/gdsdecomp](https://github.com/mrexodia/gdsdecomp)
+  > Godot reverse engineering tools
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+  > Inspect: A framework for large language model evaluations
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-07-02 21:01:30 UTC*
+*最后更新于 2026-07-02 23:01:11 UTC*
 *历史记录保存在 `archive` 目录中。*
