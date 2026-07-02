@@ -11,6 +11,12 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
+  > Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
@@ -22,5 +28,5 @@
 
 
 ---
-*最后更新于 2026-07-02 02:54:18 UTC*
+*最后更新于 2026-07-02 06:38:24 UTC*
 *历史记录保存在 `archive` 目录中。*
