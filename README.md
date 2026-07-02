@@ -28,9 +28,17 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
 
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+  > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
   > An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [google/zerocopy](https://github.com/google/zerocopy)
+  > Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
@@ -38,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-07-02 10:07:27 UTC*
+*最后更新于 2026-07-02 12:54:27 UTC*
 *历史记录保存在 `archive` 目录中。*
