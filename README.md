@@ -45,6 +45,10 @@
   > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
+  > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+  > Godot reverse engineering tools
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
@@ -68,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-07-02 19:18:56 UTC*
+*最后更新于 2026-07-02 21:01:30 UTC*
 *历史记录保存在 `archive` 目录中。*
