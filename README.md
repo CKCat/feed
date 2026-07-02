@@ -4,12 +4,19 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/ttyinject-rs](https://github.com/0xdea/ttyinject-rs)
+  > Linux local privilege escalation via TIOCSTI TTY injection.
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [antgroup/Napaxi](https://github.com/antgroup/Napaxi)
   > Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools,...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Stallion77RepoOfficial/MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose)
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [michalbednarski/OrganizerTransaction](https://github.com/michalbednarski/OrganizerTransaction)
@@ -61,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-07-02 17:42:48 UTC*
+*最后更新于 2026-07-02 19:18:56 UTC*
 *历史记录保存在 `archive` 目录中。*
