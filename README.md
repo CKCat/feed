@@ -8,6 +8,9 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [antgroup/Napaxi](https://github.com/antgroup/Napaxi)
   > Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools,...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Stallion77RepoOfficial/MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose)
+
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [michalbednarski/OrganizerTransaction](https://github.com/michalbednarski/OrganizerTransaction)
   > PoC for CVE-2021-39749, allowing starting arbitrary Activity on Android 12L Beta
@@ -27,10 +30,20 @@
   > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukesdevlab/youtube](https://github.com/lukesdevlab/youtube)
+  > Prompts and model configs used in my videos.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
+  > PE/ELF x86/x64 CFG extractor
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turbo-tan/llama.cpp-tq3](https://github.com/turbo-tan/llama.cpp-tq3)
+  > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
   > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ps5-payload-dev/sdk](https://github.com/ps5-payload-dev/sdk)
+  > An SDK for PS5 payloads that uses dynamic linking
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
@@ -46,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-07-02 12:54:27 UTC*
+*最后更新于 2026-07-02 15:11:41 UTC*
 *历史记录保存在 `archive` 目录中。*
