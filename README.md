@@ -14,6 +14,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [canyie/TransitionPlayer](https://github.com/canyie/TransitionPlayer)
   > CVE-2026-0091, play with an issue in android window management to perform arbitrary code execution i...
 
+### [Ch0pin](https://github.com/Ch0pin)
+- 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/ioscpy](https://github.com/lautarovculic/ioscpy)
+  > A CLI that mirrors and controls a jailbroken iPhone over USB.
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
@@ -25,6 +29,14 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [canyie/TransitionPlayer](https://github.com/canyie/TransitionPlayer)
   > CVE-2026-0091, play with an issue in android window management to perform arbitrary code execution i...
+
+### [aengelke](https://github.com/aengelke)
+- 🍴 👤 [aengelke](https://github.com/aengelke) Forked [Phantomical/perf-event-data](https://github.com/Phantomical/perf-event-data) to [aengelke/perf-event-data](https://github.com/aengelke/perf-event-data)
+  > Types and traits for parsing records emitted by `perf_event_open`
+
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
@@ -62,6 +74,13 @@
   > Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only us...
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/android_kernel_security](https://github.com/superturtlee/android_kernel_security)
+  > security patchs for GKI
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/superturtlee](https://github.com/superturtlee/superturtlee)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/Droidspaces-rootfs-KDE-builder](https://github.com/superturtlee/Droidspaces-rootfs-KDE-builder)
+  > 为Droidspaces用户打造的带支持中文环境的KDE_rootfs,并配合on脚本或systemd快速启动
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [dgoulet/torsocks](https://github.com/dgoulet/torsocks)
   > Library to torify application - NOTE: upstream has been moved to https://gitweb.torproject.org/torso...
@@ -75,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-07-03 15:07:34 UTC*
+*最后更新于 2026-07-03 17:21:11 UTC*
 *历史记录保存在 `archive` 目录中。*
