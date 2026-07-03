@@ -18,6 +18,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [agentrebench/AgentRE-Bench](https://github.com/agentrebench/AgentRE-Bench)
   > AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [canyie/TransitionPlayer](https://github.com/canyie/TransitionPlayer)
+  > CVE-2026-0091, play with an issue in android window management to perform arbitrary code execution i...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
   > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-07-03 09:53:41 UTC*
+*最后更新于 2026-07-03 12:06:22 UTC*
 *历史记录保存在 `archive` 目录中。*
