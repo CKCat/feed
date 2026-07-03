@@ -61,6 +61,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ewhauser/gbash](https://github.com/ewhauser/gbash)
   > Pure Go bash implementation for agent sandboxes
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [burhop/wright](https://github.com/burhop/wright)
+  > A digital engineer, designer, and mechanical analyst
+
 ### [pgarba](https://github.com/pgarba)
 - 🌟 👤 [pgarba](https://github.com/pgarba) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
   > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-07-03 17:21:11 UTC*
+*最后更新于 2026-07-03 19:14:39 UTC*
 *历史记录保存在 `archive` 目录中。*
