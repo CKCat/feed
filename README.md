@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [DreadedLama/Simple-Dialer](https://github.com/DreadedLama/Simple-Dialer)
+  > A handy phone call manager with phonebook, number blocking and multi-SIM support that uses truecalle...
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
@@ -35,13 +39,32 @@
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [withesse/linux-kernel-analysis](https://github.com/withesse/linux-kernel-analysis)
+  > Deep-dive analysis of 95 Linux kernel subsystems — memory management, scheduler, networking, eBPF, K...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mprahboamey/atom](https://github.com/mprahboamey/atom)
+  > optical attention via wave interference in holographic crystals verified to float precision. the mat...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ewhauser/gbash](https://github.com/ewhauser/gbash)
+  > Pure Go bash implementation for agent sandboxes
+
 ### [pgarba](https://github.com/pgarba)
 - 🌟 👤 [pgarba](https://github.com/pgarba) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
   > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/github-copilot-modernization](https://github.com/microsoft/github-copilot-modernization)
+  > GitHub Copilot modernization agent
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla)
   > Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only us...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
+
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [dgoulet/torsocks](https://github.com/dgoulet/torsocks)
+  > Library to torify application - NOTE: upstream has been moved to https://gitweb.torproject.org/torso...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
@@ -52,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-07-03 12:06:22 UTC*
+*最后更新于 2026-07-03 15:07:34 UTC*
 *历史记录保存在 `archive` 目录中。*
