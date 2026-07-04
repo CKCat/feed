@@ -32,6 +32,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nix-community/nixGL](https://github.com/nix-community/nixGL)
   > A wrapper tool for nix OpenGL application [maintainer=@guibou]
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [pIat0n/BareMetal-RAM-Dumper](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+  > A bare-metal x86 utility to dump physical RAM directly to disk. Built and tested for Cold Boot Attac...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
@@ -60,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-07-04 20:52:51 UTC*
+*最后更新于 2026-07-04 21:55:24 UTC*
 *历史记录保存在 `archive` 目录中。*
