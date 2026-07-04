@@ -26,11 +26,17 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [rr-debugger/rr](https://github.com/rr-debugger/rr)
+  > Record and Replay Framework
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns)
+  > A Rust based DNS client, server, and resolver
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [yuandaimaahao/aosp-harness-demo](https://github.com/yuandaimaahao/aosp-harness-demo)
   > AOSP 整机源码 Harness 工程探索
 
 
 ---
-*最后更新于 2026-07-04 10:05:27 UTC*
+*最后更新于 2026-07-04 12:04:11 UTC*
 *历史记录保存在 `archive` 目录中。*
