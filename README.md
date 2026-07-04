@@ -29,6 +29,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [divyam234/dotfiles](https://github.com/divyam234/dotfiles)
   > Den-based NixOS dotfiles 
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nix-community/nixGL](https://github.com/nix-community/nixGL)
+  > A wrapper tool for nix OpenGL application [maintainer=@guibou]
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
@@ -44,6 +46,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/piece](https://github.com/phodal/piece)
   > Piece is a piece-aware build feedback system for AI-era coding agents.
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)
+  > Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, ...
+
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [jj1bdx/airspy-fmradion](https://github.com/jj1bdx/airspy-fmradion)
   > Software decoder for FM/AM broadcast radio with AirSpy R2 / Mini, Airspy HF+, and RTL-SDR
@@ -54,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-07-04 15:58:07 UTC*
+*最后更新于 2026-07-04 17:11:24 UTC*
 *历史记录保存在 `archive` 目录中。*
