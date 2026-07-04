@@ -22,6 +22,14 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [alibaba/async_simple](https://github.com/alibaba/async_simple)
   > Simple, light-weight and easy-to-use asynchronous components 
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut)
+  > Your GitHub stats, turned into a World-Cup-style player card 
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [divyam234/dotfiles](https://github.com/divyam234/dotfiles)
+  > Den-based NixOS dotfiles 
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
@@ -32,11 +40,15 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns)
   > A Rust based DNS client, server, and resolver
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [phodal/piece](https://github.com/phodal/piece)
+  > Piece is a piece-aware build feedback system for AI-era coding agents.
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [yuandaimaahao/aosp-harness-demo](https://github.com/yuandaimaahao/aosp-harness-demo)
   > AOSP 整机源码 Harness 工程探索
 
 
 ---
-*最后更新于 2026-07-04 12:04:11 UTC*
+*最后更新于 2026-07-04 14:26:24 UTC*
 *历史记录保存在 `archive` 目录中。*
