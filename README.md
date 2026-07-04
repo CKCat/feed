@@ -32,6 +32,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nix-community/nixGL](https://github.com/nix-community/nixGL)
   > A wrapper tool for nix OpenGL application [maintainer=@guibou]
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+  > A repo for jailbreaking various LLMs, mainly Claude
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [pIat0n/BareMetal-RAM-Dumper](https://github.com/pIat0n/BareMetal-RAM-Dumper)
   > A bare-metal x86 utility to dump physical RAM directly to disk. Built and tested for Cold Boot Attac...
@@ -39,6 +43,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)
+  > A computer you can curl ⚡
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [rr-debugger/rr](https://github.com/rr-debugger/rr)
@@ -64,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-07-04 21:55:24 UTC*
+*最后更新于 2026-07-04 22:55:21 UTC*
 *历史记录保存在 `archive` 目录中。*
