@@ -22,11 +22,15 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [alibaba/async_simple](https://github.com/alibaba/async_simple)
   > Simple, light-weight and easy-to-use asynchronous components 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
+  > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [yuandaimaahao/aosp-harness-demo](https://github.com/yuandaimaahao/aosp-harness-demo)
   > AOSP 整机源码 Harness 工程探索
 
 
 ---
-*最后更新于 2026-07-04 07:42:29 UTC*
+*最后更新于 2026-07-04 10:05:27 UTC*
 *历史记录保存在 `archive` 目录中。*
