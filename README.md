@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [jtsylve/LiME](https://github.com/jtsylve/LiME)
   > LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memo...
@@ -16,6 +20,17 @@
   > Command-line utility for monitoring GPU hardware.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [lablup/all-smi](https://github.com/lablup/all-smi) to [crazyguitar/all-smi](https://github.com/crazyguitar/all-smi)
   > Command-line utility for monitoring GPU hardware.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Aeon-Bench-Pod](https://github.com/AEON-7/Aeon-Bench-Pod)
+  > Run the AEON Bench suite on your own hardware: verified HuggingFace pull → serve → benchmark (text ·...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/dspark-aeon-27b](https://github.com/hikarioyama/dspark-aeon-27b)
+  > DSpark-style speculative decoding draft head for Qwen3.6-27B AEON: training recipe, paired eval harn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
+  > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
+
+### [rand-tech](https://github.com/rand-tech)
+- 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
@@ -31,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-07-05 07:53:33 UTC*
+*最后更新于 2026-07-05 10:08:40 UTC*
 *历史记录保存在 `archive` 目录中。*
