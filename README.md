@@ -28,9 +28,12 @@
   > DSpark-style speculative decoding draft head for Qwen3.6-27B AEON: training recipe, paired eval harn...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
   > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
+  > Safely run OpenCode, Codex, Claude Code with full permissions.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [koba-e964/git-zcrypt](https://github.com/koba-e964/git-zcrypt)
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
@@ -46,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-07-05 10:08:40 UTC*
+*最后更新于 2026-07-05 12:13:00 UTC*
 *历史记录保存在 `archive` 目录中。*
