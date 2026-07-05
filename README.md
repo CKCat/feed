@@ -4,6 +4,13 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android)
+
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) to [Dr-TSNG/extensions-source](https://github.com/Dr-TSNG/extensions-source)
+  > Source code of extensions in https://github.com/keiyoushi/extensions
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
   > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
@@ -11,6 +18,12 @@
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [jtsylve/LiME](https://github.com/jtsylve/LiME)
   > LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memo...
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys)
+  > Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, ca...
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) to [KuNgia09/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/KuNgia09/VMware-Workstation-Pro-17-Licence-Keys)
+  > Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, ca...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nutdnuy/webull-openapi-thai-lab](https://github.com/nutdnuy/webull-openapi-thai-lab)
@@ -58,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-07-05 14:38:15 UTC*
+*最后更新于 2026-07-05 16:04:08 UTC*
 *历史记录保存在 `archive` 目录中。*
