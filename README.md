@@ -15,11 +15,18 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nutdnuy/webull-openapi-thai-lab](https://github.com/nutdnuy/webull-openapi-thai-lab)
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [lablup/all-smi](https://github.com/lablup/all-smi)
   > Command-line utility for monitoring GPU hardware.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [lablup/all-smi](https://github.com/lablup/all-smi) to [crazyguitar/all-smi](https://github.com/crazyguitar/all-smi)
   > Command-line utility for monitoring GPU hardware.
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
+  > Safe, self-healing bare-metal x86-64 operating system designed for radiation-hardened aerospace syst...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Aeon-Bench-Pod](https://github.com/AEON-7/Aeon-Bench-Pod)
@@ -30,6 +37,8 @@
   > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
   > Safely run OpenCode, Codex, Claude Code with full permissions.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
+  > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
@@ -49,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-07-05 12:13:00 UTC*
+*最后更新于 2026-07-05 14:38:15 UTC*
 *历史记录保存在 `archive` 目录中。*
