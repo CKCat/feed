@@ -25,6 +25,9 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) to [KuNgia09/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/KuNgia09/VMware-Workstation-Pro-17-Licence-Keys)
   > Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, ca...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aws-samples/sample-bedrock-api-proxy](https://github.com/aws-samples/sample-bedrock-api-proxy) to [NyaMisty/sample-bedrock-api-proxy](https://github.com/NyaMisty/sample-bedrock-api-proxy)
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nutdnuy/webull-openapi-thai-lab](https://github.com/nutdnuy/webull-openapi-thai-lab)
 
@@ -36,6 +39,10 @@
   > Command-line utility for monitoring GPU hardware.
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [lablup/all-smi](https://github.com/lablup/all-smi) to [crazyguitar/all-smi](https://github.com/crazyguitar/all-smi)
   > Command-line utility for monitoring GPU hardware.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [meerilahi/Books-Collection](https://github.com/meerilahi/Books-Collection)
+  > This repository contains a collection of books I have downloaded related to **Mathematics**, **Artif...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [meerilahi/Books-Collection](https://github.com/meerilahi/Books-Collection) to [crazyguitar/Books-Collection](https://github.com/crazyguitar/Books-Collection)
+  > This repository contains a collection of books I have downloaded related to **Mathematics**, **Artif...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
@@ -56,6 +63,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+  > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Patvessel/ComfyUI-krea2_projector_delta](https://github.com/Patvessel/ComfyUI-krea2_projector_delta)
+  > This is a custom node for the Krea2 model with a variable dynamic Delta value, designed to integrate...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
@@ -75,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-07-05 17:59:14 UTC*
+*最后更新于 2026-07-05 19:35:42 UTC*
 *历史记录保存在 `archive` 目录中。*
