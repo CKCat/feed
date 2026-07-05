@@ -41,6 +41,9 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
   > Safe, self-healing bare-metal x86-64 operating system designed for radiation-hardened aerospace syst...
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Aeon-Bench-Pod](https://github.com/AEON-7/Aeon-Bench-Pod)
   > Run the AEON Bench suite on your own hardware: verified HuggingFace pull → serve → benchmark (text ·...
@@ -52,6 +55,7 @@
   > Safely run OpenCode, Codex, Claude Code with full permissions.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
@@ -71,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-07-05 16:04:08 UTC*
+*最后更新于 2026-07-05 17:59:14 UTC*
 *历史记录保存在 `archive` 目录中。*
