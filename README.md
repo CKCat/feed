@@ -63,11 +63,15 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
   > Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, a...
 
+### [programminghoch10](https://github.com/programminghoch10)
+- 🚀 👤 [programminghoch10](https://github.com/programminghoch10) Made [programminghoch10/pacman-nginx-cache](https://github.com/programminghoch10/pacman-nginx-cache) public
+  > Docker Pacman Caching container
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [anti-captcha/anticaptcha-python](https://github.com/anti-captcha/anticaptcha-python)
   > Anti-Captcha.com official python library
 
 
 ---
-*最后更新于 2026-07-06 20:50:14 UTC*
+*最后更新于 2026-07-06 22:10:20 UTC*
 *历史记录保存在 `archive` 目录中。*
