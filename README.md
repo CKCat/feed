@@ -20,6 +20,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [dongri/openai-api-rs](https://github.com/dongri/openai-api-rs)
   > OpenAI API client library for Rust (unofficial)
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [deviceplug/btleplug](https://github.com/deviceplug/btleplug)
+  > Rust Cross-Platform Host-Side Bluetooth LE Access Library
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
@@ -28,11 +32,19 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [YouTaoBaBa/Chinese-Dialogue-Dataset](https://github.com/YouTaoBaBa/Chinese-Dialogue-Dataset)
   > 用于汇总目前的开源中文对话数据集
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
+  > Implements harmful/harmless refusal removal using pure HF Transformers
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
   > Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, a...
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [anti-captcha/anticaptcha-python](https://github.com/anti-captcha/anticaptcha-python)
+  > Anti-Captcha.com official python library
+
 
 ---
-*最后更新于 2026-07-06 12:01:01 UTC*
+*最后更新于 2026-07-06 16:17:13 UTC*
 *历史记录保存在 `archive` 目录中。*
