@@ -8,6 +8,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [portbuster1337/lpe-toolkit](https://github.com/portbuster1337/lpe-toolkit)
   > Multi-architecture Linux privilege escalation toolkit with 24 pre-built and runtime-compilable explo...
 
+### [0xnobody](https://github.com/0xnobody)
+- 🌟 👤 [0xnobody](https://github.com/0xnobody) Starred [alexxwithmorex/encryption_bot](https://github.com/alexxwithmorex/encryption_bot)
+  > Discord bot that can encrypt messages and handle secure groups. uses ECIES encryption scheme
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [compsec-snu/tiktag](https://github.com/compsec-snu/tiktag)
   > TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution (IEEE S&P 2025)
@@ -60,6 +64,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)
   > Tencent Hy3 295B MoE (NVFP4) on 2x NVIDIA DGX Spark — TP2 over 200GbE, 256K context, 26 tok/s end-to...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [killop/puerts-unity-mcp](https://github.com/killop/puerts-unity-mcp)
+  > unity-mcp driven by tencent puerts , invoke js/ts  call c#  in your cell phone and unity editor
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [rubys/roundhouse](https://github.com/rubys/roundhouse)
   > Rails as a specification; the deployment target is a build flag
@@ -82,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-07-07 21:20:21 UTC*
+*最后更新于 2026-07-07 22:57:32 UTC*
 *历史记录保存在 `archive` 目录中。*
