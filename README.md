@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [compsec-snu/tiktag](https://github.com/compsec-snu/tiktag)
+  > TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution (IEEE S&P 2025)
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Nuyoah-Yc/TrickyStore](https://github.com/Nuyoah-Yc/TrickyStore)
   > 基于原版增加tee代理签名机功能
@@ -17,6 +21,12 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   > A Patch for GIMP 3+ for Photoshop Users
+
+### [es3n1n](https://github.com/es3n1n)
+- 🚀 👤 [es3n1n](https://github.com/es3n1n) Made [project-sekai-ctf/sekaictf-2026](https://github.com/project-sekai-ctf/sekaictf-2026) public
+  > 🎵 Official source code and writeups for SekaiCTF 2026! 
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [project-sekai-ctf/sekaictf-2026](https://github.com/project-sekai-ctf/sekaictf-2026)
+  > 🎵 Official source code and writeups for SekaiCTF 2026! 
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Toy-Jie/facet](https://github.com/Toy-Jie/facet)
@@ -43,6 +53,8 @@
   > Official Jina AI Remote MCP Server
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   > A Patch for GIMP 3+ for Photoshop Users
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)
+  > Tencent Hy3 295B MoE (NVFP4) on 2x NVIDIA DGX Spark — TP2 over 200GbE, 256K context, 26 tok/s end-to...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [rubys/roundhouse](https://github.com/rubys/roundhouse)
@@ -60,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-07-07 11:45:15 UTC*
+*最后更新于 2026-07-07 14:24:05 UTC*
 *历史记录保存在 `archive` 目录中。*
