@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [portbuster1337/lpe-toolkit](https://github.com/portbuster1337/lpe-toolkit)
+  > Multi-architecture Linux privilege escalation toolkit with 24 pre-built and runtime-compilable explo...
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [compsec-snu/tiktag](https://github.com/compsec-snu/tiktag)
   > TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution (IEEE S&P 2025)
@@ -69,8 +73,14 @@
   > A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, D...
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [pymumu/smartdns](https://github.com/pymumu/smartdns) to [sin5678/smartdns](https://github.com/sin5678/smartdns)
   > A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, D...
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [BigDawnGhost/wenyi](https://github.com/BigDawnGhost/wenyi)
+  > 将被语言阻隔的作品，带到读者的语言中。Bringing literature into your language.
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
 
 
 ---
-*最后更新于 2026-07-07 14:24:05 UTC*
+*最后更新于 2026-07-07 17:10:09 UTC*
 *历史记录保存在 `archive` 目录中。*
