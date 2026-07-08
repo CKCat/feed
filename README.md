@@ -62,6 +62,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
   > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+  > The open-source AI voice studio. Clone, dictate, create.
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui)
@@ -97,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-07-08 18:14:36 UTC*
+*最后更新于 2026-07-08 20:17:14 UTC*
 *历史记录保存在 `archive` 目录中。*
