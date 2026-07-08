@@ -28,6 +28,10 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)
   > CVE-2026-43499 PoC
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [niri-wm/niri](https://github.com/niri-wm/niri)
   > A scrollable-tiling Wayland compositor.
@@ -53,6 +57,11 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
   > A project to improve skills of large language models
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark](https://github.com/drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark)
+  > Nemotron Puzzle-75B-A9B on ONE DGX Spark: vLLM 0.24 + A4Q + MTP k=3 + NVFP4 KV, 2.71M-token pool, 22...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
+  > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui)
@@ -73,6 +82,10 @@
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [kevwan/tproxy](https://github.com/kevwan/tproxy)
   > A cli tool to proxy and analyze TCP connections.
+- 🍴 👤 [sin5678](https://github.com/sin5678) Forked [PeterJBurke/esp32-c3-remote-id](https://github.com/PeterJBurke/esp32-c3-remote-id) to [sin5678/esp32-c3-remote-id](https://github.com/sin5678/esp32-c3-remote-id)
+  > ESP32-C3 Remote ID (OpenDroneID) implementation with real-time packet monitoring tools. Fork of uav_...
+- 🍴 👤 [sin5678](https://github.com/sin5678) Forked [JimZGChow/wifi-rid-to-mesh](https://github.com/JimZGChow/wifi-rid-to-mesh) to [sin5678/wifi-rid-to-mesh](https://github.com/sin5678/wifi-rid-to-mesh)
+  > Send WiFi Drone RemoteID detections over serial via Meshtastic
 
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [Leeksov/usbliter8ra1n](https://github.com/Leeksov/usbliter8ra1n)
@@ -84,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-07-08 16:00:57 UTC*
+*最后更新于 2026-07-08 18:14:36 UTC*
 *历史记录保存在 `archive` 目录中。*
