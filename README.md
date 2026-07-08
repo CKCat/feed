@@ -24,6 +24,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [droidsaw/droidsaw-dex](https://github.com/droidsaw/droidsaw-dex)
   > DEX (Dalvik) decompiler. Parses, builds CFG, SSA via Braun, emits Java. Inverse emit_dex byte-identi...
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)
+  > CVE-2026-43499 PoC
+
 ### [archibate](https://github.com/archibate)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [niri-wm/niri](https://github.com/niri-wm/niri)
   > A scrollable-tiling Wayland compositor.
@@ -48,6 +52,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
   > A project to improve skills of large language models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui)
@@ -69,11 +74,15 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [kevwan/tproxy](https://github.com/kevwan/tproxy)
   > A cli tool to proxy and analyze TCP connections.
 
+### [wINfOG](https://github.com/wINfOG)
+- 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [Leeksov/usbliter8ra1n](https://github.com/Leeksov/usbliter8ra1n)
+  > Tethered jailbreak research toolkit for A12/A13 devices via usbliter8 BootROM exploit. Full boot cha...
+
 ### [zodiacon](https://github.com/zodiacon)
 - 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [oipoistar/tinta](https://github.com/oipoistar/tinta)
   > Fast, lightweight markdown viewer & reader for Windows. Native C++ with Direct2D — <1MB binary, ~200...
 
 
 ---
-*最后更新于 2026-07-08 13:56:15 UTC*
+*最后更新于 2026-07-08 16:00:57 UTC*
 *历史记录保存在 `archive` 目录中。*
