@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
@@ -27,6 +31,10 @@
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
   > 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
+  > A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
 
 ### [ihciah](https://github.com/ihciah)
 - 🍴 👤 [ihciah](https://github.com/ihciah) Forked [mholt/caddy-webdav](https://github.com/mholt/caddy-webdav) to [ihciah/caddy-webdav](https://github.com/ihciah/caddy-webdav)
@@ -67,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-07-08 11:44:20 UTC*
+*最后更新于 2026-07-08 13:56:15 UTC*
 *历史记录保存在 `archive` 目录中。*
