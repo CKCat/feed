@@ -64,6 +64,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source AI voice studio. Clone, dictate, create.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/nitro](https://github.com/aerovato/nitro)
+  > A tiny and efficient harness for running Bash commands.
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui)
@@ -99,5 +101,5 @@
 
 
 ---
-*最后更新于 2026-07-08 20:17:14 UTC*
+*最后更新于 2026-07-08 22:01:52 UTC*
 *历史记录保存在 `archive` 目录中。*
