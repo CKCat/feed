@@ -30,6 +30,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   > A Patch for GIMP 3+ for Photoshop Users
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
+  > LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🚀 👤 [es3n1n](https://github.com/es3n1n) Made [project-sekai-ctf/sekaictf-2026](https://github.com/project-sekai-ctf/sekaictf-2026) public
   > 🎵 Official source code and writeups for SekaiCTF 2026! 
@@ -90,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-07-07 22:57:32 UTC*
+*最后更新于 2026-07-07 23:58:57 UTC*
 *历史记录保存在 `archive` 目录中。*
