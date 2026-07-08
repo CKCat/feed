@@ -36,6 +36,15 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [oipoistar/tinta](https://github.com/oipoistar/tinta)
   > Fast, lightweight markdown viewer & reader for Windows. Native C++ with Direct2D — <1MB binary, ~200...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
+  > A project to improve skills of large language models
+
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui)
+  > Garlic Decompiler (GUI) - A modern C++/Qt6 desktop interface for the Garlic Decompiler, bringing bla...
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nzcv/idevice](https://github.com/nzcv/idevice)
 
@@ -48,11 +57,15 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [V4bel/Januscape](https://github.com/V4bel/Januscape)
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [kevwan/tproxy](https://github.com/kevwan/tproxy)
+  > A cli tool to proxy and analyze TCP connections.
+
 ### [zodiacon](https://github.com/zodiacon)
 - 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [oipoistar/tinta](https://github.com/oipoistar/tinta)
   > Fast, lightweight markdown viewer & reader for Windows. Native C++ with Direct2D — <1MB binary, ~200...
 
 
 ---
-*最后更新于 2026-07-08 09:23:26 UTC*
+*最后更新于 2026-07-08 11:44:20 UTC*
 *历史记录保存在 `archive` 目录中。*
