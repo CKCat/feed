@@ -29,6 +29,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36)
+  > J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+  >  Companion code for the global workspace interpretability paper
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [wolfpld/tracy](https://github.com/wolfpld/tracy)
@@ -65,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-07-09 19:39:24 UTC*
+*最后更新于 2026-07-09 21:19:32 UTC*
 *历史记录保存在 `archive` 目录中。*
