@@ -26,6 +26,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/toilet-pi](https://github.com/mrexodia/toilet-pi)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter for safety-critical execution
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [wolfpld/tracy](https://github.com/wolfpld/tracy)
   > Frame profiler
@@ -61,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-07-09 14:50:00 UTC*
+*最后更新于 2026-07-09 17:19:56 UTC*
 *历史记录保存在 `archive` 目录中。*
