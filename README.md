@@ -33,6 +33,8 @@
   > J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
   >  Companion code for the global workspace interpretability paper
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Coding-Dev-Tools/engraphis](https://github.com/Coding-Dev-Tools/engraphis)
+  > Self-hosted AI memory engine - Ebbinghaus forgetting-curve decay, interaction-aware reinforcement, a...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [wolfpld/tracy](https://github.com/wolfpld/tracy)
@@ -69,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-07-09 21:19:32 UTC*
+*最后更新于 2026-07-09 23:07:43 UTC*
 *历史记录保存在 `archive` 目录中。*
