@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [r58Playz/uBlock-mv3](https://github.com/r58Playz/uBlock-mv3)
+  > Full MV3 port of uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [CodingWithCalvin/VS-MCPServer](https://github.com/CodingWithCalvin/VS-MCPServer)
   > VS MCP Server exposes Visual Studio features through the Model Context Protocol (MCP), enabling AI a...
@@ -19,10 +23,8 @@
 ### [ihciah](https://github.com/ihciah)
 - 🚀 👤 [ihciah](https://github.com/ihciah) Made [ihciah/nginx-acme](https://github.com/ihciah/nginx-acme) public
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llama.cpp](https://github.com/alesha-pro/llama.cpp)
-  > LLM inference in C/C++
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/toilet-pi](https://github.com/mrexodia/toilet-pi)
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [wolfpld/tracy](https://github.com/wolfpld/tracy)
@@ -35,6 +37,16 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/softnet](https://github.com/openai/softnet)
   > Software networking with isolation for Tart
+
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [juanfont/headscale](https://github.com/juanfont/headscale)
+  > An open source, self-hosted implementation of the Tailscale control server
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks)
+  > 将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具
+
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [wallechfox/offline-pdf-tools](https://github.com/wallechfox/offline-pdf-tools) to [sunwm518/offline-pdf-tools](https://github.com/sunwm518/offline-pdf-tools)
+  > 一套纯离线运行的 PDF 处理工具集，共 11 项功能，1个网页文件。包含合并、拆分（支持页码范围/固定页数/单页/奇偶拆分）、旋转、删除、PDF 转图片、图片转 PDF、页面可视化重排、对开页切分、...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [veritas501/dou-voice](https://github.com/veritas501/dou-voice)
@@ -49,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-07-09 11:53:23 UTC*
+*最后更新于 2026-07-09 14:50:00 UTC*
 *历史记录保存在 `archive` 目录中。*
