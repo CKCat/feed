@@ -25,9 +25,17 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [synacktiv/frinet](https://github.com/synacktiv/frinet)
   > Frida-based tracer for easier reverse-engineering on Android, iOS, Linux, Windows and most related a...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [sakarie9/BiliRoaming](https://github.com/sakarie9/BiliRoaming) to [Mufanc/BiliRoaming](https://github.com/Mufanc/BiliRoaming)
+  > 哔哩漫游的分支，包括原生音乐通知及一些其他改动
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [iczelia/qbdiff](https://github.com/iczelia/qbdiff)
   > building and applying patches to binary files
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-07-10 13:08:39 UTC*
+*最后更新于 2026-07-10 16:22:06 UTC*
 *历史记录保存在 `archive` 目录中。*
