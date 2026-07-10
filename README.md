@@ -55,7 +55,10 @@
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [wzy114514sb/pwnage24mtk](https://github.com/wzy114514sb/pwnage24mtk) to [veritas501/pwnage24mtk](https://github.com/veritas501/pwnage24mtk)
   > Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2...
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [shogo82148/TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker)
+
 
 ---
-*最后更新于 2026-07-10 16:22:06 UTC*
+*最后更新于 2026-07-10 18:20:06 UTC*
 *历史记录保存在 `archive` 目录中。*
