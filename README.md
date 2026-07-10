@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
+
 ### [0xdea](https://github.com/0xdea)
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [inode-/singsing](https://github.com/inode-/singsing) to [0xdea/singsing](https://github.com/0xdea/singsing)
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [hackerschoice/ttyinject](https://github.com/hackerschoice/ttyinject) to [0xdea/ttyinject](https://github.com/0xdea/ttyinject)
@@ -12,6 +16,10 @@
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [veritas501/dou-voice](https://github.com/veritas501/dou-voice)
   > 纯 vibe-coding 语音输入小工具
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [GyanD/codexffmpeg](https://github.com/GyanD/codexffmpeg)
+  > Support for https://www.gyan.dev/ffmpeg
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [synacktiv/frinet](https://github.com/synacktiv/frinet)
@@ -27,6 +35,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)
   > PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [ryota2357/lean_string](https://github.com/ryota2357/lean_string)
+  > Compact, clone-on-write string for Rust.
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
@@ -37,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-07-10 10:20:28 UTC*
+*最后更新于 2026-07-10 13:08:39 UTC*
 *历史记录保存在 `archive` 目录中。*
