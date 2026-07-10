@@ -37,11 +37,23 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
   > Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Adham504/iocforge](https://github.com/Adham504/iocforge)
+  > An advanced, production-ready Threat Intelligence utility that extracts Indicators of Compromise (Io...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nix-community/NUR](https://github.com/nix-community/NUR)
+  > Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
   > A collection of agent skills for CAD, robotics and hardware design
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)
   > PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [danoon2/Boxedwine](https://github.com/danoon2/Boxedwine)
+  > Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [ryota2357/lean_string](https://github.com/ryota2357/lean_string)
@@ -60,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-07-10 18:20:06 UTC*
+*最后更新于 2026-07-10 20:19:07 UTC*
 *历史记录保存在 `archive` 目录中。*
