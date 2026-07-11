@@ -12,6 +12,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
   > 《明日方舟》游戏数据
 
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall)
+  > aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -31,6 +35,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
   > Concurrency library for C (coroutines)
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+  > Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
   > Local-LLM-first agentic coding assistant, with everything you need out of the box.
@@ -43,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-07-11 15:51:55 UTC*
+*最后更新于 2026-07-11 16:53:06 UTC*
 *历史记录保存在 `archive` 目录中。*
