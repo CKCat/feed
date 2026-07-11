@@ -8,6 +8,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xeb/r2sql](https://github.com/0xeb/r2sql) to [radareorg/r2sql](https://github.com/radareorg/r2sql)
   > Radar2 live SQL AI connector for Vibe Reverse Engineering
 
+### [Fare9](https://github.com/Fare9)
+- 🍴 👤 [Fare9](https://github.com/Fare9) Forked [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io) to [Fare9/0avx.github.io](https://github.com/Fare9/0avx.github.io)
+  > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [Jackychen-12/wechat-digest-skill](https://github.com/Jackychen-12/wechat-digest-skill)
   > 微信公众号采集 · 知识库 · 离线 HTML 工作台 — 一个可安装的 Claude 技能
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-07-11 21:44:43 UTC*
+*最后更新于 2026-07-11 22:42:37 UTC*
 *历史记录保存在 `archive` 目录中。*
