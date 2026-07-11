@@ -8,6 +8,13 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
 
+### [SkyD666](https://github.com/SkyD666)
+- 🍴 👤 [SkyD666](https://github.com/SkyD666) Forked [open-ani/mediamp](https://github.com/open-ani/mediamp) to [SkyD666/mediamp](https://github.com/SkyD666/mediamp)
+  > Video / audio player for Compose Multiplatform.
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zayg21-pixel/pdf-pixel](https://github.com/zayg21-pixel/pdf-pixel)
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
   > Concurrency library for C (coroutines)
@@ -24,5 +31,5 @@
 
 
 ---
-*最后更新于 2026-07-11 11:00:55 UTC*
+*最后更新于 2026-07-11 13:10:06 UTC*
 *历史记录保存在 `archive` 目录中。*
