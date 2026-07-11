@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xeb/r2sql](https://github.com/0xeb/r2sql) to [radareorg/r2sql](https://github.com/radareorg/r2sql)
+  > Radar2 live SQL AI connector for Vibe Reverse Engineering
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
+  > 《明日方舟》游戏数据
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -35,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-07-11 14:49:26 UTC*
+*最后更新于 2026-07-11 15:51:55 UTC*
 *历史记录保存在 `archive` 目录中。*
