@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
@@ -31,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-07-11 13:10:06 UTC*
+*最后更新于 2026-07-11 14:49:26 UTC*
 *历史记录保存在 `archive` 目录中。*
