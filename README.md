@@ -8,6 +8,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xeb/r2sql](https://github.com/0xeb/r2sql) to [radareorg/r2sql](https://github.com/radareorg/r2sql)
   > Radar2 live SQL AI connector for Vibe Reverse Engineering
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [Jackychen-12/wechat-digest-skill](https://github.com/Jackychen-12/wechat-digest-skill)
+  > 微信公众号采集 · 知识库 · 离线 HTML 工作台 — 一个可安装的 Claude 技能
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
   > 《明日方舟》游戏数据
@@ -31,6 +35,10 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zayg21-pixel/pdf-pixel](https://github.com/zayg21-pixel/pdf-pixel)
 
+### [affggh](https://github.com/affggh)
+- 🚀 👤 [affggh](https://github.com/affggh) Made [CircleCashTeam/firmware_gree_g0245d](https://github.com/CircleCashTeam/firmware_gree_g0245d) public
+  > Gree G0245D PostmarketOS firmware
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
   > Concurrency library for C (coroutines)
@@ -51,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-07-11 16:53:06 UTC*
+*最后更新于 2026-07-11 17:52:24 UTC*
 *历史记录保存在 `archive` 目录中。*
