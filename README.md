@@ -44,6 +44,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [laolanya123/rmcn-physx](https://github.com/laolanya123/rmcn-physx)
   > 失控进化 PhysX：Unity 2022.3 / PhysX 4.1.2 场景遍历、可见性检测与准心碰撞模型绘制
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [odin-lang/Odin](https://github.com/odin-lang/Odin)
+  > Odin Programming Language
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Nmzik/KytyPS5](https://github.com/Nmzik/KytyPS5)
   > PlayStation 5 emulator for Windows
@@ -72,11 +76,14 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [miegl/PiFmAdv](https://github.com/miegl/PiFmAdv)
   > Advanced Raspberry Pi FM transmitter with RDS encoding
 
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls)
+
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [jvanderberg/markless](https://github.com/jvanderberg/markless)
   > A terminal markdown viewer with image support
 
 
 ---
-*最后更新于 2026-07-12 20:40:19 UTC*
+*最后更新于 2026-07-12 21:44:01 UTC*
 *历史记录保存在 `archive` 目录中。*
