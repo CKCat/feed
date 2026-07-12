@@ -23,6 +23,7 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [TheMuppets/manifests](https://github.com/TheMuppets/manifests) to [moto-mediatek-devs/manifests](https://github.com/moto-mediatek-devs/manifests)
 - 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [LineageOS/lineage_wiki](https://github.com/LineageOS/lineage_wiki) to [moto-mediatek-devs/lineage_wiki](https://github.com/moto-mediatek-devs/lineage_wiki)
+- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [LineageOS/hudson](https://github.com/LineageOS/hudson) to [moto-mediatek-devs/hudson](https://github.com/moto-mediatek-devs/hudson)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [barnhill/barcodelib](https://github.com/barnhill/barcodelib)
@@ -89,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-07-12 22:42:24 UTC*
+*最后更新于 2026-07-12 23:50:07 UTC*
 *历史记录保存在 `archive` 目录中。*
