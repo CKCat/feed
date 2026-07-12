@@ -33,6 +33,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [laolanya123/rmcn-physx](https://github.com/laolanya123/rmcn-physx)
   > 失控进化 PhysX：Unity 2022.3 / PhysX 4.1.2 场景遍历、可见性检测与准心碰撞模型绘制
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Nmzik/KytyPS5](https://github.com/Nmzik/KytyPS5)
+  > PlayStation 5 emulator for Windows
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -49,11 +53,15 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
   > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [miegl/PiFmAdv](https://github.com/miegl/PiFmAdv)
+  > Advanced Raspberry Pi FM transmitter with RDS encoding
+
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [jvanderberg/markless](https://github.com/jvanderberg/markless)
   > A terminal markdown viewer with image support
 
 
 ---
-*最后更新于 2026-07-12 13:15:27 UTC*
+*最后更新于 2026-07-12 14:52:23 UTC*
 *历史记录保存在 `archive` 目录中。*
