@@ -31,6 +31,8 @@
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [datalab-to/marker](https://github.com/datalab-to/marker)
+  > Convert PDF to markdown + JSON quickly with high accuracy
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nix-community/harmonia](https://github.com/nix-community/harmonia)
@@ -76,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-07-12 19:10:26 UTC*
+*最后更新于 2026-07-12 20:40:19 UTC*
 *历史记录保存在 `archive` 目录中。*
