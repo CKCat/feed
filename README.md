@@ -57,6 +57,10 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
   > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [miegl/PiFmAdv](https://github.com/miegl/PiFmAdv)
   > Advanced Raspberry Pi FM transmitter with RDS encoding
@@ -67,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-07-12 15:55:49 UTC*
+*最后更新于 2026-07-12 16:56:33 UTC*
 *历史记录保存在 `archive` 目录中。*
