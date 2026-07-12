@@ -1,71 +1,21 @@
-# 每日 GitHub 动态 (2026-07-11)
+# 每日 GitHub 动态 (2026-07-12)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [0xeb](https://github.com/0xeb)
-- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xeb/r2sql](https://github.com/0xeb/r2sql) to [radareorg/r2sql](https://github.com/radareorg/r2sql)
-  > Radar2 live SQL AI connector for Vibe Reverse Engineering
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [nov1ce-lee/hollowKnightSaveParser](https://github.com/nov1ce-lee/hollowKnightSaveParser) to [LeadroyaL/hollowKnightSaveParser](https://github.com/LeadroyaL/hollowKnightSaveParser)
+  > 解析空洞骑士&丝之歌存档，分析游戏完成度 Analyze the Hollow Knight save file and assess the game's completion level
 
-### [Fare9](https://github.com/Fare9)
-- 🍴 👤 [Fare9](https://github.com/Fare9) Forked [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io) to [Fare9/0avx.github.io](https://github.com/Fare9/0avx.github.io)
-  > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [TheMuppets/manifests](https://github.com/TheMuppets/manifests) to [moto-mediatek-devs/manifests](https://github.com/moto-mediatek-devs/manifests)
 
-### [GANGE666](https://github.com/GANGE666)
-- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [Jackychen-12/wechat-digest-skill](https://github.com/Jackychen-12/wechat-digest-skill)
-  > 微信公众号采集 · 知识库 · 离线 HTML 工作台 — 一个可安装的 Claude 技能
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
-  > 《明日方舟》游戏数据
-
-### [Mq-b](https://github.com/Mq-b)
-- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall)
-  > aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
-
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [usestrix/strix](https://github.com/usestrix/strix)
-  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
-  > Framework for evaluating and improving agents 
-
-### [SkyD666](https://github.com/SkyD666)
-- 🍴 👤 [SkyD666](https://github.com/SkyD666) Forked [open-ani/mediamp](https://github.com/open-ani/mediamp) to [SkyD666/mediamp](https://github.com/SkyD666/mediamp)
-  > Video / audio player for Compose Multiplatform.
-
-### [T5ive](https://github.com/T5ive)
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zayg21-pixel/pdf-pixel](https://github.com/zayg21-pixel/pdf-pixel)
-
-### [affggh](https://github.com/affggh)
-- 🚀 👤 [affggh](https://github.com/affggh) Made [CircleCashTeam/firmware_gree_g0245d](https://github.com/CircleCashTeam/firmware_gree_g0245d) public
-  > Gree G0245D PostmarketOS firmware
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Mic92/nix-update](https://github.com/Mic92/nix-update)
-  > Swiss-knife for updating nix packages.
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
-  > Concurrency library for C (coroutines)
-
-### [mcdulltii](https://github.com/mcdulltii)
-- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-  > Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
-  > Local-LLM-first agentic coding assistant, with everything you need out of the box.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [whatchamacallem/libhatchet](https://github.com/whatchamacallem/libhatchet)
-  > libhatchet is a fast-compiling, lightweight, bespoke C17/C++23 alternative to the C++ standard libra...
-
-### [nzcv](https://github.com/nzcv)
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo)
-  > CrystalDiskInfo
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [jvanderberg/markless](https://github.com/jvanderberg/markless)
+  > A terminal markdown viewer with image support
 
 
 ---
-*最后更新于 2026-07-11 23:51:18 UTC*
+*最后更新于 2026-07-12 02:25:55 UTC*
 *历史记录保存在 `archive` 目录中。*
