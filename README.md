@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
+  > Beautiful, AI-native markdown editor and LLM wiki
+
 ### [LeadroyaL](https://github.com/LeadroyaL)
 - 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [nov1ce-lee/hollowKnightSaveParser](https://github.com/nov1ce-lee/hollowKnightSaveParser) to [LeadroyaL/hollowKnightSaveParser](https://github.com/LeadroyaL/hollowKnightSaveParser)
   > 解析空洞骑士&丝之歌存档，分析游戏完成度 Analyze the Hollow Knight save file and assess the game's completion level
@@ -28,6 +32,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [danveloper/flash-pi-dsv4](https://github.com/danveloper/flash-pi-dsv4)
+  > DeepSeek-V4-Flash on a Raspberry Pi 5 (8GB)
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)
@@ -43,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-07-12 10:23:18 UTC*
+*最后更新于 2026-07-12 11:55:48 UTC*
 *历史记录保存在 `archive` 目录中。*
