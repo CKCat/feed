@@ -11,11 +11,19 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [TheMuppets/manifests](https://github.com/TheMuppets/manifests) to [moto-mediatek-devs/manifests](https://github.com/moto-mediatek-devs/manifests)
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
+  > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
+
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [jvanderberg/markless](https://github.com/jvanderberg/markless)
   > A terminal markdown viewer with image support
 
 
 ---
-*最后更新于 2026-07-12 02:25:55 UTC*
+*最后更新于 2026-07-12 05:53:29 UTC*
 *历史记录保存在 `archive` 目录中。*
