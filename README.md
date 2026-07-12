@@ -44,6 +44,10 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [laolanya123/rmcn-physx](https://github.com/laolanya123/rmcn-physx)
   > 失控进化 PhysX：Unity 2022.3 / PhysX 4.1.2 场景遍历、可见性检测与准心碰撞模型绘制
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [hasenj/go-shirei](https://github.com/hasenj/go-shirei)
+  > Go based GUI framework: practical, immediate mode, flexbox model
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [odin-lang/Odin](https://github.com/odin-lang/Odin)
   > Odin Programming Language
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-07-12 21:44:01 UTC*
+*最后更新于 2026-07-12 22:42:24 UTC*
 *历史记录保存在 `archive` 目录中。*
