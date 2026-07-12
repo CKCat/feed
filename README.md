@@ -12,6 +12,10 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
   > Beautiful, AI-native markdown editor and LLM wiki
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [PacktPublishing/Linux-Kernel-Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming)
+  > Linux Kernel Programming, published by Packt
+
 ### [LeadroyaL](https://github.com/LeadroyaL)
 - 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [nov1ce-lee/hollowKnightSaveParser](https://github.com/nov1ce-lee/hollowKnightSaveParser) to [LeadroyaL/hollowKnightSaveParser](https://github.com/LeadroyaL/hollowKnightSaveParser)
   > 解析空洞骑士&丝之歌存档，分析游戏完成度 Analyze the Hollow Knight save file and assess the game's completion level
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-07-12 14:52:23 UTC*
+*最后更新于 2026-07-12 15:55:49 UTC*
 *历史记录保存在 `archive` 目录中。*
