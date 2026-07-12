@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [chickendrop89/fastboot-oem-extractor](https://github.com/chickendrop89/fastboot-oem-extractor)
+  > Extract hidden "fastboot oem" commands from firmware blobs
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
   > Beautiful, AI-native markdown editor and LLM wiki
@@ -34,6 +38,8 @@
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [danveloper/flash-pi-dsv4](https://github.com/danveloper/flash-pi-dsv4)
   > DeepSeek-V4-Flash on a Raspberry Pi 5 (8GB)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
+  > 🤖 WebMCP
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)
@@ -49,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-07-12 11:55:48 UTC*
+*最后更新于 2026-07-12 13:15:27 UTC*
 *历史记录保存在 `archive` 目录中。*
