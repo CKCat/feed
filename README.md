@@ -18,6 +18,12 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nix-community/harmonia](https://github.com/nix-community/harmonia)
   > Nix binary cache implemented in rust (maintainer: @Mic92)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [laolanya123/rmcn-physx](https://github.com/laolanya123/rmcn-physx)
+  > 失控进化 PhysX：Unity 2022.3 / PhysX 4.1.2 场景遍历、可见性检测与准心碰撞模型绘制
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -37,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-07-12 08:10:47 UTC*
+*最后更新于 2026-07-12 10:23:18 UTC*
 *历史记录保存在 `archive` 目录中。*
