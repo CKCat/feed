@@ -44,6 +44,10 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [kingwrcy/moments](https://github.com/kingwrcy/moments)
   > 极简朋友圈
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [melqtx/tork](https://github.com/melqtx/tork)
   > cli for searching and downloading torrents
@@ -67,6 +71,8 @@
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
@@ -99,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-07-13 20:11:00 UTC*
+*最后更新于 2026-07-13 21:52:46 UTC*
 *历史记录保存在 `archive` 目录中。*
