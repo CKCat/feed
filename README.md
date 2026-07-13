@@ -8,6 +8,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/monokaiju-theme](https://github.com/0xdea/monokaiju-theme)
   > A Zed theme inspired by Monokai Pro (CE).
 
+### [20000s](https://github.com/20000s)
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
@@ -15,6 +19,12 @@
 ### [AeonLucid](https://github.com/AeonLucid)
 - 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
   > An experimental PlayStation 5 emulator project.
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+  > An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Mrack/TInjector](https://github.com/Mrack/TInjector)
@@ -31,6 +41,8 @@
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
   > Port of OpenAI's Whisper model in C/C++
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
@@ -40,7 +52,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [kenzok8/openwrt-clashoo](https://github.com/kenzok8/openwrt-clashoo)
   > Simple, stable, out-of-box LuCI proxy app based on mihomo sing-box
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
+  > No TrickyStore on Canoe
+
 
 ---
-*最后更新于 2026-07-13 06:12:27 UTC*
+*最后更新于 2026-07-13 10:21:13 UTC*
 *历史记录保存在 `archive` 目录中。*
