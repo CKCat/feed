@@ -36,6 +36,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Mrack/TInjector](https://github.com/Mrack/TInjector)
   > 劫持Zygote在App启动前注入so
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [giannisanni/neutronstar](https://github.com/giannisanni/neutronstar)
+  > Giant MoE models on a single consumer GPU by streaming experts from SSD. CUDA fork of antirez/ds4: r...
+
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [kingwrcy/moments](https://github.com/kingwrcy/moments)
   > 极简朋友圈
@@ -61,6 +65,8 @@
   > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
@@ -93,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-07-13 16:28:26 UTC*
+*最后更新于 2026-07-13 18:40:50 UTC*
 *历史记录保存在 `archive` 目录中。*
