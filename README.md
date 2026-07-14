@@ -21,6 +21,12 @@
   > Local-first, transparent threat hunting for the logs you already have: Zeek, Pi-hole, syslog, CloudT...
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Spotui/Spotui](https://github.com/Spotui/Spotui)
+  > Spotify clone with deep integration 
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -29,6 +35,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
   > qbdi based android arm64 trace tool
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP)
+  > MCP extension for dnSpy.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
@@ -52,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-07-14 11:26:48 UTC*
+*最后更新于 2026-07-14 13:27:02 UTC*
 *历史记录保存在 `archive` 目录中。*
