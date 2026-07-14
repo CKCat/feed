@@ -54,6 +54,10 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
   > DNS-Blocklists: For a better internet - keep the internet clean!
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler)
+  > Firefox Profiler — Web app for Firefox performance analysis
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [wess/guise](https://github.com/wess/guise)
   > Mantine inspired components for Zed's GPUI library.
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-07-14 13:27:02 UTC*
+*最后更新于 2026-07-14 15:20:56 UTC*
 *历史记录保存在 `archive` 目录中。*
