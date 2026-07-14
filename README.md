@@ -8,6 +8,10 @@
 - 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [w4z3d/cinder](https://github.com/w4z3d/cinder)
   > Cinder is a WIP C compiler
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [shark4ce/Ghidra-SandBlaster-Plugin](https://github.com/shark4ce/Ghidra-SandBlaster-Plugin)
+  >  The SandBlaster Plugin is a sophisticated extension for Ghidra that seamlessly integrates the funct...
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
@@ -38,6 +42,9 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 
+### [can1357](https://github.com/can1357)
+- 🌟 👤 [can1357](https://github.com/can1357) Starred [watzon/semantouch](https://github.com/watzon/semantouch)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -53,7 +60,7 @@
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
-  > A CTF platform for all
+  > rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP)
@@ -89,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-07-14 17:10:55 UTC*
+*最后更新于 2026-07-14 19:13:28 UTC*
 *历史记录保存在 `archive` 目录中。*
