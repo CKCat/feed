@@ -4,9 +4,19 @@
 
 ## 今日动态
 
+### [0xSh4dy](https://github.com/0xSh4dy)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [w4z3d/cinder](https://github.com/w4z3d/cinder)
+  > Cinder is a WIP C compiler
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+
+### [MlgmXyysd](https://github.com/MlgmXyysd)
+- 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [ginsongsong/Intel_SOC_VCA_kernel](https://github.com/ginsongsong/Intel_SOC_VCA_kernel)
+- 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [chainsx/build](https://github.com/chainsx/build)
+  > Armbian Linux Build Framework
+- 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [chainsx/intel-vca2-dkms](https://github.com/chainsx/intel-vca2-dkms)
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [apple/container](https://github.com/apple/container)
@@ -31,10 +41,19 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech)
+  > 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) to [crazyguitar/InfraTech](https://github.com/crazyguitar/InfraTech)
+  > 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA-NeMo/labs-molt](https://github.com/NVIDIA-NeMo/labs-molt)
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
   > qbdi based android arm64 trace tool
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
+  > A CTF platform for all
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP)
@@ -45,6 +64,10 @@
   > An experimental PlayStation 5 emulator project.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm)
   > muvm - run programs from your system in a microVM
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
@@ -66,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-07-14 15:20:56 UTC*
+*最后更新于 2026-07-14 17:10:55 UTC*
 *历史记录保存在 `archive` 目录中。*
