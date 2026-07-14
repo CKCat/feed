@@ -62,6 +62,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
   > rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ChapzoMods/NinjaDBG](https://github.com/ChapzoMods/NinjaDBG)
+  > NinjaDBG v1.1.4 - Stealth-Aware Native Debugger | x64dbg-like features (modules, handles, dump, find...
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP)
   > MCP extension for dnSpy.
@@ -75,6 +79,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [videlalvaro/leet-llm](https://github.com/videlalvaro/leet-llm)
+  > A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon,...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
@@ -96,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-07-14 21:57:23 UTC*
+*最后更新于 2026-07-14 22:57:53 UTC*
 *历史记录保存在 `archive` 目录中。*
