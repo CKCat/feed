@@ -73,6 +73,10 @@
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
   > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xp987/symbridge](https://github.com/xp987/symbridge) to [mrexodia/symbridge](https://github.com/mrexodia/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thomasunise/visionbridge](https://github.com/thomasunise/visionbridge)
+  > Give text-only LLMs vision. A tiny OpenAI-compatible proxy that lets reasoning models (DeepSeek, Qwe...
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
@@ -105,5 +109,5 @@
 
 
 ---
-*最后更新于 2026-07-13 22:52:43 UTC*
+*最后更新于 2026-07-13 23:51:07 UTC*
 *历史记录保存在 `archive` 目录中。*
