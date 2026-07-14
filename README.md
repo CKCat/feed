@@ -36,6 +36,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm)
   > muvm - run programs from your system in a microVM
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
+  > Local development against a remote Kubernetes or OpenShift cluster
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
   > DNS-Blocklists: For a better internet - keep the internet clean!
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-07-14 07:56:36 UTC*
+*最后更新于 2026-07-14 09:58:02 UTC*
 *历史记录保存在 `archive` 目录中。*
