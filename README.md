@@ -12,6 +12,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
+  > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
+
 ### [evilpan](https://github.com/evilpan)
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [handmux/handmux](https://github.com/handmux/handmux)
   > A mobile vibe-coding cockpit — built on tmux: drive your live session, Claude Code / Codex — anythin...
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-07-15 08:01:48 UTC*
+*最后更新于 2026-07-15 10:45:19 UTC*
 *历史记录保存在 `archive` 目录中。*
