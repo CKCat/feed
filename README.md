@@ -30,7 +30,7 @@
 
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 140 vulnerabilities in Samsung preinstalled Android apps
+  > 176 vulnerabilities in Samsung preinstalled Android apps
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien)
@@ -43,6 +43,10 @@
 ### [evilpan](https://github.com/evilpan)
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [handmux/handmux](https://github.com/handmux/handmux)
   > A mobile vibe-coding cockpit — built on tmux: drive your live session, Claude Code / Codex — anythin...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
@@ -58,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-07-15 18:02:34 UTC*
+*最后更新于 2026-07-15 20:04:54 UTC*
 *历史记录保存在 `archive` 目录中。*
