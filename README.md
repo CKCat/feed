@@ -20,6 +20,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains)
   > 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast ...
 
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
+  > 140 vulnerabilities in Samsung preinstalled Android apps
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
   > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
@@ -28,11 +32,15 @@
 - 🌟 👤 [evilpan](https://github.com/evilpan) Starred [handmux/handmux](https://github.com/handmux/handmux)
   > A mobile vibe-coding cockpit — built on tmux: drive your live session, Claude Code / Codex — anythin...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
+  > Ghidra Oreans DeVirt
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
 
 
 ---
-*最后更新于 2026-07-15 12:11:46 UTC*
+*最后更新于 2026-07-15 14:45:26 UTC*
 *历史记录保存在 `archive` 目录中。*
