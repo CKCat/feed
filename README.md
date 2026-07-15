@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go)
+  > an android OTA payload dumper written in Go
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > The API to search, scrape, and interact with the web at scale. 🔥
@@ -11,6 +15,10 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains)
+  > 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast ...
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
@@ -26,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-07-15 10:45:19 UTC*
+*最后更新于 2026-07-15 12:11:46 UTC*
 *历史记录保存在 `archive` 目录中。*
