@@ -28,11 +28,23 @@
 - 🍴 👤 [locus-x64](https://github.com/locus-x64) Forked [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) to [locus-x64/protobuf](https://github.com/locus-x64/protobuf)
   > Protocol Buffers - Google's data interchange format
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
+  > 🦊 Firefox in WebAssembly
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) to [sekaiacg/CVE-2026-43499-popsicle](https://github.com/sekaiacg/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [femboyisp/yip](https://github.com/femboyisp/yip)
   > WIP: 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-cert...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+  > Algorithm powering the For You feed on X
 
 
 ---
-*最后更新于 2026-07-16 08:06:22 UTC*
+*最后更新于 2026-07-16 10:55:15 UTC*
 *历史记录保存在 `archive` 目录中。*
