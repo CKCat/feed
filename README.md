@@ -24,16 +24,24 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [callstack/agent-device](https://github.com/callstack/agent-device)
   > CLI to control iOS and Android devices for AI agents
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [DavidObando/gsharp](https://github.com/DavidObando/gsharp)
+  > GSharp Programming Language
+
 ### [locus-x64](https://github.com/locus-x64)
 - 🍴 👤 [locus-x64](https://github.com/locus-x64) Forked [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) to [locus-x64/protobuf](https://github.com/locus-x64/protobuf)
   > Protocol Buffers - Google's data interchange format
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
-  > 🦊 Firefox in WebAssembly
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol)
+  > Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a sing...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) to [sekaiacg/CVE-2026-43499-popsicle](https://github.com/sekaiacg/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/CVE-2026-43499-popsicle](https://github.com/sekaiacg/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 
 ### [zu1k](https://github.com/zu1k)
@@ -43,8 +51,10 @@
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
   > Algorithm powering the For You feed on X
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
+  > Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 
 
 ---
-*最后更新于 2026-07-16 10:55:15 UTC*
+*最后更新于 2026-07-16 12:18:08 UTC*
 *历史记录保存在 `archive` 目录中。*
