@@ -57,6 +57,12 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol)
   > Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a sing...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MisterY52/apex_dma_kvm_pub](https://github.com/MisterY52/apex_dma_kvm_pub)
+  > Apex Legends QEMU/KVM hack
+
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)
@@ -82,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-07-16 16:17:56 UTC*
+*最后更新于 2026-07-16 18:02:46 UTC*
 *历史记录保存在 `archive` 目录中。*
