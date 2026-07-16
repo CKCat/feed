@@ -14,15 +14,35 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill)
   > MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
 
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
+  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [asmjmp0/appdbg](https://github.com/asmjmp0/appdbg)
   > make it possible to run method of android-app with original Java Virtual Machine.
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [dartraiden/NVIDIA-patcher](https://github.com/dartraiden/NVIDIA-patcher)
+  > Adds 3D acceleration support for P106-090 / P106-100 / P104-090 /  P104-100 / P102-100 / CMP 30HX / ...
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [callstack/agent-device](https://github.com/callstack/agent-device)
   > CLI to control iOS and Android devices for AI agents
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
+  > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [WhitzardAgent/AgentGuard](https://github.com/WhitzardAgent/AgentGuard)
+  > AgentGuard: Zero-Trust Security Foundation for AI Agents
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openclaw/shellbench](https://github.com/openclaw/shellbench)
+  > The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trac...
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+  > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
@@ -37,6 +57,12 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol)
   > Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a sing...
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)
+  > The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [terrastruct/d2](https://github.com/terrastruct/d2)
+  > D2 is a modern diagram scripting language that turns text to diagrams.
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) to [sekaiacg/CVE-2026-43499-popsicle](https://github.com/sekaiacg/CVE-2026-43499-popsicle)
@@ -56,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-07-16 12:18:08 UTC*
+*最后更新于 2026-07-16 14:57:31 UTC*
 *历史记录保存在 `archive` 目录中。*
