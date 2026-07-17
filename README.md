@@ -16,6 +16,14 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
   > 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
+  > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)
   > Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
@@ -43,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-07-17 08:03:04 UTC*
+*最后更新于 2026-07-17 10:43:06 UTC*
 *历史记录保存在 `archive` 目录中。*
