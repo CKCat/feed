@@ -16,6 +16,16 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
   > 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
+### [bmax121](https://github.com/bmax121)
+- 🌟 👤 [bmax121](https://github.com/bmax121) Starred [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)
+  > Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)
+  > More relighting!
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AcademySoftwareFoundation/OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)
+  > A color management framework for visual effects and animation.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -33,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-07-17 05:38:27 UTC*
+*最后更新于 2026-07-17 08:03:04 UTC*
 *历史记录保存在 `archive` 目录中。*
