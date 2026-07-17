@@ -52,6 +52,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [DavidObando/gsharp](https://github.com/DavidObando/gsharp)
   > GSharp Programming Language
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+  > An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RA...
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [eventphone/guru3](https://github.com/eventphone/guru3)
   > Generic User Registration Utility v3
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-07-16 21:11:09 UTC*
+*最后更新于 2026-07-16 23:55:15 UTC*
 *历史记录保存在 `archive` 目录中。*
