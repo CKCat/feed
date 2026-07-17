@@ -23,6 +23,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [h2o/picotls](https://github.com/h2o/picotls)
+  > TLS 1.3 implementation in C (master supports RFC8446 as well as draft-26, -27, -28)
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
@@ -37,6 +39,8 @@
   > 176 vulnerabilities in Samsung preinstalled Android apps
 - 🍴 👤 [cxxsheng](https://github.com/cxxsheng) Forked [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities) to [cxxsheng/Samsung_Vulnerabilities](https://github.com/cxxsheng/Samsung_Vulnerabilities)
   > 176 vulnerabilities in Samsung preinstalled Android apps
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [google/bindiff](https://github.com/google/bindiff)
+  > Quickly find differences and similarities in disassembled code
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-07-17 16:11:22 UTC*
+*最后更新于 2026-07-17 18:02:05 UTC*
 *历史记录保存在 `archive` 目录中。*
