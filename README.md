@@ -30,9 +30,25 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
   > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mudler/depth-anything.cpp](https://github.com/mudler/depth-anything.cpp)
+  > A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)
+  > Sandbox any AI agent in seconds - zero setup, zero latency.
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)
   > Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+  > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) to [crazyguitar/ai-agent-book](https://github.com/crazyguitar/ai-agent-book)
+  > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
@@ -81,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-07-17 20:02:23 UTC*
+*最后更新于 2026-07-17 21:49:03 UTC*
 *历史记录保存在 `archive` 目录中。*
