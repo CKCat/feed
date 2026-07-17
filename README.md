@@ -32,6 +32,12 @@
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)
   > Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
 
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
+  > 176 vulnerabilities in Samsung preinstalled Android apps
+- 🍴 👤 [cxxsheng](https://github.com/cxxsheng) Forked [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities) to [cxxsheng/Samsung_Vulnerabilities](https://github.com/cxxsheng/Samsung_Vulnerabilities)
+  > 176 vulnerabilities in Samsung preinstalled Android apps
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)
   > More relighting!
@@ -46,6 +52,12 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dxiaoqi/TRAE-Skin-Studio](https://github.com/dxiaoqi/TRAE-Skin-Studio)
   > TRAE Skin Studio Trae Work换肤小助手
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)
+  > CVE-2026-43499 PoC
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge)
+  > WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi att...
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [iniwex5/vohive-release](https://github.com/iniwex5/vohive-release)
 
@@ -55,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-07-17 12:05:29 UTC*
+*最后更新于 2026-07-17 14:39:55 UTC*
 *历史记录保存在 `archive` 目录中。*
