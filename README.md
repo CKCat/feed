@@ -48,6 +48,16 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RenNagasaki/Echokraut](https://github.com/RenNagasaki/Echokraut)
+  > A TTS Dalamud Plugin that breaks the silence! For self hosted TTS Services.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sebane1/RoleplayingVoiceDalamud](https://github.com/Sebane1/RoleplayingVoiceDalamud)
+  > Spoken in game voices, enhanced mod management, Twitch integration, and more!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MinhakaDev/FFXIV-TTS](https://github.com/MinhakaDev/FFXIV-TTS)
+  > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
+  > FFXIV TTS Plugin
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dxiaoqi/TRAE-Skin-Studio](https://github.com/dxiaoqi/TRAE-Skin-Studio)
   > TRAE Skin Studio Trae Work换肤小助手
@@ -67,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-07-17 14:39:55 UTC*
+*最后更新于 2026-07-17 16:11:22 UTC*
 *历史记录保存在 `archive` 目录中。*
