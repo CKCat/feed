@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [google/bindiff](https://github.com/google/bindiff)
+  > Quickly find differences and similarities in disassembled code
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🍴 👤 [ErodedElk](https://github.com/ErodedElk) Forked [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz) to [ErodedElk/stackplz](https://github.com/ErodedElk/stackplz)
   > 基于eBPF的堆栈追踪工具
@@ -51,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-07-17 10:43:06 UTC*
+*最后更新于 2026-07-17 12:05:29 UTC*
 *历史记录保存在 `archive` 目录中。*
