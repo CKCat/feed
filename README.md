@@ -77,6 +77,8 @@
   > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
   > FFXIV TTS Plugin
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
+  > A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dxiaoqi/TRAE-Skin-Studio](https://github.com/dxiaoqi/TRAE-Skin-Studio)
@@ -97,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-07-17 21:49:03 UTC*
+*最后更新于 2026-07-17 22:44:44 UTC*
 *历史记录保存在 `archive` 目录中。*
