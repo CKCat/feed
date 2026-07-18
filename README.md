@@ -7,6 +7,10 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/tmux](https://github.com/hackerschoice/tmux)
 
+### [BryanGIG](https://github.com/BryanGIG)
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
+  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
+
 ### [Ch0pin](https://github.com/Ch0pin)
 - 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
@@ -20,6 +24,10 @@
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo)
+
+### [pgarba](https://github.com/pgarba)
+- 🌟 👤 [pgarba](https://github.com/pgarba) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
+  > Ray-traced rendering for the Raze engine, and, specifically, Duke 3D. Forked from the Build engine p...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [denoland/dnt](https://github.com/denoland/dnt)
@@ -41,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-07-18 14:47:51 UTC*
+*最后更新于 2026-07-18 15:52:28 UTC*
 *历史记录保存在 `archive` 目录中。*
