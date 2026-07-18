@@ -19,9 +19,6 @@
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [Osmantic/ODS](https://github.com/Osmantic/ODS) to [bkerler/ODS](https://github.com/bkerler/ODS)
   > Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows...
 
-### [can1357](https://github.com/can1357)
-- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
-
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo)
 
@@ -57,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-07-18 18:57:49 UTC*
+*最后更新于 2026-07-18 20:04:11 UTC*
 *历史记录保存在 `archive` 目录中。*
