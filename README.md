@@ -6,6 +6,8 @@
 
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/tmux](https://github.com/hackerschoice/tmux)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cross-rs/cross](https://github.com/cross-rs/cross)
+  > “Zero setup” cross compilation and “cross testing” of Rust crates
 
 ### [BryanGIG](https://github.com/BryanGIG)
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
@@ -48,6 +50,9 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
   > Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server...
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [wuhx](https://github.com/wuhx)
 - 🍴 👤 [wuhx](https://github.com/wuhx) Forked [microsoft/vscode](https://github.com/microsoft/vscode) to [wuhx/vscode](https://github.com/wuhx/vscode)
   > Visual Studio Code
@@ -58,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-07-18 22:43:42 UTC*
+*最后更新于 2026-07-18 23:50:24 UTC*
 *历史记录保存在 `archive` 目录中。*
