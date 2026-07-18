@@ -14,6 +14,12 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
   > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [denoland/dnt](https://github.com/denoland/dnt)
+  > Deno to npm package build tool.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
+  > Toolkit for building native desktop apps
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
   > Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server...
@@ -24,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-07-18 07:42:27 UTC*
+*最后更新于 2026-07-18 09:20:18 UTC*
 *历史记录保存在 `archive` 目录中。*
