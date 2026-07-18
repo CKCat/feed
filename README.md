@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [can1357](https://github.com/can1357)
+- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo)
 
@@ -11,7 +14,15 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
   > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+  > Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server...
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) to [yuchuangu85/profiler](https://github.com/yuchuangu85/profiler)
+  > Firefox Profiler — Web app for Firefox performance analysis
+
 
 ---
-*最后更新于 2026-07-18 02:05:52 UTC*
+*最后更新于 2026-07-18 05:21:07 UTC*
 *历史记录保存在 `archive` 目录中。*
