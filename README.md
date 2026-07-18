@@ -25,6 +25,10 @@
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [libLISA/Sem86](https://github.com/libLISA/Sem86)
+  > A full-system emulator without hard-coded semantics
+
 ### [pgarba](https://github.com/pgarba)
 - 🌟 👤 [pgarba](https://github.com/pgarba) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
   > Ray-traced rendering for the Raze engine, and, specifically, Duke 3D. Forked from the Build engine p...
@@ -34,6 +38,10 @@
   > Deno to npm package build tool.
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
   > Toolkit for building native desktop apps
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
+  > Open Source Identity and Access Management For Modern Applications and Services
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
@@ -49,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-07-18 15:52:28 UTC*
+*最后更新于 2026-07-18 16:53:20 UTC*
 *历史记录保存在 `archive` 目录中。*
