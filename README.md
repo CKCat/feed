@@ -15,6 +15,10 @@
 - 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) to [NyaMisty/llamacpp-rocmfpx-ci](https://github.com/NyaMisty/llamacpp-rocmfpx-ci)
+  > Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
+
 ### [bkerler](https://github.com/bkerler)
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [Osmantic/ODS](https://github.com/Osmantic/ODS) to [bkerler/ODS](https://github.com/bkerler/ODS)
   > Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows...
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-07-18 21:45:55 UTC*
+*最后更新于 2026-07-18 22:43:42 UTC*
 *历史记录保存在 `archive` 目录中。*
