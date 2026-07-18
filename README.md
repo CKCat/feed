@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/tmux](https://github.com/hackerschoice/tmux)
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
@@ -30,5 +33,5 @@
 
 
 ---
-*最后更新于 2026-07-18 09:20:18 UTC*
+*最后更新于 2026-07-18 10:59:01 UTC*
 *历史记录保存在 `archive` 目录中。*
