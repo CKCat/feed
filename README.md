@@ -11,6 +11,10 @@
 - 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
 
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [Osmantic/ODS](https://github.com/Osmantic/ODS) to [bkerler/ODS](https://github.com/bkerler/ODS)
+  > Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows...
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
@@ -27,11 +31,15 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
   > Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server...
 
+### [wuhx](https://github.com/wuhx)
+- 🍴 👤 [wuhx](https://github.com/wuhx) Forked [microsoft/vscode](https://github.com/microsoft/vscode) to [wuhx/vscode](https://github.com/wuhx/vscode)
+  > Visual Studio Code
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) to [yuchuangu85/profiler](https://github.com/yuchuangu85/profiler)
   > Firefox Profiler — Web app for Firefox performance analysis
 
 
 ---
-*最后更新于 2026-07-18 13:17:51 UTC*
+*最后更新于 2026-07-18 14:47:51 UTC*
 *历史记录保存在 `archive` 目录中。*
