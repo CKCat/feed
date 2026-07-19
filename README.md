@@ -12,13 +12,23 @@
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
   > Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [Binary-Gecko/perf_PoC](https://github.com/Binary-Gecko/perf_PoC)
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xljiulang/PublishAotClang](https://github.com/xljiulang/PublishAotClang)
   > 用于在 Windows 上辅助 PublishAot 交叉编译到多个 linux RID 的 Nuget 包
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [mitsuhiko/procspawn](https://github.com/mitsuhiko/procspawn)
+  > like thread::spawn but for processes
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [aelyo-softworks/AOTrino](https://github.com/aelyo-softworks/AOTrino)
   > Electron-like desktop apps on .NET AOT + WebView2, single-exe, Windows x64, front-end-framework-agno...
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [schwartz1375/genai-security-training](https://github.com/schwartz1375/genai-security-training)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -31,12 +41,26 @@
   > A powerful and user-friendly binary analysis platform!
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Air14/HyperHide](https://github.com/Air14/HyperHide)
   > Hypervisor based anti anti debug plugin for x64dbg
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [googleprojectzero/TinyInst](https://github.com/googleprojectzero/TinyInst)
+  > A lightweight dynamic instrumentation library
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lifting-bits/rellic](https://github.com/lifting-bits/rellic)
+  > Rellic produces goto-free C output from LLVM bitcode
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eurecom-s3/symcc](https://github.com/eurecom-s3/symcc)
+  > SymCC: efficient compiler-based symbolic execution
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JonathanSalwan/VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization)
+  > Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symb...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/polytracker](https://github.com/trailofbits/polytracker)
+  > An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [RUB-SysSec/syntia](https://github.com/RUB-SysSec/syntia)
+  > Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt4-doc-mcp-server](https://github.com/mrexodia/qt4-doc-mcp-server)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt-doc-mcp](https://github.com/mrexodia/qt-doc-mcp)
   > Offline MCP Server for Qt 4.8.4 documentation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
+  > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp)
@@ -79,8 +103,12 @@
   > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, an...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [emdash-cms/emdash](https://github.com/emdash-cms/emdash)
   > EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden)
+  > Bitwarden-compatible server running on Cloudflare Workers
+- 🍴 👤 [zu1k](https://github.com/zu1k) Forked [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) to [zu1k/nodewarden](https://github.com/zu1k/nodewarden)
+  > Bitwarden-compatible server running on Cloudflare Workers
 
 
 ---
-*最后更新于 2026-07-19 13:09:25 UTC*
+*最后更新于 2026-07-19 14:51:20 UTC*
 *历史记录保存在 `archive` 目录中。*
