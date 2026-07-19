@@ -29,6 +29,8 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [aelyo-softworks/AOTrino](https://github.com/aelyo-softworks/AOTrino)
   > Electron-like desktop apps on .NET AOT + WebView2, single-exe, Windows x64, front-end-framework-agno...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Litenova-Solutions/Fuse](https://github.com/Litenova-Solutions/Fuse)
+  > MCP server for .NET: typecheck AI agent edits against the compiler, resolve DI and route wiring from...
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [schwartz1375/genai-security-training](https://github.com/schwartz1375/genai-security-training)
@@ -64,6 +66,20 @@
   > A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
   > Run iOS apps without actually installing them!
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1)
+  > A bootloader and experimentation playground for Apple Silicon
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gamozolabs/applepie](https://github.com/gamozolabs/applepie)
+  > A hypervisor for fuzzing built with WHVP and Bochs
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [obhq/obliteration](https://github.com/obhq/obliteration)
+  > Experimental free and open-source PlayStation 4 kernel
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [idalib-rs/idalib](https://github.com/idalib-rs/idalib)
+  > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [chztbby/RebirthGuard](https://github.com/chztbby/RebirthGuard)
+  > Anti-cheat library for Windows C++
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [philzook58/awesome-egraphs](https://github.com/philzook58/awesome-egraphs)
+  > An awesome list of e-graph resources
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
+  > CUDA on non-NVIDIA GPUs
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -125,5 +141,5 @@
 
 
 ---
-*最后更新于 2026-07-19 19:01:02 UTC*
+*最后更新于 2026-07-19 20:41:20 UTC*
 *历史记录保存在 `archive` 目录中。*
