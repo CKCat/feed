@@ -20,11 +20,19 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
   > The world's fastest apk (android)/java open source decompiler
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp)
   > ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integrati...
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [vercel-labs/native](https://github.com/vercel-labs/native) to [phodal/native](https://github.com/phodal/native)
   > Toolkit for building native desktop apps
+
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -44,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-07-19 08:10:03 UTC*
+*最后更新于 2026-07-19 10:23:42 UTC*
 *历史记录保存在 `archive` 目录中。*
