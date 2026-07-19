@@ -58,6 +58,10 @@
   > Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the ...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [toor-de-force/Ghidra-to-LLVM](https://github.com/toor-de-force/Ghidra-to-LLVM)
   > An binary-to-LLVM IR lifter that leverages Ghidra's IR and analysis
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
+  > Sandboxie Plus & Classic
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [shogunlab/awesome-hyper-v-exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
+  > A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -117,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-07-19 16:54:00 UTC*
+*最后更新于 2026-07-19 17:55:29 UTC*
 *历史记录保存在 `archive` 目录中。*
