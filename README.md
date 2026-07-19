@@ -62,6 +62,8 @@
   > Sandboxie Plus & Classic
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [shogunlab/awesome-hyper-v-exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
   > A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+  > Run iOS apps without actually installing them!
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -70,6 +72,8 @@
   > Offline MCP Server for Qt 4.8.4 documentation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
   > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp)
@@ -121,5 +125,5 @@
 
 
 ---
-*最后更新于 2026-07-19 17:55:29 UTC*
+*最后更新于 2026-07-19 19:01:02 UTC*
 *历史记录保存在 `archive` 目录中。*
