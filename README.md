@@ -23,6 +23,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp)
   > ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integrati...
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [vercel-labs/native](https://github.com/vercel-labs/native) to [phodal/native](https://github.com/phodal/native)
+  > Toolkit for building native desktop apps
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -42,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-07-19 05:47:39 UTC*
+*最后更新于 2026-07-19 08:10:03 UTC*
 *历史记录保存在 `archive` 目录中。*
