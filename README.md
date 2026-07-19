@@ -1,67 +1,36 @@
-# 每日 GitHub 动态 (2026-07-18)
+# 每日 GitHub 动态 (2026-07-19)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [0xdea](https://github.com/0xdea)
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/tmux](https://github.com/hackerschoice/tmux)
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cross-rs/cross](https://github.com/cross-rs/cross)
-  > “Zero setup” cross compilation and “cross testing” of Rust crates
-
 ### [BryanGIG](https://github.com/BryanGIG)
-- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
-  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
+  > Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 
-### [Ch0pin](https://github.com/Ch0pin)
-- 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
-  > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xljiulang/PublishAotClang](https://github.com/xljiulang/PublishAotClang)
+  > 用于在 Windows 上辅助 PublishAot 交叉编译到多个 linux RID 的 Nuget 包
 
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) to [NyaMisty/llamacpp-rocmfpx-ci](https://github.com/NyaMisty/llamacpp-rocmfpx-ci)
-  > Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
-
-### [bkerler](https://github.com/bkerler)
-- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [Osmantic/ODS](https://github.com/Osmantic/ODS) to [bkerler/ODS](https://github.com/bkerler/ODS)
-  > Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows...
-
-### [mcdulltii](https://github.com/mcdulltii)
-- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo)
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [libLISA/Sem86](https://github.com/libLISA/Sem86)
-  > A full-system emulator without hard-coded semantics
-
-### [pgarba](https://github.com/pgarba)
-- 🌟 👤 [pgarba](https://github.com/pgarba) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
-  > Ray-traced rendering for the Raze engine, and, specifically, Duke 3D. Forked from the Build engine p...
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
 ### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [denoland/dnt](https://github.com/denoland/dnt)
-  > Deno to npm package build tool.
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
-  > Toolkit for building native desktop apps
-
-### [rand-tech](https://github.com/rand-tech)
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
-  > Open Source Identity and Access Management For Modern Applications and Services
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp)
+  > ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integrati...
 
 ### [sin5678](https://github.com/sin5678)
-- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
-  > Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server...
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
-### [waruqi](https://github.com/waruqi)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
-
-### [wuhx](https://github.com/wuhx)
-- 🍴 👤 [wuhx](https://github.com/wuhx) Forked [microsoft/vscode](https://github.com/microsoft/vscode) to [wuhx/vscode](https://github.com/wuhx/vscode)
-  > Visual Studio Code
-
-### [yuchuangu85](https://github.com/yuchuangu85)
-- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) to [yuchuangu85/profiler](https://github.com/yuchuangu85/profiler)
-  > Firefox Profiler — Web app for Firefox performance analysis
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) to [sunwm518/XPEViewer](https://github.com/sunwm518/XPEViewer)
+  > PE file viewer/editor for Windows, Linux and MacOS.
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) to [sunwm518/Detect-It-Easy](https://github.com/sunwm518/Detect-It-Easy)
+  > Program for determining types of files for Windows, Linux and MacOS.
 
 
 ---
-*最后更新于 2026-07-18 23:50:24 UTC*
+*最后更新于 2026-07-19 02:23:03 UTC*
 *历史记录保存在 `archive` 目录中。*
