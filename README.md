@@ -15,6 +15,9 @@
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [Binary-Gecko/perf_PoC](https://github.com/Binary-Gecko/perf_PoC)
 
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🌟 👤 [LeadroyaL](https://github.com/LeadroyaL) Starred [skiyer/deepsource](https://github.com/skiyer/deepsource)
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xljiulang/PublishAotClang](https://github.com/xljiulang/PublishAotClang)
   > 用于在 Windows 上辅助 PublishAot 交叉编译到多个 linux RID 的 Nuget 包
@@ -110,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-07-19 14:51:20 UTC*
+*最后更新于 2026-07-19 15:54:00 UTC*
 *历史记录保存在 `archive` 目录中。*
