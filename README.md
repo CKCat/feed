@@ -56,6 +56,8 @@
   > An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [RUB-SysSec/syntia](https://github.com/RUB-SysSec/syntia)
   > Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the ...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [toor-de-force/Ghidra-to-LLVM](https://github.com/toor-de-force/Ghidra-to-LLVM)
+  > An binary-to-LLVM IR lifter that leverages Ghidra's IR and analysis
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -78,6 +80,8 @@
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go)
+  > trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz (...
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) to [sunwm518/XPEViewer](https://github.com/sunwm518/XPEViewer)
@@ -113,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-07-19 15:54:00 UTC*
+*最后更新于 2026-07-19 16:54:00 UTC*
 *历史记录保存在 `archive` 目录中。*
