@@ -26,6 +26,12 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
   > Simple, secure & standards compliant web server for the most demanding of applications
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [skalenetwork/libBLS](https://github.com/skalenetwork/libBLS)
   > Solidity-compatible BLS signatures, threshold encryption, distributed key generation library in mode...
@@ -39,6 +45,10 @@
   > Free Windows, Mac and Linux cleaner, scanner, and more.
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [arcships/light-ocr](https://github.com/arcships/light-ocr)
   > C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq)
+  > [MLSys 2024 Best Paper Award] AWQ: Activation-aware Weight Quantization for LLM Compression and Acce...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
@@ -61,12 +71,18 @@
   > Rendering on external windows via hijacking thread contexts
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Swizec/h1b-software-salaries](https://github.com/Swizec/h1b-software-salaries)
   > Using React and d3.js, I built a visualisation of H1B salaries in the software industry.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ZehMatt/zyemu](https://github.com/ZehMatt/zyemu)
+  > x86-64 user mode emulation using Zydis
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [backengineering/bintests](https://github.com/backengineering/bintests)
+  > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
   > A showcase repo containing demo of a potential Windows Sandbox abuse
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)
   > Talk to one agent. Ship with a crew.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
+  > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
@@ -87,6 +103,10 @@
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)
+  > PDF craft can convert PDF files into various other formats. This project will focus on processing PD...
 
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [loc567/loc567](https://github.com/loc567/loc567)
@@ -109,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-07-20 15:08:04 UTC*
+*最后更新于 2026-07-20 17:57:30 UTC*
 *历史记录保存在 `archive` 目录中。*
