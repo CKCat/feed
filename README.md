@@ -27,6 +27,8 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu)
   > Free Windows, Mac and Linux cleaner, scanner, and more.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [arcships/light-ocr](https://github.com/arcships/light-ocr)
+  > C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
@@ -45,6 +47,12 @@
   > Rendering on external windows via hijacking thread contexts
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Swizec/h1b-software-salaries](https://github.com/Swizec/h1b-software-salaries)
   > Using React and d3.js, I built a visualisation of H1B salaries in the software industry.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
+  > A showcase repo containing demo of a potential Windows Sandbox abuse
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)
+  > Talk to one agent. Ship with a crew.
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
@@ -81,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-07-20 09:56:15 UTC*
+*最后更新于 2026-07-20 12:15:28 UTC*
 *历史记录保存在 `archive` 目录中。*
