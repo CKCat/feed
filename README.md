@@ -45,6 +45,8 @@
   > Free Windows, Mac and Linux cleaner, scanner, and more.
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [arcships/light-ocr](https://github.com/arcships/light-ocr)
   > C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [scb-10x/typhoon-ocr](https://github.com/scb-10x/typhoon-ocr)
+  > An open-source OCR model for Thai, optimized for Thai document extraction.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq)
@@ -75,6 +77,10 @@
   > x86-64 user mode emulation using Zydis
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [backengineering/bintests](https://github.com/backengineering/bintests)
   > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [h0mbre/Lucid](https://github.com/h0mbre/Lucid)
+  > An educational Bochs-based snapshot fuzzer project
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [cojocar/bin2llvm](https://github.com/cojocar/bin2llvm)
+  > A binary to LLVM translator
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
@@ -129,5 +135,5 @@
 
 
 ---
-*最后更新于 2026-07-20 17:57:30 UTC*
+*最后更新于 2026-07-20 19:45:36 UTC*
 *历史记录保存在 `archive` 目录中。*
