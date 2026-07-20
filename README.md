@@ -129,11 +129,15 @@
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [zjw-swun/McpAdb](https://github.com/zjw-swun/McpAdb)
   > adb mcp
 
+### [zodiacon](https://github.com/zodiacon)
+- 🍴 👤 [zodiacon](https://github.com/zodiacon) Forked [MicrosoftDocs/windows-driver-docs-ddi](https://github.com/MicrosoftDocs/windows-driver-docs-ddi) to [zodiacon/windows-driver-docs-ddi](https://github.com/zodiacon/windows-driver-docs-ddi)
+  > The official Windows Driver Kit DDI reference documentation sources
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [maddada/Ghostex](https://github.com/maddada/Ghostex)
   > Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded b...
 
 
 ---
-*最后更新于 2026-07-20 19:45:36 UTC*
+*最后更新于 2026-07-20 21:08:06 UTC*
 *历史记录保存在 `archive` 目录中。*
