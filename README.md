@@ -16,6 +16,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Nukem9/BindFltAPI](https://github.com/Nukem9/BindFltAPI)
   > Undocumented BindFlt user mode API.
 
+### [caikelun](https://github.com/caikelun)
+- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [Gracker/SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
+  > AI-assisted Perfetto analysis with Web UI, CLI, evidence workflows, reports, and portable runtimes.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
   > Wan: Open and Advanced Large-Scale Video Generative Models
@@ -35,12 +39,14 @@
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
-- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [midisec/fastjson-1.2.83-gadget-rce](https://github.com/midisec/fastjson-1.2.83-gadget-rce)
-  > Fastjson 1.2.68 ~ 1.2.83 RCE，jdk8、17、21和25全版本，支持批量urls进行poc验证。
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
   > 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedUR...
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
+  > 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+
 
 ---
-*最后更新于 2026-07-21 11:04:19 UTC*
+*最后更新于 2026-07-21 13:39:50 UTC*
 *历史记录保存在 `archive` 目录中。*
