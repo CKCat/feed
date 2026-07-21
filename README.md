@@ -21,6 +21,18 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
+  > Codex Dream Skin
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  > Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [oldwalls/pyghidra-PAL](https://github.com/oldwalls/pyghidra-PAL)
+  > A defensive decompilation layer: Ghidra facts, lifted into runnable Python & artifacts aiding analys...
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [Gracker/SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
   > AI-assisted Perfetto analysis with Web UI, CLI, evidence workflows, reports, and portable runtimes.
@@ -57,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-07-21 15:40:09 UTC*
+*最后更新于 2026-07-21 17:13:22 UTC*
 *历史记录保存在 `archive` 目录中。*
