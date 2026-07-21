@@ -73,11 +73,15 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
   > 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedUR...
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [wado-lang/wado](https://github.com/wado-lang/wado)
+  > The Wado Programming Language
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
   > 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 
 ---
-*最后更新于 2026-07-21 21:03:50 UTC*
+*最后更新于 2026-07-21 22:52:08 UTC*
 *历史记录保存在 `archive` 目录中。*
