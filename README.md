@@ -8,6 +8,9 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [qwerty-po/security-research](https://github.com/qwerty-po/security-research)
   > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyuubiRan/hsin.rs](https://github.com/KyuubiRan/hsin.rs)
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
   > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
@@ -15,6 +18,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Nukem9/BindFltAPI](https://github.com/Nukem9/BindFltAPI)
   > Undocumented BindFlt user mode API.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
+  > Proof-of-concept game using VBS enclaves to protect itself from cheating
 
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [Gracker/SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
@@ -25,6 +30,10 @@
   > Wan: Open and Advanced Large-Scale Video Generative Models
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [FudanDISC/DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM)
   > Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
+  > Proof-of-concept game using VBS enclaves to protect itself from cheating
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
@@ -48,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-07-21 13:39:50 UTC*
+*最后更新于 2026-07-21 15:40:09 UTC*
 *历史记录保存在 `archive` 目录中。*
