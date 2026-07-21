@@ -29,6 +29,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
   > Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+  > Very low latency speech to text, intent recognition, and text to speech, for building voice agents a...
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [oldwalls/pyghidra-PAL](https://github.com/oldwalls/pyghidra-PAL)
   > A defensive decompilation layer: Ghidra facts, lifted into runnable Python & artifacts aiding analys...
@@ -46,6 +50,12 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/PwnedBoot](https://github.com/SamuelTulach/PwnedBoot)
+  > Using Windows' own bootloader as a shim to bypass Secure Boot
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Metick/DMALibrary](https://github.com/Metick/DMALibrary)
+  > Simple but extensive library for DMA users, made for gamehacking
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureFakePkg](https://github.com/SamuelTulach/SecureFakePkg)
+  > Simple EFI runtime driver that hooks GetVariable function and returns data expected by Windows to ma...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
@@ -69,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-07-21 17:13:22 UTC*
+*最后更新于 2026-07-21 19:15:03 UTC*
 *历史记录保存在 `archive` 目录中。*
