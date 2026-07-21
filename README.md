@@ -18,7 +18,17 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [FudanDISC/DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM)
   > Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [meh/rust-tun](https://github.com/meh/rust-tun)
+  > TUN device creation and handling.
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [19h/chernobog](https://github.com/19h/chernobog)
+  > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 
 ---
-*最后更新于 2026-07-21 05:46:22 UTC*
+*最后更新于 2026-07-21 08:21:44 UTC*
 *历史记录保存在 `archive` 目录中。*
