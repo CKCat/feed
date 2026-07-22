@@ -8,6 +8,9 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Sidenai/hyperion-disassembler](https://github.com/Sidenai/hyperion-disassembler)
   > Native multi-arch disassembler & decompiler - PE/ELF/Mach-O, x86/x64/ARM64, Lua scripting, RTTI reco...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [tiwe0/cronet-capture](https://github.com/tiwe0/cronet-capture)
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [rover2024/lorelei](https://github.com/rover2024/lorelei)
   > Lorelei is a cross-ISA compatibility layer.
@@ -39,6 +42,8 @@
   > Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_po...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Cr4sh/SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor)
   > First open source and publicly available System Management Mode backdoor for UEFI based platforms. G...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mattifestation/TCGLogTools](https://github.com/mattifestation/TCGLogTools)
+  > A set of tools to retrieve and parse TCG measured boot logs. Microsoft refers to these as Windows Bo...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
@@ -66,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-07-22 11:05:06 UTC*
+*最后更新于 2026-07-22 13:43:10 UTC*
 *历史记录保存在 `archive` 目录中。*
