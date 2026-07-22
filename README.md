@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Sidenai/hyperion-disassembler](https://github.com/Sidenai/hyperion-disassembler)
   > Native multi-arch disassembler & decompiler - PE/ELF/Mach-O, x86/x64/ARM64, Lua scripting, RTTI reco...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [rover2024/lorelei](https://github.com/rover2024/lorelei)
+  > Lorelei is a cross-ISA compatibility layer.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
@@ -23,6 +27,8 @@
   > Can Language Models Rebuild Programs From Scratch?
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+  > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [plainhub/plain-app](https://github.com/plainhub/plain-app)
@@ -60,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-07-22 08:21:51 UTC*
+*最后更新于 2026-07-22 11:05:06 UTC*
 *历史记录保存在 `archive` 目录中。*
