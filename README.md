@@ -1,95 +1,30 @@
-# 每日 GitHub 动态 (2026-07-21)
+# 每日 GitHub 动态 (2026-07-22)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [5ec1cff](https://github.com/5ec1cff)
-- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [qwerty-po/security-research](https://github.com/qwerty-po/security-research)
-  > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyuubiRan/hsin.rs](https://github.com/KyuubiRan/hsin.rs)
-
-### [LLeavesG](https://github.com/LLeavesG)
-- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
-  > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
-
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Nukem9/BindFltAPI](https://github.com/Nukem9/BindFltAPI)
-  > Undocumented BindFlt user mode API.
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
-  > Proof-of-concept game using VBS enclaves to protect itself from cheating
-
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
-  > Codex Dream Skin
-
 ### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-  > Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+  > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
-### [T5ive](https://github.com/T5ive)
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
-  > Very low latency speech to text, intent recognition, and text to speech, for building voice agents a...
-
-### [alexander-hanel](https://github.com/alexander-hanel)
-- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [oldwalls/pyghidra-PAL](https://github.com/oldwalls/pyghidra-PAL)
-  > A defensive decompilation layer: Ghidra facts, lifted into runnable Python & artifacts aiding analys...
-
-### [caikelun](https://github.com/caikelun)
-- 🌟 👤 [caikelun](https://github.com/caikelun) Starred [Gracker/SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
-  > AI-assisted Perfetto analysis with Web UI, CLI, evidence workflows, reports, and portable runtimes.
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
-  > The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and N...
-
-### [evilbinary](https://github.com/evilbinary)
-- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
-  > Wan: Open and Advanced Large-Scale Video Generative Models
-- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [FudanDISC/DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM)
-  > Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs...
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
-  > Proof-of-concept game using VBS enclaves to protect itself from cheating
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/PwnedBoot](https://github.com/SamuelTulach/PwnedBoot)
-  > Using Windows' own bootloader as a shim to bypass Secure Boot
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Metick/DMALibrary](https://github.com/Metick/DMALibrary)
-  > Simple but extensive library for DMA users, made for gamehacking
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureFakePkg](https://github.com/SamuelTulach/SecureFakePkg)
-  > Simple EFI runtime driver that hooks GetVariable function and returns data expected by Windows to ma...
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [plainhub/plain-app](https://github.com/plainhub/plain-app)
+  > 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
-  > High-performance single-GPU inference for selected model checkpoints and GPUs.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
+  > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
 
-### [nzcv](https://github.com/nzcv)
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [meh/rust-tun](https://github.com/meh/rust-tun)
-  > TUN device creation and handling.
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [19h/chernobog](https://github.com/19h/chernobog)
-  > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
-
-### [therealdreg](https://github.com/therealdreg)
-- 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/abductor](https://github.com/therealdreg/abductor)
-  > Adapter board that lets CW312-format targets run on the ChipWhisperer CW308 UFO, bridging the UFO ta...
-
-### [ybdt](https://github.com/ybdt)
-- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  > The agent that grows with you
-- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
-  > 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedUR...
-
-### [yhirose](https://github.com/yhirose)
-- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [wado-lang/wado](https://github.com/wado-lang/wado)
-  > The Wado Programming Language
-
-### [zu1k](https://github.com/zu1k)
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
-  > 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [droidrun/mobilerun](https://github.com/droidrun/mobilerun)
+  > Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
+  > Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [pass-with-high-score/universal-installer](https://github.com/pass-with-high-score/universal-installer)
+  > A modern Android app for installing and managing APK packages with split APK support, silent install...
 
 
 ---
-*最后更新于 2026-07-21 23:53:16 UTC*
+*最后更新于 2026-07-22 02:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
