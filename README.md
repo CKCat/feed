@@ -45,6 +45,10 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [cortexkit/magic-context](https://github.com/cortexkit/magic-context)
   > Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding age...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
+  > Model Context Protocol for WinDbg.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zhllxt/asio2](https://github.com/zhllxt/asio2)
   > Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_po...
@@ -52,6 +56,8 @@
   > First open source and publicly available System Management Mode backdoor for UEFI based platforms. G...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mattifestation/TCGLogTools](https://github.com/mattifestation/TCGLogTools)
   > A set of tools to retrieve and parse TCG measured boot logs. Microsoft refers to these as Windows Bo...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [openenclave/openenclave](https://github.com/openenclave/openenclave)
+  > SDK for developing enclaves
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-07-22 17:13:23 UTC*
+*最后更新于 2026-07-22 19:09:40 UTC*
 *历史记录保存在 `archive` 目录中。*
