@@ -69,6 +69,10 @@
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ActivityLauncher/ActivityLauncherShizukuPlugin](https://github.com/ActivityLauncher/ActivityLauncherShizukuPlugin)
   > Plugin for ActivityLauncher that uses Shizuku for launching private Activities
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
+  > Vite plugin that reimplements the Next.js API surface — deploy anywhere
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [droidrun/mobilerun](https://github.com/droidrun/mobilerun)
   > Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
@@ -87,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-07-22 19:09:40 UTC*
+*最后更新于 2026-07-22 21:01:59 UTC*
 *历史记录保存在 `archive` 目录中。*
