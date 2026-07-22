@@ -4,15 +4,35 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Sidenai/hyperion-disassembler](https://github.com/Sidenai/hyperion-disassembler)
+  > Native multi-arch disassembler & decompiler - PE/ELF/Mach-O, x86/x64/ARM64, Lua scripting, RTTI reco...
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openguardrails/openguardrails](https://github.com/openguardrails/openguardrails)
   > The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks th...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zapier/AutomationBench](https://github.com/zapier/AutomationBench)
+  > A benchmark for evaluating AI agents on realistic business workflows
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench)
+  > Can Language Models Rebuild Programs From Scratch?
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [plainhub/plain-app](https://github.com/plainhub/plain-app)
   > 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zhllxt/asio2](https://github.com/zhllxt/asio2)
+  > Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_po...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Cr4sh/SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor)
+  > First open source and publicly available System Management Mode backdoor for UEFI based platforms. G...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
@@ -35,8 +55,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🍴 👤 [zu1k](https://github.com/zu1k) Forked [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) to [zu1k/nodewarden_dev](https://github.com/zu1k/nodewarden_dev)
   > Bitwarden-compatible server running on Cloudflare Workers
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+  > 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQL...
 
 
 ---
-*最后更新于 2026-07-22 05:45:31 UTC*
+*最后更新于 2026-07-22 08:21:51 UTC*
 *历史记录保存在 `archive` 目录中。*
