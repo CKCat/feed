@@ -64,6 +64,8 @@
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ActivityLauncher/ActivityLauncherShizukuPlugin](https://github.com/ActivityLauncher/ActivityLauncherShizukuPlugin)
@@ -72,6 +74,8 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
   > Vite plugin that reimplements the Next.js API surface — deploy anywhere
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
+  > How soon until perfect decompilation? https://decbench.com/
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [droidrun/mobilerun](https://github.com/droidrun/mobilerun)
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-07-22 21:01:59 UTC*
+*最后更新于 2026-07-22 22:57:59 UTC*
 *历史记录保存在 `archive` 目录中。*
