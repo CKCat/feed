@@ -32,10 +32,18 @@
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
   > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [microsoft/SetupBench](https://github.com/microsoft/SetupBench)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [ernie-research/MEnvAgent](https://github.com/ernie-research/MEnvAgent)
+  > Official Code of MEnvAgent
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [siegelz/core-bench](https://github.com/siegelz/core-bench)
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [plainhub/plain-app](https://github.com/plainhub/plain-app)
   > 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access...
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [cortexkit/magic-context](https://github.com/cortexkit/magic-context)
+  > Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding age...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zhllxt/asio2](https://github.com/zhllxt/asio2)
@@ -73,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-07-22 15:37:01 UTC*
+*最后更新于 2026-07-22 17:13:23 UTC*
 *历史记录保存在 `archive` 目录中。*
