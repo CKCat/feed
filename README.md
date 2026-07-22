@@ -41,6 +41,10 @@
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [Gracker/SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
   > AI-assisted Perfetto analysis with Web UI, CLI, evidence workflows, reports, and portable runtimes.
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
+  > The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and N...
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
   > Wan: Open and Advanced Large-Scale Video Generative Models
@@ -67,6 +71,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [19h/chernobog](https://github.com/19h/chernobog)
   > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
 
+### [therealdreg](https://github.com/therealdreg)
+- 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/abductor](https://github.com/therealdreg/abductor)
+  > Adapter board that lets CW312-format targets run on the ChipWhisperer CW308 UFO, bridging the UFO ta...
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -83,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-07-21 22:52:08 UTC*
+*最后更新于 2026-07-21 23:53:16 UTC*
 *历史记录保存在 `archive` 目录中。*
