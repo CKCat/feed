@@ -18,6 +18,10 @@
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [iflytek/astronclaw-tutorial](https://github.com/iflytek/astronclaw-tutorial)
   > 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI)...
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [NVlabs/PointWorld](https://github.com/NVlabs/PointWorld)
+  > PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -28,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-07-23 04:11:58 UTC*
+*最后更新于 2026-07-23 07:29:44 UTC*
 *历史记录保存在 `archive` 目录中。*
