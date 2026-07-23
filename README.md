@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
+  > Flutter SSL Pinning Bypass Tool for Android & iOS — works on any Flutter version without pattern dat...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
   > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
@@ -35,8 +39,12 @@
   > How soon until perfect decompilation? https://decbench.com/
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
-  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
+  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
+  > Flutter SSL Pinning Bypass Tool for Android & iOS — works on any Flutter version without pattern dat...
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [rxi/log.c](https://github.com/rxi/log.c)
@@ -48,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-07-23 10:17:39 UTC*
+*最后更新于 2026-07-23 12:21:06 UTC*
 *历史记录保存在 `archive` 目录中。*
