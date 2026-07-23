@@ -49,6 +49,8 @@
   > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
   > A framework for few-shot evaluation of language models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
+  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
@@ -64,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-07-23 15:05:15 UTC*
+*最后更新于 2026-07-23 17:17:04 UTC*
 *历史记录保存在 `archive` 目录中。*
