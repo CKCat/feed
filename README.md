@@ -8,6 +8,12 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
   > Flutter SSL Pinning Bypass Tool for Android & iOS — works on any Flutter version without pattern dat...
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [alexpasmantier/television](https://github.com/alexpasmantier/television)
+  > A very fast, portable and hackable fuzzy finder.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+  > Next generation Cosmic desktop environment
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
   > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
@@ -41,6 +47,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
   > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+  > A framework for few-shot evaluation of language models.
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
@@ -56,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-07-23 12:21:06 UTC*
+*最后更新于 2026-07-23 15:05:15 UTC*
 *历史记录保存在 `archive` 目录中。*
