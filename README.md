@@ -32,6 +32,10 @@
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [iflytek/astronclaw-tutorial](https://github.com/iflytek/astronclaw-tutorial)
   > 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI)...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [zakkg3/ClusterSecret](https://github.com/zakkg3/ClusterSecret)
+  > Kubernetes ClusterSecret operator.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mandiant/speakeasy](https://github.com/mandiant/speakeasy)
   > Windows kernel and user mode emulation.
@@ -50,14 +54,6 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
   > How soon until perfect decompilation? https://decbench.com/
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
-  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
-  > A framework for few-shot evaluation of language models.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
-  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
-
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
   > Flutter SSL Pinning Bypass Tool for Android & iOS — works on any Flutter version without pattern dat...
@@ -72,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-07-23 20:58:51 UTC*
+*最后更新于 2026-07-23 22:08:57 UTC*
 *历史记录保存在 `archive` 目录中。*
