@@ -32,6 +32,12 @@
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [iflytek/astronclaw-tutorial](https://github.com/iflytek/astronclaw-tutorial)
   > 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI)...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [mandiant/speakeasy](https://github.com/mandiant/speakeasy)
+  > Windows kernel and user mode emulation.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [trailofbits/it-depends](https://github.com/trailofbits/it-depends)
+  > A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages ...
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [NVlabs/PointWorld](https://github.com/NVlabs/PointWorld)
   > PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation
@@ -66,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-07-23 19:09:13 UTC*
+*最后更新于 2026-07-23 20:58:51 UTC*
 *历史记录保存在 `archive` 目录中。*
