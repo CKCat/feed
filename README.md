@@ -20,6 +20,11 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [slothy-optimizer/slothy](https://github.com/slothy-optimizer/slothy)
   > Assembly super-optimization via constraint solving
 
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/minkipc](https://github.com/qualcomm/minkipc)
+  > Libraries that implement and clients that utilize the Mink-IPC interface
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/mink-idl-compiler](https://github.com/qualcomm/mink-idl-compiler)
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
   > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow...
@@ -31,6 +36,10 @@
   > Cross platform desktop accessibility library
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [momo5502/roamers](https://github.com/momo5502/roamers)
   > An endless, personalized feed for discovering GitHub projects.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [slack2450/csgo-dma-overlay](https://github.com/slack2450/csgo-dma-overlay)
+  > A basic CS:GO ESP utilising DMA and HDMI-Overlay
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
+  > Direct Memory Access (DMA) Attack Software
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -58,8 +67,10 @@
   > 『ゼロから作る Deep Learning ❻』
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [lukewilliamboswell/roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4)
   > Build wasm4 games using Roc
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [thesysdev/openui](https://github.com/thesysdev/openui)
+  > The Open Standard for Generative UI
 
 
 ---
-*最后更新于 2026-07-24 13:28:12 UTC*
+*最后更新于 2026-07-24 15:22:03 UTC*
 *历史记录保存在 `archive` 目录中。*
