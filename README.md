@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive)
+  > 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [slothy-optimizer/slothy](https://github.com/slothy-optimizer/slothy)
   > Assembly super-optimization via constraint solving
@@ -11,6 +15,12 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
   > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AnxForever/stylekit](https://github.com/AnxForever/stylekit)
+  > 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xa11y/xa11y](https://github.com/xa11y/xa11y)
+  > Cross platform desktop accessibility library
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -26,6 +36,8 @@
   > agent multiplexer that lives in your terminal.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Humalike/hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin)
   > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xa11y/xa11y](https://github.com/xa11y/xa11y) to [mrexodia/xa11y](https://github.com/mrexodia/xa11y)
+  > Cross platform desktop accessibility library
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
@@ -39,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-07-24 08:20:36 UTC*
+*最后更新于 2026-07-24 11:00:19 UTC*
 *历史记录保存在 `archive` 目录中。*
