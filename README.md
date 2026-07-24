@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [0x36/ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache)
+  > a Ghidra framework for iOS kernelcache reverse engineering
+
 ### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive)
   > 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
+
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) to [LeadroyaL/IDA-NO-MCP](https://github.com/LeadroyaL/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [slothy-optimizer/slothy](https://github.com/slothy-optimizer/slothy)
@@ -21,6 +29,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xa11y/xa11y](https://github.com/xa11y/xa11y)
   > Cross platform desktop accessibility library
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [momo5502/roamers](https://github.com/momo5502/roamers)
+  > An endless, personalized feed for discovering GitHub projects.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -51,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-07-24 11:00:19 UTC*
+*最后更新于 2026-07-24 13:28:12 UTC*
 *历史记录保存在 `archive` 目录中。*
