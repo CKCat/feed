@@ -29,6 +29,12 @@
   > Libraries that implement and clients that utilize the Mink-IPC interface
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/mink-idl-compiler](https://github.com/qualcomm/mink-idl-compiler)
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [abcdefgjh-li/ALLVM](https://github.com/abcdefgjh-li/ALLVM)
+  > 基于 LLVM 21.x 的 Android NDK 代码混淆编译器，支持控制流平坦化、间接跳转/调用、字符串加密、常量加密、VMP 虚拟机保护、系统调用替换（Syscall Protect）及反调试...
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
   > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow...
@@ -80,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-07-24 19:18:56 UTC*
+*最后更新于 2026-07-24 20:57:51 UTC*
 *历史记录保存在 `archive` 目录中。*
