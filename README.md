@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+  > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit)
@@ -27,5 +31,5 @@
 
 
 ---
-*最后更新于 2026-07-24 02:37:56 UTC*
+*最后更新于 2026-07-24 05:46:34 UTC*
 *历史记录保存在 `archive` 目录中。*
