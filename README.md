@@ -20,6 +20,10 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [slothy-optimizer/slothy](https://github.com/slothy-optimizer/slothy)
   > Assembly super-optimization via constraint solving
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/minkipc](https://github.com/qualcomm/minkipc)
   > Libraries that implement and clients that utilize the Mink-IPC interface
@@ -40,6 +44,10 @@
   > A basic CS:GO ESP utilising DMA and HDMI-Overlay
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
   > Direct Memory Access (DMA) Attack Software
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [codedefender-io/tether](https://github.com/codedefender-io/tether)
+  > Extract sequences of instructions to be executed exclusively on a remote server
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [georgenicolaou/W64oWoW64](https://github.com/georgenicolaou/W64oWoW64)
+  > Library that allows you to run 64bit code on a Wow64 32bit process
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -48,7 +56,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iksteen/shellglass](https://github.com/iksteen/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
-  > DecBench: How close are we to recovering perfect decompilation from binaries?
+  > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iksteen/shellglass](https://github.com/iksteen/shellglass) to [mrexodia/shellglass](https://github.com/mrexodia/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -72,5 +80,5 @@
 
 
 ---
-*最后更新于 2026-07-24 17:25:44 UTC*
+*最后更新于 2026-07-24 19:18:56 UTC*
 *历史记录保存在 `archive` 目录中。*
