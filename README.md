@@ -22,11 +22,19 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [arm/metis](https://github.com/arm/metis)
   > Metis is an open-source, AI-driven tool for deep security code review
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
+  > Skills for Design Engineers
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [pathtofile/PPLRunner](https://github.com/pathtofile/PPLRunner)
   > Run Processes as PPL with ELAM
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [insula-rs/libwhp](https://github.com/insula-rs/libwhp)
   > Windows Hypervisor Platform Rust crate
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
+  > A design language for agents
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [Cobalt-Strike/bof_template](https://github.com/Cobalt-Strike/bof_template)
@@ -48,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-07-25 10:36:06 UTC*
+*最后更新于 2026-07-25 12:00:13 UTC*
 *历史记录保存在 `archive` 目录中。*
