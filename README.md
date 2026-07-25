@@ -22,6 +22,10 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [arm/metis](https://github.com/arm/metis)
   > Metis is an open-source, AI-driven tool for deep security code review
 
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🚀 👤 [LeadroyaL](https://github.com/LeadroyaL) Made [xinsheng-plugin/chrome-plugin](https://github.com/xinsheng-plugin/chrome-plugin) public
+  > 为心声社区评论增加正序选项，恢复评论楼层号。
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
   > Skills for Design Engineers
@@ -31,10 +35,6 @@
   > Run Processes as PPL with ELAM
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [insula-rs/libwhp](https://github.com/insula-rs/libwhp)
   > Windows Hypervisor Platform Rust crate
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
-  > A design language for agents
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [Cobalt-Strike/bof_template](https://github.com/Cobalt-Strike/bof_template)
@@ -56,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-07-25 12:00:13 UTC*
+*最后更新于 2026-07-25 14:27:51 UTC*
 *历史记录保存在 `archive` 目录中。*
