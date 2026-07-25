@@ -24,6 +24,10 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
+### [can1357](https://github.com/can1357)
+- 🌟 👤 [can1357](https://github.com/can1357) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
+  > A design language for agents
+
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/minkipc](https://github.com/qualcomm/minkipc)
   > Libraries that implement and clients that utilize the Mink-IPC interface
@@ -86,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-07-24 22:07:34 UTC*
+*最后更新于 2026-07-24 23:59:34 UTC*
 *历史记录保存在 `archive` 目录中。*
