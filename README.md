@@ -30,6 +30,14 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
   > Skills for Design Engineers
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [locustio/locust](https://github.com/locustio/locust)
+  > Write scalable load tests in plain Python 🚗💨
+
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs)
+  > High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid s...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [pathtofile/PPLRunner](https://github.com/pathtofile/PPLRunner)
   > Run Processes as PPL with ELAM
@@ -60,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-07-25 17:55:32 UTC*
+*最后更新于 2026-07-25 19:02:24 UTC*
 *历史记录保存在 `archive` 目录中。*
