@@ -47,6 +47,8 @@
   > Zeek is a powerful network analysis framework that is much different from the typical IDS you may kn...
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [edubart/minicoro](https://github.com/edubart/minicoro)
   > Single header stackful cross-platform coroutine library in pure C.
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [DroneBridge/ESP32](https://github.com/DroneBridge/ESP32)
+  > DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supp...
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) to [sonyps5201314/hrtng](https://github.com/sonyps5201314/hrtng)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-07-25 16:01:58 UTC*
+*最后更新于 2026-07-25 17:55:32 UTC*
 *历史记录保存在 `archive` 目录中。*
