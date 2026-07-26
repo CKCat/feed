@@ -11,6 +11,10 @@
   > Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default...
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cisco-foundation-ai/vulnerability-localization-benchmark](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark)
   > Repository for Vulnerability Localization Benchmark
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos)
+  > Mythic C2 agent targeting Linux and Windows hosts written in Rust
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos) to [0xdea/thanatos](https://github.com/0xdea/thanatos)
+  > Mythic C2 agent targeting Linux and Windows hosts written in Rust
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
@@ -54,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-07-26 13:46:16 UTC*
+*最后更新于 2026-07-26 15:01:12 UTC*
 *历史记录保存在 `archive` 目录中。*
