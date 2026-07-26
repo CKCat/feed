@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec)
+  > An open specification for agentic AI security evaluation and testing, from Cisco.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard)
+  > Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default...
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cisco-foundation-ai/vulnerability-localization-benchmark](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark)
+  > Repository for Vulnerability Localization Benchmark
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
   > :stars: Manage your shell commands.
@@ -26,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-07-26 05:57:32 UTC*
+*最后更新于 2026-07-26 08:28:59 UTC*
 *历史记录保存在 `archive` 目录中。*
