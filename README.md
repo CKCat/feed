@@ -60,6 +60,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
   > Open source replacement for the Xbox360 XeCrypt suite.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
+  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [block/buzz](https://github.com/block/buzz)
@@ -86,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-07-26 20:54:02 UTC*
+*最后更新于 2026-07-26 21:55:56 UTC*
 *历史记录保存在 `archive` 目录中。*
