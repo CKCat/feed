@@ -20,6 +20,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
 
+### [Bzi-Han](https://github.com/Bzi-Han)
+- 🍴 👤 [Bzi-Han](https://github.com/Bzi-Han) Forked [tugcantopaloglu/godot-mcp](https://github.com/tugcantopaloglu/godot-mcp) to [Bzi-Han/godot-mcp](https://github.com/Bzi-Han/godot-mcp)
+  > MCP server for full Godot 4.x engine control: 157 tools for AI-driven game development (GDScript and...
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
   > :stars: Manage your shell commands.
@@ -79,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-07-26 17:58:43 UTC*
+*最后更新于 2026-07-26 19:19:36 UTC*
 *历史记录保存在 `archive` 目录中。*
