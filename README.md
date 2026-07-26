@@ -21,6 +21,10 @@
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [mirror/mesa](https://github.com/mirror/mesa) to [JingMatrix/mesa](https://github.com/JingMatrix/mesa)
   > https://gitlab.freedesktop.org/mesa/mesa
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [google/angle](https://github.com/google/angle)
+  > A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [jhaygood86/PeachPDF](https://github.com/jhaygood86/PeachPDF)
   > Peach PDF is a pure .NET HTML -> PDF rendering library
@@ -28,6 +32,10 @@
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o)
   > 🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speak...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
+  > Open source replacement for the Xbox360 XeCrypt suite.
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [block/buzz](https://github.com/block/buzz)
@@ -43,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-07-26 10:41:34 UTC*
+*最后更新于 2026-07-26 11:59:52 UTC*
 *历史记录保存在 `archive` 目录中。*
