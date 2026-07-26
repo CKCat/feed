@@ -73,6 +73,9 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [Gethe/wow-ui-textures](https://github.com/Gethe/wow-ui-textures)
   > git mirror of the user interface textures for World of Warcraft
 
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [kagaimiq/bluetrum-tools](https://github.com/kagaimiq/bluetrum-tools)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [NUL0x4C/KnownDllUnhook](https://github.com/NUL0x4C/KnownDllUnhook)
   > Replace the .txt section of the current loaded modules from \KnownDlls\
@@ -83,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-07-26 19:19:36 UTC*
+*最后更新于 2026-07-26 20:54:02 UTC*
 *历史记录保存在 `archive` 目录中。*
