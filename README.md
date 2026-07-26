@@ -15,6 +15,10 @@
   > Mythic C2 agent targeting Linux and Windows hosts written in Rust
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos) to [0xdea/thanatos](https://github.com/0xdea/thanatos)
   > Mythic C2 agent targeting Linux and Windows hosts written in Rust
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
+  > A collaborative, multi-platform, red teaming framework
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
@@ -31,6 +35,10 @@
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [shivprime94/file-itr](https://github.com/shivprime94/file-itr)
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)
+  > （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加设备。
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [jhaygood86/PeachPDF](https://github.com/jhaygood86/PeachPDF)
@@ -56,7 +64,15 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [Gethe/wow-ui-textures](https://github.com/Gethe/wow-ui-textures)
   > git mirror of the user interface textures for World of Warcraft
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [NUL0x4C/KnownDllUnhook](https://github.com/NUL0x4C/KnownDllUnhook)
+  > Replace the .txt section of the current loaded modules from \KnownDlls\
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [rad9800/WTSRM](https://github.com/rad9800/WTSRM)
+  > WTSRM
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [MaorSabag/SafeCrypt](https://github.com/MaorSabag/SafeCrypt)
+  > SafeCrypt is an academic ransomware simulation suite developed for Red Team engagements. It demonstr...
+
 
 ---
-*最后更新于 2026-07-26 15:01:12 UTC*
+*最后更新于 2026-07-26 16:54:38 UTC*
 *历史记录保存在 `archive` 目录中。*
