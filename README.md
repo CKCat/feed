@@ -15,10 +15,19 @@
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [Nukesor/pueue](https://github.com/Nukesor/pueue)
   > :stars: Manage your shell commands.
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [mirror/mesa](https://github.com/mirror/mesa) to [JingMatrix/mesa](https://github.com/JingMatrix/mesa)
   > https://gitlab.freedesktop.org/mesa/mesa
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [jhaygood86/PeachPDF](https://github.com/jhaygood86/PeachPDF)
+  > Peach PDF is a pure .NET HTML -> PDF rendering library
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o)
+  > 🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speak...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [block/buzz](https://github.com/block/buzz)
@@ -34,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-07-26 08:28:59 UTC*
+*最后更新于 2026-07-26 10:41:34 UTC*
 *历史记录保存在 `archive` 目录中。*
