@@ -32,6 +32,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [google/angle](https://github.com/google/angle)
   > A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
+  > reims-vgpu is an experimental virtual GPU for macOS guests
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [shivprime94/file-itr](https://github.com/shivprime94/file-itr)
@@ -47,6 +49,9 @@
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o)
   > 🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speak...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
@@ -74,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-07-26 16:54:38 UTC*
+*最后更新于 2026-07-26 17:58:43 UTC*
 *历史记录保存在 `archive` 目录中。*
