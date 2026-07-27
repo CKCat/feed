@@ -32,6 +32,12 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [dariushoule/x64dbg-automate](https://github.com/dariushoule/x64dbg-automate)
   > ZMQ and Messagepack Powered Remote Automation Plugin for x64dbg
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)
+  > MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP) to [crazyguitar/MoonEP](https://github.com/crazyguitar/MoonEP)
+  > MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
+
 ### [danbev](https://github.com/danbev)
 - 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/convert](https://github.com/ggml-org/convert) to [danbev/convert](https://github.com/danbev/convert)
 
@@ -54,12 +60,18 @@
   > Dart bindings to emulate Windows and Linux programs with Sogen.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [FastVM/minivm](https://github.com/FastVM/minivm)
   > A VM That is Dynamic and Fast
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
+  > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt)
+  > C++/WinRT
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
   > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
@@ -71,11 +83,19 @@
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [vnmakarov/mir](https://github.com/vnmakarov/mir)
   > A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and in...
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [google/xls](https://github.com/google/xls)
+  > XLS: Accelerated HW Synthesis
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [lyshark/IDA-Moles](https://github.com/lyshark/IDA-Moles)
   > A static reverse analysis interface specifically developed for IDA Pro, supporting users to independ...
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [1rgs/nanocode](https://github.com/1rgs/nanocode)
+  > Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
+
 
 ---
-*最后更新于 2026-07-27 14:24:31 UTC*
+*最后更新于 2026-07-27 16:54:43 UTC*
 *历史记录保存在 `archive` 目录中。*
