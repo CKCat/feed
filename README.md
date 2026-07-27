@@ -32,6 +32,17 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [dariushoule/x64dbg-automate](https://github.com/dariushoule/x64dbg-automate)
   > ZMQ and Messagepack Powered Remote Automation Plugin for x64dbg
 
+### [danbev](https://github.com/danbev)
+- 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/convert](https://github.com/ggml-org/convert) to [danbev/convert](https://github.com/danbev/convert)
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [harborstremio/harbor](https://github.com/harborstremio/harbor)
+  > A Custom Stremio Client Built for Adventure!
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [ailinone/collective-intelligence](https://github.com/ailinone/collective-intelligence)
+  > Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collabo...
+
 ### [j-hc](https://github.com/j-hc)
 - 🍴 👤 [j-hc](https://github.com/j-hc) Forked [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) to [j-hc/NuvioMobile](https://github.com/j-hc/NuvioMobile)
   > Official Nuvio Mobile Repository
@@ -47,6 +58,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
   > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
+  > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
@@ -54,11 +67,15 @@
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [Gracker/SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
   > AI-assisted Perfetto analysis with Web UI, CLI, evidence workflows, reports, and portable runtimes.
 
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [vnmakarov/mir](https://github.com/vnmakarov/mir)
+  > A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and in...
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [lyshark/IDA-Moles](https://github.com/lyshark/IDA-Moles)
   > A static reverse analysis interface specifically developed for IDA Pro, supporting users to independ...
 
 
 ---
-*最后更新于 2026-07-27 11:16:01 UTC*
+*最后更新于 2026-07-27 14:24:31 UTC*
 *历史记录保存在 `archive` 目录中。*
