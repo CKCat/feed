@@ -64,6 +64,8 @@
   > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) to [mrexodia/herdr](https://github.com/mrexodia/herdr)
+  > agent multiplexer that lives in your terminal.
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [block/buzz](https://github.com/block/buzz)
@@ -90,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-07-26 22:56:48 UTC*
+*最后更新于 2026-07-26 23:59:36 UTC*
 *历史记录保存在 `archive` 目录中。*
