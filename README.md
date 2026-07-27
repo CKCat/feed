@@ -4,6 +4,11 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [34306/usbliter8-fun](https://github.com/34306/usbliter8-fun)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient)
+  > Android client application.
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [libunwind/libunwind](https://github.com/libunwind/libunwind)
   > libunwind official github repo (in need of new / additional maintainer, mail/open issue if intereste...
@@ -11,6 +16,13 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [samudoria/Google-Play-APK-Downloader](https://github.com/samudoria/Google-Play-APK-Downloader)
   > Plug in your favourite device or emulator, enable adb and provide the list of package names.
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [andrewyng/openworker](https://github.com/andrewyng/openworker)
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [FastVM/minivm](https://github.com/FastVM/minivm)
+  > A VM That is Dynamic and Fast
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
@@ -29,6 +41,12 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Wdestroier/sogen_dart](https://github.com/Wdestroier/sogen_dart)
   > Dart bindings to emulate Windows and Linux programs with Sogen.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [FastVM/minivm](https://github.com/FastVM/minivm)
+  > A VM That is Dynamic and Fast
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
+  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
@@ -42,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-07-27 07:25:43 UTC*
+*最后更新于 2026-07-27 11:16:01 UTC*
 *历史记录保存在 `archive` 目录中。*
