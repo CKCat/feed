@@ -35,6 +35,8 @@
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src)
   > The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629)
+  > GameOver(lay) Ubuntu Privilege Escalation
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker)
@@ -57,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-07-28 11:53:55 UTC*
+*最后更新于 2026-07-28 13:56:36 UTC*
 *历史记录保存在 `archive` 目录中。*
