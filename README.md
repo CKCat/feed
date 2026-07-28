@@ -78,6 +78,8 @@
   > The most RAM effiecent harness
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
   > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
@@ -103,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-07-27 22:02:49 UTC*
+*最后更新于 2026-07-27 23:59:10 UTC*
 *历史记录保存在 `archive` 目录中。*
