@@ -39,10 +39,16 @@
 - 🍴 👤 [canyie](https://github.com/canyie) Forked [aospa-op13/proprietary](https://github.com/aospa-op13/proprietary) to [FancyLife/proprietary](https://github.com/FancyLife/proprietary)
   > This is the relevant code of the qcom platform vendor branch /vendor/qcom/proprietary
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [niqiuqiux/Androidhwdetect](https://github.com/niqiuqiux/Androidhwdetect)
+  > ARM64 Android hardware breakpoint and watchpoint self-check tool
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
   > Build local voice agents with open-source models
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tuiparts/tuiparts](https://github.com/tuiparts/tuiparts)
+  > UI component library for terminal applications built on @opentui/*
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal)
@@ -81,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-07-28 20:13:35 UTC*
+*最后更新于 2026-07-28 22:00:24 UTC*
 *历史记录保存在 `archive` 目录中。*
