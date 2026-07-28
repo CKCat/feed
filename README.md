@@ -11,6 +11,12 @@
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [joe-gregory/blazor-devtools](https://github.com/joe-gregory/blazor-devtools)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
+  > An explorable 3D city that shows how Postgres actually works
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal)
+  > a machine learning image inpainting task that instinctively removes watermarks from image indistingu...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src)
@@ -26,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-07-28 03:18:51 UTC*
+*最后更新于 2026-07-28 06:23:00 UTC*
 *历史记录保存在 `archive` 目录中。*
