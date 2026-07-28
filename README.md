@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [tihmstar/libpatchfinder](https://github.com/tihmstar/libpatchfinder)
+  > A arm offsetfinder. It finds offsets, patches, parses Mach-O and even supports IMG4/IMG3
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [CatMeow-233/IDA-MCP](https://github.com/CatMeow-233/IDA-MCP)
   > IDA MCP
@@ -31,6 +35,10 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [KyuubiRan/hsin.rs](https://github.com/KyuubiRan/hsin.rs) to [Ylarod/hsin.rs](https://github.com/Ylarod/hsin.rs)
 
+### [canyie](https://github.com/canyie)
+- 🍴 👤 [canyie](https://github.com/canyie) Forked [aospa-op13/proprietary](https://github.com/aospa-op13/proprietary) to [FancyLife/proprietary](https://github.com/FancyLife/proprietary)
+  > This is the relevant code of the qcom platform vendor branch /vendor/qcom/proprietary
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal)
   > a machine learning image inpainting task that instinctively removes watermarks from image indistingu...
@@ -40,6 +48,10 @@
   > The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629)
   > GameOver(lay) Ubuntu Privilege Escalation
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [mity/md4c](https://github.com/mity/md4c)
+  > C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker)
@@ -64,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-07-28 16:04:23 UTC*
+*最后更新于 2026-07-28 18:10:54 UTC*
 *历史记录保存在 `archive` 目录中。*
