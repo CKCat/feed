@@ -39,6 +39,11 @@
 - 🍴 👤 [canyie](https://github.com/canyie) Forked [aospa-op13/proprietary](https://github.com/aospa-op13/proprietary) to [FancyLife/proprietary](https://github.com/FancyLife/proprietary)
   > This is the relevant code of the qcom platform vendor branch /vendor/qcom/proprietary
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+  > Build local voice agents with open-source models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal)
   > a machine learning image inpainting task that instinctively removes watermarks from image indistingu...
@@ -76,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-07-28 18:10:54 UTC*
+*最后更新于 2026-07-28 20:13:35 UTC*
 *历史记录保存在 `archive` 目录中。*
