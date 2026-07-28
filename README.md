@@ -13,6 +13,12 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [tiwe0/r0dump](https://github.com/tiwe0/r0dump) to [KuNgia09/r0dump](https://github.com/KuNgia09/r0dump)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc)
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+  > 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Cloxl/xhshow](https://github.com/Cloxl/xhshow)
+  > 小红书xs纯算 小红书x-s x-s-common xsc 等字段 纯算逆向
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
@@ -45,7 +51,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
   > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [aldefy/compose-skill](https://github.com/aldefy/compose-skill)
+  > Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code r...
+
 
 ---
-*最后更新于 2026-07-28 09:33:02 UTC*
+*最后更新于 2026-07-28 11:53:55 UTC*
 *历史记录保存在 `archive` 目录中。*
