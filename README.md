@@ -28,6 +28,9 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
   > An explorable 3D city that shows how Postgres actually works
 
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [KyuubiRan/hsin.rs](https://github.com/KyuubiRan/hsin.rs) to [Ylarod/hsin.rs](https://github.com/Ylarod/hsin.rs)
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal)
   > a machine learning image inpainting task that instinctively removes watermarks from image indistingu...
@@ -56,8 +59,10 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [aldefy/compose-skill](https://github.com/aldefy/compose-skill)
   > Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code r...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 
 ---
-*最后更新于 2026-07-28 13:56:36 UTC*
+*最后更新于 2026-07-28 16:04:23 UTC*
 *历史记录保存在 `archive` 目录中。*
