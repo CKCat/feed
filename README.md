@@ -34,6 +34,14 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openai/codex-security](https://github.com/openai/codex-security)
   > SDKs and CLI for Codex Security
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [RustCrypto/signatures](https://github.com/RustCrypto/signatures)
+  > Cryptographic signature algorithms: DSA, ECDSA, Ed25519
+
+### [RicterZ](https://github.com/RicterZ)
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [qinyuanpei/mcp-server-weibo](https://github.com/qinyuanpei/mcp-server-weibo) to [RicterZ/mcp-server-weibo](https://github.com/RicterZ/mcp-server-weibo)
+  > 基于 Model Context Protocol 的微博数据接口服务器 - 实时获取微博用户信息、动态内容、热搜榜单、粉丝关注数据。支持用户搜索、内容搜索、话题分析，为 AI 应用提供完整的微博数据...
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb)
   > ADB in your browser
@@ -47,6 +55,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [MicroRJ/Orbiter](https://github.com/MicroRJ/Orbiter)
+  > An immersive NES emulator and introspector.
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore)
@@ -105,5 +117,5 @@
 
 
 ---
-*最后更新于 2026-07-29 14:01:22 UTC*
+*最后更新于 2026-07-29 16:17:56 UTC*
 *历史记录保存在 `archive` 目录中。*
