@@ -16,7 +16,7 @@
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
@@ -34,7 +34,7 @@
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
   > bin-trace-agent 
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [RustCrypto/signatures](https://github.com/RustCrypto/signatures)
@@ -119,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-07-29 20:09:24 UTC*
+*最后更新于 2026-07-29 21:57:07 UTC*
 *历史记录保存在 `archive` 目录中。*
