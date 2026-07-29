@@ -7,6 +7,8 @@
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
   > 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [vschko/CaseStudies](https://github.com/vschko/CaseStudies)
@@ -117,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-07-29 18:03:29 UTC*
+*最后更新于 2026-07-29 20:09:24 UTC*
 *历史记录保存在 `archive` 目录中。*
