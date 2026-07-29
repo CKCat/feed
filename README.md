@@ -49,6 +49,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tuiparts/tuiparts](https://github.com/tuiparts/tuiparts)
   > UI component library for terminal applications built on @opentui/*
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RimuruW/pi-hashline-edit](https://github.com/RimuruW/pi-hashline-edit)
+  > A pi-coding-agent extension that replaces the built-in tools with a hash-anchored line-editing workf...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal)
@@ -87,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-07-28 22:00:24 UTC*
+*最后更新于 2026-07-28 23:55:04 UTC*
 *历史记录保存在 `archive` 目录中。*
