@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
+  > 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [vschko/CaseStudies](https://github.com/vschko/CaseStudies)
   > Real world CVEs in iOS/MacOS/*OS I've analysed for education purpose.
@@ -12,9 +16,17 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [openai/codex-security](https://github.com/openai/codex-security)
   > SDKs and CLI for Codex Security
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [redphx/better-xcloud](https://github.com/redphx/better-xcloud)
+  > Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/RdpGamepad](https://github.com/microsoft/RdpGamepad)
   > Remote Desktop Plugin for Xbox Gamepads
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [crafcat7/ncnn-MoE-Runtime](https://github.com/crafcat7/ncnn-MoE-Runtime)
+  > A lightweight heterogeneous MoE inference runtime based on ncnn
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
@@ -25,6 +37,8 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb)
   > ADB in your browser
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+  > An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [wieslawsoltes/WebScene](https://github.com/wieslawsoltes/WebScene)
@@ -33,6 +47,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore)
+  > The Native Reverse Engineering IDE. Zero-overhead binary analysis, full CPU emulation (PE/ELF), and ...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [VerySleepy/verysleepy](https://github.com/VerySleepy/verysleepy)
@@ -55,6 +73,10 @@
   > Source code for File Test - Interactive File System Test Tool
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [rodrigocfd/winlamb](https://github.com/rodrigocfd/winlamb)
   > A lightweight modern C++11 library for Win32 API, using lambdas to handle Windows messages.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [danielkrupinski/VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass)
+  > Valve Anti-Cheat bypass written in C.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [farazsth98/virtualbox-qemu-vuln-research-notes](https://github.com/farazsth98/virtualbox-qemu-vuln-research-notes)
+  > Vulnerability research notes for VirtualBox and QEMU. Contains debug environment setup notes, a PoC ...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [frizb/Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation)
@@ -83,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-07-29 08:33:53 UTC*
+*最后更新于 2026-07-29 11:22:02 UTC*
 *历史记录保存在 `archive` 目录中。*
