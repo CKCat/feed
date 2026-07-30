@@ -16,6 +16,14 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
   > Open Frontier Intelligence
 
+### [RicterZ](https://github.com/RicterZ)
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
+  > 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [lttruc1402/SeekKit.EntityFramework](https://github.com/lttruc1402/SeekKit.EntityFramework)
+  > High-performance cursor (keyset) pagination for Entity Framework Core - SQL Server, PostgreSQL, MySQ...
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [rust-cli/anstyle](https://github.com/rust-cli/anstyle) to [chenxiaolong/anstyle](https://github.com/chenxiaolong/anstyle)
   > ANSI text styling
@@ -48,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-07-30 09:27:39 UTC*
+*最后更新于 2026-07-30 11:49:05 UTC*
 *历史记录保存在 `archive` 目录中。*
