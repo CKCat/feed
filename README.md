@@ -12,6 +12,10 @@
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [F-19-F/IonStackQuest3](https://github.com/F-19-F/IonStackQuest3) to [5ec1cff/IonStackQuest3](https://github.com/5ec1cff/IonStackQuest3)
   > IonStack for Meta Quest3/3S
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [vldmrkl/airdrop-cli](https://github.com/vldmrkl/airdrop-cli) to [ChiChou/airdrop](https://github.com/ChiChou/airdrop)
+  > A macOS CLI for AirDrop written in Swift
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
   > Open Frontier Intelligence
@@ -40,6 +44,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [lttruc1402/SeekKit.EntityFramework](https://github.com/lttruc1402/SeekKit.EntityFramework)
   > High-performance cursor (keyset) pagination for Entity Framework Core - SQL Server, PostgreSQL, MySQ...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [agentrebench/AgentRE-Bench](https://github.com/agentrebench/AgentRE-Bench)
+  > AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse...
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [rust-cli/anstyle](https://github.com/rust-cli/anstyle) to [chenxiaolong/anstyle](https://github.com/chenxiaolong/anstyle)
   > ANSI text styling
@@ -57,6 +65,10 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [EKA2L1/EKA2L1](https://github.com/EKA2L1/EKA2L1)
   > A Symbian OS/N-Gage emulator
+
+### [j-hc](https://github.com/j-hc)
+- 🌟 👤 [j-hc](https://github.com/j-hc) Starred [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect)
+  > A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO ...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Guardsquare/flutter-re-demo](https://github.com/Guardsquare/flutter-re-demo)
@@ -84,5 +96,5 @@
 
 
 ---
-*最后更新于 2026-07-30 17:22:11 UTC*
+*最后更新于 2026-07-30 19:19:23 UTC*
 *历史记录保存在 `archive` 目录中。*
