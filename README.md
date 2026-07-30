@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [sowdust/pdfxplr](https://github.com/sowdust/pdfxplr) to [0xdea/pdfxplr](https://github.com/0xdea/pdfxplr)
+  > Extract hidden data from pdf files
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [F-19-F/IonStackQuest3](https://github.com/F-19-F/IonStackQuest3) to [5ec1cff/IonStackQuest3](https://github.com/5ec1cff/IonStackQuest3)
   > IonStack for Meta Quest3/3S
@@ -26,7 +30,23 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [YuKongA/ghostlock-oplus](https://github.com/YuKongA/ghostlock-oplus)
   > GhostLock for OPPO Find N5 / Find X8
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [EKA2L1/EKA2L1](https://github.com/EKA2L1/EKA2L1)
+  > A Symbian OS/N-Gage emulator
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Guardsquare/flutter-re-demo](https://github.com/Guardsquare/flutter-re-demo)
+  > Experiments on the feasibility of Flutter application reverse engineering
+
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [fatedier/frp](https://github.com/fatedier/frp)
+  > A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+  > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
+
 
 ---
-*最后更新于 2026-07-30 06:23:33 UTC*
+*最后更新于 2026-07-30 09:27:39 UTC*
 *历史记录保存在 `archive` 目录中。*
