@@ -16,6 +16,10 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
   > Open Frontier Intelligence
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [OxB0/MtkProtocol-Wireshark](https://github.com/OxB0/MtkProtocol-Wireshark)
+  > Wireshark lua scripts for analyzing mtk protocols
+
 ### [RicterZ](https://github.com/RicterZ)
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
   > 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
@@ -54,7 +58,15 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
   > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Idov31/Cronos](https://github.com/Idov31/Cronos)
+  > PoC for a sleep obfuscation technique leveraging waitable timers to evade memory scanners.
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [y11en/FOLIAGE](https://github.com/y11en/FOLIAGE)
+  > Experiment on reproducing Obfuscate & Sleep
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [maxDcb/DreamWalkers](https://github.com/maxDcb/DreamWalkers)
+  > Lab research on Windows loader internals, PE loading, stack artifacts, and execution tradeoffs.
+
 
 ---
-*最后更新于 2026-07-30 13:50:14 UTC*
+*最后更新于 2026-07-30 15:49:00 UTC*
 *历史记录保存在 `archive` 目录中。*
