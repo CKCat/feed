@@ -24,6 +24,18 @@
 - 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
   > 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
+  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Civitasmass/make-gpt-great-again](https://github.com/Civitasmass/make-gpt-great-again)
+  > Run OpenAI's GPT-5.6 family (Sol / Terra / Luna) inside Claude Code — an Anthropic-to-OpenAI proxy w...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
+  > No TrickyStore on Canoe
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [dannyisbad/kilij](https://github.com/dannyisbad/kilij)
+  > LLVM 20 code obfuscation framework. 12 IR passes and a bytecode VM with three execution modes.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [lttruc1402/SeekKit.EntityFramework](https://github.com/lttruc1402/SeekKit.EntityFramework)
   > High-performance cursor (keyset) pagination for Entity Framework Core - SQL Server, PostgreSQL, MySQ...
@@ -50,6 +62,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Guardsquare/flutter-re-demo](https://github.com/Guardsquare/flutter-re-demo)
   > Experiments on the feasibility of Flutter application reverse engineering
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [digimata/quill](https://github.com/digimata/quill)
+  > Ultra-minimalist macOS recording + transcription.
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [fatedier/frp](https://github.com/fatedier/frp)
   > A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -68,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-07-30 15:49:00 UTC*
+*最后更新于 2026-07-30 17:22:11 UTC*
 *历史记录保存在 `archive` 目录中。*
