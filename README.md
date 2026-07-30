@@ -77,6 +77,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [digimata/quill](https://github.com/digimata/quill)
   > Ultra-minimalist macOS recording + transcription.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [spmurrayzzz/minimax-rs](https://github.com/spmurrayzzz/minimax-rs)
+  > Custom inference engine to run Minimax-M2.X series of models on dual RTX Pro 6000 (sm120)
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [fatedier/frp](https://github.com/fatedier/frp)
@@ -94,7 +96,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [maxDcb/DreamWalkers](https://github.com/maxDcb/DreamWalkers)
   > Lab research on Windows loader internals, PE loading, stack artifacts, and execution tradeoffs.
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+  > A Download Manager that speeds up your downloads
+
 
 ---
-*最后更新于 2026-07-30 21:04:00 UTC*
+*最后更新于 2026-07-30 23:01:41 UTC*
 *历史记录保存在 `archive` 目录中。*
