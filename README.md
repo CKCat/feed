@@ -10,6 +10,12 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
   > Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
 
+### [BryanGIG](https://github.com/BryanGIG)
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
+  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [dannyisbad/kilij](https://github.com/dannyisbad/kilij)
+  > LLVM 20 code obfuscation framework. 12 IR passes and a bytecode VM with three execution modes.
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -44,6 +50,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
   > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark)
+  > DeepSeek V4 Flash DSpark 1M NVFP4 KV recipe for 2x DGX Spark
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
@@ -94,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-07-31 18:16:32 UTC*
+*最后更新于 2026-07-31 20:16:31 UTC*
 *历史记录保存在 `archive` 目录中。*
