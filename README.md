@@ -37,6 +37,10 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [baochip/baochip-1x](https://github.com/baochip/baochip-1x)
+  > Baochip 1x Silicon
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
   > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
@@ -63,6 +67,14 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
   > A non-root Xposed framework extending from LSPosed
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [bkerler/edl](https://github.com/bkerler/edl)
+  > Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [sonyps5201314/ida-pro-mcp](https://github.com/sonyps5201314/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [espressif/esp32-arduino-lib-builder](https://github.com/espressif/esp32-arduino-lib-builder)
 
@@ -76,7 +88,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ScriptIdiot/sleepmask_PatchlessHook](https://github.com/ScriptIdiot/sleepmask_PatchlessHook)
   > Code snippets to add on top of cobalt strike sleep mask to achieve patchless hook on AMSI and ETW
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [cherryand1112-creator/IPTV-JAPAN-M3U](https://github.com/cherryand1112-creator/IPTV-JAPAN-M3U)
+  > 只为分享能够持续有效的日本电视台m3u直播源，尽我所能做到每月更新
+
 
 ---
-*最后更新于 2026-07-31 16:05:33 UTC*
+*最后更新于 2026-07-31 18:16:32 UTC*
 *历史记录保存在 `archive` 目录中。*
