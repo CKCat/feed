@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [anticomputer/dev-framework](https://github.com/anticomputer/dev-framework)
+  > Opt-in agentic software-engineering discipline for the GitHub Copilot CLI: quality-bar rules, peer-r...
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
   > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
@@ -104,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-07-31 20:16:31 UTC*
+*最后更新于 2026-07-31 22:00:43 UTC*
 *历史记录保存在 `archive` 目录中。*
