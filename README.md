@@ -26,6 +26,22 @@
   > Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
   > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [different-ai/openwork](https://github.com/different-ai/openwork)
+  > The open-source alternative to Claude Cowork (powered by opencode)
+
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [UiIsBack/GhostHook](https://github.com/UiIsBack/GhostHook)
+  > GhostHook is a webhook spammer which spams discord webhooks with a message of your choice and it's v...
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/Demo](https://github.com/JingMatrix/Demo)
+  > A demo app to detect Zygote injections
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
+  > A non-root Xposed framework extending from LSPosed
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [espressif/esp32-arduino-lib-builder](https://github.com/espressif/esp32-arduino-lib-builder)
@@ -37,8 +53,10 @@
   > Using Just In Time (JIT) instruction decryption, this shellcode loader ensures that only the current...
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tijme/amd-ryzen-master-driver-v17-exploit](https://github.com/tijme/amd-ryzen-master-driver-v17-exploit)
   > Cobalt Strike (CS) Beacon Object File (BOF) for kernel exploitation using AMD's Ryzen Master Driver ...
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ScriptIdiot/sleepmask_PatchlessHook](https://github.com/ScriptIdiot/sleepmask_PatchlessHook)
+  > Code snippets to add on top of cobalt strike sleep mask to achieve patchless hook on AMSI and ETW
 
 
 ---
-*最后更新于 2026-07-31 06:08:13 UTC*
+*最后更新于 2026-07-31 09:40:33 UTC*
 *历史记录保存在 `archive` 目录中。*
