@@ -29,6 +29,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [different-ai/openwork](https://github.com/different-ai/openwork)
   > The open-source alternative to Claude Cowork (powered by opencode)
 
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [fvrmatteo/DrillAndJoin](https://github.com/fvrmatteo/DrillAndJoin)
+  > AI implementation of the "Drill & Join: A Method for Exact Inductive Program Synthesis" paper by Rem...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
@@ -53,16 +57,6 @@
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [picolibc/picolibc](https://github.com/picolibc/picolibc) to [frida/picolibc](https://github.com/frida/picolibc)
   > picolibc - a C library designed for embedded 32- and 64- bit systems.
 
-### [phodal](https://github.com/phodal)
-- 🍴 👤 [phodal](https://github.com/phodal) Forked [phuryn/pm-skills](https://github.com/phuryn/pm-skills) to [phodal/pm-skills](https://github.com/phodal/pm-skills)
-  > PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, exec...
-- 🍴 👤 [phodal](https://github.com/phodal) Forked [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) to [phodal/awesome-claude-skills](https://github.com/phodal/awesome-claude-skills)
-  > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- 🍴 👤 [phodal](https://github.com/phodal) Forked [composio-community/awesome-claude-plugins](https://github.com/composio-community/awesome-claude-plugins) to [phodal/awesome-claude-plugins](https://github.com/phodal/awesome-claude-plugins)
-  > A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and M...
-- 🍴 👤 [phodal](https://github.com/phodal) Forked [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) to [phodal/awesome-agent-skills](https://github.com/phodal/awesome-agent-skills)
-  > A curated collection of 1000+ agent skills from official dev teams and the community, compatible wit...
-
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/Demo](https://github.com/JingMatrix/Demo)
   > A demo app to detect Zygote injections
@@ -84,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-07-31 14:00:05 UTC*
+*最后更新于 2026-07-31 16:05:33 UTC*
 *历史记录保存在 `archive` 目录中。*
