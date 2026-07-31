@@ -29,6 +29,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [different-ai/openwork](https://github.com/different-ai/openwork)
   > The open-source alternative to Claude Cowork (powered by opencode)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
+  > An extremely fast Python linter and code formatter, written in Rust.
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -36,6 +40,14 @@
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [UiIsBack/GhostHook](https://github.com/UiIsBack/GhostHook)
   > GhostHook is a webhook spammer which spams discord webhooks with a message of your choice and it's v...
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [picolibc/picolibc](https://github.com/picolibc/picolibc) to [frida/picolibc](https://github.com/frida/picolibc)
+  > picolibc - a C library designed for embedded 32- and 64- bit systems.
+
+### [phodal](https://github.com/phodal)
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [phuryn/pm-skills](https://github.com/phuryn/pm-skills) to [phodal/pm-skills](https://github.com/phodal/pm-skills)
+  > PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, exec...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/Demo](https://github.com/JingMatrix/Demo)
@@ -58,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-07-31 09:40:33 UTC*
+*最后更新于 2026-07-31 11:55:41 UTC*
 *历史记录保存在 `archive` 目录中。*
