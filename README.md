@@ -33,9 +33,17 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+  > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
+  > Windows Privilege Escalation from User to Domain Admin.
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [UiIsBack/GhostHook](https://github.com/UiIsBack/GhostHook)
@@ -48,6 +56,12 @@
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [phuryn/pm-skills](https://github.com/phuryn/pm-skills) to [phodal/pm-skills](https://github.com/phodal/pm-skills)
   > PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, exec...
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) to [phodal/awesome-claude-skills](https://github.com/phodal/awesome-claude-skills)
+  > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [composio-community/awesome-claude-plugins](https://github.com/composio-community/awesome-claude-plugins) to [phodal/awesome-claude-plugins](https://github.com/phodal/awesome-claude-plugins)
+  > A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and M...
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) to [phodal/awesome-agent-skills](https://github.com/phodal/awesome-agent-skills)
+  > A curated collection of 1000+ agent skills from official dev teams and the community, compatible wit...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [JingMatrix/Demo](https://github.com/JingMatrix/Demo)
@@ -70,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-07-31 11:55:41 UTC*
+*最后更新于 2026-07-31 14:00:05 UTC*
 *历史记录保存在 `archive` 目录中。*
