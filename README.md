@@ -21,6 +21,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
   > Send push notifications to your phone or desktop using PUT/POST
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch) to [ZehMatt/SilentPatch](https://github.com/ZehMatt/SilentPatch)
+  > SilentPatch for GTA III, Vice City, and San Andreas
+
 ### [affggh](https://github.com/affggh)
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [ibilux/android_device_tree_hermes](https://github.com/ibilux/android_device_tree_hermes) to [affggh/android_device_oppo_a37m](https://github.com/affggh/android_device_oppo_a37m)
   > LineageOS device tree for Xiaomi Redmi Note 2
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-08-01 14:56:50 UTC*
+*最后更新于 2026-08-01 16:00:29 UTC*
 *历史记录保存在 `archive` 目录中。*
