@@ -20,6 +20,10 @@
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [dannyisbad/kilij](https://github.com/dannyisbad/kilij)
   > LLVM 20 code obfuscation framework. 12 IR passes and a bytecode VM with three execution modes.
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android) to [ChiChou/wireguard-android](https://github.com/ChiChou/wireguard-android)
+  > Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -106,7 +110,10 @@
 - 🌟 👤 [yujincheng08](https://github.com/yujincheng08) Starred [cherryand1112-creator/IPTV-JAPAN-M3U](https://github.com/cherryand1112-creator/IPTV-JAPAN-M3U)
   > 只为分享能够持续有效的日本电视台m3u直播源，尽我所能做到每月更新
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
+
 
 ---
-*最后更新于 2026-07-31 22:00:43 UTC*
+*最后更新于 2026-07-31 23:58:00 UTC*
 *历史记录保存在 `archive` 目录中。*
