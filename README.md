@@ -4,12 +4,18 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [badges/shields](https://github.com/badges/shields)
+  > Concise, consistent, and legible badges in SVG and raster format
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs)
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [futz12/bergamot-ncnn-vulkan](https://github.com/futz12/bergamot-ncnn-vulkan)
+  > mobile-friendly mechine translator
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
@@ -31,6 +37,8 @@
   > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
   > Personal website.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks](https://github.com/drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks)
+  > DeepSeek-V4-Flash-DSpark abliterated (uncensored) · ~100% refusal bypass · C1 ~57 tok/s · 1M ctx · 2...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)
@@ -48,7 +56,11 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [LeoChen-CoreMind/UDX710-TOOLS](https://github.com/LeoChen-CoreMind/UDX710-TOOLS)
   > UDX710-TOOLS
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [onedays12/Convert2Shellcode](https://github.com/onedays12/Convert2Shellcode)
+  > can convert EXE/DLL into position-independent shellcode
+
 
 ---
-*最后更新于 2026-08-01 13:10:48 UTC*
+*最后更新于 2026-08-01 14:56:50 UTC*
 *历史记录保存在 `archive` 目录中。*
