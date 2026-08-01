@@ -16,6 +16,8 @@
   > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [futz12/bergamot-ncnn-vulkan](https://github.com/futz12/bergamot-ncnn-vulkan)
   > mobile-friendly mechine translator
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [skaiui2/lttit](https://github.com/skaiui2/lttit)
+  > A dynamically programmable distributed real-time operating system
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
@@ -24,6 +26,10 @@
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch) to [ZehMatt/SilentPatch](https://github.com/ZehMatt/SilentPatch)
   > SilentPatch for GTA III, Vice City, and San Andreas
+
+### [abcz316](https://github.com/abcz316)
+- 🌟 👤 [abcz316](https://github.com/abcz316) Starred [dreamcolor123/skp-drmid-kernel-virtualizer](https://github.com/dreamcolor123/skp-drmid-kernel-virtualizer)
+  > Android 14+ ARM64 DRM ID kernel virtualizer for SKRoot Pro (Linux 6.6 / 6.12)
 
 ### [affggh](https://github.com/affggh)
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [ibilux/android_device_tree_hermes](https://github.com/ibilux/android_device_tree_hermes) to [affggh/android_device_oppo_a37m](https://github.com/affggh/android_device_oppo_a37m)
@@ -66,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-08-01 16:00:29 UTC*
+*最后更新于 2026-08-01 17:56:42 UTC*
 *历史记录保存在 `archive` 目录中。*
