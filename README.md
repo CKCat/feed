@@ -53,6 +53,8 @@
   > Personal website.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks](https://github.com/drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks)
   > DeepSeek-V4-Flash-DSpark abliterated (uncensored) · ~100% refusal bypass · C1 ~57 tok/s · 1M ctx · 2...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [linsmod/-vc-dev-debuging-tool-for-ai-agent](https://github.com/linsmod/-vc-dev-debuging-tool-for-ai-agent) to [mrexodia/-vc-dev-debuging-tool-for-ai-agent](https://github.com/mrexodia/-vc-dev-debuging-tool-for-ai-agent)
+  > aidbg: bringing an "AI-friendly gdb" back to Windows
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)
@@ -76,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-08-01 19:07:23 UTC*
+*最后更新于 2026-08-01 20:46:05 UTC*
 *历史记录保存在 `archive` 目录中。*
