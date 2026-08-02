@@ -29,11 +29,16 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)
   > Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、...
 
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [mkckr0/audio-share](https://github.com/mkckr0/audio-share)
+  > Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone be...
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
   > Script for applying custom firmware to Even Realities G2 smart glasses
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/tunnel-client](https://github.com/openai/tunnel-client)
 
 
 ---
-*最后更新于 2026-08-02 10:37:12 UTC*
+*最后更新于 2026-08-02 11:58:56 UTC*
 *历史记录保存在 `archive` 目录中。*
