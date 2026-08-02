@@ -22,12 +22,24 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [shitagaki-lab/see-through](https://github.com/shitagaki-lab/see-through)
   > "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+  > Easily train a good VC model with voice data <= 10 mins!
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [daemonphantom/Awayke](https://github.com/daemonphantom/Awayke)
+  > Keep Your Mac Awayke With the Lid Closed
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli)
   > Hex-Rays CLI (HCLI)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/docker-ida](https://github.com/NyaMisty/docker-ida)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)
   > Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
+  > Pi extension: rewrite rough prompts into precise technical prompts before send
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [x64dbg/GleeBug](https://github.com/x64dbg/GleeBug) to [mrexodia/GleeBug](https://github.com/mrexodia/GleeBug)
+  > Debugging Framework for Windows.
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mkckr0/audio-share](https://github.com/mkckr0/audio-share)
@@ -38,7 +50,13 @@
   > Script for applying custom firmware to Even Realities G2 smart glasses
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/tunnel-client](https://github.com/openai/tunnel-client)
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide)
+  > Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
+  > Hiding kernel-driver for x86/x64.
+
 
 ---
-*最后更新于 2026-08-02 11:58:56 UTC*
+*最后更新于 2026-08-02 13:42:02 UTC*
 *历史记录保存在 `archive` 目录中。*
