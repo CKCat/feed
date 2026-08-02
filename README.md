@@ -35,6 +35,9 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)
   > Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
   > Pi extension: rewrite rough prompts into precise technical prompts before send
@@ -62,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-08-02 19:17:55 UTC*
+*最后更新于 2026-08-02 20:50:24 UTC*
 *历史记录保存在 `archive` 目录中。*
