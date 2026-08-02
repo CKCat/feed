@@ -26,6 +26,8 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli)
   > Hex-Rays CLI (HCLI)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/docker-ida](https://github.com/NyaMisty/docker-ida)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)
+  > Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -33,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-08-02 08:16:33 UTC*
+*最后更新于 2026-08-02 10:37:12 UTC*
 *历史记录保存在 `archive` 目录中。*
