@@ -37,6 +37,8 @@
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+  > The agent engineering platform.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
@@ -65,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-08-02 20:50:24 UTC*
+*最后更新于 2026-08-02 21:51:31 UTC*
 *历史记录保存在 `archive` 目录中。*
