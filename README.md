@@ -56,7 +56,11 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
   > Hiding kernel-driver for x86/x64.
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [artinchip/luban-lite](https://github.com/artinchip/luban-lite)
+  > This reposiroty is the official release channel for ArtInchip's Luban SDK, and all intellectual prop...
+
 
 ---
-*最后更新于 2026-08-02 14:58:38 UTC*
+*最后更新于 2026-08-02 16:04:29 UTC*
 *历史记录保存在 `archive` 目录中。*
