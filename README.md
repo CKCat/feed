@@ -55,9 +55,15 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sanohiro/casty](https://github.com/sanohiro/casty)
   > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
 
+### [osm0sis](https://github.com/osm0sis)
+- 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
+  > Open source alternative to proprietary Tricky Store module
+
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) to [phodal/ego-lite](https://github.com/phodal/ego-lite)
   > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [wangyu-/NC2000](https://github.com/wangyu-/NC2000)
+  > A 6502-based retro computer emulator.  文曲星nc2000/nc2600/nc1020模拟器
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [go-delve/delve](https://github.com/go-delve/delve)
@@ -71,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-08-03 13:37:27 UTC*
+*最后更新于 2026-08-03 16:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
