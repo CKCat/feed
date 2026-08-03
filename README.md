@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) to [0xdea/kuna](https://github.com/0xdea/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [asLody/dexdec](https://github.com/asLody/dexdec)
   > Fast, accurate Android decompilation for humans and AI agents.
@@ -11,6 +17,10 @@
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
   > Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic acros...
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [V380-Ori/Astris.Binaries](https://github.com/V380-Ori/Astris.Binaries)
+  > Distribution binaries of Astris - a Nintendo Switch 1 emulator based on Ryujinx for Apple silicon Ma...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [asLody/dexdec](https://github.com/asLody/dexdec)
@@ -26,6 +36,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [asLody/dexdec](https://github.com/asLody/dexdec)
   > Fast, accurate Android decompilation for humans and AI agents.
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [plabayo/rama](https://github.com/plabayo/rama)
+  > modular service framework to move and transform network packets
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap)
 
@@ -35,6 +49,12 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)
   > ai reverse 一把梭
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
+  > Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sanohiro/casty](https://github.com/sanohiro/casty)
+  > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
+
 ### [phodal](https://github.com/phodal)
 - 🍴 👤 [phodal](https://github.com/phodal) Forked [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) to [phodal/ego-lite](https://github.com/phodal/ego-lite)
   > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
@@ -42,6 +62,8 @@
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [go-delve/delve](https://github.com/go-delve/delve)
   > Delve is a debugger for the Go programming language.
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [dann2333/udx710-mifi-info](https://github.com/dann2333/udx710-mifi-info)
+  > udx710-mifi-info
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [klezVirus/Moonwalk--](https://github.com/klezVirus/Moonwalk--)
@@ -49,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-08-03 10:38:30 UTC*
+*最后更新于 2026-08-03 13:37:27 UTC*
 *历史记录保存在 `archive` 目录中。*
