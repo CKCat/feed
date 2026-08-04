@@ -55,9 +55,17 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
   > A next-gen Ragnarok Online client
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [Kludex/zuvloop](https://github.com/Kludex/zuvloop)
+  > A libuv event loop for asyncio, written in Zig.
 
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
@@ -123,5 +131,5 @@
 
 
 ---
-*最后更新于 2026-08-04 19:25:55 UTC*
+*最后更新于 2026-08-04 21:07:54 UTC*
 *历史记录保存在 `archive` 目录中。*
