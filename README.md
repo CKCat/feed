@@ -29,6 +29,8 @@
   > A lightweight yet powerful package installer for Android.
 - 🍴 👤 [KyuubiRan](https://github.com/KyuubiRan) Forked [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) to [KyuubiRan/Shizuku](https://github.com/KyuubiRan/Shizuku)
   > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
+- 🍴 👤 [KyuubiRan](https://github.com/KyuubiRan) Forked [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) to [KyuubiRan/Shizuku-API](https://github.com/KyuubiRan/Shizuku-API)
+  > The API and the developer guide for Shizuku and Sui.
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [GaoYuCan/jadx](https://github.com/GaoYuCan/jadx)
@@ -64,6 +66,10 @@
   > AArch32 and AArch64 Runtime Code Generation Library
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
   > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
@@ -107,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-08-04 15:25:14 UTC*
+*最后更新于 2026-08-04 17:43:05 UTC*
 *历史记录保存在 `archive` 目录中。*
