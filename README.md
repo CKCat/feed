@@ -8,6 +8,10 @@
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [sebras/buerg](https://github.com/sebras/buerg) to [lallouslab/buerg](https://github.com/lallouslab/buerg)
   > DOS utilities by Vernon D. Buerg.
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [SumZer0-git/EDAPGui](https://github.com/SumZer0-git/EDAPGui)
+  > An Autopilot for Elite Dangerous
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
   > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
@@ -55,6 +59,10 @@
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
   > A next-gen Ragnarok Online client
 
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
+  > A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC ...
+
 ### [ihciah](https://github.com/ihciah)
 - 🚀 👤 [ihciah](https://github.com/ihciah) Made [ihciah/cargo-zigbuild-image](https://github.com/ihciah/cargo-zigbuild-image) public
   > A regularly updated container image for cargo-zigbuild
@@ -70,6 +78,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
+  > An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
@@ -113,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-08-04 17:43:05 UTC*
+*最后更新于 2026-08-04 19:25:55 UTC*
 *历史记录保存在 `archive` 目录中。*
