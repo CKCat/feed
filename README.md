@@ -67,6 +67,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [Kludex/zuvloop](https://github.com/Kludex/zuvloop)
   > A libuv event loop for asyncio, written in Zig.
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [xajkep/wordlists](https://github.com/xajkep/wordlists)
+  > Infosec Wordlists and more.
+
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
   > A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC ...
@@ -88,6 +92,8 @@
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
   > An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ximinng/HiVG](https://github.com/ximinng/HiVG)
+  > Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modelin...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
@@ -131,5 +137,5 @@
 
 
 ---
-*最后更新于 2026-08-04 21:07:54 UTC*
+*最后更新于 2026-08-04 22:59:10 UTC*
 *历史记录保存在 `archive` 目录中。*
