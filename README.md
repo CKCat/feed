@@ -4,6 +4,16 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
+  > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [matteyeux/binja-diff](https://github.com/matteyeux/binja-diff)
+  > Binary Ninja diffing tool
+
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [S4N-T0S/recoil-analyser](https://github.com/S4N-T0S/recoil-analyser)
+  > Extract weapon recoil patterns and RPM from gameplay footage — tracks a wall marker to measure view ...
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [callstack/agent-device](https://github.com/callstack/agent-device)
   > CLI to control iOS and Android devices for AI agents
@@ -15,6 +25,9 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [jackmthws/two-tone-time](https://github.com/jackmthws/two-tone-time)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -33,10 +46,6 @@
   > People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. W...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
   > AArch32 and AArch64 Runtime Code Generation Library
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wevm/frog](https://github.com/wevm/frog)
-  > Automated friction logging for agents.
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
@@ -64,6 +73,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [alibaba/arthas](https://github.com/alibaba/arthas)
   > Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [haoict/TiniLinux](https://github.com/haoict/TiniLinux)
+  > "Tini" Linux distro for H700, RK3326 & RK3566 SOC devices
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [asLody/dexdec](https://github.com/asLody/dexdec)
   > Fast, accurate Android decompilation for humans and AI agents.
@@ -74,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-08-04 10:33:53 UTC*
+*最后更新于 2026-08-04 12:58:05 UTC*
 *历史记录保存在 `archive` 目录中。*
