@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [sebras/buerg](https://github.com/sebras/buerg) to [lallouslab/buerg](https://github.com/lallouslab/buerg)
+  > DOS utilities by Vernon D. Buerg.
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
   > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
@@ -17,10 +21,22 @@
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [callstack/agent-device](https://github.com/callstack/agent-device)
   > CLI to control iOS and Android devices for AI agents
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
+  > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🍴 👤 [KyuubiRan](https://github.com/KyuubiRan) Forked [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller) to [KyuubiRan/PackageInstaller](https://github.com/KyuubiRan/PackageInstaller)
+  > A lightweight yet powerful package installer for Android.
+- 🍴 👤 [KyuubiRan](https://github.com/KyuubiRan) Forked [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) to [KyuubiRan/Shizuku](https://github.com/KyuubiRan/Shizuku)
+  > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [GaoYuCan/jadx](https://github.com/GaoYuCan/jadx)
   > Dex to Java decompiler
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api)
+  > Public API, examples, documentation and issues for Binary Ninja
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -46,6 +62,8 @@
   > People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. W...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
   > AArch32 and AArch64 Runtime Code Generation Library
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
+  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
@@ -84,8 +102,10 @@
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) to [yuchuangu85/compose-fluent-ui](https://github.com/yuchuangu85/compose-fluent-ui)
   > Fluent Design UI library for Compose Multiplatform
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Dimezis/BlurView](https://github.com/Dimezis/BlurView)
+  > Dynamic iOS-like blur of underlying Views for Android
 
 
 ---
-*最后更新于 2026-08-04 12:58:05 UTC*
+*最后更新于 2026-08-04 15:25:14 UTC*
 *历史记录保存在 `archive` 目录中。*
