@@ -16,13 +16,27 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
   > A next-gen Ragnarok Online client
 
+### [ihciah](https://github.com/ihciah)
+- 🚀 👤 [ihciah](https://github.com/ihciah) Made [ihciah/cargo-zigbuild-image](https://github.com/ihciah/cargo-zigbuild-image) public
+  > A regularly updated container image for cargo-zigbuild
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad)
   > People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. W...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
+  > AArch32 and AArch64 Runtime Code Generation Library
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wevm/frog](https://github.com/wevm/frog)
+  > Automated friction logging for agents.
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
@@ -54,7 +68,11 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [asLody/dexdec](https://github.com/asLody/dexdec)
   > Fast, accurate Android decompilation for humans and AI agents.
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) to [yuchuangu85/compose-fluent-ui](https://github.com/yuchuangu85/compose-fluent-ui)
+  > Fluent Design UI library for Compose Multiplatform
+
 
 ---
-*最后更新于 2026-08-04 07:34:55 UTC*
+*最后更新于 2026-08-04 10:33:53 UTC*
 *历史记录保存在 `archive` 目录中。*
