@@ -18,6 +18,8 @@
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [wangyu-ovo/CREBench](https://github.com/wangyu-ovo/CREBench)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)
+  > [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -49,6 +51,10 @@
   > Industry standard API mocking for JavaScript.
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch)
   > The smallest, simplest and fastest JavaScript pixel-level image comparison library
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [cloudflare/computer](https://github.com/cloudflare/computer)
+  > Give your agent a computer 👾
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [QoderAI/better-harness](https://github.com/QoderAI/better-harness) to [phodal/better-harness](https://github.com/phodal/better-harness)
+  > Better Harness turns project and session evidence into loop-level insights, prioritized improvements...
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
@@ -58,6 +64,10 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [bilbospocketses/ws-scrcpy-web](https://github.com/bilbospocketses/ws-scrcpy-web)
+  > Browser-based Android screen mirroring and tooling — spiritual successor to ws-scrcpy, powered by va...
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
@@ -66,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-08-05 14:05:40 UTC*
+*最后更新于 2026-08-05 16:28:45 UTC*
 *历史记录保存在 `archive` 目录中。*
