@@ -29,6 +29,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)
   > [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [rxi/log.c](https://github.com/rxi/log.c)
+  > A simple logging library implemented in C99
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -91,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-08-05 20:23:00 UTC*
+*最后更新于 2026-08-05 22:08:47 UTC*
 *历史记录保存在 `archive` 目录中。*
