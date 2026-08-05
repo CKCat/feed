@@ -45,6 +45,9 @@
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [horsicq/CDiE](https://github.com/horsicq/CDiE)
   > Detect It Easy engine in pure C
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [i-snyder/pi-windows-nul-fix](https://github.com/i-snyder/pi-windows-nul-fix)
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [MonoMod/MonoMod](https://github.com/MonoMod/MonoMod)
   > C# modding swiss army knife, powered by cecil.
@@ -88,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-08-05 18:17:24 UTC*
+*最后更新于 2026-08-05 20:23:00 UTC*
 *历史记录保存在 `archive` 目录中。*
