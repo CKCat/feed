@@ -8,6 +8,14 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [samudoria/jadx_native](https://github.com/samudoria/jadx_native)
   > Jadx with native decompiler support
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) to [lallouslab/IDA_ClassInformer_PlugIn](https://github.com/lallouslab/IDA_ClassInformer_PlugIn)
+  > IDA ClassInformer PlugIn
+
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
+  > The binary you run is not the program you wrote.
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads)
   > Exploit payloads for Root My Pixel
@@ -28,6 +36,10 @@
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Agent-Hellboy/mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer)
   > A generic mcp server fuzzer
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Arcanum-Sec/P4RS3LT0NGV3](https://github.com/Arcanum-Sec/P4RS3LT0NGV3)
+  > Parseltongue 3.1 - LLM Payload Crafter for AI safety research
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [elder-plinius/P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3)
+  > universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
 
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [horsicq/CDiE](https://github.com/horsicq/CDiE)
@@ -76,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-08-05 16:28:45 UTC*
+*最后更新于 2026-08-05 18:17:24 UTC*
 *历史记录保存在 `archive` 目录中。*
