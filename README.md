@@ -4,6 +4,16 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
+  > :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [botswin/BotBrowser](https://github.com/botswin/BotBrowser)
+  > Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, D...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+  > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
   > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
@@ -19,5 +29,5 @@
 
 
 ---
-*最后更新于 2026-08-06 05:44:39 UTC*
+*最后更新于 2026-08-06 08:28:36 UTC*
 *历史记录保存在 `archive` 目录中。*
