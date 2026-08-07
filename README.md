@@ -22,6 +22,12 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [efibalogh/sparkle-ig](https://github.com/efibalogh/sparkle-ig)
   > Bring the spark back to Instagram!
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [duoan/TorchCode](https://github.com/duoan/TorchCode)
+  > 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with ...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [duoan/TorchCode](https://github.com/duoan/TorchCode) to [crazyguitar/TorchCode](https://github.com/crazyguitar/TorchCode)
+  > 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with ...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [DesktopECHO/ika](https://github.com/DesktopECHO/ika)
   > Android 16 desktop environment with GPU acceleration.  Ika-build creates an Android VM from source a...
@@ -35,6 +41,8 @@
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI)
   > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
+  > A library for mechanistic interpretability of GPT-style language models
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
@@ -52,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-08-07 17:44:46 UTC*
+*最后更新于 2026-08-07 18:49:58 UTC*
 *历史记录保存在 `archive` 目录中。*
