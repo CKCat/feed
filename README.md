@@ -10,11 +10,17 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
   > A CLI-first, headless, AI-native IDA Pro bridge built on Unix philosophy.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+  > Secure and fast microVMs for serverless computing.
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
+  > Kata Containers is an open source project and community working to build a standard implementation o...
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
   > Share your terminal over the web
 
 
 ---
-*最后更新于 2026-08-07 03:46:47 UTC*
+*最后更新于 2026-08-07 05:36:55 UTC*
 *历史记录保存在 `archive` 目录中。*
