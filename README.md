@@ -9,6 +9,8 @@
   > An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
   > A CLI-first, headless, AI-native IDA Pro bridge built on Unix philosophy.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
+  > The AI-friendly C23 compiler for security research, built on LLVM 
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
@@ -20,6 +22,12 @@
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI)
   > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
 
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+  > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [rednaga/APKiD](https://github.com/rednaga/APKiD)
   > Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
@@ -30,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-08-07 07:08:41 UTC*
+*最后更新于 2026-08-07 08:54:35 UTC*
 *历史记录保存在 `archive` 目录中。*
