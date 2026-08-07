@@ -22,6 +22,12 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [efibalogh/sparkle-ig](https://github.com/efibalogh/sparkle-ig)
   > Bring the spark back to Instagram!
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [duoan/TorchCode](https://github.com/duoan/TorchCode)
   > 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with ...
@@ -67,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-08-07 20:36:05 UTC*
+*最后更新于 2026-08-07 21:34:28 UTC*
 *历史记录保存在 `archive` 目录中。*
