@@ -22,6 +22,12 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [DesktopECHO/ika](https://github.com/DesktopECHO/ika)
   > Android 16 desktop environment with GPU acceleration.  Ika-build creates an Android VM from source a...
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [ADWMC/helm-x](https://github.com/ADWMC/helm-x)
+  > Codex 破甲工具 (helm-x): Codex CLI 本地映射控制工具 - 单二进制 C++17 零依赖
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [FLimburg/drm-gfx](https://github.com/FLimburg/drm-gfx)
+  > A 3D graphics rendering library for the Linux Direct Rendering Manager (DRM)
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI)
   > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
@@ -42,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-08-07 14:10:23 UTC*
+*最后更新于 2026-08-07 15:52:06 UTC*
 *历史记录保存在 `archive` 目录中。*
