@@ -23,6 +23,10 @@
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [matthias-deu/ubift](https://github.com/matthias-deu/ubift)
+  > The UBI Forensic Toolkit (UBIFT) is a Python command-line interface tool that aims to provide variou...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
@@ -45,6 +49,10 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [alfiecg24/Titan](https://github.com/alfiecg24/Titan)
   > An SPTM bypass for iOS 16 - 17.3.1
 
+### [rand-tech](https://github.com/rand-tech)
+- 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [M1sT3R-K1Lr0Y/converged-infrastructure-forensics-model](https://github.com/M1sT3R-K1Lr0Y/converged-infrastructure-forensics-model) to [rand-tech/converged-infrastructure-forensics-model](https://github.com/rand-tech/converged-infrastructure-forensics-model)
+  > The Converged Infrastructure Forensics Model (CIFM) is an investigative framework for reconstructing...
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
@@ -65,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-08-08 17:25:27 UTC*
+*最后更新于 2026-08-08 18:31:17 UTC*
 *历史记录保存在 `archive` 目录中。*
