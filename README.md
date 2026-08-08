@@ -12,9 +12,18 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nihui/nikki](https://github.com/nihui/nikki)
   > nikki is an experimental translation and runtime layer that implements a restricted, buffer-oriented...
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [openwrt/openwrt](https://github.com/openwrt/openwrt) to [Ylarod/openwrt](https://github.com/Ylarod/openwrt)
+  > This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only ...
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn)
@@ -32,5 +41,5 @@
 
 
 ---
-*最后更新于 2026-08-08 12:39:11 UTC*
+*最后更新于 2026-08-08 13:41:42 UTC*
 *历史记录保存在 `archive` 目录中。*
