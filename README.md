@@ -69,11 +69,15 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/basic-templates](https://github.com/xmake-addons/basic-templates)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/serial-monitor-plugin](https://github.com/xmake-addons/serial-monitor-plugin)
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [sonota88/vm2gol-v2](https://github.com/sonota88/vm2gol-v2)
+  > Small virtual machine, assembler and compiler written in pure Ruby / Rubyで書いたオレオレVMとアセンブラとコンパイラ
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 
 ---
-*最后更新于 2026-08-08 22:24:09 UTC*
+*最后更新于 2026-08-08 23:23:38 UTC*
 *历史记录保存在 `archive` 目录中。*
