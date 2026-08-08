@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [mito753/Kernel-Exploit-Dojo](https://github.com/mito753/Kernel-Exploit-Dojo)
+  > CTF kernel exploitation notes, PoCs, exploits, and writeups.
+
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [alfiecg24/Titan](https://github.com/alfiecg24/Titan)
+  > An SPTM bypass for iOS 16 - 17.3.1
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [3Shain/dxmt](https://github.com/3Shain/dxmt)
   > Metal-based implementation of D3D11 and D3D10 for macOS / Wine
@@ -45,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-08-08 14:27:52 UTC*
+*最后更新于 2026-08-08 15:24:50 UTC*
 *历史记录保存在 `archive` 目录中。*
