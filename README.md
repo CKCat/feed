@@ -33,6 +33,16 @@
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [openwrt/openwrt](https://github.com/openwrt/openwrt) to [Ylarod/openwrt](https://github.com/Ylarod/openwrt)
   > This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only ...
 
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [alfiecg24/Titan](https://github.com/alfiecg24/Titan)
+  > An SPTM bypass for iOS 16 - 17.3.1
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
@@ -53,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-08-08 15:24:50 UTC*
+*最后更新于 2026-08-08 16:28:11 UTC*
 *历史记录保存在 `archive` 目录中。*
