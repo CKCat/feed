@@ -38,6 +38,8 @@
   > Racing to the bottom of CPU performance
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
   > A very very very very very very very long interrupt
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [qilingframework/qiling](https://github.com/qilingframework/qiling)
+  > A True Instrumentable Binary Emulation Framework
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [alfiecg24/Titan](https://github.com/alfiecg24/Titan)
@@ -63,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-08-08 16:28:11 UTC*
+*最后更新于 2026-08-08 17:25:27 UTC*
 *历史记录保存在 `archive` 目录中。*
