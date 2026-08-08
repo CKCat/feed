@@ -35,11 +35,15 @@
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [dawwinci/agile-net-devirtualizer](https://github.com/dawwinci/agile-net-devirtualizer) to [sunwm518/agile-net-devirtualizer](https://github.com/sunwm518/agile-net-devirtualizer)
   > Generic devirtualizer for Agile.NET (SecureTeam/CodeVeil) VM-based method protection — reconstructs ...
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/basic-templates](https://github.com/xmake-addons/basic-templates)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/serial-monitor-plugin](https://github.com/xmake-addons/serial-monitor-plugin)
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 
 ---
-*最后更新于 2026-08-08 13:41:42 UTC*
+*最后更新于 2026-08-08 14:27:52 UTC*
 *历史记录保存在 `archive` 目录中。*
