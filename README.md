@@ -12,6 +12,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Ameyanagi/yuru](https://github.com/Ameyanagi/yuru)
   > Fast CJK-aware fuzzy finder with Japanese romaji and Chinese pinyin search.
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing)
+  > Official repository of Inter Profile Sharing App for GrapheneOS/Android
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -33,5 +37,5 @@
 
 
 ---
-*最后更新于 2026-08-09 10:29:37 UTC*
+*最后更新于 2026-08-09 11:24:13 UTC*
 *历史记录保存在 `archive` 目录中。*
