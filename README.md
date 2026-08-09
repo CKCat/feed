@@ -11,6 +11,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Ameyanagi/yuru](https://github.com/Ameyanagi/yuru)
   > Fast CJK-aware fuzzy finder with Japanese romaji and Chinese pinyin search.
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [0xeb/windbg-agent](https://github.com/0xeb/windbg-agent)
+  > WinDbg Copilot - Agentic Debugging extension
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing)
@@ -30,6 +32,13 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [KOUFU-DIY/WeGui_RGB](https://github.com/KOUFU-DIY/WeGui_RGB)
   > 包含WeGui_OLED全部内容, 升级多色显示, 多色GUI, 非全色域
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox)
+  > Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly ju...
+
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/esp32-devel](https://github.com/xmake-addons/esp32-devel)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
   > A very small C interpreter
@@ -40,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-08-09 14:30:07 UTC*
+*最后更新于 2026-08-09 15:26:17 UTC*
 *历史记录保存在 `archive` 目录中。*
