@@ -21,6 +21,8 @@
   > A tool that can share DeviceOwner permissions to other application.
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing) to [Mufanc/UpShare](https://github.com/Mufanc/UpShare)
   > Official repository of Inter Profile Sharing App for GrapheneOS/Android
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock)
+  > Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
 
 ### [SkyD666](https://github.com/SkyD666)
 - 🌟 👤 [SkyD666](https://github.com/SkyD666) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -29,6 +31,10 @@
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [colby57](https://github.com/colby57)
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [eversinc33/1.6-C2](https://github.com/eversinc33/1.6-C2)
+  > Using the Counter Strike 1.6 RCON protocol as a C2 Channel. 
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [KOUFU-DIY/WeGui_RGB](https://github.com/KOUFU-DIY/WeGui_RGB)
@@ -51,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-08-09 18:34:18 UTC*
+*最后更新于 2026-08-09 19:29:16 UTC*
 *历史记录保存在 `archive` 目录中。*
