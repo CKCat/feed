@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
+  > A very small C interpreter
+
 
 ---
-*最后更新于 2026-08-09 03:37:45 UTC*
+*最后更新于 2026-08-09 05:00:02 UTC*
 *历史记录保存在 `archive` 目录中。*
