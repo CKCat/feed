@@ -27,7 +27,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
   > A very small C interpreter
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub)
+  > Native GUI for Homebrew Casks
+
 
 ---
-*最后更新于 2026-08-09 09:34:51 UTC*
+*最后更新于 2026-08-09 10:29:37 UTC*
 *历史记录保存在 `archive` 目录中。*
