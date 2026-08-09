@@ -28,6 +28,10 @@
 - 🌟 👤 [SkyD666](https://github.com/SkyD666) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [SamuelTulach/HookGuard](https://github.com/SamuelTulach/HookGuard)
+  > Hooking Windows' exception dispatcher to protect process's PML4
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -57,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-08-09 21:27:11 UTC*
+*最后更新于 2026-08-09 22:25:46 UTC*
 *历史记录保存在 `archive` 目录中。*
