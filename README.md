@@ -12,11 +12,22 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Ameyanagi/yuru](https://github.com/Ameyanagi/yuru)
   > Fast CJK-aware fuzzy finder with Japanese romaji and Chinese pinyin search.
 
+### [bmax121](https://github.com/bmax121)
+- 🌟 👤 [bmax121](https://github.com/bmax121) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [KOUFU-DIY/WeGui_RGB](https://github.com/KOUFU-DIY/WeGui_RGB)
+  > 包含WeGui_OLED全部内容, 升级多色显示, 多色GUI, 非全色域
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
   > A very small C interpreter
 
 
 ---
-*最后更新于 2026-08-09 08:37:00 UTC*
+*最后更新于 2026-08-09 09:34:51 UTC*
 *历史记录保存在 `archive` 目录中。*
