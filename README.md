@@ -15,6 +15,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing)
   > Official repository of Inter Profile Sharing App for GrapheneOS/Android
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku)
+  > A tool that can share DeviceOwner permissions to other application.
 
 ### [SkyD666](https://github.com/SkyD666)
 - 🌟 👤 [SkyD666](https://github.com/SkyD666) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -32,6 +34,8 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llnl/OGhidra](https://github.com/llnl/OGhidra)
+  > OGhidra bridges Large Language Models (LLMs) via Ollama with the Ghidra reverse engineering platform...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
@@ -43,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-08-09 12:41:03 UTC*
+*最后更新于 2026-08-09 13:45:12 UTC*
 *历史记录保存在 `archive` 目录中。*
