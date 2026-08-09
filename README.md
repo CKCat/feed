@@ -30,13 +30,6 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [KOUFU-DIY/WeGui_RGB](https://github.com/KOUFU-DIY/WeGui_RGB)
   > 包含WeGui_OLED全部内容, 升级多色显示, 多色GUI, 非全色域
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
-  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llnl/OGhidra](https://github.com/llnl/OGhidra)
-  > OGhidra bridges Large Language Models (LLMs) via Ollama with the Ghidra reverse engineering platform...
-
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
   > A very small C interpreter
@@ -47,5 +40,5 @@
 
 
 ---
-*最后更新于 2026-08-09 13:45:12 UTC*
+*最后更新于 2026-08-09 14:30:07 UTC*
 *历史记录保存在 `archive` 目录中。*
