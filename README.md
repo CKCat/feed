@@ -19,6 +19,8 @@
   > Official repository of Inter Profile Sharing App for GrapheneOS/Android
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku)
   > A tool that can share DeviceOwner permissions to other application.
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing) to [Mufanc/UpShare](https://github.com/Mufanc/UpShare)
+  > Official repository of Inter Profile Sharing App for GrapheneOS/Android
 
 ### [SkyD666](https://github.com/SkyD666)
 - 🌟 👤 [SkyD666](https://github.com/SkyD666) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -49,5 +51,5 @@
 
 
 ---
-*最后更新于 2026-08-09 15:26:17 UTC*
+*最后更新于 2026-08-09 16:29:46 UTC*
 *历史记录保存在 `archive` 目录中。*
