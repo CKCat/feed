@@ -16,6 +16,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing)
   > Official repository of Inter Profile Sharing App for GrapheneOS/Android
 
+### [SkyD666](https://github.com/SkyD666)
+- 🌟 👤 [SkyD666](https://github.com/SkyD666) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+  > GhostLock One-Tap Execution App
+
 ### [bmax121](https://github.com/bmax121)
 - 🌟 👤 [bmax121](https://github.com/bmax121) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -26,6 +30,8 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
@@ -37,5 +43,5 @@
 
 
 ---
-*最后更新于 2026-08-09 11:24:13 UTC*
+*最后更新于 2026-08-09 12:41:03 UTC*
 *历史记录保存在 `archive` 目录中。*
