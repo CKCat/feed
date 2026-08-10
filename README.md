@@ -22,9 +22,17 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
   > Send push notifications to your phone or desktop using PUT/POST
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
+  > 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webh...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [bluuesmokes/showcard-android](https://github.com/bluuesmokes/showcard-android)
+
+### [T5ive](https://github.com/T5ive)
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [thananon/9arm-skills](https://github.com/thananon/9arm-skills) to [T5ive/9arm-skills](https://github.com/T5ive/9arm-skills)
+
+### [ihciah](https://github.com/ihciah)
+- 🌟 👤 [ihciah](https://github.com/ihciah) Starred [termio-sh/termio](https://github.com/termio-sh/termio)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
@@ -38,8 +46,10 @@
   > Standards for defining and evaluating agent behavior
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [thisismydesign/cursor-canvas-web](https://github.com/thisismydesign/cursor-canvas-web)
   > Deploy Cursor canvases to the web.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)
+  > A collection of agent-optimized React Native skills for AI coding assistants.
 
 
 ---
-*最后更新于 2026-08-10 11:03:59 UTC*
+*最后更新于 2026-08-10 12:58:46 UTC*
 *历史记录保存在 `archive` 目录中。*
