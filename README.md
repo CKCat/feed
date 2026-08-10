@@ -38,6 +38,7 @@
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [termio-sh/termio](https://github.com/termio-sh/termio)
+  > A terminal-first agentic development environment. Run a fleet of coding agents on your own machines.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
@@ -62,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-08-10 15:56:36 UTC*
+*最后更新于 2026-08-10 16:53:08 UTC*
 *历史记录保存在 `archive` 目录中。*
