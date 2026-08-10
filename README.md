@@ -38,7 +38,7 @@
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [termio-sh/termio](https://github.com/termio-sh/termio)
-  > A terminal-first agentic development environment. Run a fleet of coding agents on your own machines.
+  > A terminal-first agentic development environment for macOS. Run Claude Code, Codex, and any CLI agen...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
@@ -69,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-08-10 19:52:29 UTC*
+*最后更新于 2026-08-10 20:36:59 UTC*
 *历史记录保存在 `archive` 目录中。*
