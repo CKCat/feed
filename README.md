@@ -12,7 +12,14 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
   > Send push notifications to your phone or desktop using PUT/POST
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [braintrustdata/agentbehavior](https://github.com/braintrustdata/agentbehavior)
+  > Standards for defining and evaluating agent behavior
+
 
 ---
-*最后更新于 2026-08-10 05:22:20 UTC*
+*最后更新于 2026-08-10 07:24:18 UTC*
 *历史记录保存在 `archive` 目录中。*
