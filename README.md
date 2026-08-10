@@ -38,7 +38,7 @@
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [termio-sh/termio](https://github.com/termio-sh/termio)
-  > A terminal-first agentic development environment for macOS. Run Claude Code, Codex, and any CLI agen...
+  > A terminal-first agentic development environment for macOS. Build for Claude Code, Codex, OpenCode a...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
@@ -67,7 +67,13 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [qilingframework/qiling](https://github.com/qilingframework/qiling)
   > A True Instrumentable Binary Emulation Framework
 
+### [therealdreg](https://github.com/therealdreg)
+- 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/DbgChild](https://github.com/therealdreg/DbgChild)
+  > Debug Child Process Tool (auto attach)
+- 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/anticuckoo](https://github.com/therealdreg/anticuckoo)
+  > A tool to detect and crash Cuckoo Sandbox 
+
 
 ---
-*最后更新于 2026-08-10 20:36:59 UTC*
+*最后更新于 2026-08-10 21:37:00 UTC*
 *历史记录保存在 `archive` 目录中。*
