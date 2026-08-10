@@ -42,6 +42,12 @@
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [draperlaboratory/fracture](https://github.com/draperlaboratory/fracture)
+  > an architecture-independent decompiler to LLVM IR
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+  > A cross-platform unified Virtual Machine Introspection API library 
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP)
+  > Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -63,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-08-10 17:48:13 UTC*
+*最后更新于 2026-08-10 18:51:25 UTC*
 *历史记录保存在 `archive` 目录中。*
