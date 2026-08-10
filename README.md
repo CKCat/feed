@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [caomaolufei/AIInfraGuide](https://github.com/caomaolufei/AIInfraGuide)
+  > AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
+  > Send push notifications to your phone or desktop using PUT/POST
+
 
 ---
-*最后更新于 2026-08-10 01:23:35 UTC*
+*最后更新于 2026-08-10 03:49:51 UTC*
 *历史记录保存在 `archive` 目录中。*
