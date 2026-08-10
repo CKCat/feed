@@ -30,6 +30,11 @@
 
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [thananon/9arm-skills](https://github.com/thananon/9arm-skills) to [T5ive/9arm-skills](https://github.com/T5ive/9arm-skills)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/andrej-karpathy-skills](https://github.com/T5ive/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/pordee](https://github.com/T5ive/pordee)
+  > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/9arm-skills](https://github.com/T5ive/9arm-skills)
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [termio-sh/termio](https://github.com/termio-sh/termio)
@@ -40,6 +45,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge) to [mrexodia/ida-bridge](https://github.com/mrexodia/ida-bridge)
+  > Bridge between agents and IDA Pro.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [braintrustdata/agentbehavior](https://github.com/braintrustdata/agentbehavior)
@@ -49,7 +56,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)
   > A collection of agent-optimized React Native skills for AI coding assistants.
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [qilingframework/qiling](https://github.com/qilingframework/qiling)
+  > A True Instrumentable Binary Emulation Framework
+
 
 ---
-*最后更新于 2026-08-10 12:58:46 UTC*
+*最后更新于 2026-08-10 14:21:17 UTC*
 *历史记录保存在 `archive` 目录中。*
