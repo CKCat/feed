@@ -68,6 +68,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo)
   > An Android HW Attestation demo
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)
+  > Official repository of VMware open-vm-tools project
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [eset/ipyida](https://github.com/eset/ipyida) to [mrexodia/ipyida](https://github.com/mrexodia/ipyida)
@@ -97,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-08-11 16:56:46 UTC*
+*最后更新于 2026-08-11 17:56:13 UTC*
 *历史记录保存在 `archive` 目录中。*
