@@ -51,6 +51,9 @@
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [weekdaycare/bl-mt798x-dhcpd](https://github.com/weekdaycare/bl-mt798x-dhcpd) to [Ylarod/bl-mt798x-dhcpd](https://github.com/Ylarod/bl-mt798x-dhcpd)
   > A modified version of hanwckf's u-boot for mt798x by Yuzhii, with support for dhcpd, and beautiful w...
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [zhuzhu-Top/xdec](https://github.com/zhuzhu-Top/xdec)
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [voidauth/voidauth](https://github.com/voidauth/voidauth)
   > Single Sign-On for Your Self-Hosted Universe
@@ -108,5 +111,5 @@
 
 
 ---
-*最后更新于 2026-08-11 21:41:04 UTC*
+*最后更新于 2026-08-11 22:36:38 UTC*
 *历史记录保存在 `archive` 目录中。*
