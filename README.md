@@ -9,6 +9,8 @@
   > A tiling window manager for X11
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [swaywm/sway](https://github.com/swaywm/sway)
   > i3-compatible Wayland compositor
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/signal-auditor](https://github.com/trailofbits/signal-auditor)
+  > Key Transparency Auditor for Signal
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Margueritecluttered489/google-rkp-sw](https://github.com/Margueritecluttered489/google-rkp-sw)
@@ -106,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-08-11 20:01:40 UTC*
+*最后更新于 2026-08-11 21:41:04 UTC*
 *历史记录保存在 `archive` 目录中。*
