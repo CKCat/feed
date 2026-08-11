@@ -31,6 +31,9 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [mrcl-st/loyalty-patterns](https://github.com/mrcl-st/loyalty-patterns)
   > React components for the member-facing side of loyalty and gamification programs. Server-authoritati...
 
+### [Whitebird0](https://github.com/Whitebird0)
+- 🌟 👤 [Whitebird0](https://github.com/Whitebird0) Starred [sudami/com.wangyiheng.vcamsx](https://github.com/sudami/com.wangyiheng.vcamsx)
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [weekdaycare/bl-mt798x-dhcpd](https://github.com/weekdaycare/bl-mt798x-dhcpd) to [Ylarod/bl-mt798x-dhcpd](https://github.com/Ylarod/bl-mt798x-dhcpd)
   > A modified version of hanwckf's u-boot for mt798x by Yuzhii, with support for dhcpd, and beautiful w...
@@ -45,13 +48,13 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
   > Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and ...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
-  > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
-
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [orcastor/phone_images](https://github.com/orcastor/phone_images)
   > 📱 常见手机型号照片，包括苹果和主要安卓厂商（华为、荣耀、小米、红米、Oppo、一加、Realme、Vivo、魅族、联想、中兴、samsung、锤子、Google、HTC等）
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai)
+  > A Git extension for tracking the AI-generated code in your repos
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
@@ -63,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-08-11 08:12:08 UTC*
+*最后更新于 2026-08-11 09:56:31 UTC*
 *历史记录保存在 `archive` 目录中。*
