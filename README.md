@@ -79,6 +79,13 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [orcastor/phone_images](https://github.com/orcastor/phone_images)
   > 📱 常见手机型号照片，包括苹果和主要安卓厂商（华为、荣耀、小米、红米、Oppo、一加、Realme、Vivo、魅族、联想、中兴、samsung、锤子、Google、HTC等）
 
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [qnx-ports/build-files](https://github.com/qnx-ports/build-files)
+  > QNX build files and instructions for ports
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [xtang2010/llama.cpp-qnx](https://github.com/xtang2010/llama.cpp-qnx)
+  > llama.cpp ported to QNX
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai)
   > A Git extension for tracking the AI-generated code in your repos
@@ -99,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-08-11 18:59:45 UTC*
+*最后更新于 2026-08-11 20:01:40 UTC*
 *历史记录保存在 `archive` 目录中。*
