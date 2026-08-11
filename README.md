@@ -10,6 +10,12 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [swaywm/sway](https://github.com/swaywm/sway)
   > i3-compatible Wayland compositor
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Margueritecluttered489/google-rkp-sw](https://github.com/Margueritecluttered489/google-rkp-sw)
+  > Provide Android Remote Key Provisioning in software to generate AuthenticatedRequest CSRs and export...
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [Margueritecluttered489/google-rkp-sw](https://github.com/Margueritecluttered489/google-rkp-sw) to [KuNgia09/google-rkp-sw](https://github.com/KuNgia09/google-rkp-sw)
+  > Provide Android Remote Key Provisioning in software to generate AuthenticatedRequest CSRs and export...
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [zhuzhu-Top/xdec](https://github.com/zhuzhu-Top/xdec)
 
@@ -48,6 +54,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
   > Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and ...
 
+### [locus-x64](https://github.com/locus-x64)
+- 🍴 👤 [locus-x64](https://github.com/locus-x64) Forked [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) to [locus-x64/Solaar](https://github.com/locus-x64/Solaar)
+  > Linux device manager for Logitech devices
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [orcastor/phone_images](https://github.com/orcastor/phone_images)
   > 📱 常见手机型号照片，包括苹果和主要安卓厂商（华为、荣耀、小米、红米、Oppo、一加、Realme、Vivo、魅族、联想、中兴、samsung、锤子、Google、HTC等）
@@ -66,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-08-11 09:56:31 UTC*
+*最后更新于 2026-08-11 10:49:59 UTC*
 *历史记录保存在 `archive` 目录中。*
