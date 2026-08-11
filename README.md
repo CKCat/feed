@@ -30,6 +30,7 @@
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sailab-vienna/privesc-llm](https://github.com/sailab-vienna/privesc-llm)
   > Post-training local LLM agents for Linux privilege escalation using SFT and RL with verifiable rewar...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [66-demon/logagent](https://github.com/66-demon/logagent)
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
@@ -57,6 +58,8 @@
   > A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
   > Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and ...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
 ### [locus-x64](https://github.com/locus-x64)
 - 🍴 👤 [locus-x64](https://github.com/locus-x64) Forked [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) to [locus-x64/Solaar](https://github.com/locus-x64/Solaar)
@@ -73,6 +76,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai)
   > A Git extension for tracking the AI-generated code in your repos
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
+  > DuckDB is an analytical in-process SQL database management system
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
@@ -84,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-08-11 12:54:51 UTC*
+*最后更新于 2026-08-11 14:17:12 UTC*
 *历史记录保存在 `archive` 目录中。*
