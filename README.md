@@ -65,6 +65,10 @@
 - 🍴 👤 [locus-x64](https://github.com/locus-x64) Forked [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) to [locus-x64/Solaar](https://github.com/locus-x64/Solaar)
   > Linux device manager for Logitech devices
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo)
+  > An Android HW Attestation demo
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [eset/ipyida](https://github.com/eset/ipyida) to [mrexodia/ipyida](https://github.com/mrexodia/ipyida)
   > IPython console integration for IDA Pro
@@ -79,6 +83,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
   > DuckDB is an analytical in-process SQL database management system
 
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [danielsz/bioscoop](https://github.com/danielsz/bioscoop)
+  > FFmpeg DSL for creative coding
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
   > The binary you run is not the program you wrote.
@@ -89,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-08-11 14:17:12 UTC*
+*最后更新于 2026-08-11 15:56:43 UTC*
 *历史记录保存在 `archive` 目录中。*
