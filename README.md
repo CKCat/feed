@@ -35,6 +35,10 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/d3d8to9](https://github.com/crosire/d3d8to9)
   > A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
+  > Private, searchable screen history for macOS.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gluesql/gluesql](https://github.com/gluesql/gluesql)
   > GlueSQL is quite sticky. It sticks to anything.
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-08-12 09:58:15 UTC*
+*最后更新于 2026-08-12 11:01:49 UTC*
 *历史记录保存在 `archive` 目录中。*
