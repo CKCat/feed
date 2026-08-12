@@ -4,9 +4,6 @@
 
 ## 今日动态
 
-### [0xeb](https://github.com/0xeb)
-- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [radareorg/radare2-skills](https://github.com/radareorg/radare2-skills) to [lallouslab/radare2-skills](https://github.com/lallouslab/radare2-skills)
-
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [dotnet/skills](https://github.com/dotnet/skills)
   > Repository for skills to assist AI coding agents with .NET and C#
@@ -65,6 +62,14 @@
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
   > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itskovacs/trip](https://github.com/itskovacs/trip)
+  > 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/jot](https://github.com/badlogic/jot)
+  > Minimal self-hosted markdown editor with inline comment threads
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [angristan/netclode](https://github.com/angristan/netclode)
+  > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/pi-dictate](https://github.com/amosblomqvist/pi-dictate)
+  > Dictation extension for pi
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gluesql/gluesql](https://github.com/gluesql/gluesql)
@@ -88,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-08-12 22:35:58 UTC*
+*最后更新于 2026-08-12 23:36:38 UTC*
 *历史记录保存在 `archive` 目录中。*
