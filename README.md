@@ -12,6 +12,10 @@
 - 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/llama-install.sh](https://github.com/ggml-org/llama-install.sh) to [danbev/llama-install.sh](https://github.com/danbev/llama-install.sh)
   > Build and install script for llama.app
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [edneyosf/Edconv](https://github.com/edneyosf/Edconv)
+  > A user-friendly FFmpeg GUI
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [0xJs/BYOVD_read_write_primitive](https://github.com/0xJs/BYOVD_read_write_primitive)
   > Proof of Concepts code for Bring Your Own Vulnerable Driver techniques 
@@ -19,6 +23,10 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [huggingface/transformers.js](https://github.com/huggingface/transformers.js)
   > State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no ...
+
+### [fjqisba](https://github.com/fjqisba)
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [linuxhw/EDID](https://github.com/linuxhw/EDID)
+  > EDID repository for LCD monitors
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
@@ -45,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-08-12 08:13:25 UTC*
+*最后更新于 2026-08-12 09:58:15 UTC*
 *历史记录保存在 `archive` 目录中。*
