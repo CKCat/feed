@@ -63,6 +63,8 @@
   > Private, searchable screen history for macOS.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
+  > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gluesql/gluesql](https://github.com/gluesql/gluesql)
@@ -86,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-08-12 18:56:33 UTC*
+*最后更新于 2026-08-12 20:00:44 UTC*
 *历史记录保存在 `archive` 目录中。*
