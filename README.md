@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DarkFire01/reactos_posix](https://github.com/DarkFire01/reactos_posix)
+  > ReactOS Posix source code and libraries
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
 ### [danbev](https://github.com/danbev)
 - 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/llama-install.sh](https://github.com/ggml-org/llama-install.sh) to [danbev/llama-install.sh](https://github.com/danbev/llama-install.sh)
@@ -57,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-08-12 11:01:49 UTC*
+*最后更新于 2026-08-12 12:59:20 UTC*
 *历史记录保存在 `archive` 目录中。*
