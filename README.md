@@ -46,12 +46,18 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
   > Private, searchable screen history for macOS.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [gluesql/gluesql](https://github.com/gluesql/gluesql)
   > GlueSQL is quite sticky. It sticks to anything.
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [vowstar/qsoc](https://github.com/vowstar/qsoc)
   > QSoC - Quick System on Chip Studio
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [0xdad0/ssl-kill-switch-lsposed](https://github.com/0xdad0/ssl-kill-switch-lsposed)
+  > LSPosed module for disabling SSL certificate pinning on Android. Covers Java-layer pinning (OkHttp, ...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -65,5 +71,5 @@
 
 
 ---
-*最后更新于 2026-08-12 12:59:20 UTC*
+*最后更新于 2026-08-12 14:21:59 UTC*
 *历史记录保存在 `archive` 目录中。*
