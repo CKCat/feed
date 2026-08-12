@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [radareorg/radare2-skills](https://github.com/radareorg/radare2-skills) to [lallouslab/radare2-skills](https://github.com/lallouslab/radare2-skills)
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [dotnet/skills](https://github.com/dotnet/skills)
   > Repository for skills to assist AI coding agents with .NET and C#
@@ -52,6 +55,8 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/d3d8to9](https://github.com/crosire/d3d8to9)
   > A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
@@ -81,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-08-12 16:53:49 UTC*
+*最后更新于 2026-08-12 17:54:48 UTC*
 *历史记录保存在 `archive` 目录中。*
