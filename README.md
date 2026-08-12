@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [dotnet/skills](https://github.com/dotnet/skills)
+  > Repository for skills to assist AI coding agents with .NET and C#
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DarkFire01/reactos_posix](https://github.com/DarkFire01/reactos_posix)
   > ReactOS Posix source code and libraries
@@ -25,6 +29,10 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [edneyosf/Edconv](https://github.com/edneyosf/Edconv)
   > A user-friendly FFmpeg GUI
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [lkalir/tocat](https://github.com/lkalir/tocat)
+  > socat-inspired relay
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [0xJs/BYOVD_read_write_primitive](https://github.com/0xJs/BYOVD_read_write_primitive)
@@ -73,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-08-12 15:55:23 UTC*
+*最后更新于 2026-08-12 16:53:49 UTC*
 *历史记录保存在 `archive` 目录中。*
