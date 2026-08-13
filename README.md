@@ -48,6 +48,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable)
   > Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GP...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -122,5 +126,5 @@
 
 
 ---
-*最后更新于 2026-08-13 19:55:41 UTC*
+*最后更新于 2026-08-13 20:38:20 UTC*
 *历史记录保存在 `archive` 目录中。*
