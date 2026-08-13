@@ -51,6 +51,10 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [AlpinDale/parsync](https://github.com/AlpinDale/parsync)
+  > Parallel rsync-like pull sync over SSH with resume
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [AlpinDale/parsync](https://github.com/AlpinDale/parsync) to [crazyguitar/parsync](https://github.com/crazyguitar/parsync)
+  > Parallel rsync-like pull sync over SSH with resume
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox)
@@ -59,10 +63,16 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [sll552/DiscordBee](https://github.com/sll552/DiscordBee)
+  > MusicBee plugin that updates your Discord status with the currently playing track
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+
+### [momo5502](https://github.com/momo5502)
+- 🍴 👤 [momo5502](https://github.com/momo5502) Forked [JackTYM/FEX](https://github.com/JackTYM/FEX) to [momo5502/FEX](https://github.com/momo5502/FEX)
+  > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iBala/open-artifact](https://github.com/iBala/open-artifact) to [mrexodia/open-artifact](https://github.com/mrexodia/open-artifact)
@@ -73,6 +83,10 @@
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [lemomo-ai/codex-radar](https://github.com/lemomo-ai/codex-radar)
   > A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories — ...
+
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
@@ -108,5 +122,5 @@
 
 
 ---
-*最后更新于 2026-08-13 16:52:58 UTC*
+*最后更新于 2026-08-13 17:54:41 UTC*
 *历史记录保存在 `archive` 目录中。*
