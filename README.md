@@ -15,6 +15,8 @@
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject)
@@ -38,6 +40,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable)
+  > Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GP...
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -46,6 +52,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox)
   > 🧱 easy fast local-first microVM runtime and library
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
@@ -53,6 +63,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iBala/open-artifact](https://github.com/iBala/open-artifact) to [mrexodia/open-artifact](https://github.com/mrexodia/open-artifact)
   > Publish, share and comment on the HTML and Markdown your coding agent writes. Self-hosted.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [lemomo-ai/codex-radar](https://github.com/lemomo-ai/codex-radar)
@@ -71,6 +83,8 @@
   > Meta-Framework of Spatiotemporal Composability
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [cordiverse/paper](https://github.com/cordiverse/paper)
   > A Programming Paradigm for Spatiotemporal Composability
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) to [phodal/awesome-ai-plugins](https://github.com/phodal/awesome-ai-plugins)
+  > A curated list of awesome plugins for AI assistants including Claude Code, OpenAI Codex, Gemini, Ope...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -90,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-08-13 14:52:45 UTC*
+*最后更新于 2026-08-13 15:55:23 UTC*
 *历史记录保存在 `archive` 目录中。*
