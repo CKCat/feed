@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Mobile-IoT-Security-Lab/LLMObfuscDetection](https://github.com/Mobile-IoT-Security-Lab/LLMObfuscDetection)
+  > LLM Obfuscation Detection Framework for Android Apps
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject)
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [KuNgia09/sukinject](https://github.com/KuNgia09/sukinject)
@@ -19,6 +23,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
   > OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automat...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [WebKit/Speedometer](https://github.com/WebKit/Speedometer)
+  > An open source repository for the Speedometer benchmark
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
@@ -26,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-08-13 08:16:30 UTC*
+*最后更新于 2026-08-13 09:59:42 UTC*
 *历史记录保存在 `archive` 目录中。*
