@@ -15,6 +15,8 @@
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
   > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [cslab-pnu/XCFI](https://github.com/cslab-pnu/XCFI)
+  > XCFI: Comprehensive Control-Flow Integrity for Arm TrustZone-M
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)
@@ -79,6 +81,8 @@
   > A native-feeling macOS desktop workspace for Prime Agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
   > LLVM based obfuscator
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [radkawar/screenlogger](https://github.com/radkawar/screenlogger) to [mrexodia/screenlogger](https://github.com/mrexodia/screenlogger)
+  > Private, searchable screen history for macOS.
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -121,5 +125,5 @@
 
 
 ---
-*最后更新于 2026-08-14 14:14:55 UTC*
+*最后更新于 2026-08-14 15:46:38 UTC*
 *历史记录保存在 `archive` 目录中。*
