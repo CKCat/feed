@@ -73,6 +73,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [am-will/gooey-pi](https://github.com/am-will/gooey-pi)
   > A native-feeling macOS desktop workspace for Prime Agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
+  > LLVM based obfuscator
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -92,6 +94,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
   > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [liuwang97/walkplay-eq](https://github.com/liuwang97/walkplay-eq)
+  > 为 Walkplay / TTGK T02 USB DAC 耳放打造的桌面参量均衡器（PEQ）控制软件 · Tauri 2 + React
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
   > Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -109,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-08-14 11:41:32 UTC*
+*最后更新于 2026-08-14 12:56:44 UTC*
 *历史记录保存在 `archive` 目录中。*
