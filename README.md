@@ -22,6 +22,12 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding)
   > 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [suleram/View8](https://github.com/suleram/View8)
+  > View8 - Decompiles serialized V8 objects back into high-level readable code.
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -35,6 +41,10 @@
   > DeepSeek Harness: Everything is a Plugin.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [zhang588/Claude-Code-OrangeBook](https://github.com/zhang588/Claude-Code-OrangeBook)
   > Claude Code从入门到精通橙皮书 by 花叔
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
@@ -55,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-08-14 04:03:41 UTC*
+*最后更新于 2026-08-14 06:09:53 UTC*
 *历史记录保存在 `archive` 目录中。*
