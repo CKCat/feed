@@ -39,11 +39,23 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [beetbox/beets](https://github.com/beetbox/beets)
   > music library manager and MusicBrainz tagger
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [zhang588/Claude-Code-OrangeBook](https://github.com/zhang588/Claude-Code-OrangeBook)
   > Claude Code从入门到精通橙皮书 by 花叔
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
+  > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+- 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) to [kin9-0rz/dsh-deep-whale](https://github.com/kin9-0rz/dsh-deep-whale)
+  > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
+  > Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -62,6 +74,10 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qubka/valijson](https://github.com/qubka/valijson)
   > Header-only C++ library for JSON Schema validation, with support for many popular parsers
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [pharo-project/pharo-vm](https://github.com/pharo-project/pharo-vm) to [frida/pharo-vm](https://github.com/frida/pharo-vm)
+  > This is the VM used by Pharo
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
   > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
@@ -77,7 +93,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [erha19/ping-island](https://github.com/erha19/ping-island)
+  > A Dynamic Island-style command center for managing all your AI coding agents on macOS.
+
 
 ---
-*最后更新于 2026-08-14 08:11:31 UTC*
+*最后更新于 2026-08-14 09:56:11 UTC*
 *历史记录保存在 `archive` 目录中。*
