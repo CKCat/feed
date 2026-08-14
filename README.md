@@ -57,6 +57,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [zhang588/Claude-Code-OrangeBook](https://github.com/zhang588/Claude-Code-OrangeBook)
   > Claude Code从入门到精通橙皮书 by 花叔
 
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [starccy/rust-ape](https://github.com/starccy/rust-ape)
+  > Build Rust programs into Cosmopolitan APE binaries: one file that runs on Linux, macOS, Windows, on ...
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
   > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
@@ -93,6 +97,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
   > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [eclipse-langium/langium](https://github.com/eclipse-langium/langium)
+  > Next-gen language engineering / DSL framework
 
 ### [smx-smx](https://github.com/smx-smx)
 - 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [liuwang97/walkplay-eq](https://github.com/liuwang97/walkplay-eq)
@@ -115,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-08-14 12:56:44 UTC*
+*最后更新于 2026-08-14 14:14:55 UTC*
 *历史记录保存在 `archive` 目录中。*
