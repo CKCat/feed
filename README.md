@@ -8,6 +8,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
   > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
@@ -63,6 +67,8 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [am-will/gooey-pi](https://github.com/am-will/gooey-pi)
+  > A native-feeling macOS desktop workspace for Prime Agent
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -99,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-08-14 09:56:11 UTC*
+*最后更新于 2026-08-14 10:56:14 UTC*
 *历史记录保存在 `archive` 目录中。*
