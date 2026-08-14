@@ -12,6 +12,9 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
   > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -63,7 +66,18 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
   > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+  > Graph-Native Infrastructure for Context and Accountable AI Systems
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 
 ---
-*最后更新于 2026-08-14 06:09:53 UTC*
+*最后更新于 2026-08-14 08:11:31 UTC*
 *历史记录保存在 `archive` 目录中。*
