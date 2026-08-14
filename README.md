@@ -41,6 +41,9 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [RicterZ](https://github.com/RicterZ)
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [gboudreau/XBMCnfoMoviesImporter.bundle](https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle)
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -127,5 +130,5 @@
 
 
 ---
-*最后更新于 2026-08-14 16:48:32 UTC*
+*最后更新于 2026-08-14 17:48:53 UTC*
 *历史记录保存在 `archive` 目录中。*
