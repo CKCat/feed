@@ -60,6 +60,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [therealdreg](https://github.com/therealdreg)
 - 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64)
   > flashrom Dreg's build for Windows x64 & x32 Buzzpirat, raiden_debug_spi, ft2232_spi, serprog, buspir...
@@ -70,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-08-15 20:17:44 UTC*
+*最后更新于 2026-08-15 21:16:38 UTC*
 *历史记录保存在 `archive` 目录中。*
