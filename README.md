@@ -26,6 +26,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
   > 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking cha...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform)
+  > glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.
 
 ### [therealdreg](https://github.com/therealdreg)
 - 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64)
@@ -33,5 +35,5 @@
 
 
 ---
-*最后更新于 2026-08-15 07:26:35 UTC*
+*最后更新于 2026-08-15 08:22:21 UTC*
 *历史记录保存在 `archive` 目录中。*
