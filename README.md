@@ -49,6 +49,8 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust)
   > Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLi...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
+  > Keeping track of companies that "care about your data 🥺"
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -68,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-08-15 16:18:49 UTC*
+*最后更新于 2026-08-15 17:16:43 UTC*
 *历史记录保存在 `archive` 目录中。*
