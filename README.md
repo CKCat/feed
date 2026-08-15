@@ -12,6 +12,9 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
   > OpenMinis — The AI Agent app across platforms. Fully free and open source.
 
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) to [Mufanc/Anywhere-](https://github.com/Mufanc/Anywhere-)
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -24,7 +27,11 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
   > 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking cha...
 
+### [therealdreg](https://github.com/therealdreg)
+- 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64)
+  > flashrom Dreg's build for Windows x64 & x32 Buzzpirat, raiden_debug_spi, ft2232_spi, serprog, buspir...
+
 
 ---
-*最后更新于 2026-08-15 06:30:48 UTC*
+*最后更新于 2026-08-15 07:26:35 UTC*
 *历史记录保存在 `archive` 目录中。*
