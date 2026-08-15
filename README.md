@@ -8,6 +8,10 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
+  > 🪅 Windows & Linux userspace emulator 
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
   > OpenMinis — The AI Agent app across platforms. Fully free and open source.
@@ -51,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-08-15 10:18:02 UTC*
+*最后更新于 2026-08-15 11:15:54 UTC*
 *历史记录保存在 `archive` 目录中。*
