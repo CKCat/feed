@@ -28,6 +28,8 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
   > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)
+  > A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs)
@@ -56,9 +58,17 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [siggifly/ipod-emulator](https://github.com/siggifly/ipod-emulator)
+  > Apple's retail iPod 5.5G firmware boots here, from the reset vector. Formats its own filesystem, rea...
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ziyao233/lynx-js](https://github.com/ziyao233/lynx-js)
+  > Add QuickJS to lynx as JavaScript engine.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -74,5 +84,5 @@
 
 
 ---
-*最后更新于 2026-08-15 21:16:38 UTC*
+*最后更新于 2026-08-15 22:16:19 UTC*
 *历史记录保存在 `archive` 目录中。*
