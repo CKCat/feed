@@ -20,7 +20,11 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
+  > 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking cha...
+
 
 ---
-*最后更新于 2026-08-15 05:20:19 UTC*
+*最后更新于 2026-08-15 06:30:48 UTC*
 *历史记录保存在 `archive` 目录中。*
