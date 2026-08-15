@@ -29,6 +29,16 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
   > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
 
+### [colby57](https://github.com/colby57)
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs)
+  > Platform that enables Windows driver development in Rust
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [huggingface/nfsserve](https://github.com/huggingface/nfsserve)
+  > A Rust NFS Server implementation
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [huggingface/nfsserve](https://github.com/huggingface/nfsserve) to [crazyguitar/nfsserve](https://github.com/crazyguitar/nfsserve)
+  > A Rust NFS Server implementation
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
   > Beads - A memory upgrade for your coding agent
@@ -53,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-08-15 14:17:23 UTC*
+*最后更新于 2026-08-15 15:15:34 UTC*
 *历史记录保存在 `archive` 目录中。*
