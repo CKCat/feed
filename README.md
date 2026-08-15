@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+  > Comfortably monitor your network traffic 🕵️‍♂️
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -39,12 +43,6 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
-  > 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking cha...
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform)
-  > glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.
-
 ### [therealdreg](https://github.com/therealdreg)
 - 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64)
   > flashrom Dreg's build for Windows x64 & x32 Buzzpirat, raiden_debug_spi, ft2232_spi, serprog, buspir...
@@ -55,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-08-15 13:26:11 UTC*
+*最后更新于 2026-08-15 14:17:23 UTC*
 *历史记录保存在 `archive` 目录中。*
