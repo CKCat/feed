@@ -15,6 +15,16 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) to [Mufanc/Anywhere-](https://github.com/Mufanc/Anywhere-)
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
+  > Beads - A memory upgrade for your coding agent
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust)
+  > Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLi...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -35,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-08-15 08:22:21 UTC*
+*最后更新于 2026-08-15 09:21:08 UTC*
 *历史记录保存在 `archive` 目录中。*
