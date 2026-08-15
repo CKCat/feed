@@ -38,12 +38,17 @@
   > A Rust NFS Server implementation
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [huggingface/nfsserve](https://github.com/huggingface/nfsserve) to [crazyguitar/nfsserve](https://github.com/crazyguitar/nfsserve)
   > A Rust NFS Server implementation
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/gds-nvidia-fs](https://github.com/NVIDIA/gds-nvidia-fs)
+  > NVIDIA GPUDirect Storage Driver
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/gds-nvidia-fs](https://github.com/NVIDIA/gds-nvidia-fs) to [crazyguitar/gds-nvidia-fs](https://github.com/crazyguitar/gds-nvidia-fs)
+  > NVIDIA GPUDirect Storage Driver
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
   > Beads - A memory upgrade for your coding agent
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust)
   > Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLi...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -63,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-08-15 15:15:34 UTC*
+*最后更新于 2026-08-15 16:18:49 UTC*
 *历史记录保存在 `archive` 目录中。*
