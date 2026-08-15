@@ -11,6 +11,8 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
   > OpenMinis — The AI Agent app across platforms. Fully free and open source.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+  > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) to [Mufanc/Anywhere-](https://github.com/Mufanc/Anywhere-)
@@ -43,7 +45,11 @@
 - 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64)
   > flashrom Dreg's build for Windows x64 & x32 Buzzpirat, raiden_debug_spi, ft2232_spi, serprog, buspir...
 
+### [yhirose](https://github.com/yhirose)
+- 🍴 👤 [yhirose](https://github.com/yhirose) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [yhirose/llvm-project](https://github.com/yhirose/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 
 ---
-*最后更新于 2026-08-15 09:21:08 UTC*
+*最后更新于 2026-08-15 10:18:02 UTC*
 *历史记录保存在 `archive` 目录中。*
