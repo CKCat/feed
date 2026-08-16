@@ -16,6 +16,9 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
   > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
+### [affggh](https://github.com/affggh)
+- 🍴 👤 [affggh](https://github.com/affggh) Forked [sekaiacg/erofs-tools](https://github.com/sekaiacg/erofs-tools) to [CircleCashTeam/erofs-tools](https://github.com/CircleCashTeam/erofs-tools)
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
   > cpu inference only use 49M mem ,distribute inference
@@ -26,5 +29,5 @@
 
 
 ---
-*最后更新于 2026-08-16 12:30:59 UTC*
+*最后更新于 2026-08-16 13:27:07 UTC*
 *历史记录保存在 `archive` 目录中。*
