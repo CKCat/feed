@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [YiJieqwq/Android-Native-Overlay](https://github.com/YiJieqwq/Android-Native-Overlay)
   > A repository of imgui phototype
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AndroidIRCx/NULVEX](https://github.com/AndroidIRCx/NULVEX)
+  > Encrypted Notes + Self-Destruct (Offline-First)
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
   > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
@@ -18,6 +22,10 @@
 
 ### [affggh](https://github.com/affggh)
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [sekaiacg/erofs-tools](https://github.com/sekaiacg/erofs-tools) to [CircleCashTeam/erofs-tools](https://github.com/CircleCashTeam/erofs-tools)
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
+  > JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
@@ -36,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-08-16 17:15:23 UTC*
+*最后更新于 2026-08-16 18:21:54 UTC*
 *历史记录保存在 `archive` 目录中。*
