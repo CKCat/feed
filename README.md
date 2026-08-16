@@ -16,7 +16,11 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
   > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
+  > cpu inference only use 49M mem ,distribute inference
+
 
 ---
-*最后更新于 2026-08-16 10:18:20 UTC*
+*最后更新于 2026-08-16 11:16:20 UTC*
 *历史记录保存在 `archive` 目录中。*
