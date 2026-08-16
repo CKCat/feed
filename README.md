@@ -23,6 +23,9 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
   > cpu inference only use 49M mem ,distribute inference
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leancontext/website](https://github.com/leancontext/website)
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
@@ -33,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-08-16 16:19:00 UTC*
+*最后更新于 2026-08-16 17:15:23 UTC*
 *历史记录保存在 `archive` 目录中。*
