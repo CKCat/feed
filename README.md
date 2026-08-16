@@ -11,6 +11,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [AndroidIRCx/NULVEX](https://github.com/AndroidIRCx/NULVEX)
   > Encrypted Notes + Self-Destruct (Offline-First)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Esdex/Arcanum](https://github.com/Esdex/Arcanum)
+  > Encrypted vault app for Android
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
@@ -44,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-08-16 18:21:54 UTC*
+*最后更新于 2026-08-16 19:17:43 UTC*
 *历史记录保存在 `archive` 目录中。*
