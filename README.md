@@ -13,6 +13,8 @@
   > Encrypted Notes + Self-Destruct (Offline-First)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Esdex/Arcanum](https://github.com/Esdex/Arcanum)
   > Encrypted vault app for Android
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [MohamedRejeb/compose-rich-editor](https://github.com/MohamedRejeb/compose-rich-editor)
+  > A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable, s...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
@@ -46,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-08-16 19:17:43 UTC*
+*最后更新于 2026-08-16 20:16:59 UTC*
 *历史记录保存在 `archive` 目录中。*
