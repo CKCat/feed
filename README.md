@@ -23,11 +23,15 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
   > cpu inference only use 49M mem ,distribute inference
 
+### [osm0sis](https://github.com/osm0sis)
+- 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
+  > Open source alternative to proprietary Tricky Store module
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
   > Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io...
 
 
 ---
-*最后更新于 2026-08-16 15:16:55 UTC*
+*最后更新于 2026-08-16 16:19:00 UTC*
 *历史记录保存在 `archive` 目录中。*
