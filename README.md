@@ -15,6 +15,8 @@
   > High-performance Lottie & dotLottie player in Rust, with bindings for Android, iOS, Web (WASM), and ...
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [thorvg/thorvg](https://github.com/thorvg/thorvg)
   > A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced ...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [KhronosGroup/glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets)
+  > An assortment of assets that demonstrate features and capabilities of the glTF format
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -22,5 +24,5 @@
 
 
 ---
-*最后更新于 2026-08-17 02:55:18 UTC*
+*最后更新于 2026-08-17 03:46:00 UTC*
 *历史记录保存在 `archive` 目录中。*
