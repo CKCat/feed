@@ -21,6 +21,9 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate)
+
 ### [aengelke](https://github.com/aengelke)
 - 🍴 👤 [aengelke](https://github.com/aengelke) Forked [cole14/rust-elf](https://github.com/cole14/rust-elf) to [aengelke/rust-elf](https://github.com/aengelke/rust-elf)
   > Library for parsing ELF files for Rust
@@ -102,5 +105,5 @@
 
 
 ---
-*最后更新于 2026-08-17 16:21:40 UTC*
+*最后更新于 2026-08-17 17:22:49 UTC*
 *历史记录保存在 `archive` 目录中。*
