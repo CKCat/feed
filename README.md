@@ -23,6 +23,12 @@
 - 🍴 👤 [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines) Forked [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) to [cutecatsandvirtualmachines/wordpress-develop](https://github.com/cutecatsandvirtualmachines/wordpress-develop)
   > WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and t...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [gloxec/CrossC2](https://github.com/gloxec/CrossC2)
+  > generate CobaltStrike's cross-platform payload
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Ascend/cann-container-image](https://github.com/Ascend/cann-container-image)
+  > Dockerfiles for Ascend CANN
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/ida-headless-mcp](https://github.com/fuqiuluo/ida-headless-mcp)
   > Rust-native multi-session headless IDA Pro MCP server. One supervisor, one IDA worker per database, ...
@@ -71,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-08-17 10:27:10 UTC*
+*最后更新于 2026-08-17 11:20:37 UTC*
 *历史记录保存在 `archive` 目录中。*
