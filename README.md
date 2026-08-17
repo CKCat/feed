@@ -11,6 +11,20 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
   > An open source utility that provides fast incremental file transfer. It also has useful features for...
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/ida-headless-mcp](https://github.com/fuqiuluo/ida-headless-mcp)
+  > Rust-native multi-session headless IDA Pro MCP server. One supervisor, one IDA worker per database, ...
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) to [kin9-0rz/reverse-skill](https://github.com/kin9-0rz/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MaChInEgUn3/ygofm-decomp](https://github.com/MaChInEgUn3/ygofm-decomp)
+  > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PS1, SLUS_014.11) — byte-exact C recompilati...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
+  > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas)
   > A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js
@@ -31,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-08-17 05:31:14 UTC*
+*最后更新于 2026-08-17 06:45:30 UTC*
 *历史记录保存在 `archive` 目录中。*
