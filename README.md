@@ -85,6 +85,8 @@
   > DeepSeek Harness: Everything is a Plugin.
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [micromimo/Auroraqua-UI](https://github.com/micromimo/Auroraqua-UI)
   > 「Aurorαqua」is a React WebUI template & component library  themed as "Iced Jelly". This name combined...
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+  > Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
@@ -96,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-08-17 13:35:51 UTC*
+*最后更新于 2026-08-17 14:22:36 UTC*
 *历史记录保存在 `archive` 目录中。*
