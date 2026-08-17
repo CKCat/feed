@@ -17,6 +17,14 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [effekseer/Effekseer](https://github.com/effekseer/Effekseer)
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+  > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) to [Pyrenyl/Shizuku](https://github.com/Pyrenyl/Shizuku)
+  > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [RikkaW/HiddenApi](https://github.com/RikkaW/HiddenApi) to [Pyrenyl/HiddenApi](https://github.com/Pyrenyl/HiddenApi)
+  > Unify all hidden APIs used by Rikka apps into a library.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
@@ -89,6 +97,9 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
   > Static analysis for GitHub Actions
 
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [theubusu/m1ap_terminal](https://github.com/theubusu/m1ap_terminal)
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -107,5 +118,5 @@
 
 
 ---
-*最后更新于 2026-08-17 18:32:18 UTC*
+*最后更新于 2026-08-17 19:23:37 UTC*
 *历史记录保存在 `archive` 目录中。*
