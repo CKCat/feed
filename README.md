@@ -11,6 +11,8 @@
   > Assembly Syntax Support for Zed
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp)
   > Language server for NASM/GAS/GO Assembly
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [klauspost/asmfmt](https://github.com/klauspost/asmfmt)
+  > Go Assembler Formatter
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [effekseer/Effekseer](https://github.com/effekseer/Effekseer)
@@ -49,6 +51,9 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [blasty/ida-tui](https://github.com/blasty/ida-tui) to [mrexodia/ida-tui](https://github.com/mrexodia/ida-tui)
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
@@ -85,7 +90,11 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
   > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)
+  > CVE-2026-8452 PreAuth RCE
+
 
 ---
-*最后更新于 2026-08-17 12:35:37 UTC*
+*最后更新于 2026-08-17 13:35:51 UTC*
 *历史记录保存在 `archive` 目录中。*
