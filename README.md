@@ -7,6 +7,10 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [effekseer/Effekseer](https://github.com/effekseer/Effekseer)
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
+  > A library to build Control and Data Flow Graphs from binary code
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
   > An open source utility that provides fast incremental file transfer. It also has useful features for...
@@ -24,6 +28,10 @@
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PS1, SLUS_014.11) — byte-exact C recompilati...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mohammad-alattas/APISignature](https://github.com/mohammad-alattas/APISignature)
+  > APISignature is a plugin for x64dbg that help the malware analysts & reverse engineers during analys...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas)
@@ -45,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-08-17 06:45:30 UTC*
+*最后更新于 2026-08-17 07:49:07 UTC*
 *历史记录保存在 `archive` 目录中。*
