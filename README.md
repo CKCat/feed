@@ -15,6 +15,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
   > An open source utility that provides fast incremental file transfer. It also has useful features for...
 
+### [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines)
+- 🍴 👤 [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines) Forked [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) to [cutecatsandvirtualmachines/wordpress-develop](https://github.com/cutecatsandvirtualmachines/wordpress-develop)
+  > WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and t...
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/ida-headless-mcp](https://github.com/fuqiuluo/ida-headless-mcp)
   > Rust-native multi-session headless IDA Pro MCP server. One supervisor, one IDA worker per database, ...
@@ -29,9 +33,9 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mohammad-alattas/APISignature](https://github.com/mohammad-alattas/APISignature)
-  > APISignature is a plugin for x64dbg that help the malware analysts & reverse engineers during analys...
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
+  > Open source alternative to proprietary Tricky Store module
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas)
@@ -47,11 +51,21 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ChristopherVR/pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)
   > A comprehensive TypeScript monorepo for parsing, editing, rendering, and converting Microsoft PowerP...
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [tobi/qmd](https://github.com/tobi/qmd)
+  > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [micromimo/Auroraqua-UI](https://github.com/micromimo/Auroraqua-UI)
+  > 「Aurorαqua」is a React WebUI template & component library  themed as "Iced Jelly". This name combined...
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
+  > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
 
 ---
-*最后更新于 2026-08-17 08:37:30 UTC*
+*最后更新于 2026-08-17 09:36:07 UTC*
 *历史记录保存在 `archive` 目录中。*
