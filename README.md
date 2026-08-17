@@ -86,6 +86,8 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+  > Static analysis for GitHub Actions
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -105,5 +107,5 @@
 
 
 ---
-*最后更新于 2026-08-17 17:22:49 UTC*
+*最后更新于 2026-08-17 18:32:18 UTC*
 *历史记录保存在 `archive` 目录中。*
