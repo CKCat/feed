@@ -21,6 +21,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
 
+### [aengelke](https://github.com/aengelke)
+- 🍴 👤 [aengelke](https://github.com/aengelke) Forked [cole14/rust-elf](https://github.com/cole14/rust-elf) to [aengelke/rust-elf](https://github.com/aengelke/rust-elf)
+  > Library for parsing ELF files for Rust
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
   > An open source utility that provides fast incremental file transfer. It also has useful features for...
@@ -98,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-08-17 15:20:42 UTC*
+*最后更新于 2026-08-17 16:21:40 UTC*
 *历史记录保存在 `archive` 目录中。*
