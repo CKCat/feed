@@ -7,6 +7,10 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [randyhyde/ArtOfArm](https://github.com/randyhyde/ArtOfArm)
   > Art of ARM Assembly files
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [DevBlocky/zed-asm](https://github.com/DevBlocky/zed-asm)
+  > Assembly Syntax Support for Zed
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp)
+  > Language server for NASM/GAS/GO Assembly
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [effekseer/Effekseer](https://github.com/effekseer/Effekseer)
@@ -28,6 +32,8 @@
   > generate CobaltStrike's cross-platform payload
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Ascend/cann-container-image](https://github.com/Ascend/cann-container-image)
   > Dockerfiles for Ascend CANN
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
+  > DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/ida-headless-mcp](https://github.com/fuqiuluo/ida-headless-mcp)
@@ -60,6 +66,10 @@
   > A zero-dependency TypeScript library that converts EMF (Enhanced Metafile) and WMF (Windows Metafile...
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ChristopherVR/pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)
   > A comprehensive TypeScript monorepo for parsing, editing, rendering, and converting Microsoft PowerP...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom)
+  > :ocean: Digital timing diagram rendering engine
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [nturley/netlistsvg](https://github.com/nturley/netlistsvg)
+  > draws an SVG schematic from a JSON netlist
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [tobi/qmd](https://github.com/tobi/qmd)
@@ -77,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-08-17 11:20:37 UTC*
+*最后更新于 2026-08-17 12:35:37 UTC*
 *历史记录保存在 `archive` 目录中。*
