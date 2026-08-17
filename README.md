@@ -13,6 +13,8 @@
   > Language server for NASM/GAS/GO Assembly
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [klauspost/asmfmt](https://github.com/klauspost/asmfmt)
   > Go Assembler Formatter
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/AoAA](https://github.com/0xdea/AoAA)
+  > My code for "The Art of ARM Assembly Language", a book by Randall Hyde.
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [effekseer/Effekseer](https://github.com/effekseer/Effekseer)
@@ -118,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-08-17 21:21:16 UTC*
+*最后更新于 2026-08-17 22:19:34 UTC*
 *历史记录保存在 `archive` 目录中。*
