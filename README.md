@@ -24,6 +24,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
   > A browser that runs directly inside your existing terminal
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [R0rt1z2/GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10)
+  > Kernel root exploit (CVE-2026-43499) for some 5.X devices (mostly Amazon)
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-08-18 21:19:19 UTC*
+*最后更新于 2026-08-18 22:18:14 UTC*
 *历史记录保存在 `archive` 目录中。*
