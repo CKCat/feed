@@ -8,6 +8,10 @@
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies](https://github.com/achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies) to [MiroKaku/NebulaAuth-Steam-Desktop-Authenticator-by-Achies](https://github.com/MiroKaku/NebulaAuth-Steam-Desktop-Authenticator-by-Achies)
   > Reimagining the SDA application in better shape.
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [COM-plicated/XamlHostingKit](https://github.com/COM-plicated/XamlHostingKit)
+  > System XAML hosting library for Desktop apps with smooth resizing, backwards compatibility down to W...
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -17,5 +21,5 @@
 
 
 ---
-*最后更新于 2026-08-18 02:17:48 UTC*
+*最后更新于 2026-08-18 03:40:01 UTC*
 *历史记录保存在 `archive` 目录中。*
