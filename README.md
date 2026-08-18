@@ -19,7 +19,11 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
+  > A browser that runs directly inside your existing terminal
+
 
 ---
-*最后更新于 2026-08-18 03:40:01 UTC*
+*最后更新于 2026-08-18 04:30:53 UTC*
 *历史记录保存在 `archive` 目录中。*
