@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [XiaoTong6666/ZygoteNextProbe](https://github.com/XiaoTong6666/ZygoteNextProbe)
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies](https://github.com/achiez/NebulaAuth-Steam-Desktop-Authenticator-by-Achies) to [MiroKaku/NebulaAuth-Steam-Desktop-Authenticator-by-Achies](https://github.com/MiroKaku/NebulaAuth-Steam-Desktop-Authenticator-by-Achies)
   > Reimagining the SDA application in better shape.
@@ -30,12 +34,18 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [angr/angr](https://github.com/angr/angr)
   > A powerful and user-friendly binary analysis platform!
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
+  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel)
@@ -44,6 +54,10 @@
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [TheGammaSqueeze/UnisocBypass](https://github.com/TheGammaSqueeze/UnisocBypass) to [sin5678/UnisocBypass](https://github.com/sin5678/UnisocBypass)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [TheGammaSqueeze/UnisocBypass](https://github.com/TheGammaSqueeze/UnisocBypass)
+
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [drunkdream/weread-exporter](https://github.com/drunkdream/weread-exporter)
+  > 将微信读书中的书籍导出成epub、pdf、mobi等格式
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
@@ -55,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-08-18 09:27:40 UTC*
+*最后更新于 2026-08-18 10:23:13 UTC*
 *历史记录保存在 `archive` 目录中。*
