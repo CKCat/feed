@@ -33,6 +33,10 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
+  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel)
   > A Zed Agent Client Protocol (ACP) Jupyter Kernel
@@ -45,7 +49,11 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
   > A browser that runs directly inside your existing terminal
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/doxygen-plugin](https://github.com/xmake-addons/doxygen-plugin)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/macro-plugin](https://github.com/xmake-addons/macro-plugin)
+
 
 ---
-*最后更新于 2026-08-18 08:31:18 UTC*
+*最后更新于 2026-08-18 09:27:40 UTC*
 *历史记录保存在 `archive` 目录中。*
