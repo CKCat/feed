@@ -67,7 +67,10 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
   > A browser that runs directly inside your existing terminal
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/format-plugin](https://github.com/xmake-addons/format-plugin)
+
 
 ---
-*最后更新于 2026-08-18 13:38:03 UTC*
+*最后更新于 2026-08-18 14:28:25 UTC*
 *历史记录保存在 `archive` 目录中。*
