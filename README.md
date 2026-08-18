@@ -63,11 +63,7 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
   > A browser that runs directly inside your existing terminal
 
-### [waruqi](https://github.com/waruqi)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/doxygen-plugin](https://github.com/xmake-addons/doxygen-plugin)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/macro-plugin](https://github.com/xmake-addons/macro-plugin)
-
 
 ---
-*最后更新于 2026-08-18 10:23:13 UTC*
+*最后更新于 2026-08-18 11:20:38 UTC*
 *历史记录保存在 `archive` 目录中。*
