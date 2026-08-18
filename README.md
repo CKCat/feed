@@ -41,6 +41,10 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [locus-x64](https://github.com/locus-x64)
+- 🌟 👤 [locus-x64](https://github.com/locus-x64) Starred [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)
+  > Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
@@ -65,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-08-18 12:36:30 UTC*
+*最后更新于 2026-08-18 13:38:03 UTC*
 *历史记录保存在 `archive` 目录中。*
