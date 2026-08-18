@@ -49,6 +49,10 @@
 - 🌟 👤 [locus-x64](https://github.com/locus-x64) Starred [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)
   > Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [modular/modular](https://github.com/modular/modular)
+  > The Modular Platform (includes MAX & Mojo)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-08-18 17:21:53 UTC*
+*最后更新于 2026-08-18 18:31:45 UTC*
 *历史记录保存在 `archive` 目录中。*
