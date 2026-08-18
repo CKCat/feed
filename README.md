@@ -12,9 +12,23 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [COM-plicated/XamlHostingKit](https://github.com/COM-plicated/XamlHostingKit)
   > System XAML hosting library for Desktop apps with smooth resizing, backwards compatibility down to W...
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
+  > A browser that runs directly inside your existing terminal
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🍴 👤 [cxxsheng](https://github.com/cxxsheng) Forked [plast-lab/doop](https://github.com/plast-lab/doop) to [cxxsheng/doop](https://github.com/cxxsheng/doop)
+  > The official repo of Doop, the declarative pointer analysis framework.
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+  > The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent E...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [angr/angr](https://github.com/angr/angr)
+  > A powerful and user-friendly binary analysis platform!
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
@@ -23,11 +37,15 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel)
   > A Zed Agent Client Protocol (ACP) Jupyter Kernel
 
+### [sin5678](https://github.com/sin5678)
+- 🍴 👤 [sin5678](https://github.com/sin5678) Forked [TheGammaSqueeze/UnisocBypass](https://github.com/TheGammaSqueeze/UnisocBypass) to [sin5678/UnisocBypass](https://github.com/sin5678/UnisocBypass)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [TheGammaSqueeze/UnisocBypass](https://github.com/TheGammaSqueeze/UnisocBypass)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
   > A browser that runs directly inside your existing terminal
 
 
 ---
-*最后更新于 2026-08-18 05:24:07 UTC*
+*最后更新于 2026-08-18 06:35:34 UTC*
 *历史记录保存在 `archive` 目录中。*
