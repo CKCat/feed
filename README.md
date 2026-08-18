@@ -41,6 +41,10 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [ihciah](https://github.com/ihciah)
+- 🚀 👤 [ihciah](https://github.com/ihciah) Made [ihciah/nix-cache-worker](https://github.com/ihciah/nix-cache-worker) public
+  > A private, serverless Nix cache built on Cloudflare.
+
 ### [locus-x64](https://github.com/locus-x64)
 - 🌟 👤 [locus-x64](https://github.com/locus-x64) Starred [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)
   > Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
@@ -72,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-08-18 14:28:25 UTC*
+*最后更新于 2026-08-18 15:26:43 UTC*
 *历史记录保存在 `archive` 目录中。*
