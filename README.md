@@ -73,8 +73,9 @@
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/format-plugin](https://github.com/xmake-addons/format-plugin)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/avr-devel](https://github.com/xmake-addons/avr-devel)
 
 
 ---
-*最后更新于 2026-08-18 15:26:43 UTC*
+*最后更新于 2026-08-18 16:25:55 UTC*
 *历史记录保存在 `archive` 目录中。*
