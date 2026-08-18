@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [lkarlslund/jetkvm-desktop](https://github.com/lkarlslund/jetkvm-desktop) to [lallouslab/jetkvm-desktop](https://github.com/lallouslab/jetkvm-desktop)
+  > JetKVM native desktop GUI client
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [XiaoTong6666/ZygoteNextProbe](https://github.com/XiaoTong6666/ZygoteNextProbe)
@@ -81,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-08-18 19:23:57 UTC*
+*最后更新于 2026-08-18 20:18:16 UTC*
 *历史记录保存在 `archive` 目录中。*
