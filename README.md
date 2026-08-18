@@ -19,11 +19,15 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [wiki3-ai/agent-client-kernel](https://github.com/wiki3-ai/agent-client-kernel)
+  > A Zed Agent Client Protocol (ACP) Jupyter Kernel
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
   > A browser that runs directly inside your existing terminal
 
 
 ---
-*最后更新于 2026-08-18 04:30:53 UTC*
+*最后更新于 2026-08-18 05:24:07 UTC*
 *历史记录保存在 `archive` 目录中。*
