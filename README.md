@@ -49,6 +49,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [und3ath/xollvm](https://github.com/und3ath/xollvm)
+  > Modern LLVM Obfuscator
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
   > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
@@ -102,6 +106,10 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ARM-software/AVH](https://github.com/ARM-software/AVH)
   > This repository explains the usage of Arm Virtual Hardware Fixed Virtual Platforms (Arm FVPs).
 
+### [reveny](https://github.com/reveny)
+- 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Device-Trust](https://github.com/reveny/Android-Device-Trust) public
+  > Android device attestation tool
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [gameknife/gkNextEngine](https://github.com/gameknife/gkNextEngine)
   > gkNextEngine: cross platform 3D game engine written in modern c++ and vulkan with modern rendering f...
@@ -132,5 +140,5 @@
 
 
 ---
-*最后更新于 2026-08-19 19:20:47 UTC*
+*最后更新于 2026-08-19 20:21:19 UTC*
 *历史记录保存在 `archive` 目录中。*
