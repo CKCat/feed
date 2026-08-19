@@ -63,12 +63,16 @@
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
   > The world's fastest apk (android)/java open source decompiler
+- 🍴 👤 [neocanable](https://github.com/neocanable) Forked [radareorg/r2garlic](https://github.com/radareorg/r2garlic) to [neocanable/r2garlic](https://github.com/neocanable/r2garlic)
+  > The world's fastest Android/DEX decompiler meets radare2
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [CubeCoders/Jet](https://github.com/CubeCoders/Jet)
   > A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (...
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack)
   > Extension pack for all VS Code extensions
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ARM-software/AVH](https://github.com/ARM-software/AVH)
+  > This repository explains the usage of Arm Virtual Hardware Fixed Virtual Platforms (Arm FVPs).
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [gameknife/gkNextEngine](https://github.com/gameknife/gkNextEngine)
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-08-19 12:37:57 UTC*
+*最后更新于 2026-08-19 13:40:09 UTC*
 *历史记录保存在 `archive` 目录中。*
