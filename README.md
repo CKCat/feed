@@ -64,6 +64,8 @@
   > A high-throughput and memory-efficient inference and serving engine for LLMs
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mitmath/1806](https://github.com/mitmath/1806)
   > 18.06 course at MIT
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
+  > Fast and memory-efficient exact attention
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [mwgg/Airports](https://github.com/mwgg/Airports)
@@ -140,5 +142,5 @@
 
 
 ---
-*最后更新于 2026-08-19 20:21:19 UTC*
+*最后更新于 2026-08-19 21:20:37 UTC*
 *历史记录保存在 `archive` 目录中。*
