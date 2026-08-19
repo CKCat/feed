@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [mcuelenaere/regi](https://github.com/mcuelenaere/regi) to [lallouslab/regi](https://github.com/lallouslab/regi)
+  > Regi ― Native macOS client for JetKVM/PiKVM
+
 ### [Dr-TSNG](https://github.com/Dr-TSNG)
 - 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) to [Dr-TSNG/MiCTS](https://github.com/Dr-TSNG/MiCTS)
   > Trigger Circle to Search on any Android 9–16 device
@@ -82,6 +86,7 @@
   > IDA Pro resources, scripts, and configurations
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
   > A graphing library for Control Flow Graphs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack](https://github.com/ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack)
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -127,5 +132,5 @@
 
 
 ---
-*最后更新于 2026-08-19 18:28:28 UTC*
+*最后更新于 2026-08-19 19:20:47 UTC*
 *历史记录保存在 `archive` 目录中。*
