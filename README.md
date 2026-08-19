@@ -38,6 +38,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [lightningpixel/modly](https://github.com/lightningpixel/modly)
   > Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [CubeCoders/Jet](https://github.com/CubeCoders/Jet)
   > A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (...
@@ -54,7 +58,11 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python)
   > Undetected Python version of the Playwright testing and automation library. 
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+  > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
+
 
 ---
-*最后更新于 2026-08-19 07:33:44 UTC*
+*最后更新于 2026-08-19 08:31:58 UTC*
 *历史记录保存在 `archive` 目录中。*
