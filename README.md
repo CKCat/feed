@@ -39,6 +39,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
   > A high-throughput and memory-efficient inference and serving engine for LLMs
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mitmath/1806](https://github.com/mitmath/1806)
+  > 18.06 course at MIT
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [vmfunc/gh-os](https://github.com/vmfunc/gh-os)
@@ -93,6 +95,8 @@
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Bw3ll/sharem](https://github.com/Bw3ll/sharem)
   > SHAREM is a shellcode analysis framework, capable of emulating more than 45,000 WinAPIs and virutall...
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tyeurada/edrEvasionWorkshop](https://github.com/tyeurada/edrEvasionWorkshop)
+  > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python)
@@ -104,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-08-19 14:28:27 UTC*
+*最后更新于 2026-08-19 15:26:20 UTC*
 *历史记录保存在 `archive` 目录中。*
