@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) to [Dr-TSNG/MiCTS](https://github.com/Dr-TSNG/MiCTS)
+  > Trigger Circle to Search on any Android 9–16 device
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
@@ -59,6 +63,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [CubeCoders/Jet](https://github.com/CubeCoders/Jet)
   > A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack)
+  > Extension pack for all VS Code extensions
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [gameknife/gkNextEngine](https://github.com/gameknife/gkNextEngine)
@@ -71,6 +77,8 @@
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [yetone/cumora](https://github.com/yetone/cumora)
   > Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with ...
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/yaml](https://github.com/xmake-addons/yaml)
+  > A yaml parser module based on Xmake
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python)
@@ -82,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-08-19 10:23:09 UTC*
+*最后更新于 2026-08-19 11:20:36 UTC*
 *历史记录保存在 `archive` 目录中。*
