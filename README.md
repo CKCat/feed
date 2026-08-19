@@ -38,6 +38,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [lightningpixel/modly](https://github.com/lightningpixel/modly)
   > Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [CubeCoders/Jet](https://github.com/CubeCoders/Jet)
+  > A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (...
+
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [ifocus9/PopTrans](https://github.com/ifocus9/PopTrans) to [sunwm518/PopTrans](https://github.com/sunwm518/PopTrans)
   > PopTrans — Windows 本地离线翻译工具。选中文本 / OCR 截图后一键翻译，基于 Go + Wails + llama.cpp 纯 CPU 推理，无需 GPU。
@@ -52,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-08-19 06:36:37 UTC*
+*最后更新于 2026-08-19 07:33:44 UTC*
 *历史记录保存在 `archive` 目录中。*
