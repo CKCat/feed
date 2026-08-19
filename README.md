@@ -59,6 +59,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
   > IDA Pro resources, scripts, and configurations
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
+  > A graphing library for Control Flow Graphs
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -88,6 +90,10 @@
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/yaml](https://github.com/xmake-addons/yaml)
   > A yaml parser module based on Xmake
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Bw3ll/sharem](https://github.com/Bw3ll/sharem)
+  > SHAREM is a shellcode analysis framework, capable of emulating more than 45,000 WinAPIs and virutall...
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python)
   > Undetected Python version of the Playwright testing and automation library. 
@@ -98,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-08-19 13:40:09 UTC*
+*最后更新于 2026-08-19 14:28:27 UTC*
 *历史记录保存在 `archive` 目录中。*
