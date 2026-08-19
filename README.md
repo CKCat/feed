@@ -31,10 +31,16 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
   > Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) to [Pyrenyl/Shizuku-API](https://github.com/Pyrenyl/Shizuku-API)
+  > The API and the developer guide for Shizuku and Sui.
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
+  > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
@@ -108,5 +114,5 @@
 
 
 ---
-*最后更新于 2026-08-19 15:26:20 UTC*
+*最后更新于 2026-08-19 16:26:02 UTC*
 *历史记录保存在 `archive` 目录中。*
