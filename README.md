@@ -93,6 +93,8 @@
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
   > A graphing library for Control Flow Graphs
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack](https://github.com/ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Entrpi/ds4-on-spark](https://github.com/Entrpi/ds4-on-spark)
+  > Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-command install, ~3x ...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -142,5 +144,5 @@
 
 
 ---
-*最后更新于 2026-08-19 22:19:44 UTC*
+*最后更新于 2026-08-19 23:18:46 UTC*
 *历史记录保存在 `archive` 目录中。*
