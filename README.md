@@ -8,6 +8,13 @@
 - 🍴 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Forked [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) to [Dr-TSNG/MiCTS](https://github.com/Dr-TSNG/MiCTS)
   > Trigger Circle to Search on any Android 9–16 device
 
+### [F8LEFT](https://github.com/F8LEFT)
+- 🍴 👤 [F8LEFT](https://github.com/F8LEFT) Forked [JibbSmart/JoyShockLibrary](https://github.com/JibbSmart/JoyShockLibrary) to [F8LEFT/JoyShockLibrary](https://github.com/F8LEFT/JoyShockLibrary)
+  > Read DualSense, DualShock 4, JoyCon, and Pro Controller input on PC -- compiled for Windows, but cod...
+- 🍴 👤 [F8LEFT](https://github.com/F8LEFT) Forked [gpsnmeajp/VirtualMotionTracker](https://github.com/gpsnmeajp/VirtualMotionTracker) to [F8LEFT/VirtualMotionTracker](https://github.com/F8LEFT/VirtualMotionTracker)
+  > Virtual Motion Tracker - バーチャルモーショントラッカー OpenVR OSC Tracker Driver for DIY users
+- 🍴 👤 [F8LEFT](https://github.com/F8LEFT) Forked [alvr-org/alvr-cardboard](https://github.com/alvr-org/alvr-cardboard) to [F8LEFT/alvr-cardboard](https://github.com/F8LEFT/alvr-cardboard)
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
@@ -41,6 +48,8 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
   > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+  > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
@@ -114,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-08-19 16:26:02 UTC*
+*最后更新于 2026-08-19 17:22:18 UTC*
 *历史记录保存在 `archive` 目录中。*
