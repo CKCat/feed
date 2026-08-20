@@ -26,6 +26,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [eversinc33/NLIR](https://github.com/eversinc33/NLIR)
+  > NLIR (Natural Language Intermediate Representation) is a research PoC for a security-focused IR for ...
+
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs)
   > Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to deve...
@@ -38,10 +42,6 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [utdemir/nix-tree](https://github.com/utdemir/nix-tree)
   > Interactively browse dependency graphs of Nix derivations.
 
-### [eversinc33](https://github.com/eversinc33)
-- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [JimmyWesley/MonkeyLLM](https://github.com/JimmyWesley/MonkeyLLM)
-  > On questions needing ≥3 chained hops, a 12B local model scores 11/11 navigating a knowledge forest v...
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
@@ -49,6 +49,7 @@
   > OBLITERATE THE CHAINS THAT BIND YOU
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
   > Message passing based allocator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [tw93/Kami](https://github.com/tw93/Kami)
@@ -67,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-08-20 16:29:48 UTC*
+*最后更新于 2026-08-20 17:24:11 UTC*
 *历史记录保存在 `archive` 目录中。*
