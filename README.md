@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [haohao3001/Phone2USBStorage](https://github.com/haohao3001/Phone2USBStorage)
+
 ### [F8LEFT](https://github.com/F8LEFT)
 - 🍴 👤 [F8LEFT](https://github.com/F8LEFT) Forked [PhoneVR-Developers/PhoneVR](https://github.com/PhoneVR-Developers/PhoneVR) to [F8LEFT/PhoneVR](https://github.com/F8LEFT/PhoneVR)
   > Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Sourc...
@@ -37,6 +40,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
   > OBLITERATE THE CHAINS THAT BIND YOU
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [tw93/Kami](https://github.com/tw93/Kami)
+  > 👩‍🚒 Good content deserves good paper.
+
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [iscle/ums512_uboot](https://github.com/iscle/ums512_uboot) to [sin5678/ums512_uboot](https://github.com/sin5678/ums512_uboot)
 
@@ -46,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-08-20 09:29:36 UTC*
+*最后更新于 2026-08-20 10:24:46 UTC*
 *历史记录保存在 `archive` 目录中。*
