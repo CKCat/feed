@@ -57,11 +57,15 @@
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [iscle/ums512_uboot](https://github.com/iscle/ums512_uboot) to [sin5678/ums512_uboot](https://github.com/sin5678/ums512_uboot)
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+  > Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI ...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [stablyai/orca](https://github.com/stablyai/orca)
   > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 
 ---
-*最后更新于 2026-08-20 14:31:31 UTC*
+*最后更新于 2026-08-20 15:28:53 UTC*
 *历史记录保存在 `archive` 目录中。*
