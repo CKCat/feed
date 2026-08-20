@@ -15,6 +15,14 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vmos-dev/ai-battle-mcp](https://github.com/vmos-dev/ai-battle-mcp)
   > Multi-user AI group chat via MCP — let your AIs debate each other so you don't have to.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [JimmyWesley/MonkeyLLM](https://github.com/JimmyWesley/MonkeyLLM)
+  > On questions needing ≥3 chained hops, a 12B local model scores 11/11 navigating a knowledge forest v...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
@@ -30,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-08-20 05:25:11 UTC*
+*最后更新于 2026-08-20 06:38:16 UTC*
 *历史记录保存在 `archive` 目录中。*
