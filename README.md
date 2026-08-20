@@ -4,6 +4,11 @@
 
 ## 今日动态
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🍴 👤 [AeonLucid](https://github.com/AeonLucid) Forked [sokie/kirov-server-emulator](https://github.com/sokie/kirov-server-emulator) to [AeonLucid/kirov-server-emulator](https://github.com/AeonLucid/kirov-server-emulator)
+  > C&C server emulator written in python
+- 🍴 👤 [AeonLucid](https://github.com/AeonLucid) Forked [sokie/cnc_game_proxy](https://github.com/sokie/cnc_game_proxy) to [AeonLucid/cnc_game_proxy](https://github.com/AeonLucid/cnc_game_proxy)
+
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [haohao3001/Phone2USBStorage](https://github.com/haohao3001/Phone2USBStorage)
 
@@ -72,5 +77,5 @@
 
 
 ---
-*最后更新于 2026-08-20 19:27:03 UTC*
+*最后更新于 2026-08-20 20:22:50 UTC*
 *历史记录保存在 `archive` 目录中。*
