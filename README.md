@@ -35,6 +35,8 @@
   > Puffing up reinforcement learning
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [teleproxy/teleproxy](https://github.com/teleproxy/teleproxy)
   > High-performance MTProto proxy for Telegram with DPI resistance and fake-TLS camouflage
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [utdemir/nix-tree](https://github.com/utdemir/nix-tree)
+  > Interactively browse dependency graphs of Nix derivations.
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [JimmyWesley/MonkeyLLM](https://github.com/JimmyWesley/MonkeyLLM)
@@ -61,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-08-20 12:39:14 UTC*
+*最后更新于 2026-08-20 13:41:51 UTC*
 *历史记录保存在 `archive` 目录中。*
