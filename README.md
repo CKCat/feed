@@ -11,11 +11,18 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [HanZzzzz000/iv8](https://github.com/HanZzzzz000/iv8)
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vmos-dev/ai-battle-mcp](https://github.com/vmos-dev/ai-battle-mcp)
+  > Multi-user AI group chat via MCP — let your AIs debate each other so you don't have to.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
   > OBLITERATE THE CHAINS THAT BIND YOU
+
+### [sin5678](https://github.com/sin5678)
+- 🍴 👤 [sin5678](https://github.com/sin5678) Forked [iscle/ums512_uboot](https://github.com/iscle/ums512_uboot) to [sin5678/ums512_uboot](https://github.com/sin5678/ums512_uboot)
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -23,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-08-20 04:32:24 UTC*
+*最后更新于 2026-08-20 05:25:11 UTC*
 *历史记录保存在 `archive` 目录中。*
