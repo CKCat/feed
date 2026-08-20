@@ -14,6 +14,10 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [HanZzzzz000/iv8](https://github.com/HanZzzzz000/iv8)
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [mholt/caddy-l4](https://github.com/mholt/caddy-l4)
+  > Layer 4 (TCP/UDP) app for Caddy
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vmos-dev/ai-battle-mcp](https://github.com/vmos-dev/ai-battle-mcp)
   > Multi-user AI group chat via MCP — let your AIs debate each other so you don't have to.
@@ -29,6 +33,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib)
   > Puffing up reinforcement learning
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [teleproxy/teleproxy](https://github.com/teleproxy/teleproxy)
+  > High-performance MTProto proxy for Telegram with DPI resistance and fake-TLS camouflage
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [JimmyWesley/MonkeyLLM](https://github.com/JimmyWesley/MonkeyLLM)
@@ -39,6 +45,8 @@
   > Qwen3.8 27B on SGLang for DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
   > OBLITERATE THE CHAINS THAT BIND YOU
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
+  > Message passing based allocator
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [tw93/Kami](https://github.com/tw93/Kami)
@@ -53,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-08-20 10:24:46 UTC*
+*最后更新于 2026-08-20 11:22:00 UTC*
 *历史记录保存在 `archive` 目录中。*
