@@ -8,6 +8,9 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [pleahmacaka/zed-badge](https://github.com/pleahmacaka/zed-badge)
   > Realtime download badges for Zed extensions, styled after zed.dev
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Asterisk4Magisk/bpf2socks](https://github.com/Asterisk4Magisk/bpf2socks)
+
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/KMSDK](https://github.com/Dere3046/KMSDK)
   > package manager for the Dere3046 LKM ecosystem.
@@ -36,6 +39,10 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [milanmilic/SoapProxyApp](https://github.com/milanmilic/SoapProxyApp)
   > Lightweight Windows desktop HTTP/HTTPS proxy and auto-responder for debugging SOAP, WCF, and REST AP...
+
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
+  > DeepSeek v4 Flash EXL3 on one DGX Spark
 
 ### [colby57](https://github.com/colby57)
 - 🍴 👤 [colby57](https://github.com/colby57) Forked [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) to [colby57/TitanEngine](https://github.com/colby57/TitanEngine)
@@ -78,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-08-21 15:28:03 UTC*
+*最后更新于 2026-08-21 16:28:00 UTC*
 *历史记录保存在 `archive` 目录中。*
