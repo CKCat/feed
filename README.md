@@ -17,6 +17,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sahlberg/libsmb2](https://github.com/sahlberg/libsmb2)
   > SMB2/3 userspace client
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ekibun/Stitch](https://github.com/ekibun/Stitch)
+  > Screenshot stitch helper
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dimforge/rapier](https://github.com/dimforge/rapier)
   > 2D and 3D physics engines focused on performance.
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-08-21 06:38:26 UTC*
+*最后更新于 2026-08-21 07:38:38 UTC*
 *历史记录保存在 `archive` 目录中。*
