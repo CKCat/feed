@@ -47,6 +47,8 @@
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
   > DeepSeek v4 Flash EXL3 on one DGX Spark
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
+  > Model Context Protocol for WinDbg.
 
 ### [colby57](https://github.com/colby57)
 - 🍴 👤 [colby57](https://github.com/colby57) Forked [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) to [colby57/TitanEngine](https://github.com/colby57/TitanEngine)
@@ -89,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-08-21 18:30:19 UTC*
+*最后更新于 2026-08-21 19:22:17 UTC*
 *历史记录保存在 `archive` 目录中。*
