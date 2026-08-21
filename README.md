@@ -17,6 +17,10 @@
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/lkm-template](https://github.com/Dere3046/lkm-template)
   > module template for the Dere3046 LKM ecosystem.
 
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [thejh/linux](https://github.com/thejh/linux)
+  > Linux kernel source tree
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [KingFalse/redroid-rk3588](https://github.com/KingFalse/redroid-rk3588)
 
@@ -85,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-08-21 17:23:57 UTC*
+*最后更新于 2026-08-21 18:30:19 UTC*
 *历史记录保存在 `archive` 目录中。*
