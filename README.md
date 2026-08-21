@@ -21,9 +21,25 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ekibun/Stitch](https://github.com/ekibun/Stitch)
   > Screenshot stitch helper
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [lxyeternal/MalSkillBench](https://github.com/lxyeternal/MalSkillBench)
+  > A benchmark and generation framework for malicious agent skills.
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
+  > cpu inference only use 49M mem ,distribute inference
+
+### [peng-zhihui](https://github.com/peng-zhihui)
+- 🌟 👤 [peng-zhihui](https://github.com/peng-zhihui) Starred [meetsitaram/sonic-x2](https://github.com/meetsitaram/sonic-x2)
+  > SONIC whole-body tracking policy on the AgiBot X2 Ultra humanoid in MuJoCo — quick-play bundle with ...
+- 🍴 👤 [peng-zhihui](https://github.com/peng-zhihui) Forked [meetsitaram/sonic-x2](https://github.com/meetsitaram/sonic-x2) to [peng-zhihui/sonic-x2](https://github.com/peng-zhihui/sonic-x2)
+  > SONIC whole-body tracking policy on the AgiBot X2 Ultra humanoid in MuJoCo — quick-play bundle with ...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dimforge/rapier](https://github.com/dimforge/rapier)
   > 2D and 3D physics engines focused on performance.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [PostHog/posthog](https://github.com/PostHog/posthog)
+  > :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools –...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ZhengHe-MD/interactive-course](https://github.com/ZhengHe-MD/interactive-course)
@@ -34,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-08-21 07:38:38 UTC*
+*最后更新于 2026-08-21 08:34:43 UTC*
 *历史记录保存在 `archive` 目录中。*
