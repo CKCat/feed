@@ -16,6 +16,8 @@
   > package manager for the Dere3046 LKM ecosystem.
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/lkm-template](https://github.com/Dere3046/lkm-template)
   > module template for the Dere3046 LKM ecosystem.
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
+  > No TrickyStore on Canoe
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [thejh/linux](https://github.com/thejh/linux)
@@ -70,6 +72,10 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
   > cpu inference only use 49M mem ,distribute inference
 
+### [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
+- 🌟 👤 [githubuser0xFFFF](https://github.com/githubuser0xFFFF) Starred [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml)
+  > A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
+
 ### [peng-zhihui](https://github.com/peng-zhihui)
 - 🌟 👤 [peng-zhihui](https://github.com/peng-zhihui) Starred [meetsitaram/sonic-x2](https://github.com/meetsitaram/sonic-x2)
   > SONIC whole-body tracking policy on the AgiBot X2 Ultra humanoid in MuJoCo — quick-play bundle with ...
@@ -91,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-08-21 21:19:35 UTC*
+*最后更新于 2026-08-21 22:19:27 UTC*
 *历史记录保存在 `archive` 目录中。*
