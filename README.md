@@ -4,6 +4,19 @@
 
 ## 今日动态
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/KMSDK](https://github.com/Dere3046/KMSDK)
+  > package manager for the Dere3046 LKM ecosystem.
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/lkm-template](https://github.com/Dere3046/lkm-template)
+  > module template for the Dere3046 LKM ecosystem.
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [KingFalse/redroid-rk3588](https://github.com/KingFalse/redroid-rk3588)
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sahlberg/libsmb2](https://github.com/sahlberg/libsmb2)
+  > SMB2/3 userspace client
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dimforge/rapier](https://github.com/dimforge/rapier)
   > 2D and 3D physics engines focused on performance.
@@ -17,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-08-21 05:28:02 UTC*
+*最后更新于 2026-08-21 06:38:26 UTC*
 *历史记录保存在 `archive` 目录中。*
