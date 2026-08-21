@@ -13,6 +13,10 @@
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [KingFalse/redroid-rk3588](https://github.com/KingFalse/redroid-rk3588)
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
+  > GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [sahlberg/libsmb2](https://github.com/sahlberg/libsmb2)
   > SMB2/3 userspace client
@@ -24,6 +28,8 @@
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [lxyeternal/MalSkillBench](https://github.com/lxyeternal/MalSkillBench)
   > A benchmark and generation framework for malicious agent skills.
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
+  > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/yllm](https://github.com/evilbinary/yllm)
@@ -50,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-08-21 08:34:43 UTC*
+*最后更新于 2026-08-21 09:31:56 UTC*
 *历史记录保存在 `archive` 目录中。*
