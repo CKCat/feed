@@ -25,6 +25,14 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ekibun/Stitch](https://github.com/ekibun/Stitch)
   > Screenshot stitch helper
 
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+  > Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for b...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [milanmilic/SoapProxyApp](https://github.com/milanmilic/SoapProxyApp)
+  > Lightweight Windows desktop HTTP/HTTPS proxy and auto-responder for debugging SOAP, WCF, and REST AP...
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [lxyeternal/MalSkillBench](https://github.com/lxyeternal/MalSkillBench)
   > A benchmark and generation framework for malicious agent skills.
@@ -56,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-08-21 10:25:17 UTC*
+*最后更新于 2026-08-21 11:20:50 UTC*
 *历史记录保存在 `archive` 目录中。*
