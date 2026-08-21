@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [dimforge/rapier](https://github.com/dimforge/rapier)
+  > 2D and 3D physics engines focused on performance.
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ZhengHe-MD/interactive-course](https://github.com/ZhengHe-MD/interactive-course)
 
@@ -13,5 +17,5 @@
 
 
 ---
-*最后更新于 2026-08-21 02:58:09 UTC*
+*最后更新于 2026-08-21 03:52:51 UTC*
 *历史记录保存在 `archive` 目录中。*
