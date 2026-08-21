@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [pleahmacaka/zed-badge](https://github.com/pleahmacaka/zed-badge)
+  > Realtime download badges for Zed extensions, styled after zed.dev
+
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/KMSDK](https://github.com/Dere3046/KMSDK)
   > package manager for the Dere3046 LKM ecosystem.
@@ -32,6 +36,16 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [milanmilic/SoapProxyApp](https://github.com/milanmilic/SoapProxyApp)
   > Lightweight Windows desktop HTTP/HTTPS proxy and auto-responder for debugging SOAP, WCF, and REST AP...
+
+### [colby57](https://github.com/colby57)
+- 🍴 👤 [colby57](https://github.com/colby57) Forked [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) to [colby57/TitanEngine](https://github.com/colby57/TitanEngine)
+  > TitanEngine Community Edition. Debug engine used by x64dbg.
+- 🍴 👤 [colby57](https://github.com/colby57) Forked [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) to [colby57/x64dbg-unified](https://github.com/colby57/x64dbg-unified)
+  > An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysi...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [air-verse/air](https://github.com/air-verse/air)
+  > ☁️ Live reload for Go apps
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [lxyeternal/MalSkillBench](https://github.com/lxyeternal/MalSkillBench)
@@ -64,5 +78,5 @@
 
 
 ---
-*最后更新于 2026-08-21 11:20:50 UTC*
+*最后更新于 2026-08-21 12:38:13 UTC*
 *历史记录保存在 `archive` 目录中。*
