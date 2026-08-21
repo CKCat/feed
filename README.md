@@ -4,8 +4,14 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [ZhengHe-MD/interactive-course](https://github.com/ZhengHe-MD/interactive-course)
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [chenyme/grok2api](https://github.com/chenyme/grok2api)
+  > Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+
 
 ---
-*最后更新于 2026-08-21 01:04:02 UTC*
+*最后更新于 2026-08-21 02:58:09 UTC*
 *历史记录保存在 `archive` 目录中。*
