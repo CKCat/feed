@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [CKCat/feed](https://github.com/CKCat/feed)
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management ...
@@ -17,5 +20,5 @@
 
 
 ---
-*最后更新于 2026-08-22 08:23:51 UTC*
+*最后更新于 2026-08-22 09:22:28 UTC*
 *历史记录保存在 `archive` 目录中。*
