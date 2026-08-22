@@ -30,6 +30,8 @@
   > .NET LINQ capabilities in Go
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
   > GPUI – Community Edition
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow)
+  > Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you ...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Supercip971/WingOS](https://github.com/Supercip971/WingOS)
@@ -58,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-08-22 20:17:34 UTC*
+*最后更新于 2026-08-22 21:17:18 UTC*
 *历史记录保存在 `archive` 目录中。*
