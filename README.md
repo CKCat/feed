@@ -21,11 +21,19 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
   > A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
+  > Abliteration without the weights — projective refusal steering as a GLP vector + fail-closed boot ho...
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ahmetb/go-linq](https://github.com/ahmetb/go-linq)
   > .NET LINQ capabilities in Go
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
   > GPUI – Community Edition
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Supercip971/WingOS](https://github.com/Supercip971/WingOS)
+  > a little 64bit microkernel based operating system written in c++ with smp support 
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
@@ -50,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-08-22 18:22:50 UTC*
+*最后更新于 2026-08-22 19:19:19 UTC*
 *历史记录保存在 `archive` 目录中。*
