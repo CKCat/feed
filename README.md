@@ -34,6 +34,9 @@
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [oppo-source/android_kernel_oppo_ums9230](https://github.com/oppo-source/android_kernel_oppo_ums9230) to [sin5678/android_kernel_oppo_ums9230](https://github.com/sin5678/android_kernel_oppo_ums9230)
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/xmake-harness](https://github.com/xmake-addons/xmake-harness)
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [heyshagor/zorin-os-pro](https://github.com/heyshagor/zorin-os-pro)
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [heyshagor/zorin-os-pro](https://github.com/heyshagor/zorin-os-pro) to [ys1231/zorin-os-pro](https://github.com/ys1231/zorin-os-pro)
@@ -44,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-08-22 16:18:28 UTC*
+*最后更新于 2026-08-22 17:16:26 UTC*
 *历史记录保存在 `archive` 目录中。*
