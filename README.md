@@ -11,6 +11,12 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management ...
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ahmetb/go-linq](https://github.com/ahmetb/go-linq)
+  > .NET LINQ capabilities in Go
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
+  > GPUI – Community Edition
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
   > A user-friendly GUI to manage systemd units
@@ -24,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-08-22 11:16:45 UTC*
+*最后更新于 2026-08-22 12:30:36 UTC*
 *历史记录保存在 `archive` 目录中。*
