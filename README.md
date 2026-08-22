@@ -11,6 +11,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
+  > A user-friendly GUI to manage systemd units
+
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [oppo-source/android_kernel_oppo_ums9230](https://github.com/oppo-source/android_kernel_oppo_ums9230) to [sin5678/android_kernel_oppo_ums9230](https://github.com/sin5678/android_kernel_oppo_ums9230)
 
@@ -20,5 +24,5 @@
 
 
 ---
-*最后更新于 2026-08-22 09:22:28 UTC*
+*最后更新于 2026-08-22 10:18:26 UTC*
 *历史记录保存在 `archive` 目录中。*
