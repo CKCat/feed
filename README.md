@@ -30,6 +30,9 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
   > A user-friendly GUI to manage systemd units
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
+  > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
 
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [oppo-source/android_kernel_oppo_ums9230](https://github.com/oppo-source/android_kernel_oppo_ums9230) to [sin5678/android_kernel_oppo_ums9230](https://github.com/sin5678/android_kernel_oppo_ums9230)
@@ -47,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-08-22 17:16:26 UTC*
+*最后更新于 2026-08-22 18:22:50 UTC*
 *历史记录保存在 `archive` 目录中。*
