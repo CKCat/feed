@@ -43,6 +43,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
   > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
+  > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
 
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [oppo-source/android_kernel_oppo_ums9230](https://github.com/oppo-source/android_kernel_oppo_ums9230) to [sin5678/android_kernel_oppo_ums9230](https://github.com/sin5678/android_kernel_oppo_ums9230)
@@ -60,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-08-22 22:17:02 UTC*
+*最后更新于 2026-08-22 23:16:28 UTC*
 *历史记录保存在 `archive` 目录中。*
