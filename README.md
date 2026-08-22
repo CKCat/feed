@@ -7,6 +7,10 @@
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [CKCat/feed](https://github.com/CKCat/feed)
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [openssl-shim/openssl-shim](https://github.com/openssl-shim/openssl-shim)
+  > OpenSSL shim using platform-native TLS implementations or Mbed TLS as a fallback.
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management ...
@@ -26,11 +30,14 @@
 ### [sin5678](https://github.com/sin5678)
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [oppo-source/android_kernel_oppo_ums9230](https://github.com/oppo-source/android_kernel_oppo_ums9230) to [sin5678/android_kernel_oppo_ums9230](https://github.com/sin5678/android_kernel_oppo_ums9230)
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [heyshagor/zorin-os-pro](https://github.com/heyshagor/zorin-os-pro)
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
   > Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. ...
 
 
 ---
-*最后更新于 2026-08-22 14:16:51 UTC*
+*最后更新于 2026-08-22 15:16:16 UTC*
 *历史记录保存在 `archive` 目录中。*
