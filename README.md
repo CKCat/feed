@@ -7,6 +7,10 @@
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [CKCat/feed](https://github.com/CKCat/feed)
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🌟 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
+  > An easy-to-use, high-performance dex deobfuscation library.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [openssl-shim/openssl-shim](https://github.com/openssl-shim/openssl-shim)
   > OpenSSL shim using platform-native TLS implementations or Mbed TLS as a fallback.
@@ -32,6 +36,7 @@
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [heyshagor/zorin-os-pro](https://github.com/heyshagor/zorin-os-pro)
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [heyshagor/zorin-os-pro](https://github.com/heyshagor/zorin-os-pro) to [ys1231/zorin-os-pro](https://github.com/ys1231/zorin-os-pro)
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
@@ -39,5 +44,5 @@
 
 
 ---
-*最后更新于 2026-08-22 15:16:16 UTC*
+*最后更新于 2026-08-22 16:18:28 UTC*
 *历史记录保存在 `archive` 目录中。*
