@@ -10,6 +10,8 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management ...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+  > A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [ahmetb/go-linq](https://github.com/ahmetb/go-linq)
@@ -30,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-08-22 12:30:36 UTC*
+*最后更新于 2026-08-22 13:27:42 UTC*
 *历史记录保存在 `archive` 目录中。*
