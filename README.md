@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
+
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [lsahn-gh/unix-v6](https://github.com/lsahn-gh/unix-v6)
   > UNIX 6th Edition Kernel Source Code
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-08-23 07:29:28 UTC*
+*最后更新于 2026-08-23 08:23:47 UTC*
 *历史记录保存在 `archive` 目录中。*
