@@ -22,6 +22,10 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sdm660-mainline/linux](https://github.com/sdm660-mainline/linux)
   > Linux-sdm660 kernel source tree
 
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp)
   > Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome &...
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-08-23 18:22:56 UTC*
+*最后更新于 2026-08-23 19:19:04 UTC*
 *历史记录保存在 `archive` 目录中。*
