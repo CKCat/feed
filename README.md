@@ -7,10 +7,16 @@
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [ztxz16/fastllm](https://github.com/ztxz16/fastllm)
+  > fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepS...
 
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [lsahn-gh/unix-v6](https://github.com/lsahn-gh/unix-v6)
   > UNIX 6th Edition Kernel Source Code
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
+  > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
@@ -36,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-08-23 08:23:47 UTC*
+*最后更新于 2026-08-23 09:22:47 UTC*
 *历史记录保存在 `archive` 目录中。*
