@@ -13,6 +13,14 @@
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [lsahn-gh/unix-v6](https://github.com/lsahn-gh/unix-v6)
   > UNIX 6th Edition Kernel Source Code
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/RaanaSDK](https://github.com/Dere3046/RaanaSDK)
+  > Rust support LKM for Android GKI kernels.
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/rust_lkm_template](https://github.com/Dere3046/rust_lkm_template)
+  > Rust LKM template for the Dere3046 LKM ecosystem.
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sdm660-mainline/linux](https://github.com/sdm660-mainline/linux)
+  > Linux-sdm660 kernel source tree
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp)
@@ -23,6 +31,10 @@
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
   > External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
@@ -54,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-08-23 17:16:26 UTC*
+*最后更新于 2026-08-23 18:22:56 UTC*
 *历史记录保存在 `archive` 目录中。*
