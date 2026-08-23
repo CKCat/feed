@@ -17,6 +17,8 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp)
   > Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome &...
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
@@ -25,6 +27,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
   > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
@@ -50,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-08-23 15:17:39 UTC*
+*最后更新于 2026-08-23 16:19:42 UTC*
 *历史记录保存在 `archive` 目录中。*
