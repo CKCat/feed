@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [lsahn-gh/unix-v6](https://github.com/lsahn-gh/unix-v6)
+  > UNIX 6th Edition Kernel Source Code
+
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
@@ -23,8 +27,10 @@
   > Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
   > External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
+  > Orchestrate multiple coding agents from desktop and mobile
 
 
 ---
-*最后更新于 2026-08-23 05:24:46 UTC*
+*最后更新于 2026-08-23 06:34:00 UTC*
 *历史记录保存在 `archive` 目录中。*
