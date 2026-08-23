@@ -14,6 +14,14 @@
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [lsahn-gh/unix-v6](https://github.com/lsahn-gh/unix-v6)
   > UNIX 6th Edition Kernel Source Code
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp)
+  > Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome &...
+
+### [ihciah](https://github.com/ihciah)
+- 🌟 👤 [ihciah](https://github.com/ihciah) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
+  > External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
   > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
@@ -42,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-08-23 14:18:27 UTC*
+*最后更新于 2026-08-23 15:17:39 UTC*
 *历史记录保存在 `archive` 目录中。*
