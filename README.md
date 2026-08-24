@@ -28,6 +28,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [marin-community/marin](https://github.com/marin-community/marin)
   > Open-source framework for the research and development of foundation models.
 
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [noties/Markwon](https://github.com/noties/Markwon)
+  > Android markdown library (no WebView)
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [axboe/fio](https://github.com/axboe/fio)
   > Flexible I/O Tester
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-08-24 10:33:06 UTC*
+*最后更新于 2026-08-24 11:23:30 UTC*
 *历史记录保存在 `archive` 目录中。*
