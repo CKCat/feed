@@ -31,6 +31,12 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [noties/Markwon](https://github.com/noties/Markwon)
   > Android markdown library (no WebView)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [pandao/editor.md](https://github.com/pandao/editor.md)
+  > The open source embeddable online markdown editor (component).
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
+  > Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [axboe/fio](https://github.com/axboe/fio)
@@ -60,11 +66,17 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [jupyter-ai-contrib/jupyter-ai-acp-client](https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client)
   > The ACP client implementation in Jupyter AI
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [littleosbook/aenix](https://github.com/littleosbook/aenix)
+  > adams and eriks nix
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)
+  > A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming...
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [danielealbano/android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)
   > An MCP Server for Android running on the phone, optmized for token usage, supports also files downlo...
 
 
 ---
-*最后更新于 2026-08-24 11:23:30 UTC*
+*最后更新于 2026-08-24 12:40:38 UTC*
 *历史记录保存在 `archive` 目录中。*
