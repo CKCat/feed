@@ -35,6 +35,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [remorses/gpuix](https://github.com/remorses/gpuix)
   > Node.js & React bindings for Zed GPUI.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos)
+  > 📱 (rebooting... please wait...)
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
@@ -60,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-08-24 09:41:56 UTC*
+*最后更新于 2026-08-24 10:33:06 UTC*
 *历史记录保存在 `archive` 目录中。*
