@@ -45,12 +45,18 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [axboe/fio](https://github.com/axboe/fio)
   > Flexible I/O Tester
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/dgx-spark-playbooks](https://github.com/NVIDIA/dgx-spark-playbooks)
+  > Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [remorses/gpuix](https://github.com/remorses/gpuix)
   > Node.js & React bindings for Zed GPUI.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos)
   > 📱 (rebooting... please wait...)
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [19h/morok](https://github.com/19h/morok)
+  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
@@ -104,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-08-24 17:26:28 UTC*
+*最后更新于 2026-08-24 18:33:55 UTC*
 *历史记录保存在 `archive` 目录中。*
