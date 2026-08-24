@@ -60,6 +60,12 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [BANG644/project-collection](https://github.com/BANG644/project-collection)
   > 每日深度调研 GitHub 热门优质开源项目 · 6 维度分析报告 · 持续更新
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
+  > Modern VNC Server and client, web based and secure
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [selkies-project/selkies](https://github.com/selkies-project/selkies)
+  > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
+
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -73,6 +79,8 @@
   > 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [jupyter-ai-contrib/jupyter-ai-acp-client](https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client)
   > The ACP client implementation in Jupyter AI
+- 🍴 👤 [phodal](https://github.com/phodal) Forked [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) to [pitea/grok-bot-0.18-reconstructed](https://github.com/pitea/grok-bot-0.18-reconstructed)
+  > Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [littleosbook/aenix](https://github.com/littleosbook/aenix)
@@ -83,6 +91,8 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [danielealbano/android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)
   > An MCP Server for Android running on the phone, optmized for token usage, supports also files downlo...
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [nxtgencat/ZorinOS_Pro](https://github.com/nxtgencat/ZorinOS_Pro)
+  > A shell script designed to enhance the Zorin OS experience by enabling premium features.
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [samanhappy/mcphub](https://github.com/samanhappy/mcphub)
@@ -92,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-08-24 14:36:49 UTC*
+*最后更新于 2026-08-24 15:34:36 UTC*
 *历史记录保存在 `archive` 目录中。*
