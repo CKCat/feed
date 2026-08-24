@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [AnonSoyorinLove/llvm-project](https://github.com/AnonSoyorinLove/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
   > https://github.com/DuarteSantos8/openGym
@@ -56,6 +60,10 @@
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [BANG644/project-collection](https://github.com/BANG644/project-collection)
   > 每日深度调研 GitHub 热门优质开源项目 · 6 维度分析报告 · 持续更新
 
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
+  > A fast usermode x86 and x86-64 emulator for Arm64 Linux
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [midea-ai/SemaPLC](https://github.com/midea-ai/SemaPLC)
   > SemaPLC is an open-source agentic IDE for generation, verification, and simulation of PLC Programs f...
@@ -78,5 +86,5 @@
 
 
 ---
-*最后更新于 2026-08-24 12:40:38 UTC*
+*最后更新于 2026-08-24 13:47:20 UTC*
 *历史记录保存在 `archive` 目录中。*
