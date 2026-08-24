@@ -84,7 +84,13 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [danielealbano/android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)
   > An MCP Server for Android running on the phone, optmized for token usage, supports also files downlo...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [samanhappy/mcphub](https://github.com/samanhappy/mcphub)
+  > A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into se...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)
+  > Visual testing tool for MCP servers
+
 
 ---
-*最后更新于 2026-08-24 13:47:20 UTC*
+*最后更新于 2026-08-24 14:36:49 UTC*
 *历史记录保存在 `archive` 目录中。*
