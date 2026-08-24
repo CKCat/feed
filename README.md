@@ -8,6 +8,9 @@
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [AnonSoyorinLove/llvm-project](https://github.com/AnonSoyorinLove/llvm-project)
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+### [Dere3046](https://github.com/Dere3046)
+- 🚀 👤 [Dere3046](https://github.com/Dere3046) Made [raana-labs/Raana-rs](https://github.com/raana-labs/Raana-rs) public
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
   > https://github.com/DuarteSantos8/openGym
@@ -53,6 +56,12 @@
   > Node.js & React bindings for Zed GPUI.
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos)
   > 📱 (rebooting... please wait...)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
+  > PROPELLER: Profile Guided Optimizing Large Scale LLVM-based Relinker
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [rui314/mold](https://github.com/rui314/mold)
+  > mold: A Modern Linker 🦠
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [19h/morok](https://github.com/19h/morok)
@@ -73,6 +82,8 @@
   > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
   > DeepSeek v4 Flash EXL3 on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [poncippg-spec/Free-Solace-ImGui-Interface](https://github.com/poncippg-spec/Free-Solace-ImGui-Interface)
+  > Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
@@ -110,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-08-24 19:25:07 UTC*
+*最后更新于 2026-08-24 20:24:58 UTC*
 *历史记录保存在 `archive` 目录中。*
