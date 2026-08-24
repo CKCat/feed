@@ -63,6 +63,8 @@
   > mold: A Modern Linker 🦠
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
   > mimalloc is a compact general purpose allocator with excellent performance.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+  > A curated resource list for learning AI performance engineering, from GPU fundamentals to production...
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [19h/morok](https://github.com/19h/morok)
@@ -107,6 +109,10 @@
   > adams and eriks nix
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)
   > A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [MedhatHassan/MIPS-Processor](https://github.com/MedhatHassan/MIPS-Processor)
+  > The project implements a MIPS processor in VHDL, containing the code and test programs. It is a usef...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [arsalanjabbari/MIPS-CPU-Design](https://github.com/arsalanjabbari/MIPS-CPU-Design)
+  > This project involves the creation of a single-cycle MIPS CPU design using Verilog. The single-cycle...
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [danielealbano/android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)
@@ -122,5 +128,5 @@
 
 
 ---
-*最后更新于 2026-08-24 22:20:55 UTC*
+*最后更新于 2026-08-24 23:18:34 UTC*
 *历史记录保存在 `archive` 目录中。*
