@@ -13,6 +13,8 @@
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [lhak/Dependencies](https://github.com/lhak/Dependencies)
   > A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load d...
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [XHY-ChuJian/FluentUIStyle](https://github.com/XHY-ChuJian/FluentUIStyle)
+  > QStyle FluentUI-Qt QWidget WinUI3 Windows11Style
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [und3ath/xollvm](https://github.com/und3ath/xollvm)
@@ -49,6 +51,8 @@
   > Prototype Rust-based SoftPLC
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [leeoniya/uPlot](https://github.com/leeoniya/uPlot)
   > 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [jupyter-ai-contrib/jupyter-ai-acp-client](https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client)
+  > The ACP client implementation in Jupyter AI
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [danielealbano/android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)
@@ -56,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-08-24 08:42:29 UTC*
+*最后更新于 2026-08-24 09:41:56 UTC*
 *历史记录保存在 `archive` 目录中。*
