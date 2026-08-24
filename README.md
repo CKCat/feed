@@ -18,9 +18,15 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [axboe/fio](https://github.com/axboe/fio)
   > Flexible I/O Tester
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [remorses/gpuix](https://github.com/remorses/gpuix)
+  > Node.js & React bindings for Zed GPUI.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [midea-ai/SemaPLC](https://github.com/midea-ai/SemaPLC)
   > SemaPLC is an open-source agentic IDE for generation, verification, and simulation of PLC Programs f...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ironplc/ironplc](https://github.com/ironplc/ironplc)
+  > Prototype Rust-based SoftPLC
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [danielealbano/android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)
@@ -28,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-08-24 02:58:35 UTC*
+*最后更新于 2026-08-24 03:58:04 UTC*
 *历史记录保存在 `archive` 目录中。*
