@@ -10,6 +10,10 @@
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) to [MiroKaku/openGym](https://github.com/MiroKaku/openGym)
   > https://github.com/DuarteSantos8/openGym
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [lhak/Dependencies](https://github.com/lhak/Dependencies)
+  > A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load d...
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [und3ath/xollvm](https://github.com/und3ath/xollvm)
   > Modern LLVM Obfuscator
@@ -34,6 +38,10 @@
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
   > NoWarbird - Warbird devirtualization project
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [BANG644/project-collection](https://github.com/BANG644/project-collection)
+  > 每日深度调研 GitHub 热门优质开源项目 · 6 维度分析报告 · 持续更新
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [midea-ai/SemaPLC](https://github.com/midea-ai/SemaPLC)
   > SemaPLC is an open-source agentic IDE for generation, verification, and simulation of PLC Programs f...
@@ -48,5 +56,5 @@
 
 
 ---
-*最后更新于 2026-08-24 07:54:01 UTC*
+*最后更新于 2026-08-24 08:42:29 UTC*
 *历史记录保存在 `archive` 目录中。*
