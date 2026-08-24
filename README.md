@@ -65,6 +65,8 @@
   > Modern VNC Server and client, web based and secure
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [selkies-project/selkies](https://github.com/selkies-project/selkies)
   > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
+  > DeepSeek v4 Flash EXL3 on one DGX Spark
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
@@ -102,5 +104,5 @@
 
 
 ---
-*最后更新于 2026-08-24 15:34:36 UTC*
+*最后更新于 2026-08-24 16:31:49 UTC*
 *历史记录保存在 `archive` 目录中。*
