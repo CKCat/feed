@@ -12,6 +12,12 @@
 - 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [gojue/ecapture](https://github.com/gojue/ecapture) to [LLeavesG/ecapture](https://github.com/LLeavesG/ecapture)
   > Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels ...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [puppetlabs/nssm](https://github.com/puppetlabs/nssm)
+  > Puppet fork of the NSSM source code from https://git.nssm.cc/nssm/nssm.git
+- 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [puppetlabs/nssm](https://github.com/puppetlabs/nssm) to [MiroKaku/nssm](https://github.com/MiroKaku/nssm)
+  > Puppet fork of the NSSM source code from https://git.nssm.cc/nssm/nssm.git
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [crafcat7/ncnn-MoE-Runtime](https://github.com/crafcat7/ncnn-MoE-Runtime) to [MouriNaruto/ncnn-MoE-Runtime](https://github.com/MouriNaruto/ncnn-MoE-Runtime)
   > A lightweight heterogeneous MoE inference runtime based on ncnn
@@ -39,7 +45,10 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/MiuiBackGestureHook](https://github.com/wxxsfxyzm/MiuiBackGestureHook)
   > Restore AOSP gesture and predictive back for Xiaomi Android 16/17 devices.
 
+### [w296488320](https://github.com/w296488320)
+- 🌟 👤 [w296488320](https://github.com/w296488320) Starred [w296488320/DexCfgObfuscator](https://github.com/w296488320/DexCfgObfuscator)
+
 
 ---
-*最后更新于 2026-08-25 08:36:30 UTC*
+*最后更新于 2026-08-25 09:30:44 UTC*
 *历史记录保存在 `archive` 目录中。*
