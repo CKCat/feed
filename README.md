@@ -34,12 +34,20 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [bryllim/workout-guide](https://github.com/bryllim/workout-guide)
   > 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard)
+  > Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious p...
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [huaweicodelabs/HiAI-Foundation](https://github.com/huaweicodelabs/HiAI-Foundation)
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
   > xposed安卓虚拟摄像头 android virtual camera on xposed hook
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [nyblnet/bento](https://github.com/nyblnet/bento)
+  > Bento, the office suite that fits in a file
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/MiuiBackGestureHook](https://github.com/wxxsfxyzm/MiuiBackGestureHook)
@@ -50,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-08-25 09:30:44 UTC*
+*最后更新于 2026-08-25 10:27:04 UTC*
 *历史记录保存在 `archive` 目录中。*
