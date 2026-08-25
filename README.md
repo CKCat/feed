@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [gojue/ecapture](https://github.com/gojue/ecapture) to [LLeavesG/ecapture](https://github.com/LLeavesG/ecapture)
+  > Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels ...
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [crafcat7/ncnn-MoE-Runtime](https://github.com/crafcat7/ncnn-MoE-Runtime) to [MouriNaruto/ncnn-MoE-Runtime](https://github.com/MouriNaruto/ncnn-MoE-Runtime)
   > A lightweight heterogeneous MoE inference runtime based on ncnn
@@ -25,5 +29,5 @@
 
 
 ---
-*最后更新于 2026-08-25 06:38:56 UTC*
+*最后更新于 2026-08-25 07:39:57 UTC*
 *历史记录保存在 `archive` 目录中。*
