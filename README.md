@@ -64,6 +64,8 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [nyblnet/bento](https://github.com/nyblnet/bento)
   > Bento, the office suite that fits in a file
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [didi/mpx](https://github.com/didi/mpx)
+  > Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/MiuiBackGestureHook](https://github.com/wxxsfxyzm/MiuiBackGestureHook)
@@ -83,5 +85,5 @@
 
 
 ---
-*最后更新于 2026-08-25 15:37:41 UTC*
+*最后更新于 2026-08-25 16:31:48 UTC*
 *历史记录保存在 `archive` 目录中。*
