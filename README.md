@@ -8,6 +8,12 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs)
   > Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bitfield/rx82](https://github.com/bitfield/rx82)
+  > An emulator for the RX82 fantasy retro computer system.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bitfield/rust-r8](https://github.com/bitfield/rust-r8)
+  > A Rust project template for an 8-bit CPU emulator.
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by NebuSec. 
@@ -66,7 +72,12 @@
 ### [w296488320](https://github.com/w296488320)
 - 🌟 👤 [w296488320](https://github.com/w296488320) Starred [w296488320/DexCfgObfuscator](https://github.com/w296488320/DexCfgObfuscator)
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tyeurada/behaviorBypassAgent](https://github.com/tyeurada/behaviorBypassAgent)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tyeurada/signatureBypassAgent](https://github.com/tyeurada/signatureBypassAgent)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tyeurada/myWorkshopHavoc](https://github.com/tyeurada/myWorkshopHavoc)
+
 
 ---
-*最后更新于 2026-08-25 13:44:58 UTC*
+*最后更新于 2026-08-25 14:39:53 UTC*
 *历史记录保存在 `archive` 目录中。*
