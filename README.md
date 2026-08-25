@@ -56,6 +56,8 @@
   > Static single-page git repository browser
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
   > My AI learning system.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
+  > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
@@ -85,5 +87,5 @@
 
 
 ---
-*最后更新于 2026-08-25 16:31:48 UTC*
+*最后更新于 2026-08-25 17:27:22 UTC*
 *历史记录保存在 `archive` 目录中。*
