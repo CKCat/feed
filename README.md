@@ -48,6 +48,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
   > Static single-page git repository browser
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+  > My AI learning system.
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
@@ -66,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-08-25 12:39:24 UTC*
+*最后更新于 2026-08-25 13:44:58 UTC*
 *历史记录保存在 `archive` 目录中。*
