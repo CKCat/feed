@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-你关注的用户今天还没有符合筛选条件的公开动态。
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
+  > xposed安卓虚拟摄像头 android virtual camera on xposed hook
+
 
 ---
-*最后更新于 2026-08-25 01:02:18 UTC*
+*最后更新于 2026-08-25 02:54:03 UTC*
 *历史记录保存在 `archive` 目录中。*
