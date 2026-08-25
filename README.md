@@ -77,7 +77,11 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tyeurada/signatureBypassAgent](https://github.com/tyeurada/signatureBypassAgent)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [tyeurada/myWorkshopHavoc](https://github.com/tyeurada/myWorkshopHavoc)
 
+### [zu1k](https://github.com/zu1k)
+- 🍴 👤 [zu1k](https://github.com/zu1k) Forked [openai/codex](https://github.com/openai/codex) to [zu1k/codex](https://github.com/zu1k/codex)
+  > Lightweight coding agent that runs in your terminal
+
 
 ---
-*最后更新于 2026-08-25 14:39:53 UTC*
+*最后更新于 2026-08-25 15:37:41 UTC*
 *历史记录保存在 `archive` 目录中。*
