@@ -13,6 +13,8 @@
   > An emulator for the RX82 fantasy retro computer system.
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bitfield/rust-r8](https://github.com/bitfield/rust-r8)
   > A Rust project template for an 8-bit CPU emulator.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [mozilla/cargo-vet](https://github.com/mozilla/cargo-vet)
+  > supply-chain security for Rust
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
@@ -87,5 +89,5 @@
 
 
 ---
-*最后更新于 2026-08-25 20:23:20 UTC*
+*最后更新于 2026-08-25 21:23:00 UTC*
 *历史记录保存在 `archive` 目录中。*
