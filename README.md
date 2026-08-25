@@ -8,11 +8,22 @@
 - 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [crafcat7/ncnn-MoE-Runtime](https://github.com/crafcat7/ncnn-MoE-Runtime) to [MouriNaruto/ncnn-MoE-Runtime](https://github.com/MouriNaruto/ncnn-MoE-Runtime)
   > A lightweight heterogeneous MoE inference runtime based on ncnn
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [mkj/dropbear](https://github.com/mkj/dropbear)
+  > Dropbear SSH
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock)
+  > SkillDock is an AI skill manager and skill management desktop app for Claude Code, Cursor, Codex, Wi...
+
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [huaweicodelabs/HiAI-Foundation](https://github.com/huaweicodelabs/HiAI-Foundation)
+
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
   > xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
 
 ---
-*最后更新于 2026-08-25 05:27:22 UTC*
+*最后更新于 2026-08-25 06:38:56 UTC*
 *历史记录保存在 `archive` 目录中。*
