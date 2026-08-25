@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs)
+  > Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [gojue/ecapture](https://github.com/gojue/ecapture) to [LLeavesG/ecapture](https://github.com/LLeavesG/ecapture)
   > Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels ...
@@ -20,6 +24,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock)
   > SkillDock is an AI skill manager and skill management desktop app for Claude Code, Cursor, Codex, Wi...
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [bryllim/workout-guide](https://github.com/bryllim/workout-guide)
+  > 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
+
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [huaweicodelabs/HiAI-Foundation](https://github.com/huaweicodelabs/HiAI-Foundation)
 
@@ -27,7 +35,11 @@
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
   > xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/MiuiBackGestureHook](https://github.com/wxxsfxyzm/MiuiBackGestureHook)
+  > Restore AOSP gesture and predictive back for Xiaomi Android 16/17 devices.
+
 
 ---
-*最后更新于 2026-08-25 07:39:57 UTC*
+*最后更新于 2026-08-25 08:36:30 UTC*
 *历史记录保存在 `archive` 目录中。*
