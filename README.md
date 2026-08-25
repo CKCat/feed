@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [RhinoSecurityLabs/CVEs](https://github.com/RhinoSecurityLabs/CVEs)
   > Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by NebuSec. 
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🍴 👤 [LLeavesG](https://github.com/LLeavesG) Forked [gojue/ecapture](https://github.com/gojue/ecapture) to [LLeavesG/ecapture](https://github.com/LLeavesG/ecapture)
   > Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels ...
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-08-25 11:22:39 UTC*
+*最后更新于 2026-08-25 12:39:24 UTC*
 *历史记录保存在 `archive` 目录中。*
