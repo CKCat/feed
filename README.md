@@ -65,6 +65,10 @@
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
   > xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [JingMatrix/pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root)
+  > adb-driven KernelSU loader for stock Google Pixel: temporary kernel R/W via CVE-2026-43499 (GhostLoc...
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [nyblnet/bento](https://github.com/nyblnet/bento)
   > Bento, the office suite that fits in a file
@@ -89,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-08-25 22:21:43 UTC*
+*最后更新于 2026-08-25 23:21:01 UTC*
 *历史记录保存在 `archive` 目录中。*
