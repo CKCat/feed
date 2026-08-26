@@ -79,6 +79,8 @@
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)
+  > TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, develop...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
@@ -108,5 +110,5 @@
 
 
 ---
-*最后更新于 2026-08-26 16:14:05 UTC*
+*最后更新于 2026-08-26 18:55:25 UTC*
 *历史记录保存在 `archive` 目录中。*
