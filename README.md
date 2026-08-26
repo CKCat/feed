@@ -20,6 +20,10 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [gianlucasb/hallucinator](https://github.com/gianlucasb/hallucinator)
   > A tool to detect potentially hallucinated or fabricated references in academic PDF papers.
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [6mb/vohive](https://github.com/6mb/vohive)
+  > Backup mirror of vohive source
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
   > Control Any Computer Using LLMs.
@@ -33,5 +37,5 @@
 
 
 ---
-*最后更新于 2026-08-26 03:58:11 UTC*
+*最后更新于 2026-08-26 04:43:22 UTC*
 *历史记录保存在 `archive` 目录中。*
