@@ -36,6 +36,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > Portable, lightweight, self-contained virtual machine.
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Tencent/ncnn](https://github.com/Tencent/ncnn)
+  > ncnn is a high-performance neural network inference framework optimized for the mobile platform
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [herumi/mcl](https://github.com/herumi/mcl)
   > a portable and fast pairing-based cryptography library
@@ -98,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-08-26 13:51:11 UTC*
+*最后更新于 2026-08-26 14:39:16 UTC*
 *历史记录保存在 `archive` 目录中。*
