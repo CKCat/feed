@@ -8,6 +8,10 @@
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux)
   > Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP bin...
 
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [gianlucasb/hallucinator](https://github.com/gianlucasb/hallucinator)
   > A tool to detect potentially hallucinated or fabricated references in academic PDF papers.
@@ -21,5 +25,5 @@
 
 
 ---
-*最后更新于 2026-08-26 01:03:54 UTC*
+*最后更新于 2026-08-26 02:59:58 UTC*
 *历史记录保存在 `archive` 目录中。*
