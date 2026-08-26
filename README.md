@@ -59,6 +59,10 @@
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [CurvineIO/curvine](https://github.com/CurvineIO/curvine)
+  > AI-Native & Cloud-Native FS:  A high-performance file semantic layer for cloud object storage, integ...
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
@@ -73,6 +77,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
   > Easy to use overlay using Direct2d
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) to [mrexodia/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/mrexodia/Qwen3.8-27B-SGLang-DGX-Spark)
+  > Qwen3.8 27B on SGLang for DGX Spark
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -90,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-08-26 12:42:46 UTC*
+*最后更新于 2026-08-26 13:51:11 UTC*
 *历史记录保存在 `archive` 目录中。*
