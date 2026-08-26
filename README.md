@@ -12,18 +12,26 @@
 - 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [tutti-os/tutti](https://github.com/tutti-os/tutti)
+  > Where people and agents build in tune.
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [gianlucasb/hallucinator](https://github.com/gianlucasb/hallucinator)
   > A tool to detect potentially hallucinated or fabricated references in academic PDF papers.
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
+  > Control Any Computer Using LLMs.
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [originsec/hyperv-mcp](https://github.com/originsec/hyperv-mcp)
+  > An MCP server for Hyper-V VM management and guest execution
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
+  > MCP Server for Computer Use in Windows
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
-  > LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-
 
 ---
-*最后更新于 2026-08-26 02:59:58 UTC*
+*最后更新于 2026-08-26 03:58:11 UTC*
 *历史记录保存在 `archive` 目录中。*
