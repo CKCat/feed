@@ -62,6 +62,8 @@
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+  > Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [CurvineIO/curvine](https://github.com/CurvineIO/curvine)
@@ -90,6 +92,10 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug)
+  > LadybugDB a graph database
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [funny-dog/FinderRight](https://github.com/funny-dog/FinderRight)
   > 增强 macOS Finder 右键菜单的轻量工具 · Supercharge the macOS Finder right-click menu
@@ -102,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-08-26 14:39:16 UTC*
+*最后更新于 2026-08-26 16:14:05 UTC*
 *历史记录保存在 `archive` 目录中。*
