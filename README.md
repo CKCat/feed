@@ -27,6 +27,8 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [appium/appium](https://github.com/appium/appium)
   > Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protoco...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Portable, lightweight, self-contained virtual machine.
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
@@ -35,6 +37,10 @@
   > An MCP server for Hyper-V VM management and guest execution
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
   > MCP Server for Computer Use in Windows
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
+  > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
 
 ### [bsauce](https://github.com/bsauce)
 - 🌟 👤 [bsauce](https://github.com/bsauce) Starred [jelasin/WeepStone](https://github.com/jelasin/WeepStone)
@@ -62,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-08-26 08:37:27 UTC*
+*最后更新于 2026-08-26 09:35:43 UTC*
 *历史记录保存在 `archive` 目录中。*
