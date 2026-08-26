@@ -24,6 +24,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [6mb/vohive](https://github.com/6mb/vohive)
   > Backup mirror of vohive source
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [appium/appium](https://github.com/appium/appium)
+  > Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protoco...
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
   > Control Any Computer Using LLMs.
@@ -41,5 +45,5 @@
 
 
 ---
-*最后更新于 2026-08-26 05:29:54 UTC*
+*最后更新于 2026-08-26 06:40:32 UTC*
 *历史记录保存在 `archive` 目录中。*
