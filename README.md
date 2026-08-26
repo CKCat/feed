@@ -35,7 +35,11 @@
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
+  > Easy to use overlay using Direct2d
+
 
 ---
-*最后更新于 2026-08-26 04:43:22 UTC*
+*最后更新于 2026-08-26 05:29:54 UTC*
 *历史记录保存在 `archive` 目录中。*
