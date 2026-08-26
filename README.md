@@ -12,6 +12,12 @@
 - 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [wonderfulearth/primitive-operation-painter](https://github.com/wonderfulearth/primitive-operation-painter)
+  > Autoregressive primitive-operation painter with GPU image-to-sequence converter
+- 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [wonderfulearth/primitive-operation-painter](https://github.com/wonderfulearth/primitive-operation-painter) to [Dere3046/primitive-operation-painter](https://github.com/Dere3046/primitive-operation-painter)
+  > Autoregressive primitive-operation painter with GPU image-to-sequence converter
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [tutti-os/tutti](https://github.com/tutti-os/tutti)
   > Where people and agents build in tune.
@@ -29,6 +35,10 @@
   > Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protoco...
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > Portable, lightweight, self-contained virtual machine.
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [herumi/mcl](https://github.com/herumi/mcl)
+  > a portable and fast pairing-based cryptography library
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
@@ -52,6 +62,10 @@
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
@@ -59,6 +73,10 @@
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
   > Easy to use overlay using Direct2d
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [funny-dog/FinderRight](https://github.com/funny-dog/FinderRight)
@@ -72,5 +90,5 @@
 
 
 ---
-*最后更新于 2026-08-26 11:24:44 UTC*
+*最后更新于 2026-08-26 12:42:46 UTC*
 *历史记录保存在 `archive` 目录中。*
