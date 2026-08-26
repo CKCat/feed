@@ -36,14 +36,31 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
   > MCP Server for Computer Use in Windows
 
+### [bsauce](https://github.com/bsauce)
+- 🌟 👤 [bsauce](https://github.com/bsauce) Starred [jelasin/WeepStone](https://github.com/jelasin/WeepStone)
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
+  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
   > Easy to use overlay using Direct2d
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [funny-dog/FinderRight](https://github.com/funny-dog/FinderRight)
+  > 增强 macOS Finder 右键菜单的轻量工具 · Supercharge the macOS Finder right-click menu
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Hibrielle/menumate](https://github.com/Hibrielle/menumate)
+  > Script-first macOS Finder context-menu manager — inject editable zsh actions, manage system Quick Ac...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [CalvinQin/SuperRClick](https://github.com/CalvinQin/SuperRClick)
+  > The most powerful Finder right-click menu enhancer for macOS. Batch rename, compress, image convert,...
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [wflixu/RClick](https://github.com/wflixu/RClick)
+  > macos finder  contextmenu
+
 
 ---
-*最后更新于 2026-08-26 07:41:26 UTC*
+*最后更新于 2026-08-26 08:37:27 UTC*
 *历史记录保存在 `archive` 目录中。*
