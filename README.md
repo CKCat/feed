@@ -45,6 +45,10 @@
 ### [bsauce](https://github.com/bsauce)
 - 🌟 👤 [bsauce](https://github.com/bsauce) Starred [jelasin/WeepStone](https://github.com/jelasin/WeepStone)
 
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+  > GhostLock One-Tap Execution App
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
@@ -68,5 +72,5 @@
 
 
 ---
-*最后更新于 2026-08-26 09:35:43 UTC*
+*最后更新于 2026-08-26 10:30:26 UTC*
 *历史记录保存在 `archive` 目录中。*
