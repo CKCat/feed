@@ -4,10 +4,6 @@
 
 ## 今日动态
 
-### [0xdea](https://github.com/0xdea)
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect)
-  > A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO ...
-
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
   > Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
@@ -20,9 +16,16 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [kanren3/windbg-mcp-rs](https://github.com/kanren3/windbg-mcp-rs)
   > A WinDbg plugin that turns the current debugging session into an MCP server for command docs, debugg...
 
+### [Ylarod](https://github.com/Ylarod)
+- 🚀 👤 [Ylarod](https://github.com/Ylarod) Made [VibRev/jadx-headless-mcp](https://github.com/VibRev/jadx-headless-mcp) public
+
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [Mowokuma/Griffin--Notes](https://github.com/Mowokuma/Griffin--Notes)
   > My notes about the stub.dll obfuscator.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [spdk/spdk](https://github.com/spdk/spdk)
+  > Storage Performance Development Kit
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
@@ -32,13 +35,13 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
   > 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4....
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+  > Run iOS/ macOS in Qemu. iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [microsoft/windows_seh_tests](https://github.com/microsoft/windows_seh_tests)
   > Windows ABI Structured Exception Handling Tests
-
-### [mrexodia](https://github.com/mrexodia)
-- 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp) public
-  > ⚠️ Experimental ⚠️ Official Hex-Rays IDA MCP Server.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm)
@@ -58,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-08-27 13:42:07 UTC*
+*最后更新于 2026-08-27 23:32:19 UTC*
 *历史记录保存在 `archive` 目录中。*
