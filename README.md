@@ -14,7 +14,19 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [tanmaymanojgandhi/circadia](https://github.com/tanmaymanojgandhi/circadia)
   > Circadia is an open OKLCH color specification for editors and terminals based on circadian science. ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
+  > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+  > List of Computer Science courses with video lectures.
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
 
 ---
-*最后更新于 2026-08-29 03:02:53 UTC*
+*最后更新于 2026-08-29 10:43:04 UTC*
 *历史记录保存在 `archive` 目录中。*
