@@ -44,18 +44,6 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac...
 
-### [mahaloz](https://github.com/mahaloz)
-- 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
-  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
-- 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [pwncollege/challenges](https://github.com/pwncollege/challenges) to [mahaloz/challenges](https://github.com/mahaloz/challenges)
-  > pwn.college challenges
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
-  > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
-  > Binary Proofs, Blazing Fast
-
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [mkturkcan/DART](https://github.com/mkturkcan/DART)
   > Detect Anything in Real Time: Real-time object detection using frontier object detection models.
@@ -73,5 +61,5 @@
 
 
 ---
-*最后更新于 2026-08-29 19:08:30 UTC*
+*最后更新于 2026-08-29 22:16:58 UTC*
 *历史记录保存在 `archive` 目录中。*
