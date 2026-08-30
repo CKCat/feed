@@ -37,6 +37,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drakoarmy/datadome-rs](https://github.com/drakoarmy/datadome-rs)
   > High-end Rust DataDome deobfuscator & solver with VM disassembly — all 3 challenge types (tags, inte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bg-be-gone](https://github.com/cristeigabriela/bg-be-gone)
+  > Claude's attempt at making me a local, GPU-backed background remover using BiRefNet. Pretty good!
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
@@ -44,15 +46,11 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
   > No TrickyStore on Canoe
 
-### [tytydraco](https://github.com/tytydraco)
-- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [holmes-software/google-photos-metadata-fix](https://github.com/holmes-software/google-photos-metadata-fix)
-  > This is a command line application that fixes metadata for Google Photos exported pics
-
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker)
   > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
 
 
 ---
-*最后更新于 2026-08-30 20:29:07 UTC*
+*最后更新于 2026-08-30 23:06:30 UTC*
 *历史记录保存在 `archive` 目录中。*
