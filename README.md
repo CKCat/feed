@@ -10,14 +10,15 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
   > Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just o...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DJLougen/Qwen3.8-Flash-Next-One-DGX-Spark](https://github.com/DJLougen/Qwen3.8-Flash-Next-One-DGX-Spark)
-  > Serving Qwen3.8-Flash-Next on a single NVIDIA DGX Spark
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [allthingsida/ida-cmake](https://github.com/allthingsida/ida-cmake)
+  > Simple CMake files for the IDASDK
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [earthtojake/cad-viewer](https://github.com/earthtojake/cad-viewer)
-  > Interactive browser-based CAD viewer for inspecting STEP, STL, 3MF, GLB, DXF, URDF, SDF, and SRDF fi...
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [kyuz0/amd-strix-halo-toolboxes](https://github.com/kyuz0/amd-strix-halo-toolboxes)
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker)
@@ -25,5 +26,5 @@
 
 
 ---
-*最后更新于 2026-08-30 06:28:45 UTC*
+*最后更新于 2026-08-30 12:34:01 UTC*
 *历史记录保存在 `archive` 目录中。*
