@@ -44,15 +44,11 @@
 - 🌟 👤 [Whitebird0](https://github.com/Whitebird0) Starred [16SalomonArs/Pcileech_DMA_VT-d_Bypass](https://github.com/16SalomonArs/Pcileech_DMA_VT-d_Bypass)
   > Some approaches that have already been tested and confirmed to work, plus a few ideas that are still...
 
-### [Ylarod](https://github.com/Ylarod)
-- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop)
-  > FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per...
-- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
-  > Sandbox escape PoC for iOS 26 and 27.
-
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [mrT4ntr4/winheapbook](https://github.com/mrT4ntr4/winheapbook)
   > Understanding Windows Kernel Segment Heap
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock)
+  > Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and ...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [garfield-ts/BCompare_Keygen](https://github.com/garfield-ts/BCompare_Keygen)
@@ -72,6 +68,10 @@
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [paragontasx/qwen38-flash-next-dgx-spark](https://github.com/paragontasx/qwen38-flash-next-dgx-spark)
   > ALPHA — Qwen3.8-Flash-Next (176B MoE, vision, 262K ctx) on a single NVIDIA DGX Spark / GB10 with lla...
+
+### [locus-x64](https://github.com/locus-x64)
+- 🌟 👤 [locus-x64](https://github.com/locus-x64) Starred [scanipy/scanipy](https://github.com/scanipy/scanipy)
+  > Self-hosted, open-source SAST that makes findings durable: refactor-invariant finding identity, repr...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/aegis](https://github.com/thalium/aegis)
@@ -103,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-08-31 17:49:53 UTC*
+*最后更新于 2026-08-31 22:22:20 UTC*
 *历史记录保存在 `archive` 目录中。*
