@@ -12,7 +12,11 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+  > Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just o...
+
 
 ---
-*最后更新于 2026-09-01 01:35:30 UTC*
+*最后更新于 2026-09-01 07:11:20 UTC*
 *历史记录保存在 `archive` 目录中。*
