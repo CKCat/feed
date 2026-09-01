@@ -28,12 +28,11 @@
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
   > Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just o...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
-
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
   > Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文. 
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2)
+  > An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the cha...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -49,5 +48,5 @@
 
 
 ---
-*最后更新于 2026-09-01 20:28:47 UTC*
+*最后更新于 2026-09-01 22:58:16 UTC*
 *历史记录保存在 `archive` 目录中。*
