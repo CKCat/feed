@@ -38,6 +38,8 @@
   > Local-first search across your workspace, built for humans and AI agents.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
   > GLM-5.3 Flash EXL3 for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
+  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
 
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [sugarforever/dsh-lark](https://github.com/sugarforever/dsh-lark) to [nzcv/dsh-lark](https://github.com/nzcv/dsh-lark)
@@ -56,5 +58,5 @@
 
 
 ---
-*最后更新于 2026-09-02 18:25:01 UTC*
+*最后更新于 2026-09-02 21:33:06 UTC*
 *历史记录保存在 `archive` 目录中。*
