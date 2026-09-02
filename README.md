@@ -21,6 +21,10 @@
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [7777Satish/Aether](https://github.com/7777Satish/Aether)
+  > Code Editor in C
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [PINTO0309/High-Angle_Robust_Fast_FaceAlignment](https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment)
   > HRFFA: High-Angle Robust Fast Face Alignment. Whole-head face alignment dataset & training pipeline.
@@ -28,6 +32,12 @@
 ### [gerhart01](https://github.com/gerhart01)
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [hfiref0x/SyscallTables](https://github.com/hfiref0x/SyscallTables)
   > Windows NT Syscall tables
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
+  > Local-first search across your workspace, built for humans and AI agents.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
+  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
 
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [sugarforever/dsh-lark](https://github.com/sugarforever/dsh-lark) to [nzcv/dsh-lark](https://github.com/nzcv/dsh-lark)
@@ -44,11 +54,7 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [reqable/python-scripting-api](https://github.com/reqable/python-scripting-api)
 
-### [yujincheng08](https://github.com/yujincheng08)
-- 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) to [yujincheng08/cudnn-frontend](https://github.com/yujincheng08/cudnn-frontend)
-  > cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collec...
-
 
 ---
-*最后更新于 2026-09-02 14:55:50 UTC*
+*最后更新于 2026-09-02 18:25:01 UTC*
 *历史记录保存在 `archive` 目录中。*
