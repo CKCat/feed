@@ -12,6 +12,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [efficient/HERD](https://github.com/efficient/HERD)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ovg-project/kvcached](https://github.com/ovg-project/kvcached)
   > Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [siboehm/SGEMM_CUDA](https://github.com/siboehm/SGEMM_CUDA)
+  > Fast CUDA matrix multiplication from scratch
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [siboehm/SGEMM_CUDA](https://github.com/siboehm/SGEMM_CUDA) to [crazyguitar/SGEMM_CUDA](https://github.com/crazyguitar/SGEMM_CUDA)
+  > Fast CUDA matrix multiplication from scratch
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
@@ -33,14 +37,6 @@
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [hfiref0x/SyscallTables](https://github.com/hfiref0x/SyscallTables)
   > Windows NT Syscall tables
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
-  > Local-first search across your workspace, built for humans and AI agents.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
-  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
-  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
-
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [sugarforever/dsh-lark](https://github.com/sugarforever/dsh-lark) to [nzcv/dsh-lark](https://github.com/nzcv/dsh-lark)
   > DeepSeek Harness Plugin for Lark Integration
@@ -58,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-09-02 21:33:06 UTC*
+*最后更新于 2026-09-02 23:49:05 UTC*
 *历史记录保存在 `archive` 目录中。*
