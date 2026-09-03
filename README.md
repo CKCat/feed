@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [404notf0und/Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) to [LeadroyaL/Security-Data-Analysis-and-Visualization](https://github.com/LeadroyaL/Security-Data-Analysis-and-Visualization)
+  > 2018-2020青年安全圈-活跃技术博主/博客
+
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [tencentmusic/jugg](https://github.com/tencentmusic/jugg)
+  > 大规模工程 Android 秒级编译 IDE 插件 / CLI
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [jprx/qemu-sptm](https://github.com/jprx/qemu-sptm)
   > Qemu fork with support for Apple Silicon (iOS/ macOS)
@@ -12,15 +20,9 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD)
-  > Universal Scene Description
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [lighttransport/tinyusdz](https://github.com/lighttransport/tinyusdz)
-  > Tiny, dependency-free USDZ/USDA/USDC library written in C++14
-
-### [ys1231](https://github.com/ys1231)
-- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [caverav/flutterdec](https://github.com/caverav/flutterdec)
-  > The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseu...
+### [nzcv](https://github.com/nzcv)
+- 🍴 👤 [nzcv](https://github.com/nzcv) Forked [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) to [nzcv/WebDriverAgent](https://github.com/nzcv/WebDriverAgent)
+  > A WebDriver server for iOS, tvOS and watchOS
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public)
@@ -30,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-09-03 07:43:17 UTC*
+*最后更新于 2026-09-03 12:32:50 UTC*
 *历史记录保存在 `archive` 目录中。*
