@@ -22,10 +22,6 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Life45/revhv](https://github.com/Life45/revhv)
   > Type-2 Intel x86-64 hypervisor for Windows focused on tracing control-flow transitions out of obfusc...
 
-### [ZehMatt](https://github.com/ZehMatt)
-- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-  > Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, a...
-
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [markel1974/Symphony](https://github.com/markel1974/Symphony)
   > An open-source emulation framework designed as a virtual laboratory for exploring, building, and mod...
@@ -36,11 +32,17 @@
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [kapi2800/qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon)
   > Run Qwen3-TTS text-to-speech locally on Mac (M1/M2/M3/M4). Voice cloning, voice design, custom voice...
 
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+  > Fast, flexible LLM inference
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [lablup/mlxcel](https://github.com/lablup/mlxcel)
+  > High-performance LLM, VLM, embedding, reranking, and audio inference for Apple Silicon and NVIDIA CU...
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 
 ---
-*最后更新于 2026-09-04 18:02:12 UTC*
+*最后更新于 2026-09-04 21:12:06 UTC*
 *历史记录保存在 `archive` 目录中。*
