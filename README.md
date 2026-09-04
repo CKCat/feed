@@ -18,8 +18,20 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard)
   > Disable PatchGuard and Driver Signature Enforcement at boot time
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Life45/revhv](https://github.com/Life45/revhv)
+  > Type-2 Intel x86-64 hypervisor for Windows focused on tracing control-flow transitions out of obfusc...
+
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [kapi2800/qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon)
+  > Run Qwen3-TTS text-to-speech locally on Mac (M1/M2/M3/M4). Voice cloning, voice design, custom voice...
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 
 ---
-*最后更新于 2026-09-04 05:25:52 UTC*
+*最后更新于 2026-09-04 10:30:37 UTC*
 *历史记录保存在 `archive` 目录中。*
