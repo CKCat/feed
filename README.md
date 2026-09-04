@@ -4,9 +4,6 @@
 
 ## 今日动态
 
-### [19h](https://github.com/19h)
-- 🚀 👤 [19h](https://github.com/19h) Made [19h/ed-stellarforge](https://github.com/19h/ed-stellarforge) public
-
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
   > GhostLock (CVE-2026-43499) kernel exploit for Android devices with locked bootloader
@@ -21,6 +18,14 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Life45/revhv](https://github.com/Life45/revhv)
   > Type-2 Intel x86-64 hypervisor for Windows focused on tracing control-flow transitions out of obfusc...
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+  > Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, a...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [markel1974/Symphony](https://github.com/markel1974/Symphony)
+  > An open-source emulation framework designed as a virtual laboratory for exploring, building, and mod...
+
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
   > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
@@ -33,5 +38,5 @@
 
 
 ---
-*最后更新于 2026-09-04 10:30:37 UTC*
+*最后更新于 2026-09-04 14:44:42 UTC*
 *历史记录保存在 `archive` 目录中。*
