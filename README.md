@@ -8,6 +8,10 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
   > GhostLock (CVE-2026-43499) kernel exploit for Android devices with locked bootloader
 
+### [ChiChou](https://github.com/ChiChou)
+- 🍴 👤 [ChiChou](https://github.com/ChiChou) Forked [jprx/darwin-vm](https://github.com/jprx/darwin-vm) to [ChiChou/darwin-vm](https://github.com/ChiChou/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [edwardgushchin/SDL3-CS](https://github.com/edwardgushchin/SDL3-CS)
   > Modern C# bindings and native NuGet packages for SDL3 and its companion libraries.
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-09-04 14:44:42 UTC*
+*最后更新于 2026-09-04 18:02:12 UTC*
 *历史记录保存在 `archive` 目录中。*
