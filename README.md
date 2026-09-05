@@ -12,11 +12,7 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [IcySnex/SkeleKit](https://github.com/IcySnex/SkeleKit)
   > A C# UI framework for native iOS: real UIKit controls, no storyboards or constraints, zero boilerpla...
 
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [aosabook/500lines](https://github.com/aosabook/500lines)
-  > 500 Lines or Less
-
 
 ---
-*最后更新于 2026-09-05 11:35:10 UTC*
+*最后更新于 2026-09-05 14:30:10 UTC*
 *历史记录保存在 `archive` 目录中。*
