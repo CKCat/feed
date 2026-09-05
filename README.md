@@ -28,6 +28,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [artidoro/qlora](https://github.com/artidoro/qlora)
   > QLoRA: Efficient Finetuning of Quantized LLMs
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [goodnightzsj/codex-cli-portable-setup-kit](https://github.com/goodnightzsj/codex-cli-portable-setup-kit)
+  > Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled...
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
   > A collection of MCP servers.
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2026-09-05 21:53:14 UTC*
+*最后更新于 2026-09-05 23:31:11 UTC*
 *历史记录保存在 `archive` 目录中。*
