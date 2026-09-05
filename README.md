@@ -28,11 +28,15 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [artidoro/qlora](https://github.com/artidoro/qlora)
   > QLoRA: Efficient Finetuning of Quantized LLMs
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+  > A collection of MCP servers.
+
 ### [zodiacon](https://github.com/zodiacon)
 - 🍴 👤 [zodiacon](https://github.com/zodiacon) Forked [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) to [zodiacon/winget-pkgs](https://github.com/zodiacon/winget-pkgs)
   > The Microsoft community Windows Package Manager manifest repository
 
 
 ---
-*最后更新于 2026-09-05 17:06:07 UTC*
+*最后更新于 2026-09-05 19:52:31 UTC*
 *历史记录保存在 `archive` 目录中。*
