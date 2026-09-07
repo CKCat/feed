@@ -30,6 +30,20 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [katadelos/eink-emulator](https://github.com/katadelos/eink-emulator)
   > An emulator for various Amazon and Rakuten Kobo e-reader devices
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [microsoft/tgrep](https://github.com/microsoft/tgrep)
+  > Trigram-indexed grep with a client/server architecture for fast regex search in large codebases loca...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [local-inference-lab/rtx6kpro](https://github.com/local-inference-lab/rtx6kpro)
+  > RTX 6000 Pro Wiki — Running Large LLMs (Qwen3.5-397B, Kimi-K2.5, GLM-5) on PCIe GPUs without NVLink
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server)
+  > The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [drluoto/flash-next-strix-halo](https://github.com/drluoto/flash-next-strix-halo)
+  > Vitronia — Qwen3.8-Flash-Next on AMD Strix Halo (gfx1151): 17 → 47 tok/s. Working MTP on ROCm, measu...
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)
   > Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math ...
@@ -50,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-09-07 18:35:48 UTC*
+*最后更新于 2026-09-07 21:53:39 UTC*
 *历史记录保存在 `archive` 目录中。*
