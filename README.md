@@ -23,16 +23,12 @@
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [EmenstaNougat/BlueJammer-V2](https://github.com/EmenstaNougat/BlueJammer-V2)
   > BlueJammer-V2 is a two-board RF research platform combining an ESP32 jamming engine with a BW16 5GHz...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+  > Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in fl...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [katadelos/eink-emulator](https://github.com/katadelos/eink-emulator)
   > An emulator for various Amazon and Rakuten Kobo e-reader devices
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Nativu5/Gemini-FastAPI](https://github.com/Nativu5/Gemini-FastAPI)
-  > Web-based Gemini models wrapped into an OpenAI-compatible API.
-- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [Nativu5/Gemini-FastAPI](https://github.com/Nativu5/Gemini-FastAPI) to [divyam234/Gemini-FastAPI](https://github.com/divyam234/Gemini-FastAPI)
-  > Web-based Gemini models wrapped into an OpenAI-compatible API.
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)
@@ -44,14 +40,6 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol)
   > Synchronized multi-client state for AI agent sessions
 
-### [waruqi](https://github.com/waruqi)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [tencentmusic/jugg](https://github.com/tencentmusic/jugg)
-  > Fastest incremental build tool for large Android apps. See changes in ~3s without modifying Gradle s...
-
-### [yhirose](https://github.com/yhirose)
-- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [DreambigOu/ELI5](https://github.com/DreambigOu/ELI5)
-  > ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents. Ada...
-
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [BroNils/aotopsy](https://github.com/BroNils/aotopsy)
   > Static analyzer for Flutter/Dart AOT snapshots — recovers function names, class hierarchies, call gr...
@@ -62,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-09-07 13:56:03 UTC*
+*最后更新于 2026-09-07 18:35:48 UTC*
 *历史记录保存在 `archive` 目录中。*
