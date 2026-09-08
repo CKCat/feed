@@ -48,6 +48,10 @@
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)
   > Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [btsouth/omakade](https://github.com/btsouth/omakade)
+  > A beautiful, local-first game library built for Omarchy.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [MirminaMirror/qoder-cn-patch](https://github.com/MirminaMirror/qoder-cn-patch)
   > Feature restoration & enhancement patches for Qoder CN JetBrains plugin. 
@@ -64,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-09-07 21:53:39 UTC*
+*最后更新于 2026-09-07 23:56:38 UTC*
 *历史记录保存在 `archive` 目录中。*
