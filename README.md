@@ -4,9 +4,6 @@
 
 ## 今日动态
 
-### [JingMatrix](https://github.com/JingMatrix)
-- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [HexHive/taemu](https://github.com/HexHive/taemu)
-
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)
   > A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests...
@@ -22,12 +19,6 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [chenyme/grok2api](https://github.com/chenyme/grok2api)
   > Multi-account API gateway for Grok Build, Grok Web, and Grok Console
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [denialwm/denial](https://github.com/denialwm/denial)
-  > Denial is a Flutter-native Wayland compositor that puts Flutter at the foundation of the desktop, un...
-- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) to [divyam234/siyuan](https://github.com/divyam234/siyuan)
-  > An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work toget...
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [microsoft/tgrep](https://github.com/microsoft/tgrep)
@@ -52,10 +43,6 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [chrishayuk/chuk-mcp-ios-simulator](https://github.com/chrishayuk/chuk-mcp-ios-simulator)
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams)
-  > AgentTeams plugin for DeepSeek Harness
-
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
   > Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque age...
@@ -70,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-09-08 17:43:35 UTC*
+*最后更新于 2026-09-08 20:39:23 UTC*
 *历史记录保存在 `archive` 目录中。*
