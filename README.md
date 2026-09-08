@@ -20,13 +20,13 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [chenyme/grok2api](https://github.com/chenyme/grok2api)
   > Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
+  > A git client based on the IntelliJ platform
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [microsoft/tgrep](https://github.com/microsoft/tgrep)
   > Trigram-indexed grep with a client/server architecture for fast regex search in large codebases loca...
-
-### [es3n1n](https://github.com/es3n1n)
-- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ZXShady/enchantum](https://github.com/ZXShady/enchantum)
-  > Faster enum reflection for C++17 since I don't want to wait for C++26 reflection.
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [HexRaysSA/claude-marketplace](https://github.com/HexRaysSA/claude-marketplace)
@@ -57,5 +57,5 @@
 
 
 ---
-*最后更新于 2026-09-08 20:39:23 UTC*
+*最后更新于 2026-09-08 23:09:05 UTC*
 *历史记录保存在 `archive` 目录中。*
