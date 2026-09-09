@@ -12,11 +12,9 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [funap/xvw](https://github.com/funap/xvw)
   > A Rust-powered GUI hex editor built on Zed's GPUI framework.
 
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
-  > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
-  > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [rafaeldtinoco/security](https://github.com/rafaeldtinoco/security)
+  > Be careful.
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
@@ -34,9 +32,6 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
 
-### [divyam234](https://github.com/divyam234)
-- 🚀 👤 [divyam234](https://github.com/divyam234) Made [divyam234/rsaf-private-builder](https://github.com/divyam234/rsaf-private-builder) public
-
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -49,10 +44,6 @@
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [MoeClub/Note](https://github.com/MoeClub/Note)
   > Some Note
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
-  > A Modern C11 compiler (STILL EARLY)
-
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide)
   > A style guide for writing safe, predictable, and portable bash scripts (not sh!)
@@ -63,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-09-09 16:59:56 UTC*
+*最后更新于 2026-09-09 19:40:49 UTC*
 *历史记录保存在 `archive` 目录中。*
