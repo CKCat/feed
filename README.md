@@ -44,6 +44,16 @@
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [MoeClub/Note](https://github.com/MoeClub/Note)
   > Some Note
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/Dragons-vs-VMs](https://github.com/Fare9/Dragons-vs-VMs)
+  > Scripts, notes, and other files about the analysis of VMProtect with Dragon Tales
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales-web](https://github.com/Fare9/dragon-tales-web)
+  > Website with dragon-tales documentation and manual
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/My-Symbolic-Execution](https://github.com/Fare9/My-Symbolic-Execution)
+  > My repository to store all the examples I do about symbolic execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/emu](https://github.com/noahware/emu)
+  > ARM64 instruction emulator written in modern c++.
+
 ### [tytydraco](https://github.com/tytydraco)
 - 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide)
   > A style guide for writing safe, predictable, and portable bash scripts (not sh!)
@@ -54,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-09-09 19:40:49 UTC*
+*最后更新于 2026-09-09 22:13:35 UTC*
 *历史记录保存在 `archive` 目录中。*
