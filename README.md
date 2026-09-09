@@ -10,6 +10,14 @@
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
 
+### [SivanLiu](https://github.com/SivanLiu)
+- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+  > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+  > Free and open-source macOS menu bar toolkit.
+
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
   > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
@@ -21,6 +29,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
+  > A Modern C11 compiler (STILL EARLY)
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [vercel/ai-elements](https://github.com/vercel/ai-elements)
@@ -36,11 +48,7 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
   > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
 
-### [yuchuangu85](https://github.com/yuchuangu85)
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)
-  > Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
-
 
 ---
-*最后更新于 2026-09-09 07:50:05 UTC*
+*最后更新于 2026-09-09 12:41:49 UTC*
 *历史记录保存在 `archive` 目录中。*
