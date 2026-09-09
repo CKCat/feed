@@ -1,61 +1,30 @@
-# 每日 GitHub 动态 (2026-09-08)
+# 每日 GitHub 动态 (2026-09-09)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)
-  > A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests...
-
 ### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-  > Write HTML. Render video. Built for agents.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No...
 
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [mamedev/mame](https://github.com/mamedev/mame) to [MouriNaruto/mame](https://github.com/MouriNaruto/mame)
-  > MAME
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [azampatti/Qwen3.8-Flash-Next-Int4-FAST](https://github.com/azampatti/Qwen3.8-Flash-Next-Int4-FAST)
+  > Recipe for the fastest 4bit qwen3.8FlashNext
 
-### [PlaneJun](https://github.com/PlaneJun)
-- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [chenyme/grok2api](https://github.com/chenyme/grok2api)
-  > Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+### [tytydraco](https://github.com/tytydraco)
+- 🌟 👤 [tytydraco](https://github.com/tytydraco) Starred [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide)
+  > A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 
-### [Ylarod](https://github.com/Ylarod)
-- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
-  > A git client based on the IntelliJ platform
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
+  > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
 
-### [ergrelet](https://github.com/ergrelet)
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [microsoft/tgrep](https://github.com/microsoft/tgrep)
-  > Trigram-indexed grep with a client/server architecture for fast regex search in large codebases loca...
-
-### [eversinc33](https://github.com/eversinc33)
-- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [HexRaysSA/claude-marketplace](https://github.com/HexRaysSA/claude-marketplace)
-  > IDA Claude Code Plugins
-
-### [gatieme](https://github.com/gatieme)
-- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [immanuwell/pktz](https://github.com/immanuwell/pktz)
-  > pktz - eBPF-powered network traffic monitor - per process, per connection, live
-
-### [mcdulltii](https://github.com/mcdulltii)
-- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
-  > Create polished demo videos without editing skills. Mac/Windows/Linux
-
-### [nzcv](https://github.com/nzcv)
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [chrishayuk/chuk-mcp-ios-simulator](https://github.com/chrishayuk/chuk-mcp-ios-simulator)
-
-### [satan1a](https://github.com/satan1a)
-- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
-  > Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque age...
-
-### [secmob](https://github.com/secmob)
-- 🌟 👤 [secmob](https://github.com/secmob) Starred [jin-bo/agentao](https://github.com/jin-bo/agentao)
-  > An Eastern-philosophy-inspired CLI agent harness for personal research and data analysis assistance.
-
-### [tacesrever](https://github.com/tacesrever)
-- 🌟 👤 [tacesrever](https://github.com/tacesrever) Starred [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-  > 中文独立博客列表
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)
+  > Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
 
 ---
-*最后更新于 2026-09-08 23:09:05 UTC*
+*最后更新于 2026-09-09 02:54:11 UTC*
 *历史记录保存在 `archive` 目录中。*
