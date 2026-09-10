@@ -43,9 +43,6 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
   > 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
-### [fuqiuluo](https://github.com/fuqiuluo)
-- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
-
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
@@ -73,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-09-10 21:21:49 UTC*
+*最后更新于 2026-09-10 23:40:13 UTC*
 *历史记录保存在 `archive` 目录中。*
