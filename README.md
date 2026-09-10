@@ -35,11 +35,9 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
   > Reconstruct and validate C/C++ code from compiled programs with AI.
 
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
-  > Reconstruct and validate C/C++ code from compiled programs with AI.
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-  > the runtime your coding agents live on
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress)
+  > Model Express is a Rust-based component meant to be placed next to existing model inference systems ...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
@@ -75,5 +73,5 @@
 
 
 ---
-*最后更新于 2026-09-10 18:02:08 UTC*
+*最后更新于 2026-09-10 21:21:49 UTC*
 *历史记录保存在 `archive` 目录中。*
