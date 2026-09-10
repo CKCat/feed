@@ -8,6 +8,14 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [thecybersandeep/ipaauditor](https://github.com/thecybersandeep/ipaauditor)
   > Browser-based iOS IPA security analyzer.
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [robertelee78/unicornscan](https://github.com/robertelee78/unicornscan)
+  > Jack C. Louis's Unicornscan.
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [robertelee78/unicornscan](https://github.com/robertelee78/unicornscan) to [0xdea/unicornscan](https://github.com/0xdea/unicornscan)
+  > Jack C. Louis's Unicornscan.
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) to [0xdea/PayloadsAllTheThings](https://github.com/0xdea/PayloadsAllTheThings)
+  > A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [min09577/TiebaLite](https://github.com/min09577/TiebaLite)
   > 贴吧 Lite — 第三方百度贴吧 Android 客户端 | 非官方 | Compose + Kotlin | 无广告无推广 | 支持 Android 16 | AI 迭代维护
@@ -33,6 +41,17 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
   > the runtime your coding agents live on
 
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+  > 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
   > Reconstruct and validate C/C++ code from compiled programs with AI.
@@ -56,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-09-10 14:46:21 UTC*
+*最后更新于 2026-09-10 18:02:08 UTC*
 *历史记录保存在 `archive` 目录中。*
