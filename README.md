@@ -41,6 +41,12 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
   > Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [jonny-jhnson/WespConsumerPOC](https://github.com/jonny-jhnson/WespConsumerPOC)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [xusheng6/windows-wesp-research](https://github.com/xusheng6/windows-wesp-research)
+  > Reverse engineering and live validation of the Windows Endpoint Security Platform preview
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+  > A unified library of SOTA model optimization techniques like quantization, distillation, pruning, ne...
 
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [threat-hunt/data](https://github.com/threat-hunt/data)
@@ -58,17 +64,7 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)
   > The Simple Config Template Of Rime By Mintimate.  
 
-### [yuchuangu85](https://github.com/yuchuangu85)
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
-  > Skills for Designers and Engineers.
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
-  > A terminal for a more modern age
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
-  > A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented i...
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [alesimula/Murine-launcher](https://github.com/alesimula/Murine-launcher)
-  > This is fork from Launcher3 in AOSP.
-
 
 ---
-*最后更新于 2026-09-11 16:52:32 UTC*
+*最后更新于 2026-09-11 19:25:12 UTC*
 *历史记录保存在 `archive` 目录中。*
