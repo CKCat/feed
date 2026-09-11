@@ -47,6 +47,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
   > A unified library of SOTA model optimization techniques like quantization, distillation, pruning, ne...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch)
+  > Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a per...
 
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [threat-hunt/data](https://github.com/threat-hunt/data)
@@ -66,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-09-11 19:25:12 UTC*
+*最后更新于 2026-09-11 22:11:54 UTC*
 *历史记录保存在 `archive` 目录中。*
