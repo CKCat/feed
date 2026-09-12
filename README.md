@@ -36,11 +36,6 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [zaymonoid/mac-os-key-repeat](https://github.com/zaymonoid/mac-os-key-repeat)
   > A simple tool to test Mac OS key-repeat settings without restarting your computer more than once.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MZULALI/toolhost](https://github.com/MZULALI/toolhost)
-  > Let an LLM write its own tools at runtime: parsed with acorn, versioned in SQLite, run in a supervis...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK)
-
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
   > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
@@ -59,5 +54,5 @@
 
 
 ---
-*最后更新于 2026-09-12 21:10:01 UTC*
+*最后更新于 2026-09-12 23:41:30 UTC*
 *历史记录保存在 `archive` 目录中。*
