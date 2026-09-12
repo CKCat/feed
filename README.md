@@ -14,6 +14,10 @@
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [mingzun09/Chunqiu-Detector-Problem-solution](https://github.com/mingzun09/Chunqiu-Detector-Problem-solution) to [KuNgia09/Chunqiu-Detector-Problem-solution](https://github.com/KuNgia09/Chunqiu-Detector-Problem-solution)
   > 将Chunqiu Detector-Problem solution写进 README并对其维护修改跟进等，方便求助者查阅。 （内容来自探索发现并测试，并非摘录自检测源码)
 
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [4accccc/vivo-4.x-kernel-autopatch](https://github.com/4accccc/vivo-4.x-kernel-autopatch) to [LeadroyaL/vivo-4.x-kernel-autopatch](https://github.com/LeadroyaL/vivo-4.x-kernel-autopatch)
+  > patch vivo kernel(4.x).
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tonhowtf/omniget](https://github.com/tonhowtf/omniget)
   > Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Fre...
@@ -35,7 +39,15 @@
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
   > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
 
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [doesthings/FreeFCC](https://github.com/doesthings/FreeFCC)
+  > Free FCC unlock for DJI smart controllers. No server, no license, no tracking. Download: freefcc.pag...
+
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp) to [sunwm518/DisassembleVmp](https://github.com/sunwm518/DisassembleVmp)
+  > VMP分析工具
+
 
 ---
-*最后更新于 2026-09-12 13:50:24 UTC*
+*最后更新于 2026-09-12 16:42:34 UTC*
 *历史记录保存在 `archive` 目录中。*
