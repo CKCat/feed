@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Ch0pin](https://github.com/Ch0pin)
+- 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
 ### [Dere3046](https://github.com/Dere3046)
 - 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) to [Dere3046/Droidspaces](https://github.com/Dere3046/Droidspaces)
   > A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions native...
@@ -21,6 +25,8 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tonhowtf/omniget](https://github.com/tonhowtf/omniget)
   > Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Fre...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+  > VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, vi...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
@@ -39,6 +45,10 @@
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
   > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/TerminatorPlus](https://github.com/superturtlee/TerminatorPlus)
+  > the epic plugin
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [doesthings/FreeFCC](https://github.com/doesthings/FreeFCC)
   > Free FCC unlock for DJI smart controllers. No server, no license, no tracking. Download: freefcc.pag...
@@ -49,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-09-12 16:42:34 UTC*
+*最后更新于 2026-09-12 18:54:55 UTC*
 *历史记录保存在 `archive` 目录中。*
