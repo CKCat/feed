@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [worldcoin/walletkit](https://github.com/worldcoin/walletkit) to [JingMatrix/walletkit](https://github.com/JingMatrix/walletkit)
+  > WalletKit enables wallets to use World ID.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [markel1974/gowolfenstein](https://github.com/markel1974/gowolfenstein)
   > a go wolfenstein rich clone
@@ -15,8 +19,12 @@
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach)
   > better agentic engineering
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm)
+  > Secure & isolated JS environments for nodejs
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [adonis-singh/codex-desktop-linux](https://github.com/adonis-singh/codex-desktop-linux)
+  > Source-only Linux packaging for OpenAI Codex Desktop — local DEB, AppImage, and Wayland builds
 
 
 ---
-*最后更新于 2026-09-13 02:57:17 UTC*
+*最后更新于 2026-09-13 08:04:48 UTC*
 *历史记录保存在 `archive` 目录中。*
