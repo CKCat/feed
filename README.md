@@ -8,9 +8,17 @@
 - 🚀 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Made [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb) public
   > A KernelSU module that provides alternative adb server over local network
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [worldcoin/walletkit](https://github.com/worldcoin/walletkit) to [JingMatrix/walletkit](https://github.com/JingMatrix/walletkit)
   > WalletKit enables wallets to use World ID.
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [PiSugar/whisplay-gemma-translator](https://github.com/PiSugar/whisplay-gemma-translator)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [google-gemma/gemma-translator](https://github.com/google-gemma/gemma-translator)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
@@ -24,15 +32,10 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [slee-persis/GVS5H](https://github.com/slee-persis/GVS5H)
   > GVS5H: Five Qwen3.8-27B Models Match Claude Fable 5 on LiveCodeBench Hard  |  Fable 5 Level Coding f...
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach)
-  > better agentic engineering
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm)
-  > Secure & isolated JS environments for nodejs
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [adonis-singh/codex-desktop-linux](https://github.com/adonis-singh/codex-desktop-linux)
-  > Source-only Linux packaging for OpenAI Codex Desktop — local DEB, AppImage, and Wayland builds
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Asterisk4Magisk/bpf2socks](https://github.com/Asterisk4Magisk/bpf2socks)
 
 
 ---
-*最后更新于 2026-09-13 13:36:36 UTC*
+*最后更新于 2026-09-13 17:12:44 UTC*
 *历史记录保存在 `archive` 目录中。*
