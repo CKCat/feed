@@ -24,6 +24,14 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
   > 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQL...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/llvm-builds](https://github.com/LLVMParty/llvm-builds)
+  > Precompiled LLVM distributions for Linux/macOS/Windows.
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [forefy/reburp](https://github.com/forefy/reburp)
+  > A Burp Suite extension that exposes the full Montoya API as a local REST API, with Swagger UI
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [markel1974/gowolfenstein](https://github.com/markel1974/gowolfenstein)
   > a go wolfenstein rich clone
@@ -36,10 +44,14 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [aryx/codemap](https://github.com/aryx/codemap)
   > Source code visualizer
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aryx/codemap](https://github.com/aryx/codemap)
+  > Source code visualizer
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Asterisk4Magisk/bpf2socks](https://github.com/Asterisk4Magisk/bpf2socks)
 
 
 ---
-*最后更新于 2026-09-13 20:14:46 UTC*
+*最后更新于 2026-09-13 22:49:50 UTC*
 *历史记录保存在 `archive` 目录中。*
