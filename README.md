@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [Dr-TSNG](https://github.com/Dr-TSNG)
+- 🚀 👤 [Dr-TSNG](https://github.com/Dr-TSNG) Made [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb) public
+  > A KernelSU module that provides alternative adb server over local network
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [worldcoin/walletkit](https://github.com/worldcoin/walletkit) to [JingMatrix/walletkit](https://github.com/JingMatrix/walletkit)
   > WalletKit enables wallets to use World ID.
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+  > 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQL...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [markel1974/gowolfenstein](https://github.com/markel1974/gowolfenstein)
@@ -26,5 +34,5 @@
 
 
 ---
-*最后更新于 2026-09-13 08:04:48 UTC*
+*最后更新于 2026-09-13 13:36:36 UTC*
 *历史记录保存在 `archive` 目录中。*
