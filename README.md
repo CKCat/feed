@@ -45,13 +45,22 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
   > Make Any Website into CLI & Use your logged-in browser by AI agent. 
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [0Chencc/clawgod](https://github.com/0Chencc/clawgod)
+  > ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with ea...
+
 ### [axhlzy](https://github.com/axhlzy)
 - 🌟 👤 [axhlzy](https://github.com/axhlzy) Starred [Jadis0x/il2cpp-reverse-engineering-guide](https://github.com/Jadis0x/il2cpp-reverse-engineering-guide)
   > This guide provides illustrative examples demonstrating the usage of Il2cppInspector C++ scaffold.
 
+### [coderforlife](https://github.com/coderforlife)
+- 🚀 👤 [coderforlife](https://github.com/coderforlife) Made [MoravianUniversity/function-planner-shared](https://github.com/MoravianUniversity/function-planner-shared) public
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Idov31/Silverseal](https://github.com/Idov31/Silverseal)
   > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  > Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. Open...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [chenyme/grok2api](https://github.com/chenyme/grok2api) to [fuqiuluo/grok2api](https://github.com/fuqiuluo/grok2api)
@@ -68,6 +77,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [truefoundry/trueforge](https://github.com/truefoundry/trueforge)
   > The open-source agent harness - the runtime layer that turns an LLM into a working agent.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
+  > An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+  > Turn your coding agents into research agents
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [KernelSU2/AnyKernel3](https://github.com/KernelSU2/AnyKernel3)
@@ -89,5 +102,5 @@
 
 
 ---
-*最后更新于 2026-09-14 17:35:25 UTC*
+*最后更新于 2026-09-14 21:24:10 UTC*
 *历史记录保存在 `archive` 目录中。*
