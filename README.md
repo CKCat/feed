@@ -16,6 +16,10 @@
 - 🌟 👤 [KelvinMsft](https://github.com/KelvinMsft) Starred [denniske/aoe2companion](https://github.com/denniske/aoe2companion)
   > AoE II Companion
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
+  > Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and imag...
+
 ### [LeadroyaL](https://github.com/LeadroyaL)
 - 🌟 👤 [LeadroyaL](https://github.com/LeadroyaL) Starred [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)
   > Jailbreak supported Google Pixel phones with CVE-2026-43499
@@ -25,6 +29,10 @@
   > 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [fatedier/frp](https://github.com/fatedier/frp)
   > A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [friuns2/codex-mobile](https://github.com/friuns2/codex-mobile)
+  > 🚀 Run Codex Mobile Anywhere: Linux, Windows, or Termux on Android 🚀
 
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [Jigyasa-2606/Playtext](https://github.com/Jigyasa-2606/Playtext)
@@ -44,11 +52,19 @@
 - 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [GMWalletApp/gmshop-edge](https://github.com/GMWalletApp/gmshop-edge) to [fuqiuluo/gmshop-edge](https://github.com/fuqiuluo/gmshop-edge)
   > Demo username and password: root@example.com
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+  > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [datalab-to/surya](https://github.com/datalab-to/surya)
+  > OCR, layout analysis, reading order, table recognition in 90+ languages
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [rianlu/tsf-launcher-3d-shell-maintained](https://github.com/rianlu/tsf-launcher-3d-shell-maintained) to [yuchuangu85/tsf-launcher-3d](https://github.com/yuchuangu85/tsf-launcher-3d)
   > 面向新版 Android 的 TSF Launcher 3D Shell 非官方兼容性维护版
 
 
 ---
-*最后更新于 2026-09-15 10:59:52 UTC*
+*最后更新于 2026-09-15 15:30:05 UTC*
 *历史记录保存在 `archive` 目录中。*
