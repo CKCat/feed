@@ -4,15 +4,27 @@
 
 ## 今日动态
 
-### [jonpalmisc](https://github.com/jonpalmisc)
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-  > Pure python3 implementation for working with iDevices (iPhone, etc...).
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
+  > Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Don-Chad/ninfer-3090](https://github.com/Don-Chad/ninfer-3090)
-  > Hyper optimised Qwen3.8-27B inference on one RTX 3090: ReplaySSM, MTP3, reasoning effort, C1-C8 batc...
+### [KelvinMsft](https://github.com/KelvinMsft)
+- 🌟 👤 [KelvinMsft](https://github.com/KelvinMsft) Starred [denniske/aoe2companion](https://github.com/denniske/aoe2companion)
+  > AoE II Companion
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)
+  > 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🍴 👤 [yuchuangu85](https://github.com/yuchuangu85) Forked [rianlu/tsf-launcher-3d-shell-maintained](https://github.com/rianlu/tsf-launcher-3d-shell-maintained) to [yuchuangu85/tsf-launcher-3d](https://github.com/yuchuangu85/tsf-launcher-3d)
+  > 面向新版 Android 的 TSF Launcher 3D Shell 非官方兼容性维护版
 
 
 ---
-*最后更新于 2026-09-15 00:13:00 UTC*
+*最后更新于 2026-09-15 05:45:15 UTC*
 *历史记录保存在 `archive` 目录中。*
