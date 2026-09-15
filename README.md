@@ -4,13 +4,11 @@
 
 ## 今日动态
 
-### [5ec1cff](https://github.com/5ec1cff)
-- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6)
-  > NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能...
-
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
   > Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa)
+  > Application Binary Interface for the Arm® Architecture
 
 ### [KelvinMsft](https://github.com/KelvinMsft)
 - 🌟 👤 [KelvinMsft](https://github.com/KelvinMsft) Starred [denniske/aoe2companion](https://github.com/denniske/aoe2companion)
@@ -48,6 +46,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
   > AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and A...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [julianmb/haloq38flash](https://github.com/julianmb/haloq38flash)
+  > qwen3.8-flash-next on strix halo — 91g quant, 56 tok/s, 262k context, receipts included
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [GMWalletApp/gmshop-edge](https://github.com/GMWalletApp/gmshop-edge) to [fuqiuluo/gmshop-edge](https://github.com/fuqiuluo/gmshop-edge)
   > Demo username and password: root@example.com
@@ -66,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-09-15 15:30:05 UTC*
+*最后更新于 2026-09-15 19:29:32 UTC*
 *历史记录保存在 `archive` 目录中。*
