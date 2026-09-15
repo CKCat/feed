@@ -55,8 +55,10 @@
   > Demo username and password: root@example.com
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) to [mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
   > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
+  > 519+ harmful prompts to detect how abliterated AI models are
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [datalab-to/surya](https://github.com/datalab-to/surya)
@@ -68,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-09-15 19:29:32 UTC*
+*最后更新于 2026-09-15 22:41:16 UTC*
 *历史记录保存在 `archive` 目录中。*
