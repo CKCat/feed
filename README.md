@@ -12,9 +12,6 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [Zamanry/iker](https://github.com/Zamanry/iker)
   > An ike-scan wrapper to simplify penetration testing IKE and encourage stronger IKE implementations.
 
-### [ChiChou](https://github.com/ChiChou)
-- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [gnthibault/siril](https://github.com/gnthibault/siril)
-
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LeoChen-CoreMind/android-vmp-recovery-workflow](https://github.com/LeoChen-CoreMind/android-vmp-recovery-workflow)
   > Android 某6零免费版 DexVMP 恢复工作流，仅限学习研究与授权分析
@@ -29,6 +26,10 @@
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [connectbot/connectbot](https://github.com/connectbot/connectbot)
   > ConnectBot is the first SSH client for Android.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dzshzx/codexcomp](https://github.com/dzshzx/codexcomp)
+  > Local Responses proxy for Codex CLI: folds gpt-5.5 518n-2 reasoning truncation (516 degradation) via...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
   > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
@@ -38,6 +39,9 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [mineadmin/MineAdmin](https://github.com/mineadmin/MineAdmin)
   > 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue+Vite 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
+
+### [R3x](https://github.com/R3x)
+- 🌟 👤 [R3x](https://github.com/R3x) Starred [purseclab/jailbreak-defense](https://github.com/purseclab/jailbreak-defense)
 
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [Batchhh/Alloy-ios](https://github.com/Batchhh/Alloy-ios) to [T5ive/Alloy-ios](https://github.com/T5ive/Alloy-ios)
@@ -66,6 +70,12 @@
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [QCYTSN/dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu)
+  > Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [shengsheng90/DSH-taskboard](https://github.com/shengsheng90/DSH-taskboard)
+  > Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and ...
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [liustack/modlens](https://github.com/liustack/modlens)
+  > The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent...
 
 ### [gatieme](https://github.com/gatieme)
 - 🌟 👤 [gatieme](https://github.com/gatieme) Starred [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
@@ -103,5 +113,5 @@
 
 
 ---
-*最后更新于 2026-09-16 20:50:58 UTC*
+*最后更新于 2026-09-16 23:30:47 UTC*
 *历史记录保存在 `archive` 目录中。*
