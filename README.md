@@ -4,12 +4,17 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [gnthibault/siril](https://github.com/gnthibault/siril)
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [LeoChen-CoreMind/android-vmp-recovery-workflow](https://github.com/LeoChen-CoreMind/android-vmp-recovery-workflow)
   > Android 某6零免费版 DexVMP 恢复工作流，仅限学习研究与授权分析
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp)
+  > MCP server for controlling VMware Workstation Pro virtual machines
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xiaobfly/vmware-mcp](https://github.com/xiaobfly/vmware-mcp)
   > MCP server for controlling VMware Workstation Pro virtual machines
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
@@ -30,13 +35,17 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [mineadmin/MineAdmin](https://github.com/mineadmin/MineAdmin)
   > 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue+Vite 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
 
+### [T5ive](https://github.com/T5ive)
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [Batchhh/Alloy-ios](https://github.com/Batchhh/Alloy-ios) to [T5ive/Alloy-ios](https://github.com/T5ive/Alloy-ios)
+  > high-performance, mod menu, memory-safe framework, hooking & patching & breakpoints at runtime
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [cppLover0/Orange](https://github.com/cppLover0/Orange)
   > linux-like x86_64, aarch64, riscv64 os
 
-### [evilbinary](https://github.com/evilbinary)
-- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [mozilla/pdf.js](https://github.com/mozilla/pdf.js)
-  > PDF Reader in JavaScript
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
@@ -58,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-09-16 07:09:09 UTC*
+*最后更新于 2026-09-16 13:03:53 UTC*
 *历史记录保存在 `archive` 目录中。*
