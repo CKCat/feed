@@ -25,12 +25,6 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xiaobfly/vmware-mcp](https://github.com/xiaobfly/vmware-mcp)
   > MCP server for controlling VMware Workstation Pro virtual machines
 
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [crafcat7/R9-fileserver](https://github.com/crafcat7/R9-fileserver)
-  > Cross-platform 9p file server implemented in Rust.
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [crafcat7/rdnat](https://github.com/crafcat7/rdnat)
-  > A target conversion tool based on rust
-
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [connectbot/connectbot](https://github.com/connectbot/connectbot)
   > ConnectBot is the first SSH client for Android.
@@ -48,6 +42,22 @@
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [Batchhh/Alloy-ios](https://github.com/Batchhh/Alloy-ios) to [T5ive/Alloy-ios](https://github.com/T5ive/Alloy-ios)
   > high-performance, mod menu, memory-safe framework, hooking & patching & breakpoints at runtime
+
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [sinelaw/fresh](https://github.com/sinelaw/fresh)
+  > Terminal based IDE & text editor: easy, powerful and fast
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [InlitX/GymMane](https://github.com/InlitX/GymMane)
+  >  Offline gym log for Android. No account, no ads, no internet.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [sonorahq/sonora](https://github.com/sonorahq/sonora)
+  > A native music streaming client, built with Rust and GPUI
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lgse/strata](https://github.com/lgse/strata)
+  > A fast, keyboard-first file manager for Linux
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [zasper-io/zasper](https://github.com/zasper-io/zasper)
+  > High Performace IDE for Jupyter Notebooks
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [AlexAntonik/nix-graph](https://github.com/AlexAntonik/nix-graph)
+  > Interactive TUI viewer for Nix dependency graphs
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [cppLover0/Orange](https://github.com/cppLover0/Orange)
@@ -75,12 +85,6 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
   > 519+ harmful prompts to detect how abliterated AI models are
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs) to [mrexodia/Bochs](https://github.com/mrexodia/Bochs)
-  > Bochs - Cross Platform x86 Emulator Project
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3)
-  > An optimized quantization and inference library for running LLMs locally on modern consumer-class GP...
-
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [HFAsif/JitDumperEx](https://github.com/HFAsif/JitDumperEx) to [sunwm518/JitDumperEx](https://github.com/sunwm518/JitDumperEx)
   > Offline Jit Dump
@@ -99,5 +103,5 @@
 
 
 ---
-*最后更新于 2026-09-16 17:55:31 UTC*
+*最后更新于 2026-09-16 20:50:58 UTC*
 *历史记录保存在 `archive` 目录中。*
