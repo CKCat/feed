@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone)
+  > Fast SNMP Scanner
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [royhills/ike-scan](https://github.com/royhills/ike-scan)
+  > The IKE Scanner
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [Zamanry/iker](https://github.com/Zamanry/iker)
+  > An ike-scan wrapper to simplify penetration testing IKE and encourage stronger IKE implementations.
+
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [gnthibault/siril](https://github.com/gnthibault/siril)
 
@@ -30,6 +38,8 @@
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
   > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [mineadmin/MineAdmin](https://github.com/mineadmin/MineAdmin)
@@ -47,6 +57,10 @@
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+  > 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Adv...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
   > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
@@ -61,11 +75,29 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
   > 519+ harmful prompts to detect how abliterated AI models are
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs) to [mrexodia/Bochs](https://github.com/mrexodia/Bochs)
+  > Bochs - Cross Platform x86 Emulator Project
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3)
+  > An optimized quantization and inference library for running LLMs locally on modern consumer-class GP...
+
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [HFAsif/JitDumperEx](https://github.com/HFAsif/JitDumperEx) to [sunwm518/JitDumperEx](https://github.com/sunwm518/JitDumperEx)
   > Offline Jit Dump
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [SakanaAI/pc-alm](https://github.com/SakanaAI/pc-alm)
+  > PC-ALM
+
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [CHIZI-0618/sing-box](https://github.com/CHIZI-0618/sing-box)
+  > The universal proxy platform
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [MRL-00/cellar](https://github.com/MRL-00/cellar)
+  > Cellar — open-source universal desktop database client written in Tauri + React + Rust
+
 
 ---
-*最后更新于 2026-09-16 13:03:53 UTC*
+*最后更新于 2026-09-16 17:55:31 UTC*
 *历史记录保存在 `archive` 目录中。*
