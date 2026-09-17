@@ -4,9 +4,9 @@
 
 ## 今日动态
 
-### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
 
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
@@ -19,6 +19,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [siberiah2o/dsh-plugin-terminal](https://github.com/siberiah2o/dsh-plugin-terminal)
+  > Bottom terminal panel plugin for DeepSeek Harness (DSH Web GUI)
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [facebook/folly](https://github.com/facebook/folly)
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2026-09-17 18:46:39 UTC*
+*最后更新于 2026-09-17 21:53:33 UTC*
 *历史记录保存在 `archive` 目录中。*
