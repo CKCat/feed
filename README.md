@@ -14,6 +14,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code)
   > An open-source coding agent for your terminal, powered by MiniMax.
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
+  > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
   > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
@@ -115,5 +119,5 @@
 
 
 ---
-*最后更新于 2026-09-18 20:20:19 UTC*
+*最后更新于 2026-09-18 22:59:03 UTC*
 *历史记录保存在 `archive` 目录中。*
