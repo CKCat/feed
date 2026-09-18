@@ -33,6 +33,7 @@
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [debugx86/binder-trace](https://github.com/debugx86/binder-trace)
   > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [atria-asi/Atria-Dawn-Preview](https://github.com/atria-asi/Atria-Dawn-Preview)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lobsters/lobsters](https://github.com/lobsters/lobsters) to [mrexodia/lobsters](https://github.com/mrexodia/lobsters)
@@ -59,12 +60,6 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)
   > A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
-
-### [yuchuangu85](https://github.com/yuchuangu85)
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-  > Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning...
-- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [xiaohuangpin/WeKnora-pro](https://github.com/xiaohuangpin/WeKnora-pro)
-  > WeKnora‑pro是基于原始 WeKnora 的二次开发版本，核心在于提升文档解析能力。    主要改进：1. 支持扫描件通过 （CPU/GPU 自动优化）进行 OCR 与表格提取；且兼容WeKn...
 
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [revyos/th1520-linux-kernel](https://github.com/revyos/th1520-linux-kernel) to [yujincheng08/th1520-linux-kernel](https://github.com/yujincheng08/th1520-linux-kernel)
@@ -120,5 +115,5 @@
 
 
 ---
-*最后更新于 2026-09-18 17:27:07 UTC*
+*最后更新于 2026-09-18 20:20:19 UTC*
 *历史记录保存在 `archive` 目录中。*
