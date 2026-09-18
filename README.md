@@ -18,6 +18,14 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
   > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Continuum-AI-Corp/OrcaBonsai-27B-Uncensored](https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored)
+  > Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modi...
+
+### [axhlzy](https://github.com/axhlzy)
+- 🍴 👤 [axhlzy](https://github.com/axhlzy) Forked [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) to [axhlzy/nextjs-notion-starter-kit](https://github.com/axhlzy/nextjs-notion-starter-kit)
+  > Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [timo-reymann/bash-tui-toolkit](https://github.com/timo-reymann/bash-tui-toolkit)
   > Toolkit to create simple Terminal UIs using plain bash builtins
@@ -27,8 +35,8 @@
   > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Frankweb33/flybrain-robot-bridge](https://github.com/Frankweb33/flybrain-robot-bridge)
-  > Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, ...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lobsters/lobsters](https://github.com/lobsters/lobsters) to [mrexodia/lobsters](https://github.com/mrexodia/lobsters)
+  > Computing-focused community centered around link aggregation and discussion
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
@@ -41,10 +49,16 @@
   > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40+厂商的加固检测，欢迎大家提交无法识别的app
 - 🍴 👤 [sin5678](https://github.com/sin5678) Forked [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) to [sin5678/ApkCheckPack](https://github.com/sin5678/ApkCheckPack)
   > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40+厂商的加固检测，欢迎大家提交无法识别的app
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)
+  > A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
@@ -106,5 +120,5 @@
 
 
 ---
-*最后更新于 2026-09-18 13:20:56 UTC*
+*最后更新于 2026-09-18 17:27:07 UTC*
 *历史记录保存在 `archive` 目录中。*
