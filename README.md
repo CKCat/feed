@@ -32,11 +32,15 @@
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [BuilderIO/skills](https://github.com/BuilderIO/skills)
   > Skills for agents
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+  > The Photoshop alternative for Mac
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [opendroneid/opendroneid-core-c](https://github.com/opendroneid/opendroneid-core-c)
   > Open Drone ID Core C Library
 
 
 ---
-*最后更新于 2026-09-19 18:23:27 UTC*
+*最后更新于 2026-09-19 21:15:05 UTC*
 *历史记录保存在 `archive` 目录中。*
