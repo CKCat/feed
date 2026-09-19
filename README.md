@@ -12,6 +12,10 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [MPI-SysSec/DirtyFree](https://github.com/MPI-SysSec/DirtyFree)
   > Research artifacts for "DirtyFree: Simplified Data-Oriented Programming in the Linux Kernel" (NDSS 2...
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [MPI-SysSec/Heap-Localization](https://github.com/MPI-SysSec/Heap-Localization)
+  > Heap Localization
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [yejy53/Editable-Design](https://github.com/yejy53/Editable-Design)
   > Agent-driven creation of editable, tastefully crafted visual artifacts.
@@ -35,6 +39,9 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
   > The Photoshop alternative for Mac
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [YuGiMob/pi-hashline-edit-pro](https://github.com/YuGiMob/pi-hashline-edit-pro)
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [opendroneid/opendroneid-core-c](https://github.com/opendroneid/opendroneid-core-c)
@@ -42,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-09-19 21:15:05 UTC*
+*最后更新于 2026-09-19 23:52:08 UTC*
 *历史记录保存在 `archive` 目录中。*
