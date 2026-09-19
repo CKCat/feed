@@ -24,11 +24,19 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Xelckis/qr-server](https://github.com/Xelckis/qr-server)
   > A assembly webserver inside a QR Code
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [prest/prest](https://github.com/prest/prest)
+  > PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performa...
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [BuilderIO/skills](https://github.com/BuilderIO/skills)
+  > Skills for agents
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [opendroneid/opendroneid-core-c](https://github.com/opendroneid/opendroneid-core-c)
   > Open Drone ID Core C Library
 
 
 ---
-*最后更新于 2026-09-19 15:17:07 UTC*
+*最后更新于 2026-09-19 18:23:27 UTC*
 *历史记录保存在 `archive` 目录中。*
