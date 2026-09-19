@@ -15,14 +15,14 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [yejy53/Editable-Design](https://github.com/yejy53/Editable-Design)
   > Agent-driven creation of editable, tastefully crafted visual artifacts.
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian)
+  > 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [zerodegress/jevinf](https://github.com/zerodegress/jevinf)
+  > Jev-like model inference engine + Jev-compatible API
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [Xelckis/qr-server](https://github.com/Xelckis/qr-server)
   > A assembly webserver inside a QR Code
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code)
-  > An open-source coding agent for your terminal, powered by MiniMax.
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [opendroneid/opendroneid-core-c](https://github.com/opendroneid/opendroneid-core-c)
@@ -30,5 +30,5 @@
 
 
 ---
-*最后更新于 2026-09-19 11:52:33 UTC*
+*最后更新于 2026-09-19 15:17:07 UTC*
 *历史记录保存在 `archive` 目录中。*
