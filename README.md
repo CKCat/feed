@@ -55,6 +55,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy)
   > Tunnel (TUN) interface for SOCKS and HTTP proxies
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [VPSDance/ai-proxy-rules](https://github.com/VPSDance/ai-proxy-rules)
+  > AI 服务分流规则聚合: 多源合并 | 按 provider   精修 | 每日自动同步. 覆盖 OpenAI / Anthropic / Gemini / Cursor / Copilot 等主流 ...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/t5ive-skills](https://github.com/T5ive/t5ive-skills)
   > Personal skills
@@ -108,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-09-20 20:15:31 UTC*
+*最后更新于 2026-09-20 22:55:52 UTC*
 *历史记录保存在 `archive` 目录中。*
