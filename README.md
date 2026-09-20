@@ -35,6 +35,7 @@
   > A light-weight & open-source menubar app that shows current upload & download speed plus the top app...
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [unicode-org/icu4x](https://github.com/unicode-org/icu4x)
   > Solving i18n for client-side and resource-constrained environments.
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Yao-Mi/YMGUI](https://github.com/Yao-Mi/YMGUI)
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [bcoles/kasld](https://github.com/bcoles/kasld)
@@ -51,10 +52,16 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [mozillazg/ptcpdump](https://github.com/mozillazg/ptcpdump)
   > Process-aware, eBPF-based tcpdump
 - 🚀 👤 [Mufanc](https://github.com/Mufanc) Made [Mufanc/NetControl](https://github.com/Mufanc/NetControl) public
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy)
+  > Tunnel (TUN) interface for SOCKS and HTTP proxies
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/t5ive-skills](https://github.com/T5ive/t5ive-skills)
   > Personal skills
+
+### [divyam234](https://github.com/divyam234)
+- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [sonorahq/sonora](https://github.com/sonorahq/sonora) to [divyam234/sonora](https://github.com/divyam234/sonora)
+  > A native music streaming client, built with Rust and GPUI
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [can1357/jegrep](https://github.com/can1357/jegrep)
@@ -75,6 +82,8 @@
   > Modification around SCETool to turn it into a library.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
@@ -99,5 +108,5 @@
 
 
 ---
-*最后更新于 2026-09-20 17:16:02 UTC*
+*最后更新于 2026-09-20 20:15:31 UTC*
 *历史记录保存在 `archive` 目录中。*
