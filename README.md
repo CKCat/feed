@@ -18,6 +18,10 @@
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
   > Blame someone else for your bad code.
 
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)
+  > Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [vladelaina/BongoCat](https://github.com/vladelaina/BongoCat)
   > 🩷 💘C × SDL3 × OpenGL — Three Mysterious Forces, United as One! Bong~ Bongocat!!!Don't be shy, Join H...
@@ -29,10 +33,24 @@
   >  轻量 Windows 桌面划词翻译与 OCR 工具，支持大模型及多引擎直连
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [rana-gmbh/NetFluss](https://github.com/rana-gmbh/NetFluss)
   > A light-weight & open-source menubar app that shows current upload & download speed plus the top app...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [unicode-org/icu4x](https://github.com/unicode-org/icu4x)
+  > Solving i18n for client-side and resource-constrained environments.
+
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [bcoles/kasld](https://github.com/bcoles/kasld)
+  > KASLD defeats Linux kernel KASLR from a local process — recovering the virtual and physical memory l...
+
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🍴 👤 [MouriNaruto](https://github.com/MouriNaruto) Forked [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) to [K7ware/cpp-httplib](https://github.com/K7ware/cpp-httplib)
   > A C++ header-only HTTP/HTTPS server and client library
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [mozillazg/ptcpdump](https://github.com/mozillazg/ptcpdump)
+  > Process-aware, eBPF-based tcpdump
+- 🚀 👤 [Mufanc](https://github.com/Mufanc) Made [Mufanc/NetControl](https://github.com/Mufanc/NetControl) public
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/t5ive-skills](https://github.com/T5ive/t5ive-skills)
@@ -58,6 +76,12 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
+  > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+  > i. am. speed.
+
 ### [qicosmos](https://github.com/qicosmos)
 - 🍴 👤 [qicosmos](https://github.com/qicosmos) Forked [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) to [qicosmos/homebrew-core](https://github.com/qicosmos/homebrew-core)
   > 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
@@ -75,5 +99,5 @@
 
 
 ---
-*最后更新于 2026-09-20 13:54:45 UTC*
+*最后更新于 2026-09-20 17:16:02 UTC*
 *历史记录保存在 `archive` 目录中。*
