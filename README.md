@@ -33,9 +33,21 @@
 - 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [CoreWCF/CoreWCF](https://github.com/CoreWCF/CoreWCF)
   > Main repository for the Core WCF project
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [itsmostafa/typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp)
+  > mcp connector to give your AI agent direct access to typesafe ai's jev model
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [firerpa/lamda](https://github.com/firerpa/lamda)
   > Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching autom...
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+  > Secure and fast microVMs for serverless computing.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
@@ -67,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-09-21 17:48:12 UTC*
+*最后更新于 2026-09-21 21:39:39 UTC*
 *历史记录保存在 `archive` 目录中。*
