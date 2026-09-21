@@ -16,6 +16,16 @@
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [kazeyukiro/3m-ui](https://github.com/kazeyukiro/3m-ui)
   > Lightweight self-hosted web panel for Mihomo: listeners, users, subscriptions, SSL/ACME, Telegram, a...
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [EnderMo/PoggetCore](https://github.com/EnderMo/PoggetCore)
+  > A cross-platform Container management & File operation logic of Pogget
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [EnderMo/VinaUI](https://github.com/EnderMo/VinaUI)
+  > A UI foundation that simple and light
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [enenH/AndroidNativeDrawPlus](https://github.com/enenH/AndroidNativeDrawPlus)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [enenH/AndroidNativeDrawPlus](https://github.com/enenH/AndroidNativeDrawPlus) to [Mufanc/AndroidNativeDrawPlus](https://github.com/Mufanc/AndroidNativeDrawPlus)
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [Gracker/android-internals-wiki](https://github.com/Gracker/android-internals-wiki)
 
@@ -27,9 +37,17 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [firerpa/lamda](https://github.com/firerpa/lamda)
   > Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching autom...
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
+  > 🙌 OpenHands: AI-Driven Development
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)
   > Z.ai's coding agent harness. Powerful, intelligent, extensible.
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse)
+  > AI Native IDE for reverse engineering
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [evoker0/AlwaysStrong](https://github.com/evoker0/AlwaysStrong)
@@ -39,7 +57,15 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [sidex15/deviceidchanger](https://github.com/sidex15/deviceidchanger)
   > A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its f...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [incoai/splash](https://github.com/incoai/splash)
+  > A local inference engine for Apple silicon, built around the model.
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [penso/herdr-gpui](https://github.com/penso/herdr-gpui)
+  > Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git wor...
+
 
 ---
-*最后更新于 2026-09-21 11:53:31 UTC*
+*最后更新于 2026-09-21 17:48:12 UTC*
 *历史记录保存在 `archive` 目录中。*
