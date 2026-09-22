@@ -21,6 +21,8 @@
   > 简约、极致的原生markdown阅读器
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
   > The Photoshop alternative for Mac
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [tjsky/pinyin-annotator](https://github.com/tjsky/pinyin-annotator)
+  > 一键给中文文章加上汉语拼音，生成适合幼儿园至小学低年级儿童的注音读物。
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [RoelsJonas/From-Prompt-to-Pwn](https://github.com/RoelsJonas/From-Prompt-to-Pwn)
@@ -48,6 +50,8 @@
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention)
@@ -64,6 +68,13 @@
   > A Pi-native workspace for coding sessions on desktop. Run agent work. Keep control. Ship from anywhe...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [paterschris/lathe](https://github.com/paterschris/lathe)
   > A Zed fork that adds an Expo/React Native mobile panel, side-by-side merge conflict resolution, drag...
+
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
@@ -91,6 +102,8 @@
   > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
   > Lakehouse native graph engine with git-style workflows
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
@@ -108,5 +121,5 @@
 
 
 ---
-*最后更新于 2026-09-22 15:23:37 UTC*
+*最后更新于 2026-09-22 19:31:51 UTC*
 *历史记录保存在 `archive` 目录中。*
