@@ -4,6 +4,18 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [semgrep/semgrep](https://github.com/semgrep/semgrep)
+  > Lightweight static analysis for many languages. Find bug variants with patterns that look like sourc...
+
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+  > A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.or...
+
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+  > 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [dotsg/SuperGoodViewer](https://github.com/dotsg/SuperGoodViewer)
   > 简约、极致的原生markdown阅读器
@@ -21,6 +33,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [google/artemis](https://github.com/google/artemis)
   > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
 
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+  > Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
@@ -28,6 +44,10 @@
 ### [PlaneJun](https://github.com/PlaneJun)
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
   > A little tool to play with Windows security
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention)
@@ -44,6 +64,10 @@
   > A Pi-native workspace for coding sessions on desktop. Run agent work. Keep control. Ship from anywhe...
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [paterschris/lathe](https://github.com/paterschris/lathe)
   > A Zed fork that adds an Expo/React Native mobile panel, side-by-side merge conflict resolution, drag...
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
+  > 🕹 Retro video game emulation for macOS
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🍴 👤 [jonpalmisc](https://github.com/jonpalmisc) Forked [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) to [jonpalmisc/neogit](https://github.com/jonpalmisc/neogit)
@@ -62,6 +86,12 @@
 - 🌟 👤 [mpast](https://github.com/mpast) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
   > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
+  > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+  > Lakehouse native graph engine with git-style workflows
+
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
   > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -72,7 +102,11 @@
 - 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [pytorch/cpuinfo](https://github.com/pytorch/cpuinfo) to [xuantie-android/chromium-cpuinfo](https://github.com/xuantie-android/chromium-cpuinfo)
   > CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)
+  > Z.ai's coding agent harness. Powerful, intelligent, extensible.
+
 
 ---
-*最后更新于 2026-09-22 10:54:09 UTC*
+*最后更新于 2026-09-22 15:23:37 UTC*
 *历史记录保存在 `archive` 目录中。*
