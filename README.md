@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [derv82/wifit3](https://github.com/derv82/wifit3)
+  > Wifite but USB-only & cross-platform.
+
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [playcanvas/engine](https://github.com/playcanvas/engine)
   > Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
@@ -23,6 +27,10 @@
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [microsoft/uefi_debug_tools](https://github.com/microsoft/uefi_debug_tools)
   > Tools for debugging UEFI firmware
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
+  > Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [pulp-platform/pulpino](https://github.com/pulp-platform/pulpino)
   > An open-source microcontroller system based on RISC-V
@@ -35,6 +43,14 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [hanwenguo/emacs-ns-static-build](https://github.com/hanwenguo/emacs-ns-static-build)
   > Static build of GNU Emacs for MacOS with LTO.
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🍴 👤 [mcdulltii](https://github.com/mcdulltii) Forked [Markakd/Container_escape](https://github.com/Markakd/Container_escape) to [mcdulltii/CVE-2026-80521-52910](https://github.com/mcdulltii/CVE-2026-80521-52910)
+  > container escape POCs for CVE-2026-80521 and CVE-2026-52910
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
+  > Verified IDA is a harness for model-led reverse engineering.
+
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [alibaba/AgenticBigBang](https://github.com/alibaba/AgenticBigBang)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [carla-simulator/carla](https://github.com/carla-simulator/carla)
@@ -45,6 +61,8 @@
   > A modern in-vehicle VSS (Vehicle Signal Specification) server written in RUST
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [dream-num/univer](https://github.com/dream-num/univer)
   > The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+  > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)
@@ -56,7 +74,14 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [backslashxx/mountify](https://github.com/backslashxx/mountify)
   > Globally mounted modules via OverlayFS.
 
+### [yujincheng08](https://github.com/yujincheng08)
+- 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [google/prefab](https://github.com/google/prefab) to [LSPosed/prefab](https://github.com/LSPosed/prefab)
+  > Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
 
 ---
-*最后更新于 2026-09-23 13:18:25 UTC*
+*最后更新于 2026-09-23 18:13:00 UTC*
 *历史记录保存在 `archive` 目录中。*
