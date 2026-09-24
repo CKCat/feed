@@ -11,6 +11,8 @@
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
   > 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secu...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [fabmax/physx-js-webidl](https://github.com/fabmax/physx-js-webidl)
+  > Javascript WASM bindings for Nvidia PhysX
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -24,6 +26,14 @@
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [Liuziyu77/Valen](https://github.com/Liuziyu77/Valen) to [MiroKaku/Valen](https://github.com/MiroKaku/Valen)
   > Train a Jev-like multimodal model by yourself. System One Model, now with vision.
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [tinnel123666888/OmniJev](https://github.com/tinnel123666888/OmniJev)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
+  > Free, open-source screen sharing for friends. P2P-first, with browser viewing, a desktop app and opt...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
+  > Authenticated Nexos model discovery for pi and Oh My Pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keshav-exe/mdxcn](https://github.com/keshav-exe/mdxcn)
+  > mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy ...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Kitware/vtk-js](https://github.com/Kitware/vtk-js)
@@ -37,5 +47,5 @@
 
 
 ---
-*最后更新于 2026-09-24 13:07:47 UTC*
+*最后更新于 2026-09-24 18:07:50 UTC*
 *历史记录保存在 `archive` 目录中。*
