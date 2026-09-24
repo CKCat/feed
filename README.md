@@ -13,6 +13,8 @@
   > 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secu...
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [fabmax/physx-js-webidl](https://github.com/fabmax/physx-js-webidl)
   > Javascript WASM bindings for Nvidia PhysX
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [useLexora/Lexora](https://github.com/useLexora/Lexora)
+  > A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and c...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -28,6 +30,16 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [tinnel123666888/OmniJev](https://github.com/tinnel123666888/OmniJev)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
   > Free, open-source screen sharing for friends. P2P-first, with browser viewing, a desktop app and opt...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [cfregly/ai-performance-engineering](https://github.com/cfregly/ai-performance-engineering)
+  > Code, labs, and resources for O'Reilly AI Systems Performance Engineering: GPU optimization, distrib...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [cfregly/ai-performance-engineering](https://github.com/cfregly/ai-performance-engineering) to [crazyguitar/ai-performance-engineering](https://github.com/crazyguitar/ai-performance-engineering)
+  > Code, labs, and resources for O'Reilly AI Systems Performance Engineering: GPU optimization, distrib...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)
+  > a prettier way to inspect network connections
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
@@ -47,5 +59,5 @@
 
 
 ---
-*最后更新于 2026-09-24 18:07:50 UTC*
+*最后更新于 2026-09-24 21:55:43 UTC*
 *历史记录保存在 `archive` 目录中。*
