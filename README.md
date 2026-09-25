@@ -31,6 +31,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)
   > A spotify daemon
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile)
+  > Mobile music utility built with Flutter and Go. High-quality audio management for your personal libr...
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
@@ -51,6 +53,8 @@
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) to [mrexodia/re-mcp](https://github.com/mrexodia/re-mcp)
   > A headless MCP server for IDA Pro and Ghidra
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc) to [mrexodia/ida_rpc](https://github.com/mrexodia/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [capntrips/PixelPlucker](https://github.com/capntrips/PixelPlucker)
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-09-25 16:26:02 UTC*
+*最后更新于 2026-09-25 20:12:40 UTC*
 *历史记录保存在 `archive` 目录中。*
