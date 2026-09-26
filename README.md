@@ -28,6 +28,12 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse)
   > AI Native IDE for reverse engineering
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/nccl-extensions](https://github.com/NVIDIA/nccl-extensions)
+  > Communication patterns for AI, built on top of NCCL device and host APIs
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [NVIDIA/nccl-extensions](https://github.com/NVIDIA/nccl-extensions) to [crazyguitar/nccl-extensions](https://github.com/crazyguitar/nccl-extensions)
+  > Communication patterns for AI, built on top of NCCL device and host APIs
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)
   > A spotify daemon
@@ -40,13 +46,17 @@
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [YuroGod/VMPStaticUnpacker](https://github.com/YuroGod/VMPStaticUnpacker)
   > Static VMProtect unpacker , supporting VMProtect 3.9.5
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
+  > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
+
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [m4b/goblin](https://github.com/m4b/goblin)
   > An impish, cross-platform binary parsing crate, written in Rust
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
-  > disassembler, decompiler and debugger in one, with a built-in mcp server — point an ai at a binary a...
+  > disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
   > Bit-vector expression simplifier for binary analysis and deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -66,5 +76,5 @@
 
 
 ---
-*最后更新于 2026-09-25 20:12:40 UTC*
+*最后更新于 2026-09-25 23:46:12 UTC*
 *历史记录保存在 `archive` 目录中。*
