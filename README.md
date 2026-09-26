@@ -31,6 +31,14 @@
   > Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance toge...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1-3-7/disrobe](https://github.com/1-3-7/disrobe)
   > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [git/git](https://github.com/git/git) to [mrexodia/git](https://github.com/mrexodia/git)
+  > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patc...
+
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [whoamicrash/VMProtectDumper](https://github.com/whoamicrash/VMProtectDumper) to [sunwm518/VMProtectDumper](https://github.com/sunwm518/VMProtectDumper)
+  > Windows tool for unpacking VMProtect-protected PE files from memory. Captures OEP, reconstructs IAT,...
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [guoxing2024/magicmida-rs](https://github.com/guoxing2024/magicmida-rs) to [sunwm518/magicmida-rs](https://github.com/sunwm518/magicmida-rs)
+  > Themida v3 x64 automatic unpacker — Rust reimplementation of Hendi48/Magicmida (Pascal). Deletes she...
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
@@ -42,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-09-26 14:02:31 UTC*
+*最后更新于 2026-09-26 18:16:09 UTC*
 *历史记录保存在 `archive` 目录中。*
