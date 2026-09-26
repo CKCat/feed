@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [hseoa/zakynthos-navagio-rootkit](https://github.com/hseoa/zakynthos-navagio-rootkit) to [lallouslab/zakynthos-navagio-rootkit](https://github.com/lallouslab/zakynthos-navagio-rootkit)
+  > PoC for PUBG's anti-cheat Zakynthos's rootkit navagio.sys
+
 ### [BryanGIG](https://github.com/BryanGIG)
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
@@ -11,6 +15,12 @@
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [MongLong0214/logic-pro-mcp](https://github.com/MongLong0214/logic-pro-mcp)
   > Local MCP server for stateful, fail-closed Logic Pro control and live project readback.
+
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [gitui-org/gitui](https://github.com/gitui-org/gitui)
+  > Blazing 💥 fast terminal-ui for git written in rust 🦀
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [feitangyuan/onetake](https://github.com/feitangyuan/onetake)
+  > Motion films that never cut to the next slide: every beat grows out of the one before, one continuou...
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543)
@@ -50,5 +60,5 @@
 
 
 ---
-*最后更新于 2026-09-26 18:16:09 UTC*
+*最后更新于 2026-09-26 21:46:53 UTC*
 *历史记录保存在 `archive` 目录中。*
