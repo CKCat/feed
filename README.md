@@ -21,6 +21,10 @@
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [cradiy/rovar](https://github.com/cradiy/rovar)
   > A Figma-like desktop design editor built with Rust and GPUI. 
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [fuqiuluo/rust-elegant](https://github.com/fuqiuluo/rust-elegant)
+  > 🍂 Teach AI coding agents to write Rust like experienced Rust engineers.
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)
   > Proof of Concept for Process Code Injection Without Using WriteProcessMemory
@@ -37,6 +41,10 @@
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio)
   > Dynamic Instrumentation Tool Platform
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/rust-elegant](https://github.com/fuqiuluo/rust-elegant)
+  > 🍂 Teach AI coding agents to write Rust like experienced Rust engineers.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
@@ -46,6 +54,10 @@
   > OpenAI compatible PI agent gateway and orchestrator
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG)
+  > PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding ag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sudoingX/qwen38-mtp](https://github.com/sudoingX/qwen38-mtp)
+  > One llama.cpp flag unlocks +33-39% decode speed for Qwen3.8-27B on consumer GPUs. The MTP head alrea...
 
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [fuqiuluo/amice](https://github.com/fuqiuluo/amice) to [yujincheng08/amice](https://github.com/yujincheng08/amice)
@@ -53,5 +65,5 @@
 
 
 ---
-*最后更新于 2026-09-27 20:48:33 UTC*
+*最后更新于 2026-09-27 23:35:26 UTC*
 *历史记录保存在 `archive` 目录中。*
