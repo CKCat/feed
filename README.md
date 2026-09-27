@@ -30,6 +30,8 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV)
   > Official Nuvio Android TV Repository
+- 🚀 👤 [divyam234](https://github.com/divyam234) Made [divyam234/streamweave](https://github.com/divyam234/streamweave) public
+  > Self-hosted stream aggregation for Stremio and Nuvio
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio)
@@ -42,6 +44,8 @@
   > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ALange/Piper](https://github.com/ALange/Piper)
   > OpenAI compatible PI agent gateway and orchestrator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
 
 ### [yujincheng08](https://github.com/yujincheng08)
 - 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [fuqiuluo/amice](https://github.com/fuqiuluo/amice) to [yujincheng08/amice](https://github.com/yujincheng08/amice)
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-09-27 17:26:16 UTC*
+*最后更新于 2026-09-27 20:48:33 UTC*
 *历史记录保存在 `archive` 目录中。*
