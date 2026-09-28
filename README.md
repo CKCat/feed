@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xSh4dy](https://github.com/0xSh4dy)
+- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
+  > GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources suc...
+
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Ch0pin/rdx](https://github.com/Ch0pin/rdx)
   > A native APK and DEX decompiler written in Rust
@@ -29,6 +33,10 @@
   > A rubik's cube game using Three.js and Vue
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [cubing/cubing.js](https://github.com/cubing/cubing.js)
   > 🛠 A library for displaying and working with twisty puzzles. Also currently home to the code for Twiz...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [jeffhuber/rubiks-solver](https://github.com/jeffhuber/rubiks-solver)
+  > Browser-based Rubik's Cube solver — upload a flat-net image, get the step-by-step solution.
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [poliva/smartcube-web-bluetooth](https://github.com/poliva/smartcube-web-bluetooth)
+  > Library for interaction with multiple vendor Smart Cubes and Timers using Web Bluetooth API
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
@@ -71,6 +79,8 @@
   > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
   > Uncensored AI models or those fine-tuned for cybersecurity tasks.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain)
+  > Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says,...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -96,5 +106,5 @@
 
 
 ---
-*最后更新于 2026-09-28 18:23:58 UTC*
+*最后更新于 2026-09-28 23:39:31 UTC*
 *历史记录保存在 `archive` 目录中。*
