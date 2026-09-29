@@ -53,9 +53,19 @@
   > DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts pe...
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Minglink/dsh-infinite-gen-4](https://github.com/Minglink/dsh-infinite-gen-4)
   > DeepSeek v4.1 flash 网络安全红队工具（无限四代）     求 Star 收藏 ⭐欢迎大家提交项目的改进
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
+  > A Datacenter Scale Distributed Inference Serving Framework
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+  > LIST OF ALL MY JAILBREAKS
 
 ### [cinit](https://github.com/cinit)
 - 🌟 👤 [cinit](https://github.com/cinit) Starred [a-chaudhari/plasma-screenrotation](https://github.com/a-chaudhari/plasma-screenrotation)
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [comet-ml/opik](https://github.com/comet-ml/opik)
+  > Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe...
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [linux-chenxing/linux](https://github.com/linux-chenxing/linux)
@@ -66,6 +76,7 @@
   > YARA scanning for Time Travel Debugging traces
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kkokosa/heapspace](https://github.com/kkokosa/heapspace)
   > Heapscape: a local Three.js and ClrMD explorer for .NET memory dumps
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xikhar/spiderbench](https://github.com/xikhar/spiderbench)
 
 ### [ys1231](https://github.com/ys1231)
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [CHIZI-0618/sing-box](https://github.com/CHIZI-0618/sing-box) to [ys1231/sing-box](https://github.com/ys1231/sing-box)
@@ -77,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-09-29 17:32:57 UTC*
+*最后更新于 2026-09-29 21:48:05 UTC*
 *历史记录保存在 `archive` 目录中。*
