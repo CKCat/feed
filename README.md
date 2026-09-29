@@ -1,110 +1,18 @@
-# 每日 GitHub 动态 (2026-09-28)
+# 每日 GitHub 动态 (2026-09-29)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [0xSh4dy](https://github.com/0xSh4dy)
-- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
-  > GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources suc...
-
-### [0xbinder](https://github.com/0xbinder)
-- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Ch0pin/rdx](https://github.com/Ch0pin/rdx)
-  > A native APK and DEX decompiler written in Rust
-
-### [AlienwareHe](https://github.com/AlienwareHe)
-- 🍴 👤 [AlienwareHe](https://github.com/AlienwareHe) Forked [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) to [AlienwareHe/EasyCLIProxyAPI](https://github.com/AlienwareHe/EasyCLIProxyAPI)
-  > A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.
-
-### [Dere3046](https://github.com/Dere3046)
-- 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [Andrea-lyz/LKM-PathMask](https://github.com/Andrea-lyz/LKM-PathMask) to [Dere3046/LKM-PathMask](https://github.com/Dere3046/LKM-PathMask)
-  > Android LKM path masking module with KernelSU WebUI, blacklist scope, persistent config, and diagnos...
-
-### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [MR-TABATA/MrEditor](https://github.com/MR-TABATA/MrEditor)
-  > 86,420,337 lines — a 10 GB log — open in 80 ms, and 0 bytes of it live in memory. A Mac-native viewe...
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)
-  > AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [elysia62/NodeFlare](https://github.com/elysia62/NodeFlare)
-  > NodeFlare 是一款轻量级的自托管服务器监控面板，通过 Web 界面查看服务器状态，并由轻量级 Agent 采集数据上报。
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [remorses/gpuix](https://github.com/remorses/gpuix)
-  > Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electr...
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [joatansampaio/vuebik-cube](https://github.com/joatansampaio/vuebik-cube)
-  > A rubik's cube game using Three.js and Vue
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [cubing/cubing.js](https://github.com/cubing/cubing.js)
-  > 🛠 A library for displaying and working with twisty puzzles. Also currently home to the code for Twiz...
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [jeffhuber/rubiks-solver](https://github.com/jeffhuber/rubiks-solver)
-  > Browser-based Rubik's Cube solver — upload a flat-net image, get the step-by-step solution.
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [poliva/smartcube-web-bluetooth](https://github.com/poliva/smartcube-web-bluetooth)
-  > Library for interaction with multiple vendor Smart Cubes and Timers using Web Bluetooth API
-
-### [J-jaeyoung](https://github.com/J-jaeyoung)
-- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
-  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
-
-### [KuNgia09](https://github.com/KuNgia09)
-- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch)
-  > Root access to the kernel can be achieved simply by patching the Boot partition for reflashing. This...
-- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch) to [KuNgia09/FolkPatch](https://github.com/KuNgia09/FolkPatch)
-  > Root access to the kernel can be achieved simply by patching the Boot partition for reflashing. This...
-- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
-  > 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
-- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) to [KuNgia09/HowToLiveBetter](https://github.com/KuNgia09/HowToLiveBetter)
-  > 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
-  > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-
-### [alexander-hanel](https://github.com/alexander-hanel)
-- 🚀 👤 [alexander-hanel](https://github.com/alexander-hanel) Made [alexander-hanel/rogue-agents-data](https://github.com/alexander-hanel/rogue-agents-data) public
-  > A centralized backup of rogue agent analysis reports and data. 
-
-### [crazyguitar](https://github.com/crazyguitar)
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [breuner/elbencho](https://github.com/breuner/elbencho)
-  > A distributed storage benchmark for file systems, object stores & block devices with support for GPU...
-
-### [jonpalmisc](https://github.com/jonpalmisc)
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [emoon/rust_minifb](https://github.com/emoon/rust_minifb)
-  > Cross platform window and framebuffer crate for Rust
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ColleagueRiley/RGFW](https://github.com/ColleagueRiley/RGFW)
-  > A lightweight single-header cross-platform library for general windowing
-
-### [mahaloz](https://github.com/mahaloz)
-- 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [secartifacts/secartifacts.github.io](https://github.com/secartifacts/secartifacts.github.io) to [mahaloz/secartifacts.github.io](https://github.com/mahaloz/secartifacts.github.io)
-  > Website for Research Artifacts from the Security Community
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
-  > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
-  > Uncensored AI models or those fine-tuned for cybersecurity tasks.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain)
-  > Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says,...
-
-### [mustime](https://github.com/mustime)
-- 🌟 👤 [mustime](https://github.com/mustime) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
-  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
-- 🌟 👤 [mustime](https://github.com/mustime) Starred [MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector)
-  > Modern ptrace-based Android shared-library injector.
-- 🌟 👤 [mustime](https://github.com/mustime) Starred [BepInEx/HarmonyX](https://github.com/BepInEx/HarmonyX)
-  > Harmony built on top of MonoMod.RuntimeDetours with additional features
-
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [Snapchat/Valdi](https://github.com/Snapchat/Valdi)
-  > Valdi is a cross-platform UI framework that delivers native performance without sacrificing develope...
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
 ### [ys1231](https://github.com/ys1231)
-- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [tobi/disktree](https://github.com/tobi/disktree)
-  > A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
-
-### [zu1k](https://github.com/zu1k)
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [dentiny/duckdb-distributed-execution](https://github.com/dentiny/duckdb-distributed-execution)
-  > Distributed execution for duckdb queries.
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)
-  > Code-rendered music video for "I'm Upping My P(doom)"
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [CHIZI-0618/sing-box](https://github.com/CHIZI-0618/sing-box) to [ys1231/sing-box](https://github.com/ys1231/sing-box)
+  > The universal proxy platform
 
 
 ---
-*最后更新于 2026-09-28 23:39:31 UTC*
+*最后更新于 2026-09-29 04:01:49 UTC*
 *历史记录保存在 `archive` 目录中。*
