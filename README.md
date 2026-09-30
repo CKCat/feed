@@ -40,6 +40,10 @@
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [0xErwin1/dbflux](https://github.com/0xErwin1/dbflux)
+  > A fast, keyboard-first database client built with Rust and GPUI.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)
+  > NSE BSE Indian Stock Market Data MCP server — search, screen & analyze all 8,200+ NSE/BSE stocks wit...
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit)
@@ -48,6 +52,10 @@
 ### [lc-soft](https://github.com/lc-soft)
 - 🍴 👤 [lc-soft](https://github.com/lc-soft) Forked [nesrak1/UABEANext](https://github.com/nesrak1/UABEANext) to [lc-soft/UABEANext](https://github.com/lc-soft/UABEANext)
   > A research and modding tool for SerializedFiles and Asset Bundles
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) to [mrexodia/nbdev](https://github.com/mrexodia/nbdev)
+  > Create delightful software with Jupyter Notebooks
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
@@ -67,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-09-30 19:46:53 UTC*
+*最后更新于 2026-09-30 23:24:35 UTC*
 *历史记录保存在 `archive` 目录中。*
