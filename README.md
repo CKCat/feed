@@ -19,6 +19,8 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
   > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan)
+  > Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
@@ -55,11 +57,15 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/MCPatcher-next](https://github.com/superturtlee/MCPatcher-next)
 
 ### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ZacharyZhang-NY/Ely-GPUI-Components](https://github.com/ZacharyZhang-NY/Ely-GPUI-Components)
+  > A component library for GPUI, in light and dark. Every component runs live in the browser.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
+  > OpenMinis — The AI Agent app across platforms. Fully free and open source.
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tetral-ai/tetral](https://github.com/tetral-ai/tetral)
   > The open-source cloud agent platform
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
 
 
 ---
-*最后更新于 2026-09-30 14:34:00 UTC*
+*最后更新于 2026-09-30 19:46:53 UTC*
 *历史记录保存在 `archive` 目录中。*
