@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🚀 👤 [ChiChou](https://github.com/ChiChou) Made [ChiChou/sky-removal-metal](https://github.com/ChiChou/sky-removal-metal) public
+  > Standalone macOS sky segmentation with Core ML and Metal
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [ejfkdev/ddc](https://github.com/ejfkdev/ddc)
   > DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI
@@ -11,6 +15,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ejfkdev/ddc](https://github.com/ejfkdev/ddc)
   > DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
+  > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
@@ -35,15 +43,23 @@
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit)
   > Exploit chain for PS5 7.00 - 13.60
 
-### [kin9-0rz](https://github.com/kin9-0rz)
-- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [clashbk/clash](https://github.com/clashbk/clash)
-  > Clash官网各版本Clash下载地址及备份下载地址
+### [lc-soft](https://github.com/lc-soft)
+- 🍴 👤 [lc-soft](https://github.com/lc-soft) Forked [nesrak1/UABEANext](https://github.com/nesrak1/UABEANext) to [lc-soft/UABEANext](https://github.com/lc-soft/UABEANext)
+  > A research and modding tool for SerializedFiles and Asset Bundles
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
   > Hindsight: Agent Memory That Learns
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/MCPatcher-next](https://github.com/superturtlee/MCPatcher-next)
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tetral-ai/tetral](https://github.com/tetral-ai/tetral)
+  > The open-source cloud agent platform
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
+
 
 ---
-*最后更新于 2026-09-30 07:53:47 UTC*
+*最后更新于 2026-09-30 14:34:00 UTC*
 *历史记录保存在 `archive` 目录中。*
