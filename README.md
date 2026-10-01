@@ -1,79 +1,22 @@
-# 每日 GitHub 动态 (2026-09-30)
+# 每日 GitHub 动态 (2026-10-01)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [ChiChou](https://github.com/ChiChou)
-- 🚀 👤 [ChiChou](https://github.com/ChiChou) Made [ChiChou/sky-removal-metal](https://github.com/ChiChou/sky-removal-metal) public
-  > Standalone macOS sky segmentation with Core ML and Metal
-
-### [ErodedElk](https://github.com/ErodedElk)
-- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [ejfkdev/ddc](https://github.com/ejfkdev/ddc)
-  > DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI
-
-### [SeeFlowerX](https://github.com/SeeFlowerX)
-- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ejfkdev/ddc](https://github.com/ejfkdev/ddc)
-  > DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI
-
-### [SsageParuders](https://github.com/SsageParuders)
-- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
-  > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
-- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan)
-  > Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
-
-### [T5ive](https://github.com/T5ive)
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
-  > Skills for Designers and Engineers.
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [humanlayer/skills](https://github.com/humanlayer/skills)
-
-### [crazyguitar](https://github.com/crazyguitar)
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)
-  > Open Source Introductory Systems Programming Textbook for the University of Illinois
-- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) to [crazyguitar/coursebook](https://github.com/crazyguitar/coursebook)
-  > Open Source Introductory Systems Programming Textbook for the University of Illinois
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [cursor/mixture-of-kittens](https://github.com/cursor/mixture-of-kittens)
-  > Mixture-of-experts (MoE) training megakernel for NVL72s
-- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [cursor/mixture-of-kittens](https://github.com/cursor/mixture-of-kittens) to [crazyguitar/mixture-of-kittens](https://github.com/crazyguitar/mixture-of-kittens)
-  > Mixture-of-experts (MoE) training megakernel for NVL72s
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [0xErwin1/dbflux](https://github.com/0xErwin1/dbflux)
-  > A fast, keyboard-first database client built with Rust and GPUI.
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)
-  > NSE BSE Indian Stock Market Data MCP server — search, screen & analyze all 8,200+ NSE/BSE stocks wit...
-
-### [ergrelet](https://github.com/ergrelet)
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit)
-  > Exploit chain for PS5 7.00 - 13.60
-
-### [lc-soft](https://github.com/lc-soft)
-- 🍴 👤 [lc-soft](https://github.com/lc-soft) Forked [nesrak1/UABEANext](https://github.com/nesrak1/UABEANext) to [lc-soft/UABEANext](https://github.com/lc-soft/UABEANext)
-  > A research and modding tool for SerializedFiles and Asset Bundles
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)
+  > A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an e...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) to [mrexodia/nbdev](https://github.com/mrexodia/nbdev)
-  > Create delightful software with Jupyter Notebooks
-
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-  > Hindsight: Agent Memory That Learns
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/keys-GLM-5.3-Flash-NVFP4-ablit-l15-43-mtp-l45](https://github.com/drowzeys/keys-GLM-5.3-Flash-NVFP4-ablit-l15-43-mtp-l45)
+  > Keys GLM-5.3-Flash NVFP4 ablit: LibertAI body + Dealign L15-45 o_proj, 0731 early-layer spare. 32/32...
 
 ### [sekaiacg](https://github.com/sekaiacg)
-- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/MCPatcher-next](https://github.com/superturtlee/MCPatcher-next)
-
-### [zu1k](https://github.com/zu1k)
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ZacharyZhang-NY/Ely-GPUI-Components](https://github.com/ZacharyZhang-NY/Ely-GPUI-Components)
-  > A component library for GPUI, in light and dark. Every component runs live in the browser.
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
-  > OpenMinis — The AI Agent app across platforms. Fully free and open source.
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [tetral-ai/tetral](https://github.com/tetral-ai/tetral)
-  > The open-source cloud agent platform
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/gbl_root_canoe_1v1](https://github.com/superturtlee/gbl_root_canoe_1v1)
+  > 凭什么ROOT就不给用指纹支付？？？
 
 
 ---
-*最后更新于 2026-09-30 23:24:35 UTC*
+*最后更新于 2026-10-01 03:56:39 UTC*
 *历史记录保存在 `archive` 目录中。*
