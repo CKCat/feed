@@ -4,13 +4,27 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [thecybersandeep/apkauditor](https://github.com/thecybersandeep/apkauditor)
+  > Android APK security analysis tool. Decompiles DEX, scans for vulns, parses manifests and certs. Run...
+
+### [Mq-b](https://github.com/Mq-b)
+- 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [Mq-b/ESP32s3_app](https://github.com/Mq-b/ESP32s3_app)
+  > ESP32-S3 核心开发板示例
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/skills](https://github.com/dotnet/skills)
+  > Repository for skills to assist AI coding agents with .NET and C#
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [microsoft/aspire-skills](https://github.com/microsoft/aspire-skills)
+  > Official Aspire skills and plugins for AI coding agents to initialize, wire, orchestrate, monitor, a...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Inferact/tpu-megakernels](https://github.com/Inferact/tpu-megakernels)
+  > A collection of megakernels for TPU
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)
   > A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an e...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/keys-GLM-5.3-Flash-NVFP4-ablit-l15-43-mtp-l45](https://github.com/drowzeys/keys-GLM-5.3-Flash-NVFP4-ablit-l15-43-mtp-l45)
-  > Keys GLM-5.3-Flash NVFP4 ablit: LibertAI body + Dealign L15-45 o_proj, 0731 early-layer spare. 32/32...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/gbl_root_canoe_1v1](https://github.com/superturtlee/gbl_root_canoe_1v1)
@@ -18,5 +32,5 @@
 
 
 ---
-*最后更新于 2026-10-01 03:56:39 UTC*
+*最后更新于 2026-10-01 10:44:56 UTC*
 *历史记录保存在 `archive` 目录中。*
