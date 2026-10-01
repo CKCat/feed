@@ -12,15 +12,21 @@
 - 🌟 👤 [Ahora57](https://github.com/Ahora57) Starred [acheron2302/doki-ida](https://github.com/acheron2302/doki-ida)
   > A cute theme generation for your ida
 
-### [Dere3046](https://github.com/Dere3046)
-- 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) to [Dere3046/Dress](https://github.com/Dere3046/Dress)
-  > 好耶 是女装 | 备份·接受PR
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs)
+  > Rust implementation of Tailscale (preview, experimental)
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/skills](https://github.com/dotnet/skills)
   > Repository for skills to assist AI coding agents with .NET and C#
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [microsoft/aspire-skills](https://github.com/microsoft/aspire-skills)
   > Official Aspire skills and plugins for AI coding agents to initialize, wire, orchestrate, monitor, a...
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [marchc1/Source.NET](https://github.com/marchc1/Source.NET)
+  > An open-source Source Engine replica, written in C#, capable of joining real Garry's Mod servers to ...
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [marchc1/Source.NET](https://github.com/marchc1/Source.NET) to [ZehMatt/Source.NET](https://github.com/ZehMatt/Source.NET)
+  > An open-source Source Engine replica, written in C#, capable of joining real Garry's Mod servers to ...
 
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [Latias94/merman](https://github.com/Latias94/merman) to [can1357/merman](https://github.com/can1357/merman)
@@ -31,6 +37,8 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Inferact/tpu-megakernels](https://github.com/Inferact/tpu-megakernels)
   > A collection of megakernels for TPU
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
+  > 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches)
@@ -47,6 +55,10 @@
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)
   > A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an e...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold)
   > GLM-5.3-Flash EXL3 on 2x DGX Spark with TensorFold
@@ -57,5 +69,5 @@
 
 
 ---
-*最后更新于 2026-10-01 17:14:45 UTC*
+*最后更新于 2026-10-01 22:17:40 UTC*
 *历史记录保存在 `archive` 目录中。*
