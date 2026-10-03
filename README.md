@@ -25,11 +25,19 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate)
   > A Multilingual Translation Model Family
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [McJackTang/MMPD_rPPG_dataset](https://github.com/McJackTang/MMPD_rPPG_dataset)
+  > MMPD: Multi-Domain Mobile Video Physiology Dataset(EMBC2023 Oral)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [realiti4/claude-swap](https://github.com/realiti4/claude-swap)
+  > Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, a...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [yanghuan/CSharp.lua](https://github.com/yanghuan/CSharp.lua)
   > The C# to Lua compiler
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua)
   > Typescript to lua transpiler. https://typescripttolua.github.io/
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
@@ -39,9 +47,16 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 
+### [pinwhell](https://github.com/pinwhell)
+- 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [Jordan231111/arm64-houdini-lsposed-framework](https://github.com/Jordan231111/arm64-houdini-lsposed-framework)
+  > ARM64 guest-code instrumentation framework for LSPosed in Houdini/native-bridge Android emulator env...
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [califio/publications](https://github.com/califio/publications)
   > Publications from Calif
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [edgcpp/compiler](https://github.com/edgcpp/compiler)
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [OnyxZygisk/OnyxZygisk](https://github.com/OnyxZygisk/OnyxZygisk)
@@ -49,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-10-03 15:39:13 UTC*
+*最后更新于 2026-10-03 18:58:02 UTC*
 *历史记录保存在 `archive` 目录中。*
