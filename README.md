@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [CiscoCXSecurity/linikatz](https://github.com/CiscoCXSecurity/linikatz)
+  > linikatz is a tool to attack AD on UNIX
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
   > 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
@@ -13,9 +17,8 @@
   > 为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [roketskiy/fintwind](https://github.com/roketskiy/fintwind)
   > A native Windows desktop client for OpenCode 2 (Rust + GPUI),GPL-3.0.
-
-### [JingMatrix](https://github.com/JingMatrix)
-- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [diabl0w/DFRoot](https://github.com/diabl0w/DFRoot)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Almosst-DEV/Navi48-MacOS](https://github.com/Almosst-DEV/Navi48-MacOS)
+  > Proof-of-concept native macOS support for the AMD RX 9070 XT (Navi 48): bring-up kext, RADV Darwin p...
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [SupraGSX/Forceware-382.69](https://github.com/SupraGSX/Forceware-382.69)
@@ -47,6 +50,14 @@
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks)
+  > DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [syv-ai/HyperQwen](https://github.com/syv-ai/HyperQwen)
+  > Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with v...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xpili/simplified-technical-english](https://github.com/0xpili/simplified-technical-english)
+  > An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved w...
+
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [Jordan231111/arm64-houdini-lsposed-framework](https://github.com/Jordan231111/arm64-houdini-lsposed-framework)
   > ARM64 guest-code instrumentation framework for LSPosed in Houdini/native-bridge Android emulator env...
@@ -64,5 +75,5 @@
 
 
 ---
-*最后更新于 2026-10-03 18:58:02 UTC*
+*最后更新于 2026-10-03 22:02:25 UTC*
 *历史记录保存在 `archive` 目录中。*
