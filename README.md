@@ -4,13 +4,32 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket)
+
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [LanRhyme/ReveriePaint](https://github.com/LanRhyme/ReveriePaint)
+  > 基于 Krita 核心引擎的 Android 原生数字绘画应用
+
 ### [KaisenAmin](https://github.com/KaisenAmin)
 - 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
   > Mirror of https://git.ffmpeg.org/ffmpeg.git
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [yetone/magpie](https://github.com/yetone/magpie)
+  > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [CXP-2024/codex-pv-character-replacement-skill](https://github.com/CXP-2024/codex-pv-character-replacement-skill)
+  > Codex skill for source-faithful PV character replacement, H3 production, continuity repair and 1080p...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine)
   > DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB tes...
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🍴 👤 [cxxsheng](https://github.com/cxxsheng) Forked [apple/container](https://github.com/apple/container) to [cxxsheng/container](https://github.com/cxxsheng/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)
@@ -30,5 +49,5 @@
 
 
 ---
-*最后更新于 2026-10-04 09:17:13 UTC*
+*最后更新于 2026-10-04 15:06:34 UTC*
 *历史记录保存在 `archive` 目录中。*
