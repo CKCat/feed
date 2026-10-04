@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [orhun/ratcode](https://github.com/orhun/ratcode)
+  > A minimal coding agent, 400 lines of Rust, built with Rig and Ratatui
+
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [LanRhyme/ReveriePaint](https://github.com/LanRhyme/ReveriePaint)
   > 基于 Krita 核心引擎的 Android 原生数字绘画应用
@@ -24,6 +28,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine)
   > DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB tes...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [colby57/vid](https://github.com/colby57/vid)
+  > An x86/x64 import recovery and PE rebuilding tool for binaries protected with VMProtect (all version...
+
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🍴 👤 [cxxsheng](https://github.com/cxxsheng) Forked [apple/container](https://github.com/apple/container) to [cxxsheng/container](https://github.com/cxxsheng/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
@@ -40,11 +48,19 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [tarsius/hl-todo](https://github.com/tarsius/hl-todo)
   > Highlight TODO keywords
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
+  > Next generation e2e testing framework for web and mobile apps.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig bac...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xqy2006/ModelTrace](https://github.com/xqy2006/ModelTrace)
+  > 主动探测模型归因
+
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 
 ---
-*最后更新于 2026-10-04 18:59:46 UTC*
+*最后更新于 2026-10-04 22:17:05 UTC*
 *历史记录保存在 `archive` 目录中。*
