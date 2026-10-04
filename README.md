@@ -4,9 +4,6 @@
 
 ## 今日动态
 
-### [5ec1cff](https://github.com/5ec1cff)
-- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket)
-
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [LanRhyme/ReveriePaint](https://github.com/LanRhyme/ReveriePaint)
   > 基于 Krita 核心引擎的 Android 原生数字绘画应用
@@ -31,6 +28,10 @@
 - 🍴 👤 [cxxsheng](https://github.com/cxxsheng) Forked [apple/container](https://github.com/apple/container) to [cxxsheng/container](https://github.com/cxxsheng/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [buildzaku/zaku](https://github.com/buildzaku/zaku)
+  > Zaku is a native Rust, local-first, open-source API client engineered for speed and productivity.
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)
   > Your always-on AI coworkers that move between text, calls, and Slack.
@@ -39,15 +40,11 @@
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [tarsius/hl-todo](https://github.com/tarsius/hl-todo)
   > Highlight TODO keywords
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled)
-  > Native decompilation and recompilation of Yu-Gi-Oh! Forbidden Memories
-
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 
 ---
-*最后更新于 2026-10-04 15:06:34 UTC*
+*最后更新于 2026-10-04 18:59:46 UTC*
 *历史记录保存在 `archive` 目录中。*
