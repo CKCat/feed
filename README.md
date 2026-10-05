@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [ZacharyZhang-NY/Ely-GPUI-Components](https://github.com/ZacharyZhang-NY/Ely-GPUI-Components)
+  > A component library for GPUI, in light and dark. Every component runs live in the browser.
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [MerlijnW70/viperjs](https://github.com/MerlijnW70/viperjs)
+  > An embeddable JavaScript engine in safe Rust, with zero runtime dependencies.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KhronosGroup/MoltenVK](https://github.com/KhronosGroup/MoltenVK)
   > MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industr...
@@ -23,10 +29,6 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
 
-### [ZehMatt](https://github.com/ZehMatt)
-- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [Miguel249/Box3D.NET](https://github.com/Miguel249/Box3D.NET)
-  > An idiomatic C# binding for Box3D, Erin Catto's 3D physics engine. No managed allocations on the sim...
-
 ### [can1357](https://github.com/can1357)
 - 🌟 👤 [can1357](https://github.com/can1357) Starred [theblazehen/awesome-tern](https://github.com/theblazehen/awesome-tern)
   > A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal
@@ -39,6 +41,10 @@
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chadhurley25075-png/lasermemory](https://github.com/chadhurley25075-png/lasermemory)
+  > Point it at a page, a PDF or text: a laser eye reads it, a keeper decides what is worth remembering ...
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [storytold/photocraft](https://github.com/storytold/photocraft) to [sekaiacg/photocraft](https://github.com/sekaiacg/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
@@ -47,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-10-05 17:48:38 UTC*
+*最后更新于 2026-10-05 23:40:33 UTC*
 *历史记录保存在 `archive` 目录中。*
