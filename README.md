@@ -7,6 +7,14 @@
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [alexbakker/webdav-provider](https://github.com/alexbakker/webdav-provider)
   > An Android app that can expose WebDAV storage to other apps through Android's Storage Access Framewo...
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [hacdias/webdav](https://github.com/hacdias/webdav)
+  > A simple and standalone WebDAV server.
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx)
+  > A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked fr...
+
+### [Admirepowered](https://github.com/Admirepowered)
+- 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [bfirsh/jsnes](https://github.com/bfirsh/jsnes)
+  > A JavaScript NES emulator.
 
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [linroid/Ketch](https://github.com/linroid/Ketch)
@@ -17,6 +25,10 @@
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Yudaotor/lyrimuse](https://github.com/Yudaotor/lyrimuse)
   > Word-synced desktop lyrics on macOS for Apple Music, Spotify, Amazon Music, KKBOX, QQ Music, NetEase...
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [IAHispano/Applio](https://github.com/IAHispano/Applio)
+  > A simple, high-quality voice conversion tool focused on ease of use and performance.
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [NEORUAA/HyperOS-AVD](https://github.com/NEORUAA/HyperOS-AVD)
   > HyperOS in the official ARM64 Android Studio Emulator
@@ -25,9 +37,37 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [NEORUAA/HyperOS-AVD](https://github.com/NEORUAA/HyperOS-AVD)
   > HyperOS in the official ARM64 Android Studio Emulator
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
+  > Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
+
+### [RicterZ](https://github.com/RicterZ)
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [ClaudiaGardner/maibot-qq-voice-call](https://github.com/ClaudiaGardner/maibot-qq-voice-call) to [RicterZ/maibot-qq-voice-call](https://github.com/RicterZ/maibot-qq-voice-call)
+  > Low-latency API-only QQ voice calls for MaiBot
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
+  > Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, wi...
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+  > the runtime your coding agents live on
+
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [dop251/goja](https://github.com/dop251/goja)
   > ECMAScript/JavaScript engine in pure Go
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [cursor/mixture-of-kittens](https://github.com/cursor/mixture-of-kittens)
+  > Mixture-of-experts (MoE) training megakernel for NVL72s
+
+### [dmaivel](https://github.com/dmaivel)
+- 🌟 👤 [dmaivel](https://github.com/dmaivel) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
+  > WinDbg-like kernel debugger for Windows, from Linux and macOS
+
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+  > No-root network monitor, firewall and PCAP dumper for Android
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  >  This project is dedicated to collecting high-quality macOS software and organizing them systematic...
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+  > A collection of various awesome lists for hackers, pentesters and security researchers
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift)
@@ -51,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-10-06 11:44:16 UTC*
+*最后更新于 2026-10-06 17:51:33 UTC*
 *历史记录保存在 `archive` 目录中。*
