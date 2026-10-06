@@ -16,6 +16,10 @@
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [bfirsh/jsnes](https://github.com/bfirsh/jsnes)
   > A JavaScript NES emulator.
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev)
+  > Build and deploy iOS SwiftUI apps from Omarchy Linux on Apple Silicon, no Xcode required
+
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [linroid/Ketch](https://github.com/linroid/Ketch)
   > A fast, open-source download manager for every device you own.
@@ -41,9 +45,9 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
   > Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
 
-### [RicterZ](https://github.com/RicterZ)
-- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [ClaudiaGardner/maibot-qq-voice-call](https://github.com/ClaudiaGardner/maibot-qq-voice-call) to [RicterZ/maibot-qq-voice-call](https://github.com/RicterZ/maibot-qq-voice-call)
-  > Low-latency API-only QQ voice calls for MaiBot
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
+  > 🦊 Anti-detect browser
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
@@ -56,6 +60,8 @@
   > ECMAScript/JavaScript engine in pure Go
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [cursor/mixture-of-kittens](https://github.com/cursor/mixture-of-kittens)
   > Mixture-of-experts (MoE) training megakernel for NVL72s
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [egoist/mygo](https://github.com/egoist/mygo)
+  > Develop desktop apps with a web frontend or native UI in Go
 
 ### [dmaivel](https://github.com/dmaivel)
 - 🌟 👤 [dmaivel](https://github.com/dmaivel) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
@@ -73,10 +79,6 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift)
   > AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0
 
-### [sekaiacg](https://github.com/sekaiacg)
-- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Baka-SU/BakaSU](https://github.com/Baka-SU/BakaSU)
-  > A KernelSU based root solution for Android
-
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [kuuhaku1314/qqtang](https://github.com/kuuhaku1314/qqtang)
   > QQTang是一个面向经典游戏《QQ堂》的非商业怀旧与技术研究项目，目标是在保留原版客户端体验的基础上，通过逆向工程与协议分析逐步恢复登录、大厅、房间、竞技、探险、商城、BOSS、装扮与多人联机等核心...
@@ -91,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-10-06 17:51:33 UTC*
+*最后更新于 2026-10-06 22:15:34 UTC*
 *历史记录保存在 `archive` 目录中。*
