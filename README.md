@@ -4,8 +4,9 @@
 
 ## 今日动态
 
-### [0xSh4dy](https://github.com/0xSh4dy)
-- 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [openai/math](https://github.com/openai/math)
+### [Dere3046](https://github.com/Dere3046)
+- 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [maxsteeel/nomount](https://github.com/maxsteeel/nomount) to [Dere3046/nomount](https://github.com/Dere3046/nomount)
+  > NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [yhan-sun/p2wlan](https://github.com/yhan-sun/p2wlan)
@@ -15,15 +16,17 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
   > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+  > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [zerotier/libzt](https://github.com/zerotier/libzt) to [Ylarod/libzt](https://github.com/Ylarod/libzt)
+  > Encrypted P2P sockets over ZeroTier
+
 ### [affggh](https://github.com/affggh)
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [Andromax-Devices/android_device_cyanogen_msm8909-common](https://github.com/Andromax-Devices/android_device_cyanogen_msm8909-common) to [kido-watches/android_device_cyanogen_msm8909-common](https://github.com/kido-watches/android_device_cyanogen_msm8909-common)
   > Common Device Tree For Msm8909 (WIP)
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [luxzg/go-sync](https://github.com/luxzg/go-sync)
-  > Brave sync server v2– fork adding sync-lite for self-hosting
-- 🍴 👤 [divyam234](https://github.com/divyam234) Forked [SeriousBug/webp-go-pure](https://github.com/SeriousBug/webp-go-pure) to [divyam234/webp-go-pure](https://github.com/divyam234/webp-go-pure)
-  > A pure go implementation of webp encoding and decoding.
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [DsoTsin/mesa-manet](https://github.com/DsoTsin/mesa-manet)
@@ -43,9 +46,21 @@
   > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [openai/math](https://github.com/openai/math)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [paulovitorjp/ghidra-s390x](https://github.com/paulovitorjp/ghidra-s390x)
+  > From-scratch Ghidra processor module for IBM Z / z/Architecture (s390x), with z/OS load module loade...
+
+### [neocanable](https://github.com/neocanable)
+- 🍴 👤 [neocanable](https://github.com/neocanable) Forked [34306/vphone-aio](https://github.com/34306/vphone-aio) to [neocanable/vphone-aio](https://github.com/neocanable/vphone-aio)
+  > 1 script run the vphone
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+### [satan1a](https://github.com/satan1a)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [fleetdm/fleet](https://github.com/fleetdm/fleet)
+  > Open device management
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [xingshen60771/FPACTool](https://github.com/xingshen60771/FPACTool) to [sunwm518/FPACTool](https://github.com/sunwm518/FPACTool)
@@ -57,8 +72,10 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
   > WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
 
 ---
-*最后更新于 2026-10-07 09:43:51 UTC*
+*最后更新于 2026-10-07 17:11:55 UTC*
 *历史记录保存在 `archive` 目录中。*
