@@ -31,15 +31,15 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)
-  > The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no s...
-
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [integritychain/fips204](https://github.com/integritychain/fips204)
   > Pure Rust implementation of FIPS 204 Module-Lattice-Based Digital Signature Standard for server, des...
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [combeng6th/DirtyInit](https://github.com/combeng6th/DirtyInit)
+  > One-touch, universal root for Samsung devices as u:r:init:s0
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ronanworks/claude-code-mods](https://github.com/ronanworks/claude-code-mods)
@@ -65,10 +65,26 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [ronanworks/claude-code-mods](https://github.com/ronanworks/claude-code-mods)
   > Claude Code mods: 像素螃蟹用量面板 usage-hud + 终端里可点的 HTML 链接和一键复制代码卡片 html-shelf
 
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [VSCodeEmacs/Emacs](https://github.com/VSCodeEmacs/Emacs)
+  > ⌨️ Emacs Keymap inside Visual Studio Code.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Tool for automatic PS5 executables porting to Linux and Windows
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [Resery/qualcomm_pbl_siglen_bug](https://github.com/Resery/qualcomm_pbl_siglen_bug)
+  > Notes on RSA signature length handling in the Qualcomm PBL secure boot verifier.
+
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation)
+  > Grapheme Cluster and Word boundaries according to UAX#29 rules
+
 
 ---
-*最后更新于 2026-10-08 09:54:42 UTC*
+*最后更新于 2026-10-08 17:09:44 UTC*
 *历史记录保存在 `archive` 目录中。*
