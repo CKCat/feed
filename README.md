@@ -17,10 +17,6 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [nihui/qwenimage-ncnn-vulkan](https://github.com/nihui/qwenimage-ncnn-vulkan)
-  > ncnn implementation of Qwen-Image-2.1, with text-to-image, image editing, multi-reference image inpu...
-
 ### [Mq-b](https://github.com/Mq-b)
 - 🌟 👤 [Mq-b](https://github.com/Mq-b) Starred [mxrcode/QtCipherSqlitePlugin](https://github.com/mxrcode/QtCipherSqlitePlugin)
   > A Qt plugin for SQLite encryption for use in the TaskGuard project (Qt 6.8.0, sqlite3mc 1.9.0)
@@ -36,10 +32,11 @@
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [integritychain/fips204](https://github.com/integritychain/fips204)
   > Pure Rust implementation of FIPS 204 Module-Lattice-Based Digital Signature Standard for server, des...
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac)
+  > World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock ...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [combeng6th/DirtyInit](https://github.com/combeng6th/DirtyInit)
-  > One-touch, universal root for Samsung devices as u:r:init:s0
+- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [LineageOS/lineage_wiki](https://github.com/LineageOS/lineage_wiki) to [amazon-oss/lineage_wiki](https://github.com/amazon-oss/lineage_wiki)
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ronanworks/claude-code-mods](https://github.com/ronanworks/claude-code-mods)
@@ -56,6 +53,7 @@
   > DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
 - 🍴 👤 [divyam234](https://github.com/divyam234) Forked [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) to [divyam234/gecit](https://github.com/divyam234/gecit)
   > DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [openai/math](https://github.com/openai/math)
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
@@ -69,22 +67,24 @@
 - 🌟 👤 [jart](https://github.com/jart) Starred [VSCodeEmacs/Emacs](https://github.com/VSCodeEmacs/Emacs)
   > ⌨️ Emacs Keymap inside Visual Studio Code.
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-  > Tool for automatic PS5 executables porting to Linux and Windows
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
+  > Disassemblers for ARM's AArch64 and AArch32 instruction sets
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [facebookresearch/context-language-models](https://github.com/facebookresearch/context-language-models)
+  > Official repository for "Context Language Models"
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lithos-ai/lithos-metal](https://github.com/lithos-ai/lithos-metal)
+  > Lithos Metal: high-performance LLM inference kernels and serving for Apple silicon.
+
+### [neocanable](https://github.com/neocanable)
+- 🌟 👤 [neocanable](https://github.com/neocanable) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
+  > Disassemblers for ARM's AArch64 and AArch32 instruction sets
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [Resery/qualcomm_pbl_siglen_bug](https://github.com/Resery/qualcomm_pbl_siglen_bug)
   > Notes on RSA signature length handling in the Qualcomm PBL secure boot verifier.
 
-### [yhirose](https://github.com/yhirose)
-- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation)
-  > Grapheme Cluster and Word boundaries according to UAX#29 rules
-
 
 ---
-*最后更新于 2026-10-08 17:09:44 UTC*
+*最后更新于 2026-10-08 22:49:22 UTC*
 *历史记录保存在 `archive` 目录中。*
