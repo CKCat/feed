@@ -13,6 +13,8 @@
   > Safe Rust bindings for macOS getattrlistbulk() - high-performance bulk metadata retrieval
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)
   > AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+  > Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [google/artemis](https://github.com/google/artemis)
@@ -49,36 +51,34 @@
   > Codex fork: local image references and isolated visual descriptions instead of inline image history,...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/glm53-flash-offload](https://github.com/sybil-solutions/glm53-flash-offload)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/glm-flash-lite](https://github.com/sybil-solutions/glm-flash-lite)
   > GLM-5.3-Flash EXL3 on one 24 GB RTX 3090 + DDR4: elastic GPU expert cache, zero-copy experts, AVX2 C...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Rasetsuu/vmp-devirt](https://github.com/Rasetsuu/vmp-devirt)
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_mt6993](https://github.com/OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_mt6993)
 
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-  > Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD ...
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [Koromix/koffi](https://github.com/Koromix/koffi)
-  > Fast and easy-to-use C FFI module for Node.js
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [deepseek-ai/dsh-libreoffice-kit](https://github.com/deepseek-ai/dsh-libreoffice-kit)
-  > An internal component used by DeepSeek Harness
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [ai4s-research/open-science](https://github.com/ai4s-research/open-science)
-  > Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux....
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)
-  > A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scie...
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [stablyai/orca](https://github.com/stablyai/orca)
-  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)
-  > The open-source AI workbench for scientific research
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [synthetic-sciences/delphi](https://github.com/synthetic-sciences/delphi)
-  > Open-source MCP server for AI agents — index code repositories, research papers, and datasets. Runs ...
+### [scc-tw](https://github.com/scc-tw)
+- 🌟 👤 [scc-tw](https://github.com/scc-tw) Starred [wharton0/MiniPDF-Reader](https://github.com/wharton0/MiniPDF-Reader)
+
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [earthwalker17/map-of-middle-earth](https://github.com/earthwalker17/map-of-middle-earth)
+  > A cinematic floating miniature diorama of Middle-earth rendered with three.js WebGPU + TSL: terrain ...
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [yuchuangu85/AndroidPerformanceStudio](https://github.com/yuchuangu85/AndroidPerformanceStudio)
+  > Android performance studio.
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [derv82/wifit3](https://github.com/derv82/wifit3)
   > Wifite but USB-only & cross-platform.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [OldPanda/douban-book-plus-homepage](https://github.com/OldPanda/douban-book-plus-homepage)
+  > The homepage of Douban Book+
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+  > 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 
 ---
-*最后更新于 2026-10-09 09:58:23 UTC*
+*最后更新于 2026-10-09 16:53:30 UTC*
 *历史记录保存在 `archive` 目录中。*
