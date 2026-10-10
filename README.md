@@ -4,26 +4,12 @@
 
 ## 今日动态
 
-### [0xdea](https://github.com/0xdea)
-- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [bitfield/spellbook](https://github.com/bitfield/spellbook)
-  > Code examples and listings from “The Rust Spellbook”
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [alibaba/last-secure-code-benchmark](https://github.com/alibaba/last-secure-code-benchmark)
 
 ### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [DayuanJiang/PecoFence](https://github.com/DayuanJiang/PecoFence)
-  > A free, open-source Stardock Fences alternative for Windows 11. Glass fences, live folders, tabs, Pe...
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher)
-  > A multilingual, flexible and fast string, glob and regex matcher. Support 拼音匹配 and ローマ字検索.
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
-  > Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [egoist/lorca](https://github.com/egoist/lorca)
-  > Imagine Telegram but single person, with agents, and end-to-end encrypted. Alternative to Grok bot, ...
-
-### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-  > Tool for automatic PS5 executables porting to Linux and Windows
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Umiade/xenoid](https://github.com/Umiade/xenoid)
-  > An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [fxgl/steamac](https://github.com/fxgl/steamac)
+  > Valve's official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun + Venus + MoltenVK, con...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -45,6 +31,10 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [trefeon/pi-freeflow](https://github.com/trefeon/pi-freeflow)
+  > 🌊 23 free curated AI models (up to 1M context) for Oh My Pi & Pi. Thin provider + dumb relay pool to...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -56,6 +46,10 @@
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [droogie/bbhost](https://github.com/droogie/bbhost) to [mrexodia/bbhost](https://github.com/mrexodia/bbhost)
+  > Definitive Bloodborne PC Experience
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
@@ -82,6 +76,20 @@
   > A PDF viewer that seamlessly integrates with any JavaScript project
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [storytold/deckcraft](https://github.com/storytold/deckcraft)
   > Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint i...
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
+  > Policy-driven, layered isolation and containment 
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok)
+  > An AI co-scientist running on your desktop. Claude Science but better.
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [fileverse/fileverse-ddocs](https://github.com/fileverse/fileverse-ddocs)
+  > Open-source, end-to-end encrypted alternative to Google Docs.
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [5ec1cff/oicq-icalingua-plus-plus](https://github.com/5ec1cff/oicq-icalingua-plus-plus)
+  > QQ机器人协议库
 
 ### [wINfOG](https://github.com/wINfOG)
 - 🌟 👤 [wINfOG](https://github.com/wINfOG) Starred [hrtowii/lycorine-public](https://github.com/hrtowii/lycorine-public)
@@ -90,7 +98,10 @@
 - 🌟 👤 [ylcangel](https://github.com/ylcangel) Starred [ylcangel/crack_dexhelper](https://github.com/ylcangel/crack_dexhelper)
   > 梆梆企业加固详细逆向分析过程， 包含两种对该加固的脱壳机（直接解密classes0.jar和基于frida hook）
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+
 
 ---
-*最后更新于 2026-10-10 08:02:55 UTC*
+*最后更新于 2026-10-10 15:00:19 UTC*
 *历史记录保存在 `archive` 目录中。*
