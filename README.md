@@ -30,21 +30,11 @@
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
-
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [trefeon/pi-freeflow](https://github.com/trefeon/pi-freeflow)
-  > 🌊 23 free curated AI models (up to 1M context) for Oh My Pi & Pi. Thin provider + dumb relay pool to...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [morluto/rea](https://github.com/morluto/rea)
-  > Reverse engineer anything with agents, from app behavior down to native binaries.
-
-### [evilbinary](https://github.com/evilbinary)
-- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [roboterax/video-prediction-policy-2](https://github.com/roboterax/video-prediction-policy-2)
-  > Official implementation of Video Prediction Policy 2: Predict Better, Act Better
-- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
-  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
-- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [mrexodia](https://github.com/mrexodia)
@@ -103,5 +93,5 @@
 
 
 ---
-*最后更新于 2026-10-10 15:00:19 UTC*
+*最后更新于 2026-10-10 19:41:54 UTC*
 *历史记录保存在 `archive` 目录中。*
