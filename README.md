@@ -25,6 +25,8 @@
   > Open-source clipboard manager for macOS and iPhone. Card-style history, Pinboards, Quick Look, and o...
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)
   > Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M f...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [git-disl/PokeLLMon](https://github.com/git-disl/PokeLLMon)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [sxhxliang/everyfiles](https://github.com/sxhxliang/everyfiles)
 
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [DarkFire01/React-V](https://github.com/DarkFire01/React-V)
@@ -33,10 +35,6 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)
   > airdrop for non-apple devices
-
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [msm8974-mainline/linux](https://github.com/msm8974-mainline/linux) to [R0rt1z2/linux](https://github.com/R0rt1z2/linux)
-  > Mainline Kernel fork for MSM8x74 devices
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot)
@@ -47,6 +45,10 @@
   > A static binary patcher using patches in high-level programming languages. Currently supports C patc...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osolmaz/pi-anti-repeat](https://github.com/osolmaz/pi-anti-repeat)
 
+### [mytechnotalent](https://github.com/mytechnotalent)
+- 🌟 👤 [mytechnotalent](https://github.com/mytechnotalent) Starred [mytechnotalent/rea](https://github.com/mytechnotalent/rea)
+  > Autonomous Reverse Engineering framework.
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [letr007/CCTVVideoDownloader](https://github.com/letr007/CCTVVideoDownloader)
   > 一款适用于央视网的网络视频流解析处理工具
@@ -54,6 +56,16 @@
 ### [smx-smx](https://github.com/smx-smx)
 - 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [arighi/virtme-ng](https://github.com/arighi/virtme-ng)
   > Quickly build and run kernels inside a virtualized snapshot of your live system
+
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [Hucxy/PbdViewer](https://github.com/Hucxy/PbdViewer) to [sunwm518/PbdViewer](https://github.com/sunwm518/PbdViewer)
+  > PowerBuilder Decompiler
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [sugitter/pb-devkit](https://github.com/sugitter/pb-devkit) to [sunwm518/pb-devkit](https://github.com/sunwm518/pb-devkit)
+  > PB DevKit is a toolkit for analyzing, parsing, and decompiling PowerBuilder legacy systems
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) to [sunwm518/reverse-skill](https://github.com/sunwm518/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [morluto/rea](https://github.com/morluto/rea) to [sunwm518/rea](https://github.com/sunwm518/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)
@@ -69,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-10-11 16:30:44 UTC*
+*最后更新于 2026-10-11 20:45:39 UTC*
 *历史记录保存在 `archive` 目录中。*
