@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [momo5502/unicorn](https://github.com/momo5502/unicorn) to [lallouslab/unicorn](https://github.com/lallouslab/unicorn)
+  > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [lallouslab/sogen](https://github.com/lallouslab/sogen)
+  > 🪅 Windows & Linux userspace emulator 
+
 ### [AloneMonkey](https://github.com/AloneMonkey)
 - 🌟 👤 [AloneMonkey](https://github.com/AloneMonkey) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -15,9 +21,18 @@
   > Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 M...
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL)
   > An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: a...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Margele/Enigma-MCP](https://github.com/Margele/Enigma-MCP)
+  > This is a fork of cuchaz's Enigma, a deobfuscation/remapping tool for Java software.
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [ayss2188/porsche-font](https://github.com/ayss2188/porsche-font)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [linuxkid473/maclator](https://github.com/linuxkid473/maclator)
+  > Run arm64 macOS apps on Intel Macs: a reverse-Rosetta emulator (interpreter + x86-64 JIT + AOT cache...
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [78ResearchLab/PatchHawk-PoC](https://github.com/78ResearchLab/PatchHawk-PoC)
+
+### [KaisenAmin](https://github.com/KaisenAmin)
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
+  > FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [L-1124/QQMusicApi](https://github.com/L-1124/QQMusicApi)
@@ -40,10 +55,6 @@
   > An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist)
   > Data-Shield provides maintained IPv4 blocklists for inbound filtering on firewalls, gateways and web...
-
-### [Ylarod](https://github.com/Ylarod)
-- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot)
-  > Telegram 多平台聚合解析机器人
 
 ### [ihciah](https://github.com/ihciah)
 - 🌟 👤 [ihciah](https://github.com/ihciah) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -70,9 +81,19 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [aospbooks/android-emulator-internal-book](https://github.com/aospbooks/android-emulator-internal-book)
   > The book introduces the internal of Android Emulator
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [mitschud/DirtyFrag](https://github.com/mitschud/DirtyFrag)
   > Ephemeral root via the CVE-2026-43284 page-cache exploit
+
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [LTRData/DiscUtilsFs](https://github.com/LTRData/DiscUtilsFs) to [smx-smx/DiscUtilsFs](https://github.com/smx-smx/DiscUtilsFs)
+  > Mount a file system from a disk image file as a virtual file system
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [SahilK-027/Elemental-Serenity](https://github.com/SahilK-027/Elemental-Serenity)
@@ -81,15 +102,11 @@
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector)
 
-### [ybdt](https://github.com/ybdt)
-- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [zodiacon/AllTools](https://github.com/zodiacon/AllTools)
-  > All reasonably stable tools
-
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 
 ---
-*最后更新于 2026-10-12 16:27:16 UTC*
+*最后更新于 2026-10-12 23:26:49 UTC*
 *历史记录保存在 `archive` 目录中。*
