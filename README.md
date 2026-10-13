@@ -4,9 +4,21 @@
 
 ## 今日动态
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [xtool-org/xtool](https://github.com/xtool-org/xtool)
+  > Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [LyraVoid/FinaSU](https://github.com/LyraVoid/FinaSU)
+  > KernelSU for a beautiful world
+- 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [LyraVoid/FinaSU](https://github.com/LyraVoid/FinaSU) to [Dere3046/FinaSU](https://github.com/Dere3046/FinaSU)
+  > KernelSU for a beautiful world
+
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [linebender/xilem](https://github.com/linebender/xilem)
   > An experimental Rust native UI framework
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [longbridge/gpui-fast](https://github.com/longbridge/gpui-fast)
+  > GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to k...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [decrypthub/IOSDecryptHub](https://github.com/decrypthub/IOSDecryptHub)
@@ -26,6 +38,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
   > A powerful obfuscator for JavaScript and Node.js
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [rva3/gce](https://github.com/rva3/gce)
+  > hacking on MediaTek GCE coprocessor
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [liseami/CCBaga](https://github.com/liseami/CCBaga)
 
@@ -38,6 +54,10 @@
   > ⚡ Rust/WebAssembly image processing library
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [fineshopdesign/cf-wasm](https://github.com/fineshopdesign/cf-wasm)
   > ⛅ A collection of WASM packages those work on Cloudflare Workers
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ichitaso/RegionChanger](https://github.com/ichitaso/RegionChanger)
+  > Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc...
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -61,5 +81,5 @@
 
 
 ---
-*最后更新于 2026-10-13 13:28:42 UTC*
+*最后更新于 2026-10-13 20:02:22 UTC*
 *历史记录保存在 `archive` 目录中。*
