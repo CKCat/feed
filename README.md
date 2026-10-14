@@ -31,6 +31,8 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [tao1587/glean](https://github.com/tao1587/glean)
   > A self-hosted RSS reader and personal knowledge management tool.
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [RPISEC/MBE](https://github.com/RPISEC/MBE)
+  > Course materials for Modern Binary Exploitation by RPISEC
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/RecoverIt](https://github.com/TwoSevenOneT/RecoverIt)
@@ -50,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-10-14 20:24:34 UTC*
+*最后更新于 2026-10-14 23:38:02 UTC*
 *历史记录保存在 `archive` 目录中。*
