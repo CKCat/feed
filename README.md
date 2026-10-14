@@ -8,10 +8,6 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [wanshuiyin/HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense)
   > HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A ...
 
-### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-  > Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
-
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [renegadelink/iShareScreen](https://github.com/renegadelink/iShareScreen)
   > A cross-platform client for Apple's macOS Screen Sharing High Performance mode
@@ -20,15 +16,17 @@
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) to [MiroKaku/Relapse-Exploit](https://github.com/MiroKaku/Relapse-Exploit)
   > Exploit chain for PS5 7.00 - 13.60
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [KellerJordan/Muon](https://github.com/KellerJordan/Muon)
+  > Muon is an optimizer for hidden layers in neural networks
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [KellerJordan/Muon](https://github.com/KellerJordan/Muon) to [crazyguitar/Muon](https://github.com/crazyguitar/Muon)
+  > Muon is an optimizer for hidden layers in neural networks
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp) to [eteran/IsaacRecomp](https://github.com/eteran/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
-
-### [phodal](https://github.com/phodal)
-- 🌟 👤 [phodal](https://github.com/phodal) Starred [ananhq/anan-iphone-use](https://github.com/ananhq/anan-iphone-use)
-  > ESP32 MCP firmware for iPhone USB input, built for M5Stack StopWatch with guided board adaptation
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [tao1587/glean](https://github.com/tao1587/glean)
@@ -52,5 +50,5 @@
 
 
 ---
-*最后更新于 2026-10-14 16:26:06 UTC*
+*最后更新于 2026-10-14 20:24:34 UTC*
 *历史记录保存在 `archive` 目录中。*
