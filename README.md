@@ -8,13 +8,41 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [wanshuiyin/HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense)
   > HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A ...
 
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
+  > Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [renegadelink/iShareScreen](https://github.com/renegadelink/iShareScreen)
   > A cross-platform client for Apple's macOS Screen Sharing High Performance mode
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) to [MiroKaku/Relapse-Exploit](https://github.com/MiroKaku/Relapse-Exploit)
+  > Exploit chain for PS5 7.00 - 13.60
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp)
+  > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
+- 🍴 👤 [eteran](https://github.com/eteran) Forked [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp) to [eteran/IsaacRecomp](https://github.com/eteran/IsaacRecomp)
+  > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
+
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [ananhq/anan-iphone-use](https://github.com/ananhq/anan-iphone-use)
+  > ESP32 MCP firmware for iPhone USB input, built for M5Stack StopWatch with guided board adaptation
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [tao1587/glean](https://github.com/tao1587/glean)
+  > A self-hosted RSS reader and personal knowledge management tool.
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [TwoSevenOneT/RecoverIt](https://github.com/TwoSevenOneT/RecoverIt)
   > A tool that helps change the recovery configuration of a Windows service to make lateral movement mo...
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ollama/ollama](https://github.com/ollama/ollama)
+  > Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases)
@@ -24,5 +52,5 @@
 
 
 ---
-*最后更新于 2026-10-14 11:05:43 UTC*
+*最后更新于 2026-10-14 16:26:06 UTC*
 *历史记录保存在 `archive` 目录中。*
