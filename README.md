@@ -4,9 +4,9 @@
 
 ## 今日动态
 
-### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release)
-  > SQL for Android apk and dex files
+### [GANGE666](https://github.com/GANGE666)
+- 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead)
+  > Hardware as fast as software.
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release)
@@ -19,6 +19,8 @@
   > Somehow, Byepervisor returned...
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus)
   > The great gaming migration to Linux and macOS
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)
+  > Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock...
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release)
@@ -28,6 +30,16 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [GitKittys/AndroidPrybar](https://github.com/GitKittys/AndroidPrybar)
   > Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制
 
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [cobanov/PS5LM](https://github.com/cobanov/PS5LM)
+  > llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs)
+  > 面向 Android ARM64 的 eBPF DEX dump 工具。
+- 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs) to [kin9-0rz/eBPFDexDumper-rs](https://github.com/kin9-0rz/eBPFDexDumper-rs)
+  > 面向 Android ARM64 的 eBPF DEX dump 工具。
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oscarsantanaarias/IDA-Ghidra-bridge](https://github.com/oscarsantanaarias/IDA-Ghidra-bridge)
 
@@ -36,6 +48,10 @@
   > A tool to decompile MSVC PDB files to C++ source code.
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [punpckhdq/halo](https://github.com/punpckhdq/halo)
   > Halo 1 decompilation
+
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater)
+  > Coastal town built with Opus 5.5
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) to [sunwm518/VoiceStudio](https://github.com/sunwm518/VoiceStudio)
@@ -47,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-10-15 08:47:27 UTC*
+*最后更新于 2026-10-15 13:53:28 UTC*
 *历史记录保存在 `archive` 目录中。*
