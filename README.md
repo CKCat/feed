@@ -4,9 +4,19 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [0typos/statics](https://github.com/0typos/statics)
+  > Reproducible, cross-architecture static Linux troubleshooting binaries
+
 ### [GANGE666](https://github.com/GANGE666)
 - 🌟 👤 [GANGE666](https://github.com/GANGE666) Starred [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead)
   > Hardware as fast as software.
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Umiade/xenoid](https://github.com/Umiade/xenoid)
+  > An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts
+- 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [Umiade/xenoid](https://github.com/Umiade/xenoid) to [KuNgia09/xenoid](https://github.com/KuNgia09/xenoid)
+  > An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release)
@@ -30,6 +40,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [GitKittys/AndroidPrybar](https://github.com/GitKittys/AndroidPrybar)
   > Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [hanximeng/LanzouAPI](https://github.com/hanximeng/LanzouAPI)
+  > 蓝奏云直链，蓝奏api，蓝奏解析，蓝奏云解析API，蓝奏云带密码解析
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [cobanov/PS5LM](https://github.com/cobanov/PS5LM)
   > llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8
@@ -48,6 +62,8 @@
   > A tool to decompile MSVC PDB files to C++ source code.
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [punpckhdq/halo](https://github.com/punpckhdq/halo)
   > Halo 1 decompilation
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [microsoft/windows_seh_tests](https://github.com/microsoft/windows_seh_tests)
+  > Windows ABI Structured Exception Handling Tests
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater)
@@ -63,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-10-15 13:53:28 UTC*
+*最后更新于 2026-10-15 17:58:57 UTC*
 *历史记录保存在 `archive` 目录中。*
