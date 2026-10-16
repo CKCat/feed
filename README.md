@@ -38,13 +38,12 @@
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [Artifaqt/ROBLOX2016](https://github.com/Artifaqt/ROBLOX2016) to [MiroKaku/ROBLOX2016](https://github.com/MiroKaku/ROBLOX2016)
   > ROBLOX + ROBLOX STUDIO PC & Mobile (ANDROID and IOS) leaked source code, from 2016. Untouched code.
 
-### [MouriNaruto](https://github.com/MouriNaruto)
-- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [linuxkid473/maclator](https://github.com/linuxkid473/maclator)
-  > Run arm64 macOS apps on Intel Macs: a reverse-Rosetta emulator (interpreter + x86-64 JIT + AOT cache...
-
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [NEORUAA/HyperOS-AVD](https://github.com/NEORUAA/HyperOS-AVD)
   > HyperOS in the official ARM64 Android Studio Emulator
+
+### [V4bel](https://github.com/V4bel)
+- 🚀 👤 [V4bel](https://github.com/V4bel) Made [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) public
 
 ### [arizvisa](https://github.com/arizvisa)
 - 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
@@ -55,6 +54,12 @@
   > LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. ...
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet)
   > LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [meta-pytorch/dist_moe](https://github.com/meta-pytorch/dist_moe)
+  > Dist-MoE implements Speed-of-Light distributed Mixture-of-Experts forward and backward kernels. They...
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [meta-pytorch/dist_moe](https://github.com/meta-pytorch/dist_moe) to [crazyguitar/dist_moe](https://github.com/crazyguitar/dist_moe)
+  > Dist-MoE implements Speed-of-Light distributed Mixture-of-Experts forward and backward kernels. They...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame)
@@ -65,6 +70,12 @@
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [capt-meelo/loupe](https://github.com/capt-meelo/loupe)
   > Browser-based Android console, APK decompiler and security analyzer. Mirror, logcat, shell, Frida, j...
+
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [DosX-dev/DamnMIT-license](https://github.com/DosX-dev/DamnMIT-license)
+  > MIT-style licensing expanded into thousands of lines of bureaucratic precision. A custom license and...
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [DosX-dev/TinyCC-builder](https://github.com/DosX-dev/TinyCC-builder)
+  > Build the latest TinyCC for Windows with one click. Complete portable x64/x86/ARM64 toolchain, full ...
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills)
@@ -85,6 +96,9 @@
   > AI-powered COBOL to Java Quarkus modernization agents using Microsoft Agent Framework. Automates leg...
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [SDL-Hercules-390/hyperion](https://github.com/SDL-Hercules-390/hyperion)
   > The SDL Hercules 4.x Hyperion version of the System/370, ESA/390, and z/Architecture Emulator
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [TG-Twilight/c001apk](https://github.com/TG-Twilight/c001apk)
@@ -175,11 +189,15 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [galasulin/galstrike](https://github.com/galasulin/galstrike)
   > 🕸️ Open-world 3D web-swinging game in the browser — procedural Manhattan, physics traversal, story m...
 
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [arkup/arkDasm](https://github.com/arkup/arkDasm) to [sunwm518/arkDasm](https://github.com/sunwm518/arkDasm)
+  > Interactive disassembler, decompiler and debugger for 64-bit Windows executables
+
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [combeng6th/DirtyInit](https://github.com/combeng6th/DirtyInit)
   > One-touch, universal root for Samsung devices as u:r:init:s0
 
 
 ---
-*最后更新于 2026-10-16 15:09:01 UTC*
+*最后更新于 2026-10-16 19:15:05 UTC*
 *历史记录保存在 `archive` 目录中。*
