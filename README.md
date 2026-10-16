@@ -15,6 +15,24 @@
   > Lilu plugin for Intel iGPU acceleration on macOS — Haswell through Raptor Lake, via Tiger Lake drive...
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [countradooku/gpui-native](https://github.com/countradooku/gpui-native)
   > Native GPU-accelerated Vue 3 renderer for Zed's GPUI
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)
+  > 一个自定义注入so的脚手架,现在已经支持了界面化使用。
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
+  > 面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [MakcRe/KuGouMusicApi](https://github.com/MakcRe/KuGouMusicApi)
+  > 酷狗音乐 Node.js API service
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC)
+  > Rust ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
+
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [morluto/rea](https://github.com/morluto/rea) to [LeadroyaL/rea](https://github.com/LeadroyaL/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [Artifaqt/ROBLOX2016](https://github.com/Artifaqt/ROBLOX2016) to [MiroKaku/ROBLOX2016](https://github.com/MiroKaku/ROBLOX2016)
@@ -28,6 +46,16 @@
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [NEORUAA/HyperOS-AVD](https://github.com/NEORUAA/HyperOS-AVD)
   > HyperOS in the official ARM64 Android Studio Emulator
 
+### [arizvisa](https://github.com/arizvisa)
+- 🌟 👤 [arizvisa](https://github.com/arizvisa) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
+  > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) to [crazyguitar/TorchLeet](https://github.com/crazyguitar/TorchLeet)
+  > LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. ...
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet)
+  > LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. ...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame)
   > The open-source studio for making games with AI. Your own one-person game studio. Everything you nee...
@@ -37,6 +65,10 @@
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [capt-meelo/loupe](https://github.com/capt-meelo/loupe)
   > Browser-based Android console, APK decompiler and security analyzer. Mirror, logcat, shell, Frida, j...
+
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills)
+  > r0crawl_skills is a massive reverse-engineering skill arsenal for web, Android, iOS, Frida, native b...
 
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [OpenReliant/openreliant-editor](https://github.com/OpenReliant/openreliant-editor)
@@ -72,7 +104,7 @@
   > A mini 5v5 MOBA in the browser: one deterministic TypeScript sim, an authoritative server, and every...
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [thesithunyein/wrackline](https://github.com/thesithunyein/wrackline)
   > Survive the tide. Harvest the shore. A seaside arcade game about greed, tide timing and thirteen wav...
-- 🌟 👤 [sunface](https://github.com/sunface) Starred [TripoGrowthLab/vibe-gaming-interactive-handbook](https://github.com/TripoGrowthLab/vibe-gaming-interactive-handbook)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [TripoGrowthLab/vibe-gaming-interactive-playbook](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook)
   > Make a 3D browser game with your coding agent and one prompt: greybox first, then Tripo models.
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [VibezZzCoder/coqui-3d](https://github.com/VibezZzCoder/coqui-3d)
   > Sequel (work-in-progress) to my other Coqui game, with realistic 3D graphics and 4-player mode.
@@ -138,16 +170,16 @@
   > Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no buil...
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [facei7505-droid/LOTR](https://github.com/facei7505-droid/LOTR)
   > Ashen Kingdoms — 3D real-time strategy in the browser (three.js, custom engine, online multiplayer, ...
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [kuczmama/meridian](https://github.com/kuczmama/meridian)
+  > An infinite procedural medieval world in the browser: living towns, 100+ places and events, combat, ...
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [galasulin/galstrike](https://github.com/galasulin/galstrike)
+  > 🕸️ Open-world 3D web-swinging game in the browser — procedural Manhattan, physics traversal, story m...
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [combeng6th/DirtyInit](https://github.com/combeng6th/DirtyInit)
   > One-touch, universal root for Samsung devices as u:r:init:s0
 
-### [waruqi](https://github.com/waruqi)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [dodola/d2r-mobile](https://github.com/dodola/d2r-mobile)
-  > Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansi...
-
 
 ---
-*最后更新于 2026-10-16 10:36:35 UTC*
+*最后更新于 2026-10-16 15:09:01 UTC*
 *历史记录保存在 `archive` 目录中。*
