@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [0xdea/zed-claude-devcontainer](https://github.com/0xdea/zed-claude-devcontainer)
+  > Sandboxed Claude Code devcontainer for the Zed editor.
+
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard)
   > Disable PatchGuard and Driver Signature Enforcement at boot time
@@ -14,6 +18,8 @@
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [vusec/typeisolation](https://github.com/vusec/typeisolation)
+  > Type-based Data Isolation prototype
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [sodahub-org/sodam](https://github.com/sodahub-org/sodam)
@@ -31,6 +37,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [xtool-org/xtool](https://github.com/xtool-org/xtool)
   > Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [Niko1221/Strata](https://github.com/Niko1221/Strata) to [bkerler/Strata](https://github.com/bkerler/Strata)
+  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
   > 面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
@@ -41,10 +51,39 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Dom-Yan/Mucc](https://github.com/Dom-Yan/Mucc)
   > A small, fast, self-hosting C compiler for x86-64 and ARM64 Linux, in one static file with its own a...
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [second-impressions/wibo](https://github.com/second-impressions/wibo)
+  > A minimal, low-fuss wrapper that can run simple command-line 32-bit Windows binaries on Linux and ma...
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [decompals/wibo](https://github.com/decompals/wibo)
+  > A minimal, low-fuss wrapper that can run simple command-line 32-bit Windows binaries on Linux and ma...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
+  > Community-maintained SLEIGH processor specifications for Ghidra
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
+  > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
+
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [jswysnemc/mark-shot](https://github.com/jswysnemc/mark-shot)
+  > Qt 6 Wayland screenshot selection and annotation tool
+
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [lf-lang/lingua-franca](https://github.com/lf-lang/lingua-franca)
+  > Intuitive concurrent programming in any language
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [qzed/pbpctrl](https://github.com/qzed/pbpctrl)
+  > Control Google Pixel Buds Pro from the Linux command line.
+
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
   > A cross-platform GUI library for Rust, inspired by Elm
+
+### [sunface](https://github.com/sunface)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [momentchan/false-earth](https://github.com/momentchan/false-earth)
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [luhaobin-lab/woodland-pizzeria-3d](https://github.com/luhaobin-lab/woodland-pizzeria-3d)
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [miloira/wxhook](https://github.com/miloira/wxhook) to [sunwm518/wxhook](https://github.com/sunwm518/wxhook)
@@ -56,5 +95,5 @@
 
 
 ---
-*最后更新于 2026-10-17 10:05:24 UTC*
+*最后更新于 2026-10-17 14:02:12 UTC*
 *历史记录保存在 `archive` 目录中。*
