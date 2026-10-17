@@ -33,6 +33,9 @@
   > GitHub fork 同步面板：自动发现、安全合并、版本对比与事件追踪
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [reflection-oss/mirror](https://github.com/reflection-oss/mirror)
   > Mirror is Reflection's coding harness
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [sorrycc/Mayoi](https://github.com/sorrycc/Mayoi)
+  > A small, fast code editor written in Go, with a native GPU-drawn UI (no webview, no Electron)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [DD-2026-05-28/wasm](https://github.com/DD-2026-05-28/wasm)
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
@@ -89,6 +92,10 @@
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc)
+  > Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vincalkr/Strata-DSV4.1](https://github.com/vincalkr/Strata-DSV4.1)
+  > DeepSeek-V4.1-Flash GSQ on a single RX 7900 XTX (gfx1100, ROCm/HIP): the v41 engine, the optimizatio...
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [jswysnemc/mark-shot](https://github.com/jswysnemc/mark-shot)
@@ -131,5 +138,5 @@
 
 
 ---
-*最后更新于 2026-10-17 20:02:17 UTC*
+*最后更新于 2026-10-17 22:50:49 UTC*
 *历史记录保存在 `archive` 目录中。*
