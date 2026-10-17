@@ -27,6 +27,12 @@
   > Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp)
   > Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [mamcjr/LASRecompAndroid](https://github.com/mamcjr/LASRecompAndroid)
+  > Dynamic recompilation of Link's Awakening (Switch) to native Android
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [zzusec/forkiq](https://github.com/zzusec/forkiq)
+  > GitHub fork 同步面板：自动发现、安全合并、版本对比与事件追踪
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [reflection-oss/mirror](https://github.com/reflection-oss/mirror)
+  > Mirror is Reflection's coding harness
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
@@ -57,10 +63,6 @@
 - 🍴 👤 [bkerler](https://github.com/bkerler) Forked [Niko1221/Strata](https://github.com/Niko1221/Strata) to [bkerler/Strata](https://github.com/bkerler/Strata)
   > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
 
-### [divyam234](https://github.com/divyam234)
-- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [kackerx/sqlmux](https://github.com/kackerx/sqlmux)
-  > A tmux-style terminal database client with Vim keybindings for PostgreSQL, MySQL, Redis, and more.
-
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
   > 面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
@@ -85,6 +87,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
 
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [jswysnemc/mark-shot](https://github.com/jswysnemc/mark-shot)
@@ -109,6 +113,10 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
   > A cross-platform GUI library for Rust, inspired by Elm
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox)
+  > KernelSU Module
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [momentchan/false-earth](https://github.com/momentchan/false-earth)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [luhaobin-lab/woodland-pizzeria-3d](https://github.com/luhaobin-lab/woodland-pizzeria-3d)
@@ -123,5 +131,5 @@
 
 
 ---
-*最后更新于 2026-10-17 17:43:52 UTC*
+*最后更新于 2026-10-17 20:02:17 UTC*
 *历史记录保存在 `archive` 目录中。*
