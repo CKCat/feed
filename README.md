@@ -12,10 +12,6 @@
 ### [Bzi-Han](https://github.com/Bzi-Han)
 - 🌟 👤 [Bzi-Han](https://github.com/Bzi-Han) Starred [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory)
 
-### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Ray-lea/Argus](https://github.com/Ray-lea/Argus)
-  > 现代 Windows 任务管理器 · A modern task manager for Windows, built with Rust, Tauri and SolidJS.
-
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
 
@@ -27,9 +23,13 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [sodahub-org/libmssdk](https://github.com/sodahub-org/libmssdk)
   > 汽水音乐应用签名服务：把官方客户端 bdms.node 封装成 HTTP/stdio 服务，为 libresoda 等 Linux 客户端提供 X-Helios / X-Medusa
 
-### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
-  > Beautiful, Modern & Opinionated Linux
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC)
+  > Rust ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [xtool-org/xtool](https://github.com/xtool-org/xtool)
+  > Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
@@ -43,12 +43,18 @@
 
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+  > A cross-platform GUI library for Rust, inspired by Elm
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [miloira/wxhook](https://github.com/miloira/wxhook) to [sunwm518/wxhook](https://github.com/sunwm518/wxhook)
   > Python微信机器人框架，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.1...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing)
+  > Better Screen Sharing for Apple systems
+
 
 ---
-*最后更新于 2026-10-17 05:29:01 UTC*
+*最后更新于 2026-10-17 10:05:24 UTC*
 *历史记录保存在 `archive` 目录中。*
