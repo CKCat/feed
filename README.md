@@ -27,9 +27,16 @@
 - 🍴 👤 [KyuubiRan](https://github.com/KyuubiRan) Forked [ksharperd/Dobby](https://github.com/ksharperd/Dobby) to [SakuraFox-GC/Dobby](https://github.com/SakuraFox-GC/Dobby)
   > a lightweight, multi-platform, multi-architecture hook framework.
 
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [ivoszbg/uniLoader](https://github.com/ivoszbg/uniLoader) to [amazon-oss/uniLoader](https://github.com/amazon-oss/uniLoader)
-  > because bootloaders shouldn't be complicated :D
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [NEORUAA/HyperOS-AVD](https://github.com/NEORUAA/HyperOS-AVD)
+  > HyperOS in the official ARM64 Android Studio Emulator
+
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [lws803/BLE-jammer](https://github.com/lws803/BLE-jammer)
+  > BLE jammer using NRF240L+ modules and Maple Mini (STM32)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [GANESH-ICMC/esp32-deauther](https://github.com/GANESH-ICMC/esp32-deauther)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [libtom/libtomcrypt](https://github.com/libtom/libtomcrypt)
+  > LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides deve...
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nakst/gf](https://github.com/nakst/gf)
@@ -55,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-10-18 17:46:30 UTC*
+*最后更新于 2026-10-18 20:01:23 UTC*
 *历史记录保存在 `archive` 目录中。*
