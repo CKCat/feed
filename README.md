@@ -10,9 +10,14 @@
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [Asterisk4Magisk/AsteriskMETA](https://github.com/Asterisk4Magisk/AsteriskMETA)
   > Android Mihomo GUI client.
+- 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [google/smali](https://github.com/google/smali) to [AnonSoyorinLove/smali](https://github.com/AnonSoyorinLove/smali)
 
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [nicoboss/nsz](https://github.com/nicoboss/nsz)
+  > NSZ - Homebrew compatible NSP/XCI compressor/decompressor
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [julesontheroad/NSC_BUILDER](https://github.com/julesontheroad/NSC_BUILDER)
+  > Nintendo Switch Cleaner and Builder. A batchfile, python and html script based in hacbuild and Nut's...
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -32,15 +37,6 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [obsidianmd/pele](https://github.com/obsidianmd/pele)
   > Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-dataset](https://github.com/chosen-instruction-attack/CIA-dataset)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-toolchain](https://github.com/chosen-instruction-attack/CIA-toolchain)
-  > The toolchain of Chosen-instruction attack
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DeadKennedyx/hidden-tiny-aes](https://github.com/DeadKennedyx/hidden-tiny-aes)
-  > AES-256-CBC with some evasion techniques
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
-  > One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ...
-
 ### [neocanable](https://github.com/neocanable)
 - 🌟 👤 [neocanable](https://github.com/neocanable) Starred [CobaltFusion/DebugViewPP](https://github.com/CobaltFusion/DebugViewPP)
   > DebugView++, collects, views, filters your application logs, and highlights information that is impo...
@@ -59,5 +55,5 @@
 
 
 ---
-*最后更新于 2026-10-18 14:15:44 UTC*
+*最后更新于 2026-10-18 17:46:30 UTC*
 *历史记录保存在 `archive` 目录中。*
