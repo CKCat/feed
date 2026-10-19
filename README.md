@@ -10,6 +10,8 @@
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [BigfootACA/linux](https://github.com/BigfootACA/linux)
+  > Linux kernel source tree
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)
@@ -29,6 +31,10 @@
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🚀 👤 [alexander-hanel](https://github.com/alexander-hanel) Made [alexander-hanel/seed-md](https://github.com/alexander-hanel/seed-md) public
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [modal-labs/synchronicity](https://github.com/modal-labs/synchronicity) to [crazyguitar/synchronicity](https://github.com/crazyguitar/synchronicity)
+  > Synchronicity lets you interoperate with asynchronous Python APIs.
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [VisionR1/KeyAttestation](https://github.com/VisionR1/KeyAttestation)
   > For more about this fork, including all Features & Contributors, see the Wiki tab.
@@ -40,6 +46,10 @@
   > 符合nature论文学术表达和科研绘图的Skill
 - 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) to [eastmountyxz/nature-skills](https://github.com/eastmountyxz/nature-skills)
   > 符合nature论文学术表达和科研绘图的Skill
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb)
+  > A KernelSU module that provides alternative adb server over local network
 
 ### [fjqisba](https://github.com/fjqisba)
 - 🍴 👤 [fjqisba](https://github.com/fjqisba) Forked [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7) to [fjqisba/Dumper-7](https://github.com/fjqisba/Dumper-7)
@@ -82,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-10-19 18:39:59 UTC*
+*最后更新于 2026-10-19 22:47:14 UTC*
 *历史记录保存在 `archive` 目录中。*
