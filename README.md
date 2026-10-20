@@ -15,13 +15,13 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
-### [Dere3046](https://github.com/Dere3046)
-- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [haohao3001/MountHide](https://github.com/haohao3001/MountHide)
-  > HIDEMount
-
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
+
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [RoversX/ThinkTerm](https://github.com/RoversX/ThinkTerm)
+  > A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells a...
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [ManduSec/mandu](https://github.com/ManduSec/mandu)
@@ -78,6 +78,9 @@
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [LeoChen-CoreMind/android-vmp-recovery-workflow](https://github.com/LeoChen-CoreMind/android-vmp-recovery-workflow)
   > Android 某6零免费版 DexVMP 恢复工作流，仅限学习研究与授权分析
 
+### [locus-x64](https://github.com/locus-x64)
+- 🌟 👤 [locus-x64](https://github.com/locus-x64) Starred [SyNSec-den/Loris](https://github.com/SyNSec-den/Loris)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
   > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
@@ -126,5 +129,5 @@
 
 
 ---
-*最后更新于 2026-10-20 18:17:33 UTC*
+*最后更新于 2026-10-20 22:02:41 UTC*
 *历史记录保存在 `archive` 目录中。*
