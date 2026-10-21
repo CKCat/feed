@@ -8,10 +8,6 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
-### [Dere3046](https://github.com/Dere3046)
-- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [AstraVeil0207/KernelSU-Group-JoinAuth](https://github.com/AstraVeil0207/KernelSU-Group-JoinAuth)
-  > ksu入群验证解密（针对目前Kernel SU入群验证GitHub Page噶了无法验证的情况...）仅供学习交流使用 KernelSU group-entry verification decryp...
-
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [vladkens/macmon](https://github.com/vladkens/macmon)
   > 🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics s...
@@ -51,10 +47,6 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [microsoft/openvmm](https://github.com/microsoft/openvmm)
   > Home of OpenVMM and OpenHCL
 
-### [fjqisba](https://github.com/fjqisba)
-- 🍴 👤 [fjqisba](https://github.com/fjqisba) Forked [mgba-emu/mgba](https://github.com/mgba-emu/mgba) to [fjqisba/mgba](https://github.com/fjqisba/mgba)
-  > mGBA Game Boy Advance Emulator
-
 ### [maiyao1988](https://github.com/maiyao1988)
 - 🌟 👤 [maiyao1988](https://github.com/maiyao1988) Starred [markhliu/txt2img](https://github.com/markhliu/txt2img)
   > Build text-to-image generative AI models from scratch with Python and PyTorch. Focus on two methods:...
@@ -62,6 +54,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dawsbot/sqlite-rs-stream](https://github.com/dawsbot/sqlite-rs-stream)
+  > Litestream-compatible SQLite replication to S3, running inside your Rust process
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR)
+  > An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-tr...
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [moshix/kicks](https://github.com/moshix/kicks)
@@ -96,5 +92,5 @@
 
 
 ---
-*最后更新于 2026-10-21 17:52:20 UTC*
+*最后更新于 2026-10-21 21:11:48 UTC*
 *历史记录保存在 `archive` 目录中。*
