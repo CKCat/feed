@@ -8,6 +8,22 @@
 - 🍴 👤 [AloneMonkey](https://github.com/AloneMonkey) Forked [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) to [AloneMonkey/jianying-headless](https://github.com/AloneMonkey/jianying-headless)
   > Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
 
+### [Bzi-Han](https://github.com/Bzi-Han)
+- 🌟 👤 [Bzi-Han](https://github.com/Bzi-Han) Starred [qualcomm/qcom-usb-kernel-drivers](https://github.com/qualcomm/qcom-usb-kernel-drivers)
+  > Qualcomm kernel drivers provide logical representations of Qualcomm chipset-enabled mobile devices o...
+
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/inte.ko_oplus](https://github.com/Dere3046/inte.ko_oplus)
+  > Research on Oplus inte.ko LKM, including inte.ko source code and PoC
+
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Acelogic/Snapintosh](https://github.com/Acelogic/Snapintosh)
+  > EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno ...
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir)
+  > A tool used to make user-friendly wine wrapped ports of Windows software for macOS.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
@@ -33,6 +49,9 @@
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [mzdluo123/webmux](https://github.com/mzdluo123/webmux)
   > 在浏览器里持续运行的终端：单个 Go 二进制，断线不丢会话，适配手机，为远程遥控 Claude Code、Codex 等 CLI agent 而生
 
+### [gatieme](https://github.com/gatieme)
+- 🌟 👤 [gatieme](https://github.com/gatieme) Starred [TELOS-syslab/Threadlet](https://github.com/TELOS-syslab/Threadlet)
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal)
   > A terminal on GPUI and Ely components
@@ -46,6 +65,12 @@
   > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
   > Super Mario Maker 2 Recomp
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
+
+### [p-ranav](https://github.com/p-ranav)
+- 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [moonbit-community/proton](https://github.com/moonbit-community/proton)
@@ -72,5 +97,5 @@
 
 
 ---
-*最后更新于 2026-10-22 11:05:24 UTC*
+*最后更新于 2026-10-22 16:33:43 UTC*
 *历史记录保存在 `archive` 目录中。*
