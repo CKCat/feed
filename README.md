@@ -38,6 +38,10 @@
 - 🍴 👤 [Umiade](https://github.com/Umiade) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [Umiade/php2shell-bypass-aslr-exp](https://github.com/Umiade/php2shell-bypass-aslr-exp)
   > A php2shell exploit that requires no modifications to the official version, and does not require dis...
 
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) to [Ylarod/EasyTier](https://github.com/Ylarod/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive)
   > Overdrive, a PS5 homebrew game store with 1,800+ games.
@@ -57,16 +61,6 @@
   > A terminal on GPUI and Ely components
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [233stone/vocotype-cli](https://github.com/233stone/vocotype-cli)
   > VocoType 是一款运行在本地端侧的隐私安全语音输入工具，通过快捷键即可将语音实时转换为文字并自动输入到当前应用。支持语音转文字MCP、AI 优化文本、自定义替换词典、录音视频转文字等功能，让语音...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-  > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
-  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
-  > Super Mario Maker 2 Recomp
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -97,5 +91,5 @@
 
 
 ---
-*最后更新于 2026-10-22 20:23:57 UTC*
+*最后更新于 2026-10-22 23:51:35 UTC*
 *历史记录保存在 `archive` 目录中。*
