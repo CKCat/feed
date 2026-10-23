@@ -29,9 +29,17 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)
   > 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pyga...
 
+### [Umiade](https://github.com/Umiade)
+- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [unixzii/SimRun](https://github.com/unixzii/SimRun)
+  > Run iOS Simulator apps directly on your Mac.
+
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe)
   > A bidirectional pipeline parallelism algorithm for computation-communication overlap in DeepSeek V3/...
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
+  > magic-trace collects and displays high-resolution traces of what a process is doing
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Erlla/sony-a7m4-custom-firmware](https://github.com/Erlla/sony-a7m4-custom-firmware)
@@ -58,5 +66,5 @@
 
 
 ---
-*最后更新于 2026-10-23 14:37:51 UTC*
+*最后更新于 2026-10-23 18:51:49 UTC*
 *历史记录保存在 `archive` 目录中。*
