@@ -4,17 +4,30 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [rustsec/rustsec](https://github.com/rustsec/rustsec)
+  > RustSec API & Tooling
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [rustsec/rustsec](https://github.com/rustsec/rustsec) to [0xdea/rustsec](https://github.com/0xdea/rustsec)
+  > RustSec API & Tooling
+
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [JANUS-SEC/ZeroMDASH](https://github.com/JANUS-SEC/ZeroMDASH)
+
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
-### [Umiade](https://github.com/Umiade)
-- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
-- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)
-- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [oosexgang/hackios-web](https://github.com/oosexgang/hackios-web)
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [lindexi/PrismCodingAgent](https://github.com/lindexi/PrismCodingAgent)
+  > An agentic coding assistant built for large projects.
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)
+  > 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pyga...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe)
@@ -31,11 +44,19 @@
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [orionpax1997/model-killing-line](https://github.com/orionpax1997/model-killing-line) to [kin9-0rz/model-killing-line](https://github.com/kin9-0rz/model-killing-line)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
+  > INVETITI
+
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [sunwm518/MogVMP](https://github.com/sunwm518/MogVMP)
   > Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips t...
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+  > Write HTML. Render video. Built for agents.
+
 
 ---
-*最后更新于 2026-10-23 09:03:44 UTC*
+*最后更新于 2026-10-23 14:37:51 UTC*
 *历史记录保存在 `archive` 目录中。*
