@@ -52,10 +52,6 @@
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [orionpax1997/model-killing-line](https://github.com/orionpax1997/model-killing-line) to [kin9-0rz/model-killing-line](https://github.com/kin9-0rz/model-killing-line)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
-  > INVETITI
-
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [sunwm518/MogVMP](https://github.com/sunwm518/MogVMP)
   > Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips t...
@@ -66,5 +62,5 @@
 
 
 ---
-*最后更新于 2026-10-23 18:51:49 UTC*
+*最后更新于 2026-10-23 21:48:56 UTC*
 *历史记录保存在 `archive` 目录中。*
