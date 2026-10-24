@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Tool for automatic PS5 executables porting to Linux and Windows
+
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [hoaug-tran/ReYogaSMC](https://github.com/hoaug-tran/ReYogaSMC)
+  > ACPI driver for OEM hardware.
+
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [purdue-secomp-lab/MEDS](https://github.com/purdue-secomp-lab/MEDS)
 
@@ -11,11 +19,28 @@
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [nix-community/naersk](https://github.com/nix-community/naersk)
   > Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
+  > Agent harness for learning difficult things.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
+  > Agent harness for learning difficult things.
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [joranv1/ios-sailfish](https://github.com/joranv1/ios-sailfish)
+  > iOS 16 userland + XNU on Google Pixel 1 (sailfish, Snapdragon 821)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [0x1ceKing/HTB-Certified-Penetration-Testing-Specialist](https://github.com/0x1ceKing/HTB-Certified-Penetration-Testing-Specialist)
+
+### [sunwm518](https://github.com/sunwm518)
+- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) to [sunwm518/LibreTV](https://github.com/sunwm518/LibreTV)
+  > 一分钟搭建影视站，支持Docker等部署方式
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [SideStore/SideStore](https://github.com/SideStore/SideStore)
   > SideStore is a fork of AltStore that doesn't require an AltServer.
 
 
 ---
-*最后更新于 2026-10-24 05:20:40 UTC*
+*最后更新于 2026-10-24 10:13:21 UTC*
 *历史记录保存在 `archive` 目录中。*
