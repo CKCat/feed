@@ -46,6 +46,10 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/HMCL](https://github.com/superturtlee/HMCL)
   > A Minecraft Launcher which is multi-functional, cross-platform and popular
 
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [webosbrew/SDL-webOS](https://github.com/webosbrew/SDL-webOS) to [smx-smx/SDL-webOS](https://github.com/smx-smx/SDL-webOS)
+  > Latest SDL2 for webOS TV
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2026-10-24 20:08:49 UTC*
+*最后更新于 2026-10-24 22:51:06 UTC*
 *历史记录保存在 `archive` 目录中。*
