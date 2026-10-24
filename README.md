@@ -17,6 +17,8 @@
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [hoaug-tran/ReYogaSMC](https://github.com/hoaug-tran/ReYogaSMC)
   > ACPI driver for OEM hardware.
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [lneely/pcloudcc-lneely](https://github.com/lneely/pcloudcc-lneely)
+  > pcloudcc-lneely is an independent fork of the inactive pcloudcom/console-client
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [purdue-secomp-lab/MEDS](https://github.com/purdue-secomp-lab/MEDS)
@@ -44,6 +46,13 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/HMCL](https://github.com/superturtlee/HMCL)
   > A Minecraft Launcher which is multi-functional, cross-platform and popular
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
+  > Metal driver for NVIDIA GeForce cards on macOS Sequoia
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
+  > reims-vgpu is an experimental virtual GPU for macOS guests
+
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) to [sunwm518/LibreTV](https://github.com/sunwm518/LibreTV)
   > 一分钟搭建影视站，支持Docker等部署方式
@@ -54,5 +63,5 @@
 
 
 ---
-*最后更新于 2026-10-24 17:47:48 UTC*
+*最后更新于 2026-10-24 20:08:49 UTC*
 *历史记录保存在 `archive` 目录中。*
