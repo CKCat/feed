@@ -8,6 +8,10 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [cosmoss-jigu/pactight](https://github.com/cosmoss-jigu/pactight)
   > PACTight source code
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
 ### [MouriNaruto](https://github.com/MouriNaruto)
 - 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [openai/openai-openapi](https://github.com/openai/openai-openapi)
   > OpenAPI specification for the OpenAI API
@@ -21,10 +25,6 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) to [AITokenHub/dujiao-next](https://github.com/AITokenHub/dujiao-next)
   > Dujiao-Next
-
-### [Ylarod](https://github.com/Ylarod)
-- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [mizorewww/gdirect](https://github.com/mizorewww/gdirect)
-  > Rust Google Drive direct downloader using pinned libaria2
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [llm-infra-atlas/llm-infra-atlas.github.io](https://github.com/llm-infra-atlas/llm-infra-atlas.github.io) to [crazyguitar/llm-infra-atlas.github.io](https://github.com/crazyguitar/llm-infra-atlas.github.io)
@@ -40,13 +40,17 @@
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
+  > AI agents can now use real Android and iOS apps, just like a human.
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
   > A context-compression plugin for month-long single sessions (billions of tokens) ,small context wind...
 
-### [noxke](https://github.com/noxke)
-- 🌟 👤 [noxke](https://github.com/noxke) Starred [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime)
-  > Rime (中州韵) support for fcitx5
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
 ### [phodal](https://github.com/phodal)
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
@@ -56,9 +60,15 @@
 - 🍴 👤 [pinwhell](https://github.com/pinwhell) Forked [Free60Project/libext2fs](https://github.com/Free60Project/libext2fs) to [pinwhell/libext2fs](https://github.com/pinwhell/libext2fs)
   > ext2/ext3/ext4 filesystem library for libxenon - based on libogc-library
 
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [Informatic/webos-vncserver](https://github.com/Informatic/webos-vncserver) to [smx-smx/webos-vncserver](https://github.com/smx-smx/webos-vncserver)
+  > An extremely hacky VNC server for WebOS - Works by reading directly from the GPU's framebuffer.
+
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [posecode-dev/posecode](https://github.com/posecode-dev/posecode)
   > An open-source text language, parser, validator and Three.js renderer for inspectable 3D human movem...
+- 🌟 👤 [sunface](https://github.com/sunface) Starred [Nugwa628/d2rust](https://github.com/Nugwa628/d2rust)
+  > D2RUST: Diablo II: Lord of Destruction rewritten in Rust (requires your own copy of the game)
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app)
@@ -69,8 +79,10 @@
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
   > Dual pane Android file manager with focus on APKs
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [liandu2024/Open-Box](https://github.com/liandu2024/Open-Box)
+  > Open-Box 一体化透明代理：OpenWrt / Debian / Ubuntu / Docker；自有程序闭源，第三方组件遵守原许可。
 
 
 ---
-*最后更新于 2026-10-25 10:38:09 UTC*
+*最后更新于 2026-10-25 14:45:25 UTC*
 *历史记录保存在 `archive` 目录中。*
