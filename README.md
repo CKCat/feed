@@ -11,8 +11,6 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide)
   > Open-source integration of roothide and Dopamine 3.x
-- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
-  > Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
@@ -31,10 +29,6 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) to [AITokenHub/dujiao-next](https://github.com/AITokenHub/dujiao-next)
   > Dujiao-Next
-
-### [Umiade](https://github.com/Umiade)
-- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
-  > Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [llm-infra-atlas/llm-infra-atlas.github.io](https://github.com/llm-infra-atlas/llm-infra-atlas.github.io) to [crazyguitar/llm-infra-atlas.github.io](https://github.com/crazyguitar/llm-infra-atlas.github.io)
@@ -74,10 +68,6 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vwire/riscv-bare-metal-qemu](https://github.com/vwire/riscv-bare-metal-qemu)
   > RISC-V bare-metal projects on QEMU virt
 
-### [smx-smx](https://github.com/smx-smx)
-- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [Informatic/webos-vncserver](https://github.com/Informatic/webos-vncserver) to [smx-smx/webos-vncserver](https://github.com/smx-smx/webos-vncserver)
-  > An extremely hacky VNC server for WebOS - Works by reading directly from the GPU's framebuffer.
-
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [posecode-dev/posecode](https://github.com/posecode-dev/posecode)
   > An open-source text language, parser, validator and Three.js renderer for inspectable 3D human movem...
@@ -98,5 +88,5 @@
 
 
 ---
-*最后更新于 2026-10-25 21:22:57 UTC*
+*最后更新于 2026-10-25 23:45:23 UTC*
 *历史记录保存在 `archive` 目录中。*
