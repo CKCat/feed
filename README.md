@@ -28,10 +28,6 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zdypro888/icrypto](https://github.com/zdypro888/icrypto)
   > apple iOS system crypto framework
 
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [oxiKKK/ida-edit-function-prototype](https://github.com/oxiKKK/ida-edit-function-prototype)
-  > IDA 9.X Plugin for a better Edit Function Prototype dialog
-
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) to [AITokenHub/dujiao-next](https://github.com/AITokenHub/dujiao-next)
   > Dujiao-Next
@@ -74,6 +70,10 @@
 - 🍴 👤 [pinwhell](https://github.com/pinwhell) Forked [Free60Project/libext2fs](https://github.com/Free60Project/libext2fs) to [pinwhell/libext2fs](https://github.com/pinwhell/libext2fs)
   > ext2/ext3/ext4 filesystem library for libxenon - based on libogc-library
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vwire/riscv-bare-metal-qemu](https://github.com/vwire/riscv-bare-metal-qemu)
+  > RISC-V bare-metal projects on QEMU virt
+
 ### [smx-smx](https://github.com/smx-smx)
 - 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [Informatic/webos-vncserver](https://github.com/Informatic/webos-vncserver) to [smx-smx/webos-vncserver](https://github.com/smx-smx/webos-vncserver)
   > An extremely hacky VNC server for WebOS - Works by reading directly from the GPU's framebuffer.
@@ -98,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-10-25 18:04:31 UTC*
+*最后更新于 2026-10-25 21:22:57 UTC*
 *历史记录保存在 `archive` 目录中。*
