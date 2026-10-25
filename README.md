@@ -8,6 +8,12 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [cosmoss-jigu/pactight](https://github.com/cosmoss-jigu/pactight)
   > PACTight source code
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide)
+  > Open-source integration of roothide and Dopamine 3.x
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
+  > Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps...
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
   > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
@@ -22,9 +28,17 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zdypro888/icrypto](https://github.com/zdypro888/icrypto)
   > apple iOS system crypto framework
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [oxiKKK/ida-edit-function-prototype](https://github.com/oxiKKK/ida-edit-function-prototype)
+  > IDA 9.X Plugin for a better Edit Function Prototype dialog
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🍴 👤 [SsageParuders](https://github.com/SsageParuders) Forked [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) to [AITokenHub/dujiao-next](https://github.com/AITokenHub/dujiao-next)
   > Dujiao-Next
+
+### [Umiade](https://github.com/Umiade)
+- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
+  > Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [llm-infra-atlas/llm-infra-atlas.github.io](https://github.com/llm-infra-atlas/llm-infra-atlas.github.io) to [crazyguitar/llm-infra-atlas.github.io](https://github.com/crazyguitar/llm-infra-atlas.github.io)
@@ -84,5 +98,5 @@
 
 
 ---
-*最后更新于 2026-10-25 14:45:25 UTC*
+*最后更新于 2026-10-25 18:04:31 UTC*
 *历史记录保存在 `archive` 目录中。*
