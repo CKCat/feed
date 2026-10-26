@@ -36,7 +36,7 @@
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [eyalm2000/loophole](https://github.com/eyalm2000/loophole)
   > DNS-over-HTTPS on Android with Private DNS
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [notdxbi/dxbi-stremio](https://github.com/notdxbi/dxbi-stremio)
-  > dx.bi: a Netflix-style Stremio app for Windows, macOS and Linux. Also available as a Stremio Enhance...
+  > dx.bi: a Netflix-style Stremio app for Windows, macOS, Linux, Android TV, Google TV and Fire TV. Als...
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [zsw125/o3root](https://github.com/zsw125/o3root)
@@ -49,6 +49,10 @@
 ### [Umiade](https://github.com/Umiade)
 - 🌟 👤 [Umiade](https://github.com/Umiade) Starred [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay)
   > Decrypt IPA's on MacOS
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [Victarry/PP-Schedule-Visualization](https://github.com/Victarry/PP-Schedule-Visualization)
+  > Pipeline Parallelism Emulation and Visualization
 
 ### [divyam234](https://github.com/divyam234)
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)
@@ -83,6 +87,10 @@
 - 🍴 👤 [pinwhell](https://github.com/pinwhell) Forked [niizam/serein](https://github.com/niizam/serein) to [pinwhell/serein](https://github.com/pinwhell/serein)
   > ARM64 to x86-64 native bridge for Android 11 emulators, built on AOSP Berberis.
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [theori-io/ghost-compact](https://github.com/theori-io/ghost-compact)
+  > OpenAI compaction research: GhostCompact + Compaction Smuggling
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [mandiant/flare-floss](https://github.com/mandiant/flare-floss)
   > FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
@@ -101,5 +109,5 @@
 
 
 ---
-*最后更新于 2026-10-26 16:26:14 UTC*
+*最后更新于 2026-10-26 21:17:57 UTC*
 *历史记录保存在 `archive` 目录中。*
