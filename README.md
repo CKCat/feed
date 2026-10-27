@@ -8,6 +8,10 @@
 - 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) to [5ec1cff/mpvRx](https://github.com/5ec1cff/mpvRx)
   > The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
 
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python)
+  > WeChatOpenDevTool 微信小程序强制开启开发者工具
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [bytedance/bhook](https://github.com/bytedance/bhook)
   > 通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
@@ -44,6 +48,10 @@
 - 🌟 👤 [aengelke](https://github.com/aengelke) Starred [jmrtsh/doesmynetwork](https://github.com/jmrtsh/doesmynetwork)
   > Yes.
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend)
+  > cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collec...
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [dqzg12300/tanma](https://github.com/dqzg12300/tanma)
   > The open source coding agent.
@@ -55,6 +63,10 @@
   > LXC - Linux Containers
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [linux-msm/qdl](https://github.com/linux-msm/qdl)
   > Command-line tool for flashing firmware on Qualcomm-based devices via USB Emergency Download (EDL) m...
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [chris-ritsen/samsung-tv-root](https://github.com/chris-ritsen/samsung-tv-root) to [oleavr/samsung-tv-root](https://github.com/oleavr/samsung-tv-root)
+  > Samsung Tizen root
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [fsbase/axwio64](https://github.com/fsbase/axwio64)
@@ -82,5 +94,5 @@
 
 
 ---
-*最后更新于 2026-10-27 19:11:17 UTC*
+*最后更新于 2026-10-27 23:26:32 UTC*
 *历史记录保存在 `archive` 目录中。*
