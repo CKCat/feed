@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [Riteshp2001/mpvRx](https://github.com/Riteshp2001/mpvRx) to [5ec1cff/mpvRx](https://github.com/5ec1cff/mpvRx)
+  > The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [bytedance/bhook](https://github.com/bytedance/bhook)
   > 通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
@@ -20,6 +24,10 @@
 - 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Gary2005/cs-net](https://github.com/Gary2005/cs-net)
   > CS-NET is a Transformer-based deep learning framework for analyzing Counter-Strike 2 match replays (...
 
+### [RicterZ](https://github.com/RicterZ)
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [Ottermandias/Glamourer](https://github.com/Ottermandias/Glamourer)
+  > Change outside appearance of actors using Penumbra.
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
   > Ablation is an AI-assisted reverse engineering (AIARE) framework
@@ -31,6 +39,10 @@
   > Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack...
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)
   > Claude Code skills and sub-agents for .NET Developers
+
+### [aengelke](https://github.com/aengelke)
+- 🌟 👤 [aengelke](https://github.com/aengelke) Starred [jmrtsh/doesmynetwork](https://github.com/jmrtsh/doesmynetwork)
+  > Yes.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🍴 👤 [dqzg12300](https://github.com/dqzg12300) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [dqzg12300/tanma](https://github.com/dqzg12300/tanma)
@@ -70,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-10-27 13:54:09 UTC*
+*最后更新于 2026-10-27 19:11:17 UTC*
 *历史记录保存在 `archive` 目录中。*
