@@ -7,6 +7,8 @@
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [c01ns/Il2CppDumper](https://github.com/c01ns/Il2CppDumper)
   > Get types, methods, fields and so on from Unity Il2Cpp binary file
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
+  > Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no...
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [blader/humanizer](https://github.com/blader/humanizer)
@@ -22,13 +24,27 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xenia-canary/xenia-canary](https://github.com/xenia-canary/xenia-canary)
   > Xbox 360 Emulator Research Project 
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)
+  > Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, A...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
+  > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
+  > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
+
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [ConstexprCore/perfect_hash](https://github.com/ConstexprCore/perfect_hash)
   > A compile-time perfect hash implementation
 - 🍴 👤 [p-ranav](https://github.com/p-ranav) Forked [ConstexprCore/perfect_hash](https://github.com/ConstexprCore/perfect_hash) to [p-ranav/perfect_hash](https://github.com/p-ranav/perfect_hash)
   > A compile-time perfect hash implementation
 
+### [sunwm518](https://github.com/sunwm518)
+- 🌟 👤 [sunwm518](https://github.com/sunwm518) Starred [JacksonOnly/EazUnpacker](https://github.com/JacksonOnly/EazUnpacker)
+  > Eazfuscator.NET unpacker and deobfuscator with C# source recovery.
+
 
 ---
-*最后更新于 2026-10-28 03:49:40 UTC*
+*最后更新于 2026-10-28 10:17:41 UTC*
 *历史记录保存在 `archive` 目录中。*
