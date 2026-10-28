@@ -24,19 +24,19 @@
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [blader/humanizer](https://github.com/blader/humanizer)
   > Agent skill that removes signs of AI-generated writing from text
 
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🍴 👤 [KyuubiRan](https://github.com/KyuubiRan) Forked [tailscale/tailscale](https://github.com/tailscale/tailscale) to [KyuubiRan/tailscale-android-cli](https://github.com/KyuubiRan/tailscale-android-cli)
-  > The easiest, most secure way to use WireGuard and 2FA.
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyuubiRan/Shellscaled](https://github.com/KyuubiRan/Shellscaled)
-  > Tailscale for rooted Android with Magisk and KernelSU
-
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [xenia-canary/xenia-canary](https://github.com/xenia-canary/xenia-canary)
   > Xbox 360 Emulator Research Project 
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [AmitRajput-Dev/SonyBridge](https://github.com/AmitRajput-Dev/SonyBridge)
+  > 🎧 Control your Sony headphones — Noise Cancelling, Ambient Sound, EQ, DSEE & battery — from macOS, W...
+
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)
   > Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, A...
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and ...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/math](https://github.com/openai/math)
@@ -55,13 +55,12 @@
 - 🌟 👤 [phodal](https://github.com/phodal) Starred [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
   > Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP serv...
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Weverses/OPAirDrop](https://github.com/Weverses/OPAirDrop)
+
 ### [sunwm518](https://github.com/sunwm518)
 - 🌟 👤 [sunwm518](https://github.com/sunwm518) Starred [JacksonOnly/EazUnpacker](https://github.com/JacksonOnly/EazUnpacker)
   > Eazfuscator.NET unpacker and deobfuscator with C# source recovery.
-
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
-  > Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 
 ### [yuchuangu85](https://github.com/yuchuangu85)
 - 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
@@ -69,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-10-28 16:57:04 UTC*
+*最后更新于 2026-10-28 21:30:52 UTC*
 *历史记录保存在 `archive` 目录中。*
