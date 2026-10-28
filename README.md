@@ -4,11 +4,21 @@
 
 ## 今日动态
 
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [MmelodYy/UniStitch](https://github.com/MmelodYy/UniStitch)
+  > ECCV2026-UniStitch: Unifying Semantic and Geometric Features for Image Stitching
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [araujoalexandre/FocusStackingDataset](https://github.com/araujoalexandre/FocusStackingDataset)
+
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [HexHive/beanpod_fiasco](https://github.com/HexHive/beanpod_fiasco)
+
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [c01ns/Il2CppDumper](https://github.com/c01ns/Il2CppDumper)
   > Get types, methods, fields and so on from Unity Il2Cpp binary file
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
   > Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [vivaui/viva](https://github.com/vivaui/viva)
+  > A Go-first, GPU-native desktop framework. No WebView, no bundled runtime.
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [blader/humanizer](https://github.com/blader/humanizer)
@@ -28,11 +38,12 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)
   > Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, A...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [openai/math](https://github.com/openai/math)
+
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
-  > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
-  > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
+  > A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gate...
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [ConstexprCore/perfect_hash](https://github.com/ConstexprCore/perfect_hash)
@@ -40,11 +51,23 @@
 - 🍴 👤 [p-ranav](https://github.com/p-ranav) Forked [ConstexprCore/perfect_hash](https://github.com/ConstexprCore/perfect_hash) to [p-ranav/perfect_hash](https://github.com/p-ranav/perfect_hash)
   > A compile-time perfect hash implementation
 
+### [phodal](https://github.com/phodal)
+- 🌟 👤 [phodal](https://github.com/phodal) Starred [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
+  > Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP serv...
+
 ### [sunwm518](https://github.com/sunwm518)
 - 🌟 👤 [sunwm518](https://github.com/sunwm518) Starred [JacksonOnly/EazUnpacker](https://github.com/JacksonOnly/EazUnpacker)
   > Eazfuscator.NET unpacker and deobfuscator with C# source recovery.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
+  > Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+  > SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom...
+
 
 ---
-*最后更新于 2026-10-28 10:17:41 UTC*
+*最后更新于 2026-10-28 16:57:04 UTC*
 *历史记录保存在 `archive` 目录中。*
