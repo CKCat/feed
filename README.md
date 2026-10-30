@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [gitranks/gitranks-ui](https://github.com/gitranks/gitranks-ui)
+  > GitHub rankings, analytics and README badges for developers, repositories and organizations.
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [YeFeng233/HyperPods-X](https://github.com/YeFeng233/HyperPods-X)
   > AirPods integration for HyperOS with native popups, device controls and real head-tracked spatial au...
@@ -33,12 +37,6 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyuubiRan/tailscale-android-cli](https://github.com/KyuubiRan/tailscale-android-cli)
   > Tailscale CLI for rooted Android, used by Shellscaled
 
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
-  > Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized leve...
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yairm210/Unciv](https://github.com/yairm210/Unciv)
-  > Open-source Android/Desktop remake of Civ V
-
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [YOURSJEYO/claude-switcher](https://github.com/YOURSJEYO/claude-switcher)
   > Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— ...
@@ -48,6 +46,10 @@
   > Hydra Download Manager
 - 🌟 👤 [divyam234](https://github.com/divyam234) Starred [gpu-mode/lectures](https://github.com/gpu-mode/lectures)
   > Material for gpu-mode lectures
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
+  > Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actual...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
@@ -65,16 +67,6 @@
 - 🍴 👤 [konata](https://github.com/konata) Forked [michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken) to [konata/otheractivitytoken](https://github.com/konata/otheractivitytoken)
   > Exploit for CVE-2025-0098, Activity token leak due to pid-only check and then use of that token for ...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
-  > Abliteration without the weights — projective refusal steering as a GLP vector + fail-closed boot ho...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
-  > Just another story about dragons...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ducvd89/Bloodborne-Android](https://github.com/ducvd89/Bloodborne-Android)
-  > Bloodborne for Android: GSR2/FSR 3.1 + LSFG, on-screen controller. Tested on Snapdragon 8 Gen 2 and ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [primo-solver/primo](https://github.com/primo-solver/primo)
-  > Primo: a paper-grounded SMT solver built from first principles.
-
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [TheCruZ/EFI_Driver_Access](https://github.com/TheCruZ/EFI_Driver_Access)
   > Efi Driver Access is a simply project to load a driver during system boot with the idea to give the ...
@@ -91,5 +83,5 @@
 
 
 ---
-*最后更新于 2026-10-30 18:57:26 UTC*
+*最后更新于 2026-10-30 22:49:45 UTC*
 *历史记录保存在 `archive` 目录中。*
