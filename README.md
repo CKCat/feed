@@ -26,6 +26,12 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken)
   > Exploit for CVE-2025-0098, Activity token leak due to pid-only check and then use of that token for ...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [joostw/shall](https://github.com/joostw/shall)
+  > A reference implementation of POSIX.1-2024
+- 🍴 👤 [eteran](https://github.com/eteran) Forked [joostw/shall](https://github.com/joostw/shall) to [eteran/shall](https://github.com/eteran/shall)
+  > A reference implementation of POSIX.1-2024
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU)
   > Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
@@ -35,6 +41,10 @@
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [VibRev/idax](https://github.com/VibRev/idax)
   > IDA Pro 9.4 for agents: a persistent headless session scripted in native IDAPython, as a CLI and a c...
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release) to [attsec/dexsql](https://github.com/attsec/dexsql)
+  > SQL for Android apk and dex files
+- 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) to [fuqiuluo/openidea](https://github.com/fuqiuluo/openidea)
+  > The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in...
 
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [ganyao114/xelite-el2-linux](https://github.com/ganyao114/xelite-el2-linux)
@@ -76,11 +86,17 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
   > Towards a More Autonomous Agent System
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+  > Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)
+  > VERY experimental Nintendo Switch 2 emulator
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU)
   > Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
 
 
 ---
-*最后更新于 2026-10-31 19:10:49 UTC*
+*最后更新于 2026-10-31 23:01:03 UTC*
 *历史记录保存在 `archive` 目录中。*
