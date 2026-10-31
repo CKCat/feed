@@ -4,9 +4,11 @@
 
 ## 今日动态
 
-### [JingMatrix](https://github.com/JingMatrix)
-- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-  > TradingAgents: Multi-Agents LLM Financial Trading Framework
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  > 12 Weeks, 24 Lessons, AI for All!
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [W0rthlessS0ul/nRF24_jammer](https://github.com/W0rthlessS0ul/nRF24_jammer)
+  > The nRF24 jammer is a powerful tool that requires an ESP32 and configurable numbers of NRF24 modules...
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ryuu-restart/agent-route](https://github.com/ryuu-restart/agent-route)
@@ -15,6 +17,10 @@
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [2swap/swaptube](https://github.com/2swap/swaptube)
   > youtube video renderer
+
+### [colby57](https://github.com/colby57)
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [tokio-rs/loom](https://github.com/tokio-rs/loom)
+  > Concurrency permutation testing tool for Rust.
 
 ### [cxxsheng](https://github.com/cxxsheng)
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken)
@@ -25,6 +31,10 @@
   > Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction...
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [VibRev/idax](https://github.com/VibRev/idax)
+  > IDA Pro 9.4 for agents: a persistent headless session scripted in native IDAPython, as a CLI and a c...
 
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [ganyao114/xelite-el2-linux](https://github.com/ganyao114/xelite-el2-linux)
@@ -37,6 +47,8 @@
   > Architecture-first Codex skill for open-model behavioral interventions on dual DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Aevonix/FlashAlign](https://github.com/Aevonix/FlashAlign)
   > ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Alway...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coleleavitt/ida-mcp-server](https://github.com/coleleavitt/ida-mcp-server)
+  > IDA Pro MCP Server Plugin — 170+ tools for IDA Pro 9.33 with Hex-Rays decompiler integration
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [omjadas/hudsucker](https://github.com/omjadas/hudsucker)
@@ -70,5 +82,5 @@
 
 
 ---
-*最后更新于 2026-10-31 14:58:43 UTC*
+*最后更新于 2026-10-31 19:10:49 UTC*
 *历史记录保存在 `archive` 目录中。*
