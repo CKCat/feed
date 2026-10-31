@@ -4,9 +4,25 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🍴 👤 [5ec1cff](https://github.com/5ec1cff) Forked [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) to [5ec1cff/AirPodsDesktop](https://github.com/5ec1cff/AirPodsDesktop)
+  > ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
+
+### [JingMatrix](https://github.com/JingMatrix)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+  > TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [2swap/swaptube](https://github.com/2swap/swaptube)
+  > youtube video renderer
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken)
+  > Exploit for CVE-2025-0098, Activity token leak due to pid-only check and then use of that token for ...
+
 ### [evilbinary](https://github.com/evilbinary)
-- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [Maelic/RelateAnything](https://github.com/Maelic/RelateAnything)
-  > RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs 
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU)
+  > Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
@@ -20,5 +36,5 @@
 
 
 ---
-*最后更新于 2026-10-31 01:57:55 UTC*
+*最后更新于 2026-10-31 08:09:29 UTC*
 *历史记录保存在 `archive` 目录中。*
