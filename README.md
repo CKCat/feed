@@ -13,9 +13,15 @@
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [halloweeks/ifs-unpacker](https://github.com/halloweeks/ifs-unpacker)
   > This tool extract tencent games .ifs file archive (nifs)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [PenguinAndy/il2Fusion](https://github.com/PenguinAndy/il2Fusion)
+  > A Unity and Cocos2d-x Lua game reverse engineering toolkit for Android, built on LSPosed, JNI, and n...
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [isec-tugraz/file-notification-attacks](https://github.com/isec-tugraz/file-notification-attacks)
+
+### [KaisenAmin](https://github.com/KaisenAmin)
+- 🌟 👤 [KaisenAmin](https://github.com/KaisenAmin) Starred [oscar-soirey/Raven](https://github.com/oscar-soirey/Raven)
+  > A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Python, Z...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [xpenatan/gdx-teavm](https://github.com/xpenatan/gdx-teavm) to [Mufanc/gdx-teavm](https://github.com/Mufanc/gdx-teavm)
@@ -31,11 +37,18 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [yjid/kensaku](https://github.com/yjid/kensaku)
   > Search inside documents, code, and even screenshots - instantly and locally. A free, open-source fil...
 
-### [mytechnotalent](https://github.com/mytechnotalent)
-- 🍴 👤 [mytechnotalent](https://github.com/mytechnotalent) Forked [crackmesone/crackmesone_python](https://github.com/crackmesone/crackmesone_python) to [mytechnotalent/crackmesone_python](https://github.com/mytechnotalent/crackmesone_python)
-  > source code for crackmes.one
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ssmall256/mlx-audio-separator](https://github.com/ssmall256/mlx-audio-separator)
+  > MLX-native audio stem separation for Apple Silicon (Demucs, MDX, MDXC, VR, Roformer).
+
+### [pgarba](https://github.com/pgarba)
+- 🌟 👤 [pgarba](https://github.com/pgarba) Starred [acceleration3/linux-subsystem-windows](https://github.com/acceleration3/linux-subsystem-windows)
+
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+  > Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app...
 
 
 ---
-*最后更新于 2026-11-01 17:35:14 UTC*
+*最后更新于 2026-11-01 21:38:46 UTC*
 *历史记录保存在 `archive` 目录中。*
