@@ -61,6 +61,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
   > 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+  > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/HyperHDRFix](https://github.com/wxxsfxyzm/HyperHDRFix)
@@ -77,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-11-03 17:29:28 UTC*
+*最后更新于 2026-11-03 22:50:48 UTC*
 *历史记录保存在 `archive` 目录中。*
