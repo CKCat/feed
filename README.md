@@ -4,13 +4,19 @@
 
 ## 今日动态
 
-### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [YyAdnBug/kitty-tools](https://github.com/YyAdnBug/kitty-tools)
-  > 纯原生 macOS 菜单栏效率工具：剪贴板历史、翻译（划词 / 截图翻译 / 大模型流式）、启动器、截图标注与长截图。Swift 6 + SwiftUI / AppKit，零第三方依赖，Apple 芯...
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [tomoki1207/vscode-pdfviewer](https://github.com/tomoki1207/vscode-pdfviewer)
+  > Show PDF preview in VSCode.
+- 🍴 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Forked [tomoki1207/vscode-pdfviewer](https://github.com/tomoki1207/vscode-pdfviewer) to [J-jaeyoung/vscode-pdfviewer](https://github.com/J-jaeyoung/vscode-pdfviewer)
+  > Show PDF preview in VSCode.
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
   > Craft Anything: understand how any software works, and craft your own.
+
+### [MouriNaruto](https://github.com/MouriNaruto)
+- 🌟 👤 [MouriNaruto](https://github.com/MouriNaruto) Starred [dbalsom/martypc](https://github.com/dbalsom/martypc)
+  > A cycle-accurate IBM PC/XT/Jr/Tandy emulator
 
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [sola1039/HAST-SEC](https://github.com/sola1039/HAST-SEC) to [RicterZ/HAST-SEC](https://github.com/RicterZ/HAST-SEC)
@@ -21,6 +27,10 @@
   > Standalone FDM slicer CLI (AGPLv3, derived from BambuStudio)
 - 🌟 👤 [archibate](https://github.com/archibate) Starred [Helio-Additive/slicer-cli](https://github.com/Helio-Additive/slicer-cli)
   > Standalone FDM slicer CLI (AGPLv3, derived from BambuStudio)
+
+### [arizvisa](https://github.com/arizvisa)
+- 🚀 👤 [arizvisa](https://github.com/arizvisa) Made [arizvisa/claude.hackerschoice-gsocket.windows](https://github.com/arizvisa/claude.hackerschoice-gsocket.windows) public
+  > gsocket, vibed for windows as a single-executable, easy to deploy tool, with filetransfer capabiliti...
 
 ### [crazyguitar](https://github.com/crazyguitar)
 - 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [StargazerX0/SpecPilot](https://github.com/StargazerX0/SpecPilot)
@@ -38,13 +48,27 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion)
   > iOS customization toolbox using the bad_query sandbox escape. Supports iOS 26.0 - 26.6.2 & iOS 27.0d...
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [cyenite/annex](https://github.com/cyenite/annex)
+  > Fast Android instances for Linux developers. An instance boots in about 20 seconds, freezes and thaw...
+
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [newaetech/chipshouter-picoemp](https://github.com/newaetech/chipshouter-picoemp)
+  > Why not run micropython on your EMFI tool?
+
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [Bouteillepleine/DuckUSB](https://github.com/Bouteillepleine/DuckUSB)
   > LSPosed / Zygisk: USB debugging / Developer as OFF while they ON.
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide)
   > Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [fyrlove/r0re](https://github.com/fyrlove/r0re)
+  > 自动化逆向分析工具
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher)
+  > Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux...
 
 
 ---
-*最后更新于 2026-11-04 10:23:21 UTC*
+*最后更新于 2026-11-04 18:24:06 UTC*
 *历史记录保存在 `archive` 目录中。*
