@@ -4,11 +4,53 @@
 
 ## 今日动态
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [zzz-sleep0/VDRM](https://github.com/zzz-sleep0/VDRM)
+  > 不干掉安卓合成器拥有接近主线的wayland合成器使用体验
+
 ### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [wangzan101/Mika](https://github.com/wangzan101/Mika)
-  > An on-device AI agent for Android that operates apps and the web to get things done for you.
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [longbridge/nsh](https://github.com/longbridge/nsh)
+  > Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in ...
+
+### [J-jaeyoung](https://github.com/J-jaeyoung)
+- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [PaDEx-Repo/PaDEx](https://github.com/PaDEx-Repo/PaDEx)
+  > PaDEx: Addressing Mobile GPU MMIO Risks via Prohibition and Delayed Execution (CCS '26)
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [AndroidReverser-Test/KCLF](https://github.com/AndroidReverser-Test/KCLF)
+  > 适用于安卓平台的内核级无痕注入框架
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260)
+  > CVE-2026-98260 (Timer) Android/ARM64 port
+
+### [PlaneJun](https://github.com/PlaneJun)
+- 🌟 👤 [PlaneJun](https://github.com/PlaneJun) Starred [Laster-dev/MemLLVM](https://github.com/Laster-dev/MemLLVM)
+  > An unrestricted shellcode compiler for c/c++ based on llvm
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+  > Computer use CLI for AI agents
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nornzach/oh-my-pi-gui](https://github.com/nornzach/oh-my-pi-gui)
+  > Desktop GUI for the omp coding agent: parallel sessions, visual tool calls, model/provider managemen...
+
+### [evilbinary](https://github.com/evilbinary)
+- 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/maccompat](https://github.com/evilbinary/maccompat)
+  > osx 10.15.7 lib maccompat
+
+### [mito753](https://github.com/mito753)
+- 🌟 👤 [mito753](https://github.com/mito753) Starred [mwlik/v8-resources](https://github.com/mwlik/v8-resources)
+  > A bunch of V8 resources (with a security focus)
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Gabriel2392/SVE-2026-3546](https://github.com/Gabriel2392/SVE-2026-3546)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)
+  > 基于内核漏洞CVE-2026-43499的本地提权适配，集成嵌入式 KernelSU.CVE-2026-43499+KernelSU越狱模式 
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)
+  > The official repository of Mozilla's Firefox web browser.
 
 
 ---
-*最后更新于 2026-11-06 03:05:02 UTC*
+*最后更新于 2026-11-06 11:45:35 UTC*
 *历史记录保存在 `archive` 目录中。*
