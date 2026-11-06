@@ -8,10 +8,6 @@
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [zzz-sleep0/VDRM](https://github.com/zzz-sleep0/VDRM)
   > 不干掉安卓合成器拥有接近主线的wayland合成器使用体验
 
-### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [b00t0x/WhateverXe](https://github.com/b00t0x/WhateverXe)
-  > Various patches necessary for certain Intel Xe iGPUs
-
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [PaDEx-Repo/PaDEx](https://github.com/PaDEx-Repo/PaDEx)
   > PaDEx: Addressing Mobile GPU MMIO Risks via Prohibition and Delayed Execution (CCS '26)
@@ -32,10 +28,16 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nornzach/oh-my-pi-gui](https://github.com/nornzach/oh-my-pi-gui)
   > Desktop GUI for the omp coding agent: parallel sessions, visual tool calls, model/provider managemen...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
+  > A small, fast container runtime for macOS, Windows and Linux
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [clearseclabs/ritsec-building-agentic-re-skills-workshop-2026](https://github.com/clearseclabs/ritsec-building-agentic-re-skills-workshop-2026)
   > Student materials for the RITSEC 2026 Building Agentic Reverse Engineering Skills workshop
+
+### [divyam234](https://github.com/divyam234)
+- 🌟 👤 [divyam234](https://github.com/divyam234) Starred [LuCiLuna/oneplus9pro-arch](https://github.com/LuCiLuna/oneplus9pro-arch)
+  > Native Arch Linux ARM on the OnePlus 9 Pro with a mainline 7.3 kernel and Phosh
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/maccompat](https://github.com/evilbinary/maccompat)
@@ -68,5 +70,5 @@
 
 
 ---
-*最后更新于 2026-11-06 18:50:01 UTC*
+*最后更新于 2026-11-06 23:37:28 UTC*
 *历史记录保存在 `archive` 目录中。*
