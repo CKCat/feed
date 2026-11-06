@@ -9,8 +9,8 @@
   > 不干掉安卓合成器拥有接近主线的wayland合成器使用体验
 
 ### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [longbridge/nsh](https://github.com/longbridge/nsh)
-  > Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in ...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [b00t0x/WhateverXe](https://github.com/b00t0x/WhateverXe)
+  > Various patches necessary for certain Intel Xe iGPUs
 
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [PaDEx-Repo/PaDEx](https://github.com/PaDEx-Repo/PaDEx)
@@ -33,6 +33,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [nornzach/oh-my-pi-gui](https://github.com/nornzach/oh-my-pi-gui)
   > Desktop GUI for the omp coding agent: parallel sessions, visual tool calls, model/provider managemen...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [clearseclabs/ritsec-building-agentic-re-skills-workshop-2026](https://github.com/clearseclabs/ritsec-building-agentic-re-skills-workshop-2026)
+  > Student materials for the RITSEC 2026 Building Agentic Reverse Engineering Skills workshop
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [evilbinary/maccompat](https://github.com/evilbinary/maccompat)
   > osx 10.15.7 lib maccompat
@@ -41,10 +45,22 @@
 - 🌟 👤 [mito753](https://github.com/mito753) Starred [mwlik/v8-resources](https://github.com/mwlik/v8-resources)
   > A bunch of V8 resources (with a security focus)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
+  > VERY experimental Nintendo Switch 2 emulator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks)
+  > Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community repo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JonathanDC64/Soulbrandt](https://github.com/JonathanDC64/Soulbrandt)
+  > Soulbrandt: Demon's Souls, running natively on PC
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Gabriel2392/SVE-2026-3546](https://github.com/Gabriel2392/SVE-2026-3546)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)
   > 基于内核漏洞CVE-2026-43499的本地提权适配，集成嵌入式 KernelSU.CVE-2026-43499+KernelSU越狱模式 
+
+### [therealdreg](https://github.com/therealdreg)
+- 🌟 👤 [therealdreg](https://github.com/therealdreg) Starred [antoniovazquezblanco/Comrade](https://github.com/antoniovazquezblanco/Comrade)
+  > A windows UI tool to interact with serial ports
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)
@@ -52,5 +68,5 @@
 
 
 ---
-*最后更新于 2026-11-06 11:45:35 UTC*
+*最后更新于 2026-11-06 18:50:01 UTC*
 *历史记录保存在 `archive` 目录中。*
