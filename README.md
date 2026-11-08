@@ -15,6 +15,10 @@
 ### [Haleclipse](https://github.com/Haleclipse)
 - 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
   > A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [DreamFekk/Andriod_UnrealMemoryTools_Mcp](https://github.com/DreamFekk/Andriod_UnrealMemoryTools_Mcp)
+  > Android Unreal Engine memory tools with native and Web UI, MCP integration, and automatic IDA connec...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [moonbai-studio/tungsten-edge](https://github.com/moonbai-studio/tungsten-edge)
+  > A per-window taskbar for macOS — a Dock replacement that organizes by window, not app.
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
@@ -34,6 +38,22 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/agentic-rl-lab](https://github.com/datawhalechina/agentic-rl-lab)
   > Reproducing and studying RL algorithms for LLM agents, including GRPO, GSPO, DAPO, OPD, Search-R1, R...
 
+### [Panchajanya1999](https://github.com/Panchajanya1999)
+- 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [usnistgov/ACVP](https://github.com/usnistgov/ACVP)
+  > Industry Working Group on Automated Cryptographic Algorithm Validation
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [5E7EN/Kyopwna](https://github.com/5E7EN/Kyopwna)
+  > Unlocking and rooting any MSM8909/Snapdragon 210
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [shanselman/gputaskman](https://github.com/shanselman/gputaskman)
+  > A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cac...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [34306/doublera1n](https://github.com/34306/doublera1n)
+  > create a secondary jailbroken iOS on iPhone 11 series devices using usbliter8.
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
   > An OOB interaction gathering server and client library
@@ -49,6 +69,9 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
   > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [meta/astryx](https://github.com/meta/astryx)
+  > An open source design system that's fully customizable and agent ready
 
 ### [sunwm518](https://github.com/sunwm518)
 - 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [liyupi/ai-guide](https://github.com/liyupi/ai-guide) to [sunwm518/ai-guide](https://github.com/sunwm518/ai-guide)
@@ -56,5 +79,5 @@
 
 
 ---
-*最后更新于 2026-11-08 15:44:51 UTC*
+*最后更新于 2026-11-08 20:07:28 UTC*
 *历史记录保存在 `archive` 目录中。*
