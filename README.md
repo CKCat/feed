@@ -25,6 +25,8 @@
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage)
   > Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [RockxyApp/Tracexy](https://github.com/RockxyApp/Tracexy)
+  > Native, local-first network intelligence for macOS—capture live traffic, inspect PCAP/PCAPNG files, ...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [recursive-ai-oss/onepdf-csharp](https://github.com/recursive-ai-oss/onepdf-csharp)
@@ -72,5 +74,5 @@
 
 
 ---
-*最后更新于 2026-11-10 17:26:49 UTC*
+*最后更新于 2026-11-10 22:46:37 UTC*
 *历史记录保存在 `archive` 目录中。*
