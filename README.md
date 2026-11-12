@@ -7,6 +7,8 @@
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [suwasto/MobARK](https://github.com/suwasto/MobARK)
   > MobARK is a security research platform for Android and iOS apps. Use it for security review, pentest...
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [PhonePe/thorfinn](https://github.com/PhonePe/thorfinn)
+  > Automated DAST for Android Apps
 
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [dingwen07/hyperos-fcm-fix](https://github.com/dingwen07/hyperos-fcm-fix)
@@ -28,22 +30,23 @@
 ### [T5ive](https://github.com/T5ive)
 - 🍴 👤 [T5ive](https://github.com/T5ive) Forked [nornzach/oh-my-pi-gui](https://github.com/nornzach/oh-my-pi-gui) to [T5ive/oh-my-pi-gui](https://github.com/T5ive/oh-my-pi-gui)
   > Desktop GUI for the omp coding agent: parallel sessions, visual tool calls, model/provider managemen...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
+  > AWS Emulator is a local emulator of the AWS APIs.
+
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [sgl-project/sgl-learning-materials](https://github.com/sgl-project/sgl-learning-materials)
+  > Materials for learning SGLang
+- 🍴 👤 [crazyguitar](https://github.com/crazyguitar) Forked [sgl-project/sgl-learning-materials](https://github.com/sgl-project/sgl-learning-materials) to [crazyguitar/sgl-learning-materials](https://github.com/crazyguitar/sgl-learning-materials)
+  > Materials for learning SGLang
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [NuoRan/GameScrcpy](https://github.com/NuoRan/GameScrcpy)
   > 在 Windows 上用键盘、鼠标和手柄玩安卓手机游戏：低延迟投屏、键位映射、蓝图与 TypeScript 逻辑。Play Android games on Windows with a keyboa...
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [enenH/gpu-check](https://github.com/enenH/gpu-check)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🍴 👤 [hackcatml](https://github.com/hackcatml) Forked [roapi/roapi](https://github.com/roapi/roapi) to [hackcatml/roapi](https://github.com/hackcatml/roapi)
   > Create full-fledged APIs for slowly moving datasets without writing a single line of code.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
-  > A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
-  > Hundreds of models & providers. One command to find what runs on your hardware.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Picom-code/pico-dgx-ds4](https://github.com/Picom-code/pico-dgx-ds4)
-  > DeepSeek V4.1 Flash on 4x DGX Spark: 438 tok/s at 16 users, ~80/138 single-user, 1M context. Fork of...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [radareorg/radare2](https://github.com/radareorg/radare2)
@@ -61,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-11-12 17:53:15 UTC*
+*最后更新于 2026-11-12 23:09:34 UTC*
 *历史记录保存在 `archive` 目录中。*
