@@ -16,6 +16,10 @@
 - 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [ethereum/EIPs](https://github.com/ethereum/EIPs)
   > The Ethereum Improvement Proposal repository
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [DianKuang0120/Mainline-Kernel-For-OnePlus-Ace5](https://github.com/DianKuang0120/Mainline-Kernel-For-OnePlus-Ace5)
+  > Mainline-Kernel-For-OnePlus-Ace5
+
 ### [Panchajanya1999](https://github.com/Panchajanya1999)
 - 🌟 👤 [Panchajanya1999](https://github.com/Panchajanya1999) Starred [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32)
   > Spam Apple Proximity Messages via an ESP32
@@ -31,6 +35,10 @@
   > An Android app for real-time facial emotion recognition, designed to improve accuracy for Middle Eas...
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
   > 分流规则、重写写规则及脚本。
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
+  > Keep your coding agent up to date with the latest web best practices
 
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [AlexiaQAQ/rk3568b2-board](https://github.com/AlexiaQAQ/rk3568b2-board)
@@ -73,11 +81,11 @@
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [leepokai/Codync](https://github.com/leepokai/Codync)
   > Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex,...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
-  > A small, fast container runtime for macOS, Windows and Linux
+  > A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [cloudflare/kitesurf](https://github.com/cloudflare/kitesurf)
   > Kitesurf is an experimental browser engine that runs on Cloudflare Workers.
 
 
 ---
-*最后更新于 2026-11-14 15:30:33 UTC*
+*最后更新于 2026-11-14 20:21:53 UTC*
 *历史记录保存在 `archive` 目录中。*
