@@ -4,10 +4,6 @@
 
 ## 今日动态
 
-### [5ec1cff](https://github.com/5ec1cff)
-- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [wiresock/proxifyre](https://github.com/wiresock/proxifyre)
-  > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
-
 ### [J-jaeyoung](https://github.com/J-jaeyoung)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [hareh4ru/conference-talks](https://github.com/hareh4ru/conference-talks)
 - 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [kaist-hacking/MTEscape](https://github.com/kaist-hacking/MTEscape)
@@ -27,6 +23,7 @@
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [huiyadanli/BetterGI.UnitTest.Assets](https://github.com/huiyadanli/BetterGI.UnitTest.Assets) to [NyaMisty/BetterGI.UnitTest.Assets](https://github.com/NyaMisty/BetterGI.UnitTest.Assets)
   > BetterGI.UnitTest.Assets
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [babalae/bettergi-libraries](https://github.com/babalae/bettergi-libraries) to [NyaMisty/bettergi-libraries](https://github.com/NyaMisty/bettergi-libraries)
 
 ### [SsageParuders](https://github.com/SsageParuders)
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [pixel-agents-hq/pixel-agents](https://github.com/pixel-agents-hq/pixel-agents)
@@ -44,6 +41,9 @@
 - 🌟 👤 [Umiade](https://github.com/Umiade) Starred [sunnyyoung/untcc](https://github.com/sunnyyoung/untcc)
   > In-memory TCC bypass for macOS.
 
+### [V4bel](https://github.com/V4bel)
+- 🚀 👤 [V4bel](https://github.com/V4bel) Made [V4bel/NoisyTCP](https://github.com/V4bel/NoisyTCP) public
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [trailofbits/deepstate](https://github.com/trailofbits/deepstate)
   > A unit test-like interface for fuzzing and symbolic execution
@@ -52,11 +52,9 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
   > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
 
-### [sunwm518](https://github.com/sunwm518)
-- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [hlorDex/InxDeobfuscator-Devirtualizer](https://github.com/hlorDex/InxDeobfuscator-Devirtualizer) to [sunwm518/InxDeobfuscator-Devirtualizer](https://github.com/sunwm518/InxDeobfuscator-Devirtualizer)
-  > A .NET 9 command-line devirtualizer and deobfuscator built with dnlib for restoring Inx (ConversionB...
-- 🍴 👤 [sunwm518](https://github.com/sunwm518) Forked [ivanpotatoes/KozVM](https://github.com/ivanpotatoes/KozVM) to [sunwm518/KozVM](https://github.com/sunwm518/KozVM)
-  > Open-source x64dbg anti-anti-VM plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No ke...
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea)
+  > Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, gener...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
@@ -66,5 +64,5 @@
 
 
 ---
-*最后更新于 2026-11-15 15:16:06 UTC*
+*最后更新于 2026-11-15 20:46:05 UTC*
 *历史记录保存在 `archive` 目录中。*
