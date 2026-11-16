@@ -1,68 +1,11 @@
-# 每日 GitHub 动态 (2026-11-15)
+# 每日 GitHub 动态 (2026-11-16)
 
 我关注用户的今日公开动态 (每60分钟更新)。
 
 ## 今日动态
 
-### [J-jaeyoung](https://github.com/J-jaeyoung)
-- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [hareh4ru/conference-talks](https://github.com/hareh4ru/conference-talks)
-- 🌟 👤 [J-jaeyoung](https://github.com/J-jaeyoung) Starred [kaist-hacking/MTEscape](https://github.com/kaist-hacking/MTEscape)
-
-### [KuNgia09](https://github.com/KuNgia09)
-- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [SoyBeanMilkx/Poirot](https://github.com/SoyBeanMilkx/Poirot)
-  > detection schemes for publicly disclosed kernel-based stealth hooking techniques.
-- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Hybrid-Mount/meta-hybrid_mount](https://github.com/Hybrid-Mount/meta-hybrid_mount)
-  > Hybrid Mount Metamodule
-- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [Enginex0/zeromount](https://github.com/Enginex0/zeromount)
-  > Mountless module loading for rooted Android. Kernel-level VFS path redirection — zero mount table po...
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)
-  > Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and ...
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [huiyadanli/BetterGI.UnitTest.Assets](https://github.com/huiyadanli/BetterGI.UnitTest.Assets) to [NyaMisty/BetterGI.UnitTest.Assets](https://github.com/NyaMisty/BetterGI.UnitTest.Assets)
-  > BetterGI.UnitTest.Assets
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [babalae/bettergi-libraries](https://github.com/babalae/bettergi-libraries) to [NyaMisty/bettergi-libraries](https://github.com/NyaMisty/bettergi-libraries)
-
-### [SsageParuders](https://github.com/SsageParuders)
-- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [pixel-agents-hq/pixel-agents](https://github.com/pixel-agents-hq/pixel-agents)
-  > Pixel office.
-
-### [T5ive](https://github.com/T5ive)
-- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [meta/astryx](https://github.com/meta/astryx)
-  > An open source design system that's fully customizable and agent ready
-
-### [Umiade](https://github.com/Umiade)
-- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [kyannon/gba-ds](https://github.com/kyannon/gba-ds)
-  > Dual-screen GBA for your Android or Linux emulation handheld.
-- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [rfandango/hakuX](https://github.com/rfandango/hakuX)
-  > xbox emulator for Android
-- 🌟 👤 [Umiade](https://github.com/Umiade) Starred [sunnyyoung/untcc](https://github.com/sunnyyoung/untcc)
-  > In-memory TCC bypass for macOS.
-
-### [V4bel](https://github.com/V4bel)
-- 🚀 👤 [V4bel](https://github.com/V4bel) Made [V4bel/NoisyTCP](https://github.com/V4bel/NoisyTCP) public
-
-### [ergrelet](https://github.com/ergrelet)
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [trailofbits/deepstate](https://github.com/trailofbits/deepstate)
-  > A unit test-like interface for fuzzing and symbolic execution
-
-### [hackcatml](https://github.com/hackcatml)
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
-  > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea)
-  > Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, gener...
-
-### [zu1k](https://github.com/zu1k)
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
-  > A flexible distributed key-value database that is optimized for caching and other realtime workloads...
-- 🍴 👤 [zu1k](https://github.com/zu1k) Forked [libracoder/kiri](https://github.com/libracoder/kiri) to [zu1kbackup/kiri](https://github.com/zu1kbackup/kiri)
-  > A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
-
+你关注的用户今天还没有符合筛选条件的公开动态。
 
 ---
-*最后更新于 2026-11-15 20:46:05 UTC*
+*最后更新于 2026-11-16 00:41:25 UTC*
 *历史记录保存在 `archive` 目录中。*
