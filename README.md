@@ -24,6 +24,14 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zenvyzenshiro/zenlink](https://github.com/zenvyzenshiro/zenlink)
   > ZenLink — Native iPhone, iPad & Android screen mirroring for Windows. 60fps on iPhone/iPad, up to 12...
 
+### [eteran](https://github.com/eteran)
+- 🍴 👤 [eteran](https://github.com/eteran) Forked [WollyMonjac/Tiny-2.1](https://github.com/WollyMonjac/Tiny-2.1) to [eteran/Tiny-2.1](https://github.com/eteran/Tiny-2.1)
+  > Language model for DOS that fits on a floppy disk
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/VulnHunter](https://github.com/fuqiuluo/VulnHunter)
+  > Zero-Hint Defensive Security Audit Benchmark for Vendor-Official CLI Agents (Harbor)
+
 ### [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
 - 🌟 👤 [githubuser0xFFFF](https://github.com/githubuser0xFFFF) Starred [czyt1988/QWT](https://github.com/czyt1988/QWT)
   > Deeply extended from the classic QWT library, Adds CMake support, a Figure window container, multi-a...
@@ -34,12 +42,20 @@
 - 🍴 👤 [lzpong](https://github.com/lzpong) Forked [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer) to [lzpong/voidImageViewer](https://github.com/lzpong/voidImageViewer)
   > Lightweight image viewer for Windows with animated GIF/WEBP support
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tufalabs/tufazip](https://github.com/Tufalabs/tufazip)
+  > We shrink 1 GB of Wikipedia to 105.39 MB, losslessly.
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [kirklin/skyward](https://github.com/kirklin/skyward) to [sekaiacg/skyward](https://github.com/sekaiacg/skyward)
   > An Android recovery written in Rust from scratch: decryption, installs and OTA updates, backup, WLAN...
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [MoeclubM/AntDec-O1](https://github.com/MoeclubM/AntDec-O1)
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [microsoft/compiler-tests](https://github.com/microsoft/compiler-tests)
+  > This repo contains Microsoft compiler-tests to validate Windows platform particulars.
+
 
 ---
-*最后更新于 2026-11-20 17:30:02 UTC*
+*最后更新于 2026-11-20 23:38:17 UTC*
 *历史记录保存在 `archive` 目录中。*
