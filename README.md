@@ -4,10 +4,19 @@
 
 ## 今日动态
 
-### [Haleclipse](https://github.com/Haleclipse)
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [Kfkcome/kite](https://github.com/Kfkcome/kite)
+### [ChiChou](https://github.com/ChiChou)
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [clice-io/clice](https://github.com/clice-io/clice)
+  > A C/C++, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C++20...
+
+### [RicterZ](https://github.com/RicterZ)
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) to [RicterZ/dsh-multica-runtime](https://github.com/RicterZ/dsh-multica-runtime)
+  > Support dsh runtime on Multica.
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [kirklin/skyward](https://github.com/kirklin/skyward) to [sekaiacg/skyward](https://github.com/sekaiacg/skyward)
+  > An Android recovery written in Rust from scratch: decryption, installs and OTA updates, backup, WLAN...
 
 
 ---
-*最后更新于 2026-11-20 01:00:05 UTC*
+*最后更新于 2026-11-20 08:21:09 UTC*
 *历史记录保存在 `archive` 目录中。*
