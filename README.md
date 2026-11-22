@@ -4,9 +4,36 @@
 
 ## 今日动态
 
-### [Dere3046](https://github.com/Dere3046)
-- 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [zealler9560/GoogleRegionSpoof](https://github.com/zealler9560/GoogleRegionSpoof) to [Dere3046/GoogleRegionSpoof](https://github.com/Dere3046/GoogleRegionSpoof)
-  > LSPosed 模块：为谷歌应用伪装区域信号（SIM/网络国家、运营商、语言、时区，可选 GPS）
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config)
+  > Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits
+
+### [Haleclipse](https://github.com/Haleclipse)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [MMFoundation/OhMyShot](https://github.com/MMFoundation/OhMyShot)
+  > A native macOS capture tool: screenshots, recordings, annotation, pins and on-device OCR, built to c...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
+  > 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [meszmate/zigzag](https://github.com/meszmate/zigzag)
+  > A Terminal UI framework for Zig
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [simpsoka/zigzag](https://github.com/simpsoka/zigzag)
+  > Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery,...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology)
+  > Declarative dragging for SVG on the web
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [nhnifong/cranebot3-firmware](https://github.com/nhnifong/cranebot3-firmware)
+  > Code for a household crane robot
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)
+  > Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, W...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [xevrion/hatchzip](https://github.com/xevrion/hatchzip)
+  > HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [dsmurrell/onkey](https://github.com/dsmurrell/onkey)
+  > Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the mu...
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [tobi/walgit](https://github.com/tobi/walgit)
+- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [dream-num/univer](https://github.com/dream-num/univer)
+  > Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file...
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [VibRev/idax](https://github.com/VibRev/idax)
+  > IDA Pro for agents: a persistent headless session scripted in native IDAPython, as a CLI and a code-...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp)
@@ -28,11 +55,19 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [LightSnow-x/arm64-virtual-page-breakpoint](https://github.com/LightSnow-x/arm64-virtual-page-breakpoint)
   > ARM64 用户态虚拟页断点，基于 Linux uprobes 和 BRK。
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [antiyro/ukeystore](https://github.com/antiyro/ukeystore)
+  > Native Android attestation implementation built into Keystore2 using Rust and C++. No Magisk, no run...
+
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher)
+  > Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [daeuniverse/honk](https://github.com/daeuniverse/honk)
   > Inspired by dae & sing-box
 
 
 ---
-*最后更新于 2026-11-22 07:43:46 UTC*
+*最后更新于 2026-11-22 15:53:17 UTC*
 *历史记录保存在 `archive` 目录中。*
