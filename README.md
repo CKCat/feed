@@ -14,9 +14,9 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)
   > Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio...
 
-### [crazyguitar](https://github.com/crazyguitar)
-- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [radixark/miles-ext-kernels](https://github.com/radixark/miles-ext-kernels)
-  > External kernels for miles
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering)
+  > Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorer...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
@@ -25,30 +25,40 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [GoogleCloudPlatform/cluster-autoscaler](https://github.com/GoogleCloudPlatform/cluster-autoscaler)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [sp00nznet/redalert2-recomp](https://github.com/sp00nznet/redalert2-recomp)
+  > Static recompilation of Command & Conquer: Red Alert 2 / Yuri's Revenge (Westwood, 2000-01) to nativ...
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Athar-HQ/Athar](https://github.com/Athar-HQ/Athar)
+
+### [githubuser0xFFFF](https://github.com/githubuser0xFFFF)
+- 🌟 👤 [githubuser0xFFFF](https://github.com/githubuser0xFFFF) Starred [RinLit-233-shiroko/Rin-UI](https://github.com/RinLit-233-shiroko/Rin-UI)
+  > An open-source Fluent-style UI library, built with PySide and Qt Quick
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [XtrComSu/xt-forge](https://github.com/XtrComSu/xt-forge)
-  > Local agent workbench in Rust, Go, and Python for call-graph context, AST correctness auditing, bina...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mkultraware/accuretta](https://github.com/mkultraware/accuretta)
-  > A sovereign, zero-trust local AI agent and micro-IDE.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sous-labs/songe](https://github.com/sous-labs/songe)
-  > A training engine for your local model, using your idle compute
-
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI)
   > Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Lua,...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)
+  > Open-source, self-hosted Slack alternative where your team and AI agents work together in channels a...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+  > The best way to control Claude Code, Codex and more from any computer or phone
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)
+  > UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare the...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+  > Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige...
+
 ### [sekaiacg](https://github.com/sekaiacg)
-- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/GalaxyBudsPort](https://github.com/wxxsfxyzm/GalaxyBudsPort)
-  > Enhance Galaxy Buds experience on HyperOS 4
-- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [wxxsfxyzm/GalaxyBudsPort](https://github.com/wxxsfxyzm/GalaxyBudsPort) to [sekaiacg/GalaxyBudsPort](https://github.com/sekaiacg/GalaxyBudsPort)
-  > Enhance Galaxy Buds experience on HyperOS 4
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/CodecInjector](https://github.com/wxxsfxyzm/CodecInjector)
+  > Enhance Galaxy Buds & AirPods experience on HyperOS 4
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [wxxsfxyzm/CodecInjector](https://github.com/wxxsfxyzm/CodecInjector) to [sekaiacg/CodecInjector](https://github.com/sekaiacg/CodecInjector)
+  > Enhance Galaxy Buds & AirPods experience on HyperOS 4
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
@@ -113,5 +123,5 @@
 
 
 ---
-*最后更新于 2026-11-25 13:51:18 UTC*
+*最后更新于 2026-11-25 22:55:24 UTC*
 *历史记录保存在 `archive` 目录中。*
