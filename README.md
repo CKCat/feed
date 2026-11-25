@@ -14,17 +14,45 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)
   > Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio...
 
+### [crazyguitar](https://github.com/crazyguitar)
+- 🌟 👤 [crazyguitar](https://github.com/crazyguitar) Starred [radixark/miles-ext-kernels](https://github.com/radixark/miles-ext-kernels)
+  > External kernels for miles
+
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
   > LIST OF ALL MY JAILBREAKS
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [GoogleCloudPlatform/cluster-autoscaler](https://github.com/GoogleCloudPlatform/cluster-autoscaler)
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Athar-HQ/Athar](https://github.com/Athar-HQ/Athar)
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
+  > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
+
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1337isnot1337/solved-conjectures](https://github.com/1337isnot1337/solved-conjectures)
-  > math drop, curated by myself and 6.2-astra
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [XtrComSu/xt-forge](https://github.com/XtrComSu/xt-forge)
+  > Local agent workbench in Rust, Go, and Python for call-graph context, AST correctness auditing, bina...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mkultraware/accuretta](https://github.com/mkultraware/accuretta)
+  > A sovereign, zero-trust local AI agent and micro-IDE.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sous-labs/songe](https://github.com/sous-labs/songe)
+  > A training engine for your local model, using your idle compute
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI)
   > Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Lua,...
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [wxxsfxyzm/GalaxyBudsPort](https://github.com/wxxsfxyzm/GalaxyBudsPort)
+  > Enhance Galaxy Buds experience on HyperOS 4
+- 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [wxxsfxyzm/GalaxyBudsPort](https://github.com/wxxsfxyzm/GalaxyBudsPort) to [sekaiacg/GalaxyBudsPort](https://github.com/sekaiacg/GalaxyBudsPort)
+  > Enhance Galaxy Buds experience on HyperOS 4
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
+  > Open source implementation of Apple's SwiftUI.
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock)
@@ -72,11 +100,18 @@
 - 🍴 👤 [ybdt](https://github.com/ybdt) Forked [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) to [ybdt/RoguePlanet](https://github.com/ybdt/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
 
+### [yuchuangu85](https://github.com/yuchuangu85)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [herdr2/herdr2](https://github.com/herdr2/herdr2)
+- 🌟 👤 [yuchuangu85](https://github.com/yuchuangu85) Starred [makecindy/cindy](https://github.com/makecindy/cindy)
+  > Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [zed-industries/gpui](https://github.com/zed-industries/gpui)
   > A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [MetaCubeX/mipstack](https://github.com/MetaCubeX/mipstack)
+  > The mihomo IP stack (MIPS) is the small, pure-Go userspace IP stack developed for mihomo.
 
 
 ---
-*最后更新于 2026-11-25 03:20:23 UTC*
+*最后更新于 2026-11-25 13:51:18 UTC*
 *历史记录保存在 `archive` 目录中。*
