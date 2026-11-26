@@ -7,12 +7,6 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [onekey-sec/sasquatch](https://github.com/onekey-sec/sasquatch)
 
-### [Haleclipse](https://github.com/Haleclipse)
-- 🍴 👤 [Haleclipse](https://github.com/Haleclipse) Forked [longbridge/nsh](https://github.com/longbridge/nsh) to [Haleclipse/nsh](https://github.com/Haleclipse/nsh)
-  > Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in ...
-- 🌟 👤 [Haleclipse](https://github.com/Haleclipse) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
-  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
-
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
@@ -21,9 +15,21 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [Cd1s/safarier](https://github.com/Cd1s/safarier)
   > Native macOS multi-profile isolated WebKit browser with sing-box integration and engine-level privac...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Hidotu-Labs/AvoryOS](https://github.com/Hidotu-Labs/AvoryOS)
+  > 64 bit Open source Hobby Operating system https://discord.gg/2kdRMbjTfu
+
 ### [evilbinary](https://github.com/evilbinary)
 - 🌟 👤 [evilbinary](https://github.com/evilbinary) Starred [thu-coai/CDial-GPT](https://github.com/thu-coai/CDial-GPT)
   >  A Large-scale Chinese Short-Text Conversation Dataset and Chinese pre-training dialog models 
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [knapcio/inkling-2-mini-spark-bench](https://github.com/knapcio/inkling-2-mini-spark-bench)
+  > Same-harness comparison of public Inkling-2-Mini recipes on one NVIDIA DGX Spark: speed, lossy or no...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [youssefnoob003/SindriKit](https://github.com/youssefnoob003/SindriKit)
+  > A foundational C library for building operationally credible offensive capabilities
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+  > ⚚ The ultrawork agent with AI coworkers wired into you
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Zxlanjian/XMillet](https://github.com/Zxlanjian/XMillet)
@@ -47,5 +53,5 @@
 
 
 ---
-*最后更新于 2026-11-26 14:41:16 UTC*
+*最后更新于 2026-11-26 23:27:58 UTC*
 *历史记录保存在 `archive` 目录中。*
